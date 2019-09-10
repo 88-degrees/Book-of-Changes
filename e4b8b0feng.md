@@ -1,6 +1,6 @@
-# Feng
+# Feng ䷶
 
-Chinese: fēng 丰
+Chinese: fēng 丰 ䷶
 
 ![Feng](https://88o.io/wp-content/uploads/2018/09/55-e4b8b0feng.jpg)
 
