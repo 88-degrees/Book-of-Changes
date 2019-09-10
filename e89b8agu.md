@@ -1,7 +1,49 @@
-# Gu
+# Gu ䷑
 
-Chinese: gǔ 蛊
+Chinese: gǔ 蛊 ䷑
 
 ![Gu](https://88o.io/wp-content/uploads/2018/09/18-e89b8agu.jpg)
+
+**Gu** indicates great progress and success (to him who deals properly with the condition represented by it).
+There will be advantage in (efforts like that of) crossing the great stream. (He should weigh well, however, the events of) three days before the turning point, and those (to be done) three days after it.
+
+1. The first SIX, divided, shows (a son) dealing with the troubles caused by his father. If he be an (able) son, the father will escape the blame of having erred. The position is perilous, but there will be good fortune in the end.
+
+2. The second NINE, undivided, shows (a son) dealing with the troubles caused by his mother. He should not (carry) his firm correctness (to the utmost).
+
+3. The third NINE, undivided, shows (a son) dealing with the troubles caused by his father. There may be some small occasion for repentance, but there will not be any great error.
+
+4. The fourth SIX, divided, shows (a son) viewing indulgently the troubles caused by his father. If he go forward, he will find cause to regret it.
+
+5. The fifth SIX, divided, shows (a son) dealing with the troubles caused by his father. He obtains the praise of using (the fit instrument for his work).
+
+6. The sixth NINE, undivided, shows us one who does not serve either king or feudal lord, but in a lofty spirit prefers (to attend to) his own affairs.
+
+## Notes
+
+In the 6th Appendix it is said, They who follow another are sure to have services (to perform), and hence **Sui** is followed by **Gu**.
+But **Gu** means the having painful or troublesome services to do. It denotes here a state in which things are going to ruin, as if through poison or venomous worms;
+and the figure is supposed to describe the arrest of the decay and the restoration to soundness and vigour, so as to justify its auspice of great progress and success.
+To realise such a result, however, great efforts will be required, as in crossing the great stream; and a careful consideration of the events that have brought on the state of decay,
+and the measures to be taken to remedy it is also necessary. See Appendix I on the 'three days.'
+
+The subject of line 1, and of all the other lines, excepting perhaps 6, appears as a son. Yet the line itself is of the yin nature, and the trigram in which it plays the principal part is also yin.
+Line 2 is strong, and of the yang nature, with the yin line 5 as its proper correlate. In line 2, 5 appears as the mother; but its subject there is again a son, and the upper trigram altogether is yang. I am unable to account for these things. As is said in the note of Regis on line 2:--'Haec matris filiique denominatio ad has lineas mere translatitia est, et, ut ait commentarius vulgaris, ad explicationem sententiarum eas pro matre et filio supponere dicendum est. Nec ratio reddetur si quis in utroque hoc nomine mysterium quaerat. Cur enim aliis in figuris lineae nunc regem, nunc vasallum, jam imperii administrum, mox summum armorum praefectum referre dicantur? Accommodantur scilicet lineae ad verba sententiae et verba sententiae ad sensum, queniadmodum faciendum de methodis libri Shih King docet Mencius, V, i, ode 4.2.'
+
+We must leave this difficulty. Line 1 is weak, and its correlate 4 is also weak. What can its subject do to remedy the state of decay? But the line is the first of the figure, and the decay is not yet great.
+By giving heed to the cautions in the Text, he will accomplish what is promised.
+
+The ruler in line 5 is represented by a weak line, while 2 is strong. Thus the symbolism takes the form of a son dealing with the prevailing decay induced somehow by his mother.
+But a son must be very gentle in all his intercourse with his mother, and especially so, when constrained by a sense of duty to oppose her course. I do not think there is anything more or better to be said here.
+The historical interpretation adopted by Regis and his friends, that the father here is king Wăn, the mother Thâi-sze, and the son king Wû, cannot be maintained.
+I have searched, but in vain, for the slightest Chinese sanction of it, and it would give to Kû the meaning of misfortunes endured, instead of troubles caused.
+
+Line 3 is strong, and not central, so that its subject might well go to excess in his efforts. But this tendency is counteracted by the line's place in the trigram Sun, often denoting lowly submission.
+
+Line 4 is weak, and in an even place, which intensifies that weakness. Hence comes the caution against going forward.
+
+The weak line 5, as has been said, is the seat of the ruler; but its proper correlate is the strong 2, the strong siding champion minister, to whom the work of the hexagram is delegated.
+
+Line 6 is strong, and has no proper correlate below. Hence it suggests the idea of one outside the sphere of action, and taking no part in public affairs, but occupied with the culture of himself.
 
 # [蛊](./e89b8agu_cn.md)
