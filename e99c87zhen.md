@@ -6,17 +6,17 @@ Chinese: zhèn 震
 
 **Zhen** gives the intimation of ease and development. When (the time of) movement (which it indicates) comes, (the subject of the hexagram) will be found looking out with apprehension, and yet smiling and talking cheerfully. When the movement (like a crash of thunder) terrifies all within a hundred lî, he will be (like the sincere worshipper) who is not (startled into) letting go his ladle and (cup of) sacrificial spirits.
 
-1. The first NINE, undivided, shows its subject, when the movement approaches, looking out and around with apprehension, and afterwards smiling and talking cheerfully. There will be good fortune.
+1. The first `NINE`, undivided, shows its subject, when the movement approaches, looking out and around with apprehension, and afterwards smiling and talking cheerfully. There will be good fortune.
 
-2. The second SIX, divided, shows its subject, when the movement approaches, in a position of peril. He judges it better to let go the articles (in his possession), and to ascend a very lofty height. There is no occasion for him to pursue after (the things he has let go); in seven days he will find them.
+2. The second `SIX`, divided, shows its subject, when the movement approaches, in a position of peril. He judges it better to let go the articles (in his possession), and to ascend a very lofty height. There is no occasion for him to pursue after (the things he has let go); in seven days he will find them.
 
-3. The third six, divided, shows its subject distraught amid the startling movements going on. If those movements excite him to (right) action, there will be no mistake.
+3. The third `SIX`, divided, shows its subject distraught amid the startling movements going on. If those movements excite him to (right) action, there will be no mistake.
 
-4. The fourth NINE, undivided, shows its subject, amid the startling movements, supinely sinking (deeper) in the mud.
+4. The fourth `NINE`, undivided, shows its subject, amid the startling movements, supinely sinking (deeper) in the mud.
 
-5. The fifth SIX, divided, shows its subject going and coming amidst the startling movements (of the time), and always in peril; but perhaps he will not incur loss, and find business (which he can accomplish).
+5. The fifth `SIX`, divided, shows its subject going and coming amidst the startling movements (of the time), and always in peril; but perhaps he will not incur loss, and find business (which he can accomplish).
 
-6. The topmost SIX, divided, shows its subject, amidst the startling movements (of the time), in breathless dismay and looking round him with trembling apprehension. If he take action, there will be evil. If, while the startling movements have not reached his own person and his neighbourhood, (he were to take precautions), there would be no error, though his relatives might (still) speak against him.
+6. The topmost `SIX`, divided, shows its subject, amidst the startling movements (of the time), in breathless dismay and looking round him with trembling apprehension. If he take action, there will be evil. If, while the startling movements have not reached his own person and his neighbourhood, (he were to take precautions), there would be no error, though his relatives might (still) speak against him.
 
 ## Notes
 
