@@ -12,7 +12,7 @@ As `Classic of Changes` or `Book of Changes`, is an ancient Chinese divination t
 | * | [䷀](e4b9beqian.md) | [䷁](e59da4kun.md) | [䷂](e5b1afzhun.md) | [䷃](e89299meng.md) | [䷄](e99c80xu.md) | [䷅](e8aebcsong.md) | [䷆](e5b888shi.md) | [䷇](e6af94bi.md) | * |
 | * | qián | kūn | zhūn | méng | xū | sòng | shī | bǐ | * |
 | * | 小畜 | 履 | 泰 | 否 | 同人 | 大有 | 谦 | 豫 | * |
-| * | [䷈](e5b08fe7959cxiaoxu.md) | [䷉](e5b1a5lv.md) | [䷊](e6b3b0tai.md) | [䷋](e6b3b0tai.md) | [䷌](e5908ce4babatongren.md) | [䷍](e5a4a7e69c89dayou.md) | [䷎](e8b0a6qian.md) | [䷏](e8b1abyu.md) | * |
+| * | [䷈](e5b08fe7959cxiaoxu.md) | [䷉](e5b1a5lv.md) | [䷊](e6b3b0tai.md) | [䷋](e590a6pi.md) | [䷌](e5908ce4babatongren.md) | [䷍](e5a4a7e69c89dayou.md) | [䷎](e8b0a6qian.md) | [䷏](e8b1abyu.md) | * |
 | * | xiǎo xù | lǚ | tài | pǐ | tóng rén | dà yǒu | qiān| yǜ | * |
 | * | 随 | 蛊 | 临 | 观 | 噬嗑 | 贲 | 剥 | 复 | * |
 | * | [䷐](e99a8fsui.md) | [䷑](e89b8agu.md) | [䷒](e4b8b4lin.md) | [䷓](e8a782guan.md) | [䷔](e599ace59791shike.md) | [䷕](e8b4b2bi.md) | [䷖](e589a5bo.md) | [䷗](e5a48dfu.md) | * |
