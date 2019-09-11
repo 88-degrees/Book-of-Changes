@@ -18,7 +18,7 @@ A line **- -** is called `SIX`, divided.
 Read the HEXAGRAM from bottom to top.
 For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
 
-(Caution: Safari in iPhone can not show the character ䷇ correctly. Chrome is okay.)
+**Caution:** Browser in iOS can not show the character ䷇ correctly. Android and Mac OSX is Okay.
  
 | * | * | * | * | * | * | * | * | * | * |
 | - | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | - |
