@@ -1,45 +1,226 @@
-# Jian ䷦
+# 蹇 ䷦
 
-Chinese: jiǎn 蹇 ䷦
+蹇（jiǎn）卦展示“蹇”形势下各种变化的可能性。“蹇”是跛的意思。蹇卦的代号是1:2。
+主卦是艮卦，卦象是山，阳数是1；客卦是坎卦，卦象是水，阳数是2。主客双方都消极被动，主方稍弱于客方，主方应当采取适当主动，与客方沟通，有可能获得某些利益。蹇卦在周易中是第39卦。左图中，红色表示当位的爻，天蓝色表示不当位的爻，箭头表示有应。
 
-![Jian](https://88o.io/wp-content/uploads/2018/09/39-e8b987jian.jpg)
+卦    位
+第39卦
+卦    象
+下下卦
 
-In (the state indicated by) **Jian** advantage will be found in the south-west, and the contrary in the north-east. It will be advantageous (also) to meet with the great man.
-(In these circumstances), with firmness and correctness, there will be good fortune.
+简介
 
-1. From the first SIX, divided, we learn that advance (on the part of its subject) will lead to (greater) difficulties, while remaining stationary will afford ground for praise.
+蹇卦第三十九
 
-2. The second SIX, divided, shows the minister of the king struggling with difficulty on difficulty, and not with a view to his own advantage.
+蹇，利西南，不利东北。利见大人，贞吉。初六，往蹇，来誉。
+〔1〕蹇 卦名。原义为跛，引申为困难、艰险，行动不便。
 
-3. The third NINE, undivided, shows its subject advancing, (but only) to (greater) difficulties. He remains stationary, and returns (to his former associates).
+第39卦水山蹇（蹇卦）险阻在前
+下下卦
 
-4. The fourth SIX, divided, shows its subject advancing, (but only) to (greater) difficulties. He remains stationary, and unites (with the subject of the line above).
+象曰：大雨倾地雪满天，路上行人苦又寒，拖泥带水费尽力，事不遂心且耐烦。
 
-5. The fifth NINE, undivided, shows its subject struggling with the greatest difficulties, while friends are coming to help him.
+这个卦是异卦（下艮上坎）相叠。坎为水，艮为山。山高水深，困难重重，人生险阻，见险而止，明哲保身，可谓智慧。蹇，跋行艰难。
+事业：诸事开头难，坚持下去，会有好的结果。人生不易，首先得求诸自己，修德养性。志高自信，奋勇进取。逢到困难，得求友人相助，行动不可冒险，必以柔克刚，待机候时，量力而行。
 
-6. The topmost SIX, divided, shows its subject going forward, (only to increase) the difficulties, while his remaining stationary will be (productive of) great (merit).
-There will be good fortune, and it will be advantageous to meet with the great man.
+经商：逐步起业，冒险行事，自寻苦恼。宜加强商业道德，真诚同他人合作，陷入困境时，不得见死不救，而应奋不顾身。联合行动，可活跃于市场竞争之中。
 
-## Notes
+求名：循序渐进，加强自身修道。居静观动，待变，俟机而动，能进则进。内心坦然，不可为追逐名利而冒险。与贤能结合，追随高人，必能转危为安。
 
-**Jian** is the symbol for incompetency in the feet and legs, involving difficulty in walking; hence it is used in this hexagram to indicate a state of the kingdom which makes the government of it an arduous task. How this task may be successfully performed, now by activity on the part of the ruler, and now by a discreet inactivity:--this is what the figure teaches, or at least gives hints about. For the development of the meaning of the symbolic character from the structure of the lineal figure, see Appendixes I and II.
+外出：出门可能有难，利于西南行。如外出遇难，可得救助，转危为安。
 
-The Thwan seems to require three things--attention to place, the presence of the great man, and the firm observance of correctness--in order to cope successfully with the difficulties of the situation. The first thing is enigmatically expressed, and the language should be compared with what we find in the Thwan of hexagrams 2 and 40. Referring to Figure 2, in Plate III, we find that, according to Win's arrangement of the trigrams, the southwest is occupied by Khwăn ( ), and the north-east by Kăn ( ). The former represents the champaign country; the latter, the mountainous region. The former is easily traversed and held; the latter, with difficulty. The attention to place thus becomes transformed into a calculation of circumstances; those that promise success in an enterprise, which should be taken advantage of, and those that threaten difficulty and failure, which should be shunned.
+婚恋：不很顺利，不得急，宜慎重选择。但应有自知之明。
 
-This is the generally accepted view of this difficult passage. The Khang-hsî editors have a view of their own. I have been myself inclined to find less symbolism in it, and to take the southwest as the regions in the south and west of the kingdom, which we know from the Shih were more especially devoted to Wăn and his house, while the strength of the kings of Shang lay in the north and east.
+决策：艰难不利。但可视为考验。奋进向前，充满信心，切勿自寻苦恼，交结贤人，相互帮助，坚守中正之道，可遇难呈祥，结得善果。
+解读：
 
-'The idea of "the great man," Mencius's "minister of Heaven,"' is illustrated by the strong line in the fifth place, having for its correlate the weak line in 2. But favourableness of circumstances and place, and the presence of the great man do not dispense from the observance of firm correctness. Throughout these essays of the Yî this is always insisted on.
+蹇。利西南，不利东北。利见大人。贞吉。
+白话
 
-Line 1 is weak, whereas it ought to be strong as being in an odd place. If its subject advance, he will not be able to cope with the difficulties of the situation, but be overwhelmed by them. Let him wait for a more favourable time.
+蹇卦：筮遇此卦，利西南行，不利东北行。利见贵族王公，获吉祥之兆。
+解读
 
-Line 2 is weak, but in its proper place. Its correlation with the strong 5, and consequent significance, are well set forth.
+蹇，卦名。蹇，《彖辞》“难也。”蹇的原意是跛（bo），走路不方便，引申为前进不便、困难的意思。指明要克服困难需要伟大人物协助，而且必须坚持正道，才能得救。屯卦因动而生难，蹇卦因止而发现难。两者的含义完全不同。
 
-Line 3 is strong, and in a place of strength; but its correlate in 6 is weak, so that the advance of its subject would be unsupported. He waits therefore for a better time, and cherishes the subjects of the two lines below, who naturally cling to him.
+39.2
 
-Line 4 is weak, and, though in its proper place, its subject could do little of himself. He is immediately below the king or great man, however, and cultivates his loyal attachment to him, waiting for the time when he shall be required to act.
+《彖》曰：蹇，难也，险在前也。见险而能止。知矣哉。蹇“利西南”，往得中也。“不利东北”，其道穷也。“利见大人”，往有功也。当位“贞吉”，以正邦也。蹇之时，用大矣哉。
+白话
 
-Line 5 is the king, the man great and strong. He can cope with the difficulties, and the subjects of 2 and the other lines of the lower trigram give their help.
+《彖辞》说：蹇，艰难的意思。蹇的上卦为坎，坎为险；下卦为艮，艮为山。“险阻在前”是蹇卦的卦象。见险而能休止不前，这是明智之举。蹇卦辞说：“利于西南行”，由于西南为坤方，坤为地，地平坦，西南之行是行于正道。卦辞说：“不利于东北行”，由于东北为艮方，艮为山，山险峻，东北之行则困穷不通。卦象又显示，“会见贵族王公则有利”，所往有功。六二之爻与九五之爻各居阴阳之位，有得位之象，像君臣各正其位，各持中正祥和之德，从而国家能得到治理。蹇的卦义是见险而止，进止得时，在生活中意义是重大的。
 
-The action of the hexagram is over; where can the weak 6 go forward to? Let him abide where he is, and serve the great man immediately below him. So shall he also be great;--in meritorious action at least.
+释卦：
 
-# [蹇](./e8b987jian_cn.md)
+蹇，六十四卦第三十九卦，阐明涉济艰难的道理。
+蹇卦下艮上坎，艮为山，坎为水，山阻水险，水流不畅，故为“蹇”。卦中共有两阳爻都处于不利地位。“九五”之尊陷于坎险之中，难以自拔；“九三”之阳爻在艮卦之上，居互坎之中，亦处于险境。阳刚受小人包围和欺凌，处于涉济艰难之境地。这时需要有个德高望重之人率领渡过难关，故“利见大人”。“利西南。不利东北”，多解为：西南是坤方为顺、为众、为利，东北是艮方为止、为不利。可卦象并没有坤，又无法与爻辞相衔接，不能自圆其说。
+事例：
+
+从卦辞“利见大人”和卦中“六二”与“九五”的关系上来看，此卦说的是文王以韬晦之策事殷之事。
+
+周原是商的一个附佣国。文王因扩张实力引起纣王不满，被囚在羑里达七年之久。文王大臣闳天等求得美女、奇物、良马进献，才被赦免，并封之为西伯。文王对纣王毕恭毕敬，“上贡必适，祭祀必敬”，纣王让他征讨殷之叛国。文王就借此机会不断扩大自己的势力，连伐戌、密、邗、崇数国。周在殷都朝歌西南，而文王所征伐的地方也在殷西南，故卦辞说“利西南”。“不利东北”是与西南相对而言的，商在周东北，故有此说。这也就是坤卦辞所说的“西南得朋，东北丧朋”。殷西南属中原兵家必争之地，得之则可为伐商做准备，从战略上来看，这是有利于周长远发展的。
+六爻：
+“初六”以阴柔处蹇之始，上无所应，居艮之下受阻，进则入坎之险地，因此诫之“往蹇来誉”，即在这艰难之时不妄动待时为佳。文王骗取了纣王信任后，纣王“赐之弓矢斧钺，使西伯得征服”，“来誉”即是说文王得到了信任，获得了征讨的大权。
+“六二”以柔顺居中得正，顺应“九五”之尊，是一个中正君王可以信任的大臣，故称之为“王臣”。“九五”陷于坎险之中唯有“六二”能够解难。“六二”以阴柔而担此重任，有些力不从心，难度很大，故“蹇蹇”。这里用了两个“蹇”，是分属王和臣的。“九五”陷于坎险之中是“蹇”；而“六二”居艮卦之中，前是坎险，又与上下爻互为坎险，亦是“蹇”。但他却“匪躬之故”，即不顾个人得失，鞠躬尽力，竭力救主。爻辞没有断吉凶或成败，意为能这样做就难能可贵了！
+“九三”处两体之中，前往虽与“上六”相应，但下艮为止，上坎为险，“往蹇”则难，还是“来反”，安心下比“六二”，不要妄进。
+“六四”以阴居柔得位，上承“九五”，似与“六二”一样的大臣。想往顺承于“九五”，可四居上坎之下，与五均陷入在上坎之中，故“往蹇”亦难。然四又下乘“九三”，“来连”则顺从于三，而三又与二与初相连，结成同志，共救“九五”之尊。
+
+“九五”陷坎险之中，与下二爻互为离卦，处于水深火热之中，犹如文王被囚而蒙大难，故说“大蹇”。初、三、上三爻都是“往”有难，可五却不往还有大难，何也？因他被囚于坎险之中，失去了人身自由，想动也动不得。但五与二相应，二“匪躬”来救，三又联合二及初众阴相济，“朋来”拯己于水火之中。“西伯之臣闳夭之徒，求美女奇物善马以献纣，纣仍赦西伯”（《史记·殷本纪》）。
+“上六”处卦之极，开始脱离了险境，可再往前走也就没有路了，“往蹇来誉”，返回来归顺“九五”，五已被众朋所救，险情排除，获得了硕大胜利，故“吉”，全卦至此才出现了吉兆。这个时候正如卦辞所说的“利现大人”，明君即将出现。“西伯归，乃阴修德行善诸侯多叛纣而往归西伯，西伯滋大”（同上），达到了“三分天下有其二”（《论语·泰伯》），为灭商做了战略上的准备，这就是卦辞所说的“利西南”。
+意义：
+
+遁、明夷、蹇以及下面的困卦，说的都是当处于艰难险境时要用韬光养晦之法，保存自己的实力，以求东山再起，但各卦所处的环境及其采取的对策不相同。遁卦说的是在受到小人欺凌、正不压邪时，该躲避时要躲避。明夷卦所处的政治环境比遁卦更恶劣，已达到政治昏暗的地步，此时要自晦其明，守正不移。蹇卦讲的是在困境中不要消极等待，要抓住时机有所作为。一是在遇到艰难险阻之时，要审时度势，不要轻举妄动，“来誉”、“来反”、“来连”这些作法都是可取的；二是要同舟共济，“匪躬自故”、“朋来”、“来硕”，即大家都不顾私利，团结一致，立功建业；三是“利见大人”，要有“九五”那样的刚正不阿、坚韧不拔的人率领大家共渡难关。看来《易经》作者不主张消极地“遁”。
+象辞爻数一
+
+
+蹇，利西南，不利东北。利见大人，贞吉。
+【白话】蹇卦，象征陷入困境，难以前进；面对这种情况，利于向西南行动，不利于向东北行动。此时利于出现大人物，只要能够坚守正道，始终如一，就一定可以获得吉祥。
+
+《象》曰：“山上有水，蹇；君子以反身修德。
+
+【白话】《象辞》说：《蹇卦》的卦象是（山）下坎（水）上，为高山上积水之表象，象征艰难险阻，行动困难。面对这种情况，君子应该很好地反省自己，提高自己的品德修养，以通过自身的努力渡过困境。
+
+初六，往蹇，来誉。
+
+【白话】初六，前进将会进入险境，后退将得到赞美。
+
+《象》曰：“往蹇来誉”，宜待也。
+
+【白话】《象辞》说：“前进将会进入险境，后退将得到赞美”，处在这种情况下，最好是安心等待，寻找时机，不要轻举妄动。
+
+六二，王臣蹇蹇，匪躬之故。
+
+【白话】六二，臣子为了解救君王的困境努力奔走在危难之中。如果是为了自己，他是用不着这样做的。
+
+《象》曰：“王臣蹇蹇”，终无尤也。
+【白话】《象辞》说：“臣子为了解救君主的困境而努力奔走在危难之中”，那么结果将不会有什么过失。
+
+九三，往蹇，来反。
+
+【白话】九三，前进陷于危难，最好还是退回原地，不要再继续往前走了。
+
+《象》曰：“往蹇来反”，内喜之也。
+
+【白话】《象辞》说：“前进将陷于危难，最好还是回原地”，这样内部的力量必会来依附于己。
+
+象辞爻数二
+
+
+六四，往蹇，来连。
+
+【白话】六四，如果它要奔赴危难，就该联合其他的力量，只有这样，才有可能解救危难。
+
+《象》曰：“往蹇来连”位当实也。
+【白话】《象辞》说：“前去解救危难，应该联合其他的力量”，是指这一爻所处的位置决定了他应该这样去做。
+
+九五，大蹇，朋来。
+
+【白话】九五，处境极为艰难，却有众多的人来协助他渡过危难。
+
+《象》曰：“大蹇朋来”以中节也。
+
+【白话】《象辞》说：“处境极为艰难，却有众多的人来协助他渡过危难”，表明他能够坚守正道，行为合乎准则，所以有众多的人前来协助他。
+
+上六，往蹇，来硕；吉；利见大人。
+【白话】上六，如果前进就会陷入险境，退回来却可以大有收获；这样做就会吉祥如意；有利于出现大人物。
+
+《象》曰：“往蹇来硕”，志在内也；“利见大人”，以从贵也。
+
+【白话】《象辞》说：“如果前进就会陷入险境，退回来却可以大有收获”，是因为关键在于首先要联合自己内部的各种力量才能够共同度过艰难时世。“利于出现大人物”，说明应当追随尊贵的君主去建功立业。
+经文：
+
+蹇：利西南，不利东北。利见大人，贞吉。
+初六：往蹇，来誉。
+
+六二：王臣蹇蹇，匪躬之故。
+九三：往蹇，来反。
+
+六四：往蹇，来连。
+
+九五：大蹇，朋来。
+
+上六：往蹇，来硕，吉。利见大人。
+注释：
+
+①蹇：卦名。蹇（jiǎn），原义为跛，引申为行动不便，有险难之意。
+
+②利西南，不利东北：往西南去有利，往东北去不利。古人以为新月产生在西南，残月消失在东北，故以西南有利，东北不利。
+
+③往蹇，来誉：往遇险难，得来荣誉。
+
+④王臣蹇蹇，匪躬之故：王的臣子，历尽重重险难，并不是为了自身的缘故。匪，非。躬，自身。
+⑤往蹇，来反：往遇险难，（不如）返回来。反，返。
+
+⑥往蹇，来连：往遇险难，来亦险难。“连”通“辇”，有险难之意。
+
+⑦大蹇，朋来：大难中，朋友来助。
+
+⑧往蹇，来硕：往遇险难，来则从容。硕，大。在此有从容以待之意。
+
+今译：
+
+蹇：利西南，不利东北。利于见大人。占问则吉。
+
+初六：往遇险阻，却得来荣誉。
+
+六二：王的臣子，历尽重重艰险，不是为了自身的缘故。
+
+九三：往遇险难，（不如）返回来。
+
+六四：往遇险难，来亦险难。
+
+九五：大难中朋友来助。
+
+上六：往遇险难，来则人容，吉。宜于见大人。
+蹇，难也，险在前也。
+
+见险而能止。知矣哉。
+
+蹇利西南，往得中也。
+
+不利东北，其道穷也。
+
+利见大人，往有功也。
+
+当位贞吉，以正邦也。
+
+蹇之时，用大矣哉。
+
+《哲学易经》之《蹇卦》---李建明
+
+(2014-06-14 16:53:40)[编辑][删除]转载▼
+
+标签：
+
+　　蹇：利西南，不利东北。利见大人，贞吉。《彖》日：蹇，难也，险在前也。见险而能止，知矣哉。蹇，利西南，往得中也。不利东北，其道穷也。利见大人，往有功也。当位贞吉，以正邦也。蹇之时用大矣哉。《象》日：山上有水，蹇。君子以反身修德。蹇卦
+　　
+　　蹇，负重之象。“我不入地狱，谁入地狱。”则必使人肃敬而畏服。故君子当肩负天下，不辞其艰，则必大人造而功德见。是故君子当为天下真理而战，为天下大道树帜，“面向西南，不利东北”正道而行，是以中贞而吉祥也。
+　　
+　　“人生自古谁无死，留取丹心照汗青。”人总有一死，但有重于泰山轻于鸿毛，故君子立身不可不慎。如能以道义和社会责任为己任，那就不能和常人相比评论了。
+　　
+　　《彖》辞说：蹇就是难的意思。有险在前所以为难，遇难负重而能平定一切，非圣贤智能者不能。因此面对险难，只要理论是正确的道义是人心所想的就当为此而战，往得中也。如行为畏缩，道义不明，则相去千里矣。故君子当履行其艰排忧解难于天下则必大人造而功德见，往有功也。是以君子当当位而贞，履行其艰，以天下为己任，则位乎天位可正天下之邦矣。蹇，作为险而难。君子何去何从其义大矣战，它决定着一个人的品行和德操。
+　　
+　　《象》辞说：山上有水，不因其艰，从而滋生了万物，这是《蹇》之象。是以君子观之思道行之不易，从而当反求诸已修身养德。孔子说“已所不愿，勿施于人。”人如能常以此洗心，则必自励其艰而身修德建矣。
+　　
+　　初六：往蹇来誉。《象》日：往蹇来誉，宜待也。
+　　
+　　“吃得苦中苦，方为人上人。”一切的荣耀来之于艰苦的奋斗和不懈的努力。因此面对正确的路线我们当持之以恒坚持不懈，必将创造出令人瞩目的辉煌和得到人们的肯定、褒奖和尊重。
+　　
+　　六二：王臣蹇蹇，匪躬之故。《象》日：王臣蹇蹇，终无尤也。
+　　王公大臣当以天下为己任，中饱私襄也就失去了为政的意义。天下者，子民也。得天下者，君王也。君不为民，则天下大乱。
+　　荀子说：“天之生民，非为君也：天之立君，以为民也。
+　　
+　　”故王公者当为民公仆，全心全意为民服务。如为官不为民办事，只不过是衣冠盗、民中贼，乱由此可起矣，民由此可反矣。
+　　
+　　九三：往蹇来反。《象》日：往蹇来反，内喜之也。
+　　君子不以逸丧志，不以安失德，当时励其志，时思其艰，才能身心交益而内喜不断。《孟子》日：“人之有德慧术知者，恒存乎疢疾。独孤臣孽子，其操心也危，其虑患也深，故达。”此之谓也。
+　　
+　　六四：往蹇来连。《象》日：往蹇来连，位当实也。
+　　思树事之不易，就不得不强调工作的艰巨性。只有不断地强调工作的艰巨性，才能凝聚起冲天的力量。故君子当深临其境，不辞其艰，则位实而志坚。
+　　
+　　九五：大蹇朋来。《象》日：大蹇朋来，以中节也。
+　　肩负众难，这是为君者应有的责任。君子若一昌导，人们必相拥而来。大蹇，大难也。大难在前，民必奋之。故君子当节乎已身，中正行事，才能众志成城以御天下。
+　　
+　　上六：往蹇来硕，吉，利见大人。《象》日：往蹇来硕，志在内也。利见大人，以从贵也。
+　　只有艰苦奋斗，才能开创辉煌，故君子行进必将造就伟人品格。因此我们不要被困难所吓倒，我们首先要战胜自己的心魔，坚强自己的意志，才能在前进的道路上日益辉煌和受到人们的敬仰与爱戴。故君子当以此作为行事准则，则大人造也。
+
+# [Jian](./e8b987jian.md)
