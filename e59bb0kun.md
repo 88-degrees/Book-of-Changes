@@ -2,7 +2,7 @@
 
 Chinese: kùn 困 ䷮
 
-![Kun](https://88o.io/wp-content/uploads/2018/09/47-e59bb0kun.jpg)
+![Kun](https://88o.io/wp-content/uploads/2019/11/47-e59bb0kun.jpg)
 
 In (the condition denoted by) **Kun** there may (yet be) progress and success. For the firm and correct, the (really) great man, there will be good fortune. He will fall into no error. If he make speeches, his words cannot be made good.
 
