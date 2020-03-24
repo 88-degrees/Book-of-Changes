@@ -2,7 +2,7 @@
 
 噬嗑卦是《易经》六十四卦第21卦。
 
-<img src="https://bkimg.cdn.bcebos.com/pic/9e3df8dcd100baa152be561a4610b912c9fc2e84?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U5Mg==,xp_5,yp_5" width=160 alt="噬嗑" align=left>
+<img src="https://i.zgjm.net/d/file/20170331/70c4765aa6a188fcccaa1f653815adb0.jpg" width=160 alt="噬嗑" align=left>
 
 噬嗑（shì kè）为上下颚咬合，咀嚼。火雷噬嗑（噬嗑卦）刚柔相济。这个卦是异卦（下震上离）相叠。离为阴卦；震为阳卦。
 
