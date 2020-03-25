@@ -24,7 +24,7 @@ For (the realisation of what is taught in) **Jiaren** , (or for the regulation o
 
 Line 1 is strong, and in a strong place. It suggests the necessity of strict rule in governing the family. Regulations must be established, and their observance strictly insisted on.
 
-Line 2 is weak, and in the proper place for it,--the centre, moreover, of the lower trigram. It fitly represents the wife, and what is said on it tells us of her special sphere and duty; and that she should be unassuming in regard to all beyond her sphere; always being firm and correct. See the Shih, III, 350.
+Line 2 is weak, and in the proper place for it, -- the centre, moreover, of the lower trigram. It fitly represents the wife, and what is said on it tells us of her special sphere and duty; and that she should be unassuming in regard to all beyond her sphere; always being firm and correct. See the Shike [䷔](./e599ace59791shike.md), III.
 
 Line 3 is strong, and in an odd place. If the place were central, the strength would be tempered; but the subject of the line, in the topmost place of the trigram, may be expected to exceed in severity. But severity is not a bad thing in regulating a family;--it is better than laxity and indulgence.
 
