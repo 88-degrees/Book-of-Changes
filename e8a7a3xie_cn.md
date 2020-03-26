@@ -274,4 +274,6 @@
 六五：君子彼捆起后又被解开，吉利。小人将受到惩罚。
 上六：王公贵族在高高的城墙上射中一只鹰，并抓住了。这 没有什么不吉利。
 
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no40leishuijie.png">
+
 # [Xie](./e8a7a3xie.md)
