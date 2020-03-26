@@ -218,6 +218,8 @@
 
 ### 婚姻卦
 
+<img src="https://bkimg.cdn.bcebos.com/pic/2f738bd4b31c8701f5ff3902267f9e2f0608ff8d?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U4MA==,xp_5,yp_5">
+
 《周易》中有五个卦是取自男女婚姻关系（爻辞不计），这五个卦是咸、恒、姤、渐、归妹。五个卦同是讲夫妇、男女关系，又各有不同的侧重。
 这五个婚姻卦的特点分别是：咸卦是自然属性，恒卦是道德属性，姤卦是失德属性，渐卦是礼仪属性，归妹是制度属性。
 
