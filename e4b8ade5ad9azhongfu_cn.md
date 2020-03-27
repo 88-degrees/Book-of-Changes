@@ -2,7 +2,7 @@
 
 中孚（zhōng fú）卦，是易经六十四卦中第61卦，风泽中孚（中孚卦），诚信立身。
 
-<img src="https://i.zgjm.net/d/file/20170331/c545d567e73fe6d2180965fc9a679f14.jpg" width=160 alt="中孚">
+<img src="https://i.zgjm.net/d/file/20170331/c545d567e73fe6d2180965fc9a679f14.jpg" width=160 alt="中孚" align=left>
 
 这个卦是异卦（下兑上巽）相叠。孚（fú）本义孵，孵卵出壳的日期非常准确，有信的意义。
 卦形外实内虚，喻心中诚信，所以称中孚卦。这是立身处世的根本。
@@ -241,7 +241,7 @@
 
 盖烈夫信奉“中孚”精神，他说：“中孚”表达内心诚信，《易经》认为，诚信是立身处世的根本，一切道德的根源。中孚卦的精神，后来被孔子和儒家发扬光大。《中庸》把“中孚” 视为思想体系的最高范畴，说：“诚者，天之道也；诚之者，人之道也。”认为：“诚”是宇宙大道；实行“诚”则是为人之天道。至诚，可以感天化物，感地化人。诸葛亮之所以领导成功，就得力于他的“开诚心，布公道，善待人”。松下幸之助集一生之经验，凝聚了四个字，就是“至诚如神”。因此，盖烈夫崇尚“中孚”，迷信“中孚”，奉行“中孚”，于是，盖烈夫把职业精神定义为“中孚精神”。
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no61fengzezhongfu.png">
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no61fengzezhongfu.png" align=left>
 
 ### 《断易天机》解
 
@@ -329,7 +329,7 @@
 
 风泽中孚变卦风水涣卦
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_1-1.png">
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_1-1.png" align=left>
 
 初九爻动变得[周易第59卦：风水涣](./e6b6a3huan_cn.md)。这个卦是异卦（下坎上巽）相叠。风在水上行，推波助澜，四方流溢。涣，水流流散之意。象征组织和人心涣散，必须用积极的手段和方法克服，战胜弊端，挽救涣散，转危为安。
 
