@@ -327,7 +327,7 @@
 
 ### 初九变卦：风泽中孚 变卦 风水涣
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_1-1.png" height=66 align=left>
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_1-1.png" align=left>
 
 初九爻动变得[周易第59卦：风水涣](./e6b6a3huan_cn.md)。
 ```
@@ -363,7 +363,7 @@
 
 ### 九二变卦：风泽中孚 变卦 风雷益
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_2.png" height=66 align=left>
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_2.png" align=left>
 
 九二爻动变得[周易第42卦：风雷益](./e79b8ayi_cn.md)。
 ```
@@ -399,7 +399,7 @@
 
 ### 六三变卦：风泽中孚 变卦 风天小畜
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_3.png" heigth=66 align=left>
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_3.png" align=left>
 
 六三爻动变得[周易第9卦：风天小畜](./e5b08fe7959cxiaoxu_cn.md)。
 ```
@@ -435,7 +435,7 @@
 
 ### 六四变卦：风泽中孚 变卦 天泽履
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_4.png" height=66 align=left>
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_4.png" align=left>
 
 六四爻动变得[周易第10卦：天泽履](./e5b1a5lv_cn.md)。
 ```
@@ -472,7 +472,7 @@
 
 ### 九五变卦：风泽中孚 变卦 山泽损
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_5.png" height=66 align=left>
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_5.png" align=left>
 
 九五爻动变得[周易第41卦：山泽损](./e68d9fsun_cn.md)。
 ```
@@ -508,7 +508,7 @@
 
 ### 上九变卦：风泽中孚 变卦 水泽节
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_6.png" height=66 align=left>
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/61_6.png" align=left>
 
 上九爻动变得[周易第60卦：水泽节](./e88a82jie_cn.md)。
 ```
