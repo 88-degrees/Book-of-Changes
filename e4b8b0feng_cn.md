@@ -1,6 +1,6 @@
 # 丰 ䷶
 
-<img src="http://pic.baike.soso.com/p/20140624/20140624231324-1247806349.jpg" width=160 alt="丰" align=left>
+<img src="https://i.zgjm.net/d/file/20170331/ea306866698a28633a18a60d5e3a2bd4.jpg" width=160 alt="丰" align=left>
 
 丰（fēng）是5:4卦的卦名，5:4是丰卦的代号。
 
