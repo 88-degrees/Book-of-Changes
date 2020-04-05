@@ -544,6 +544,8 @@
 
 ### 初九变卦：雷泽归妹 变卦 雷水解卦
 
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_1.png" align=left>
+
 初九爻动变得周易第40卦：雷水解。
 
 这个卦是异卦（下坎上震）相叠。
@@ -580,6 +582,8 @@
 
 ### 九二变卦：雷泽归妹 变卦 震为雷
 
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_2.png" align=left>
+
 九二爻动变得周易第51卦：震为雷。
 
 这个卦是同卦（下震上震）相叠。
@@ -613,6 +617,8 @@
 - 身体：待时可愈。
 
 ### 六三变卦：雷泽归妹 变卦 雷天大壮
+
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_3.png" align=left>
 
 六三爻动变得周易第34卦：雷天大壮。
 
@@ -650,6 +656,8 @@
 
 ### 九四变卦：雷泽归妹 变卦 地泽临
 
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_4.png" align=left>
+
 九四爻动变得周易第19卦：地泽临。
 
 这个卦是异卦（下兑上坤）相叠。
@@ -683,6 +691,8 @@
 - 身体：半月可愈。
 
 ### 六五变卦：雷泽归妹 变卦 兑为泽
+
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_5.png align=left>
 
 六五爻动变得周易第58卦：兑为泽。
 
@@ -719,6 +729,8 @@
 - 身体：虚劳失血，不治之象。
 
 ### 上六变卦；雷泽归妹 变卦 火泽睽
+
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_6.png" align=left>
 
 上六爻动变得周易第38卦：火泽睽。
 
