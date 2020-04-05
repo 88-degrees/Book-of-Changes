@@ -546,7 +546,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_1.png" align=left>
 
-初九爻动变得周易第40卦：雷水解。
+初九爻动变得[第40卦：雷水解](./e8a7a3xie_cn.md)。
 
 这个卦是异卦（下坎上震）相叠。
 
@@ -584,7 +584,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_2.png" align=left>
 
-九二爻动变得周易第51卦：震为雷。
+九二爻动变得[第51卦：震为雷](./e99c87zhen_cn.md)。
 
 这个卦是同卦（下震上震）相叠。
 
@@ -620,7 +620,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_3.png" align=left>
 
-六三爻动变得周易第34卦：雷天大壮。
+六三爻动变得[第34卦：雷天大壮](./e5a4a7e5a3aedazhuang_cn.md)。
 
 这个卦是异卦（下乾上震）相叠。
 
@@ -658,7 +658,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_4.png" align=left>
 
-九四爻动变得周易第19卦：地泽临。
+九四爻动变得[第19卦：地泽临](./e4b8b4lin_cn.md)。
 
 这个卦是异卦（下兑上坤）相叠。
 
@@ -692,9 +692,9 @@
 
 ### 六五变卦：雷泽归妹 变卦 兑为泽
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_5.png align=left>
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_5.png" align=left>
 
-六五爻动变得周易第58卦：兑为泽。
+六五爻动变得[第58卦：兑为泽](./e58591dui_cn.md)。
 
 这个卦是同卦（下泽上泽）相叠。
 
@@ -732,7 +732,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_6.png" align=left>
 
-上六爻动变得周易第38卦：火泽睽。
+上六爻动变得[第38卦：火泽睽](./e79dbdkui_cn.md)。
 
 这个卦是异卦（下兑上离）相叠。
 
