@@ -666,7 +666,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_4.png" align=left>
 
-九四爻动变得周易第46卦：地风升。
+九四爻动变得[第46卦：地风升](./e58d87sheng_cn.md)。
 
 这个卦是异卦（下巽上坤）相叠。
 
@@ -704,7 +704,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_5.png" align=left>
 
-六五爻动变得周易第28卦：泽风大过。
+六五爻动变得[第28卦：泽风大过](./e5a4a7e8bf87daguo_cn.md)。
 
 这个卦是异卦（下巽上兑）相叠。
 
@@ -740,7 +740,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_6.png" align=left>
 
-上六爻动变得周易第50卦：火风鼎。
+上六爻动变得[第50卦：火风鼎](./e9bc8eding_cn.md)。
 
 这个卦是异卦（下巽上离）相叠。
 
