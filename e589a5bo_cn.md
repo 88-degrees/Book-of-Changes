@@ -920,7 +920,7 @@
 
 ### 六三变卦：山地剥 变卦 艮为山
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/23_3.png" >
+<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/23_3.png" align=left>
 
 六三爻动变得[第52卦：艮为山](./e889aegen_cn.md)。
 
