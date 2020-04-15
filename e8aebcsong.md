@@ -4,7 +4,7 @@ Chinese: sòng 讼 ䷅
 
 ![Song](https://88o.io/wp-content/uploads/2018/09/06-e8aebcsong.jpg)
 
-**Song** intimates how, though there is sincerity in one's contention,
+**Song(䷅)** intimates how, though there is sincerity in one's contention,
 he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution,
 there will be good fortune, while, if he must prosecute the contention to the (bitter) end, there will be evil. It will be advantageous to see the great man; it will not be advantageous to cross the great stream.
 
@@ -35,7 +35,7 @@ Line 4 is strong, and not in the centre; so that we are to conceive of its subje
 
 Line 5 has every circumstance in favour of its subject.
 
-Line 6 is strong and able to contend successfully; but is there to be no end of striving? Persistence in it is sure to end in defeat and disgrace. The contender here might receive a reward from the king for his success; but if he received it thrice in a morning, thrice it would be taken from him again. As to the nature of the reward here given, see on the Lî Kî, X, ii, 32.
+Line 6 is strong and able to contend successfully; but is there to be no end of striving? Persistence in it is sure to end in defeat and disgrace. The contender here might receive a reward from the king for his success; but if he received it thrice in a morning, thrice it would be taken from him again. As to the nature of the reward here given, see on the [Lî Kî, X, ii, 32](./https://www.sacred-texts.com/cfu/liki/liki10.htm).
 
 P. Regis explains several of the expressions in the Text, both in the Thwan and the Hsiang, from the history of king Wăn and his son king Wû. Possibly his own circumstances may have suggested to Wăn some of the Thwan; and his course in avoiding a direct collision with the tyrant Shâu, and Wû's subsequent exploits may have been in the mind of the duke of Kâu. Some of the sentiments, however, cannot be historically explained. They are general protests against all contention and strife.
 
