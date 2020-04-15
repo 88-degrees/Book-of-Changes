@@ -4,13 +4,13 @@ The Orderly Sequence of the Hexagrams  a
 
 ## SECTION I
 
-1-3. When there were heaven and earth, then afterwards all things were produced. What fills up (the space) between heaven and earth are (those) all things. Hence (Khien and Khwăn) are followed by Kun 1. Kun denotes filling up.
+1-3. When there were heaven and earth, then afterwards all things were produced. What fills up (the space) between heaven and earth are (those) all things. Hence ([Qian(䷀)](e4b9beqian.md) and [Kun(䷁)](e59da4kun.md)) are followed by [Zhun(䷂)](e5b1afzhun.md) 1. [Zhun(䷂)](e5b1afzhun.md) denotes filling up.
 
-3-6. Kun is descriptive of things on their first production. When so produced, they are sure to be in an undeveloped condition. Hence Kun is followed by Măng. Măng is descriptive of what is undeveloped,--the young of creatures and things. These in that state require to be nourished. Hence Măng is followed by Hsü. Hsü is descriptive of the way in which meat and drink (come to be supplied) 2. Over meat and drink there are sure to be contentions 2. Hence Hsü is followed by Sung.
+3-6. [Zhun(䷂)](e5b1afzhun.md) is descriptive of things on their first production. When so produced, they are sure to be in an undeveloped condition. Hence Kun is followed by [Meng(䷃)](e89299meng.md). Măng is descriptive of what is undeveloped,--the young of creatures and things. These in that state require to be nourished. Hence Măng is followed by Hsü. Hsü is descriptive of the way in which meat and drink (come to be supplied) 2. Over meat and drink there are sure to be contentions 2. Hence Hsü is followed by Sung.
 
-6-8. Sung is sure to cause the rising up of the multitudes 3; and hence it is followed by Sze. Sze has the signification of multitudes 3, and between multitudes there must be some bond of union. Hence it is followed by Pî, which denotes being attached to.
+6-8. [Song(䷅)](e8aebcsong.md) is sure to cause the rising up of the multitudes 3; and hence it is followed by [Shi(䷆)](e5b888shi.md). [Shi(䷆)](e5b888shi.md) has the signification of multitudes 3, and between multitudes there must be some bond of union. Hence it is followed by Pî, which denotes being attached to.
 
-8-11. (Multitudes in) union must be subjected to some restraint. Hence Pî is followed by Hsiâo
+8-11. (Multitudes in) union must be subjected to some restraint. Hence [Bi(䷇)](e6af94bi.md) is followed by [Xiaoxu(䷈)](e5b08fe7959cxiaoxu.md).
 
 p. 434
 
