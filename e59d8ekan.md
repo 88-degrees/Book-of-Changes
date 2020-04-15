@@ -4,7 +4,7 @@ Chinese: kǎn 坎 ䷜
 
 ![Kan](https://88o.io/wp-content/uploads/2018/09/29-e59d8ekan.jpg)
 
-**Kan** , here repeated, shows the possession of sincerity, through which the mind is. penetrating. Action (in accordance with this) will be of high value.
+**Kan(䷜)**, here repeated, shows the possession of sincerity, through which the mind is. penetrating. Action (in accordance with this) will be of high value.
 
 1. The first SIX, divided, shows its subject in the double defile, and (yet) entering a cavern within it. There will be evil.
 
@@ -20,7 +20,7 @@ Chinese: kǎn 坎 ䷜
 
 ## Notes
 
-The trigram **Kan**, which is doubled to form this hexagram, is the lineal symbol of water. Its meaning, as a character, is 'a pit,' 'a perilous cavity, or defile;'
+The trigram **Kan(䷜)**, which is doubled to form this hexagram, is the lineal symbol of water. Its meaning, as a character, is 'a pit,' 'a perilous cavity, or defile;'
 and here and elsewhere in the Yî it leads the reader to think of a dangerous defile, with water flowing through it.
 It becomes symbolic of danger, and what the authors of the Text had in mind was to show how danger should be encountered, its effect on the mind, and how to get out of it.
 
