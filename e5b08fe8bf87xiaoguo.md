@@ -4,7 +4,7 @@ Chinese: xiǎo guò 小过 ䷽
 
 ![Xiaoguo](https://88o.io/wp-content/uploads/2018/09/62-e5b08fe8bf87xiaoguo.jpg)
 
-**Xiaoguo** Hsiâo Kwo indicates that (in the circumstances which it implies) there will be progress and attainment.
+**Xiaoguo(䷽)** indicates that (in the circumstances which it implies) there will be progress and attainment.
 But it will be advantageous to be firm and correct. (What the name denotes) may be done in small affairs, but not in great affairs.
 (It is like) the notes that come down from a bird on the wing; -- to descend is better than to ascend. There will (in this way) be great good fortune.
 
@@ -27,12 +27,12 @@ and taking the bird in a cave.
 
 ## Notes
 
-The name **Xiaoguo** is explained both by reference to the lines of the hexagram,
+The name **Xiaoguo(䷽)** is explained both by reference to the lines of the hexagram,
 and to the meaning of the characters. The explanation from the lines appears immediately on comparing them with those of Tâ Kwo, the 28th hexagram.
 There the first and sixth lines are divided, and between are four undivided lines;
 here the third and fourth lines are undivided, and outside each of them are two divided lines.
 The undivided or yang lines are great, the divided or yin lines are called small.
-In Hsiâo Kwo the divided or small lines predominate. But this peculiar structure of the figure could be of no interest to the student,
+In **Xiaoguo(䷽)** the divided or small lines predominate. But this peculiar structure of the figure could be of no interest to the student,
 if it were not for the meaning of the name, which is 'small excesses' or 'exceeding in what is small.'
 The author, accepted by us as king Wăn, had in his mind our distinction of essentials and non-essentials.
 Is it ever good to deviate from what is recognised as the established course of procedure?
