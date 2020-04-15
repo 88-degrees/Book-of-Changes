@@ -22,7 +22,7 @@ I. Heaven, in its motion, (gives the idea of) strength. The superior man, in acc
 
 #### p. 268
 
-II. The (capacity and sustaining) power of the earth is what is denoted by Khwăn. The superior man, in accordance with this, with his large virtue supports (men and) things.
+II. The (capacity and sustaining) power of the earth is what is denoted by [Kun(䷁)](e59da4kun.md). The superior man, in accordance with this, with his large virtue supports (men and) things.
 
 1. 'He is treading on hoarfrost;--the strong ice will come (by and by):'--the cold (air) has begun to take form. Allow it to go on quietly according to its nature, and (the hoarfrost) will come to strong ice.
 
@@ -36,7 +36,7 @@ II. The (capacity and sustaining) power of the earth is what is denoted by Khwă
 
 S. 'The Yellow lower-garment;--there will be great good fortune:'--this follows from that ornamental (colour's) being in the right and central place.
 
-6. 'The dragons fight in the wild:--the (onward) course (indicated by Khwăn) is pursued to extremity.
+6. 'The dragons fight in the wild:--the (onward) course (indicated by [Kun(䷁)](e59da4kun.md)) is pursued to extremity.
 
 7. '(The lines are all weak and divided, as appears from) the use of the number SIX:--but (those who are thus represented) becoming perpetually correct and firm, there will thereby be a great consummation.
 
@@ -254,7 +254,7 @@ XIV. (The trigram for) heaven and (that of) fire above it form Tâ Yû The super
 
 6. 'The good fortune attached to the topmost line of Tâ Yû' arises from the help of Heaven.
 
-XV. (The trigram for) the earth and (that of) a mountain in the midst of it form Khien. The superior man, in accordance with this, diminishes what is excessive (in himself), and increases where there is any defect, bringing about an equality, according to the nature of the case, in his treatment (of himself and others).
+XV. (The trigram for) the earth and (that of) a mountain in the midst of it form [Qian(䷀)](e4b9beqian.md). The superior man, in accordance with this, diminishes what is excessive (in himself), and increases where there is any defect, bringing about an equality, according to the nature of the case, in his treatment (of himself and others).
 
 1. 'The superior man who adds humility to humility' is one who nourishes his (virtue) in lowliness.
 
@@ -534,9 +534,9 @@ Footnotes
 
 267:1 Like the Text under each hexagram, what is said under each in this treatise on its symbolism is divided into two portions. The p. 267 first is called 'the Great Symbolism,' and is occupied with the trigrammatic composition of the hexagram, to the statement of which is always subjoined an exhibition of the use which should be, or has been, made of the lesson suggested by the meaning of the whole figure in the administration of affairs, or in self-government. If the treatise be rightly ascribed to Confucius, this practical application of the teaching of the symbols is eminently characteristic of his method in inculcating truth and duty; though we often find it difficult to trace the connexion between his premiss and conclusion. This portion of the treatise will be separated by a double space from what follows,--'the Lesser Symbolism,' in the explanations of the several lines.
 
-268:I Khien is formed by redoubling the trigram of the same name. In the case of other hexagrams of similar formation, the repetition of the trigram is pointed out. That is not done here, according to Kû Hsî, 'because there is but one heaven.' But the motion of heaven is a complete revolution every day, resumed again the next; so moves 'the unwearied sun from day to day,' making it a good symbol of renewed, untiring effort.
+268:I [Qian(䷀)](e4b9beqian.md) is formed by redoubling the trigram of the same name. In the case of other hexagrams of similar formation, the repetition of the trigram is pointed out. That is not done here, according to Kû Hsî, 'because there is but one heaven.' But the motion of heaven is a complete revolution every day, resumed again the next; so moves 'the unwearied sun from day to day,' making it a good symbol of renewed, untiring effort.
 
-269:II Khwăn is formed by redoubling the trigram of the same name and having 'the earth for its symbol.' As in the former hexagram, the repetition is emphatic, not otherwise affecting the meaning of the hexagram. 'As there is but one heaven,' says Kû Hsî, 'so there is but one earth.' The first part of 'the Great Symbolism' appears in Canon McClatchie's version as--'Khwăn is the generative part of earth.' By 'generative part' he probably means 'the productive or prolific faculty.' If he mean anything else, there comes out a conclusion antagonistic to his own view of the 'mythology' of the Yî. The character Shî, which he translates by 'generative part,' is defined in Dr. Williams' dictionary as 'the virility of males.' Such is the special significance of it. If it were so used here, the earth would be masculine.
+269:II [Kun(䷁)](e59da4kun.md) is formed by redoubling the trigram of the same name and having 'the earth for its symbol.' As in the former hexagram, the repetition is emphatic, not otherwise affecting the meaning of the hexagram. 'As there is but one heaven,' says Kû Hsî, 'so there is but one earth.' The first part of 'the Great Symbolism' appears in Canon McClatchie's version as--'[Kun(䷁)](e59da4kun.md) is the generative part of earth.' By 'generative part' he probably means 'the productive or prolific faculty.' If he mean anything else, there comes out a conclusion antagonistic to his own view of the 'mythology' of the Yî. The character Shî, which he translates by 'generative part,' is defined in Dr. Williams' dictionary as 'the virility of males.' Such is the special significance of it. If it were so used here, the earth would be masculine.
 
 It is difficult to say exactly what the writer meant by--'The superior man, in accordance with this, and with his large nature, supports (men and) things.' Lin Hsî-yüan (Ming dynasty) says:--'The superior man, in his single person, sustains the burden of all under the sky. The common people depend on him for their rest and enjoyment. Birds and beasts and creeping things, and the tribes of the vegetable kingdom, depend on him for the fulfilment or their destined being. If he be of a narrow mind and cold virtue, how can he help them? Their hope in him would be in vain.'
 
@@ -683,7 +683,7 @@ Paragraph 1 consists of two lines that rhyme; and paragraphs 4 (two lines), 5, a
 
 The subject of line 1 has entered into the work of his father, and brings it about that his father is looked on as blameless. The 'due mean' of line 2 is according to the caution in the Text. The Khang-hsî editors interpret the explanation of line 5 as = 'he takes up (the course of his father) with all his virtue.' I think they are wrong.
 
-292:XIX 'The earth descending or approaching the marsh' is, according to Kû Hsî, symbolical of the approach of superiors to the inferior people, and then the two predicates about the superior man are descriptive of him in that approach, the instruction being symbolised by Tui, and the supporting by Khwăn. The Khang-hsî editors, wishing to defend the explanation of lin by 'great,' in Appendix VI, which they ascribe to Confucius, say:--'Lin means "great." The earth above the waters of the marsh shows how full those waters are, rising to the level of the earth, and thus expressing the idea of greatness.' This representation is lame and impotent.
+292:XIX 'The earth descending or approaching the marsh' is, according to Kû Hsî, symbolical of the approach of superiors to the inferior people, and then the two predicates about the superior man are descriptive of him in that approach, the instruction being symbolised by Tui, and the supporting by [Kun(䷁)](e59da4kun.md). The Khang-hsî editors, wishing to defend the explanation of lin by 'great,' in Appendix VI, which they ascribe to Confucius, say:--'Lin means "great." The earth above the waters of the marsh shows how full those waters are, rising to the level of the earth, and thus expressing the idea of greatness.' This representation is lame and impotent.
 
 Kû Hsî says he does not understand what is said on line 2. The interpretation in my version is the ordinary one, but I am not satisfied with it. The Khang-hsî editors try to solve the difficulty; but I am not able to follow them.
 
