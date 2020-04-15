@@ -4,7 +4,13 @@ Chinese: kùn 困 ䷮
 
 ![Kun](https://88o.io/wp-content/uploads/2019/11/47-e59bb0kun.jpg)
 
-In (the condition denoted by) **Kun** there may (yet be) progress and success. For the firm and correct, the (really) great man, there will be good fortune. He will fall into no error. If he make speeches, his words cannot be made good.
+#### p. 161
+
+In (the condition denoted by) **Kùn(䷮)** there may (yet be) progress and success. For the firm and
+
+#### p. 162
+
+correct, the (really) great man, there will be good fortune. He will fall into no error. If he make speeches, his words cannot be made good.
 
 1. The first SIX, divided, shows its subject with bare buttocks straitened under the stump of a tree. He enters a dark valley, and for three years has no prospect (of deliverance).
 
@@ -13,6 +19,8 @@ In (the condition denoted by) **Kun** there may (yet be) progress and success. F
 3. The third SIX, divided, shows its subject straitened before a (frowning) rock. He lays hold of thorns. He enters his palace, and does not see his wife. There will be evil.
 
 4. The fourth NINE, undivided shows its subject proceeding very slowly (to help the subject of the first line), who is straitened by the carriage adorned with metal in front of him. There will be occasion for regret, but the end will be good.
+
+#### p. 163
 
 5. The fifth NINE, undivided, shows its subject with his nose and feet cut off. He is straitened by (his ministers in their) scarlet aprons. He is leisurely in his movements, however, and is satisfied. It will be well for him to be (as sincere) as in sacrificing (to spiritual beings).
 
