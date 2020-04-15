@@ -4,7 +4,7 @@ Chinese: xùn 巽 ䷸
 
 ![Xun](https://88o.io/wp-content/uploads/2018/09/57-e5b7bdxun.jpg)
 
-**Xun** intimates that (under the conditions which it denotes) there will be some little attainment and progress.
+**Xùn(䷸)** intimates that (under the conditions which it denotes) there will be some little attainment and progress.
 There will be advantage in movement onward in whatever direction. It will be advantageous (also) to see the great man.
 
 1. The first SIX, divided, shows its subject (now) advancing, (now) receding. It would be advantageous for him to have the firm correctness of a brave soldier.
@@ -21,7 +21,7 @@ There will be advantage in movement onward in whatever direction. It will be adv
 
 ## Notes
 
-With **Xun** as the fifth of the Fû-hsî trigrams we have become familiar. It symbolises both wind and wood; and has the attributes of flexibility (nearly allied to docility) and penetration. In this hexagram we are to think of it as representing wind with its penetrating power, finding its way into every corner and cranny.
+With **Xùn(䷸)** as the fifth of the Fû-hsî trigrams we have become familiar. It symbolises both wind and wood; and has the attributes of flexibility (nearly allied to docility) and penetration. In this hexagram we are to think of it as representing wind with its penetrating power, finding its way into every corner and cranny.
 
 Confucius once said (Analects 12. 19): -- 'The relation between superiors and inferiors is like that between the wind and the grass.
 The grass must bend when the wind blows upon it.' In accordance with this, the subject of the hexagram must be understood as the influence and orders of government designed to remedy what is wrong in the people. The 'Daily Lecture' says that the upper trigram denotes the orders issuing from the ruler, and the lower the obedience rendered to them by the people; but this view is hardly borne out by the Text.
