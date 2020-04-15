@@ -4,6 +4,8 @@ Chinese: zhūn 屯 ䷂
 
 ![Zhun](https://88o.io/wp-content/uploads/2018/09/03-e5b1afzhun.jpg)
 
+#### p. 62
+
 **Zhun(䷂)** (indicates that in the case which it presupposes) there will be great progress and success,
 and the advantage will come from being correct and firm. (But) any movement in advance should not be (lightly) undertaken. There will be advantage in appointing feudal princes.
 
@@ -12,6 +14,8 @@ and the advantage will come from being correct and firm. (But) any movement in a
 2. The second SIX, divided, shows (its subject) distressed and obliged to return; (even) the horses of her chariot (also) seem to be retreating. (But) not by a spoiler (is she assailed), but by one who seeks her to be his wife. The young lady maintains her firm correctness, and declines a union. After ten years she will be united, and have children.
 
 3. The third SIX, divided, shows one following the deer without (the guidance of) the forester, and only finding himself in the midst of the forest. The superior man, acquainted with the secret risks, thinks it better to give up the chase. If he went forward, he would regret it.
+
+#### p. 63
 
 4. The fourth SIX, divided, shows (its subject as a lady), the horses of whose chariot appear in retreat.
 She seeks, however, (the help of) him who seeks her to be his wife. Advance will be fortunate; all will turn out advantageously.
