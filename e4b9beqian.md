@@ -4,6 +4,8 @@ Chinese: qián 乾 ䷀
 
 ![Qian](https://88o.io/wp-content/uploads/2018/09/01-e4b9beqian.jpg)
 
+### p. 57
+
 **Qian** (represents) what is great and originating, penetrating, advantageous, correct and firm.
 
 1. In the first (or lowest) NINE, undivided, (we see its subject as) the dragon lying hid (in the deep). It is not the time for active doing.
@@ -15,6 +17,8 @@ Chinese: qián 乾 ䷀
 4. In the fourth NINE, undivided, (we see its subject as the dragon looking) as if he were leaping up, but still in the deep. There will be no mistake.
 
 5. In the fifth NINE, undivided, (we see its subject as) the dragon on the wing in the sky. It will be advantageous to meet with the great man.
+
+### p. 58
 
 6. In the sixth (or topmost) NINE, undivided, (we see its subject as) the dragon exceeding the proper limits. There will be occasion for repentance.
 
