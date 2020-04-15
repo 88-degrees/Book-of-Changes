@@ -4,7 +4,7 @@ Chinese: lǚ 履 ䷉
 
 ![Lv](https://88o.io/wp-content/uploads/2018/09/10-e5b1a5lv.jpg)
 
-**Lv** (suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success.
+**Lv(䷉)** (suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success.
 
 1. The first NINE, undivided, shows its subject treading his accustomed path. If he go forward, there will be no error.
 
@@ -21,7 +21,7 @@ If it be complete and without failure, there will be great good fortune.
 
 ## Notes
 
-The character giving its name to the hexagram plays an important part also in the symbolism; and this may be the reason why it does not, as the name, occupy the first place in the Thwan. Looking at the figure, we see it is made up of the trigrams Tui, representing a marsh, and Khien, representing the sky. Tui is a yin trigram, and its top line is divided. Below Khien, the great symbol of strength, it may readily suggest the idea of treading on a tiger's tail, which was an old way of expressing what was hazardous (Shû V, XXV, 2). But what suggests the statement that 'the tiger does not bite the treader?' The attribute of Tui is pleased satisfaction. of course such an attribute could not be predicated of one who was in the fangs of a tiger. The coming scatheless out of such danger further suggests the idea of 'progress and success' in the course which king Wăn had in his mind. And according to Appendix VI, that course was 'propriety,' the observance of all the rules of courtesy. On these, as so many stepping-stones, one may tread safely amid scenes of disorder and peril.
+The character giving its name to the hexagram plays an important part also in the symbolism; and this may be the reason why it does not, as the name, occupy the first place in the Thwan. Looking at the figure, we see it is made up of the trigrams Tui, representing a marsh, and Khien, representing the sky. Tui is a yin trigram, and its top line is divided. Below Khien, the great symbol of strength, it may readily suggest the idea of treading on a tiger's tail, which was an old way of expressing what was hazardous (Shû V, XXV, 2). But what suggests the statement that 'the tiger does not bite the treader?' The attribute of Tui is pleased satisfaction. of course such an attribute could not be predicated of one who was in the fangs of a tiger. The coming scatheless out of such danger further suggests the idea of 'progress and success' in the course which king Wăn had in his mind. And according to [Appendix VI](appendix06s1.md), that course was 'propriety,' the observance of all the rules of courtesy. On these, as so many stepping-stones, one may tread safely amid scenes of disorder and peril.
 
 Line 1 is an undivided line in an odd place; giving us the ideas of activity, firmness, and correctness. One so characterised will act rightly.
 
