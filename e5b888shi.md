@@ -4,7 +4,7 @@ Chinese: shī 师 ䷆
 
 ![Shi](https://88o.io/wp-content/uploads/2018/09/07-e5b888shi.jpg)
 
-**Shi** indicates how, in the case which it supposes, with firmness and correctness, and (a leader of) age and experience, there will be good fortune and no error.
+**Shi(䷆)** indicates how, in the case which it supposes, with firmness and correctness, and (a leader of) age and experience, there will be good fortune and no error.
 
 1. The first SIX, divided, shows the host going forth according to the rules (for such a movement). If these be not good, there will be evil.
 
@@ -20,7 +20,7 @@ Chinese: shī 师 ䷆
 
 ## Notes
 
-The conduct of military expeditions in a feudal kingdom, and we may say, generally, is denoted by the hexagram **Song**.
+The conduct of military expeditions in a feudal kingdom, and we may say, generally, is denoted by the hexagram [**Song(䷅)**](./).
 Referring to [Appendixes I](appendix01s1.md) and II for an explanation of the way in which the combination of lines in it is made out to suggest the idea of an army, and that idea being assumed, it is easy to see how the undivided line in the second place should be interpreted of the general, who is responded to by the divided line in the fifth and royal place. Thus entire trust is reposed in him. He is strong p. 73 and correct, and his enterprises will be successful. He is denominated kang zăn, 'an old, experienced man.'
 
 'The rules,' it is said, 'are twofold;--first, that the war be for a righteous end; and second, that the manner of conducting it, especially at the outset, be right.' But how this and the warning in the conclusion should both follow from the divided line being in the first place, has not been sufficiently explained.
