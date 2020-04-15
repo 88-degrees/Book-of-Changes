@@ -4,7 +4,7 @@ THE GREAT APPENDIX
 
 ## SECTION I
 
-Chapter  I. 1. Heaven is lofty and honourable; earth is low. (Their symbols), Khien and Khwăn, (with their respective meanings), were determined (in accordance with this).
+Chapter  I. 1. Heaven is lofty and honourable; earth is low. (Their symbols), [Qian(䷀)](e4b9beqian.md) and [Kun(䷁)](e59da4kun.md), (with their respective meanings), were determined (in accordance with this).
 
 Things low and high appear displayed in a similar relation. The (upper and lower trigrams, and the relative position of individual lines, as) noble and mean, had their places assigned accordingly.
 
@@ -20,11 +20,11 @@ In the heavens there are the (different) figures there completed, and on the ear
 
 3. We have the exciting forces of thunder and lightning; the fertilising influences of wind and rain; and the revolutions of the sun and moon, which give rise to cold and warmth.
 
-4. The attributes expressed by Khien constitute the male; those expressed by Khwăn constitute the female.
+4. The attributes expressed by [Qian(䷀)](e4b9beqian.md) constitute the male; those expressed by [Kun(䷁)](e59da4kun.md) constitute the female.
 
-5. Khien (symbolises Heaven, which) directs the great beginnings of things; Khwăn (symbolises Earth, which) gives to them their completion.
+5. [Qian(䷀)](e4b9beqian.md) (symbolises Heaven, which) directs the great beginnings of things; [Kun(䷁)](e59da4kun.md) (symbolises Earth, which) gives to them their completion.
 
-6. It is by the ease with which it proceeds that Khien directs (as it does), and by its unhesitating response that Khwăn exhibits such ability.
+6. It is by the ease with which it proceeds that [Qian(䷀)](e4b9beqian.md) directs (as it does), and by its unhesitating response that [Kun(䷁)](e59da4kun.md) exhibits such ability.
 
 7. (He who attains to this) ease (of Heaven) will be easily understood, and (he who attains to this) freedom from laborious effort (of the Earth) will be easily followed. He who is easily understood will have adherents, and he who is easily followed will achieve success. He who has adherents can continue long, and he who achieves success can become great. To be able to continue long shows the virtue of the wise and able man; to be able to become great is the heritage he will acquire.
 
@@ -88,7 +88,7 @@ Chapter  V. 24. The successive movement of the inactive and active operations co
 
 29. Production and reproduction is what is called (the process of) change.
 
-30. The formation of the semblances (shadowy forms of things) is what we attribute to Khien; the giving to them their specific forms is what we attribute to Khwăn.
+30. The formation of the semblances (shadowy forms of things) is what we attribute to [Qian(䷀)](e4b9beqian.md); the giving to them their specific forms is what we attribute to [Kun(䷁)](e59da4kun.md).
 
 31. The exhaustive use of the numbers (that turn
 
@@ -102,7 +102,7 @@ up in manipulating the stalks), and (thereby) knowing (the character of) coming 
 
 Chapter  VI. 33. Yes, wide is the Yî and great! If we speak of it in its farthest reaching, no limit can be set to it; if we speak of it with reference to what is near at hand, (its lessons are) still and correct; if we speak of it in connexion with all between heaven and earth, it embraces all.
 
-34. There is Khien. In its (individual) stillness it is self-absorbed; when exerting its motive power it goes straight forward; and thus it is that its productive action is on a grand scale. There is Khwăn. In its (individual) stillness, it is self-collected and capacious; when exerting its motive power, it developes its resources, and thus its productive action is on a wide scale.
+34. There is [Qian(䷀)](e4b9beqian.md). In its (individual) stillness it is self-absorbed; when exerting its motive power it goes straight forward; and thus it is that its productive action is on a grand scale. There is [Kun(䷁)](e59da4kun.md). In its (individual) stillness, it is self-collected and capacious; when exerting its motive power, it developes its resources, and thus its productive action is on a wide scale.
 
 35. In its breadth and greatness, (the Yî) corresponds
 
@@ -179,11 +179,11 @@ Chapter  IX. 49. To heaven belongs (the number) 1; to earth, 2; to heaven, 3; to
 
 51. The numbers of the Great Expansion, (multiplied together), make 50, of which (only) 49 are used (in divination). (The stalks representing these) are divided into two heaps to represent the two (emblematic lines, or heaven and earth). One is then taken (from the heap on the right), and placed (between the little finger of the left hand and the next), that there may thus be symbolised the three (powers of heaven, earth, and man). (The heaps on both sides) are manipulated by fours to represent the four seasons; and then the remainders are returned, and placed (between) the two middle fingers of the left hand, to represent the intercalary month. In five years there are two intercalations, and therefore there are two operations; and afterwards the whole process is repeated.
 
-52. The numbers (required) for Khien (or the
+52. The numbers (required) for [Qian(䷀)](e4b9beqian.md) (or the
 
 ### p. 366
 
-undivided line) amount to 216; those for Khwăn (or the divided line), to 144. Together they are 36o, corresponding to the days of the year.
+undivided line) amount to 216; those for [Kun(䷁)](e59da4kun.md) (or the divided line), to 144. Together they are 36o, corresponding to the days of the year.
 
 53. The number produced by the lines in the two parts (of the Yî) amount to 11,520, corresponding to the number of all things.
 
@@ -237,7 +237,7 @@ and spirit-like; that of the diagrams is exact and wise; and the meaning given b
 
 68. Therefore (those sages), fully understanding the way of Heaven, and having clearly ascertained the experience of the people, instituted (the employment of) these spirit-like things, as a provision for the use of the people. The sages went about the employment of them (moreover) by purifying their hearts and with reverent caution, thereby giving (more) spirituality and intelligence to their virtue.
 
-69. Thus, a door shut may be pronounced (analogous to) Khwăn (or the inactive condition), and the opening of the door (analogous to) Khien (or the active condition). The opening succeeding the being shut may be pronounced (analogous to what we call) a change; and the passing from one of these states to the other may be called the constant course (of things).
+69. Thus, a door shut may be pronounced (analogous to) [Kun(䷁)](e59da4kun.md) (or the inactive condition), and the opening of the door (analogous to) [Qian(䷀)](e4b9beqian.md) (or the active condition). The opening succeeding the being shut may be pronounced (analogous to what we call) a change; and the passing from one of these states to the other may be called the constant course (of things).
 
 The (first) appearance of anything (as a bud) is
 
@@ -275,7 +275,7 @@ said:--'Yû ( ) is the symbol of assisting. He whom Heaven assists is observant 
 
 not the full exponent of speech, and speech is not the full expression of ideas;--is it impossible then to discover the ideas of the sages?' The Master said:--'The sages made their emblematic symbols to set forth fully their ideas; appointed (all) the diagrams to show fully the truth and falsehood (of things); appended their explanations to give the full expression of their words; and changed (the various lines) and made general the method of doing so, to exhibit fully what was advantageous. They (thus) stimulated (the people) as by drums and dances, thereby completely developing the spirit-like (character of the Yî).'
 
-77. May we not say that Khien and Khwăn [= the yang and yin, or the undivided and divided lines] are the secret and substance of the Yî? Khien and Khwăn being established in their several places, the system of changes was thereby constituted. If Khien and Khwăn were taken away, there would be no means of seeing that system; and if that system were not seen, Khien and Khwăn would almost cease to act.
+77. May we not say that [Qian(䷀)](e4b9beqian.md) and [Kun(䷁)](e59da4kun.md) [= the yang and yin, or the undivided and divided lines] are the secret and substance of the Yî? [Qian(䷀)](e4b9beqian.md) and [Kun(䷁)](e59da4kun.md) being established in their several places, the system of changes was thereby constituted. If [Qian(䷀)](e4b9beqian.md) and [Kun(䷁)](e59da4kun.md) were taken away, there would be no means of seeing that system; and if that system were not seen, [Qian(䷀)](e4b9beqian.md) and [Kun(䷁)](e59da4kun.md) would almost cease to act.
 
 78. Hence that which is antecedent to the material form exists, we say, as an ideal method, and that which is subsequent to the material form exists, we say, as a definite thing.
 
@@ -293,7 +293,7 @@ under the sky. He then considered in his mind how they could be figured, and (by
 
 Footnotes
 
-349:I Chapter I is an attempt to show the correspondency between the phenomena of external nature ever changing, and the figures of the Yî King ever varying. The first four paragraphs, it is said, show, from the phenomena of production and transformation in external p. 350 nature, the principles on which the figures of the Yî were made. The fifth and sixth paragraphs show, particularly, how the attributes represented by the figures Khien and Khwăn are to be found in (the operations of) heaven and earth. The last two paragraphs show both those attributes embodied or realised in man. The realisation takes place, indeed, fully only in the sage or the ideal man, who thus becomes the pattern for all men.
+349:I Chapter I is an attempt to show the correspondency between the phenomena of external nature ever changing, and the figures of the Yî King ever varying. The first four paragraphs, it is said, show, from the phenomena of production and transformation in external p. 350 nature, the principles on which the figures of the Yî were made. The fifth and sixth paragraphs show, particularly, how the attributes represented by the figures [Qian(䷀)](e4b9beqian.md) and [Kun(䷁)](e59da4kun.md) are to be found in (the operations of) heaven and earth. The last two paragraphs show both those attributes embodied or realised in man. The realisation takes place, indeed, fully only in the sage or the ideal man, who thus becomes the pattern for all men.
 
 In paragraph 3 we have five of the six derivative trigrams;--the six children,' according to the nomenclature of the Wăn arrangement. 'Thunder' stands for kăn ( ), 'lightning' for lî ( ), 'wind' for sun ( ), and 'rain' for khan ( ). 'The sun,' however, is also an emblem of lî, and 'the moon' one of kăn ( ), generally said to represent 'mountains,' while tui ( ) representing 'collections of water,' has no place in the enumeration. Kû Hsî says that in paragraph 3 we have the natural changes seen in the phenomena of the sky, while in 4 we have such changes as find body and figure on the earth.
 
@@ -327,7 +327,7 @@ The imperial editors say that the germ of the Mencian doctrine about the goodnes
 
 Paragraph 29 seems to state the origin of the name Yî as applied to the book, the Yî King.
 
-In paragraph 30 the names Khien and Khwăn take the place of yin and yang, as used in paragraphs 24 and 32, In Khien, p. 358 the symbol of heaven, every one of its three lines is undivided; it is the concentration of the yang faculty; so Khwăn, the symbol of the earth, is the concentration of the yin. The critics themselves call attention to the equivalence of the symbolic names here given to yin and yang. The connexion of the two is necessary to the production of any one substantial thing. The yang originates a shadowy outline which the yin fills up with a definite substance. So actually in nature Heaven (Khien) and Earth (Khwăn) operate together in the production of all material things and beings.
+In paragraph 30 the names [Qian(䷀)](e4b9beqian.md) and [Kun(䷁)](e59da4kun.md) take the place of yin and yang, as used in paragraphs 24 and 32, In [Qian(䷀)](e4b9beqian.md), p. 358 the symbol of heaven, every one of its three lines is undivided; it is the concentration of the yang faculty; so [Kun(䷁)](e59da4kun.md), the symbol of the earth, is the concentration of the yin. The critics themselves call attention to the equivalence of the symbolic names here given to yin and yang. The connexion of the two is necessary to the production of any one substantial thing. The yang originates a shadowy outline which the yin fills up with a definite substance. So actually in nature Heaven ([Qian(䷀)](e4b9beqian.md)) and Earth ([Kun(䷁)](e59da4kun.md)) operate together in the production of all material things and beings.
 
 The 'numbers,' mentioned in paragraph 31, are not all or any numbers generally, but 7, 8, 9, 6, those assigned to the four 'emblematic figures,' that grow out of the undivided and divided lines, and by means of which the hexagrams are made up in divination. The 'future or coming events' which are prognosticated are not particular events, which the diviner has not already forecast, but the character of events or courses of actions already contemplated, as good or evil, lucky or unlucky, in their issue.
 
@@ -335,7 +335,7 @@ The best commentary on paragraph 32 is supplied by paragraphs 8-10 of Appendix V
 
 359:VI Chapter VI, paragraphs 33-35, goes on further to celebrate the Yî as holding up the mirror to nature in all its operations and in its widest extent. The grandiloquent language, however, amounts only to this, that, when we have made ourselves acquainted with the phenomena of nature, we can, with a heated fancy, see some analogy to them in the changes of the diagrams and lines of the Yî book.
 
-Khien and Khwăn must be taken as the same names are understood in paragraph 3o above.
+[Qian(䷀)](e4b9beqian.md) and [Kun(䷁)](e59da4kun.md) must be taken as the same names are understood in paragraph 3o above.
 
 'The Yî,' with which paragraph 33 begins, must be understood also at the commencement of paragraph 35. The character which I have translated by 'corresponds' throughout this last chapter, should not, it is observed, have stress laid upon it. Kû Hsî says that it is simply equal to the 'there is a similarity' of paragraph 22. 'The bright or active element' and 'the dark or inactive' are in the original, 'the yang and the yin.' The correspondence predicated between them and the sun and moon, the brightness and warmth of the one, and the paleness and coldness of the other, shows us how those names arose, and that it is foreign to the original concept of them to call them 'the male and female principles:'--with the last clause compare paragraphs 6-8.
 
@@ -357,7 +357,7 @@ I have spoken in the preceding chapter of the difficulty which the phrase 'The M
 
 In the Thang edition of the Yî, published in the seventh century, paragraph 49 is the first of the eleventh chapter according to the arrangement now followed. Khăng-žze restored it to its present place, which it occupied, as has been proved, during the Han p. 367 dynasty, and to which it properly belongs. It and the next paragraph should be taken together, and are distinct from what follows, though the Thang edition is further confused in placing 51 before 50.
 
-In 49 and 50 'heaven' and 'earth' are used as we have seen Khien and Khwăn are in paragraphs 3o and 34. Odd numbers belong to the strong or undivided line, which is symbolical of the active operation in nature, and the even numbers to the weak or divided line, symbolical of its inaction. The phraseology of the paragraphs, however, can only be understood by a reference to 'the river map,' which has been given in the Introduction, pages 15, 16.
+In 49 and 50 'heaven' and 'earth' are used as we have seen [Qian(䷀)](e4b9beqian.md) and [Kun(䷁)](e59da4kun.md) are in paragraphs 3o and 34. Odd numbers belong to the strong or undivided line, which is symbolical of the active operation in nature, and the even numbers to the weak or divided line, symbolical of its inaction. The phraseology of the paragraphs, however, can only be understood by a reference to 'the river map,' which has been given in the Introduction, pages 15, 16.
 
 The map, as it appeared on the back of 'the dragon-horse,' consisted of so many circles, and so many dark circular markings, the former, it was assumed, being of the yang character, and the latter of the yin. Fû-hsî for the circle substituted the strong or undivided line ( ), and for the dark markings the weak or divided ( ). It will be seen that the yang symbols are the 1, 3, 5, 7 and 9 circles, and the yin are the 2, 4, 6, 8 and 10 circular markings, which is the pictorial delineation of paragraph 49. The only thing to be said upon it is that the arrangement of the five circles and ten circular markings is peculiar, and evidently, devised 'for a purpose.' So far, however, as we know, no figure of the map was attempted till after the beginning of our twelfth century.
 
@@ -415,7 +415,7 @@ Paragraph 75 has a good meaning, taken by itself; but it has no apparent connexi
 
 The first two statements of paragraph 76 are general, but made here specially to exalt the Yî, as teaching more clearly and fully than written characters could have done. The Khang-hsî editors decide that I the emblematic figures' here are the eight trigrams of Fû-hsî,--against the view of Kû Hsî, which restricts them to signify the undivided and divided lines. The repetition of the words, 'The Master said,' is probably the error of an early transcriber.
 
-Paragraphs 77 and 78 refer to the phenomena of nature and the course of human affairs, as suggesting and controlling the formation of the system of the Yî. The formation of that becomes the subject in paragraph 79. Khien and Khwăn are used, as we have already seen them more than once, for the active and inactive conditions in nature, indicated by the divided and undivided lines. It is difficult to translate what is said in paragraph 78, about Tâo and Khî;--what I have called, 'an ideal method' and 'a definite' thing. P. Regis translates the text by--'Quod non est inter figurata aut corporea sed supereminet est rationale, est ratio, Tâo; quod (est) inter figurata subjacetque certae figurae est sensibile, est instrumentum! But tâo cannot here signify ratio or reason; for tâo and khî are names for the same thing under different conditions; first as a possibility, and next as an actuality. Such is the natural interpretation of the text, and so all the great scholars of the Sung dynasty construed it, as may be seen in the 'Collected Comments' of the imperial edition. So far they were correct, however many of them might stumble and fall in confounding this 'ideal method' with God.
+Paragraphs 77 and 78 refer to the phenomena of nature and the course of human affairs, as suggesting and controlling the formation of the system of the Yî. The formation of that becomes the subject in paragraph 79. [Qian(䷀)](e4b9beqian.md) and [Kun(䷁)](e59da4kun.md) are used, as we have already seen them more than once, for the active and inactive conditions in nature, indicated by the divided and undivided lines. It is difficult to translate what is said in paragraph 78, about Tâo and Khî;--what I have called, 'an ideal method' and 'a definite' thing. P. Regis translates the text by--'Quod non est inter figurata aut corporea sed supereminet est rationale, est ratio, Tâo; quod (est) inter figurata subjacetque certae figurae est sensibile, est instrumentum! But tâo cannot here signify ratio or reason; for tâo and khî are names for the same thing under different conditions; first as a possibility, and next as an actuality. Such is the natural interpretation of the text, and so all the great scholars of the Sung dynasty construed it, as may be seen in the 'Collected Comments' of the imperial edition. So far they were correct, however many of them might stumble and fall in confounding this 'ideal method' with God.
 
 What follows in the paragraph has no connexion with these two statements. P. Regis, who divides his translation into two paragraphs, says:--'Satis patet utramque textus hujus partem. non cohaerere. p. 380 Quod ergo illas divisimus, id fecimus majoris perspicuitatis causa, non ratione ordinis qui certe nullus est, ut in re potius assuta quam connexa.'
 
