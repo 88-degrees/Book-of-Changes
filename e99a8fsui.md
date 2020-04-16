@@ -1,4 +1,4 @@
-# Sui ䷐
+# Suí ䷐
 
 Chinese: suí 随 ䷐
 
