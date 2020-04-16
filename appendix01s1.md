@@ -34,7 +34,7 @@ Treatise on the Thwan <a name="fr_124"></a>[1](#fn_124), or king Wăn's Explanat
 
 5. 'The good fortune arising from resting in firmness' corresponds to the unlimited capacity of the earth.
 
-<a name="fr_126"></a>[III](](#fn_127)).
+<a name="fr_127"></a>[III](#fn_127).
 
 1. In [Zhūn(䷂)](e5b1afzhun.md) we have the strong ([Qián(䷀)](./e4b9beqian.md)) and the weak ([Kūn(䷁)](./e59da4kun.md)) commencing their intercourse, and difficulties arising.
 
