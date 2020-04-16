@@ -1,10 +1,15 @@
-# Li ䷝
+# Lí ䷝
 
 Chinese: lí 离 ䷝
 
+###### p. 120
+
 ![Li](https://88o.io/wp-content/uploads/2018/09/30-e7a6bbli.jpg)
 
-**Li** indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success.
+**Lí ䷝** indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success.
+
+###### p. 121
+
 Let (its subject) also nourish (a docility like that of) the cow, and there will be good fortune.
 
 1. The first NINE, undivided, shows one ready to move with confused steps. But he treads at the same time reverently, and there will be no mistake.
@@ -17,12 +22,14 @@ Let (its subject) also nourish (a docility like that of) the cow, and there will
 
 5. The fifth SIX, divided, shows its subject as one with tears flowing in torrents, and groaning in sorrow. There will be good fortune.
 
+###### p. 122
+
 6. The topmost NINE, undivided, shows the king employing its subject in his punitive expeditions. Achieving admirable (merit), he breaks (only) the chiefs (of the rebels). Where his prisoners were not their associates, he does not punish. There will be no error.
 
 ## Notes
 
-**Li** is the name of the trigram representing fire and light, and the sun as the source of both of these. Its virtue or attribute is brightness,
-and by a natural metaphor intelligence. But Lî has also the meaning of inhering in, or adhering to, being attached to. Both these significations occur in connexion with the hexagram, and make it difficult to determine what was the subject of it in the minds of the authors. If we take the whole figure as expressing the subject, we have, as in the treatise on the Thwan, 'a double brightness,' a phrase which is understood to denominate the ruler. If we take the two central lines as indicating the subject, we have weakness, dwelling with strength above and below. In either case there are required from the subject a strict adherence to what is correct, and a docile humility. On the second member of the Thwan Khăng-žze says:--'The nature of the ox is docile, and that of the cow is much more so. The subject of the hexagram adhering closely to p. 122 what is correct, he must be able to act in obedience to it, as docile as a cow, and then there will be good fortune.'
+[p. 121](#p-121) **Lí ䷝** is the name of the trigram representing fire and light, and the sun as the source of both of these. Its virtue or attribute is brightness,
+and by a natural metaphor intelligence. But **Lí ䷝** has also the meaning of inhering in, or adhering to, being attached to. Both these significations occur in connexion with the hexagram, and make it difficult to determine what was the subject of it in the minds of the authors. If we take the whole figure as expressing the subject, we have, as in the treatise on the Thwan, 'a double brightness,' a phrase which is understood to denominate the ruler. If we take the two central lines as indicating the subject, we have weakness, dwelling with strength above and below. In either case there are required from the subject a strict adherence to what is correct, and a docile humility. On the second member of the Thwan Khăng-žze says:--'The nature of the ox is docile, and that of the cow is much more so. The subject of the hexagram adhering closely to [p. 122](#p-122) what is correct, he must be able to act in obedience to it, as docile as a cow, and then there will be good fortune.'
 
 Line 1 is strong, and at the bottom of the trigram for fire, the nature of which is to ascend. Its subject therefore will move upwards, and is in danger of doing so coarsely and vehemently. But the lowest line has hardly entered into the action of the figure, and this consideration operates to make him reverently careful of his movements; and there is no error.
 
