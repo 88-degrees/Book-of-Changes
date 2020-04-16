@@ -2,13 +2,19 @@
 
 Chinese: dà guò 大过 ䷛
 
+###### p. 116
+
 ![Daguo](https://88o.io/wp-content/uploads/2018/09/28-e5a4a7e8bf87daguo.jpg)
 
-**Daguo** suggests to us a beam that is weak. There will be advantage in moving (under its conditions) in any direction whatever; there will be success.
+**Dàguò ䷛** suggests to us a beam that is weak. There will be advantage in moving (under its conditions) in any direction whatever; there will be success.
 
 1. The first SIX, divided, shows one placing mats of the white mâo grass under things set on the ground. There will be no error.
 
-2. The second NINE, undivided, shows a decayed willow producing shoots, or an old husband in possession of his young wife. There will be advantage in every way.
+2. The second NINE, undivided, shows a decayed
+
+###### p. 117
+
+willow producing shoots, or an old husband in possession of his young wife. There will be advantage in every way.
 
 3. The third NINE, undivided, shows a beam that is weak. There will be evil.
 
