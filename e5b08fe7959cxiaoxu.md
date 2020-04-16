@@ -6,7 +6,7 @@ Chinese: xiǎo xù 小畜 ䷈
 
 #### p. 76
 
-**Xiǎoxù(䷈)** indicates that (under its conditions) there will be progress and success. (We see) dense clouds, but no rain coming from our borders in the west.
+**Xiǎoxù ䷈** indicates that (under its conditions) there will be progress and success. (We see) dense clouds, but no rain coming from our borders in the west.
 
 1. The first NINE, undivided, shows its subject returning and pursuing his own course. What mistake should he fall into? There will be good fortune.
 
@@ -24,7 +24,7 @@ Chinese: xiǎo xù 小畜 ䷈
 
 ## Notes
 
-The name **Xiǎoxù(䷈)** is interpreted as meaning 'small restraint.' The idea of 'restraint' having once been determined on as that to be conveyed by the figure,
+The name **Xiǎoxù ䷈** is interpreted as meaning 'small restraint.' The idea of 'restraint' having once been determined on as that to be conveyed by the figure,
 it is easily made out that the restraint must be small, for its representative is the divided line in the fourth place; and the check given by that to all the undivided lines cannot be great. Even if we suppose, as many critics do, that all the virtue of that upper trigram Sun is concentrated in its first line, the attribute ascribed to Sun is that of docile flexibility, which cannot long be successful against the strength emblemed by the lower trigram Khien. The restraint therefore is small, and in the end there will be 'progress and success.'
 
 The second sentence of the Thwan contains indications of the place, time, and personality of the writer which it seems possible to ascertain. The fief of Kâu was the western portion of the p. 78 kingdom of Yin or Shang, the China of the twelfth century B. C., the era of king Wăn. Rain coming and moistening the ground is the cause of the beauty and luxuriance of the vegetable world, and the emblem of the blessings flowing from good training and good government. Here therefore in the west, the hereditary territory of the house of Kâu, are blessings which might enrich the whole kingdom; but they are somehow restrained. The dense clouds do not empty their stores.
