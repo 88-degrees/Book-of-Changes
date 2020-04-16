@@ -4,7 +4,9 @@ Chinese: qiān 谦 ䷎
 
 ![Qian](https://88o.io/wp-content/uploads/2018/09/15-e8b0a6qian.jpg)
 
-**Qian** indicates progress and success. The superior man, (being humble as it implies), will have a (good) issue (to his undertakings).
+###### p. 89
+
+**Qiān ䷎** indicates progress and success. The superior man, (being humble as it implies), will have a (good) issue (to his undertakings).
 
 1. The first SIX, divided, shows us the superior man who adds humility to humility.
 (Even) the great stream may be crossed with this, and there will be good fortune.
