@@ -4,11 +4,15 @@ Chinese: xiǎo xù 小畜 ䷈
 
 ![Xiaoxu](https://88o.io/wp-content/uploads/2018/09/09-e5b08fe7959cxiaoxu.jpg)
 
-**Xiaoxu(䷈)** indicates that (under its conditions) there will be progress and success. (We see) dense clouds, but no rain coming from our borders in the west.
+#### p. 76
+
+**Xiǎoxù(䷈)** indicates that (under its conditions) there will be progress and success. (We see) dense clouds, but no rain coming from our borders in the west.
 
 1. The first NINE, undivided, shows its subject returning and pursuing his own course. What mistake should he fall into? There will be good fortune.
 
 2. The second NINE, undivided, shows its subject, by the attraction (of the former line), returning (to the proper course). There will be good fortune.
+
+#### p. 77
 
 3. The third NINE, undivided, suggests the idea of a carriage, the strap beneath which has been removed, or of a husband and wife looking on each other with averted eyes.
 
@@ -20,7 +24,7 @@ Chinese: xiǎo xù 小畜 ䷈
 
 ## Notes
 
-The name **Xiaoxu(䷈)** is interpreted as meaning 'small restraint.' The idea of 'restraint' having once been determined on as that to be conveyed by the figure,
+The name **Xiǎoxù(䷈)** is interpreted as meaning 'small restraint.' The idea of 'restraint' having once been determined on as that to be conveyed by the figure,
 it is easily made out that the restraint must be small, for its representative is the divided line in the fourth place; and the check given by that to all the undivided lines cannot be great. Even if we suppose, as many critics do, that all the virtue of that upper trigram Sun is concentrated in its first line, the attribute ascribed to Sun is that of docile flexibility, which cannot long be successful against the strength emblemed by the lower trigram Khien. The restraint therefore is small, and in the end there will be 'progress and success.'
 
 The second sentence of the Thwan contains indications of the place, time, and personality of the writer which it seems possible to ascertain. The fief of Kâu was the western portion of the p. 78 kingdom of Yin or Shang, the China of the twelfth century B. C., the era of king Wăn. Rain coming and moistening the ground is the cause of the beauty and luxuriance of the vegetable world, and the emblem of the blessings flowing from good training and good government. Here therefore in the west, the hereditary territory of the house of Kâu, are blessings which might enrich the whole kingdom; but they are somehow restrained. The dense clouds do not empty their stores.
@@ -33,7 +37,7 @@ Line 2 is also strong, and though an even place is not appropriate to it, that p
 
 Line 3, though strong, and in a proper place, yet not being in the centre, is supposed to be less able to resist the restraint of line 4; and hence it has the ill omens that are given.
 
-The subject of line 4, one weak line against all the strong lines of the hexagram, might well expect wounds, and feel apprehension in trying to restrain the others; but it is in its proper place; it is the first line also of Sun, whose attribute is docile flexibility. [p. 79](e5b1a5lv.md) The strong lines are moved to sympathy and help, and 'there is no mistake.'
+The subject of line 4, one weak line against all the strong lines of the hexagram, might well expect wounds, and feel apprehension in trying to restrain the others; but it is in its proper place; it is the first line also of Sun, whose attribute is docile flexibility. [p. 79](e5b1a5lv.md#p-79) The strong lines are moved to sympathy and help, and 'there is no mistake.'
 
 Line 5 occupies the central place of Sun, and converts, by the sincerity, of its subject, 4 and 6 into its neighbours, who suffer themselves to be used by it, and effect their common object.
 

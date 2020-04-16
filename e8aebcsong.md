@@ -4,7 +4,9 @@ Chinese: sòng 讼 ䷅
 
 ![Song](https://88o.io/wp-content/uploads/2018/09/06-e8aebcsong.jpg)
 
-**Song(䷅)** intimates how, though there is sincerity in one's contention,
+#### p. 69
+
+**Sòng(䷅)** intimates how, though there is sincerity in one's contention,
 he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution,
 there will be good fortune, while, if he must prosecute the contention to the (bitter) end, there will be evil. It will be advantageous to see the great man; it will not be advantageous to cross the great stream.
 
@@ -12,8 +14,11 @@ there will be good fortune, while, if he must prosecute the contention to the (b
 
 2. The second NINE, undivided, shows its subject unequal to the contention. If he retire and keep concealed (where) the inhabitants of his city are (only) three hundred families, he will fall into no mistake.
 
-3. The third SIX, divided, shows its subject keeping in the old place assigned for his support, and firmly correct. Perilous as the position is, there will be good fortune in the end.
-Should he perchance engage in the king's business, he will not (claim the merit of) achievement.
+3. The third SIX, divided, shows its subject keeping in the old place assigned for his support, and firmly correct. Perilous as the position is, there will be good fortune in the end. Should he perchance
+
+#### p. 70
+
+engage in the king's business, he will not (claim the merit of) achievement.
 
 4. The fourth NINE, undivided, shows its subject unequal to the contention. He returns to (the study of Heaven's) ordinances, changes (his wish to contend), and rests in being firm and correct. There will be good fortune.
 
