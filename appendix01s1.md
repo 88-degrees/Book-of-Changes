@@ -52,13 +52,13 @@ are symbols of [Zhèn(䷲)](e99c87zhen.md) and [Kǎn(䷜)](e59d8ekan.md)), all (
 
 (The method of dealing with) the young and ignorant is to nourish the correct (nature belonging to them);--this accomplishes the service of the sage.
 
-V.
+[V](#fr_129).
 
 1. Hsü denotes waiting. (The figure) shows peril in front; but notwithstanding the firmness and strength (indicated by the inner trigram), its subject does not allow himself to be involved (in the dangerous defile);--it is right he should not be straitened or reduced to extremity.
 
 2. When it is said that, 'with the sincerity declared in Hsü, there will be brilliant success, and with firmness there will be good fortune,' this is shown by the position (of the fifth line) in the place assigned by Heaven, and its being the correct position for it, and in the centre. 'It will be advantageous to go through the great stream;'--that is, going forward will be followed by meritorious achievement.
 
-VI.
+[VI](#fr_130).
 
 1. The upper portion of Sung is (the trigram representing) strength, and the lower (that representing) peril. (The coming together of) strength and peril gives (the idea in) Sung.
 
@@ -70,19 +70,19 @@ VI.
 
 'It will not be advantageous to cross the great stream:'--one (attempting to do so) would find himself in an abyss.
 
-VII.
+[VII](#fr_131).
 
 1. (The name) Sze describes the multitude (of the host). The 'firmness and correctness' (which the hexagram indicates) refer to (moral) correctness (of aim). When (the mover) is able to use the multitude with such correctness, he may attain to the royal sway.
 
 2. There is (the symbol of) strength in the centre (of the trigram below), and it is responded to (by its proper correlate above). The action gives rise to perils, but is in accordance (with the best sentiments of men). (Its mover) may by such action distress all the country, but the people will follow him;--there will be good fortune, and what error should there be?
 
-VIII.
+[VIII](#fr_132).
 
 1. 'Pî indicates that there is good fortune:'--(the name) Pî denotes help; (and we see in the figure) inferiors docilely following (their superior).
 
 2. 'Let (the principal party intended in it) reexamine himself, (as if) by divination, whether his virtue be great, unintermitting, and firm;--if it be so, there will be no error:--all this follows from the position of the strong line in the centre (of the upper trigram). 'Those who have not rest will come to him:'--high and low will respond to its subject. 'With those who are (too) late in coming it will be ill:'--(for them) the way (of good fortune here indicated) has been exhausted.
 
-IX. 
+[IX](#fr_133).
 
 1. In Hsiâo Khû the weak line occupies its (proper) position, and (the lines) above and below respond to it. Hence comes the name of Hsiâo Khû (Small Restraint).
 
@@ -90,7 +90,7 @@ IX.
 
 3. 'Dense clouds but no rain' indicate the movement (of the strong lines) still going forward. The 'Commencing at our western border' indicates that the (beneficial) influence has not yet been widely displayed.
 
-X.
+[X](#fr_134).
 
 1. In Lî we have (the symbol of) weakness treading on (that of) strength.
 
@@ -98,29 +98,31 @@ X.
 
 3. (The fifth line is) strong, in the centre, and in its correct place. (Its subject) occupies the God-(given) position, and falls into no distress or failure;--(his) action will be brilliant.
 
-XI. 'The little come and the great gone in Thâi, and its indication that there will be good fortune with progress and success' show to us heaven and earth in communication with each other, and all things in consequence having free course, and (also) the high and the low, (superiors and inferiors), in communication with one another, and possessed by the same aim. The inner (trigram) is made up of the strong and undivided lines, and the outer of the weak and divided; the inner is (the symbol of) strength, and the outer of docility; the inner (represents) the superior man, and the outer the small man. (Thus) the way of the superior man appears increasing, and that of the small man decreasing.
+[XI](#fr_135). 'The little come and the great gone in Thâi, and its indication that there will be good fortune with progress and success' show to us heaven and earth in communication with each other, and all things in consequence having free course, and (also) the high and the low, (superiors and inferiors), in communication with one another, and possessed by the same aim. The inner (trigram) is made up of the strong and undivided lines, and the outer of the weak and divided; the inner is (the symbol of) strength, and the outer of docility; the inner (represents) the superior man, and the outer the small man. (Thus) the way of the superior man appears increasing, and that of the small man decreasing.
 
-XII. 'The want of good understanding between the (different classes of) men in Phî, and its indication as unfavourable to the firm and correct course of the superior man; with the intimation that the great are gone and the little come:'--all this springs from the fact that in it heaven and earth are not in communication with each other, and all things in consequence do not have free course; and that the high and the low (superiors and inferiors) are not in communication with one another, and there are no (well-regulated) states under the sky. The inner (trigram) is made up of the weak and divided lines, and the outer of the strong and undivided: the inner is (the symbol of) weakness, and the outer of strength; the inner (represents) the small man, and the outer the superior man. Thus the way of the small man appears increasing, and that of the superior man decreasing.
+[XII](#fr_136). 'The want of good understanding between the (different classes of) men in Phî, and its indication as unfavourable to the firm and correct course of the superior man; with the intimation that the great are gone and the little come:'--all this springs from the fact that in it heaven and earth are not in communication with each other, and all things in consequence do not have free course; and that the high and the low (superiors and inferiors) are not in communication with one another, and there are no (well-regulated) states under the sky. The inner (trigram) is made up of the weak and divided lines, and the outer of the strong and undivided: the inner is (the symbol of) weakness, and the outer of strength; the inner (represents) the small man, and the outer the superior man. Thus the way of the small man appears increasing, and that of the superior man decreasing.
 
-XIII. 1. In Thung Zăn the weak (line) has the place (of influence), the central place, and responds to (the corresponding line in) [Qián(䷀)](./e4b9beqian.md) (above); hence comes its name of Thung Zăn (or 'Union of men').
+[XIII](#fr_137). 1. In Thung Zăn the weak (line) has the place (of influence), the central place, and responds to (the corresponding line in) [Qián(䷀)](./e4b9beqian.md) (above); hence comes its name of Thung Zăn (or 'Union of men').
 
 2. Thung Zăn says: --
 
 3. The language, 'Thung Zăn appears here (as we find it) in (the remote districts of) the country, indicating progress and success, and that it will be advantageous to cross the great stream,' is moulded by its containing the strength (symbolled) in [Qián(䷀)](./e4b9beqian.md). (Then) we have (the trigram indicating) elegance and intelligence, supported by (that indicating) strength; with the line in the central, and its correct, position, and responding (to the corresponding line above):--(all representing) the correct course of the superior man. It is only the superior man who can comprehend and affect the minds of all under the sky.
 
-XIV.
+[XIV](#fr_138).
 
 1. In Tâ Yû the weak (line) has the place of honour, is grandly central, and (the strong lines) above and below respond to it. Hence comes its name of Tâ Yû (Having what is Great).
 
+###### p. 226
+
 2. The attributes (of its component trigrams) are strength and vigour with elegance and brightness. (The ruling line in it) responds to (the ruling line in the symbol of) heaven, and (consequently) its action is (all) at the proper times. In this way (it is said to) indicate great progress and success.
 
-XV.
+[XV](#fr_139).
 
 1. [Qián(䷀)](./e4b9beqian.md) indicates progress and success. It is the way of heaven to send down its beneficial influences below, where they are brilliantly displayed. It is the way of earth, lying low, to send its influences upwards and (there) to act.
 
 2. It is the way of heaven to diminish the full and augment the humble. It is the way of earth to overthrow the full and replenish the humble. Spiritual Beings inflict calamity on the full and bless the humble. It is the way of men to hate the full and love the humble. Humility in a position of honour makes that still more brilliant; and in a low position men will not (seek to) pass beyond it. Thus it is that 'the superior man will have a (good) issue (to his undertakings).'
 
-XVI.
+[XVI](#fr_140).
 
 1. In Yü we see the strong (line) responded to by all the others, and the will (of him whom it represents) being carried out; and (also) docile obedience employing movement (for its purposes). (From these things comes) Yü (the Condition of harmony and satisfaction).
 
@@ -128,7 +130,7 @@ XVI.
 
 3. Heaven and earth show that docile obedience in connexion with movement, and hence the sun and moon make no error (in time), and the four seasons do not deviate (from their order). The sages show such docile obedience in connexion with their movements, and hence their punishments and penalties are entirely just, and the people acknowledge it by their submission. Great indeed are the time and significance indicated in Yü!
 
-XVII.
+[XVII](#fr_141).
 
 1. In Sui we see the strong (trigram) come and place itself under the weak; we see (in the two) the attributes of movement and pleasure:--this gives (the idea of) Sui.
 
@@ -136,11 +138,13 @@ XVII.
 
 3. Great indeed are the time and significance indicated in Sui.
 
-XVIII. 1. In Kû we have the strong (trigram) above, and the weak one below; we have (below) pliancy, and (above) stopping:--these give the idea of Kû (a Troublous Condition of affairs verging to ruin).
+[XVIII](#fr_142).
+
+1. In Kû we have the strong (trigram) above, and the weak one below; we have (below) pliancy, and (above) stopping:--these give the idea of Kû (a Troublous Condition of affairs verging to ruin).
 
 2. 'Kû indicates great progress and success:'--(through the course shown in it), all under heaven, there will be good order. 'There will be advantage in crossing the great stream:'--he who advances will encounter the business to be done. '(He should weigh well, however, the events of) three days before (the turning-point), and those (to be done) three days after it:'--the end (of confusion) is the beginning (of order); such is the procedure of Heaven.
 
-XIX.
+[XIX](#fr_143).
 
 1. In Lin (we see) the strong (lines) gradually increasing and advancing.
 
@@ -150,7 +154,7 @@ XIX.
 
 4. 'In the eighth month there will be evil:'--(the advancing power) will decay after no long time.
 
-XX.
+[XX](#fr_144).
 
 1. The great Manifester occupies an upper place (in the figure), which consists of (the trigrams whose attributes are) docility and flexibility.
 He is in the central position and his correct place, and thus exhibits (his lessons) to all under heaven.
@@ -159,15 +163,19 @@ He is in the central position and his correct place, and thus exhibits (his less
 
 3. When we contemplate the spirit-like way of Heaven, we see how the four seasons proceed without error. The sages, in accordance with (this) spirit-like way, laid down their instructions, and all under heaven yield submission to them.
 
-XXI.
+[XXI](#fr_145).
 
 1. The existence of something between the jaws gives rise to the name Shih Ho (Union by means of biting through the intervening article).
 
 2. The Union by means of biting through the intervening article indicates 'the successful progress (denoted by the hexagram).'
 
-The strong and weak (lines) are equally divided (in the figure). Movement is denoted (by the lower trigram), and bright intelligence (by the upper); thunder and lightning uniting in them, and having brilliant manifestation. The weak (fifth) line is in the centre, and acts in its high position. Although it is not in its proper position, this is advantageous for the use of legal constraints.
+The strong and weak (lines) are equally divided (in the figure). Movement is denoted (by the lower trigram), and bright intelligence (by the upper); thunder and lightning uniting in them, and having brilliant manifestation. The weak (fifth) line is in
 
-XXII.
+###### p. 231
+
+the centre, and acts in its high position. Although it is not in its proper position, this is advantageous for the use of legal constraints.
+
+[XXII](#fr_146).
 
 1. (When it is said that) Pî indicates that there should be free course (in what it denotes):--
 
@@ -177,13 +185,13 @@ XXII.
 
 4. We look at the ornamental figures of the sky, and thereby ascertain the changes of the seasons. We look at the ornamental observances of society, and understand how the processes of transformation are accomplished all under heaven.
 
-XXIII.
+[XXIII](#fr_147).
 
 1. Po denotes overthrowing or being overthrown. We see (in the figure) the weak lines (threatening to) change the (last) strong line (into one of themselves).
 
 2. That 'it will not be advantageous to make a movement in any direction whatever' appears from the fact that the small men are (now) growing and increasing. The superior man acts according to (the exigency of the time), and stops all forward movement, looking at the (significance of the) symbolic figures (in the hexagram). He values the processes of decrease and increase, of fulness and decadence, (as seen) in the movements of the heavenly bodies.
 
-XXIV.
+[XXIV](#fr_148).
 
 1. 'Fû indicates the free course and progress (of what it denotes):'--it is the coming back of what is intended by the undivided line.
 
@@ -195,11 +203,11 @@ XXIV.
 
 5. Do we not see in Fû the mind of heaven and earth?
 
-XXV. In Wû Wang we have the strong (first) line come from the outer (trigram), and become in the inner trigram lord (of the whole figure); we have (the attributes of) motive power and strength; we have the strong line (of the fifth place) in the central position, and responded to (by the weak second):--there will be 'great progress proceeding from correctness; such is the appointment of Heaven.
+[XXV](#fr_149). In Wû Wang we have the strong (first) line come from the outer (trigram), and become in the inner trigram lord (of the whole figure); we have (the attributes of) motive power and strength; we have the strong line (of the fifth place) in the central position, and responded to (by the weak second):--there will be 'great progress proceeding from correctness; such is the appointment of Heaven.
 
 'If (its subject and his action) be not correct, he will fall into errors, and it will not be advantageous for him to move in any direction:'--whither can he (who thinks he is) free from all insincerity, (and yet is as here described) proceed? Can anything be done (advantageously) by him whom the (will and) appointment of Heaven do not help?
 
-XXVI.
+[XXVI](#fr_150).
 
 1. In (the trigrams composing) Tâ Khû we have (the attributes) of the greatest strength and of substantial solidity, which emit a brilliant light; and indicate a daily renewal of his virtue (by the subject of it).
 
@@ -207,17 +215,19 @@ XXVI.
 
 3. 'The good fortune attached to the subject's not seeking to enjoy his revenues in his own family' shows how talents and virtue are nourished.
 
-p. 235
+###### p. 235
 
 4. 'It will be advantageous to cross the great stream:'--(the fifth line, representing the ruler,) is responded to by (the second, the central line of [Qián(䷀)](./e4b9beqian.md), representing) Heaven.
 
-XXVII.
+[XXVII](#fr_151).
 
 1. 'Î indicates that with firm correctness there will be good fortune:'--when the nourishing is correct, there will be good fortune. 'We must look at what we are seeking to nourish:'--we must look at those whom we wish to nourish. 'We must by the exercise of our thoughts seek the proper aliment:'--we must look to our own nourishing of ourselves.
 
 2. Heaven and earth nourish all things. The sages nourish men of talents and virtue, by them to reach to the myriads of the people. Great is (the work intended by this) nourishing in its time!
 
-XXVIII.
+###### p. 236
+
+[XXVIII](#fr_152).
 
 1. Tâ Kwo shows the great ones (= the undivided lines) in excess.
 
@@ -227,7 +237,7 @@ XXVIII.
 
 4. Great indeed is (the work to be done in) this very extraordinary time.
 
-XXIX.
+[XXIX](#fr_153).
 
 1. [Kǎn(䷜)](e59d8ekan.md) repeated shows us one defile succeeding another.
 
@@ -237,7 +247,7 @@ XXIX.
 
 4. The dangerous (height) of heaven cannot be ascended; the difficult places of the earth are mountains, rivers, hills, and mounds. Kings and princes arrange by means of such strengths, to maintain their territories. Great indeed is the use of (what is here) taught about seasons of peril.
 
-XXX.
+[XXX](#fr_154).
 
 1. Lî means being attached to. The sun and moon have their place in the sky. All the grains, grass, and trees have their place on the earth. The double brightness (of the two trigrams) adheres to what is correct, and the result is the transforming and perfecting all under the sky.
 
@@ -259,7 +269,7 @@ Paragraph 3 treats of the symbol of the 'mare,' to lead the mind to the course o
 
 See the note, corresponding to paragraph 4, on the Text. 'Resting in firmness' is the normal course of [Kūn(䷁)](./e59da4kun.md). Where it is pursued, the good effect will be great, great as the unlimited capacity of the earth.
 
-Kun is made up of the trigrams [Zhèn(䷲)](e99c87zhen.md) and [Kǎn(䷜)](e59d8ekan.md); but according to the views on king Wăn's arrangement of the trigrams, as set forth especially in Appendix V, chap. 14, the six others come from [Qián(䷀)](./e4b9beqian.md) and [Kūn(䷁)](./e59da4kun.md), and are said to be their children. On the first application of [Kūn(䷁)](./e59da4kun.md) to [Qián(䷀)](./e4b9beqian.md), there results [Zhèn(䷲)](e99c87zhen.md), the first line of [Qián(䷀)](./e4b9beqian.md) taking the place of the last of [Kūn(䷁)](./e59da4kun.md); and on the second application, there results [Kǎn(䷜)](e59d8ekan.md), the middle line of [Qián(䷀)](./e4b9beqian.md) taking the place of that of [Kūn(䷁)](./e59da4kun.md). McClatchie renders here:--'The Thun (Kun) diagram represents the hard and the soft (air) beginning to have sexual intercourse, and bringing forth with suffering!' But there is nothing in the Yî, from the beginning to the end, to justify such an interpretation. Nor do I see how, from any account of the genesis by the component trigrams, the idea of the result as signifying a state of difficulty and distress can be readily made out.
+[Zhūn(䷂)](e5b1afzhun.md) is made up of the trigrams [Zhèn(䷲)](e99c87zhen.md) and [Kǎn(䷜)](e59d8ekan.md); but according to the views on king Wăn's arrangement of the trigrams, as set forth especially in Appendix V, chap. 14, the six others come from [Qián(䷀)](./e4b9beqian.md) and [Kūn(䷁)](./e59da4kun.md), and are said to be their children. On the first application of [Kūn(䷁)](./e59da4kun.md) to [Qián(䷀)](./e4b9beqian.md), there results [Zhèn(䷲)](e99c87zhen.md), the first line of [Qián(䷀)](./e4b9beqian.md) taking the place of the last of [Kūn(䷁)](./e59da4kun.md); and on the second application, there results [Kǎn(䷜)](e59d8ekan.md), the middle line of [Qián(䷀)](./e4b9beqian.md) taking the place of that of [Kūn(䷁)](./e59da4kun.md). McClatchie renders here:--'The Thun ([Zhūn(䷂)](e5b1afzhun.md)) diagram represents the hard and the soft (air) beginning to have sexual intercourse, and bringing forth with suffering!' But there is nothing in the Yî, from the beginning to the end, to justify such an interpretation. Nor do I see how, from any account of the genesis by the component trigrams, the idea of the result as signifying a state of difficulty and distress can be readily made out.
 
 In paragraph 2 there is an attempt from the virtues or attributes assigned to the trigrams to make out the result indicated in the Thwan. To move and excite is the quality of [Zhèn(䷲)](e99c87zhen.md); perilousness is the quality of [Kǎn(䷜)](e59d8ekan.md). The power to move is likely to produce great effects; to do this in perilous and difficult circumstances requires firmness and correctness. But neither is this explanation very satisfactory.
 
