@@ -20,7 +20,7 @@ Chinese: tóng rén 同人 ䷌
 
 ## Notes
 
-**Tóngrén ䷌** describes a condition of nature and of the state opposite to that of [**Pi ䷋**](e590a6pi.md).
+**Tóngrén ䷌** describes a condition of nature and of the state opposite to that of [**Pǐ ䷋**](e590a6pi.md).
 There was distress and obstruction; here is union. But the union must be based entirely on public considerations, without taint of selfishness.
 
 The strong line in the fifth, its correct, place, occupies the most important position, and has for its correlate the weak second line, also in its correct place. The one divided line is naturally sought after by all the strong lines. The upper trigram is that of heaven, which is above; the lower is that of fire, whose tendency is to mount upwards. All these things are in harmony with the idea of union. But the union must be free from all selfish motives, and this is indicated by its being in the remote districts of the country, where people are unsophisticated, and free from the depraving effects incident to large societies. A union from such motives will cope with the greatest difficulties; and yet a word of caution is added.
