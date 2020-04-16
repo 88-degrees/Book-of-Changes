@@ -4,7 +4,9 @@ Chinese: suí 随 ䷐
 
 ![Sui](https://88o.io/wp-content/uploads/2018/09/17-e99a8fsui.jpg)
 
-**Sui** indicates that (under its conditions) there will be great progress and success. But it will be advantageous to be firm and correct. There will (then) be no error.
+###### p. 93
+
+**Suí ䷐** indicates that (under its conditions) there will be great progress and success. But it will be advantageous to be firm and correct. There will (then) be no error.
 
 1. The first NINE, undivided, shows us one changing the object of his pursuit; but if he be firm and correct, there will he good fortune. Going beyond (his own) gate to find associates, he will achieve merit.
 
@@ -20,7 +22,7 @@ Chinese: suí 随 ䷐
 
 ## Notes
 
-**Sui** symbolises the idea of following. It is said to follow Yü, the symbol of harmony and satisfaction.
+**Suí ䷐** symbolises the idea of following. It is said to follow Yü, the symbol of harmony and satisfaction.
 Where there are these conditions men are sure to follow; nor will they follow those in whom they have no complacency.
 The hexagram includes the cases where one follows others, and where others follow him;
 and the auspice of great progress and success is due to this flexibility and applicability of it.
