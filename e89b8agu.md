@@ -37,7 +37,8 @@ By giving heed to the cautions in the Text, he will accomplish what is promised.
 The ruler in line 5 is represented by a weak line, while 2 is strong. Thus the symbolism takes the form of a son dealing with the prevailing decay induced somehow by his mother.
 But a son must be very gentle in all his intercourse with his mother, and especially so, when constrained by a sense of duty to oppose her course. I do not think there is anything more or better to be said here.
 The historical interpretation adopted by Regis and his friends, that the father here is king Wăn, the mother Thâi-sze, and the son king Wû, cannot be maintained.
-I have searched, but in vain, for the slightest Chinese sanction of it, and it would give to Kû the meaning of misfortunes endured, instead of troubles caused.
+
+I have searched, but in vain, for the slightest Chinese sanction of it, and it would give to **Gǔ ䷑** the meaning of misfortunes endured, instead of troubles caused.
 
 Line 3 is strong, and not central, so that its subject might well go to excess in his efforts. But this tendency is counteracted by the line's place in the trigram Sun, often denoting lowly submission.
 
