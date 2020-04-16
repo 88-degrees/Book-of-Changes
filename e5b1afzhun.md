@@ -4,9 +4,9 @@ Chinese: zhūn 屯 ䷂
 
 ![Zhun](https://88o.io/wp-content/uploads/2018/09/03-e5b1afzhun.jpg)
 
-#### p. 62
+###### p. 62
 
-**Zhūn(䷂)** (indicates that in the case which it presupposes) there will be great progress and success,
+**Zhūn ䷂** (indicates that in the case which it presupposes) there will be great progress and success,
 and the advantage will come from being correct and firm. (But) any movement in advance should not be (lightly) undertaken. There will be advantage in appointing feudal princes.
 
 1. The first NINE, undivided, shows the difficulty (its subject has) in advancing. It will be advantageous for him to abide correct and firm; advantageous (also) to be made a feudal ruler.
@@ -15,7 +15,7 @@ and the advantage will come from being correct and firm. (But) any movement in a
 
 3. The third SIX, divided, shows one following the deer without (the guidance of) the forester, and only finding himself in the midst of the forest. The superior man, acquainted with the secret risks, thinks it better to give up the chase. If he went forward, he would regret it.
 
-#### p. 63
+###### p. 63
 
 4. The fourth SIX, divided, shows (its subject as a lady), the horses of whose chariot appear in retreat.
 She seeks, however, (the help of) him who seeks her to be his wife. Advance will be fortunate; all will turn out advantageously.
@@ -27,7 +27,7 @@ With firmness and correctness there will be good fortune in small things; (even)
 
 ## Notes
 
-The character called **Zhūn(䷂)** is pictorial, and was intended to show us how a plant struggles with difficulty out of the earth, rising gradually above the surface.
+The character called **Zhūn ䷂** is pictorial, and was intended to show us how a plant struggles with difficulty out of the earth, rising gradually above the surface.
 This difficulty, marking the first stages in the growth of a plant, is used to symbolise the struggles that mark the rise of a state out of a condition of disorder, consequent on a great revolution. The same thing is denoted by the combination of the trigrams that form the figure;--as will be seen in the notes on it under [Appendix II](./appendix02s1.md).
 
 I have introduced within parentheses, in the translation, the words 'in the case which the hexagram presupposes.' It is necessary to introduce them. King Wăn and his son wrote, as they did in every hexagram, with reference to a particular state of affairs which they had in mind. This was the unspoken text which controlled and directed all their writing; and the student must try to get hold of this, if he would make his way with comfort and success through the Yî. Wăn saw the social and political world around him in great disorder, hard to be remedied. But he had faith in himself and the destinies of his House. Let there be prudence and caution, with unswerving adherence to the right; let the government of the different states be entrusted to good and able men:--then all would be well.
