@@ -16,6 +16,8 @@ Chinese: suí 随 ䷐
 
 4. The fourth NINE, undivided, shows us one followed and obtaining (adherents). Though he be firm and correct, there will be evil. If he be sincere (however) in his course, and make that evident, into what error will he fall?
 
+###### p. 94
+
 5. The fifth NINE, undivided, shows us (the ruler) sincere in (fostering all) that is excellent. There will be good fortune.
 
 6. The topmost SIX, divided, shows us (that sincerity) firmly held and clung to, yea, and bound fast. (We see) the king with it presenting his offerings on the western mountain.
