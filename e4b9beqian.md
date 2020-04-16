@@ -6,7 +6,7 @@ Chinese: qián 乾 ䷀
 
 ###### p. 57
 
-**Qián** (represents) what is great and originating, penetrating, advantageous, correct and firm.
+**Qián(䷀)** (represents) what is great and originating, penetrating, advantageous, correct and firm.
 
 1. In the first (or lowest) NINE, undivided, (we see its subject as) the dragon lying hid (in the deep). It is not the time for active doing.
 

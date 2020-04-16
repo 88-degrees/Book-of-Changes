@@ -16,7 +16,7 @@ In the heavens there are the (different) figures there completed, and on the ear
 
 2. After this fashion a strong and a weak line were manipulated together (till there were the eight trigrams), and those eight trigrams were added, each to itself and to all the others, (till the sixty-four hexagrams were formed).
 
-#### p. 349
+###### p. 349
 
 3. We have the exciting forces of thunder and lightning; the fertilising influences of wind and rain; and the revolutions of the sun and moon, which give rise to cold and warmth.
 
@@ -30,7 +30,7 @@ In the heavens there are the (different) figures there completed, and on the ear
 
 8. With the attainment of such ease and such freedom from laborious effort, the mastery is got of all principles under the sky. With the attainment of that mastery, (the sage) makes good his position in the middle (between heaven and earth).
 
-#### p. 350
+###### p. 350
 
 Chapter  II. 9. The sages set forth the diagrams, inspected the emblems contained in them, and appended their explanations;--in this way the good fortune and bad (indicated by them) were made clear.
 
@@ -38,7 +38,7 @@ Chapter  II. 9. The sages set forth the diagrams, inspected the emblems containe
 
 11. Therefore the good fortune and evil (mentioned in the explanations) are the indications of the right and wrong (in men's conduct of affairs), and the repentance and regret (similarly mentioned) are the indications of their sorrow and anxiety.
 
-#### p. 351
+###### p. 351
 
 12. The changes and transformations (of the lines) are the emblems of the advance and retrogression (of the vital force in nature). Thus what we call the strong and the weak (lines) become the emblems of day and night. The movements which take place in the six places (of the hexagram) show the course of the three extremes (i. e. of the three Powers in their perfect operation).
 
@@ -46,7 +46,7 @@ Chapter  II. 9. The sages set forth the diagrams, inspected the emblems containe
 
 14. Therefore the superior man, when living quietly, contemplates the emblems and studies the explanations of them; when initiating any movement, he contemplates the changes (that are made in divining), and studies the prognostications from them. Thus 'is help extended to him from Heaven; there will be good fortune, and advantage in every movement.'
 
-#### p. 352
+###### p. 352
 
 Chapter  III. 15. The Thwan speak of the emblematic figures (of the complete diagrams). The Yâo speak of the changes (taking place: in the several lines).
 
@@ -56,7 +56,7 @@ Chapter  III. 15. The Thwan speak of the emblematic figures (of the complete dia
 
 18. Anxiety against (having occasion for) repentance or regret should be felt at the: boundary line (between good and evil). The stirring up the thought of (securing that there shall be) no blame arises from (the feeling of) repentance.
 
-#### p. 353
+###### p. 353
 
 19. Thus of the diagrams some are small, and some are great; and of the explanations some are startling, and some are unexciting. Every one of those explanations has reference to the tendencies (indicated by the symbols).
 
@@ -64,7 +64,7 @@ Chapter  IV. 20. The Yî was made on a principle of accordance with heaven and e
 
 21. (The sage), in accordance with (the Yî), looking up, contemplates the brilliant phenomena of the heavens, and, looking down, examines the definite arrangements of the earth;--thus he knows the causes of darkness (or, what is obscure) and light (or, what is bright). He traces things to their beginning, and follows them to their end;--thus he knows what can be said about death and life. (He
 
-#### p. 354
+###### p. 354
 
 perceives how the union of) essence and breath form things, and the (disappearance or) wandering away of the soul produces the change (of their constitution);--thus he knows the characteristics of the anima and animus.
 
@@ -72,11 +72,11 @@ perceives how the union of) essence and breath form things, and the (disappearan
 
 23. (Through the Yî), he comprehends as in a mould or enclosure the transformations of heaven and earth without any error; by an ever-varying adaptation he completes (the nature of) all things without exception; he penetrates to a knowledge of the course of day and night (and all other connected phenomena);--it is thus that his operation is spirit-like, unconditioned by place, while the changes which he produces are not restricted to any form.
 
-#### p. 355
+###### p. 355
 
 Chapter  V. 24. The successive movement of the inactive and active operations constitutes what is called the course (of things).
 
-#### p. 356
+###### p. 356
 
 25. That which ensues as the result (of their movement) is goodness; that which shows it in its completeness is the natures (of men and things).
 
@@ -92,13 +92,13 @@ Chapter  V. 24. The successive movement of the inactive and active operations co
 
 31. The exhaustive use of the numbers (that turn
 
-#### p. 357
+###### p. 357
 
 up in manipulating the stalks), and (thereby) knowing (the character of) coming events, is what we call prognosticating; the comprehension of the changes (indicated leads us to) what we call the business (to be done).
 
 32. That which is unfathomable in (the movement of) the inactive and active operations is (the presence of a) spiritual (power).
 
-#### p. 358
+###### p. 358
 
 Chapter  VI. 33. Yes, wide is the Yî and great! If we speak of it in its farthest reaching, no limit can be set to it; if we speak of it with reference to what is near at hand, (its lessons are) still and correct; if we speak of it in connexion with all between heaven and earth, it embraces all.
 
@@ -106,13 +106,13 @@ Chapter  VI. 33. Yes, wide is the Yî and great! If we speak of it in its farthe
 
 35. In its breadth and greatness, (the Yî) corresponds
 
-#### p. 359
+###### p. 359
 
 to heaven and earth; in its ever-recurring changes, it corresponds to the four seasons; in its mention of the bright or active, and the dark or inactive operation, it corresponds to the sun and moon; and the excellence seen in the ease and ready response (of its various operations) corresponds to the perfect operations (presented to us in the phenomena of nature).
 
 Chapter  VII. 36. The Master said:--'Is not the Yî a perfect book?' It was by the Yî that the sages exalted their virtue, and enlarged their sphere of occupation. Their wisdom was high, and their rules of conduct were solid. That loftiness was after the pattern of heaven; that solidity, after the pattern of earth.
 
-#### p. 360
+###### p. 360
 
 37. Heaven and earth having their positions as assigned to them, the changes (of nature) take place between them. The nature (of man) having been completed, and being continually preserved, it is the gate of all good courses and righteousness.
 
@@ -120,7 +120,7 @@ Chapter  VIII. 38. The sage was able to survey all the complex phenomena under t
 
 39. A (later) sage was able to survey the motive influences working all under the sky. He contemplated them in. their common action and special nature, in order to bring out the standard and proper tendency of each. He then appended his
 
-#### p. 361
+###### p. 361
 
 explanation (to each line of the diagrams), to determine the good or evil indicated by it. Hence those (lines with their explanations) are denominated Imitations (the Yâo).
 
@@ -137,7 +137,7 @@ With thee a cup I'll freely share.'
 
 The Master said:--'The superior man occupies his apartment and sends forth his words. If they be good, they will be responded to at a distance of more than a thousand lî;--how much more will they be so in the nearer circle! He occupies his apartment and sends forth his words. If they be evil, they will awaken opposition at a distance of more than a thousand lî;--how much more will they do so in the nearer circle! Words issue from one's person, and proceed to affect the people. Actions proceed from what is near, and their effects are seen at a distance. Words and actions are the hinge and spring of the superior man. The movement of that
 
-#### p. 362
+###### p. 362
 
 hinge and spring determines glory or disgrace. His words and actions move heaven and earth;--may he be careless in regard to them?'
 
@@ -157,7 +157,7 @@ Fragrance like orchid plants diffuse.'
 
 45. 'A superior man toiling laboriously and yet humble! He will bring things to an end, and with good fortune.' The Master said on this:--'He toils with success, but does not boast of it; he achieves merit, but takes no virtue to himself from it;--this is the height of generous goodness, and speaks of the man who with (great) merit yet places
 
-#### p. 363
+###### p. 363
 
 himself below others. He wishes his virtue to be more and more complete, and in his intercourse with others to be more and more respectful;--he who is so humble, carrying his respectfulness to the utmost, will be able to preserve himself in his position.'
 
@@ -167,11 +167,11 @@ himself below others. He wishes his virtue to be more and more complete, and in 
 
 48. The Master said:--'The makers of the Yî may be said to have known (the philosophy of) robbery. The Yî says, "He is a burden-bearer, and yet rides in a carriage, thereby exciting robbers to attack him." Burden-bearing is the business of a small man. A carriage is the vehicle of a gentleman. When a small man rides in the vehicle of a gentle
 
-#### p. 364
+###### p. 364
 
 man, robbers will think of taking it from him. (When one is) insolent to those above him, and oppressive to those below, robbers will wish to attack him. Careless laying up of things excites to robbery, (as a woman's) adorning of herself excites to lust. What the Yî says about the burden-bearer's riding in a carriage, and exciting robbers to attack him, (shows how) robbery is called out.'
 
-#### p. 365
+###### p. 365
 
 Chapter  IX. 49. To heaven belongs (the number) 1; to earth, 2; to heaven, 3; to earth, 4; to heaven, 5; to earth, 6; to heaven, 7; to earth, 8; to heaven, 9; to earth, 10.
 
@@ -181,7 +181,7 @@ Chapter  IX. 49. To heaven belongs (the number) 1; to earth, 2; to heaven, 3; to
 
 52. The numbers (required) for [Qián(䷀)](e4b9beqian.md) (or the
 
-#### p. 366
+###### p. 366
 
 undivided line) amount to 216; those for [Kūn(䷁)](e59da4kun.md) (or the divided line), to 144. Together they are 36o, corresponding to the days of the year.
 
@@ -197,15 +197,15 @@ undivided line) amount to 216; those for [Kūn(䷁)](e59da4kun.md) (or the divid
 
 58. The Master said:--'He who knows the method of change and transformation may be said to know what is done by that spiritual (power).'
 
-#### p. 367
+###### p. 367
 
 Chapter  X. 59. In the Yî there are four things characteristic of the way of the sages. We should set the highest value on its explanations to guide
 
-#### p. 368
+###### p. 368
 
 us in speaking; on its changes for (the initiation of) our movements; on its emblematic figures for (definite action as in) the construction of implements;
 
-#### p. 369
+###### p. 369
 
 and on its prognostications for our practice of divination.
 
@@ -213,7 +213,7 @@ and on its prognostications for our practice of divination.
 
 61. (The stalks) are manipulated by threes and fives to determine (one) change; they are laid on opposite sides, and placed one up, one down, to make sure of their numbers; and the (three necessary)
 
-#### p. 370
+###### p. 370
 
 changes are gone through with in this way, till they form the figures pertaining to heaven or to earth. Their numbers are exactly determined, and the emblems of (all things) under the sky are fixed. (If the Yî) were not the thing most capable of change of all things under heaven, how could it effect such a result as this?
 
@@ -225,13 +225,13 @@ changes are gone through with in this way, till they form the figures pertaining
 
 65. This is the import of what the Master said, that 'In the Yî there are four things indicating the way of the sages.'
 
-#### p. 371
+###### p. 371
 
 Chapter  XI. 66. The Master said:--'What is it that the Yî does? The Yî opens up (the knowledge of the issues of) things, accomplishes the undertakings (of men), and embraces under it (the way of) all things under the sky. This and nothing more is what the Yî does. Thereby the sages, through (divination by) it, would give their proper course to the aims of all under the sky, would give stability to their undertakings, and determine their doubts.'
 
 67. Therefore the virtue of the stalks is versatile
 
-#### p. 372
+###### p. 372
 
 and spirit-like; that of the diagrams is exact and wise; and the meaning given by the six lines is changeful to give (the proper information to men). The sages having, by their possession of these (three virtues), cleansed their minds, retired and laid them up in the secrecy (of their own consciousness). But their sympathies were with the people in regard both to their good fortune and evil. By their spirit-like ability they knew (the character of) coming events, and their wisdom had stored up (all experiences of) the past. Who could be able to accomplish all this? (Only our) ancient sages, quick in apprehension and clear in discernment, of far-reaching intelligence, and all-embracing knowledge, and with a majesty, going spirit-like to its objects;--it was only they who could do so.
 
@@ -241,7 +241,7 @@ and spirit-like; that of the diagrams is exact and wise; and the meaning given b
 
 The (first) appearance of anything (as a bud) is
 
-#### p. 373
+###### p. 373
 
 what we call a semblance; when it has received its complete form, we call it a definite thing.
 
@@ -253,7 +253,7 @@ what we call a semblance; when it has received its complete form, we call it a d
 
 72. Therefore of all things that furnish models and visible figures there are none greater than heaven and earth; of things that change and extend an influence (on others) there are none greater than the four seasons; of things suspended (in the sky) with their figures displayed clear and bright, there are none greater than the sun and moon; of the honoured and exalted there are none greater than he who is the rich and noble (one); in preparing things for practical use, and inventing and making instruments for the benefit of all under the sky, there are none greater than the sages; to explore what is complex, search out what is hidden, to hook up what lies deep, and reach to what is distant, thereby determining (the issues) for good or ill of all events under the sky, and making all men under heaven full of strenuous endeavours, there
 
-#### p. 374
+###### p. 374
 
 are no (agencies) greater than those of the stalks and the tortoise-shell.
 
@@ -261,17 +261,17 @@ are no (agencies) greater than those of the stalks and the tortoise-shell.
 
 74. In the (scheme of the) Yî there are the four symbolic figures by which they inform men (in divining of the lines making up the diagrams); the explanations appended to them convey the significance (of the diagrams and lines); and the determination (of the divination) as fortunate or the reverse, to settle the doubts (of men).
 
-#### p. 375
+###### p. 375
 
 Chapter  XII, 75. It is said in the Yî, 'Help is given to him from Heaven. There will be good fortune; advantage in every respect.' The Master
 
-#### p. 376
+###### p. 376
 
 said:--'Yû ( ) is the symbol of assisting. He whom Heaven assists is observant (of what is right); he whom men assist is sincere. The individual here indicated treads the path of sincerity and desires to be observant (of what is right), and studies to exalt the worthy. Hence "Help is given to him from Heaven. There will be good fortune, advantage in every respect."'
 
 76. The Master said:--'The written characters are
 
-#### p. 377
+###### p. 377
 
 not the full exponent of speech, and speech is not the full expression of ideas;--is it impossible then to discover the ideas of the sages?' The Master said:--'The sages made their emblematic symbols to set forth fully their ideas; appointed (all) the diagrams to show fully the truth and falsehood (of things); appended their explanations to give the full expression of their words; and changed (the various lines) and made general the method of doing so, to exhibit fully what was advantageous. They (thus) stimulated (the people) as by drums and dances, thereby completely developing the spirit-like (character of the Yî).'
 
@@ -283,7 +283,7 @@ Transformation and shaping is what we call change; carrying this out and operati
 
 79. Hence, to speak of the emblematic figures:--(The sage) was able to survey all the complex phenomena
 
-#### p. 378
+###### p. 378
 
 under the sky. He then considered in his mind how they could be figured, and (by means of the diagrams) represented their material forms and their character. Hence those (diagrams) are denominated Semblances. A (later) sage was able to survey the motive influences working all under the sky. He contemplated them in their common action and special nature, in order to bring out the standard and proper tendency of each. He then appended his explanation (to each line), to determine the good or evil indicated by it. Hence those (lines with their explanations) are denominated Imitations (the Yâo).
 
@@ -395,7 +395,7 @@ Paragraph 66 answers the question of what the Yî does; and if there were truth 
 
 Paragraphs 67 and 68 glorify the sages and their work. The virtues of the divining-plant all belonged to them, and it was thus that they were able to organise the scheme of divination. The production of 'the spirit-like things' is, in paragraph 73, ascribed to Heaven;' the characters about them in these paragraphs mean no more than is expressed in the translation.
 
-#### p. 375
+###### p. 375
 
 Paragraph 69 shows how the antinomy of the yin and yang pervades all nature, and how the sages turned it, as existing preeminently in the divining-plant, to account.
 
