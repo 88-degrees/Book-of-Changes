@@ -7,11 +7,11 @@ Chinese: guān 观 ䷓
 ###### p. 99
 
 **Guān ䷓** shows (how he whom it represents should be like) the worshipper who has washed his hands,
-but not (yet) presented his offerings; -- with
+but not (yet) presented his offerings; -- with sincerity
 
 ###### p. 100
 
-sincerityand an appearance of dignity (commanding reverent regard).
+and an appearance of dignity (commanding reverent regard).
 
 1. The first SIX, divided, shows the looking of a lad; -- not blamable in men of inferior rank, but matter for regret in superior men.
 
