@@ -1,4 +1,4 @@
-# Yu ䷏
+# Yǜ ䷏
 
 Chinese: yǜ 豫 ䷏
 
