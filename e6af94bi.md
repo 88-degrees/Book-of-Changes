@@ -4,11 +4,11 @@ Chinese: bǐ 比 ䷇
 
 ![Bi](https://88o.io/wp-content/uploads/2018/09/08-e6af94bi.jpg)
 
-#### p. 73
+###### p. 73
 
-**Bǐ(䷇)** indicates that (under the conditions which it supposes) there is good fortune. But let (the principal party intended in it) re-examine himself, (as if) 
+**Bǐ ䷇** indicates that (under the conditions which it supposes) there is good fortune. But let (the principal party intended in it) re-examine himself, (as if) 
 
-#### p. 74
+###### p. 74
 
 by divination, whether his virtue be great, unintermitting, and firm. If it be so, there will be no error. Those who have not rest will then come to him; and with those who are (too) late in coming it will be ill.
 
@@ -16,11 +16,11 @@ by divination, whether his virtue be great, unintermitting, and firm. If it be s
 
 2. In the second SIX, divided, we see the movement towards union and attachment proceeding from the inward (mind). With firm correctness there will be good fortune.
 
-In the third SIX, divided, we see its subject seeking for union with such as ought not to be associated with.
+3. In the third SIX, divided, we see its subject seeking for union with such as ought not to be associated with.
 
 4. In the fourth SIX, divided, we see its subject
 
-#### p. 75
+###### p. 75
 
 seeking for union with the one beyond himself. With firm correctness there will be good fortune.
 
@@ -31,7 +31,7 @@ seeking for union with the one beyond himself. With firm correctness there will 
 ## Notes
 
 The idea of union between the different members and classes of a state, and how it can be secured,
-is the subject of the hexagram **Bǐ(䷇)**. The whole line occupying the fifth place, or that of authority, in the hexagram,
+is the subject of the hexagram **Bǐ ䷇**. The whole line occupying the fifth place, or that of authority, in the hexagram,
 represents the ruler to whom the subjects of all the other lines offer a ready submission. According to the general rules for the symbolism of the lines, the second line is the correlate of the fifth; but all the other lines are here made subject to that fifth;--which is also a law of the Yî, according to the 'Daily Lecture.' To me it has the suspicious look of being made for the occasion. The harmony of union, therefore, is to be secured by the sovereign authority of one; but he is warned to see to it that his virtue be what will beseem his place, and subjects are warned not to delay to submit to him.
 
 Where does the 'sincerity' predicated of the subject of line 1 come from? The 'earthenware vessel' is supposed to indicate its plain, unadorned character; but there is nothing in the position and nature of the line, beyond the general idea in the figure, to Suggest the attribute.
