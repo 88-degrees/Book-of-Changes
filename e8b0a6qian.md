@@ -33,7 +33,7 @@ Line 2 is weak, central, and in its proper place, representing a humility that h
 
 Line 3 is strong, and occupies an odd (its proper) place. It is 'the lord of the hexagram,' to whom all represented by the lines above and below turn.
 
-Line 4 is weak and in its proper position. Its subject is sure to p. 91 be successful and prosperous, but being so near the fifth line, he should still use the greatest precaution.
+Line 4 is weak and in its proper position. Its subject is sure to [p. 91](e8b1abyu.md#p-91) be successful and prosperous, but being so near the fifth line, he should still use the greatest precaution.
 
 All men love and honour humility, in itself and without the adjuncts which usually command obedience and respect. Hence his neighbours follow the ruler in the fifth line, though he may not be very rich or powerful. His humility need not keep him from asserting the right, even by force of arms.
 
