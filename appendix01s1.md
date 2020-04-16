@@ -1,6 +1,6 @@
 # APPENDIX I
 
-Treatise on the Thwan [1](#), or king Wăn's Explanations of the entire Hexagrams
+Treatise on the Thwan [1](#fr_124), or king Wăn's Explanations of the entire Hexagrams
 
 ## SECTION I
 
@@ -237,7 +237,7 @@ XXX.
 
 ## Notes
 
-The name Thwan, and the meaning of the character so-called, are sufficiently established. The Thwan are king Wăn's explanations of the entire hexagrams. It seems impossible now to p. 214 ascertain how the character arose, and how it was named Thwan. The treatise on the Thwan is ascribed to Confucius; and I have considered in the Introduction, p. 30, whether the tradition to this effect may to any extent be admitted.
+The name <a name="fr_124">Thwan</a>, and the meaning of the character so-called, are sufficiently established. The Thwan are king Wăn's explanations of the entire hexagrams. It seems impossible now to p. 214 ascertain how the character arose, and how it was named Thwan. The treatise on the Thwan is ascribed to Confucius; and I have considered in the Introduction, p. 30, whether the tradition to this effect may to any extent be admitted.
 
 The hexagram [Qián(䷀)](./e4b9beqian.md) is made up of six undivided lines, or of the trigram [Qián(䷀)](./e4b9beqian.md), Fû-hsî's symbol for heaven, repeated. The Thwan does not dwell upon this, but starts, in its exposition, from the word 'heaven,' supposing that the hexagram represented all the meaning which had ever been intended by that term. In paragraphs 1, 2, 4 the four attributes in Wăn's Text (2 being occupied with the second, though it is not expressly named) are illustrated by the phenomena taking place in the physical world.
 
