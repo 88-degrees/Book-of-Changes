@@ -1,10 +1,14 @@
-# Fu ䷗
+# Fù ䷗
 
 Chinese: fù 复 ䷗
 
+###### p. 107
+
 ![Fu](https://88o.io/wp-content/uploads/2018/09/24-e5a48dfu.jpg)
 
-**Fu** indicates that there will be free course and progress (in what it denotes). (The subject of it) finds no one to distress him in his exits and entrances; friends come to him, and no error is committed . He will return and repeat his (proper) course. In seven days comes his return. There will be advantage in whatever direction movement is made.
+**Fù ䷗** indicates that there will be free course and progress (in what it denotes). (The subject of it) finds no one to distress him in his exits and entrances; friends come to him, and no error is committed . He will return and repeat his (proper) course. In seven days comes his return. There will be advantage in whatever direction movement is made.
+
+###### p. 108
 
 1. The first NINE, undivided, shows its subject returning (from an error) of no great extent, which would not proceed to anything requiring repentance. There will be great good fortune.
 
@@ -20,8 +24,8 @@ Chinese: fù 复 ䷗
 
 ## Notes
 
-**Fu** symbolises the idea of returning, coming back or over again. The last hexagram showed us inferior prevailing over superior men, all that is good in nature and society yielding before what is bad.
-But change is the law of nature and society. When decay has reached its climax, recovery will begin to take place. In Po we had one strong topmost line, and five weak lines below it; here we have one strong line, and five weak lines above it. To illustrate the subject from what we see in nature, -- **Bo** ( [䷖](e589a5bo.md) ) is the hexagram of the ninth month, in which the triumph of cold and decay in the year is nearly complete. It is complete in the tenth month, whose hexagram is Khwăn  ; then follows our hexagram Fû, belonging to the eleventh month, in which was the winter solstice when the sun turned back in his course, and moved with a constant regular progress towards the summer solstice. In harmony with these changes of nature are the changes in the political and social state of a nation. There is nothing in the Yî to suggest the hope of a perfect society or kingdom that cannot be moved.
+**Fù ䷗** symbolises the idea of returning, coming back or over again. The last hexagram showed us inferior prevailing over superior men, all that is good in nature and society yielding before what is bad.
+But change is the law of nature and society. When decay has reached its climax, recovery will begin to take place. In Po we had one strong topmost line, and five weak lines below it; here we have one strong line, and five weak lines above it. To illustrate the subject from what we see in nature, -- [**Bō ䷖**](e589a5bo.md) is the hexagram of the ninth month, in which the triumph of cold and decay in the year is nearly complete. It is complete in the tenth month, whose hexagram is Khwăn  ; then follows our hexagram Fû, belonging to the eleventh month, in which was the winter solstice when the sun turned back in his course, and moved with a constant regular progress towards the summer solstice. In harmony with these changes of nature are the changes in the political and social state of a nation. There is nothing in the Yî to suggest the hope of a perfect society or kingdom that cannot be moved.
 
 The strong bottom line is the first of Kăn, the trigram of movement, and the upper trigram is Khwăn, denoting docility and capacity. The strong returning line will meet with no distressing obstacle, and the weak lines will change before it into strong, and be as friends. The bright quality will be developed brighter and brighter from day to day, and month to month.
 
