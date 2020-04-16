@@ -84,13 +84,13 @@ of progress (suggested by these) give (the idea in) [Méng(䷃)](e89299meng.md).
 
 <a name="fr_131"></a>[VII](#fn_131).
 
-1. (The name) Sze describes the multitude (of the host). The 'firmness and correctness' (which the hexagram indicates) refer to (moral) correctness (of aim). When (the mover) is able to use the multitude with such correctness, he may attain to the royal sway.
+1. (The name) [Shī(䷆)](e5b888shi.md) describes the multitude (of the host). The 'firmness and correctness' (which the hexagram indicates) refer to (moral) correctness (of aim). When (the mover) is able to use the multitude with such correctness, he may attain to the royal sway.
 
 2. There is (the symbol of) strength in the centre (of the trigram below), and it is responded to (by its proper correlate above). The action gives rise to perils, but is in accordance (with the best sentiments of men). (Its mover) may by such action distress all the country, but the people will follow him;--there will be good fortune, and what error should there be?
 
 <a name="fr_132"></a>[VIII](#fn_132).
 
-1. 'Pî indicates that there is good fortune:'--(the name) Pî denotes help; (and we see in the figure) inferiors docilely following (their superior).
+1. '[Bǐ(䷇)](e6af94bi.md) indicates that there is good fortune:'--(the name) [Bǐ(䷇)](e6af94bi.md) denotes help; (and we see in the figure) inferiors docilely following (their superior).
 
 ###### p. 221
 
@@ -216,7 +216,7 @@ the centre, and acts in its high position. Although it is not in its proper posi
 
 <a name="fr_146"></a>[XXII](#fn_146).
 
-1. (When it is said that) Pî indicates that there should be free course (in what it denotes):--
+1. (When it is said that) [Pǐ(䷋)](e590a6pi.md) indicates that there should be free course (in what it denotes):--
 
 2. (We see) the weak line coming and ornamenting the strong lines (of the lower trigram), and hence (it is said that ornament) 'should have free course.' On the other hand, the strong line above ornaments the weak ones (of the upper trigram), and hence (it is said) that 'there will be little advantage, if (ornament) be allowed to advance (and take the lead).' (This is illustrated in the) appearances that ornament the sky.
 
@@ -342,7 +342,7 @@ The fifth line, as we have observed more than once already, is the place of hono
 
 What 'the great man sets a value on being the due mean and the correct place,' his decision in any matter of contention is sure to be right.
 
-<a name="fn_131"></a>[`220:VII`](#fr_131) That 'multitude' is given here as if it were the meaning of the name Sze arose, probably, from there being but one undivided line in the figure. That is the symbol of the general, all the other lines, divided, suggest the idea of a multitude obedient to his orders. The general's place in the centre of the lower trigram, with the proper correlate in line 5, suggests the idea of firmness and correctness that dominates in the hexagram. But in the last sentence it is the ruler, and not the general of the host, who is the subject. Compare what is said of him with Mencius, I, i, chap. 3; ii, chap. 5, &c.
+<a name="fn_131"></a>[`220:VII`](#fr_131) That 'multitude' is given here as if it were the meaning of the name [Shī(䷆)](e5b888shi.md) arose, probably, from there being but one undivided line in the figure. That is the symbol of the general, all the other lines, divided, suggest the idea of a multitude obedient to his orders. The general's place in the centre of the lower trigram, with the proper correlate in line 5, suggests the idea of firmness and correctness that dominates in the hexagram. But in the last sentence it is the ruler, and not the general of the host, who is the subject. Compare what is said of him with Mencius, I, i, chap. 3; ii, chap. 5, &c.
 
 'Perilousness' is the attribute of [Kǎn(䷜)](e59d8ekan.md), the lower trigram, and 'docility,' or 'accordance with others,' that of [Kūn(䷁)](./e59da4kun.md), the upper. War is like 'poison' to a country, injurious, and threatening ruin to it, and yet the people will endure and encounter it in behalf of the sovereign whom they esteem and love.
 
