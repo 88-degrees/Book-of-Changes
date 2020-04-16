@@ -4,7 +4,7 @@ Chinese: tài 泰 ䷊
 
 ![Tai](https://88o.io/wp-content/uploads/2018/09/11-e6b3b0tai.jpg)
 
-In **Tai** (we see) the little gone and the great come. (It indicates that) there will be good fortune, with progress and success.
+In **Tài ䷊** (we see) the little gone and the great come. (It indicates that) there will be good fortune, with progress and success.
 
 1. The first NINE, undivided, suggests the idea of grass pulled up, and bringing with it other stalks with whose roots it is connected. Advance (on the part of its subject) will be fortunate.
 
@@ -21,8 +21,8 @@ but calling in his neighbours. (They all come) not as having received warning, b
 
 ## Notes
 
-The language of the Thwan has reference to the form of Thâi, with the three strong lines of Khien below, and the three weak lines of Khwăn above.
-The former are 'the great,' active and vigorous; the latter are 'the small,' inactive and submissive. But where have the former 'come' from, and whither are the latter gone?' In many editions of the Yî beneath the hexagram of Thâi here, there appears that of Kwei Mei, the 54th in order ( ), which becomes Thâi, if the third and fourth lines exchange places. But in the notes on the Thwan, in the first Appendix, on hexagram 6, I have spoken of the doctrine of 'changing figures,' and intimated my disbelief of it. The different hexagrams arose necessarily by the continued manipulation of the undivided and divided lines, and placing them each over itself and over the other. When king Wăn wrote these Thwan, he was taking the 64 hexagrams, as they were ready to his hand, and not forming one from another by any process of divination. The 'gone' and 'come' are merely equivalent to 'below' and 'above,' in the lower trigram or in the upper.
+The language of the Thwan has reference to the form of **Tài ䷊**, with the three strong lines of Khien below, and the three weak lines of Khwăn above.
+The former are 'the great,' active and vigorous; the latter are 'the small,' inactive and submissive. But where have the former 'come' from, and whither are the latter gone?' In many editions of the Yî beneath the hexagram of Thâi here, there appears that of [**Guīmèi ䷵**](e5bd92e5a6b9guimei.md), the 54th in order (**䷵**), which becomes **Tài ䷊**, if the third and fourth lines exchange places. But in the notes on the Thwan, in the first Appendix, on hexagram 6, I have spoken of the doctrine of 'changing figures,' and intimated my disbelief of it. The different hexagrams arose necessarily by the continued manipulation of the undivided and divided lines, and placing them each over itself and over the other. When king Wăn wrote these Thwan, he was taking the 64 hexagrams, as they were ready to his hand, and not forming one from another by any process of divination. The 'gone' and 'come' are merely equivalent to 'below' and 'above,' in the lower trigram or in the upper.
 
 A course in which the motive forces are represented by the three strong, and the opposing by the three weak lines, must be progressive and successful. Thâi is called the hexagram of the first month of the year, the first month of the natural spring, when for six months, through the fostering sun and genial skies, the processes of growth will be going on.
 
