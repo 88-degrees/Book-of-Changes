@@ -4,7 +4,11 @@ Chinese: lǚ 履 ䷉
 
 ![Lv](https://88o.io/wp-content/uploads/2018/09/10-e5b1a5lv.jpg)
 
-**Lv(䷉)** (suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success.
+#### p. 78
+
+(**Lv(䷉)** suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success.
+
+#### p. 79
 
 1. The first NINE, undivided, shows its subject treading his accustomed path. If he go forward, there will be no error.
 
@@ -16,8 +20,11 @@ Chinese: lǚ 履 ䷉
 
 5. The fifth NINE, undivided, shows the resolute tread of its subject. Though he be firm and correct, there will be peril.
 
-6. The sixth NINE, undivided, tells us to look at (the whole course) that is trodden, and examine the presage which that gives.
-If it be complete and without failure, there will be great good fortune.
+6. The sixth NINE, undivided, tells us to look at (the whole course) that is trodden, and examine the
+
+#### p.80
+
+presage which that gives. If it be complete and without failure, there will be great good fortune.
 
 ## Notes
 
