@@ -2,13 +2,19 @@
 
 Chinese: kǎn 坎 ䷜
 
+###### p. 118
+
 ![Kan](https://88o.io/wp-content/uploads/2018/09/29-e59d8ekan.jpg)
 
-**Kǎn(䷜)**, here repeated, shows the possession of sincerity, through which the mind is. penetrating. Action (in accordance with this) will be of high value.
+**Kǎn ䷜**, here repeated, shows the possession of sincerity, through which the mind is. penetrating. Action (in accordance with this) will be of high value.
 
 1. The first SIX, divided, shows its subject in the double defile, and (yet) entering a cavern within it. There will be evil.
 
-2. The second NINE, undivided, shows its subject in all the peril of the defile. He will, however, get a little (of the deliverance) that he seeks.
+2. The second NINE, undivided, shows its subject
+
+###### p. 119
+
+in all the peril of the defile. He will, however, get a little (of the deliverance) that he seeks.
 
 3. The third SIX, divided, shows its subject, whether he comes or goes ( =descends or ascends), confronted by a defile. All is peril to him and unrest. (His endeavours) will lead him into the cavern of the pit. There should be no action (in such a case).
 
@@ -20,7 +26,7 @@ Chinese: kǎn 坎 ䷜
 
 ## Notes
 
-The trigram **Kǎn(䷜)**, which is doubled to form this hexagram, is the lineal symbol of water. Its meaning, as a character, is 'a pit,' 'a perilous cavity, or defile;'
+The trigram **Kǎn ䷜**, which is doubled to form this hexagram, is the lineal symbol of water. Its meaning, as a character, is 'a pit,' 'a perilous cavity, or defile;'
 and here and elsewhere in the Yî it leads the reader to think of a dangerous defile, with water flowing through it.
 It becomes symbolic of danger, and what the authors of the Text had in mind was to show how danger should be encountered, its effect on the mind, and how to get out of it.
 
