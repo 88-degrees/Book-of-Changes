@@ -1,12 +1,18 @@
-# Ding
+# Dǐng
 
 Chinese: dǐng 鼑 ䷱
 
+###### p. 169
+
 ![Ding](https://88o.io/wp-content/uploads/2018/09/50-e9bc8eding.jpg)
 
-**Ding** gives the intimation of great progress and success.
+**Dǐng ䷱** gives the intimation of great progress and success.
 
-1. The first SIX, divided, shows the caldron overthrown and its feet turned up. (But) there will be advantage in its getting rid of what was bad in it. (Or it shows us) the concubine (whose position is improved) by means of her son. There will be no error.
+1. The first SIX, divided, shows the caldron overthrown and its feet turned up. (But) there will be
+
+###### p. 170
+
+advantage in its getting rid of what was bad in it. (Or it shows us) the concubine (whose position is improved) by means of her son. There will be no error.
 
 2. The second NINE, undivided, shows the caldron with the things (to be cooked) in it. (If its subject can say), 'My enemy dislikes me, but he cannot approach me,' there will be good fortune.
 
@@ -14,15 +20,17 @@ Chinese: dǐng 鼑 ䷱
 
 4. The fourth NINE, undivided, shows the caldron with its feet broken; and its contents, designed for the ruler's use, overturned and spilt. Its Subject will be made to blush for shame. There will be evil.
 
+###### p. 171
+
 5. The fifth six, divided, shows the caldron with yellow ears and rings of metal in them. There will be advantage through being firm and correct.
 
 6. The sixth NINE, undivided, shows the caldron with rings of jade. There will be great good fortune, and all action taken will be in every way advantageous.
 
 ## Notes
 
-**Ding** was originally a pictorial character, representing a caldron with three feet and two ears, used for cooking and preparing food for the table (the mat in old times) and the altar. The picture has disappeared from the character, but it is said that in the hexagram we have an outline from which fancy may construct the vessel. The lower line, divided, represents its feet; lines 2, 3, 4, all undivided, represent the body of it; line 5, divided, represents its two ears; and line 6, undivided, the handle by which it was carried, or suspended from a hook. Appendix VI makes Ting follow Ko in the order of the hexagrams, because there is no changer of the appearance and character of things equal to the furnace and caldron!
+**Dǐng ䷱** was originally a pictorial character, representing a caldron with three feet and two ears, used for cooking and preparing food for the table (the mat in old times) and the altar. The picture has disappeared from the character, but it is said that in the hexagram we have an outline from which fancy may construct the vessel. The lower line, divided, represents its feet; lines 2, 3, 4, all undivided, represent the body of it; line 5, divided, represents its two ears; and line 6, undivided, the handle by which it was carried, or suspended from a hook. Appendix VI makes Ting follow Ko in the order of the hexagrams, because there is no changer of the appearance and character of things equal to the furnace and caldron!
 
-**Ding** (䷱) and **Jing** ([䷯](e4ba95jing.md)) are the only two hexagrams named from things in ordinary use with men; and they are both descriptive of the government's work of nourishing. There are three hexagrams of which that is the theme, **Yi** ([䷩](e9a290yi.md)), under which we are told in Appendix I that 'the sages nourished men of worth, by means of them to reach to the myriads of the people.' `Žing` treats of the nourishment of the people generally by the government through its agricultural and other methods; Ting treats of the nourishment of men of talents and virtue; and that being understood, it is said, without more ado, that it 'intimates great progress and success.' The Text that follows, however, is more difficult to interpret than that of `Žing`.
+**Dǐng ䷱** (䷱) and [**Jǐng ䷯**](e4ba95jing.md) are the only two hexagrams named from things in ordinary use with men; and they are both descriptive of the government's work of nourishing. There are three hexagrams of which that is the theme, [**Yí ䷩**](e9a290yi.md), under which we are told in [Appendix I](appendix01s1.md) that 'the sages nourished men of worth, by means of them to reach to the myriads of the people.' [**Jǐng ䷯**](e4ba95jing.md) treats of the nourishment of the people generally by the government through its agricultural and other methods; Ting treats of the nourishment of men of talents and virtue; and that being understood, it is said, without more ado, that it 'intimates great progress and success.' The Text that follows, however, is more difficult to interpret than that of [**Jǐng ䷯**](e4ba95jing.md).
 
 Line 1 is weak, and little or nothing can be expected from its subject. But it has a proper correlate in the strong 4; and the disastrous overthrow, causing the feet to be directed towards 4, is understood to be lucky, as accelerating the co-operation of their two lines! The overturned caldron is thereby emptied of bad stuff that had accumulated in it!! The writer uses another illustration, which comes to the same thing. A concubine is less honourable than a wife,--like the overthrown caldron. But if she have a son, while the proper wife has none, he will be his father's heir, and the mother, the concubine, will share in the honour of his position. Thus the issue of what was so unpromising is good. At least 'there is no mistake.' The above is what is found in the best commentaries on the paragraph. I give it, but am myself dissatisfied with it.
 
