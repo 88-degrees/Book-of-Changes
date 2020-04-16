@@ -1,4 +1,4 @@
-# Kun ䷁
+# Kūn ䷁
 
 Chinese: kūn 坤 ䷁
 
