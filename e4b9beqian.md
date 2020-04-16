@@ -4,7 +4,7 @@ Chinese: qián 乾 ䷀
 
 ![Qian](https://88o.io/wp-content/uploads/2018/09/01-e4b9beqian.jpg)
 
-#### p. 57
+###### p. 57
 
 **Qián** (represents) what is great and originating, penetrating, advantageous, correct and firm.
 
@@ -18,7 +18,7 @@ Chinese: qián 乾 ䷀
 
 5. In the fifth NINE, undivided, (we see its subject as) the dragon on the wing in the sky. It will be advantageous to meet with the great man.
 
-#### p. 58
+###### p. 58
 
 6. In the sixth (or topmost) NINE, undivided, (we see its subject as) the dragon exceeding the proper limits. There will be occasion for repentance.
 
