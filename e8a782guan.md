@@ -21,15 +21,15 @@ but not (yet) presented his offerings; -- with sincerityand an appearance of dig
 
 ## Notes
 
-The Chinese character [**Guān ䷓**](e8a782guan.md), from which this hexagram is named, is used in it in two senses. In the Thwan, the first paragraph of the treatise on the Thwan, and the paragraph on the Great Symbolism, it denotes showing, manifesting; in all other places it denotes contemplating, looking at. The subject of the hexagram is the sovereign and his subjects, how he manifests himself to them, and how they contemplate him. The two upper, undivided, lines belong to the sovereign; the four weak lines below them are his subjects,--ministers and others who look up at him. Kwân is the hexagram of the eighth month.
+The Chinese character [**Guān ䷓**](e8a782guan.md), from which this hexagram is named, is used in it in two senses. In the [Thwan](https://sacred-texts.com/cfu/conf1.htm), the first paragraph of the treatise on the Thwan, and the paragraph on the Great Symbolism, it denotes showing, manifesting; in all other places it denotes contemplating, looking at. The subject of the hexagram is the sovereign and his subjects, how he manifests himself to them, and how they contemplate him. The two upper, undivided, lines belong to the sovereign; the four weak lines below them are his subjects,-- ministers and others who look up at him. Kwân is the hexagram of the eighth month.
 
 In the Thwan king Wăn symbolises the sovereign by a worshipper when he is most solemn in his religious service, at the commencement of it, full of sincerity and with a dignified carriage.
 
-Line 1 is weak, and in the lowest place, improper also for it;--[p. 101]()the symbol of a thoughtless lad, who cannot see far, and takes only superficial views.
+Line 1 is weak, and in the lowest place, improper also for it;--[p. 101]() the symbol of a thoughtless lad, who cannot see far, and takes only superficial views.
 
 Line 2 is also weak, but in its proper place, showing a woman, living retired, and only able to peep as from her door at the subject of the fifth line. But ignorance and retirement are proper in a woman.
 
-Line 3, at the top of the lower trigram Khwăn, and weak, must belong to a subject of the utmost docility, and will wish to act only according to the exigency of time and circumstances.
+Line 3, at the top of the lower trigram [**Kūn ䷁**](./e59da4kun.md), and weak, must belong to a subject of the utmost docility, and will wish to act only according to the exigency of time and circumstances.
 
 Line 4, in the place proper to its weakness, is yet in immediate proximity to 5, representing the sovereign. Its subject is moved accordingly, and stirred to ambition.
 
