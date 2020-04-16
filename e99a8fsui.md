@@ -24,7 +24,7 @@ Chinese: suí 随 ䷐
 
 ## Notes
 
-**Suí ䷐** symbolises the idea of following. It is said to follow Yü, the symbol of harmony and satisfaction.
+**Suí ䷐** symbolises the idea of following. It is said to follow [**Yǜ ䷏**](e8b1abyu.md), the symbol of harmony and satisfaction.
 Where there are these conditions men are sure to follow; nor will they follow those in whom they have no complacency.
 The hexagram includes the cases where one follows others, and where others follow him;
 and the auspice of great progress and success is due to this flexibility and applicability of it.
