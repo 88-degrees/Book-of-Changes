@@ -1,10 +1,10 @@
-# Shike ䷔
+# Shìkè ䷔
 
 Chinese: shì kè 噬嗑 ䷔
 
 ![Shike](https://88o.io/wp-content/uploads/2018/09/21-e599ace59791shike.jpg)
 
-**Shike** indicates successful progress (in the condition of things which it supposes). It will be advantageous to use legal constraints.
+**Shìkè ䷔** indicates successful progress (in the condition of things which it supposes). It will be advantageous to use legal constraints.
 
 1. The first NINE, undivided, shows one with his feet in the stocks and deprived of his toes. There will be no error.
 
@@ -21,7 +21,7 @@ It will be advantageous to him to realise the difficulty of his task and be firm
 
 ## Notes
 
-**Shike** means literally 'Union by gnawing.' We see in the figure two strong lines in the first and last places, while all the others, with the exception of the fourth, are divided. This suggests the idea of the jaws and the mouth between them kept open by something in it. Let that be gnawed through and the mouth will close and the jaws come together. So in the body politic. Remove the obstacles to union, and high and low will come together with a good understanding. And how are those obstacles to be removed? By force, emblemed by the gnawing; that is, by legal constraints. And these are sure to be successful. The auspice of the figure is favourable. There will be success.
+**Shìkè ䷔** means literally 'Union by gnawing.' We see in the figure two strong lines in the first and last places, while all the others, with the exception of the fourth, are divided. This suggests the idea of the jaws and the mouth between them kept open by something in it. Let that be gnawed through and the mouth will close and the jaws come together. So in the body politic. Remove the obstacles to union, and high and low will come together with a good understanding. And how are those obstacles to be removed? By force, emblemed by the gnawing; that is, by legal constraints. And these are sure to be successful. The auspice of the figure is favourable. There will be success.
 
 Lines 1 and 6 are much out of the game or action described in the figure. Hence they are held to represent parties receiving punishment, while the other lines represent parties inflicting it. The punishment in line 1 is that of the stocks, administered for a small offence, and before crime has made much way. But if the 'depriving' of the toes is not merely keeping them in restraint, but cutting them off, as the Chinese character suggests, the punishment appears to a western reader too severe.
 
@@ -29,7 +29,7 @@ Line 2 is weak, appropriately therefore in an even place, and it is central besi
 
 Line 3 is weak, and in an even place. The action of its subject will be ineffective; and is emblemed by the hard task of gnawing through dried flesh, and encountering, besides, what is distasteful and injurious in it. But again comes in the consideration that here punishment is the rule, and the auspice is not all bad.
 
-Of old, in a civil case, both parties, before they were heard, brought to the court an arrow (or a bundle of arrows), in testimony of their rectitude, after which they were heard; in a criminal case, they in the same way deposited each thirty pounds of gold, or some other metal. See the Official Book of Kau, 27. 14, 15. The subject of the fourth line's getting those pledges indicates his exercising his judicial functions; and what he gnaws through indicates their difficulty. Moreover, though the line is strong, it is in an even place; and hence comes the lesson of caution.
+Of old, in a civil case, both parties, before they were heard, brought to the court an arrow (or a bundle of arrows), in testimony of their rectitude, after which they were heard; in a criminal case, they in the same way deposited each thirty pounds of gold, or some other metal. See the [Official Book of Kau, 27. 14, 15](https://sacred-texts.com/cfu/sbe03/sbe03054.htm). The subject of the fourth line's getting those pledges indicates his exercising his judicial functions; and what he gnaws through indicates their difficulty. Moreover, though the line is strong, it is in an even place; and hence comes the lesson of caution.
 
 The fifth line represents 'the lord of judgment.' As it is a weak line, he will be disposed to leniency; and his judgments will be correct. This is declared by his finding the 'yellow metal;' for yellow is one of the five 'correct' colours. The position is in the centre and that of rule; but the line being weak, a caution is given, as under the previous line.
 
