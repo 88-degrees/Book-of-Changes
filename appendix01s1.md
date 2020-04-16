@@ -8,13 +8,13 @@ Treatise on the Thwan <a name="fr_124"></a>[1](#fn_124), or king Wăn's Explanat
 
 <a name="fr_125"></a>[I](#fn_125).
 
-1. Vast is the 'great and originating (power)' indicated by [Qián(䷀)](./e4b9beqian.md)! All things owe to it their beginning:--it contains all the meaning belonging to (the name) heaven.
+1. Vast is the 'great and originating (power)' indicated by [**Qián ䷀**](./e4b9beqian.md)! All things owe to it their beginning:--it contains all the meaning belonging to (the name) heaven.
 
 2. The clouds move and the rain is distributed; the various things appear in their developed forms.
 
 3. (The sages) grandly understand (the connexion between) the end and the beginning, and how (the indications of) the six lines (in the hexagram) are accomplished, (each) in its season. (Accordingly) they mount (the carriage) drawn by those six dragons at the proper times, and drive through the sky.
 
-4. The method of [Qián(䷀)](./e4b9beqian.md) is to change and transform, so that everything obtains its correct nature as appointed (by the mind of Heaven); and (thereafter the conditions of) great harmony are preserved in union. The result is 'what is advantageous, and correct and firm.
+4. The method of [**Qián ䷀**](./e4b9beqian.md) is to change and transform, so that everything obtains its correct nature as appointed (by the mind of Heaven); and (thereafter the conditions of) great harmony are preserved in union. The result is 'what is advantageous, and correct and firm.
 
 5. (The sage) appears aloft, high above all things, and the myriad states all enjoy repose.
 
@@ -22,9 +22,9 @@ Treatise on the Thwan <a name="fr_124"></a>[1](#fn_124), or king Wăn's Explanat
 
 <a name="fr_126"></a>[II](#fn_126).
 
-1. Complete is the 'great and originating (capacity)' indicated by [Kūn(䷁)](./e59da4kun.md)! All things owe to it their birth;--it receives obediently the influences of Heaven.
+1. Complete is the 'great and originating (capacity)' indicated by [**Kūn ䷁**](./e59da4kun.md)! All things owe to it their birth;--it receives obediently the influences of Heaven.
 
-2. [Kūn(䷁)](./e59da4kun.md), in its largeness, supports and contains all things. Its excellent capacity matches the unlimited power (of [Qián(䷀)](./e4b9beqian.md)). Its comprehension is wide, and its brightness great. The various things obtain (by it) their full development.
+2. [**Kūn ䷁**](./e59da4kun.md), in its largeness, supports and contains all things. Its excellent capacity matches the unlimited power (of [**Qián ䷀**](./e4b9beqian.md)). Its comprehension is wide, and its brightness great. The various things obtain (by it) their full development.
 
 3. The mare is a creature of earthly kind. Its (power of) moving on the earth is without limit; it is mild and docile, advantageous and firm:--such is the course of the superior man.
 
@@ -36,7 +36,7 @@ Treatise on the Thwan <a name="fr_124"></a>[1](#fn_124), or king Wăn's Explanat
 
 <a name="fr_127"></a>[III](#fn_127).
 
-1. In [Zhūn(䷂)](e5b1afzhun.md) we have the strong ([Qián(䷀)](./e4b9beqian.md)) and the weak ([Kūn(䷁)](./e59da4kun.md)) commencing their intercourse, and difficulties arising.
+1. In [**Zhūn ䷂**](e5b1afzhun.md) we have the strong ([**Qián ䷀**](./e4b9beqian.md)) and the weak ([**Kūn ䷁**](./e59da4kun.md)) commencing their intercourse, and difficulties arising.
 
 2. Movement in the midst of peril gives rise to 'great progress and success, (through) firm correctness.'
 
@@ -44,17 +44,17 @@ Treatise on the Thwan <a name="fr_124"></a>[1](#fn_124), or king Wăn's Explanat
 
 ###### p.216
 
-are symbols of [Zhèn(䷲)](e99c87zhen.md) and [Kǎn(䷜)](e59d8ekan.md)), all (between heaven and earth) is filled up. But the condition of the time is full of irregularity and obscurity. Feudal princes should be established, but the feeling that rest and peace have been secured should not be indulged (even then).
+are symbols of [**Zhèn ䷲**](e99c87zhen.md) and [**Kǎn ䷜**](e59d8ekan.md)), all (between heaven and earth) is filled up. But the condition of the time is full of irregularity and obscurity. Feudal princes should be established, but the feeling that rest and peace have been secured should not be indulged (even then).
 
 <a name="fr_128"></a>[IV](#fn_128).
 
-1. In [Méng(䷃)](e89299meng.md) we have (the trigram for) a mountain, and below it that of a rugged defile with a stream in it. The conditions of peril and arrest
+1. In [**Méng ䷃**](e89299meng.md) we have (the trigram for) a mountain, and below it that of a rugged defile with a stream in it. The conditions of peril and arrest
 
 ###### p. 217
 
-of progress (suggested by these) give (the idea in) [Méng(䷃)](e89299meng.md).
+of progress (suggested by these) give (the idea in) [**Méng ䷃**](e89299meng.md).
 
-2. '[Méng(䷃)](e89299meng.md) indicates that there will be progress and success:'--for there is development at work in it, and its time of action is exactly what is right. 'I do not seek the youthful and inexperienced; he seeks me:'--so does will respond to will. 'When he shows (the sincerity that marks) the first recourse to divination, I instruct him:'--for possessing the qualities of the undivided line and being in the central place, (the subject of the second line thus speaks). 'A second and third application create annoyance, and I do not instruct so as to create annoyance:'--annoyance (he means) to the ignorant.
+2. '[**Méng ䷃**](e89299meng.md) indicates that there will be progress and success:'--for there is development at work in it, and its time of action is exactly what is right. 'I do not seek the youthful and inexperienced; he seeks me:'--so does will respond to will. 'When he shows (the sincerity that marks) the first recourse to divination, I instruct him:'--for possessing the qualities of the undivided line and being in the central place, (the subject of the second line thus speaks). 'A second and third application create annoyance, and I do not instruct so as to create annoyance:'--annoyance (he means) to the ignorant.
 
 (The method of dealing with) the young and ignorant is to nourish the correct (nature belonging to them);--this accomplishes the service of the sage.
 
@@ -62,17 +62,17 @@ of progress (suggested by these) give (the idea in) [Méng(䷃)](e89299meng.md).
 
 <a name="fr_129"></a>[V](#fn_129).
 
-1. [Xū(䷄)](e99c80xu.md) denotes waiting. (The figure) shows peril in front; but notwithstanding the firmness and strength (indicated by the inner trigram), its subject does not allow himself to be involved (in the dangerous defile);--it is right he should not be straitened or reduced to extremity.
+1. [**Xū ䷄**](e99c80xu.md) denotes waiting. (The figure) shows peril in front; but notwithstanding the firmness and strength (indicated by the inner trigram), its subject does not allow himself to be involved (in the dangerous defile);--it is right he should not be straitened or reduced to extremity.
 
-2. When it is said that, 'with the sincerity declared in [Xū(䷄)](e99c80xu.md), there will be brilliant success, and with firmness there will be good fortune,' this is shown by the position (of the fifth line) in the place assigned by Heaven, and its being the correct position for it, and in the centre. 'It will be advantageous to go through the great stream;'--that is, going forward will be followed by meritorious achievement.
+2. When it is said that, 'with the sincerity declared in [**Xū ䷄**](e99c80xu.md), there will be brilliant success, and with firmness there will be good fortune,' this is shown by the position (of the fifth line) in the place assigned by Heaven, and its being the correct position for it, and in the centre. 'It will be advantageous to go through the great stream;'--that is, going forward will be followed by meritorious achievement.
 
 ###### p. 219
 
 <a name="fr_130"></a>[VI](#fn_130).
 
-1. The upper portion of [Sòng(䷅)](e8aebcsong.md) is (the trigram representing) strength, and the lower (that representing) peril. (The coming together of) strength and peril gives (the idea in) [Sòng(䷅)](e8aebcsong.md).
+1. The upper portion of [**Sòng ䷅**](e8aebcsong.md) is (the trigram representing) strength, and the lower (that representing) peril. (The coming together of) strength and peril gives (the idea in) [**Sòng ䷅**](e8aebcsong.md).
 
-2. '[Sòng(䷅)](e8aebcsong.md) intimates how, though there is sincerity in one's contention, he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution, there will be good fortune:'--a strong (line) has come and got the central place (in the lower trigram).
+2. '[**Sòng ䷅**](e8aebcsong.md) intimates how, though there is sincerity in one's contention, he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution, there will be good fortune:'--a strong (line) has come and got the central place (in the lower trigram).
 
 'If he must prosecute the contention to the (bitter) end, there will be evil:'--contention is not a thing to be carried on to extremity.
 
@@ -84,13 +84,13 @@ of progress (suggested by these) give (the idea in) [Méng(䷃)](e89299meng.md).
 
 <a name="fr_131"></a>[VII](#fn_131).
 
-1. (The name) [Shī(䷆)](e5b888shi.md) describes the multitude (of the host). The 'firmness and correctness' (which the hexagram indicates) refer to (moral) correctness (of aim). When (the mover) is able to use the multitude with such correctness, he may attain to the royal sway.
+1. (The name) [**Shī ䷆**](e5b888shi.md) describes the multitude (of the host). The 'firmness and correctness' (which the hexagram indicates) refer to (moral) correctness (of aim). When (the mover) is able to use the multitude with such correctness, he may attain to the royal sway.
 
 2. There is (the symbol of) strength in the centre (of the trigram below), and it is responded to (by its proper correlate above). The action gives rise to perils, but is in accordance (with the best sentiments of men). (Its mover) may by such action distress all the country, but the people will follow him;--there will be good fortune, and what error should there be?
 
 <a name="fr_132"></a>[VIII](#fn_132).
 
-1. '[Bǐ(䷇)](e6af94bi.md) indicates that there is good fortune:'--(the name) [Bǐ(䷇)](e6af94bi.md) denotes help; (and we see in the figure) inferiors docilely following (their superior).
+1. '[**Bǐ ䷇**](e6af94bi.md) indicates that there is good fortune:'--(the name) [**Bǐ ䷇**](e6af94bi.md) denotes help; (and we see in the figure) inferiors docilely following (their superior).
 
 ###### p. 221
 
@@ -98,7 +98,7 @@ of progress (suggested by these) give (the idea in) [Méng(䷃)](e89299meng.md).
 
 <a name="fr_133"></a>[IX](#fn_133).
 
-1. In Hsiâo Khû the weak line occupies its (proper) position, and (the lines) above and below respond to it. Hence comes the name of Hsiâo Khû (Small Restraint).
+1. In [**Xiǎoxù ䷈**](e5b08fe7959cxiaoxu.md) the weak line occupies its (proper) position, and (the lines) above and below respond to it. Hence comes the name of [**Xiǎoxù ䷈**](e5b08fe7959cxiaoxu.md) (Small Restraint).
 
 2. (It presents the symbols of) strength and flexibility. Strong lines are in the central places, and the will (of their subjects) will have free course. Thus it indicates that there will be progress and success.
 
