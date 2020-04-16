@@ -52,7 +52,7 @@ are symbols of [Zhèn(䷲)](e99c87zhen.md) and [Kǎn(䷜)](e59d8ekan.md)), all (
 
 ###### p. 217
 
-of progress (suggested by these) give (the idea in) Măng.
+of progress (suggested by these) give (the idea in) [Méng(䷃)](e89299meng.md).
 
 2. '[Méng(䷃)](e89299meng.md) indicates that there will be progress and success:'--for there is development at work in it, and its time of action is exactly what is right. 'I do not seek the youthful and inexperienced; he seeks me:'--so does will respond to will. 'When he shows (the sincerity that marks) the first recourse to divination, I instruct him:'--for possessing the qualities of the undivided line and being in the central place, (the subject of the second line thus speaks). 'A second and third application create annoyance, and I do not instruct so as to create annoyance:'--annoyance (he means) to the ignorant.
 
@@ -62,17 +62,17 @@ of progress (suggested by these) give (the idea in) Măng.
 
 <a name="fr_129"></a>[V](#fn_129).
 
-1. Hsü denotes waiting. (The figure) shows peril in front; but notwithstanding the firmness and strength (indicated by the inner trigram), its subject does not allow himself to be involved (in the dangerous defile);--it is right he should not be straitened or reduced to extremity.
+1. [Xū(䷄)](e99c80xu.md) denotes waiting. (The figure) shows peril in front; but notwithstanding the firmness and strength (indicated by the inner trigram), its subject does not allow himself to be involved (in the dangerous defile);--it is right he should not be straitened or reduced to extremity.
 
-2. When it is said that, 'with the sincerity declared in Hsü, there will be brilliant success, and with firmness there will be good fortune,' this is shown by the position (of the fifth line) in the place assigned by Heaven, and its being the correct position for it, and in the centre. 'It will be advantageous to go through the great stream;'--that is, going forward will be followed by meritorious achievement.
+2. When it is said that, 'with the sincerity declared in [Xū(䷄)](e99c80xu.md), there will be brilliant success, and with firmness there will be good fortune,' this is shown by the position (of the fifth line) in the place assigned by Heaven, and its being the correct position for it, and in the centre. 'It will be advantageous to go through the great stream;'--that is, going forward will be followed by meritorious achievement.
 
 ###### p. 219
 
 <a name="fr_130"></a>[VI](#fn_130).
 
-1. The upper portion of Sung is (the trigram representing) strength, and the lower (that representing) peril. (The coming together of) strength and peril gives (the idea in) Sung.
+1. The upper portion of [Sòng(䷅)](e8aebcsong.md) is (the trigram representing) strength, and the lower (that representing) peril. (The coming together of) strength and peril gives (the idea in) [Sòng(䷅)](e8aebcsong.md).
 
-2. 'Sung intimates how, though there is sincerity in one's contention, he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution, there will be good fortune:'--a strong (line) has come and got the central place (in the lower trigram).
+2. '[Sòng(䷅)](e8aebcsong.md) intimates how, though there is sincerity in one's contention, he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution, there will be good fortune:'--a strong (line) has come and got the central place (in the lower trigram).
 
 'If he must prosecute the contention to the (bitter) end, there will be evil:'--contention is not a thing to be carried on to extremity.
 
@@ -332,13 +332,13 @@ Down to the last sentence of paragraph 2, all that is said is intended to show h
 
 Then finally in the young and ignorant there is 'a correct nature,' a moral state made for goodness. The efficient teacher directing his efforts to bring out and nourish that, the progress and success will be 'great;' the service done will be worthy of 'a sage.'
 
-<a name="fn_129"></a>[`218:V`](#fr_129) Hsü is composed of [Qián(䷀)](./e4b9beqian.md), having the quality of strength, and of [Kǎn(䷜)](e59d8ekan.md), having the quality of perilousness. Thc strong one might readily dare the peril, but he restrains himself and waits. This is the lesson of the hexagram,--the benefit of action well considered, of plans well matured.
+<a name="fn_129"></a>[`218:V`](#fr_129) [Xū(䷄)](e99c80xu.md) is composed of [Qián(䷀)](./e4b9beqian.md), having the quality of strength, and of [Kǎn(䷜)](e59d8ekan.md), having the quality of perilousness. Thc strong one might readily dare the peril, but he restrains himself and waits. This is the lesson of the hexagram,--the benefit of action well considered, of plans well matured.
 
 The fifth line, as we have observed more than once already, is the place of honour, that due to the ruler or king. It is here called 'the Heavenly or Heaven-given seat, 'the meaning of which expression is clear from its occurrence in the Shih, III, i, ode 2. 1. Five is an odd number, and the fifth is therefore the 'correct' place for an undivided line; it is also the central place of the trigram, indicating. how its occupant is sure to walk in the due mean. See further the notes on the Text, p. 68.
 
 <a name="fn_130"></a>[`219:VI`](#fr_130) Paragraph 1 here is much to the same effect as the first sentence in the notes on the Thwan of the Text. It is said, 'Strength without peril would not produce contention; peril without strength would not be able to contend.'
 
-2. 'A strong line has come and got the central place:'--this sentence has given rise to a doctrine about the changes of trigrams and hexagrams, which has obscured more than anything else the interpretation of the Yî. Where has the strong second line come from? From a hundred critics we receive the answer,--'From Tun ( ).' The reader will see that if the second and third lines of the lower trigram there be made to change places, there results   or Sung. The doctrine of changing the figures by the manipulation of the stalks did spring up between the time of Wăn and his son and that of the composition of the Appendixes; but there is no trace of it in the real Text of the Yî; and it renders any scheme for the interpretation of the figures impossible. The p. 220 editors of the imperial Yî allow this, and on the present passage discard the doctrine entirely, referring to the language of the Thwan on hexagrams 11 and 12 as fatal to it. See the notes there, and the Introduction, pp. 11-16. 'A strong line has come' is to be taken as equivalent simply to a strong line is there.'
+2. 'A strong line has come and got the central place:'--this sentence has given rise to a doctrine about the changes of trigrams and hexagrams, which has obscured more than anything else the interpretation of the Yî. Where has the strong second line come from? From a hundred critics we receive the answer,--'From Tun ( ).' The reader will see that if the second and third lines of the lower trigram there be made to change places, there results   or [Sòng(䷅)](e8aebcsong.md). The doctrine of changing the figures by the manipulation of the stalks did spring up between the time of Wăn and his son and that of the composition of the Appendixes; but there is no trace of it in the real Text of the Yî; and it renders any scheme for the interpretation of the figures impossible. The p. 220 editors of the imperial Yî allow this, and on the present passage discard the doctrine entirely, referring to the language of the Thwan on hexagrams 11 and 12 as fatal to it. See the notes there, and the Introduction, pp. 11-16. 'A strong line has come' is to be taken as equivalent simply to a strong line is there.'
 
 What 'the great man sets a value on being the due mean and the correct place,' his decision in any matter of contention is sure to be right.
 
@@ -408,7 +408,7 @@ The language of paragraph 2 has naturally been pressed into the p. 232 service o
 
 'The mind of heaven and earth' is the love of life and of all goodness that rules in the course of nature and providence.
 
-<a name="fn_149"></a>[`234:XXV`](#fr_149) The advocates of one trigram's changing into another, which ought not to be admitted, we have seen, into the interpretation of the Yî, make Wû Wang to be derived from Sung (No. 6), the second line there being manipulated into the first of this; but this representation is contrary to the words of the text, which make the strong first line come from the outer trigram, i. e. from [Qián(䷀)](./e4b9beqian.md). And so it does, as related, not very intelligibly, in Appendix V, 10, [Zhèn(䷲)](e99c87zhen.md), the lower trigram here, being the eldest son,' resulting from the first application of [Kūn(䷁)](./e59da4kun.md) to [Qián(䷀)](./e4b9beqian.md). The three peculiarities in the structure of the figure afford the auspice of progress and success; and very striking is the brief and emphatic declaration, that such progress is 'the appointment of Heaven.'
+<a name="fn_149"></a>[`234:XXV`](#fr_149) The advocates of one trigram's changing into another, which ought not to be admitted, we have seen, into the interpretation of the Yî, make Wû Wang to be derived from [Sòng(䷅)](e8aebcsong.md) (No. 6), the second line there being manipulated into the first of this; but this representation is contrary to the words of the text, which make the strong first line come from the outer trigram, i. e. from [Qián(䷀)](./e4b9beqian.md). And so it does, as related, not very intelligibly, in Appendix V, 10, [Zhèn(䷲)](e99c87zhen.md), the lower trigram here, being the eldest son,' resulting from the first application of [Kūn(䷁)](./e59da4kun.md) to [Qián(䷀)](./e4b9beqian.md). The three peculiarities in the structure of the figure afford the auspice of progress and success; and very striking is the brief and emphatic declaration, that such progress is 'the appointment of Heaven.'
 
 <a name="fn_150"></a>[`235:XXVI`](#fr_150) In paragraph 1, Tâ Khû evidently means the 'grand accumulation' of virtue, indicated by the attributes of its component trigrams. 'Substantial solidity' may very well be given as the attribute of mountains.
 
