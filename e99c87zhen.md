@@ -4,7 +4,7 @@ Chinese: zhèn 震 ䷲
 
 ![Zhen](https://88o.io/wp-content/uploads/2018/09/51-e99c87zhen.jpg)
 
-**Zhen** gives the intimation of ease and development. When (the time of) movement (which it indicates) comes, (the subject of the hexagram) will be found looking out with apprehension, and yet smiling and talking cheerfully. When the movement (like a crash of thunder) terrifies all within a hundred lî, he will be (like the sincere worshipper) who is not (startled into) letting go his ladle and (cup of) sacrificial spirits.
+**Zhèn(䷲)** gives the intimation of ease and development. When (the time of) movement (which it indicates) comes, (the subject of the hexagram) will be found looking out with apprehension, and yet smiling and talking cheerfully. When the movement (like a crash of thunder) terrifies all within a hundred lî, he will be (like the sincere worshipper) who is not (startled into) letting go his ladle and (cup of) sacrificial spirits.
 
 1. The first `NINE`, undivided, shows its subject, when the movement approaches, looking out and around with apprehension, and afterwards smiling and talking cheerfully. There will be good fortune.
 
@@ -20,7 +20,7 @@ Chinese: zhèn 震 ䷲
 
 ## Notes
 
-**Zhen** among the trigrams represents thunder, and, according to Wăn's arrangement and significance of them, 'the oldest son.' It is a phonetic character in which the significant constituent is Yü, meaning rain, and with which are formed most characters that denote atmospherical phenomena. The hexagram is formed of the trigram Kăn redoubled, and may be taken as representing the crash or peal of thunder; but we have seen that the attribute or virtue of the trigram is 'moving, exciting power;' and thence, symbolically, the character is indicative of movement taking place in society or in the kingdom. This is the meaning of the hexagram; and the subject is the conduct to be pursued in a time of movement -- such as insurrection or revolution -- by the party promoting, and most interested in, the situation. It is shown how he ought to be aware of the dangers of the time, and how by precaution and the regulation of himself he may overcome them.
+**Zhèn(䷲)** among the trigrams represents thunder, and, according to Wăn's arrangement and significance of them, 'the oldest son.' It is a phonetic character in which the significant constituent is Yü, meaning rain, and with which are formed most characters that denote atmospherical phenomena. The hexagram is formed of the trigram Kăn redoubled, and may be taken as representing the crash or peal of thunder; but we have seen that the attribute or virtue of the trigram is 'moving, exciting power;' and thence, symbolically, the character is indicative of movement taking place in society or in the kingdom. This is the meaning of the hexagram; and the subject is the conduct to be pursued in a time of movement -- such as insurrection or revolution -- by the party promoting, and most interested in, the situation. It is shown how he ought to be aware of the dangers of the time, and how by precaution and the regulation of himself he may overcome them.
 
 The indication of a successful issue given by the figure is supposed to be given by the undivided line at the bottom of the trigram. The subject of it must be superior to the subjects of the two divided lines above. It is in the idea of the hexagram that he should be moving and advancing; -- and what can his movement be but successful?
 
