@@ -4,7 +4,7 @@ Chinese: xiǎo xù 小畜 ䷈
 
 ![Xiaoxu](https://88o.io/wp-content/uploads/2018/09/09-e5b08fe7959cxiaoxu.jpg)
 
-#### p. 76
+###### p. 76
 
 **Xiǎoxù ䷈** indicates that (under its conditions) there will be progress and success. (We see) dense clouds, but no rain coming from our borders in the west.
 
@@ -12,7 +12,7 @@ Chinese: xiǎo xù 小畜 ䷈
 
 2. The second NINE, undivided, shows its subject, by the attraction (of the former line), returning (to the proper course). There will be good fortune.
 
-#### p. 77
+###### p. 77
 
 3. The third NINE, undivided, suggests the idea of a carriage, the strap beneath which has been removed, or of a husband and wife looking on each other with averted eyes.
 
