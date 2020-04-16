@@ -1,10 +1,10 @@
-# Gu ䷑
+# Gǔ ䷑
 
 Chinese: gǔ 蛊 ䷑
 
 ![Gu](https://88o.io/wp-content/uploads/2018/09/18-e89b8agu.jpg)
 
-**Gu** indicates great progress and success (to him who deals properly with the condition represented by it).
+**Gǔ ䷑** indicates great progress and success (to him who deals properly with the condition represented by it).
 There will be advantage in (efforts like that of) crossing the great stream. (He should weigh well, however, the events of) three days before the turning point, and those (to be done) three days after it.
 
 1. The first SIX, divided, shows (a son) dealing with the troubles caused by his father. If he be an (able) son, the father will escape the blame of having erred. The position is perilous, but there will be good fortune in the end.
@@ -21,14 +21,14 @@ There will be advantage in (efforts like that of) crossing the great stream. (He
 
 ## Notes
 
-In the 6th Appendix it is said, They who follow another are sure to have services (to perform), and hence **Sui** is followed by **Gu**.
-But **Gu** means the having painful or troublesome services to do. It denotes here a state in which things are going to ruin, as if through poison or venomous worms;
+In the 6th Appendix it is said, They who follow another are sure to have services (to perform), and hence [**Suí ䷐**](e99a8fsui.md) is followed by **Gǔ ䷑**.
+But **Gǔ ䷑** means the having painful or troublesome services to do. It denotes here a state in which things are going to ruin, as if through poison or venomous worms;
 and the figure is supposed to describe the arrest of the decay and the restoration to soundness and vigour, so as to justify its auspice of great progress and success.
 To realise such a result, however, great efforts will be required, as in crossing the great stream; and a careful consideration of the events that have brought on the state of decay,
-and the measures to be taken to remedy it is also necessary. See Appendix I on the 'three days.'
+and the measures to be taken to remedy it is also necessary. See [Appendix I](appendix01s1.md) on the 'three days.'
 
 The subject of line 1, and of all the other lines, excepting perhaps 6, appears as a son. Yet the line itself is of the yin nature, and the trigram in which it plays the principal part is also yin.
-Line 2 is strong, and of the yang nature, with the yin line 5 as its proper correlate. In line 2, 5 appears as the mother; but its subject there is again a son, and the upper trigram altogether is yang. I am unable to account for these things. As is said in the note of Regis on line 2:--'Haec matris filiique denominatio ad has lineas mere translatitia est, et, ut ait commentarius vulgaris, ad explicationem sententiarum eas pro matre et filio supponere dicendum est. Nec ratio reddetur si quis in utroque hoc nomine mysterium quaerat. Cur enim aliis in figuris lineae nunc regem, nunc vasallum, jam imperii administrum, mox summum armorum praefectum referre dicantur? Accommodantur scilicet lineae ad verba sententiae et verba sententiae ad sensum, queniadmodum faciendum de methodis libri Shih King docet Mencius, V, i, ode 4.2.'
+Line 2 is strong, and of the yang nature, with the yin line 5 as its proper correlate. In line 2, 5 appears as the mother; but its subject there is again a son, and the upper trigram altogether is yang. I am unable to account for these things. As is said in the note of Regis on line 2:--'Haec matris filiique denominatio ad has lineas mere translatitia est, et, ut ait commentarius vulgaris, ad explicationem sententiarum eas pro matre et filio supponere dicendum est. Nec ratio reddetur si quis in utroque hoc nomine mysterium quaerat. Cur enim aliis in figuris lineae nunc regem, nunc vasallum, jam imperii administrum, mox summum armorum praefectum referre dicantur? Accommodantur scilicet lineae ad verba sententiae et verba sententiae ad sensum, queniadmodum faciendum de methodis libri Shih King docet [Mencius, V, i, ode 4.2]().'
 
 We must leave this difficulty. Line 1 is weak, and its correlate 4 is also weak. What can its subject do to remedy the state of decay? But the line is the first of the figure, and the decay is not yet great.
 By giving heed to the cautions in the Text, he will accomplish what is promised.
