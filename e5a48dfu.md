@@ -44,7 +44,7 @@ Line 3 is weak, and in the uneven place of a strong line. It is the top line, mo
 
 Line 4 has its proper correlate in i; different from all the other weak lines; and its course is different accordingly.
 
-Line 5 is in the central place of honour, and the middle line of Khwăn, denoting docility. Hence its auspice.
+Line 5 is in the central place of honour, and the middle line of [**Kūn ䷁**](e59da4kun.md), denoting docility. Hence its auspice.
 
 Line 6 is weak; and being at the top of the hexagram, when its action of returning is all concluded, action on the part of its subject will lead to evils such as are mentioned. 'Ten years' seems to be a round number, signifying a long time, as in hexagram 3. 2.
 
