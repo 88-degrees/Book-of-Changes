@@ -4,7 +4,7 @@ Treatise on the Thwan [1](#fr_124), or king Wăn's Explanations of the entire He
 
 ## SECTION I
 
-I.
+[I](#fr_125).
 
 1. Vast is the 'great and originating (power)' indicated by [Qián(䷀)](./e4b9beqian.md)! All things owe to it their beginning:--it contains all the meaning belonging to (the name) heaven.
 
@@ -16,7 +16,9 @@ I.
 
 5. (The sage) appears aloft, high above all things, and the myriad states all enjoy repose.
 
-II.
+###### p. 214
+
+[II](#fr_126).
 
 1. Complete is the 'great and originating (capacity)' indicated by [Kūn(䷁)](./e59da4kun.md)! All things owe to it their birth;--it receives obediently the influences of Heaven.
 
@@ -24,23 +26,29 @@ II.
 
 3. The mare is a creature of earthly kind. Its (power of) moving on the earth is without limit; it is mild and docile, advantageous and firm:--such is the course of the superior man.
 
+###### p. 215
+
 4. 'If he take the initiative, he goes astray:'--he misses, that is, his proper course. 'If he follow,' he is docile, and gets into his regular (course). 'In the south-west he will get friends:'--he will be walking with those of his own class. 'In the north-east he will lose friends:'--but in the end there will be ground for congratulation.
 
 5. 'The good fortune arising from resting in firmness' corresponds to the unlimited capacity of the earth.
 
-III.
+[III](](#fr_127)).
 
-1. In Kun we have the strong ([Qián(䷀)](./e4b9beqian.md)) and the weak ([Kūn(䷁)](./e59da4kun.md)) commencing their intercourse, and difficulties arising.
+1. In [Zhūn(䷂)](e5b1afzhun.md) we have the strong ([Qián(䷀)](./e4b9beqian.md)) and the weak ([Kūn(䷁)](./e59da4kun.md)) commencing their intercourse, and difficulties arising.
 
 2. Movement in the midst of peril gives rise to 'great progress and success, (through) firm correctness.'
 
-3. By the action of the thunder and rain, (which are symbols of Kăn and Khan), all (between heaven and earth) is filled up. But the condition of the time is full of irregularity and obscurity. Feudal princes should be established, but the feeling that rest and peace have been secured should not be indulged (even then).
+3. By the action of the thunder and rain, (which
 
-IV.
+###### p.216
 
-1. In Măng we have (the trigram for) a mountain, and below it that of a rugged defile with a stream in it. The conditions of peril and arrest of progress (suggested by these) give (the idea in) Măng.
+are symbols of [Zhèn(䷲)](e99c87zhen.md) and [Kǎn(䷜)](e59d8ekan.md)), all (between heaven and earth) is filled up. But the condition of the time is full of irregularity and obscurity. Feudal princes should be established, but the feeling that rest and peace have been secured should not be indulged (even then).
 
-2. 'Măng indicates that there will be progress and success:'--for there is development at work in it, and its time of action is exactly what is right. 'I do not seek the youthful and inexperienced; he seeks me:'--so does will respond to will. 'When he shows (the sincerity that marks) the first recourse to divination, I instruct him:'--for possessing the qualities of the undivided line and being in the central place, (the subject of the second line thus speaks). 'A second and third application create annoyance, and I do not instruct so as to create annoyance:'--annoyance (he means) to the ignorant.
+[IV](#fr_128).
+
+1. In [Méng(䷃)](e89299meng.md) we have (the trigram for) a mountain, and below it that of a rugged defile with a stream in it. The conditions of peril and arrest of progress (suggested by these) give (the idea in) Măng.
+
+2. '[Méng(䷃)](e89299meng.md) indicates that there will be progress and success:'--for there is development at work in it, and its time of action is exactly what is right. 'I do not seek the youthful and inexperienced; he seeks me:'--so does will respond to will. 'When he shows (the sincerity that marks) the first recourse to divination, I instruct him:'--for possessing the qualities of the undivided line and being in the central place, (the subject of the second line thus speaks). 'A second and third application create annoyance, and I do not instruct so as to create annoyance:'--annoyance (he means) to the ignorant.
 
 (The method of dealing with) the young and ignorant is to nourish the correct (nature belonging to them);--this accomplishes the service of the sage.
 
@@ -221,7 +229,7 @@ XXVIII.
 
 XXIX.
 
-1. Khan repeated shows us one defile succeeding another.
+1. [Kǎn(䷜)](e59d8ekan.md) repeated shows us one defile succeeding another.
 
 2. This is the nature of water;--it flows on, without accumulating its volume (so as to overflow); it pursues its way through a dangerous defile, without losing its true (nature).
 
@@ -251,19 +259,19 @@ Paragraph 3 treats of the symbol of the 'mare,' to lead the mind to the course o
 
 See the note, corresponding to paragraph 4, on the Text. 'Resting in firmness' is the normal course of [Kūn(䷁)](./e59da4kun.md). Where it is pursued, the good effect will be great, great as the unlimited capacity of the earth.
 
-Kun is made up of the trigrams Kăn and Khan; but according to the views on king Wăn's arrangement of the trigrams, as set forth especially in Appendix V, chap. 14, the six others come from [Qián(䷀)](./e4b9beqian.md) and [Kūn(䷁)](./e59da4kun.md), and are said to be their children. On the first application of [Kūn(䷁)](./e59da4kun.md) to [Qián(䷀)](./e4b9beqian.md), there results Kăn, the first line of [Qián(䷀)](./e4b9beqian.md) taking the place of the last of [Kūn(䷁)](./e59da4kun.md); and on the second application, there results Khan, the middle line of [Qián(䷀)](./e4b9beqian.md) taking the place of that of [Kūn(䷁)](./e59da4kun.md). McClatchie renders here:--'The Thun (Kun) diagram represents the hard and the soft (air) beginning to have sexual intercourse, and bringing forth with suffering!' But there is nothing in the Yî, from the beginning to the end, to justify such an interpretation. Nor do I see how, from any account of the genesis by the component trigrams, the idea of the result as signifying a state of difficulty and distress can be readily made out.
+Kun is made up of the trigrams [Zhèn(䷲)](e99c87zhen.md) and [Kǎn(䷜)](e59d8ekan.md); but according to the views on king Wăn's arrangement of the trigrams, as set forth especially in Appendix V, chap. 14, the six others come from [Qián(䷀)](./e4b9beqian.md) and [Kūn(䷁)](./e59da4kun.md), and are said to be their children. On the first application of [Kūn(䷁)](./e59da4kun.md) to [Qián(䷀)](./e4b9beqian.md), there results [Zhèn(䷲)](e99c87zhen.md), the first line of [Qián(䷀)](./e4b9beqian.md) taking the place of the last of [Kūn(䷁)](./e59da4kun.md); and on the second application, there results [Kǎn(䷜)](e59d8ekan.md), the middle line of [Qián(䷀)](./e4b9beqian.md) taking the place of that of [Kūn(䷁)](./e59da4kun.md). McClatchie renders here:--'The Thun (Kun) diagram represents the hard and the soft (air) beginning to have sexual intercourse, and bringing forth with suffering!' But there is nothing in the Yî, from the beginning to the end, to justify such an interpretation. Nor do I see how, from any account of the genesis by the component trigrams, the idea of the result as signifying a state of difficulty and distress can be readily made out.
 
-In paragraph 2 there is an attempt from the virtues or attributes assigned to the trigrams to make out the result indicated in the Thwan. To move and excite is the quality of Kăn; perilousness is the quality of Khan. The power to move is likely to produce great effects; to do this in perilous and difficult circumstances requires firmness and correctness. But neither is this explanation very satisfactory.
+In paragraph 2 there is an attempt from the virtues or attributes assigned to the trigrams to make out the result indicated in the Thwan. To move and excite is the quality of [Zhèn(䷲)](e99c87zhen.md); perilousness is the quality of [Kǎn(䷜)](e59d8ekan.md). The power to move is likely to produce great effects; to do this in perilous and difficult circumstances requires firmness and correctness. But neither is this explanation very satisfactory.
 
-The first part of paragraph 3 depicts a condition of trouble and disorder in the natural world occasioned by the phenomena that are symbols of the significance of Kăn and Khan; but this is symbolical again of the disorder and distress, political and social, characteristic of the time. Good princes throughout the nation would help to remedy that; but the supreme authority should not resign itself to indifference, trusting to them.
+The first part of paragraph 3 depicts a condition of trouble and disorder in the natural world occasioned by the phenomena that are symbols of the significance of [Zhèn(䷲)](e99c87zhen.md) and [Kǎn(䷜)](e59d8ekan.md); but this is symbolical again of the disorder and distress, political and social, characteristic of the time. Good princes throughout the nation would help to remedy that; but the supreme authority should not resign itself to indifference, trusting to them.
 
-217:IV The trigram [Gèn(䷳)](e889aegen.md) has for its symbol in the natural world a mountain, which stands up frowningly, and stops or arrests the progress of the traveller. Stoppage, understood sometimes actively, and sometimes passive]y, is called the virtue or attribute indicated by it. Khan, as I said on p. 32, has water for its symbol, and especially in the form of rain. Here, however, the water appears as a stream in a difficult defile, such as ordinarily appears on an approach to a mountain, and suggesting perilousness as the attribute of such a position. From the combination of these symbols and their attributes the writer thinks that he gets the idea of the character (not the entire hexagram) Măng, as symbolical of ignorance and inexperience. See on 'the Great Symbolism' below.
+217:IV The trigram [Gèn(䷳)](e889aegen.md) has for its symbol in the natural world a mountain, which stands up frowningly, and stops or arrests the progress of the traveller. Stoppage, understood sometimes actively, and sometimes passive]y, is called the virtue or attribute indicated by it. [Kǎn(䷜)](e59d8ekan.md), as I said on p. 32, has water for its symbol, and especially in the form of rain. Here, however, the water appears as a stream in a difficult defile, such as ordinarily appears on an approach to a mountain, and suggesting perilousness as the attribute of such a position. From the combination of these symbols and their attributes the writer thinks that he gets the idea of the character (not the entire hexagram) Măng, as symbolical of ignorance and inexperience. See on 'the Great Symbolism' below.
 
 Down to the last sentence of paragraph 2, all that is said is intended to show how it is that the figure indicates progress and success. The whole representation is grounded on the undivided line's being in the central place. It is the symbol of active effort for the teaching of the ignorant in the proper place and time; this being responded to by the divided fifth line, representing the ignorance to be taught as docile, 'will responds to will.' But the p. 218 subject of line 2 requires sincerity in the applicant for instruction, and feels that he must make his own teaching acceptable, and agreeable. All this serves to bring out the idea of progress and success.
 
 Then finally in the young and ignorant there is 'a correct nature,' a moral state made for goodness. The efficient teacher directing his efforts to bring out and nourish that, the progress and success will be 'great;' the service done will be worthy of 'a sage.'
 
-Hsü is composed of [Qián(䷀)](./e4b9beqian.md), having the quality of strength, and of Khan, having the quality of perilousness. Thc strong one might readily dare the peril, but he restrains himself and waits. This is the lesson of the hexagram,--the benefit of action well considered, of plans well matured.
+Hsü is composed of [Qián(䷀)](./e4b9beqian.md), having the quality of strength, and of [Kǎn(䷜)](e59d8ekan.md), having the quality of perilousness. Thc strong one might readily dare the peril, but he restrains himself and waits. This is the lesson of the hexagram,--the benefit of action well considered, of plans well matured.
 
 The fifth line, as we have observed more than once already, is the place of honour, that due to the ruler or king. It is here called 'the Heavenly or Heaven-given seat, 'the meaning of which expression is clear from its occurrence in the Shih, III, i, ode 2. 1. Five is an odd number, and the fifth is therefore the 'correct' place for an undivided line; it is also the central place of the trigram, indicating. how its occupant is sure to walk in the due mean. See further the notes on the Text, p. 68.
 
@@ -275,7 +283,7 @@ What 'the great man sets a value on being the due mean and the correct place,' h
 
 That 'multitude' is given here as if it were the meaning of the name Sze arose, probably, from there being but one undivided line in the figure. That is the symbol of the general, all the other lines, divided, suggest the idea of a multitude obedient to his orders. The general's place in the centre of the lower trigram, with the proper correlate in line 5, suggests the idea of firmness and correctness that dominates in the hexagram. But in the last sentence it is the ruler, and not the general of the host, who is the subject. Compare what is said of him with Mencius, I, i, chap. 3; ii, chap. 5, &c.
 
-'Perilousness' is the attribute of Khan, the lower trigram, and 'docility,' or 'accordance with others,' that of [Kūn(䷁)](./e59da4kun.md), the upper. War is like 'poison' to a country, injurious, and threatening ruin to it, and yet the people will endure and encounter it in behalf of the sovereign whom they esteem and love.
+'Perilousness' is the attribute of [Kǎn(䷜)](e59d8ekan.md), the lower trigram, and 'docility,' or 'accordance with others,' that of [Kūn(䷁)](./e59da4kun.md), the upper. War is like 'poison' to a country, injurious, and threatening ruin to it, and yet the people will endure and encounter it in behalf of the sovereign whom they esteem and love.
 
 There is some error in the text here, -- as all the critics acknowledge. I have adopted the decision of Kû Hsî, which by a very small change makes the whole read consistently, and in harmony with other explanations of the Thwan. 'The inferiors' are the subjects of all the other lines gathering round their superior, represented in the fifth line.
 
@@ -309,15 +317,15 @@ The Thwan on this hexagram was so brief, that the writer here deals generally wi
 
 The way of heaven is seen, e.g. in the daily declining of the sun, and the waning of the moon after it is full; the way of earth in the fall of the year. On the meaning of 'Spiritual Beings (Kwei Shăn),' see the Introduction, pp. 34, 35. It is difficult to say what idea the writer attached to the name. What he says of man's appreciation of humility is striking, and, I believe, correct.
 
-What is said in paragraph 1 about the lines has been pointed out in the notes on the Text. 'Obedience' is the attribute of [Kūn(䷁)](./e59da4kun.md), the lower trigram, which takes the initiative in the action of the figure; and here makes use of the movement, which is the attribute of Kăn, the upper trigram.
+What is said in paragraph 1 about the lines has been pointed out in the notes on the Text. 'Obedience' is the attribute of [Kūn(䷁)](./e59da4kun.md), the lower trigram, which takes the initiative in the action of the figure; and here makes use of the movement, which is the attribute of [Zhèn(䷲)](e99c87zhen.md), the upper trigram.
 
 I can hardly trace the connexion between the different parts of Paragraph 2. Does it not proceed on the harmony produced by the thunderous explosion between heaven and earth, as declared p. 227 in Appendix II? Then the analogy between natural phenomena and human and social experiences comes into play.
 
 Paragraph 3 is also tantalising. Why does the writer introduce the subject of punishments and penalties? Are they a consequence of putting the hosts in motion?
 
-The trigrams Kăn and [Duì(䷹)](e58591dui.md) are distinguished as strong and weak, Kăn representing, on king Wăn's scheme, 'the eldest son,' and [Duì(䷹)](e58591dui.md), 'the youngest daughter.' But 'the strong' here may mean the strong line, the lowest in the hexagram. As Wang Žung-kwan (Sung dynasty) says:--'The yang and strong line should not be below a yin and weak line, as we find it here. That is, in Sui the high places himself below the low, and the noble below the mean:'--esteeming others higher than himself, and giving the idea of following. Then Kân denotes the production or excitement of motion, and [Duì(䷹)](e58591dui.md) denotes pleasure; and the union of these things suggests the same idea.
+The trigrams [Zhèn(䷲)](e99c87zhen.md) and [Duì(䷹)](e58591dui.md) are distinguished as strong and weak, [Zhèn(䷲)](e99c87zhen.md) representing, on king Wăn's scheme, 'the eldest son,' and [Duì(䷹)](e58591dui.md), 'the youngest daughter.' But 'the strong' here may mean the strong line, the lowest in the hexagram. As Wang Žung-kwan (Sung dynasty) says:--'The yang and strong line should not be below a yin and weak line, as we find it here. That is, in Sui the high places himself below the low, and the noble below the mean:'--esteeming others higher than himself, and giving the idea of following. Then Kân denotes the production or excitement of motion, and [Duì(䷹)](e58591dui.md) denotes pleasure; and the union of these things suggests the same idea.
 
-The symbolism here is the opposite of that in Sui. The upper trigram Kăn is strong, denoting, according to king Wăn, 'the youngest son;' and the lower, Sun, is weak, denoting 'the eldest daughter.' For the eldest daughter to be below the youngest son is eminently correct, and helps to indicate the auspice of great success. The attribute of Sun is pliancy, and that of Kăn stoppage or arrest. The feeble pliancy confronted by the arresting mountain gives an idea of the evil state implied in Kû.
+The symbolism here is the opposite of that in Sui. The upper trigram [Zhèn(䷲)](e99c87zhen.md) is strong, denoting, according to king Wăn, 'the youngest son;' and the lower, Sun, is weak, denoting 'the eldest daughter.' For the eldest daughter to be below the youngest son is eminently correct, and helps to indicate the auspice of great success. The attribute of Sun is pliancy, and that of [Zhèn(䷲)](e99c87zhen.md) stoppage or arrest. The feeble pliancy confronted by the arresting mountain gives an idea of the evil state implied in Kû.
 
 'Three days before and after the turning-point' is, literally, three days before and after kiâ,' kiâ being the name of the first of the 'earthly stems' among the cyclical characters. Hence it has the meaning of 'beginning,' and here denotes the turning-point, at which disorder gives place to order. According to 'the procedure of Heaven,' history is a narrative of change, one condition of affairs constantly giving place to another and opposite. 'A kingdom that cannot be moved' does not enter into the circle of Chinese ideas.
 
@@ -327,7 +335,7 @@ See what has been said on the fourth paragraph in pp. 98, 99 on the Text. The ot
 
 'The spirit-like way of Heaven' is the invisible and unfathomable agency ever operating by general laws, and with invariable regularity, in what we call nature. Compare with this paragraph, the definition of Shăn or Spirit in Appendix III, i, 32; and the doctrine of the agency of God, taught in Appendix VI, 8, 9.
 
-The 'equal division of the strong and weak lines' is seen by taking them in pairs, though the order in the first pair is different from that in the two others. This is supposed to indicate the intelligence of the judgments in the action of the hexagram. Kăn, the lower trigram, symbolises movement; Lî, the upper, intelligence. The fifth line's acting in its high position does not intimate the formation of the figure from Yî, the 42nd hexagram, but calls attention to the fact that a weak line is here 'lord of judgment.' This does not seem natural, but the effect is good;--judgment is tempered by leniency.
+The 'equal division of the strong and weak lines' is seen by taking them in pairs, though the order in the first pair is different from that in the two others. This is supposed to indicate the intelligence of the judgments in the action of the hexagram. [Zhèn(䷲)](e99c87zhen.md), the lower trigram, symbolises movement; Lî, the upper, intelligence. The fifth line's acting in its high position does not intimate the formation of the figure from Yî, the 42nd hexagram, but calls attention to the fact that a weak line is here 'lord of judgment.' This does not seem natural, but the effect is good;--judgment is tempered by leniency.
 
 The first paragraph is either superfluous or incomplete.
 
@@ -339,7 +347,7 @@ The language of paragraph 2 has naturally been pressed into the p. 232 service o
 
 'The mind of heaven and earth' is the love of life and of all goodness that rules in the course of nature and providence.
 
-The advocates of one trigram's changing into another, which ought not to be admitted, we have seen, into the interpretation of the Yî, make Wû Wang to be derived from Sung (No. 6), the second line there being manipulated into the first of this; but this representation is contrary to the words of the text, which make the strong first line come from the outer trigram, i. e. from [Qián(䷀)](./e4b9beqian.md). And so it does, as related, not very intelligibly, in Appendix V, 10, Kăn, the lower trigram here, being the eldest son,' resulting from the first application of [Kūn(䷁)](./e59da4kun.md) to [Qián(䷀)](./e4b9beqian.md). The three peculiarities in the structure of the figure afford the auspice of progress and success; and very striking is the brief and emphatic declaration, that such progress is 'the appointment of Heaven.'
+The advocates of one trigram's changing into another, which ought not to be admitted, we have seen, into the interpretation of the Yî, make Wû Wang to be derived from Sung (No. 6), the second line there being manipulated into the first of this; but this representation is contrary to the words of the text, which make the strong first line come from the outer trigram, i. e. from [Qián(䷀)](./e4b9beqian.md). And so it does, as related, not very intelligibly, in Appendix V, 10, [Zhèn(䷲)](e99c87zhen.md), the lower trigram here, being the eldest son,' resulting from the first application of [Kūn(䷁)](./e59da4kun.md) to [Qián(䷀)](./e4b9beqian.md). The three peculiarities in the structure of the figure afford the auspice of progress and success; and very striking is the brief and emphatic declaration, that such progress is 'the appointment of Heaven.'
 
 In paragraph 1, Tâ Khû evidently means the 'grand accumulation' of virtue, indicated by the attributes of its component trigrams. 'Substantial solidity' may very well be given as the attribute of mountains.
 
