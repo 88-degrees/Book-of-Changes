@@ -2,12 +2,16 @@
 
 > Chinese: 涣 ䷺ huàn
 
-###### 
+###### p. 194
 
 ![Huan](https://88o.io/wp-content/uploads/2018/09/59-e6b6a3huan.jpg)
 
 **Huàn ䷺** intimates that (under its conditions) there will be progress and success.
-The king goes to his ancestral temple; and it will be advantageous to cross the great stream.
+The king goes to his ancestral temple; and it will be advantageous to
+
+###### p. 195
+
+cross the great stream.
 It will be advantageous to be firm and correct.
 
 1. The first SIX, divided, shows its subject engaged in rescuing (from the impending evil) and having (the assistance of) a strong horse. There will be good fortune.
@@ -19,7 +23,10 @@ It will be advantageous to be firm and correct.
 4. The fourth SIX, divided, shows its subject scattering the (different) parties (in the state); which leads to great good fortune. From the dispersion (he collects again good men standing out, a crowd) like a mound, which is what ordinary men would not have thought of.
 
 5. The fifth NINE, undivided, shows its subject amidst the dispersion issuing his great announcements as the perspiration (flows from his body).
-He scatters abroad (also) the accumulations in the royal granaries. There will be no error.
+
+###### p. 196
+
+[paragraph continues] He scatters abroad (also) the accumulations in the royal granaries. There will be no error.
 
 6. The topmost NINE, undivided, shows its subject disposing of (what may be called) its bloody wounds, and going and separating himself from its anxious fears. There will be no error.
 
@@ -33,7 +40,7 @@ The intimation of progress and success is supposed to be given by the strong lin
 
 Line 1, at the commencement of the hexagram, tells us that the evil has not yet made great progress, and that dealing with it will be easy. But the subject of the line is weak, and in an odd place. He cannot cope with the evil himself. He must have help, and he finds that in a strong horse, which description is understood to be symbolical of the subject of the strong second line.
 
-'Line 2 is strong, but in an even place. That place is, indeed, the central, but the attribute of the lower trigram **Kǎn ☵** is peril. These conditions indicate evil, and action will be dangerous; but the subject of 2 looks to 1 below him, and takes shelter in union with its subject. Since the commentary of Khăng-žze, this has been the interpretation of the line.
+Line 2 is strong, but in an even place. That place is, indeed, the central, but the attribute of the lower trigram **Kǎn ☵** is peril. These conditions indicate evil, and action will be dangerous; but the subject of 2 looks to 1 below him, and takes shelter in union with its subject. Since the commentary of Khăng-žze, this has been the interpretation of the line.
 
 Line 3 is weak, and in an odd place. A regard for himself that would unfit its subject for contributing any service to the work of the hexagram might be feared; but he discards that regard, and will do nothing to be repented of. There is a change of style in the Chinese text at this point. As Wang Shăn-žze (Yüan dynasty) says: -- 'Here and henceforth the scattering is of what should be scattered, that what should not be scattered may be collected.'
 
