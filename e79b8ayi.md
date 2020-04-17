@@ -1,12 +1,18 @@
-# Yi ䷩
+# Yì ䷩
 
-Chinese: yì 益 ䷩
+> Chinese: 益 ䷩ yì
+
+###### p. 149
 
 ![yi](https://88o.io/wp-content/uploads/2018/09/42-e79b8ayi.jpg)
 
-**Yi** indicates that (in the state which it denotes) there will be advantage in every movement which shall be undertaken, that it will be advantageous (even) to cross the great stream.
+**Yì ䷩** indicates that (in the state which it denotes) there will be advantage in every movement which shall be undertaken, that it will be advantageous (even) to cross the great stream.
 
-1. The first NINE, undivided, shows that it will be advantageous for its subject in his position to make a great movement. If it be greatly fortunate, no blame will be imputed to him.
+1. The first NINE, undivided, shows that it will be advantageous for its subject in his position to make
+
+##### p. 150
+
+a great movement. If it be greatly fortunate, no blame will be imputed to him.
 
 2. The second SIX, divided, shows parties adding to the stores of its subject ten pairs of tortoise shells whose oracles cannot be opposed. Let him persevere in being firm and correct, and there will be good fortune. Let the king, (having the virtues thus distinguished), employ them in presenting his offerings to God, and there will be good fortune.
 
@@ -20,7 +26,7 @@ Chinese: yì 益 ䷩
 
 ## Notes
 
-**Yi** has the opposite meaning to Sun, and is the symbol of addition or increasing.
+**Yì ䷩** has the opposite meaning to Sun, and is the symbol of addition or increasing.
 What king Wăn had in his mind, in connexion with the hexagram, was a ruler or a government operating p. 151 so as to dispense benefits to,
 and increase the resources of all the people. Two indications are evident in the lines;--the strong line in the ruler's seat, or the fifth line, and the weak line in the correlative place of 2.
 Whether there be other indications in the figure or its component trigrams will be considered in dealing with the Appendixes. The writer might well say, on general grounds,
