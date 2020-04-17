@@ -1,11 +1,15 @@
 # Wèi Jì ䷿
 
-Chinese: 未济 ䷿ wèi jì
+> Chinese: 未济 ䷿ wèi jì
+
+###### p. 207
 
 ![Weiji](https://88o.io/wp-content/uploads/2018/09/64-e69caae6b58eweiji.jpg)
 
 **Wèi Jì ䷿** intimates progress and success (in the circumstances which it implies).
 (We see) a young fox that has nearly crossed (the stream), when its tail gets immersed. There will be no advantage in any way.
+
+###### p. 208
 
 1. The first SIX, divided, shows its subject (like a fox) whose tail gets immersed. There will be occasion for regret.
 
@@ -19,14 +23,21 @@ Let him stir himself up, as if he were invading the Demon region, where for thre
 5. The fifth SIX, divided, shows its subject by firm correctness obtaining good fortune, and having no occasion for repentance.
 (We see in him) the brightness of a superior man, and the possession of sincerity. There will be good fortune.
 
-6. The topmost NINE, undivided, shows its subject full of confidence and therefore feasting (quietly).
-There will be no error. (If he) cherish this confidence, till he (is like the fox who) gets his head immersed, it will fail of what is right.
+6. The topmost NINE, undivided, shows its subject
+
+###### p. 209
+
+full of confidence and therefore feasting (quietly). There will be no error. (If he) cherish this confidence,
+
+###### p. 210
+
+till he (is like the fox who) gets his head immersed, it will fail of what is right.
 
 ## Notes
 
 **Wèi Jì ䷿** is the reverse of [**Jì Jì ䷾**](e697a2e6b58ejiji.md). The name tells us that the successful accomplishment of whatever the writer had in his mind had not yet been realised.
 The vessel of the state has not been brought across the great and dangerous stream. Some have wished that the Yî might have concluded with [**Jì Jì ䷾**](e697a2e6b58ejiji.md),
-and the last hexagram have left us with the picture of human affairs all brought to good order. But this would not have been in harmony with the idea of the Yî, as the book of changes. Again and again it has been pointed out that we find in it no idea of a perfect and abiding state. just as the seasons of the year change and pursue an ever-recurring round, so is it with the phases of society. The reign of order has been, and has terminated; and this hexagram calls us to see the struggle for its realisation recommenced. It treats of how those engaged in that struggle should conduct themselves with a view to secure the happy consummation.
+and the last hexagram have left us with the picture of human affairs all brought to good order. But this would not have been in harmony with the idea of the `I Ching`, as the book of changes. Again and again it has been pointed out that we find in it no idea of a perfect and abiding state. just as the seasons of the year change and pursue an ever-recurring round, so is it with the phases of society. The reign of order has been, and has terminated; and this hexagram calls us to see the struggle for its realisation recommenced. It treats of how those engaged in that struggle should conduct themselves with a view to secure the happy consummation.
 
 How the figure sets forth the state of things by its constituent trigrams will appear in [Appendix II](appendix02.md). A similar indication is supposed to be given by the lines, not one of which is in the correct place; the strong lines being all in even places, and t he weak lines in odd. At the same time each of them has a proper correlate; and so the figure gives an intimation of some successful progress. See also [Appendix I](appendix01.md).
 
