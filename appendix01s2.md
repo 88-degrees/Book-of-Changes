@@ -246,9 +246,9 @@ When change thus takes place in the proper way, 'occasion for repentance disappe
 
 <a name="fr_175"></a>[LI](#fn_175).
 
-1. Kăn (gives the intimation of) ease and development.
+1. [**Zhèn ䷲**](e99c87zhen.md) (gives the intimation of) ease and development.
 
-2. 'When the (time of) movement (which it indicates) comes, (its subject) will be found looking out with apprehension:'--that feeling of dread leads to happiness. 'And yet smiling and talking cheerfully:'--the issue (of his dread) is that he adopts (proper) laws (for his course).
+2. 'When the (time of) movement (which it indicates) comes, (its subject) will be found looking out with apprehension:' -- that feeling of dread leads to happiness. 'And yet smiling and talking cheerfully:' -- the issue (of his dread) is that he adopts (proper) laws (for his course).
 
 'The movement (like a crash of thunder) terrifies
 
@@ -256,11 +256,11 @@ When change thus takes place in the proper way, 'occasion for repentance disappe
 
 all within a hundred lî:' -- it startles the distant and frightens the near.
 
-'He will be like the sincere worshipper, who is not startled into letting go his ladle and cup of sacrificial spirits:'--he makes his appearance, and maintains his ancestral temple and the altars of the spirits of the land and grain, as presiding at all sacrifices.
+'**He will be like the sincere worshipper, who is not startled into letting go his ladle and cup of sacrificial spirits:**' -- he makes his appearance, and maintains his ancestral temple and the altars of the spirits of the land and grain, as presiding at all sacrifices.
 
 <a name="fr_176"></a>[LII](#fn_176).
 
-1. Kăn denotes stopping or resting;--resting when it is the time to rest, and acting when it is the time to act. When one's movements and restings all take place at the proper time for them, his way (of proceeding) is brilliant and intelligent.
+1. [**Gèn ䷳**](e889aegen.md) denotes stopping or resting; -- resting when it is the time to rest, and acting when it is the time to act. When one's movements and restings all take place at the proper time for them, his way (of proceeding) is brilliant and intelligent.
 
 2. Resting in one's resting-point is resting in one's proper place. The upper and lower (lines of the hexagram) exactly correspond to each other, but are without any interaction; hence it is said that '(the subject of the hexagram) has no consciousness of self; that when he walks in his courtyard, he does not see (any of) the persons in it; and that there will be no error.'
 
@@ -268,11 +268,11 @@ all within a hundred lî:' -- it startles the distant and frightens the near.
 
 <a name="fr_177"></a>[LIII](#fn_177).
 
-1. The advance indicated by Kien is (like) the marrying of a young lady which is attended by good fortune.
+1. The advance indicated by [**Jiàn ䷴**](e6b890jian.md) is (like) the marrying of a young lady which is attended by good fortune.
 
-2. (The lines) as they advance get into their correct places:--this indicates the achievements of a successful progress.
+2. (The lines) as they advance get into their correct places: -- this indicates the achievements of a successful progress.
 
-The advance is made according to correctness:--(the subject of the hexagram) might rectify his country.
+The advance is made according to correctness: -- (the subject of the hexagram) might rectify his country.
 
 3. Among the places (of the hexagram) we see the strong undivided line in the centre.
 
@@ -280,7 +280,7 @@ The advance is made according to correctness:--(the subject of the hexagram) mig
 
 <a name="fr_178"></a>[LIV](#fn_178).
 
-1. By Kwei Mei (the marrying away of a younger sister) the great and righteous relation between heaven and earth (is suggested to us). If heaven and earth were to have no intercommunication, things would not grow and flourish as they do. The marriage of a younger sister is the end (of her maidenhood) and the beginning (of her motherhood).
+1. By [**Guī mèi ䷵**](e5bd92e5a6b9guimei.md) (the marrying away of a younger sister) the great and righteous relation between heaven and earth (is suggested to us). If heaven and earth were to have no intercommunication, things would not grow and flourish as they do. The marriage of a younger sister is the end (of her maidenhood) and the beginning (of her motherhood).
 
 2. We have (in the hexagram the desire of)
 
