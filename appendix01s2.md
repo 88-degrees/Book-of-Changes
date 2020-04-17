@@ -28,29 +28,29 @@ which are in mutual communication; (they have the qualities of) docility and mot
 
 <a name="fr_157"></a>[XXXIII](#fn_157).
 
-1. 'Thun indicates successful progress:' -- that is, in the very retiring which Thun denotes there is such progress. The strong (line) is in the ruling place, (the fifth), and is properly responded to (by the second line). The action takes place according to (the requirement of) the time.
+1. '[**Dùn ䷠**](e981afdun.md) indicates successful progress:' -- that is, in the very retiring which [**Dùn ䷠**](e981afdun.md) denotes there is such progress. The strong (line) is in the ruling place, (the fifth), and is properly responded to (by the second line). The action takes place according to (the requirement of) the time.
 
-2. 'To a small extent it will (still) be advantageous to be firm and correct:'--(the small men) are gradually encroaching and advancing.
+2. 'To a small extent it will (still) be advantageous to be firm and correct:' -- (the small men) are gradually encroaching and advancing.
 
 3. Great indeed is the significance of (what is required to be done in) the time that necessitates retiring.
 
 <a name="fr_158"></a>[XXXIV](#fn_158).
 
-1. In Tâ Kwang we see that which is great becoming strong. We have the (trigram) denoting strength directing that which denotes movement, and hence (the whole) is expressive of vigour.
+1. In [**Dà Zhuàng ䷡**](e5a4a7e5a3aedazhuang.md) we see that which is great becoming strong. We have the (trigram) denoting strength directing that which denotes movement, and hence (the whole) is expressive of vigour.
 
-2. 'Tâ Kwang indicates that it will be advantageous to be firm and correct:'--that which is great (should be) correct. Given correctness and greatness (in their highest degree), and the character and tendencies of heaven and earth can be seen.
+2. '[**Dà Zhuàng ䷡**](e5a4a7e5a3aedazhuang.md) indicates that it will be advantageous to be firm and correct:' -- that which is great (should be) correct. Given correctness and greatness (in their highest degree), and the character and tendencies of heaven and earth can be seen.
 
 ###### p. 241
 
 <a name="fr_159"></a>[XXXV](#fn_159).
 
-1. Žin denotes advancing.
+1. [**Jìn ䷢**](e6998bjin.md) denotes advancing.
 
-2. (In Žin we have) the bright (sun) appearing above the earth; (the symbol of) docile submission cleaving to that of the Great brightness; and the weak line advanced and moving above:--all these things give us the idea of 'a prince who secures the tranquillity (of the people), presented on that account with numerous horses (by the king), and three times in a day received at interviews.'
+2. (In [**Jìn ䷢**](e6998bjin.md) we have) the bright (sun) appearing above the earth; (the symbol of) docile submission cleaving to that of the Great brightness; and the weak line advanced and moving above: -- all these things give us the idea of 'a prince who secures the tranquillity (of the people), presented on that account with numerous horses (by the king), and three times in a day received at interviews.'
 
 <a name="fr_160"></a>[XXXVI](#fn_160).
 
-1. (The symbol of) the Earth and that of Brightness entering into the midst of it give the idea of Ming Î (Brightness wounded or obscured).
+1. (The symbol of) the Earth and that of Brightness entering into the midst of it give the idea of [**Míng Yí ䷣**](e6988ee5a4b7mingyi.md) (Brightness wounded or obscured).
 
 2. The inner (trigram) denotes being accomplished and bright; the outer, being pliant and submissive.
 The case of king Wăn was that of one
@@ -59,15 +59,15 @@ The case of king Wăn was that of one
 
 who with these qualities was yet involved in great difficulties.
 
-3. 'It will be advantageous to realise the difficulty (of the position), and maintain firm correctness:--that is, (the individual concerned) should obscure his brightness. The case of the count of Kî was that of one who, amidst the difficulties of his House, was able (thus) to maintain his aim and mind correct.
+3. 'It will be advantageous to realise the difficulty (of the position), and maintain firm correctness: -- that is, (the individual concerned) should obscure his brightness. The case of the count of Kî was that of one who, amidst the difficulties of his House, was able (thus) to maintain his aim and mind correct.
 
 <a name="fr_161"></a>[XXXVII](#fn_161).
 
-1. In Kiâ Zăn the wife has her correct place in the inner (trigram), and the man his correct place in the outer. That man and woman occupy their correct places is the great righteousness shown (in the relation and positions of) heaven and earth.
+1. In [**Jiā Rén ䷤**](e5aeb6e4babajiaren.md) the wife has her correct place in the inner (trigram), and the man his correct place in the outer. That man and woman occupy their correct places is the great righteousness shown (in the relation and positions of) heaven and earth.
 
-2. In Kiâ Zăn we have the idea of an authoritative ruler;--that, namely, represented by the parental authority.
+2. In [**Jiā Rén ䷤**](e5aeb6e4babajiaren.md) we have the idea of an authoritative ruler; -- that, namely, represented by the parental authority.
 
-3. Let the father be indeed father, and the son son; let the elder brother be indeed elder brother, and the younger brother younger brother, let the husband be indeed husband, and the wife wife:--then will the family be in its normal state. Bring the family to that state, and all under heaven will be established.
+3. Let the father be indeed father, and the son son; let the elder brother be indeed elder brother, and the younger brother younger brother, let the husband be indeed husband, and the wife wife: -- then will the family be in its normal state. Bring the family to that state, and all under heaven will be established.
 
 ###### p. 243
 
