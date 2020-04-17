@@ -1,18 +1,18 @@
-# Lv ䷉
+# Lǚ ䷉
 
-Chinese: lǚ 履 ䷉
-
-![Lv](https://88o.io/wp-content/uploads/2018/09/10-e5b1a5lv.jpg)
+> Chinese: 履 ䷉ lǚ
 
 ###### p. 78
 
-(**Lv ䷉** suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success.
+![Lv](https://88o.io/wp-content/uploads/2018/09/10-e5b1a5lv.jpg)
+
+(**Lǚ ䷉** suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success.
 
 ###### p. 79
 
 1. The first NINE, undivided, shows its subject treading his accustomed path. If he go forward, there will be no error.
 
-2. The second NINE, undivided, shows its subject treading the path that is level and easy;--a quiet and solitary man, to whom, if he be firm and correct, there will be good fortune.
+2. The second NINE, undivided, shows its subject treading the path that is level and easy; -- a quiet and solitary man, to whom, if he be firm and correct, there will be good fortune.
 
 3. The third SIX, divided, shows a one-eyed man (who thinks he) can see; a lame man (who thinks he) can walk well; one who treads on the tail of a tiger and is bitten. (All this indicates) ill fortune. We have a (mere) bravo acting the part of a great ruler.
 
