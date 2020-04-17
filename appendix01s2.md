@@ -468,7 +468,7 @@ The explanations in paragraph 2 of the phraseology of the Thwan p. 245 are not a
 
 <a name="fn_168"></a>[250:XLIV](#fr_168)
 
-1. On paragraph 1 the Khang-hsî editors say: -- '"The weak line meets with (or comes unexpectedly on) the strong ones;" -- the weak line, that is, plays the principal part. The case is like that of the minister who assumes the power of deciding for himself on all measures, or of a hen's announcing the morning; -- is not the name of (shameless) boldness rightly applied to it? Hence nothing more is said about the symbol of the bold female; but attention is called to the second part of the **Thwan**.'
+1. On paragraph 1 the Khang-hsî editors say: -- '"The weak line meets with (or comes unexpectedly on) the strong ones;" -- the weak line, that is, plays the principal part. The case is like that of the minister who assumes the power of deciding for himself on all measures, or of a hen's announcing the morning; -- is not the name of (shameless) boldness rightly applied to it? Hence nothing more is said about the symbol of the bold female; but attention is called to the second part of the Thwan.'
 
 2. Paragraph 2 needs no remark. Paragraphs 3, 4, and 5 all speak of the importance of powers and parties meeting together, -- in the world of nature, and in the sphere of human affairs. But I do not see how this sentiment is a natural sequel to that in i and 2, nor that it has any connexion with the teaching of the Thwan and Symbolism.
 
@@ -478,23 +478,23 @@ The Khang-hsî editors say that though all is done in accordance with the ordina
 
 With paragraph 3, compare the concluding paragraphs of the Thwan Kwan on hexagrams 31 **䷞**, 32 **䷟**.
 
-<a name="fn_170"></a>[252:XLVI](#fr_170) The explanation of the first paragraph has given occasion to much difference of opinion. Some will have 'the weak (line)' to be 4; some 5; and some the whole of Khwăn, the upper trigram. The advocates of 4, make it come from hexagram 40, the weak 3 of which ascends to the strong 4, displaces it, and takes its place; but we have seen repeatedly the folly of the doctrine of changing lines and figures. The great symbolism of Appendix II suggests the proper explanation. The lower trigram, Sun, represents here not wind but wood. The first line, weak, is the root of a tree planted beneath the earth. Its gradual growth symbolises the advance upwards of the subject of the hexagram, fostered, that is, by the circumstances of the time.
+<a name="fn_170"></a>[252:XLVI](#fr_170) The explanation of the first paragraph has given occasion to much difference of opinion. Some will have 'the weak (line)' to be 4; some 5; and some the whole of **Kūn ☷**, the upper trigram. The advocates of 4, make it come from hexagram 40, the weak 3 of which ascends to the strong 4, displaces it, and takes its place; but we have seen repeatedly the folly of the doctrine of changing lines and figures. The great symbolism of Appendix II suggests the proper explanation. The lower trigram, **Xùn ☴**, represents here not wind but wood. The first line, weak, is the root of a tree planted beneath the earth. Its gradual growth symbolises the advance upwards of the subject of the hexagram, fostered, that is, by the circumstances of the time.
 
 <a name="fn_171"></a>[252:XLVII](#fr_171)
 
-1. One sees the relative position of the strong and weak lines in the figure; but to deduce from that the idea expressed by Khwăn requires a painful straining of the imagination. That idea was in the mind, and then the lines were interpreted accordingly.
+1. One sees the relative position of the strong and weak lines in the figure; but to deduce from that the idea expressed by **Kūn ☷** requires a painful straining of the imagination. That idea was in the mind, and then the lines were interpreted accordingly.
 
-2. 'Perilousness' is the attribute of the lower trigram, and 'satisfaction' that of the upper. The superior man, however straitened, p. 253 remains master of himself, and pursues the proper end of principle settled in his mind.
+2. 'Perilousness' is the attribute of the lower trigram, and 'satisfaction' that of the upper. The superior man, however straitened, [p. 253](#p-253) remains master of himself, and pursues the proper end of principle settled in his mind.
 
-Why should the subject of Khwăn make speeches, be fond of arguing or pleading,--as the characters say, if we could translate them literally, 'setting a value on the mouth?' The reply to this is found in the trigram denoting 'satisfaction,' or 'being pleased.' The party in the extremity of Khwăn yet wishes and tries to make men pleased with him.
+Why should the subject of **Kūn ☷** make speeches, be fond of arguing or pleading, -- as the characters say, if we could translate them literally, 'setting a value on the mouth?' The reply to this is found in the trigram denoting 'satisfaction,' or 'being pleased.' The party in the extremity of **Kūn ☷** yet wishes and tries to make men pleased with him.
 
-<a name="fn_172"></a>[253:XLVIII](#fr_172) Kăng Khang-Khăng says:--'Khân, the upper trigram, represents water, and Sun, the lower, wood. This wood denotes the water-wheel or pulley with its bucket, which descends into the mouth of the spring, and brings the water up to the top.' This may be a correct explanation of the figure, though the reading of it from bottom to top seems at first to be strange.
+<a name="fn_172"></a>[253:XLVIII](#fr_172) Kăng Khang-Khăng says: -- '**Kǎn ☵**, the upper trigram, represents water, and **Xùn ☴**, the lower, wood. This wood denotes the water-wheel or pulley with its bucket, which descends into the mouth of the spring, and brings the water up to the top.' This may be a correct explanation of the figure, though the reading of it from bottom to top seems at first to be strange.
 
 Paragraph 2. That the fashion of the well does not undergo any (great) change is dwelt upon as illustrating the unchangeableness of the great principles of human nature and of government. But that this truth may be learned from the strong and central lines only produces a smile. So do the remarks on the other two sentences of the Thwan.
 
 <a name="fn_173"></a>[254:XLIX](#fr_173)
 
-1. Paragraph 1. Lî, the lower trigram, represents fire, and Tui, the upper, represents water. Water will extinguish fire, and fire again will dry up water. Each, to all appearance, produces a change in the other. Again, according to king Wăn's scheme of the trigrams, as shown on p. 33, and in Figure 1, Plate III, Lî is the second, and Tui the youngest daughter. Their wills are likely to differ in love and other things; but this symbolism does not so readily suggest the idea of change.
+1. Paragraph 1. **Lí ☲** the lower trigram, represents fire, and **Duì ☱**, the upper, represents water. Water will extinguish fire, and fire again will dry up water. Each, to all appearance, produces a change in the other. Again, according to king Wăn's scheme of the trigrams, as shown on [Bā Guà Figure](bagua.png), **Lí ☲** is the second, and **Duì ☱** the youngest daughter. Their wills are likely to differ in love and other things; but this symbolism does not so readily suggest the idea of change.
 
 2. The first sentence suggests how the dislike to change on the part of people generally is overcome.
 
@@ -504,9 +504,9 @@ Paragraph 3 tells us how the greatest natural and the greatest political changes
 
 <a name="fn_174"></a>[255:L](#fr_174)
 
-1. See the notes on the Text of the Thwan about the figure of a caldron in Ting. Its component trigrams are Sun representing wood, and Lî representing fire; which may very well suggest the idea of cooking. The last sentence of the paragraph is entirely after the style of 'the Great Symbolism.' The Khang-hsî editors say that the distinction between Žing and Ting appears here very clearly, the former relating to the nourishment of the people, and the latter to the nourishing men of worth. They add that the reality of the offerings to God is such nourishing. 'God' is here Shang Tî, which Canon McClatchie translates 'the First Emperor,' adding in a note, 'The Chinese Jupiter, the Emperor of gods and men!'
+1. See the notes on the Text of the Thwan about the figure of a caldron in [**Dǐng ䷱**](e9bc8eding.md). Its component trigrams are **Xùn ☴** representing wood, and **Lí ☲** representing fire; which may very well suggest the idea of cooking. The last sentence of the paragraph is entirely after the style of 'the Great Symbolism.' The Khang-hsî editors say that the distinction between [**Jǐng ䷯**](e4ba95jing.md) and [**Dǐng ䷱**](e9bc8eding.md) appears here very clearly, the former relating to the nourishment of the people, and the latter to the nourishing men of worth. They add that the reality of the offerings to God is such nourishing. 'God' is here Shang Tî, which Canon McClatchie translates 'the First Emperor,' adding in a note, 'The Chinese Jupiter, the Emperor of gods and men!'
 
-2. The first sentence deduces the sentiment of the Thwan from the attributes or virtues of the trigrams with considerable amplification of the virtue of Lî. The second line of Lî, as being divided, calls forth in other hexagrams the same notice as here. It is the most important line in the figure, and being responded to by the strong 2, gives an indication of the 'great progress and success.'
+2. The first sentence deduces the sentiment of the Thwan from the attributes or virtues of the trigrams with considerable amplification of the virtue of **Lí ☲**. The second line of **Lí ☲**, as being divided, calls forth in other hexagrams the same notice as here. It is the most important line in the figure, and being responded to by the strong 2, gives an indication of the 'great progress and success.'
 
 <a name="fn_175"></a>[256:LI](#fr_175)
 
@@ -526,13 +526,13 @@ Paragraph 3 tells us how the greatest natural and the greatest political changes
 
 'The strong undivided line' in paragraph 3 is the fifth of the figure.
 
-Out of rest comes movement to go on for an indefinite time, and be succeeded by rest again;--as says paragraph 4.
+Out of rest comes movement to go on for an indefinite time, and be succeeded by rest again; -- as says paragraph 4.
 
 <a name="fn_178"></a>[258:LIV](#fr_178)
 
-1. Kwei Mei in this Appendix has the meaning simply of marriage, and for Mei we might substitute Nü ,'daughter' or 'young lady.' This appears from the writer's going on to point out, as elsewhere, the analogy between the growth of things in nature from the interaction of heaven and earth and the increase of mankind through marriage. He does this with a delicate touch. There is no grossness in the original any more than there is in the translation.
+1. [**Guī mèi ䷵**](e5bd92e5a6b9guimei.md) in this Appendix has the meaning simply of marriage, and for Mei we might substitute Nü ,'daughter' or 'young lady.' This appears from the writer's going on to point out, as elsewhere, the analogy between the growth of things in nature from the interaction of heaven and earth and the increase of mankind through marriage. He does this with a delicate touch. There is no grossness in the original any more than there is in the translation.
 
-But how are we to reconcile this reference to the action of heaven and earth with the bad auspice of the Thwan? The Khang-hsî editors felt the pressure of this difficulty, and they adduce a similar inconsistency in the account of hexagram 44 in this treatise, adding, 'From this we may say that the interaction of the yin and yang cannot be dispensed with, but that we ought to be careful about it in the beginning in order to prevent mischief in the end. This is the doctrine of the Yî.' This is very well, but it is no solution of the difficulty. The editors could not admit that the author of the Appendix did not understand or did not deal fairly with the Text; for that author, they thought, was Confucius.
+But how are we to reconcile this reference to the action of heaven and earth with the bad auspice of the Thwan? The Khang-hsî editors felt the pressure of this difficulty, and they adduce a similar inconsistency in the account of hexagram 44 **䷫** in this treatise, adding, 'From this we may say that the interaction of the `yīn` and `yáng` cannot be dispensed with, but that we ought to be careful about it in the beginning in order to prevent mischief in the end. This is the doctrine of the Yî.' This is very well, but it is no solution of the difficulty. The editors could not admit that the author of the Appendix did not understand or did not deal fairly with the Text; for that author, they thought, was Confucius.
 
 2. The same editors say that paragraph 2 implies both that the desire for the marriage originated with the lady, and that she was aware that the gentleman was older than herself.
 
