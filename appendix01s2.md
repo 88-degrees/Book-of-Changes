@@ -123,9 +123,9 @@ of place. Everything in the method of this increase proceeds according to the re
 
 the first lines in each changing places. It was the author of this Appendix, probably, who first introduced that absurd notion in connexion with the formation of [**Sǔn ䷨**](e68d9fsun.md) and [**Yì ䷩**](e79b8ayi.md).
 
-One rhyme runs through and connects these three paragraphs thus:--
+One rhyme runs through and connects these three paragraphs thus: --
 
-'[**Yì ䷩**] spoils the high, gives to the low;
+'**Yì ䷩** spoils the high, gives to the low;
 The people feel intense delight.
 Down from above to all below,
 The blessing goes, so large and bright.
@@ -133,7 +133,7 @@ Success will every movement mark,
 Central its source, its course aright.
 The great stream even may be crossed,
 When planks of wood their strength unite.
-[**Yì ䷩**] movement shows and docile feet,
+**Yì ䷩** movement shows and docile feet,
 Which progress day by day invite.
 Heaven gives; productive earth responds;
 Increase crowns every vale and height;
@@ -402,7 +402,7 @@ trigrams). Hence it is said, 'There may be some small attainment and progress. I
 
 ## Footnotes
 
-<a name="fn_155"></a>[238:XXXI](#fr_155) Paragraph 2. Tui, the upper trigram, is weak and yin; and Kăn, the lower, is strong and yang; see Appendixes III, ii, 4, and V, 10. Kăn is below Tui; whereas the subject of the lower trigram should always take the initiative in these figures.
+<a name="fn_155"></a>[238:XXXI](#fr_155) Paragraph 2. **Duì ☱**, the upper trigram, is weak and `yīn`; and **Gèn ☶**, the lower, is strong and `yáng`; see Appendixes [III, ii, 4](/appendix03s2.md#p-380), and [V, 10](appendix05s1.md#p-427). **Gèn ☶** is below **Duì ☱**; whereas the subject of the lower trigram should always take the initiative in these figures.
 
 <a name="fn_156"></a>[239:XXXII](#fr_156) All the conditions in paragraph 1 must be understood as leading to the indication of progress and success, which is explained in paragraph 2, and illustrated by the analogy of the course of heaven and earth.
 
