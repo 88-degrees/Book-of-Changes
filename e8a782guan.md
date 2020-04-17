@@ -1,10 +1,10 @@
 # Guān ䷓
 
-Chinese: guān 观 ䷓
-
-![Guan](https://88o.io/wp-content/uploads/2018/09/20-e8a782guan.jpg)
+> Chinese: guān 观 ䷓
 
 ###### p. 99
+
+![Guan](https://88o.io/wp-content/uploads/2018/09/20-e8a782guan.jpg)
 
 **Guān ䷓** shows (how he whom it represents should be like) the worshipper who has washed his hands,
 but not (yet) presented his offerings; -- with sincerity
@@ -29,11 +29,11 @@ and an appearance of dignity (commanding reverent regard).
 
 ## Notes
 
-The Chinese character [**Guān ䷓**](e8a782guan.md), from which this hexagram is named, is used in it in two senses. In the [Thwan](https://sacred-texts.com/cfu/conf1.htm), the first paragraph of the treatise on the Thwan, and the paragraph on the Great Symbolism, it denotes showing, manifesting; in all other places it denotes contemplating, looking at. The subject of the hexagram is the sovereign and his subjects, how he manifests himself to them, and how they contemplate him. The two upper, undivided, lines belong to the sovereign; the four weak lines below them are his subjects, -- ministers and others who look up at him. Kwân is the hexagram of the eighth month.
+The Chinese character [**Guān ䷓**](e8a782guan.md), from which this hexagram is named, is used in it in two senses. In the [Thwan](https://sacred-texts.com/cfu/conf1.htm), the first paragraph of the treatise on the Thwan, and the paragraph on the Great Symbolism, it denotes showing, manifesting; in all other places it denotes contemplating, looking at. The subject of the hexagram is the sovereign and his subjects, how he manifests himself to them, and how they contemplate him. The two upper, undivided, lines belong to the sovereign; the four weak lines below them are his subjects, -- ministers and others who look up at him. **Guān ䷓** is the hexagram of the eighth month.
 
 In the Thwan king Wăn symbolises the sovereign by a worshipper when he is most solemn in his religious service, at the commencement of it, full of sincerity and with a dignified carriage.
 
-Line 1 is weak, and in the lowest place, improper also for it; --[p. 101](#p-101) the symbol of a thoughtless lad, who cannot see far, and takes only superficial views.
+Line 1 is weak, and in the lowest place, improper also for it; -- [p. 101](#p-101) the symbol of a thoughtless lad, who cannot see far, and takes only superficial views.
 
 Line 2 is also weak, but in its proper place, showing a woman, living retired, and only able to peep as from her door at the subject of the fifth line. But ignorance and retirement are proper in a woman.
 
