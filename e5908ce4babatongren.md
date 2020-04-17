@@ -1,10 +1,12 @@
-# Tongren ䷌
+# Tóng Rén ䷌
 
-Chinese: tóng rén 同人 ䷌
+> Chinese: 同人 ䷌ tóng rén
+
+###### p. 86
 
 ![Tongren](https://88o.io/wp-content/uploads/2018/09/13-e5908ce4babatongren.jpg)
 
-**Tóngrén ䷌** (or 'Union of men') appears here (as we find it) in the (remote districts of the) country, indicating progress and success. It will be advantageous to cross the great stream. It will be advantageous to maintain the firm correctness of the superior man.
+**Tóng Rén ䷌** (or 'Union of men') appears here (as we find it) in the (remote districts of the) country, indicating progress and success. It will be advantageous to cross the great stream. It will be advantageous to maintain the firm correctness of the superior man.
 
 1. The first NINE, undivided, (shows the representative of) the union of men just issuing from his gate. There will be no error.
 
@@ -16,11 +18,15 @@ Chinese: tóng rén 同人 ䷌
 
 5. In the fifth NINE, undivided, (the representative of) the union of men first wails and cries out, and then laughs. His great host conquers, and he (and the subject of the second line) meet together.
 
-6. The topmost NINE, undivided, (shows the representative of) the union of men in the suburbs. There will be no occasion for repentance.
+6. The topmost NINE, undivided, (shows the representative
+
+###### p. 87
+
+of) the union of men in the suburbs. There will be no occasion for repentance.
 
 ## Notes
 
-**Tóngrén ䷌** describes a condition of nature and of the state opposite to that of [**Pǐ ䷋**](e590a6pi.md).
+**Tóng Rén ䷌** describes a condition of nature and of the state opposite to that of [**Pǐ ䷋**](e590a6pi.md).
 There was distress and obstruction; here is union. But the union must be based entirely on public considerations, without taint of selfishness.
 
 The strong line in the fifth, its correct, place, occupies the most important position, and has for its correlate the weak second line, also in its correct place. The one divided line is naturally sought after by all the strong lines. The upper trigram is that of heaven, which is above; the lower is that of fire, whose tendency is to mount upwards. All these things are in harmony with the idea of union. But the union must be free from all selfish motives, and this is indicated by its being in the remote districts of the country, where people are unsophisticated, and free from the depraving effects incident to large societies. A union from such motives will cope with the greatest difficulties; and yet a word of caution is added.
