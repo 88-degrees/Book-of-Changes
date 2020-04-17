@@ -2,6 +2,8 @@
 
 > Chinese: 大有 ䷍ dà yǒu
 
+###### p. 88
+
 ![Dayou](https://88o.io/wp-content/uploads/2018/09/14-e5a4a7e69c89dayou.jpg)
 
 **Dà Yǒu ䷍** indicates that, (under the circumstances which it implies), there will be great progress and success.
