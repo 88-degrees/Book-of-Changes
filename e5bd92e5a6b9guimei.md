@@ -22,7 +22,7 @@ one leg who yet manages to tramp along. Going forward will be fortunate.
 
 4. The fourth NINE, undivided, shows the younger sister who is to be married off protracting the time. She may be late in being married, but the time will come.
 
-5. The fifth SIX, divided, reminds us of the marrying of the younger sister of (king) Tî-yî, when the sleeves of her the princess were not equal to those of the (still) younger sister who accompanied her in an inferior capacity. (The case suggests the thought of) the moon almost full. There will be good fortune.
+5. The fifth SIX, divided, reminds us of the marrying of the younger sister of (king) Dì-Yǐ, when the sleeves of her the princess were not equal to those of the (still) younger sister who accompanied her in an inferior capacity. (The case suggests the thought of) the moon almost full. There will be good fortune.
 
 6. The sixth SIX, divided, shows the young lady bearing the basket, but without anything in it, and the gentleman slaughtering the sheep, but without blood flowing from it. There will be no advantage in any way.
 
@@ -40,7 +40,7 @@ Line 3 is weak, where it should be strong; and the attribute of pleased satisfac
 
 Line 4 is strong, where it should be weak; but in the case of a female the indication is not bad. The subject of the line, however, is in no haste. She waits, and the good time will come.
 
-King Tî-yî has been already mentioned under the fifth line of hexagram 11, and in connexion with some regulation which he made about the marriage of daughters of the royal house. His sister here is honourably mentioned, so as to suggest that the adorning which she preferred was 'the ornament of the hidden man of the heart.' The comparison of her to 'the moon almost full' I am ready to hail as an instance where the duke of Kâu is for once poetical. Khăng-žze, however, did not see poetry, but a symbol in it. 'The moon is not full,' he says, 'but only nearly full. A wife ought not to eclipse her husband!' However, the sister of Tî-yî gets happily married, as she deserved to do, being represented by the line in the place of honour, having its proper correlate in 2.
+King Dì-Yǐ has been already mentioned under the fifth line of hexagram 11, and in connexion with some regulation which he made about the marriage of daughters of the royal house. His sister here is honourably mentioned, so as to suggest that the adorning which she preferred was 'the ornament of the hidden man of the heart.' The comparison of her to 'the moon almost full' I am ready to hail as an instance where the duke of Kâu is for once poetical. Khăng-žze, however, did not see poetry, but a symbol in it. 'The moon is not full,' he says, 'but only nearly full. A wife ought not to eclipse her husband!' However, the sister of Dì-Yǐ gets happily married, as she deserved to do, being represented by the line in the place of honour, having its proper correlate in 2.
 
 Line 6 is weak, at the top of the hexagram, and without a proper correlate. Hence its auspice is evil. The marriage-contract is broken, according to Kû Hsî, and does not take effect. The parties mentioned in the paragraph appear engaged in the temple, offering or sacrificing to the spirits of their ancestors. But the woman's basket which should contain her offerings (The Shih, I, ii, ode 4) is empty, and the man attempts to perform his part in slaying the victim ([The Shih, II, vi, ode 6. 5](https://www.sacred-texts.com/cfu/sbe03/sbe03075.htm)) without effect.
 
