@@ -1,12 +1,16 @@
-# Dun ䷠
+# Dùn ䷠
 
-Chinese: dùn 遯 ䷠
+> Chinese: 遯 ䷠ dùn
+
+###### p. 127
 
 ![Dun](https://88o.io/wp-content/uploads/2018/09/33-e981afdun.jpg)
 
-**Dun** indicates successful progress (in its circumstances). To a small extent it will (still) be advantageous to be firm and correct.
+**Dùn ䷠** indicates successful progress (in its circumstances). To a small extent it will (still) be advantageous to be firm and correct.
 
 1. The first SIX, divided, shows a retiring tail. The position is perilous. No movement in any direction should be made.
+
+###### p. 128
 
 2. The second SIX, divided, shows its subject holding (his purpose) fast as if by a (thong made from the) hide of a yellow ox, which cannot be broken.
 
@@ -20,13 +24,13 @@ Chinese: dùn 遯 ䷠
 
 ## Notes
 
-**Dun** is the hexagram of the sixth month; the yin influence is represented by two weak lines, and has made good its footing in the year. The figure thus suggested to king Wăn the growth of small and unprincipled men in the state, before whose advance superior men were obliged to retire. This is the theme of his essay,--how, I when small men multiply and increase in power, p. 129 the necessity of the time requires superior men to withdraw before them.' Yet the auspice of Thun is not all bad. By firm correctness the threatened evil may be arrested to a small extent.
+**Dùn ䷠** is the hexagram of the sixth month; the yin influence is represented by two weak lines, and has made good its footing in the year. The figure thus suggested to king Wăn the growth of small and unprincipled men in the state, before whose advance superior men were obliged to retire. This is the theme of his essay,--how, I when small men multiply and increase in power, p. 129 the necessity of the time requires superior men to withdraw before them.' Yet the auspice of Thun is not all bad. By firm correctness the threatened evil may be arrested to a small extent.
 
 'A retiring tail' seems to suggest the idea of the subject of the lines hurrying away, which would only aggravate the evil and danger of the time.
 
 'His purpose' in line 2 is the purpose to withdraw. The weak 2 responds correctly to the strong 5, and both are central. The purpose therefore is symbolled as in the text. The 'yellow' colour of the ox is introduced because of its being 'correct,' and of a piece with the central place of the line.
 
-Line 3 has no proper correlate in 6 and its subject allows himself to be entangled and impeded by the subjects of 1 and 2. He is too familiar with them, and they presume, and fetter his movements;--compare Analects, 17. 25. He should keep them at a distance.
+Line 3 has no proper correlate in 6 and its subject allows himself to be entangled and impeded by the subjects of 1 and 2. He is too familiar with them, and they presume, and fetter his movements; -- compare Analects, 17. 25. He should keep them at a distance.
 
 Line 4 has a correlate in 1, and is free to exercise the decision belonging to its subject. The line is the first in Khien, symbolic of strength.
 
