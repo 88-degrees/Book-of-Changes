@@ -1,10 +1,12 @@
-# Jie ䷻
+# Jié ䷻
 
-Chinese: jié 节 ䷻
+> Chinese: 节 ䷻ jié
+
+###### p. 197
 
 ![Jie](https://88o.io/wp-content/uploads/2018/09/60-e88a82jie.jpg)
 
-**Jie** intimates that (under its conditions) there will be progress and attainment.
+**Jié ䷻** intimates that (under its conditions) there will be progress and attainment.
 (But) if the regulations (which it prescribes) be severe and difficult, they cannot be permanent.
 
 1. The first NINE, undivided, shows its subject not quitting the courtyard outside his door. There will be no error.
@@ -23,7 +25,7 @@ But though there will be cause for repentance, it will (by and by) disappear.
 
 ## Notes
 
-The primary application of the character Kieh was to denote the joints of the bamboo;
+The primary application of the character **Jié ䷻** was to denote the joints of the bamboo;
 it is used also for the joints of the human frame; and for the solar and other terms of the year.
 Whatever makes regular division may be denominated a Kieh; there enter into it the ideas of regulating and restraining;
 and the subject of this hexagram is the regulations of government enacted for the guidance and control of the people.
@@ -51,6 +53,6 @@ Line 4 is weak, as it ought to be, and its subject has respect to the authority 
 Line 5 is strong, and in its correct place. Its subject regulates himself, having no correlate; but he is lord of the hexagram, and his influence is everywhere beneficially felt.
 
 Line 6 is weak, in its proper place. The subject of the topmost line must be supposed to possess an exaggerated desire for enacting regulations.
-They will be too severe, and the effect will be evil. But as Confucius (Analects 3. 3) says, that is not so great a fault as to be easy and remiss. It may be remedied, and cause for repentance will disappear.
+They will be too severe, and the effect will be evil. But as Confucius ([Analects 3. 3](https://sacred-texts.com/cfu/conf1.htm)) says, that is not so great a fault as to be easy and remiss. It may be remedied, and cause for repentance will disappear.
 
 # [节](./e88a82jie_cn.md)
