@@ -1,10 +1,12 @@
-# Huan ䷺
+# Huàn ䷺
 
-Chinese: huàn 涣 ䷺
+> Chinese: 涣 ䷺ huàn
+
+###### 
 
 ![Huan](https://88o.io/wp-content/uploads/2018/09/59-e6b6a3huan.jpg)
 
-**Huan** intimates that (under its conditions) there will be progress and success.
+**Huàn ䷺** intimates that (under its conditions) there will be progress and success.
 The king goes to his ancestral temple; and it will be advantageous to cross the great stream.
 It will be advantageous to be firm and correct.
 
@@ -23,7 +25,7 @@ He scatters abroad (also) the accumulations in the royal granaries. There will b
 
 ## Notes
 
-**Huan**, the name of this hexagram, denotes a state of dissipation or dispersion. It is descriptive primarily of men's minds alienated from what is right and good. This alienation is sure to go on to disorder in the commonwealth; and an attempt is made to show how it should be dealt with and remedied.
+**Huàn ䷺**, the name of this hexagram, denotes a state of dissipation or dispersion. It is descriptive primarily of men's minds alienated from what is right and good. This alienation is sure to go on to disorder in the commonwealth; and an attempt is made to show how it should be dealt with and remedied.
 
 The figure is made up of one of the trigrams for water and over it that for wind. Wind moving over water seems to disperse it, and awakes naturally in the beholder the idea of dissipation.
 
@@ -31,13 +33,13 @@ The intimation of progress and success is supposed to be given by the strong lin
 
 Line 1, at the commencement of the hexagram, tells us that the evil has not yet made great progress, and that dealing with it will be easy. But the subject of the line is weak, and in an odd place. He cannot cope with the evil himself. He must have help, and he finds that in a strong horse, which description is understood to be symbolical of the subject of the strong second line.
 
-'Line 2 is strong, but in an even place. That place is, indeed, the central, but the attribute of the lower trigram Khan is peril. These conditions indicate evil, and action will be dangerous; but the subject of 2 looks to 1 below him, and takes shelter in union with its subject. Since the commentary of Khăng-žze, this has been the interpretation of the line.
+'Line 2 is strong, but in an even place. That place is, indeed, the central, but the attribute of the lower trigram **Kǎn ☵** is peril. These conditions indicate evil, and action will be dangerous; but the subject of 2 looks to 1 below him, and takes shelter in union with its subject. Since the commentary of Khăng-žze, this has been the interpretation of the line.
 
 Line 3 is weak, and in an odd place. A regard for himself that would unfit its subject for contributing any service to the work of the hexagram might be feared; but he discards that regard, and will do nothing to be repented of. There is a change of style in the Chinese text at this point. As Wang Shăn-žze (Yüan dynasty) says: -- 'Here and henceforth the scattering is of what should be scattered, that what should not be scattered may be collected.'
 
 Line 4, though weak, is in its correct place, and adjoins the strong 5, which is in the ruler's seat. The subject of 4, therefore, will fitly represent the minister, to whom it belongs to do a great part in remedying the evil of dispersion. And this he does. He brings dissentient partizanship to an end; and not satisfied with that, he collects multitudes of those who had been divided into a great body so that they stand out conspicuous like a hill.
 
-Line 5 gives us the action of the ruler himself; -- by his proclamations, and by his benevolence. Kû Hsî and other critics enlarge on the symbolism of the perspiration, which they think much to the point. P. Regis avoids it, translating -- 'Ille, magnas leges dissipans, facit ut penetrent(ur?).' Canon McClatchie has an ingenious and original, so far as my Chinese reading goes, note upon it:--'As sweat cures fevers, so do proclamations cure rebellions.' Both of these translators miss the meaning of the other instance of the king's work.
+Line 5 gives us the action of the ruler himself; -- by his proclamations, and by his benevolence. Kû Hsî and other critics enlarge on the symbolism of the perspiration, which they think much to the point. P. Regis avoids it, translating -- 'Ille, magnas leges dissipans, facit ut penetrent(ur?).' Canon McClatchie has an ingenious and original, so far as my Chinese reading goes, note upon it: -- 'As sweat cures fevers, so do proclamations cure rebellions.' Both of these translators miss the meaning of the other instance of the king's work.
 
 Line 6 is occupied by a strong line, which has a proper correlate in 3; but 3 is at the top of the trigram of peril. The subject of 6 hurries away from association with the subject of it, but does so in the spirit of the hexagram, so that there is no error or blame attaching to him.
 
