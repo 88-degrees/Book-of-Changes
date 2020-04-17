@@ -494,7 +494,7 @@ Paragraph 2. That the fashion of the well does not undergo any (great) change is
 
 <a name="fn_173"></a>[254:XLIX](#fr_173)
 
-1. Paragraph 1. **Lí ☲** the lower trigram, represents fire, and **Duì ☱**, the upper, represents water. Water will extinguish fire, and fire again will dry up water. Each, to all appearance, produces a change in the other. Again, according to king Wăn's scheme of the trigrams, as shown on [Bā Guà Figure](bagua.png) and [Figure](), **Lí ☲** is the second, and **Duì ☱** the youngest daughter. Their wills are likely to differ in love and other things; but this symbolism does not so readily suggest the idea of change.
+1. Paragraph 1. **Lí ☲** the lower trigram, represents fire, and **Duì ☱**, the upper, represents water. Water will extinguish fire, and fire again will dry up water. Each, to all appearance, produces a change in the other. Again, according to king Wăn's scheme of the trigrams, as shown on [Figure I](bagua.png) and [Figure II](King_Wen_Table.png), **Lí ☲** is the second, and **Duì ☱** the youngest daughter. Their wills are likely to differ in love and other things; but this symbolism does not so readily suggest the idea of change.
 
 2. The first sentence suggests how the dislike to change on the part of people generally is overcome.
 
@@ -532,17 +532,17 @@ Out of rest comes movement to go on for an indefinite time, and be succeeded by 
 
 1. [**Guī mèi ䷵**](e5bd92e5a6b9guimei.md) in this Appendix has the meaning simply of marriage, and for Mei we might substitute Nü ,'daughter' or 'young lady.' This appears from the writer's going on to point out, as elsewhere, the analogy between the growth of things in nature from the interaction of heaven and earth and the increase of mankind through marriage. He does this with a delicate touch. There is no grossness in the original any more than there is in the translation.
 
-But how are we to reconcile this reference to the action of heaven and earth with the bad auspice of the Thwan? The Khang-hsî editors felt the pressure of this difficulty, and they adduce a similar inconsistency in the account of hexagram 44 **䷫** in this treatise, adding, 'From this we may say that the interaction of the `yīn` and `yáng` cannot be dispensed with, but that we ought to be careful about it in the beginning in order to prevent mischief in the end. This is the doctrine of the Yî.' This is very well, but it is no solution of the difficulty. The editors could not admit that the author of the Appendix did not understand or did not deal fairly with the Text; for that author, they thought, was Confucius.
+But how are we to reconcile this reference to the action of heaven and earth with the bad auspice of the Thwan? The Khang-hsî editors felt the pressure of this difficulty, and they adduce a similar inconsistency in the account of hexagram 44 **䷫** in this treatise, adding, 'From this we may say that the interaction of the `yīn` and `yáng` cannot be dispensed with, but that we ought to be careful about it in the beginning in order to prevent mischief in the end. This is the doctrine of the `I Ching`.' This is very well, but it is no solution of the difficulty. The editors could not admit that the author of the Appendix did not understand or did not deal fairly with the Text; for that author, they thought, was Confucius.
 
 2. The same editors say that paragraph 2 implies both that the desire for the marriage originated with the lady, and that she was aware that the gentleman was older than herself.
 
 3. The position of a divided line above an undivided is always represented as an evil omen; it is difficult to understand why. There is less of an appearance of reason about it than in some other things which are said about the lines. The lines are where they cannot but be from the way in which the figures were formed.
 
-<a name="fn_179"></a>[259:LV](#fr_179) The Khang-hsî editors remark that paragraph 1 is not so much explaining the meaning of the name Făng, as; accounting for the hexagram, composed of Lî and Kăn, having such a meaning.
+<a name="fn_179"></a>[259:LV](#fr_179) The Khang-hsî editors remark that paragraph 1 is not so much explaining the meaning of the name [**Fēng ䷶**](e4b8b0feng.md), as; accounting for the hexagram, composed of **Lí ☲** and **Zhèn ☳**, having such a meaning.
 
-Paragraph 3 seems rather contrary to the lesson of the hexagram. According to it, prosperity cannot be maintained, any more than we can have the other seasons without winter or perpetual day without night; but the object of the essay is to exhort to the maintenance of prosperity. Is it the case that the rise of every commonwealth and cause must be followed by its decay and fall? The mind refuses to admit the changes of the seasons, &c., as a true analogy for all moral and intellectual movements. See an important remark on the concluding sentence in the Introduction, pp. 34, 35.
+Paragraph 3 seems rather contrary to the lesson of the hexagram. According to it, prosperity cannot be maintained, any more than we can have the other seasons without winter or perpetual day without night; but the object of the essay is to exhort to the maintenance of prosperity. Is it the case that the rise of every commonwealth and cause must be followed by its decay and fall? The mind refuses to admit the changes of the seasons, &c., as a true analogy for all moral and intellectual movements. See an important remark on the concluding sentence in the Introduction, [pp. 34, 35](https://sacred-texts.com/ich/icintr03.htm#page_34).
 
-<a name="fn_180"></a>[260:LVI](#fr_180) What is said in paragraph 1 is intended to explain the Thwan, and not to account for the meaning of the name Lü. It is assumed that Lü means a stranger; and the writer from the position of the fifth line, and from the attributes of the component trigrams, derives the ideas of humility, docility, a quiet restfulness, and intelligence as the characteristics proper to a stranger, and which are likely to lead to his attaining what he desires, and then advancing.
+<a name="fn_180"></a>[260:LVI](#fr_180) What is said in paragraph 1 is intended to explain the Thwan, and not to account for the meaning of the name [**Lǚ ䷷**](e69785lv.md). It is assumed that [**Lǚ ䷷**](e69785lv.md) means a stranger; and the writer from the position of the fifth line, and from the attributes of the component trigrams, derives the ideas of humility, docility, a quiet restfulness, and intelligence as the characteristics proper to a stranger, and which are likely to lead to his attaining what he desires, and then advancing.
 
 <a name="fn_181"></a>[260:LVII](#fr_181)
 
@@ -550,7 +550,7 @@ Paragraph 3 seems rather contrary to the lesson of the hexagram. According to it
 
 2. Paragraph 2. The 'obedience of the weak lines to the strong ones' grows, in a way not very perceptible, from the idea of the hexagram, and the quality of the trigram as denoting penetration and flexibility.
 
-<a name="fn_182"></a>261:LVIII The feeling of pleasure going before the people and leading them on to endure toil and encounter death must be supposed to be produced in them by the example and lessons of their ruler. La Fad-hsien paraphrases this portion of the text thus:--'When the sage with this precedes them, he can make them endure toil without any wish to decline it, and go with him into difficulty and danger without their having any fear.' I think this was intended to be the teaching of the hexagram, but the positive expression of it is hardly discernible.
+<a name="fn_182"></a>[261:LVIII](#fr_182) The feeling of pleasure going before the people and leading them on to endure toil and encounter death must be supposed to be produced in them by the example and lessons of their ruler. La Fad-hsien paraphrases this portion of the text thus: -- 'When the sage with this precedes them, he can make them endure toil without any wish to decline it, and go with him into difficulty and danger without their having any fear.' I think this was intended to be the teaching of the hexagram, but the positive expression of it is hardly discernible.
 
 <a name="fn_183"></a>[262:LIX](#fr_183)
 
@@ -558,29 +558,27 @@ Paragraph 3 seems rather contrary to the lesson of the hexagram. According to it
 
 2. The conclusion of paragraph 2 is, literally, 'The king indeed is in the middle.' This does not mean, as some say, that the king is in the middle of the temple, but that his mind or heart is exactly set on the central truth of what is right and good.
 
-The upper trigram Sun represents both wind and wood. To explain the meaning of Hwan, the significance of wind is taken; the writer here seizes on that of wood, as furnishing materials for a boat in which the great stream can be crossed.
+The upper trigram **Xùn ☴** represents both wind and wood. To explain the meaning of [**Huàn ䷺**](e6b6a3huan.md), the significance of wind is taken; the writer here seizes on that of wood, as furnishing materials for a boat in which the great stream can be crossed.
 
 <a name="fn_184"></a>[262:LX](#fr_184) Paragraph 1. See what is said on the Text of the Thwan.
 
-p. 263
+'Its course will come to an end' is the opposite of the intimation in [**Jié ䷻**](e88a82jie.md) of progress and attainment.
 
-'Its course will come to an end' is the opposite of the intimation in Kieh of progress and attainment.
-
-In paragraph 3 the writer re-turns to this intimation of the figure:--by the attributes of the trigrams; by the appropriate positions of lines 4 and 5; and boy the central and correct place of 5.
+In paragraph 3 the writer re-turns to this intimation of the figure: -- by the attributes of the trigrams; by the appropriate positions of lines 4 and 5; and boy the central and correct place of 5.
 
 Paragraph 4 illustrates the importance of doing things according to rule by reference to the operations of nature and the enactments and institutions of sage rulers.
 
 <a name="fn_185"></a>[263:LXI](#fr_185)
 
-1. The structure of the lineal figure which is here insisted on has been pointed out in explaining the Thwan. On what is further said as to the attributes of the trigrams and their effect, Khăng-žze observes:--'We have in the sincerity shown in the upper trigram superiors condescending to those below them in accordance with their peculiarities, and we have in that of the lower those below delighted to follow their superiors. The combination of these two things leads to the transformation of the country and state.'
+1. The structure of the lineal figure which is here insisted on has been pointed out in explaining the Thwan. On what is further said as to the attributes of the trigrams and their effect, Khăng-žze observes: -- 'We have in the sincerity shown in the upper trigram superiors condescending to those below them in accordance with their peculiarities, and we have in that of the lower those below delighted to follow their superiors. The combination of these two things leads to the transformation of the country and state.'
 
-2. Paragraph 2. The two divided lines in the middle of the figure are supposed to give the semblance of an empty boat, and an p. 264 empty boat, it is said (with doubtful truth), is not liable to be upset. The trigram Sun symbolises both wind and wood.
+2. Paragraph 2. The two divided lines in the middle of the figure are supposed to give the semblance of an empty boat, and an [p. 264](#p-264) empty boat, it is said (with doubtful truth), is not liable to be upset. The trigram Sun symbolises both wind and wood.
 
-A good commentary on paragraph 3 is supplied in many passages of 'the Doctrine of the Mean,' e. g. chap. 20. 18:--'Sincerity is the way of Heaven. The attainment of sincerity is the way of men.'
+A good commentary on paragraph 3 is supplied in many passages of 'the Doctrine of the Mean,' e. g. chap. 20. 18: -- 'Sincerity is the way of Heaven. The attainment of sincerity is the way of men.'
 
-<a name="fn_186"></a>[264:LXII](#fr_186) Paragraph 1. That the small lines exceed the others appears at a glance. The intimation of progress and attainment is less clear. Compare the first paragraph of Appendix I to hexagram 33.
+<a name="fn_186"></a>[264:LXII](#fr_186) Paragraph 1. That the small lines exceed the others appears at a glance. The intimation of progress and attainment is less clear. Compare the first paragraph of [Appendix I](#p-240) to hexagram 33 ䷠.
 
-'The requirements of the time' in paragraph 2 cannot make p. 265 right wrong or wrong right; but they may modify the conventional course to be taken in any particular case.
+'The requirements of the time' in paragraph 2 cannot make [p. 265](#p-265) right wrong or wrong right; but they may modify the conventional course to be taken in any particular case.
 
 It is easy to explain paragraphs 3 and 4, but what is said in them carries no conviction to the mind.
 
@@ -588,10 +586,10 @@ The sentiment of paragraph 5 is good, apart from the symbolism, which is only pe
 
 <a name="fn_187"></a>[265:LXIII](#fr_187) For paragraphs 1 and 2, see the note on the Text of the Thwan.
 
-It is difficult to see the concatenation in paragraph 3 between the sentiment of the Thwan and the nature of the second line. The Khang-hsî editors compare this hexagram and the next with 11 and 12, observing that the goodness of Thâi (11) is concentrated, as here, in the second line.
+It is difficult to see the concatenation in paragraph 3 between the sentiment of the Thwan and the nature of the second line. The Khang-hsî editors compare this hexagram and the next with 11 **䷊** and 12 **䷋**, observing that the goodness of [**Tài ䷊**](e6b3b0tai.md) (hexagram 11) is concentrated, as here, in the second line.
 
-The sentiment of paragraph 4 is that which we have often met with,--that things move on with a constant process of change. Disorder succeeds to order, and again order to disorder.
+The sentiment of paragraph 4 is that which we have often met with, -- that things move on with a constant process of change. Disorder succeeds to order, and again order to disorder.
 
-<a name="fn_188"></a>[266:LXIV](#fr_188) Paragraph 1. The indication is derived from the fifth line, divided, which is in the ruler's place. It occupies a strong place, has for its correlate the strong 2, and is itself in the centre of the yin trigram Lî.
+<a name="fn_188"></a>[266:LXIV](#fr_188) Paragraph 1. The indication is derived from the fifth line, divided, which is in the ruler's place. It occupies a strong place, has for its correlate the strong 2, and is itself in the centre of the `yīn` trigram **Lí ☲**.
 
-Paragraph 2. Line 2 represents 'the young fox.' A strong line in the midst of the trigram of peril, its subject will be restless; and responding to the ruler in 5, he will be forward and incautious in taking action. The issue will be evil, and the latter end different from the beginning. What is said in the last sentence shows further how Wei Žî indicates progress.
+Paragraph 2. Line 2 represents 'the young fox.' A strong line in the midst of the trigram of peril, its subject will be restless; and responding to the ruler in 5, he will be forward and incautious in taking action. The issue will be evil, and the latter end different from the beginning. What is said in the last sentence shows further how [**Wèi Jì ䷿**](e69caae6b58eweiji.md) indicates progress.
