@@ -1,12 +1,12 @@
-# Wúwàng ䷘
+# Wú Wàng ䷘
 
-Chinese: wú wàng 无妄 ䷘
+Chinese: 无妄 ䷘ wú wàng
 
 ###### p. 109
 
 ![Wuwang](https://88o.io/wp-content/uploads/2018/09/25-e697a0e5a684wuwang.jpg)
 
-**Wúwàng ䷘** indicates great progress and success, while there will be advantage in being firm and
+**Wú Wàng ䷘** indicates great progress and success, while there will be advantage in being firm and
 
 ###### p. 110
 
@@ -30,7 +30,7 @@ the case of an ox that has been tied up. A passer by finds it (and carries it of
 
 ## Notes
 
-**Wúwàng ䷘** is the symbol of being reckless, and often of being insincere; **Wúwàng ䷘** is descriptive of a state of entire freedom from such a condition; its subject is one who is entirely simple and sincere. The quality is characteristic of the action of Heaven, and of the highest style of humanity. In this hexagram we have an essay on this noble attribute. An absolute rectitude is essential to it. The nearer one comes to the ideal of the quality, the more powerful will be his influence, the greater his success. But let him see to it that he never swerve from being correct.
+**Wúwàng ䷘** is the symbol of being reckless, and often of being insincere; **Wú Wàng ䷘** is descriptive of a state of entire freedom from such a condition; its subject is one who is entirely simple and sincere. The quality is characteristic of the action of Heaven, and of the highest style of humanity. In this hexagram we have an essay on this noble attribute. An absolute rectitude is essential to it. The nearer one comes to the ideal of the quality, the more powerful will be his influence, the greater his success. But let him see to it that he never swerve from being correct.
 
 The first line is strong; at the commencement of the inner trigram denoting movement, the action of its subject will very much characterise all the action set forth, and will itself be fortunate.
 
