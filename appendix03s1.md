@@ -135,7 +135,7 @@ Her young's responsive cry sounds there.
 Of spirits good I drain this cup;
 With thee a cup I'll freely share.'
 
-The Master said:--'The superior man occupies his apartment and sends forth his words. If they be good, they will be responded to at a distance of more than a thousand lî;--how much more will they be so in the nearer circle! He occupies his apartment and sends forth his words. If they be evil, they will awaken opposition at a distance of more than a thousand lî;--how much more will they do so in the nearer circle! Words issue from one's person, and proceed to affect the people. Actions proceed from what is near, and their effects are seen at a distance. Words and actions are the hinge and spring of the superior man. The movement of that
+The Master said: -- 'The superior man occupies his apartment and sends forth his words. If they be good, they will be responded to at a distance of more than a thousand lî;--how much more will they be so in the nearer circle! He occupies his apartment and sends forth his words. If they be evil, they will awaken opposition at a distance of more than a thousand lî;--how much more will they do so in the nearer circle! Words issue from one's person, and proceed to affect the people. Actions proceed from what is near, and their effects are seen at a distance. Words and actions are the hinge and spring of the superior man. The movement of that
 
 ###### p. 362
 

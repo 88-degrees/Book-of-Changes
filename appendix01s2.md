@@ -288,37 +288,37 @@ The advance is made according to correctness: -- (the subject of the hexagram) m
 
 pleasure and, on the ground of that, movement following. The marrying away is of a younger sister.
 
-3. 'Any action will be evil:'--the places (of the lines) are not those appropriate to them.
+3. 'Any action will be evil:' -- the places (of the lines) are not those appropriate to them.
 
-'It will be in no wise advantageous:'--the weak (third and fifth lines) are mounted on strong lines.
+'It will be in no wise advantageous:' -- the weak (third and fifth lines) are mounted on strong lines.
 
 <a name="fr_179"></a>[LV](#fn_179).
 
-1. Făng has the signification of being great. It is made up of the trigrams (representing)
+1. [**Fēng ䷶**](e4b8b0feng.md) has the signification of being great. It is made up of the trigrams (representing)
 
 ###### p. 259
 
 intelligence and movement directed by that intelligence. It is thus that it has that signification.
 
-2. 'The king has reached the condition (denoted by Făng):'--he has still to make it greater.
+2. 'The king has reached the condition (denoted by [**Fēng ䷶**](e4b8b0feng.md)):' -- he has still to make it greater.
 
-'There is no occasion to be anxious. Let him be as the sun at noon:'--it is for him to cause his light to shine on all under the sky.
+'There is no occasion to be anxious. Let him be as the sun at noon:' -- it is for him to cause his light to shine on all under the sky.
 
 3. When the sun has reached the meridian height, it begins to decline. When the moon has become full, it begins to wane. The (interaction of) heaven and earth is now vigorous and abundant, now dull and scanty, growing and diminishing according to the seasons. How much more must it be so with (the operations of) men! How much more also with the spiritual agency!
 
 <a name="fr_180"></a>[LVI](#fn_180).
 
-1. 'Lü indicates that there may be some small attainment and progress:'--the weak (line) occupies the central place in the outer (trigram), and is obedient to the strong (lines on either side of it). (We have also the attributes of quiet) resting closely attached to intelligence (in the component
+1. '[**Lǚ ䷷**](e69785lv.md) indicates that there may be some small attainment and progress:' -- the weak (line) occupies the central place in the outer (trigram), and is obedient to the strong (lines on either side of it). (We have also the attributes of quiet) resting closely attached to intelligence (in the component
 
 ###### p. 260
 
 trigrams). Hence it is said, 'There may be some small attainment and progress. If the stranger or traveller be firm and correct as he ought to be, there will be good fortune.'
 
-2. Great is the time and great is the right course to be taken as intimated in Lü!
+2. Great is the time and great is the right course to be taken as intimated in [**Lǚ ䷷**](e69785lv.md)!
 
 <a name="fr_181"></a>[LVII](#fn_181).
 
-1. The double Sun shows how, in accordance with it, (governmental) orders are reiterated.
+1. The double [**Xùn ䷸**](e5b7bdxun.md) shows how, in accordance with it, (governmental) orders are reiterated.
 
 2. (We see that) the strong (fifth line) has penetrated into the central and correct place, and the will (of its subject) is being carried into effect; (we see also) the weak (first and fourth lines) both obedient to the strong lines (above them). It is hence said, 'There will be some little attainment and progress. There will be advantage in movement onward in whatever direction. It will be advantageous also to see the great man.'
 
@@ -326,17 +326,17 @@ trigrams). Hence it is said, 'There may be some small attainment and progress. I
 
 <a name="fr_182"></a>[LVIII](#fn_182).
 
-1. Tui has the meaning of pleased satisfaction.
+1. [**Duì ䷹**](e58591dui.md) has the meaning of pleased satisfaction.
 
 2. (We have) the strong (lines) in the centre, and the weak (lines) on the outer edge (of the two trigrams), (indicating that) in pleasure what is most advantageous is the maintenance of firm correctness. Through this there will be found an accordance with (the will of) heaven, and a correspondence with (the feelings of) men. When (such) pleasure goes before the people, (and leads them on), they forget their toils; when it animates them in encountering difficulties, they forget (the risk of) death. How great is (the power of) this pleased satisfaction, stimulating in such a way the people!
 
 <a name="fr_183"></a>[LIX](#fn_183).
 
-1. 'Hwan intimates that there will be progress and success:'--(we see) the strong line (in the second place) of the lower trigram, and not suffering any extinction there; and (also) the weak line occupying its place in the outer trigram, and uniting (its action) with that of the line above.
+1. '[**Huàn ䷺**](e6b6a3huan.md) intimates that there will be progress and success:' -- (we see) the strong line (in the second place) of the lower trigram, and not suffering any extinction there; and (also) the weak line occupying its place in the outer trigram, and uniting (its action) with that of the line above.
 
-2. 'The king goes to his ancestral temple:'--the king's (mind) is without any deflection.
+2. 'The king goes to his ancestral temple:' -- the king's (mind) is without any deflection.
 
-3. 'It will be advantageous to cross the great stream:'--(the subject of the hexagram) rides in
+3. 'It will be advantageous to cross the great stream:' -- (the subject of the hexagram) rides in
 
 ###### p. 262
 
@@ -344,9 +344,9 @@ trigrams). Hence it is said, 'There may be some small attainment and progress. I
 
 <a name="fr_184"></a>[LX](#fn_184).
 
-1. 'Kieh intimates progress and attainment:'--the strong and weak (lines) are equally divided, and the strong lines occupy the central places.
+1. '[**Jié ䷻**](e88a82jie.md) intimates progress and attainment:' -- the strong and weak (lines) are equally divided, and the strong lines occupy the central places.
 
-2. 'If the regulations (which Kieh prescribes) be severe and difficult, they cannot be permanent:'--its course (of action) will in that case come to an end.
+2. 'If the regulations (which [**Jié ䷻**](e88a82jie.md) prescribes) be severe and difficult, they cannot be permanent:'--its course (of action) will in that case come to an end.
 
 3. (We have the feeling of) pleasure and satisfaction directing the course amidst peril. (We have) all regulations controlled (by authority) in its proper place. (We have) free action proceeding from the central and correct position.
 
@@ -356,45 +356,45 @@ trigrams). Hence it is said, 'There may be some small attainment and progress. I
 
 <a name="fr_185"></a>[LXI](#fn_185).
 
-1. In Kung Fû we have the (two) weak lines in the innermost part (of the figure), and strong lines occupying the central places (in the trigrams). (We have the attributes) of pleased satisfaction and flexible penetration. Sincerity (thus symbolled) will transform a country.
+1. In [**Zhōng Fú ䷼**](e4b8ade5ad9azhongfu.md) we have the (two) weak lines in the innermost part (of the figure), and strong lines occupying the central places (in the trigrams). (We have the attributes) of pleased satisfaction and flexible penetration. Sincerity (thus symbolled) will transform a country.
 
-2. 'Pigs and fish (are moved), and there will be good fortune:'--sincerity reaches to (and affects even) pigs and fishes.
+2. 'Pigs and fish (are moved), and there will be good fortune:' -- sincerity reaches to (and affects even) pigs and fishes.
 
-'There will be advantage in crossing the great stream:'--(we see in the figure) one riding on (the emblem of) wood, which forms an empty boat.
+'There will be advantage in crossing the great stream:' -- (we see in the figure) one riding on (the emblem of) wood, which forms an empty boat.
 
-3. In (the exercise of the virtue denoted by) Kung Fû, (it is said that) 'there will be advantage in being firm and correct:'--in that virtue indeed we have the response (of man) to Heaven.
+3. In (the exercise of the virtue denoted by) [**Zhōng Fú ䷼**](e4b8ade5ad9azhongfu.md), (it is said that) 'there will be advantage in being firm and correct:' -- in that virtue indeed we have the response (of man) to Heaven.
 
 ###### p. 264
 
 <a name="fr_186"></a>[LXII](#fn_186).
 
-1. In Hsiâo Kwo (we see) the small (lines) exceeding the others, and (giving the intimation of) progress and attainment.
+1. In [**Xiǎo Guò ䷽**](e5b08fe8bf87xiaoguo.md) (we see) the small (lines) exceeding the others, and (giving the intimation of) progress and attainment.
 
-2. Such 'exceeding, in order to its being advantageous, must be associated with firmness and correctness:'--that is, it must take place (only) according to (the requirements of) the time.
+2. Such 'exceeding, in order to its being advantageous, must be associated with firmness and correctness:' -- that is, it must take place (only) according to (the requirements of) the time.
 
 3. The weak (lines) are in the central places, and hence (it is said that what the name denotes) may be done in small affairs, and there will be good fortune.
 
 4. Of the strong (lines one) is not in its proper place, and (the other) is not central, hence it is said that (what the name denotes) 'should not be done in great affairs.'
 
-5. (In the hexagram) we have 'the symbol of a bird on the wing, and of the notes that come down from such a bird, for which it is better to descend than to ascend, thereby leading to great good fortune:'--to ascend is contrary to what is reasonable in the case, while to descend is natural and right.
+5. (In the hexagram) we have 'the symbol of a bird on the wing, and of the notes that come down from such a bird, for which it is better to descend than to ascend, thereby leading to great good fortune:' -- to ascend is contrary to what is reasonable in the case, while to descend is natural and right.
 
 ###### p. 265
 
 <a name="fr_187"></a>[LXIII](#fn_187).
 
-1. 'Kî Žî intimates progress and success:'--in small matters, that is, there will be that progress and success.
+1. '[**Jì Jì ䷾**](e697a2e6b58ejiji.md) intimates progress and success:' -- in small matters, that is, there will be that progress and success.
 
-2. 'There will be advantage in being firm and correct:'--the strong and weak (lines) are correctly arranged, each in its appropriate place.
+2. 'There will be advantage in being firm and correct:' -- the strong and weak (lines) are correctly arranged, each in its appropriate place.
 
-3. 'There has been good fortune in the beginning:--the weak (second line) is in the centre.
+3. 'There has been good fortune in the beginning: -- the weak (second line) is in the centre.
 
-4. 'In the end' there is a cessation (of effort), and 'disorder arises:'--the course (that led to rule and order) is (now) exhausted.
+4. 'In the end' there is a cessation (of effort), and 'disorder arises:' -- the course (that led to rule and order) is (now) exhausted.
 
 <a name="fr_188"></a>[LXIV](#fn_188).
 
-1. 'Wei Žî intimates progress and success (in the circumstances which it implies):'--the weak (fifth) line is in the centre.
+1. '[**Wèi Jì ䷿**](e69caae6b58eweiji.md) intimates progress and success (in the circumstances which it implies):'--the weak (fifth) line is in the centre.
 
-2. 'The young fox has nearly crossed the stream:'--but he has not yet escaped from the midst (of the danger and calamity).
+2. 'The young fox has nearly crossed the stream:' -- but he has not yet escaped from the midst (of the danger and calamity).
 
 ###### p. 266
 
