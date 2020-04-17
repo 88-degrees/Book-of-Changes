@@ -1,10 +1,16 @@
 # Míng Yí ䷣
 
-Chinese: míng yí 明夷 ䷣
+> Chinese: 明夷 ䷣ míng yí
+
+###### p. 134
 
 ![Mingyi](https://88o.io/wp-content/uploads/2018/09/36-e6988ee5a4b7mingyi.jpg)
 
-**Míng Yí ䷣** indicates that (in the circumstances which it denotes) it will be advantageous to realise the difficulty (of the position), and maintain firm correctness.
+**Míng Yí ䷣** indicates that (in the circumstances which it denotes) it will be advantageous to realise the
+
+###### p. 135
+
+difficulty (of the position), and maintain firm correctness.
 
 1. The first NINE, undivided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, flying, but with drooping wings. When the superior man (is revolving) his going away, he may be for three days without eating. Wherever he goes, the people there may speak (derisively of him).
 
@@ -26,7 +32,7 @@ Line 1 is strong, and in its right place; -- its subject should be going forward
 
 Line 2 is weak, but also in its right place, and central; giving us the idea of an officer, obedient to duty and the right. His wound in the left thigh may impede his movements, but does not disable him. He finds means to save himself, and maintains his good purpose.
 
-Line 3, strong and in a strong place, is the topmost line of the lower. trigram. It responds also to line 6, in which the idea of the sovereign, emblemed by the upper trigram, is concentrated. The lower trigram is the emblem of light or brightness, the idea of which again is expressed by the south, to which we turn when we look at the sun in its meridian height. Hence the subject of the p. 137 line becomes a hunter pursuing his game, and successfully. The good officer will be successful in his struggle; but let him not be over eager to put all things right at once.
+Line 3, strong and in a strong place, is the topmost line of the lower. trigram. It responds also to line 6, in which the idea of the sovereign, emblemed by the upper trigram, is concentrated. The lower trigram is the emblem of light or brightness, the idea of which again is expressed by the south, to which we turn when we look at the sun in its meridian height. Hence the subject of the [p. 137]() line becomes a hunter pursuing his game, and successfully. The good officer will be successful in his struggle; but let him not be over eager to put all things right at once.
 
 Line 4 is weak, but in its right place. Kû Hsî says he does not understand the symbolism, as given in the Text. The translation indicates the view of it commonly accepted. The subject of the line evidently escapes from his position of danger with little damage.
 
