@@ -1,10 +1,14 @@
-# Jin ䷢
+# Jìn ䷢
 
-Chinese: jìn 晋 ䷢
+> Chinese: 晋 ䷢ jìn
+
+###### p. 131
 
 ![Jin](https://88o.io/wp-content/uploads/2018/09/35-e6998bjin.jpg)
 
-In **Jin** we see a prince who secures the tranquillity (of the people) presented on that account with numerous horses (by the king), and three times in a day received at interviews.
+In **Jìn ䷢** we see a prince who secures the tranquillity (of the people) presented on that account with numerous horses (by the king), and three times in a day received at interviews.
+
+###### p. 132
 
 1. The first SIX, divided, shows one wishing to advance, and (at the same time) kept back. Let him be firm and correct, and there will be good fortune. If trust be not reposed in him, let him maintain a large and generous mind, and there will be no error.
 
@@ -21,13 +25,13 @@ The position is perilous, but there will be good fortune. (Yet) however firm and
 
 ## Notes
 
-The Thwan of this hexagram expresses its subject more fully and plainly than that of any of the previous thirty-four. It is about a feudal prince whose services to the country have made him acceptable to his king. The king's favour has been shown to him by gifts and personal attentions such as form the theme of more than one ode in the Shih; see especially III, iii, 7. The symbolism of the lines dimly indicates the qualities of such a prince. Žin means to advance.' Hexagrams 46 and 53 agree with this in being called by names that indicate progress and advance. The advance in Žin is like that of the sun, 'the shining light, shining more and more to the perfect day.'
+The Thwan of this hexagram expresses its subject more fully and plainly than that of any of the previous thirty-four. It is about a feudal prince whose services to the country have made him acceptable to his king. The king's favour has been shown to him by gifts and personal attentions such as form the theme of more than one ode in the [Shih; see especially III, iii, 7](). The symbolism of the lines dimly indicates the qualities of such a prince. Žin means to advance.' Hexagrams 46 and 53 agree with this in being called by names that indicate progress and advance. The advance in Žin is like that of the sun, 'the shining light, shining more and more to the perfect day.'
 
 Line 1 is weak, and in the lowest place, and its correlate in 4 is neither central nor in its correct position. This indicates the small and obstructed beginnings of his subject. But by his firm correctness he pursues the way to good fortune; and though the king does not yet believe in him, he the more pursues his noble course.
 
 Line 2 is weak, and its correlate in 5 is also weak. Its subject therefore has still to mourn in obscurity. But his position is central and correct, and he holds on his way, till success comes ere long. The symbolism says he receives it 'from his grandmother;' and readers will be startled by the extraordinary statement, as I was when I first read it. Literally the Text says 'the king's mother,' as P. Regis rendered it,--'Istam magnam felicitatem a matre regis recipit.' He also tries to give the name a historical reference;--to Thâi-Kiang, the grandmother of king Wăn; Thâi-Zăn, his mother; or to Thâi-sze, his wife, and the mother of king Wû and the duke of Kâu, all famous in Chinese history, and celebrated in the Shih. But 'king's father' and 'king's mother' are well-known Chinese appellations for 'grandfather' and 'grandmother.' This is the view given on the passage, by Khăng-žze, Kû Hsî, and the Khang-hsî editors, the latter of whom, indeed, account for the use of the name, instead of 'deceased mother,' which we find in hexagram 62, by the regulations observed in the ancestral temple. These authorities, moreover, all agree in saying that the name points us to line 5, the correlate of 2, and 'the lord of the hexagram.' Now the subject of line 5 is the sovereign, who at length acknowledges the worth of the feudal lord, and gives him p. 134 the great blessing. The 'New Digest of Comments on the Yî (1686),' in its paraphrase of the line, has, 'He receives at last this great blessing from the mild and compliant ruler.' I am not sure that 'motherly king' would not be the best and fairest translation of the phrase.
 
-Canon McClatchie has a very astonishing note on the name, which he renders 'Imperial Mother' (p. 164):--'That is, the wife of Imperial Heaven (Juno), who occupies the "throne of the diagram," viz. the fifth stroke, which is soft and therefore feminine. She is the Great Ancestress of the human race. See Imp. Ed. vol. iv, Sect. v, p. 25, Com.' Why such additions to the written word?
+Canon McClatchie has a very astonishing note on the name, which he renders 'Imperial Mother' ([p. 164]()): -- 'That is, the wife of Imperial Heaven (Juno), who occupies the "throne of the diagram," viz. the fifth stroke, which is soft and therefore feminine. She is the Great Ancestress of the human race. See Imp. Ed. vol. iv, Sect. v, p. 25, Com.' Why such additions to the written word?
 
 Line 3 is weak, and in an odd place; but the subjects of 1 and 2 are possessed by the same desire to advance as the subject of this. A common trust and aim possess them; and hence the not unfavourable auspice.
 
