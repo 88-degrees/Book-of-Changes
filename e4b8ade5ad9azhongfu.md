@@ -1,10 +1,10 @@
-# Zhongfu ䷼
+# Zhōng Fú ䷼
 
 Chinese: zhōng fú 中孚 ䷼
 
 ![Zhongfu](https://88o.io/wp-content/uploads/2018/09/61-e4b8ade5ad9azhongfu.jpg)
 
-**Zhongfu** (moves even) pigs and fish, and leads to good fortune.
+**Zhōng Fú ䷼** (moves even) pigs and fish, and leads to good fortune.
 There will be advantage in crossing the great stream. There will be advantage in being firm and correct.
 
 I. The first NINE, undivided, shows its subject resting (in himself). There will be good fortune. If he sought to any other, he would not find rest.
@@ -21,7 +21,7 @@ I. The first NINE, undivided, shows its subject resting (in himself). There will
 
 ## Notes
 
-**Zhongfu**, the name of this hexagram, may be represented in English by 'Inmost Sincerity.'
+**Zhōng Fú ䷼**, the name of this hexagram, may be represented in English by 'Inmost Sincerity.'
 It denotes the highest quality of man, and gives its possessor power so that he prevails with spiritual beings, with other men, and with the lower creatures.
 It is the subject of the 'Doctrine of the Mean' from the 21st chapter onwards, where Remusat rendered it by 'la perfection,' 'la perfection morale,' and Intorcetta and his coadjutors by 'vera solidaque perfectio.' The lineal figure has suggested to the Chinese commentators, from the author of the first Appendix, two ideas in it which deserve to be pointed out. There are two divided lines in the centre and two undivided below them and above them. The divided lines in the centre are held to represent the heart or mind free from all pre-occupation, without any consciousness of self; and the undivided lines, on each side of it, in the centre of the constituent trigrams are held to denote the solidity of the virtue of one so free from selfishness. There is no unreality in it, not a single flaw.
 
@@ -29,7 +29,7 @@ The 'Daily Lecture' at the conclusion of its paraphrase of the Thwan refers to t
 
 The translation of paragraph 1 is according to the view approved by the Khang-hsî editors. The ordinary view makes the other to whom the subject of line 1 looks or might look to be the subject of 4; but they contend that, excepting in the case of 3 and 6, the force of correlation should be discarded from the study of this hexagram; for the virtue of sincerity is all centred in itself, thence derived and thereby powerful.
 
-For paragraph 2, see Appendix III, Section i, 42. It is in rhyme, and I have there rendered it in rhyme. The 'young ones of the crane' are represented by line 1. In the third and fourth sentences we have the symbolism of two men brought together by their sympathy in virtue. The subject of the paragraph is the effect of sincerity.
+For paragraph 2, see [Appendix III, Section i, 42](appendix03s1.md#p-361). It is in rhyme, and I have there rendered it in rhyme. The 'young ones of the crane' are represented by line 1. In the third and fourth sentences we have the symbolism of two men brought together by their sympathy in virtue. The subject of the paragraph is the effect of sincerity.
 
 The 'mate' of line 3 is 6. The principle of correlation comes in. Sincerity, not left to itself, is influenced from without, and hence come the changes and uncertainty in the state and moods of the subject of the line.
 
