@@ -1,14 +1,18 @@
-# Xie ䷧
+# Xiè ䷧
 
-Chinese: xiè 解 ䷧
+> Chinese: 解 ䷧ xiè / jiě
+
+###### p. 144
 
 ![Xie](https://88o.io/wp-content/uploads/2018/09/40-e8a7a3xie.jpg)
 
-In (the state indicated by) **Xie** advantage will be found in the south-west.
+In (the state indicated by) **Xiè ䷧** advantage will be found in the south-west.
 If no (further) operations be called for, there will be good fortune in coming back (to the old conditions).
 If some operations be called for, there will be good fortune in the early conducting of them.
 
 1. The first SIX, divided, shows that its subject will commit no error.
+
+###### p. 145
 
 2. The second NINE, undivided, shows its subject catch, in hunting, three foxes, and obtain the yellow (= golden) arrows. With firm correctness there will be good fortune.
 
@@ -23,7 +27,7 @@ executing his function of removing (whatever is injurious to the idea of the hex
 
 ## Notes
 
-**Xie** is the symbol of loosing, -- untying a knot or unravelling a complication; and as the name of this hexagram, it denotes a condition in which the obstruction and difficulty indicated by the preceding Kieh have been removed. The object of the author is to show, as if from the lines of the figure, how this new and better state of the kingdom is to be dealt with. See what is said on the Thwan of Kien for 'the advantage to be found in the south-west.' If further active operations be not necessary to complete the subjugation of the country, the sooner things fall into their old channels the better. The new masters of the kingdom should not be anxious to change all the old manners and ways. Let them do, as the duke of Kâu actually did do with the subjugated people of Shang. If p. 146 further operations be necessary, let them be carried through without delay. Nothing is said in the Thwan about the discountenancing and removal of small men, -- unworthy ministers or officers; but that subject appears in more! than one of the lines.
+**Xiè ䷧** is the symbol of loosing, -- untying a knot or unravelling a complication; and as the name of this hexagram, it denotes a condition in which the obstruction and difficulty indicated by the preceding Kieh have been removed. The object of the author is to show, as if from the lines of the figure, how this new and better state of the kingdom is to be dealt with. See what is said on the Thwan of Kien for 'the advantage to be found in the south-west.' If further active operations be not necessary to complete the subjugation of the country, the sooner things fall into their old channels the better. The new masters of the kingdom should not be anxious to change all the old manners and ways. Let them do, as the duke of Kâu actually did do with the subjugated people of Shang. If [p. 146](e68d9fsun.md#p-146) further operations be necessary, let them be carried through without delay. Nothing is said in the Thwan about the discountenancing and removal of small men, -- unworthy ministers or officers; but that subject appears in more! than one of the lines.
 
 There is a weak line, instead of a strong, in the first place; but this is compensated for by its strong correlate in 4.
 
@@ -33,7 +37,7 @@ Line 3 is weak, when it should be strong; and occupying, as it does, the topmost
 
 What is said on the fourth line appears in the form of an address to its subject. The line is strong in an even place, and 1, its correlate, is weak in an odd place. Such a union will not be productive of good. In the symbolism 1 becomes the toe of the subject of 4. How the friend or friends, who are to come to him on the removal of this toe, are represented, I do not perceive.
 
-Line 5 is weak in an odd place; but the place is that of the ruler, to whom it belongs to perfect the idea of the hexagram by p. 147 removing all that is contrary to the peace and good order of the kingdom. It will be his duty to remove especially all the small men represented by the divided lines, which he can do with the help of his strong correlate in 2. Then even the small men will change their ways, and repair to him.
+Line 5 is weak in an odd place; but the place is that of the ruler, to whom it belongs to perfect the idea of the hexagram by [p. 147](e68d9fsun.md#p-147) removing all that is contrary to the peace and good order of the kingdom. It will be his duty to remove especially all the small men represented by the divided lines, which he can do with the help of his strong correlate in 2. Then even the small men will change their ways, and repair to him.
 
 Line 6 is the highest line in the figure, but not the place of the ruler. Hence it appears as occupied by a feudal duke, who carries out the idea of the figure against small men, according to the symbolism employed.
 
