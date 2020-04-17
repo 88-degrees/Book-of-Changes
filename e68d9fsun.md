@@ -6,12 +6,11 @@
 
 ![Sun](https://88o.io/wp-content/uploads/2018/09/41-e68d9fsun.jpg)
 
-**Sǔn ䷨** In (what is denoted by) Sun, if there be sincerity (in him who employs it), there will be great good fortune: -- freedom from error;
-firmness and correctness that can be maintained; and advantage in every
+In (what is denoted by) **Sǔn ䷨**, if there be sincerity (in him who employs it), there will be great good fortune: -- freedom from error; firmness and correctness that can be maintained; and advantage in every
 
 ###### p. 147
 
-movement that shall be made. In what shall this (sincerity in the exercise of Sun) be employed?
+movement that shall be made. In what shall this (sincerity in the exercise of **Sǔn ䷨**) be employed?
 (Even) in sacrifice two baskets of grain, (though there be nothing else), may be presented.
 
 1. The first NINE, undivided, shows its subject suspending his own affairs, and hurrying away (to help the subject of the fourth line).
@@ -29,7 +28,7 @@ He will commit no error, but let him consider how far he should contribute of wh
 
 ## Notes
 
-The interpretation of this hexagram is encompassed with great difficulties. **Sǔn ䷨** is the symbol for the idea of diminishing or diminution; and what is said in [Appendix I](appendix01s2.md#p-246) has made it to be accepted as teaching the duty of the subject to take of what is his and contribute to his ruler, or the expenses of the government under which he lives; in other words, readily and cheerfully to pay his taxes. P. Regis says, Sun seu (vectigalis causa) minuere . . . est valde utile;' and Canon McClatchie in translating [Appendix I](appendix01s2.md#p-246) has: -- 'Diminishing (by taxation for instance) .... is very lucky.' Possibly, king Wăn may have seen in the figures the subject of taxation; but the symbolism of his son takes a much wider range. My own reading of the figure and Text comes near to the view of Khăng-žze, that 'every diminution and repression of what we have in excess to bring it into accordance with right and reason is comprehended under Sun.'
+The interpretation of this hexagram is encompassed with great difficulties. **Sǔn ䷨** is the symbol for the idea of diminishing or diminution; and what is said in [Appendix I](appendix01s2.md#p-246) has made it to be accepted as teaching the duty of the subject to take of what is his and contribute to his ruler, or the expenses of the government under which he lives; in other words, readily and cheerfully to pay his taxes. P. Regis says, **Sǔn ䷨** seu (vectigalis causa) minuere . . . est valde utile;' and Canon McClatchie in translating [Appendix I](appendix01s2.md#p-246) has: -- 'Diminishing (by taxation for instance) .... is very lucky.' Possibly, king Wăn may have seen in the figures the subject of taxation; but the symbolism of his son takes a much wider range. My own reading of the figure and Text comes near to the view of Khăng-žze, that 'every diminution and repression of what we have in excess to bring it into accordance with right and reason is comprehended under **Sǔn ䷨**.'
 
 Let there be sincerity in doing this, and it will lead to the happiest results. It will lead to great success in great things; and if the correction, or it may be a contribution towards it, appear to be very small, yet it will be accepted; -- as in the most solemn religious service. This is substantially the view of the hexagram approved by the Khang-hsî editors.
 
