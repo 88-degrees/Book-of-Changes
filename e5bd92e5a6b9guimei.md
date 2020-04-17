@@ -1,10 +1,12 @@
-# Guimei ䷵
+# Guī mèi ䷵
 
-Chinese: guī mèi 归妹 ䷵
+> Chinese: 归妹 ䷵ guī mèi
+
+###### p. 180
 
 ![Guimei](https://88o.io/wp-content/uploads/2018/09/54-e5bd92e5a6b9guimei.jpg)
 
-**Guīmèi ䷵** indicates that (under the conditions which it denotes) action will be evil, and in no wise advantageous.
+**Guī mèi ䷵** indicates that (under the conditions which it denotes) action will be evil, and in no wise advantageous.
 
 1. The first NINE, undivided, shows the younger sister married off in a position ancillary to the real wife. (It suggests the idea of) a person lame on one leg who yet manages to tramp along. Going forward will be fortunate.
 
