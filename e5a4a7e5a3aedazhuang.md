@@ -29,12 +29,12 @@ Line 1 is strong, in its correct place, and also the first line in Khien, the he
 
 Line 2 is strong, but the strength is tempered by its being in an even place, instead of being excited by it, as might be feared. Then the place is that in the centre. With firm correctness there will be good fortune.
 
-Line 3 is strong, and in its proper place. It is at the top moreover of Khien. A small man so symbolled will use his strength to the utmost; but not so the superior man. For him the position is beyond the safe middle, and he will be cautious; and not injure himself, like the ram, by exerting his strength.
+Line 3 is strong, and in its proper place. It is at the top moreover of [**Qián ䷀**](e4b9beqian.md). A small man so symbolled will use his strength to the utmost; but not so the superior man. For him the position is beyond the safe middle, and he will be cautious; and not injure himself, like the ram, by exerting his strength.
 
 Line 4 is still strong, but in the place of a weak line; and this gives occasion to the cautions with which the symbolism commences. The subject of the line going forward thus cautiously, his strength will produce good effects, such as are described.
 
-Line 5 is weak, and occupies a central place. Its subject will cease therefore to exert his strength; but this hexagram does not forbid the employment of strength, but would only control and p. 132 direct it. All that is said about him is that he will give no occasion for repentance.
+Line 5 is weak, and occupies a central place. Its subject will cease therefore to exert his strength; but this hexagram does not forbid the employment of strength, but would only control and [p. 132]() direct it. All that is said about him is that he will give no occasion for repentance.
 
-Line 6 being at the top of Kăn, the symbol of movement, and at the top of Tâ Kwang, its subject may be expected to be active in exerting his strength; and through his weakness, the result would be as described. But he becomes conscious of his weakness, reflects and rests, and good fortune results, as he desists from the prosecution of his unwise efforts.
+Line 6 being at the top of Kăn, the symbol of movement, and at the top of **Dà Zhuàng**, its subject may be expected to be active in exerting his strength; and through his weakness, the result would be as described. But he becomes conscious of his weakness, reflects and rests, and good fortune results, as he desists from the prosecution of his unwise efforts.
 
 # [大壮](./e5a4a7e5a3aedazhuang_cn.md)
