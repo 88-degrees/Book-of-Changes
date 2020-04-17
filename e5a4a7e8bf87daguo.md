@@ -1,12 +1,12 @@
-# Daguo ䷛
+# Dà Guò ䷛
 
-Chinese: dà guò 大过 ䷛
+Chinese: 大过 ䷛ dà guò
 
 ###### p. 116
 
 ![Daguo](https://88o.io/wp-content/uploads/2018/09/28-e5a4a7e8bf87daguo.jpg)
 
-**Dàguò ䷛** suggests to us a beam that is weak. There will be advantage in moving (under its conditions) in any direction whatever; there will be success.
+**Dà Guò ䷛** suggests to us a beam that is weak. There will be advantage in moving (under its conditions) in any direction whatever; there will be success.
 
 1. The first SIX, divided, shows one placing mats of the white mâo grass under things set on the ground. There will be no error.
 
