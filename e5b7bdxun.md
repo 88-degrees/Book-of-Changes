@@ -1,4 +1,4 @@
-# Xun ䷸
+# Xùn ䷸
 
 > Chinese: 巽 ䷸ xùn
 
@@ -6,7 +6,7 @@
 
 ![Xun](https://88o.io/wp-content/uploads/2018/09/57-e5b7bdxun.jpg)
 
-**Xùn(䷸)** intimates that (under the conditions which it denotes) there will be some little attainment and progress.
+**Xùn ䷸** intimates that (under the conditions which it denotes) there will be some little attainment and progress.
 There will be advantage in movement
 
 ###### p. 190
