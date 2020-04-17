@@ -494,7 +494,7 @@ Paragraph 2. That the fashion of the well does not undergo any (great) change is
 
 <a name="fn_173"></a>[254:XLIX](#fr_173)
 
-1. Paragraph 1. **Lí ☲** the lower trigram, represents fire, and **Duì ☱**, the upper, represents water. Water will extinguish fire, and fire again will dry up water. Each, to all appearance, produces a change in the other. Again, according to king Wăn's scheme of the trigrams, as shown on [Bā Guà Figure](bagua.png), **Lí ☲** is the second, and **Duì ☱** the youngest daughter. Their wills are likely to differ in love and other things; but this symbolism does not so readily suggest the idea of change.
+1. Paragraph 1. **Lí ☲** the lower trigram, represents fire, and **Duì ☱**, the upper, represents water. Water will extinguish fire, and fire again will dry up water. Each, to all appearance, produces a change in the other. Again, according to king Wăn's scheme of the trigrams, as shown on [Bā Guà Figure](bagua.png) and [Figure](), **Lí ☲** is the second, and **Duì ☱** the youngest daughter. Their wills are likely to differ in love and other things; but this symbolism does not so readily suggest the idea of change.
 
 2. The first sentence suggests how the dislike to change on the part of people generally is overcome.
 
