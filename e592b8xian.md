@@ -1,10 +1,12 @@
-# Xian ䷞
+# Xián ䷞
 
-Chinese: xián 咸 ䷞
+> Chinese: 咸 ䷞ xián
+
+###### p. 123
 
 ![Xian](https://88o.io/wp-content/uploads/2018/09/31-e592b8xian.jpg)
 
-**Xian** indicates that, (on the fulfilment of the conditions implied in it), there will be free course and success.
+**Xián ䷞** indicates that, (on the fulfilment of the conditions implied in it), there will be free course and success.
 Its advantageousness will depend on the being firm and correct, (as) in marrying a young lady. There will be good fortune.
 
 1. The first six, divided, shows one moving his great toes.
@@ -13,9 +15,11 @@ Its advantageousness will depend on the being firm and correct, (as) in marrying
 
 3. The third NINE, undivided, shows one moving his thighs, and keeping close hold of those whom he follows. Going forward (in this way) will cause regret.
 
-4. The fourth NINE, undivided, shows that firm correctness whi.ch will lead to good fortune, and prevent all occasion for repentance. If its subject be unsettled in his movements, (only) his friends will follow his purpose.
+4. The fourth NINE, undivided, shows that firm correctness which will lead to good fortune, and prevent all occasion for repentance. If its subject be unsettled in his movements, (only) his friends will follow his purpose.
 
 5. The fifth NINE, undivided, shows one moving the flesh along the spine above the heart. There will be no occasion for repentance.
+
+###### p. 124
 
 6. The sixth six, divided, shows one moving his jaws and tongue.
 
@@ -25,11 +29,11 @@ With the 31st hexagram commences the Second Section of the Text. It is difficult
 
 Hsien, as explained in the treatise on the Thwan, has here the meaning of mutual influence, and the duke of Kâu, on the various lines, always uses Kan for it in the sense of 'moving' or 'influencing to movement or action.' This is to my mind the subject of the hexagram considered as an essay, -- 'Influence; the different ways of bringing it to bear, and their issues.'
 
-The Chinese character called hsien is `咸`, the graphic symbol for 'all, together, jointly.' Kan, the symbol for 'influencing,' has hsien in it as its phonetic constituent (though the changes in pronunciation make it hard for an English reader to appreciate this), with the addition of hsin, the symbol for the heart.' Thus `感` ( gǎn), 'to affect or influence,' = `咸`  + `心` ; and it may have been that while the name or word was used with the significance of 'influencing,' the `心` was purposely dropt from it, to indicate the most important element in the thing,--the absence of all purpose or motive. I venture to think that this would have been a device worthy of a diviner.
+The Chinese character called hsien is `咸`, the graphic symbol for 'all, together, jointly.' Kan, the symbol for 'influencing,' has hsien in it as its phonetic constituent (though the changes in pronunciation make it hard for an English reader to appreciate this), with the addition of hsin, the symbol for the heart.' Thus `感` ( gǎn), 'to affect or influence,' = `咸`  + `心` ; and it may have been that while the name or word was used with the significance of 'influencing,' the `心` was purposely dropt from it, to indicate the most important element in the thing, -- the absence of all purpose or motive. I venture to think that this would have been a device worthy of a diviner.
 
-With regard to the idea of husband and wife being in the teaching of the hexagram, it is derived from the more recent symbolism of the eight trigrams ascribed to king Wăn, and exhibited on p. 33 and plate III. The more ancient usage of them is given in the paragraph on the Great Symbolism of Appendix II. The figure consists of Kăn   'the youngest son,' and over it Tui ( ), 'the youngest daughter.' These are in 'happy union.' p. 125 No influence, it is said, is so powerful and constant as that between husband and wife; and where these are young, it is especially active. Hence it is that Hsien is made up of Kăn and Tui. All this is to me very doubtful. I can dimly apprehend why the whole line ( ) was assumed as the symbol of strength and authority, and the broken line as that of weakness and submission. Beyond this I cannot follow Fû-hsî in his formation of the trigrams; and still less can I assent to the more recent symbolism of them ascribed to king Wăn.
+With regard to the idea of husband and wife being in the teaching of the hexagram, it is derived from the more recent symbolism of the eight trigrams ascribed to king Wăn, and exhibited on p. 33 and plate III. The more ancient usage of them is given in the paragraph on the Great Symbolism of [Appendix II](). The figure consists of **Gèn ☶** 'the youngest son,' and over it **Duì ☱**, 'the youngest daughter.' These are in 'happy union.' [p. 125]() No influence, it is said, is so powerful and constant as that between husband and wife; and where these are young, it is especially active. Hence it is that Hsien is made up of **Gèn ☶** and **Duì ☱**. All this is to me very doubtful. I can dimly apprehend why the whole line (**⚊**) was assumed as the symbol of strength and authority, and the broken line as that of weakness and submission. Beyond this I cannot follow Fû-hsî in his formation of the trigrams; and still less can I assent to the more recent symbolism of them ascribed to king Wăn.
 
-Coming now to the figure, and its lines, the subject is that of mutual influence; and the author teaches that that influence, correct in itself, and for correct ends, is sure to be effective. He gives an instance,--the case of a man marrying a young lady, the regulations for which have been laid down in China from the earliest times with great strictness and particularity. Such influence will be effective and fortunate.
+Coming now to the figure, and its lines, the subject is that of mutual influence; and the author teaches that that influence, correct in itself, and for correct ends, is sure to be effective. He gives an instance, -- the case of a man marrying a young lady, the regulations for which have been laid down in China from the earliest times with great strictness and particularity. Such influence will be effective and fortunate.
 
 Line 1 is weak, and at the bottom of the hexagram. Though 4 be a proper correlate, yet the influence indicated by it must be ineffective. However much a man's great toes may be moved, that will not enable him to walk.
 
