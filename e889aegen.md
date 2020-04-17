@@ -1,10 +1,16 @@
-# Gen ䷳
+# Gèn ䷳
 
-Chinese: gèn 艮 ䷳
+> Chinese: 艮 ䷳ gèn
+
+###### p. 175
 
 ![Gen](https://88o.io/wp-content/uploads/2018/09/52-e889aegen.jpg)
 
-When one's resting is like that of the back, and he loses all consciousness of self; when he walks in his courtyard, and does not see any (of the persons) in it, -- there will be no error.
+When one's resting is like that of the back, and he loses all consciousness of self; when he walks
+
+###### p. 176
+
+in his courtyard, and does not see any (of the persons) in it, -- there will be no error.
 
 1. The first SIX, divided, shows its subject keeping his toes at rest. There will be no error; but it will be advantageous for him to be persistently firm and correct.
 
@@ -16,11 +22,15 @@ When one's resting is like that of the back, and he loses all consciousness of s
 
 S. The fifth SIX, divided, shows its subject keeping his jawbones at rest, so that his words are (all) orderly. Occasion for repentance will disappear.
 
-6. The sixth NINE, undivided, shows its subject devotedly maintaining his restfulness. There will be good fortune.
+6. The sixth NINE, undivided, shows its subject
+
+###### p. 177
+
+devotedly maintaining his restfulness. There will be good fortune.
 
 ## Notes
 
-The trigram **Gèn(䷳)** represents a mountain. Mountains rise up grandly from the surface of the earth, and their masses rest on it in quiet and solemn majesty; and they serve also to arrest the onward progress of the traveller. Hence the attribute ascribed to Kăn is twofold; it is both active and passive-resting and arresting. The character is used in this hexagram with both of those significations. As the name of the figure, it denotes the mental characteristic of resting in what is right; especially resting, as it is expressed by Chinese critics, 'in principle,' -- that which is light, on the widest scale, and in the absolute conception of the mind; and that which is right in every different position in which a man can be placed. We find this treated of in the Great Learning (Commentary, chapter 3), and in the Doctrine of the Mean, chapter 14, and other places. This is the theme of the hexagram; and the symbolism of it is all taken from different parts of the human body, as in hexagram 31, and the way in which they are dealt with. Several of the paragraphs are certainly not easy to translate and interpret.
+The trigram **Gèn ䷳** represents a mountain. Mountains rise up grandly from the surface of the earth, and their masses rest on it in quiet and solemn majesty; and they serve also to arrest the onward progress of the traveller. Hence the attribute ascribed to Kăn is twofold; it is both active and passive-resting and arresting. The character is used in this hexagram with both of those significations. As the name of the figure, it denotes the mental characteristic of resting in what is right; especially resting, as it is expressed by Chinese critics, 'in principle,' -- that which is light, on the widest scale, and in the absolute conception of the mind; and that which is right in every different position in which a man can be placed. We find this treated of in the Great Learning (Commentary, chapter 3), and in the Doctrine of the Mean, chapter 14, and other places. This is the theme of the hexagram; and the symbolism of it is all taken from different parts of the human body, as in hexagram 31, and the way in which they are dealt with. Several of the paragraphs are certainly not easy to translate and interpret.
 
 The other parts of the body, such as the mouth, eyes, and ears, have their appetencies, which lead them to what is without themselves. The back alone has nothing to do with anything beyond itself-hardly with itself even; all that it has to do is to stand straight and strong. So should it be with, us, resting in principle, free from the intrusion of selfish though s and external objects. Amidst society, he who realises the idea of the hexagram is still alone, and does not allow himself to be distracted from the contemplation and following of principle. He is not a recluse, however, who keeps aloof from social life; but his distinction is that he maintains a supreme regard to principle, when alone, and when mingling with others.
 
