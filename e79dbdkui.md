@@ -1,6 +1,8 @@
 # Kuí ䷥
 
-Chinese: kuí 睽 ䷥
+> Chinese: 睽 ䷥ kuí
+
+###### p. 139
 
 ![Kui](https://88o.io/wp-content/uploads/2018/09/38-e79dbdkui.jpg)
 
@@ -12,7 +14,11 @@ Chinese: kuí 睽 ䷥
 
 3. In the third SIX, divided, we see one whose carriage is dragged back, while the oxen in it are pushed back, and he is himself subjected to the shaving of his head and the cutting off of his nose. There is no good beginning, but there will be a good end.
 
-4. The fourth NINE, undivided, shows its subject solitary amidst the (prevailing) disunion. (But) he meets with the good man (represented by the first line), and they blend their sincere desires together. The position is one of peril, but there will be no mistake.
+4. The fourth NINE, undivided, shows its subject solitary amidst the (prevailing) disunion. (But) he meets with the good man (represented by the first
+
+###### p. 140
+
+line), and they blend their sincere desires together. The position is one of peril, but there will be no mistake.
 
 5. The fifth SIX, divided, shows that (to its subject) occasion for repentance will disappear. With his relative (and minister he unites closely and readily) as if he were biting through a piece of skin. When he goes forward (with this help), what error can there be?
 
