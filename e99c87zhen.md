@@ -1,8 +1,8 @@
 # Zhèn ䷲
 
-###### p. 172
+> Chinese: 震 ䷲ zhèn
 
-Chinese: zhèn 震 ䷲
+###### p. 172
 
 ![Zhen](https://88o.io/wp-content/uploads/2018/09/51-e99c87zhen.jpg)
 
