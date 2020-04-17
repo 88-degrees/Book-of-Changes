@@ -1,10 +1,10 @@
-# Dazhuang ䷡
+# Dà Zhuàng ䷡
 
 Chinese: dà zhuàng 大壮 ䷡
 
 ![Dazhuang](https://88o.io/wp-content/uploads/2018/09/34-e5a4a7e5a3aedazhuang.jpg)
 
-**Dazhuang** indicates that (under the conditions which it symbolises) it will be advantageous to be firm and correct.
+**Dà Zhuàng ䷡** indicates that (under the conditions which it symbolises) it will be advantageous to be firm and correct.
 
 1. The first NINE, undivided, shows its subject manifesting his strength in his toes. But advance will lead to evil, -- most certainly.
 
@@ -20,10 +20,10 @@ Chinese: dà zhuàng 大壮 ䷡
 
 ## Notes
 
-The strong lines predominate in **Dazhuang**. It suggested to king Wăn a state or condition of things in which there was abundance of strength and vigour.
+The strong lines predominate in **Dà Zhuàng**. It suggested to king Wăn a state or condition of things in which there was abundance of strength and vigour.
 Was strength alone enough for the conduct of affairs? No. He saw also in the figure that which suggested to him that strength should be held in subordination to the idea of right, and exerted only in harmony with it.
 
-This is the lesson of the hexagram, as sententiously expressed in the Thwan.
+This is the lesson of the hexagram, as sententiously expressed in the **Thwan**.
 
 Line 1 is strong, in its correct place, and also the first line in Khien, the hexagram of strength, and the first line in Tâ Kwang. The idea of the figure might seem to be concentrated in it; and hence we have it symbolised by 'strength in the toes,' or 'advancing.' But such a measure is too bold to be undertaken by one in the lowest place, and moreover there is no proper correlate in 4. Hence comes the evil auspice.
 
