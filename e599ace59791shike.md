@@ -1,10 +1,10 @@
-# Shìkè ䷔
+# Shì Kè ䷔
 
-Chinese: shì kè 噬嗑 ䷔
+Chinese: 噬嗑 ䷔ shì kè
 
 ![Shike](https://88o.io/wp-content/uploads/2018/09/21-e599ace59791shike.jpg)
 
-**Shìkè ䷔** indicates successful progress (in the condition of things which it supposes). It will be advantageous to use legal constraints.
+**Shì Kè ䷔** indicates successful progress (in the condition of things which it supposes). It will be advantageous to use legal constraints.
 
 1. The first NINE, undivided, shows one with his feet in the stocks and deprived of his toes. There will be no error.
 
@@ -21,7 +21,7 @@ It will be advantageous to him to realise the difficulty of his task and be firm
 
 ## Notes
 
-**Shìkè ䷔** means literally 'Union by gnawing.' We see in the figure two strong lines in the first and last places, while all the others, with the exception of the fourth, are divided. This suggests the idea of the jaws and the mouth between them kept open by something in it. Let that be gnawed through and the mouth will close and the jaws come together. So in the body politic. Remove the obstacles to union, and high and low will come together with a good understanding. And how are those obstacles to be removed? By force, emblemed by the gnawing; that is, by legal constraints. And these are sure to be successful. The auspice of the figure is favourable. There will be success.
+**Shì Kè ䷔** means literally 'Union by gnawing.' We see in the figure two strong lines in the first and last places, while all the others, with the exception of the fourth, are divided. This suggests the idea of the jaws and the mouth between them kept open by something in it. Let that be gnawed through and the mouth will close and the jaws come together. So in the body politic. Remove the obstacles to union, and high and low will come together with a good understanding. And how are those obstacles to be removed? By force, emblemed by the gnawing; that is, by legal constraints. And these are sure to be successful. The auspice of the figure is favourable. There will be success.
 
 Lines 1 and 6 are much out of the game or action described in the figure. Hence they are held to represent parties receiving punishment, while the other lines represent parties inflicting it. The punishment in line 1 is that of the stocks, administered for a small offence, and before crime has made much way. But if the 'depriving' of the toes is not merely keeping them in restraint, but cutting them off, as the Chinese character suggests, the punishment appears to a western reader too severe.
 
