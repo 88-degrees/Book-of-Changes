@@ -73,7 +73,7 @@ who with these qualities was yet involved in great difficulties.
 
 <a name="fr_162"></a>[XXXVIII](#fn_162).
 
-1. In Khwei we have (the symbol of) Fire, which, when moved, tends upwards, and that of a Marsh, whose waters, when moved, tend downwards. We have (also the symbols of) two sisters living together, but whose wills do not move in the same direction.
+1. In [**Kuí ䷥**](e79dbdkui.md) we have (the symbol of) Fire, which, when moved, tends upwards, and that of a Marsh, whose waters, when moved, tend downwards. We have (also the symbols of) two sisters living together, but whose wills do not move in the same direction.
 
 2. (We see how the inner trigram expressive of) harmonious satisfaction is attached to (the outer expressive of) bright intelligence; (we see) the weak line advanced and acting above, and how it occupies the central place, and is responded to by the strong (line below). These indications show that 'in small matters there will (still) be good fortune.'
 
@@ -83,49 +83,49 @@ who with these qualities was yet involved in great difficulties.
 
 <a name="fr_163"></a>[XXXIX](#fn_163).
 
-1. Kien denotes difficulty. There is (the trigram expressive of) perilousness in front. When one, seeing the peril, can arrest his steps (in accordance with the significance of the lower tri. gram), is he not wise?
+1. [**Jiǎn ䷦**](e8b987jian.md) denotes difficulty. There is (the trigram expressive of) perilousness in front. When one, seeing the peril, can arrest his steps (in accordance with the significance of the lower tri. gram), is he not wise?
 
-2. (The language of) Kien, that 'advantage will be found in the south-west,' refers to the (strong fifth line) advanced and in the central place. That 'there will be no advantage in the north-east,' intimates that the way (of dealing with the Kien state) is exhausted. That 'it will be advantageous to see the great man,' intimates that advance will lead to achievement. That the places (of the different lines after the first) are those appropriate to them indicates firm correctness and good fortune, with which the regions (of the kingdom) are brought to their normal state. Great indeed is the work to be done in the time of Kien!
+2. (The language of) [**Jiǎn ䷦**](e8b987jian.md), that 'advantage will be found in the south-west,' refers to the (strong fifth line) advanced and in the central place. That 'there will be no advantage in the north-east,' intimates that the way (of dealing with the [**Jiǎn ䷦**](e8b987jian.md) state) is exhausted. That 'it will be advantageous to see the great man,' intimates that advance will lead to achievement. That the places (of the different lines after the first) are those appropriate to them indicates firm correctness and good fortune, with which the regions (of the kingdom) are brought to their normal state. Great indeed is the work to be done in the time of [**Jiǎn ䷦**](e8b987jian.md)!
 
 ###### p. 245
 
 <a name="fr_164"></a>[XL](#fn_164).
 
-1. In Kieh we have (the trigram expressive of) peril going on to that expressive of movement. By movement there is an escape from the peril:--(this is the meaning of) Kieh.
+1. In [**Xiè ䷧**](e8a7a3xie.md) we have (the trigram expressive of) peril going on to that expressive of movement. By movement there is an escape from the peril:--(this is the meaning of) Kieh.
 
-2. 'In (the state indicated by) Kieh, advantage will be found in the south-west:'--the movement (thus) intimated will win all. That 'there will be good fortune in coming back (to the old conditions)' shows that such action is that of the due medium. That 'if some operations be necessary, there will be good fortune in the early conducting of them' shows that such operations will be successful.
+2. 'In (the state indicated by) [**Xiè ䷧**](e8a7a3xie.md), advantage will be found in the south-west:'--the movement (thus) intimated will win all. That 'there will be good fortune in coming back (to the old conditions)' shows that such action is that of the due medium. That 'if some operations be necessary, there will be good fortune in the early conducting of them' shows that such operations will be successful.
 
-3. When heaven and earth are freed (from the grasp of winter), we have thunder and rain. When these come, the buds of the plants and trees that produce the various fruits begin to burst. Great indeed are the phenomena in the time intimated by Kieh.
+3. When heaven and earth are freed (from the grasp of winter), we have thunder and rain. When these come, the buds of the plants and trees that produce the various fruits begin to burst. Great indeed are the phenomena in the time intimated by [**Xiè ䷧**](e8a7a3xie.md).
 
 ###### p. 246
 
 <a name="fr_165"></a>[XLI](#fn_165).
 
-1. In Sun (we see) the lower (trigram) diminished, and the upper added to. (But) the method (of action) implied in this operates also above (or, mounts upwards (also) and operates).
+1. In [**Sǔn ䷨**](e68d9fsun.md) (we see) the lower (trigram) diminished, and the upper added to. (But) the method (of action) implied in this operates also above (or, mounts upwards (also) and operates).
 
-2. 'If there be sincerity in this method of diminution, there will be great good fortune; freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made. In what shall this (sincerity in the exercise of Sun) be employed? (Even) in sacrifice, two baskets of grain, (though there be nothing else), may be presented:'--for these two baskets there ought to be the fitting time. There is a time when the strong should be diminished, and the weak should be strengthened. Diminution and increase, overflowing and emptiness: -these take place in harmony with the conditions of the time.
+2. 'If there be sincerity in this method of diminution, there will be great good fortune; freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made. In what shall this (sincerity in the exercise of [**Sǔn ䷨**](e68d9fsun.md)) be employed? (Even) in sacrifice, two baskets of grain, (though there be nothing else), may be presented:' -- for these two baskets there ought to be the fitting time. There is a time when the strong should be diminished, and the weak should be strengthened. Diminution and increase, overflowing and emptiness: -these take place in harmony with the conditions of the time.
 
 <a name="fr_166"></a>[XLII](#fn_166).
 
 ###### p. 247
 
-1. In Yî we see the upper (trigram) diminished, and the lower added to. The satisfaction of the people (in consequence of this) is without limit. What descends from above reaches to all below, so great and brilliant is the course (of its operation).
+1. In [**Yì ䷩**](e79b8ayi.md) we see the upper (trigram) diminished, and the lower added to. The satisfaction of the people (in consequence of this) is without limit. What descends from above reaches to all below, so great and brilliant is the course (of its operation).
 
 2. That 'there will be advantage in every movement which shall be undertaken' appears from the central and correct (positions of the second and fifth lines), and the (general) blessing (the dispensing of which they imply).
 
 That 'it will be advantageous (even) to cross the great stream' appears from the action of wood (shown in the figure).
 
-3. Yî is made up of (the trigrams expressive of) movement and docility, (through which) there is daily advancement to an unlimited extent. We have (also) in it heaven dispensing and earth producing, leading to an increase without restriction
+3. [**Yì ䷩**](e79b8ayi.md) is made up of (the trigrams expressive of) movement and docility, (through which) there is daily advancement to an unlimited extent. We have (also) in it heaven dispensing and earth producing, leading to an increase without restriction
 
 ###### p. 248
 
 of place. Everything in the method of this increase proceeds according to the requirements of the time.
 
-the first lines in each changing places. It was the author of this Appendix, probably, who first introduced that absurd notion in connexion with the formation of Sun and Yî.
+the first lines in each changing places. It was the author of this Appendix, probably, who first introduced that absurd notion in connexion with the formation of [**Sǔn ䷨**](e68d9fsun.md) and [**Yì ䷩**](e79b8ayi.md).
 
 One rhyme runs through and connects these three paragraphs thus:--
 
-'Yî spoils the high, gives to the low;
+'[**Yì ䷩**] spoils the high, gives to the low;
 The people feel intense delight.
 Down from above to all below,
 The blessing goes, so large and bright.
@@ -133,7 +133,7 @@ Success will every movement mark,
 Central its source, its course aright.
 The great stream even may be crossed,
 When planks of wood their strength unite.
-Yî movement shows and docile feet,
+[**Yì ䷩**] movement shows and docile feet,
 Which progress day by day invite.
 Heaven gives; productive earth responds;
 Increase crowns every vale and height;
@@ -144,33 +144,33 @@ Each season's gifts quick to requite.'
 
 <a name="fr_167"></a>[XLIII](#fn_167).
 
-1. Kwâi is the symbol of displacing or removing. We see (in the figure) the strong (lines) displacing the weak. (We have in it the attributes of) strength and complacency. There is displacement, but harmony (continues).
+1. [**Guài ䷪**](e5a4acguai.md) is the symbol of displacing or removing. We see (in the figure) the strong (lines) displacing the weak. (We have in it the attributes of) strength and complacency. There is displacement, but harmony (continues).
 
 2. 'The exhibition (of the criminal's guilt) in the royal courtyard' is suggested by the (one) weak (line) mounted on the five strong lines.
 
-There 'is an earnest and sincere appeal (for sympathy and support), and a consciousness of the peril (involved in the undertaking):'--it is the realisation of this danger, which makes the method (of compassing the object) brilliant.
+There 'is an earnest and sincere appeal (for sympathy and support), and a consciousness of the peril (involved in the undertaking):' -- it is the realisation of this danger, which makes the method (of compassing the object) brilliant.
 
-'He should make an announcement in his own city, and show that it will not be well to have recourse at once to arms:'--(if he have recourse to arms), what he prefers will (soon) be exhausted.
+'He should make an announcement in his own city, and show that it will not be well to have recourse at once to arms:' -- (if he have recourse to arms), what he prefers will (soon) be exhausted.
 
-'There will be advantage in whatever he shall go forward to:'--when the growth of the strong (lines) has been completed, there will be an end (of the displacement).
+'There will be advantage in whatever he shall go forward to:' -- when the growth of the strong (lines) has been completed, there will be an end (of the displacement).
 
 ###### p. 250
 
 <a name="fr_168"></a>[XLIV](#fn_168).
 
-1. Kâu has the significance of unexpectedly coming on. (We see in it) the weak (line) coming unexpectedly on the strong ones.
+1. [**Gòu ䷫**](e5a7a4gou.md) has the significance of unexpectedly coming on. (We see in it) the weak (line) coming unexpectedly on the strong ones.
 
-2. 'It will not be good to marry (such) a female:'--one (so symbolised) should not be long associated with.
+2. 'It will not be good to marry (such) a female:' -- one (so symbolised) should not be long associated with.
 
 3. Heaven and earth meeting together (as here represented), all the variety of natural things become fully displayed.
 
 4. When a strong (line) finds itself in the central and correct position, (good government) will greatly prevail all under the sky.
 
-5. Great indeed is the significance of what has to be done at the time indicated by Kâu!
+5. Great indeed is the significance of what has to be done at the time indicated by [**Gòu ䷫**](e5a7a4gou.md)!
 
 <a name="fr_169"></a>[XLV](#fn_169). 
 
-1. Žhui indicates (the condition of union, or) being collected. We have in it (the symbol of) docile obedience going on to (what is expressed by that of) satisfaction. There is the strong line in the central place, and rightly responded to. Hence comes the (idea of) union.
+1. [**Cuì ䷬**](e89083cui.md) indicates (the condition of union, or) being collected. We have in it (the symbol of) docile obedience going on to (what is expressed by that of) satisfaction. There is the strong line in the central place, and rightly responded to. Hence comes the (idea of) union.
 
 2. 'The king will repair to his ancestral temple:' --
 
@@ -182,7 +182,7 @@ with the utmost filial piety he presents his offerings (to the spirits of his an
 
 'The, use of great victims will conduce to good fortune; and in whatsoever direction movement is made, it will be advantageous:' -- all is done in accordance with the ordinances of Heaven.
 
-3. When we look at the way in which the gatherings (here shown) take place, the natural tendencies (in the outward action) of heaven and earth and of all things can be seen..
+3. When we look at the way in which the gatherings (here shown) take place, the natural tendencies (in the outward action) of heaven and earth and of all things can be seen.
 
 <a name="fr_170"></a>[XLVI](#fn_170).
 
@@ -192,41 +192,41 @@ with the utmost filial piety he presents his offerings (to the spirits of his an
 
 ###### p. 252
 
-3. 'Seeking (by the qualities implied in Shăng) to meet with the great man, its subject need have no anxiety:'--there will be ground for congratulation.
+3. 'Seeking (by the qualities implied in [**Shēng ䷭**](e58d87sheng.md)) to meet with the great man, its subject need have no anxiety:'--there will be ground for congratulation.
 
-'Advance to the south will be fortunate:'--his aim will be carried out.
+'Advance to the south will be fortunate:' -- his aim will be carried out.
 
 <a name="fr_171"></a>[XLVII](#fn_171).
 
-1. In Khwăn (we see) the strong (lines) covered and obscured (by the weak).
+1. In [**Kùn ䷮**](e59bb0kun.md) (we see) the strong (lines) covered and obscured (by the weak).
 
 2. We have in it (the attribute of) perilousness going on to that of satisfaction. Who is it but the superior man that, though straitened, still does not fail in making progress to his proper end?
 
-'For the firm and correct, the (really) great man, there will be good fortune:'--this is shown by the central positions of the strong (lines).
+'For the firm and correct, the (really) great man, there will be good fortune:' -- this is shown by the central positions of the strong (lines).
 
-'If he make speeches, his words cannot be made good:'--to be fond of arguing or pleading is the way to be reduced to extremity.
+'If he make speeches, his words cannot be made good:' -- to be fond of arguing or pleading is the way to be reduced to extremity.
 
 ###### p. 253
 
 <a name="fr_172"></a>[XLVIII](#fn_172).
 
-1. (We have the symbol of) wood in the water and the raising of the water; which (gives us the idea of) a well. A well supplies nourishment and is not (itself) exhausted.
+1. In [**Jǐng ䷯**](e4ba95jing.md) (We have the symbol of) wood in the water and the raising of the water; which (gives us the idea of) a well. A well supplies nourishment and is not (itself) exhausted.
 
 2. 'The site of a town may be changed, while the fashion of its wells undergoes no change:' -- this is indicated by the central position of the strong lines (in the second and fifth places).
 
 'The drawing is nearly accomplished, but the rope has not yet reached the water of the well:' -- its service has not yet been accomplished.
 
-'The bucket is broken:'--it is this that occasions evil.
+'The bucket is broken:' -- it is this that occasions evil.
 
 <a name="fr_173"></a>[XLIX](#fn_173).
 
-1. In Ko (we see) water and fire extinguishing each other; (we see also) two daughters dwelling together, but with their minds directed to
+1. In [**Gé ䷰**](e99da9ge.md) (we see) water and fire extinguishing each other; (we see also) two daughters dwelling together, but with their minds directed to
 
 ###### p. 254
 
 different objects: -- (on account of these things) it is called (the hexagram of) Change.
 
-2. 'It is believed in (only) after it has been accomplished:'--when the change has been made, faith is accorded to it.
+2. 'It is believed in (only) after it has been accomplished:' -- when the change has been made, faith is accorded to it.
 
 (We have) cultivated intelligence (as the basis of) pleased satisfaction, (suggesting) 'great progress and success,' coming from what is correct.
 
@@ -236,7 +236,7 @@ When change thus takes place in the proper way, 'occasion for repentance disappe
 
 <a name="fr_174"></a>[L](#fn_174).
 
-1. In Ting we have (symbolically) the figure of a caldron. (We see) the (symbol of) wood entering into that of fire, which suggests the idea of cooking.
+1. In [**Dǐng ䷱**](e9bc8eding.md) we have (symbolically) the figure of a caldron. (We see) the (symbol of) wood entering into that of fire, which suggests the idea of cooking.
 
 ###### p. 255
 
@@ -254,7 +254,7 @@ When change thus takes place in the proper way, 'occasion for repentance disappe
 
 ###### p. 256
 
-all within a hundred lî:'--it startles the distant and frightens the near.
+all within a hundred lî:' -- it startles the distant and frightens the near.
 
 'He will be like the sincere worshipper, who is not startled into letting go his ladle and cup of sacrificial spirits:'--he makes his appearance, and maintains his ancestral temple and the altars of the spirits of the land and grain, as presiding at all sacrifices.
 
