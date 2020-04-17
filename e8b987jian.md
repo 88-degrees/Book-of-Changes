@@ -32,7 +32,7 @@ There will be good fortune, and it will be advantageous to meet with the great m
 
 ## Notes
 
-**Jiǎn ䷦** is the symbol for incompetency in the feet and legs, involving difficulty in walking; hence it is used in this hexagram to indicate a state of the kingdom which makes the government of it an arduous task. How this task may be successfully performed, now by activity on the part of the ruler, and now by a discreet inactivity: -- this is what the figure teaches, or at least gives hints about. For the development of the meaning of the symbolic character from the structure of the lineal figure, see Appendixes I and II.
+**Jiǎn ䷦** is the symbol for incompetency in the feet and legs, involving difficulty in walking; hence it is used in this hexagram to indicate a state of the kingdom which makes the government of it an arduous task. How this task may be successfully performed, now by activity on the part of the ruler, and now by a discreet inactivity: -- this is what the figure teaches, or at least gives hints about. For the development of the meaning of the symbolic character from the structure of the lineal figure, see [Appendixes I](appendix01s1.md) and [II](appendix02s1.md).
 
 The Thwan seems to require three things -- attention to place, the presence of the great man, and the firm observance of correctness -- in order to cope successfully with the difficulties of the situation. The first thing is enigmatically expressed, and the language should be compared with what we find in the Thwan of hexagrams 2 and 40. Referring to [Figure 2, in Plate III](https://www.zinhome.com/product_images/uploaded_images/bagua.png), we find that, according to Win's arrangement of the trigrams, the southwest is occupied by **Kūn** ( **☷** ), and the north-east by **Gen** ( **☶** ). The former represents the champaign country; the latter, the mountainous region. The former is easily traversed and held; the latter, with difficulty. The attention to place thus becomes transformed into a calculation of circumstances; those that promise success in an enterprise, which should be taken advantage of, and those that threaten difficulty and failure, which should be shunned.
 
@@ -50,6 +50,6 @@ Line 4 is weak, and, though in its proper place, its subject could do little of 
 
 Line 5 is the king, the man great and strong. He can cope with the difficulties, and the subjects of 2 and the other lines of the lower trigram give their help.
 
-The action of the hexagram is over; where can the weak 6 go forward to? Let him abide where he is, and serve the great man immediately below him. So shall he also be great;--in meritorious action at least.
+The action of the hexagram is over; where can the weak 6 go forward to? Let him abide where he is, and serve the great man immediately below him. So shall he also be great; -- in meritorious action at least.
 
 # [蹇](./e8b987jian_cn.md)
