@@ -1,10 +1,10 @@
 # Qian ䷎
 
-Chinese: qiān 谦 ䷎
-
-![Qian](https://88o.io/wp-content/uploads/2018/09/15-e8b0a6qian.jpg)
+> Chinese: 谦 ䷎ qiān
 
 ###### p. 89
+
+![Qian](https://88o.io/wp-content/uploads/2018/09/15-e8b0a6qian.jpg)
 
 **Qiān ䷎** indicates progress and success. The superior man, (being humble as it implies), will have a (good) issue (to his undertakings).
 
