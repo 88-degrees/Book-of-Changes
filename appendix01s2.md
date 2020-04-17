@@ -1,16 +1,20 @@
 ## SECTION II
 
-XXXI.
+###### p. 238
 
-1. Hsien is here used in the sense of Kan, meaning (mutually) influencing.
+<a name="fr_155"></a>[XXXI](#fn_155).
 
-2. The weak (trigram) above, and the strong one below; their two influences moving and responding to each other, and thereby forming a union; the repression (of the one) and the satisfaction (of the other); (with their relative position), where the male is placed below the female:--all these things convey the notion of 'a free and successful course (on the fulfilment of the conditions), while the advantage will depend on being firm and correct, as in marrying a young lady, and there will be good fortune.'
+1. [**Xián ䷞**](e592b8xian.md) (咸) is here used in the sense of **Gǎn** (感), meaning (mutually) influencing.
+
+2. The weak (trigram) above, and the strong one below; their two influences moving and responding to each other, and thereby forming a union; the repression (of the one) and the satisfaction (of the other); (with their relative position), where the male is placed below the female: -- all these things convey the notion of 'a free and successful course (on the fulfilment of the conditions), while the advantage will depend on being firm and correct, as in marrying a young lady, and there will be good fortune.'
 
 3. Heaven and earth exert their influences, and there ensue the transformation and production of all things. The sages influence the minds of men, and the result is harmony and peace all under the sky. If we look at (the method and issues) of those influences, the true character of heaven and earth and of all things can be seen.
 
-XXXII.
+<a name="fr_156"></a>[XXXII](#fn_156).
 
 1. Hăng denotes long continuance. The strong (trigram) is above, and the weak one below; (they are the symbols of) thunder and wind,
+
+###### p. 239
 
 which are in mutual communication; (they have the qualities of) docility and motive force; their strong and weak (lines) all respond, each to the other:--these things are all found in Hăng.
 
@@ -324,7 +328,7 @@ p. 266
 
 'Its tail gets immersed. There will be no advantage in any way:'--there is not at the end a continuance (of the purpose) at the beginning. Although the places (of the different lines) are not those appropriate to them, yet a strong (line) and a weak (line always) respond to each other.
 
-Footnotes
+## Footnotes
 
 238:XXXI Paragraph 2. Tui, the upper trigram, is weak and yin; and Kăn, the lower, is strong and yang; see Appendixes III, ii, 4, and V, 10. Kăn is below Tui; whereas the subject of the lower trigram should always take the initiative in these figures.
 
