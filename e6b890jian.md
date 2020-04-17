@@ -1,12 +1,16 @@
-# Jian ䷴
+# Jiàn ䷴
 
-Chinese: jiàn 渐 ䷴
+> Chinese: 渐 ䷴ jiàn
+
+###### p. 178
 
 ![Jian](https://88o.io/wp-content/uploads/2018/09/53-e6b890jian.jpg)
 
-**Jian** suggests to us the marriage of a young lady, and the good fortune (attending it). There will be advantage in being firm and correct.
+**Jiàn ䷴** suggests to us the marriage of a young lady, and the good fortune (attending it). There will be advantage in being firm and correct.
 
 1. The first SIX, divided, shows the wild geese gradually approaching the shore. A young officer (in similar circumstances) will be in a position of danger, and be spoken against; but there will be no error.
+
+###### p. 179
 
 2. The second SIX, divided, shows the geese gradually approaching the large rocks, where they eat and drink joyfully and at ease. There will be good fortune.
 
@@ -20,7 +24,7 @@ Chinese: jiàn 渐 ䷴
 
 ## Notes
 
-**Jian** ( ䷴ ) is ordinarily used in the sense of gradually; but there is connected with that the idea also of progress or advance. The element of meaning in the character is the symbol of water; and the whole of it denotes gradual advance, like the soaking in of water. Three hexagrams contain in them the idea of advance, **Jin** ( [䷢](e6998bjin.md) ), **Shēng** ([䷭](e58d87sheng.md)), and this **Jian** ( ䷴ ); but each has its peculiarity of meaning, and that of Kien is the gradual manner in which the advance takes place. The subject then of the hexagram is the advance of men to offices in the state, how it should take place gradually and by successive steps, as well as on certain other conditions that may be gathered from the Text. P. Regis gives this exposition of the subject, as taken by him from the symbolism, which he ascribes to Confucius: -- 'Viri probi, seu republica digni, in virtutis soliditate instituendi sunt a sapiente, bonisque regulis ut altis radicibus firmandi, nec alii ad rempublicam tractandam promovendi, nisi qui paulatim per varios minoresque gradus ad magnum hoc regimen periculo facto ascendere digni sint.' He then illustrates this sentiment by the words of Pliny: -- 'Eligetur multis experimentis eruditus, et qui futura possit ex praeteritis praevidere.'
+**Jiàn ䷴** is ordinarily used in the sense of gradually; but there is connected with that the idea also of progress or advance. The element of meaning in the character is the symbol of water; and the whole of it denotes gradual advance, like the soaking in of water. Three hexagrams contain in them the idea of advance, [**Jìn ䷢**](e6998bjin.md), [**Shēng ䷭**](e58d87sheng.md), and this **Jiàn ䷴**; but each has its peculiarity of meaning, and that of Kien is the gradual manner in which the advance takes place. The subject then of the hexagram is the advance of men to offices in the state, how it should take place gradually and by successive steps, as well as on certain other conditions that may be gathered from the Text. P. Regis gives this exposition of the subject, as taken by him from the symbolism, which he ascribes to Confucius: -- 'Viri probi, seu republica digni, in virtutis soliditate instituendi sunt a sapiente, bonisque regulis ut altis radicibus firmandi, nec alii ad rempublicam tractandam promovendi, nisi qui paulatim per varios minoresque gradus ad magnum hoc regimen periculo facto ascendere digni sint.' He then illustrates this sentiment by the words of Pliny: -- 'Eligetur multis experimentis eruditus, et qui futura possit ex praeteritis praevidere.'
 
 But how does the lineal figure give the idea of a gradual advance? We shall see how it is attempted in the Great Symbolism to get this from the component trigrams. The account there is not satisfactory; and still less so is what else I have been able to find on the subject. E. g., the trigrams were originally Khwăn and Khien; but the third line of Khwăn and the first of Khien have changed places; and the trigrams now denote 'the youngest son,' and 'the eldest daughter.' If all this, which is a mere farrago, were admitted, it would not help us to the idea of an advance.
 
