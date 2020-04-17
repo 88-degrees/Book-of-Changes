@@ -9,7 +9,11 @@
 **Jié ䷻** intimates that (under its conditions) there will be progress and attainment.
 (But) if the regulations (which it prescribes) be severe and difficult, they cannot be permanent.
 
-1. The first NINE, undivided, shows its subject not quitting the courtyard outside his door. There will be no error.
+1. The first NINE, undivided, shows its subject not
+
+###### p. 198
+
+quitting the courtyard outside his door. There will be no error.
 
 2. The second NINE, undivided, shows its subject not quitting the courtyard inside his gate. There will be evil.
 
