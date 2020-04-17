@@ -1,6 +1,6 @@
 # Shì Kè ䷔
 
-Chinese: 噬嗑 ䷔ shì kè
+> Chinese: 噬嗑 ䷔ shì kè
 
 ![Shike](https://88o.io/wp-content/uploads/2018/09/21-e599ace59791shike.jpg)
 
@@ -9,6 +9,8 @@ Chinese: 噬嗑 ䷔ shì kè
 1. The first NINE, undivided, shows one with his feet in the stocks and deprived of his toes. There will be no error.
 
 2. The second SIX, divided, shows one biting through the soft flesh, and (going on to) bite off the nose. There will be no error.
+
+###### p. 102
 
 3. The third SIX, divided, shows one gnawing dried flesh, and meeting with what is disagreeable. There will be occasion for some small regret, but no (great) error.
 
