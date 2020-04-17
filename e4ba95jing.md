@@ -1,16 +1,24 @@
-# Jing
+# Jǐng ䷯
 
-Chinese: jǐng 井
+> Chinese: 井 ䷯ jǐng
+
+###### p. 164
 
 ![Jing](https://88o.io/wp-content/uploads/2018/09/48-e4ba95jing.jpg)
 
-(Looking at) **Jing**, (we think of) how (the site of) a town may be changed, while (the fashion of) its wells undergoes no change. (The water of a well) never disappears and never receives (any great) increase, and those who come and those who go can draw and enjoy the benefit. If (the drawing) have nearly been accomplished, but, before the rope has quite reached the water, the bucket is broken, this is evil.
+(Looking at) **Jǐng ䷯**, (we think of) how (the site of) a town may be changed, while (the fashion of) its
+
+###### p. 165
+
+wells undergoes no change. (The water of a well) never disappears and never receives (any great) increase, and those who come and those who go can draw and enjoy the benefit. If (the drawing) have nearly been accomplished, but, before the rope has quite reached the water, the bucket is broken, this is evil.
 
 1. The first SIX, divided, shows a well so muddy that men will not drink of it; or an old well to which neither birds (nor other creatures) resort.
 
 2. The second NINE, undivided, shows a well from which by a hole the water escapes and flows away to the shrimps (and such small creatures among the grass), or one the water of which leaks away from a broken basket.
 
 3. The third NINE, undivided, shows a well, which has been cleared out, but is not used. Our hearts are sorry for this, for the water might be drawn out and used. If the king were (only) intelligent, both he and we might receive the benefit of it.
+
+###### p. 166
 
 4. The fourth SIX, divided, shows a well, the lining of which is well laid. There will be no error.
 
@@ -20,9 +28,9 @@ Chinese: jǐng 井
 
 # Notes
 
-**Jing**, which gives its name to this hexagram, is the symbol of a well. The character originally was pictorial (井), intended to represent a portion of land, divided into nine parts, the central portion belonging to the government, and being cultivated by the joint labour of the eight families settled on the other divisions. In the centre of it, moreover, was a well, which was the joint property of all the occupants.
+**Jǐng ䷯**, which gives its name to this hexagram, is the symbol of a well. The character originally was pictorial (井), intended to represent a portion of land, divided into nine parts, the central portion belonging to the government, and being cultivated by the joint labour of the eight families settled on the other divisions. In the centre of it, moreover, was a well, which was the joint property of all the occupants.
 
-What is said on **Jing** might be styled 'Moralisings on a well,' or Lessons to be learned from a well for the good order and government of a country.' What a well is to those in its neighbourhood, and indeed to men in general, that is government to a people. If rulers would only rightly appreciate the principles of government handed down from the good ages of the past, and faithfully apply them to the regulation of the present, they would be blessed themselves and their people with them.
+What is said on **Jǐng ䷯** might be styled 'Moralisings on a well,' or Lessons to be learned from a well for the good order and government of a country.' What a well is to those in its neighbourhood, and indeed to men in general, that is government to a people. If rulers would only rightly appreciate the principles of government handed down from the good ages of the past, and faithfully apply them to the regulation of the present, they would be blessed themselves and their people with them.
 
 In the Thwan we have the well, substantially the same through many changes of society; a sure source of dependance to men, for their refreshment and for use in their cultivation of the ground. Its form is what I have seen in the plains of northern China; what may be seen among ourselves in many places in Europe. It is deep, and the water is drawn up by a vessel let down from the top; and the value of the well depends on the water being actually raised. And so the principles of government must be actually carried out.
 
