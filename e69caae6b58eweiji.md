@@ -1,10 +1,10 @@
-# Weiji ䷿
+# Wèi Jì ䷿
 
-Chinese: wèi jì 未济 ䷿
+Chinese: 未济 ䷿ wèi jì
 
 ![Weiji](https://88o.io/wp-content/uploads/2018/09/64-e69caae6b58eweiji.jpg)
 
-**Weiji** intimates progress and success (in the circumstances which it implies).
+**Wèi Jì ䷿** intimates progress and success (in the circumstances which it implies).
 (We see) a young fox that has nearly crossed (the stream), when its tail gets immersed. There will be no advantage in any way.
 
 1. The first SIX, divided, shows its subject (like a fox) whose tail gets immersed. There will be occasion for regret.
@@ -24,8 +24,8 @@ There will be no error. (If he) cherish this confidence, till he (is like the fo
 
 ## Notes
 
-**Weiji** (䷿) is the reverse of **Jiji** ([䷾](e697a2e6b58ejiji.md)). The name tells us that the successful accomplishment of whatever the writer had in his mind had not yet been realised.
-The vessel of the state has not been brought across the great and dangerous stream. Some have wished that the Yî might have concluded with **Jiji** ([䷾](e697a2e6b58ejiji.md)),
+**Wèi Jì ䷿** is the reverse of [**Jì Jì ䷾**](e697a2e6b58ejiji.md). The name tells us that the successful accomplishment of whatever the writer had in his mind had not yet been realised.
+The vessel of the state has not been brought across the great and dangerous stream. Some have wished that the Yî might have concluded with [**Jì Jì ䷾**](e697a2e6b58ejiji.md),
 and the last hexagram have left us with the picture of human affairs all brought to good order. But this would not have been in harmony with the idea of the Yî, as the book of changes. Again and again it has been pointed out that we find in it no idea of a perfect and abiding state. just as the seasons of the year change and pursue an ever-recurring round, so is it with the phases of society. The reign of order has been, and has terminated; and this hexagram calls us to see the struggle for its realisation recommenced. It treats of how those engaged in that struggle should conduct themselves with a view to secure the happy consummation.
 
 How the figure sets forth the state of things by its constituent trigrams will appear in [Appendix II](appendix02.md). A similar indication is supposed to be given by the lines, not one of which is in the correct place; the strong lines being all in even places, and t he weak lines in odd. At the same time each of them has a proper correlate; and so the figure gives an intimation of some successful progress. See also [Appendix I](appendix01.md).
