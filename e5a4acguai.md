@@ -1,10 +1,16 @@
-# Guai ䷪
+# Guài ䷪
 
-Chinese: guài 夬 ䷪
+> Chinese: 夬 ䷪ guài
+
+###### p. 151
 
 ![Guai](https://88o.io/wp-content/uploads/2018/09/43-e5a4acguai.jpg)
 
-**Guai** requires (in him who would fulfil its meaning) the exhibition (of the culprit's guilt) in the royal court, and a sincere and earnest appeal (for sympathy and support), with a consciousness of the peril (involved in cutting off the criminal). He should (also) make announcement in his own city, and show that it will not be well to have recourse at once to arms. (In this way) there will be advantage in whatever he shall go forward to.
+**Guài ䷪** requires (in him who would fulfil its meaning) the exhibition (of the culprit's guilt) in the royal court, and a sincere and earnest appeal (for sympathy
+
+###### p. 152
+
+and support), with a consciousness of the peril (involved in cutting off the criminal). He should (also) make announcement in his own city, and show that it will not be well to have recourse at once to arms. (In this way) there will be advantage in whatever he shall go forward to.
 
 1. The first NINE, undivided, shows its subject in (the pride of) strength advancing with his toes. He goes forward, but will not succeed. There will be ground for blame.
 
@@ -20,17 +26,17 @@ Chinese: guài 夬 ䷪
 
 ## Notes
 
-In **Guai** we have the hexagram of the third month, when the last remnant, cold and dark, of winter, represented by the sixth line,
+In **Guài ䷪** we have the hexagram of the third month, when the last remnant, cold and dark, of winter, represented by the sixth line,
 is about to disappear before the advance of the warm and bright days of the approaching summer.
 In the yin line at the top king Wăn saw the symbol of a small or bad man, a feudal prince or high minister,
 lending his power to maintain a corrupt government, or, it might be, a dynasty that was waxen old and ready to vanish away;
 and in the five undivided lines he saw the representatives of good order, or, it might be, the dynasty which was to supersede the other.
-This then is the subject of the hexagram,--how bad men, statesmen corrupt and yet powerful, are to be put out of the way.
+This then is the subject of the hexagram, -- how bad men, statesmen corrupt and yet powerful, are to be put out of the way.
 And he who would accomplish the task must do so by the force of his character more than by force of arms, and by producing a general sympathy on his side.
 
 The Thwan says that he must openly denounce the criminal in the court, seek to awaken general sympathy, and at the same time go about his enterprise, conscious of its difficulty and danger. Among his own adherents, moreover, as if it were in his own city, he must make it understood how unwillingly he takes up arms. Then let him go forward, and success will attend him.
 
-Line 1 is strong, the first line of that trigram, which expresses the idea of strength. But it is in the lowest place. The stage of p. 154 the enterprise is too early, and the preparation too small to make victory certain. Its subject had better not take the field.
+Line 1 is strong, the first line of that trigram, which expresses the idea of strength. But it is in the lowest place. The stage of [p. 154](e5a7a4gou.md#p-154) the enterprise is too early, and the preparation too small to make victory certain. Its subject had better not take the field.
 
 Line 2 is strong, and central, and its subject is possessed with the determination to do his part in the work of removal. But his eagerness is tempered by his occupancy of an even place; and he is cautious, and no attempts, however artful, to harm him will take effect.
 
