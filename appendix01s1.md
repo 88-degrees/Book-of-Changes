@@ -164,7 +164,7 @@ the superior man appears increasing, and that of the small man decreasing.
 
 <a name="fr_141"></a>[XVII](#fn_141).
 
-1. In [**Suí ䷐**](e99a8fsui.md) we see the strong (trigram) come and place itself under the weak; we see (in the two) the attributes of movement and pleasure: -- this gives (the idea of) Sui.
+1. In [**Suí ䷐**](e99a8fsui.md) we see the strong (trigram) come and place itself under the weak; we see (in the two) the attributes of movement and pleasure: -- this gives (the idea of) [**Suí ䷐**](e99a8fsui.md).
 
 2. 'There will be great progress and success; and through firm correctness no error:' -- all under heaven will be found following at such a time.
 
@@ -308,7 +308,7 @@ rivers, hills, and mounds. Kings and princes arrange by means of such strengths,
 
 <a name="fn_124"></a>[`213:1`](#fr_124) The name **Thwan**, and the meaning of the character so-called, are sufficiently established. The Thwan are king Wăn's explanations of the entire hexagrams. It seems impossible now to p. 214 ascertain how the character arose, and how it was named Thwan. The treatise on the Thwan is ascribed to Confucius; and I have considered in the Introduction, [p. 30](https://www.sacred-texts.com/ich/icintr03.htm), whether the tradition to this effect may to any extent be admitted.
 
-<a name="fn_125"></a>[`214:I`](#fr_125) The hexagram [**Qián ䷀**](./e4b9beqian.md) is made up of six undivided lines, or of the trigram [**Qián ䷀**](./e4b9beqian.md), Fû-hsî's symbol for heaven, repeated. The Thwan does not dwell upon this, but starts, in its exposition, from the word 'heaven,' supposing that the hexagram represented all the meaning which had ever been intended by that term. In paragraphs 1, 2, 4 the four attributes in Wăn's Text (2 being occupied with the second, though it is not expressly named) are illustrated by the phenomena taking place in the physical world.
+<a name="fn_125"></a>[`214:I`](#fr_125) The hexagram [**Qián ䷀**](./e4b9beqian.md) is made up of six undivided lines, or of the trigram [**Qián ䷀**](./e4b9beqian.md), Fúxī's symbol for heaven, repeated. The Thwan does not dwell upon this, but starts, in its exposition, from the word 'heaven,' supposing that the hexagram represented all the meaning which had ever been intended by that term. In paragraphs 1, 2, 4 the four attributes in Wăn's Text (2 being occupied with the second, though it is not expressly named) are illustrated by the phenomena taking place in the physical world.
 
 In paragraphs 3 and 5, the subject is the sage. He is not named indeed; and Khung Ying-tâ (A. D. 574-648) does not introduce him till paragraph 5, when the meaning necessitates the presence of a human agent, who rules in the world of men as heaven does in that of nature. The 'connexion between the end and the beginning,' which he sees, is that of cause and effect in the operations of nature and the course of human affairs. The various steps in that course are symbolised by the lines of the hexagram; and the ideal sage, conducting his ideal government, taking his measures accordingly, is represented as driving through the sky in a carriage drawn by six dragons. Kû Hsî extravagantly says that 'the sage is Heaven, and Heaven is the sage;' but there is nothing like this in the text.
 
