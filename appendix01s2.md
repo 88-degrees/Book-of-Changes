@@ -464,7 +464,7 @@ The explanations in paragraph 2 of the phraseology of the **Tuàn** p. 245 are n
 
 1. The last clause of paragraph 1 is good in itself, showing that the strong and worthy statesman in removing a bad man from the state is not actuated by arty private feelings. The sentiment, however, as it is expressed, can hardly be said to follow from the symbolism.
 
-2. Paragraph 2. The same may be said of all the notes appended to the different clauses of this second paragraph. Hû Ping-wăn (Yuán dynasty) says: -- 'If but a single small man be left, he is sufficient to make the superior man anxious; if but a single inordinate desire be left in the mind, that is sufficient to disturb the harmony of heavenly principles. The eradication in both oases must be complete, before the labour is ended.'
+2. Paragraph 2. The same may be said of all the notes appended to the different clauses of this second paragraph. [Hú Bǐng-wén](http://bec001.web3.ncku.edu.tw/var/file/142/1142/img/2248/5802.pdf) (Yuán dynasty) says: -- 'If but a single small man be left, he is sufficient to make the superior man anxious; if but a single inordinate desire be left in the mind, that is sufficient to disturb the harmony of heavenly principles. The eradication in both oases must be complete, before the labour is ended.'
 
 <a name="fn_168"></a>[250:XLIV](#fr_168)
 
