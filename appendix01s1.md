@@ -70,9 +70,9 @@ of progress (suggested by these) give (the idea in) [**Méng ䷃**](e89299meng.m
 
 <a name="fr_130"></a>[VI](#fn_130).
 
-1. The upper portion of [**Sòng ䷅**](e8aebcsong.md) is (the trigram ☰ representing) strength, and the lower (☵ that representing) peril. (The coming together of) strength and peril gives (the idea in) [**Sòng ䷅**](e8aebcsong.md).
+1. The upper portion of [**Sòng ䷅**](e8aebcsong.md) is (the trigram **☰** representing) strength, and the lower (**☵** that representing) peril. (The coming together of) strength and peril gives (the idea in) [**Sòng ䷅**](e8aebcsong.md).
 
-2. '[**Sòng ䷅**](e8aebcsong.md) intimates how, though there is sincerity in one's contention, he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution, there will be good fortune:' -- a strong (line) has come and got the central place (in the lower trigram).
+2. '[**Sòng ䷅**](e8aebcsong.md) intimates how, though there is sincerity in one's contention, he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution, there will be good fortune:' **⚊** a strong (line) has come and got the central place (in the lower trigram **☵**).
 
 'If he must prosecute the contention to the (bitter) end, there will be evil:' -- contention is not a thing to be carried on to extremity.
 
@@ -86,7 +86,7 @@ of progress (suggested by these) give (the idea in) [**Méng ䷃**](e89299meng.m
 
 1. (The name) [**Shī ䷆**](e5b888shi.md) describes the multitude (of the host). The 'firmness and correctness' (which the hexagram indicates) refer to (moral) correctness (of aim). When (the mover) is able to use the multitude with such correctness, he may attain to the royal sway.
 
-2. There is (the symbol of) strength in the centre (of the trigram below), and it is responded to (by its proper correlate above). The action gives rise to perils, but is in accordance (with the best sentiments of men). (Its mover) may by such action distress all the country, but the people will follow him; -- there will be good fortune, and what error should there be?
+2. There is (the symbol of) strength in the centre (of the trigram **☵** below), and it is responded to (by its proper correlate above). The action gives rise to perils, but is in accordance (with the best sentiments of men). (Its mover) may by such action distress all the country, but the people will follow him; -- there will be good fortune, and what error should there be?
 
 <a name="fr_132"></a>[VIII](#fn_132).
 
@@ -94,13 +94,13 @@ of progress (suggested by these) give (the idea in) [**Méng ䷃**](e89299meng.m
 
 ###### p. 221
 
-2. 'Let (the principal party intended in it) reexamine himself, (as if) by divination, whether his virtue be great, unintermitting, and firm;--if it be so, there will be no error: -- all this follows from the position of the strong line in the centre (of the upper trigram). 'Those who have not rest will come to him:' -- high and low will respond to its subject. 'With those who are (too) late in coming it will be ill:' -- (for them) the way (of good fortune here indicated) has been exhausted.
+2. 'Let (the principal party intended in it) reexamine himself, (as if) by divination, whether his virtue be great, unintermitting, and firm; -- if it be so, there will be no error: -- all this follows from the position of the strong line in the centre (of the upper trigram **☵**). 'Those who have not rest will come to him:' -- high and low will respond to its subject. 'With those who are (too) late in coming it will be ill:' -- (for them) the way (of good fortune here indicated) has been exhausted.
 
 <a name="fr_133"></a>[IX](#fn_133).
 
 1. In [**Xiǎo Xù ䷈**](e5b08fe7959cxiaoxu.md) the weak line occupies its (proper) position, and (the lines) above and below respond to it. Hence comes the name of [**Xiǎo Xù ䷈**](e5b08fe7959cxiaoxu.md) (Small Restraint).
 
-2. (It presents the symbols of) strength and flexibility. Strong lines are in the central places, and the will (of their subjects) will have free course. Thus it indicates that there will be progress and success.
+2. (It presents the symbols of) strength **☰** and flexibility **☴**. Strong lines are in the central places, and the will (of their subjects) will have free course. Thus it indicates that there will be progress and success.
 
 3. 'Dense clouds but no rain' indicate the movement (of the strong lines) still going forward. The
 
@@ -112,7 +112,7 @@ of progress (suggested by these) give (the idea in) [**Méng ䷃**](e89299meng.m
 
 1. In [**Lǚ ䷉**](e5b1a5lv.md) we have (the symbol of) weakness treading on (that of) strength.
 
-2. (The lower trigram) indicates pleasure and satisfaction, and responds to (the upper) indicating strength. Hence (it is said), 'He treads on the tail of a tiger, which does not bite him; there will be progress and success.'
+2. (The lower trigram **☱**) indicates pleasure and satisfaction, and responds to (the upper) indicating strength. Hence (it is said), 'He treads on the tail of a tiger, which does not bite him; there will be progress and success.'
 
 3. (The fifth line is) strong, in the centre, and in
 
@@ -120,21 +120,21 @@ of progress (suggested by these) give (the idea in) [**Méng ䷃**](e89299meng.m
 
 its correct place. (Its subject) occupies the God-(given) position, and falls into no distress or failure; -- (his) action will be brilliant.
 
-<a name="fr_135"></a>[XI](#fn_135). 'The little come and the great gone in [**Tài ䷊**](e6b3b0tai.md), and its indication that there will be good fortune with progress and success' show to us heaven and earth in communication with each other, and all things in consequence having free course, and (also) the high and the low, (superiors and inferiors), in communication with one another, and possessed by the same aim. The inner (trigram) is made up of the strong and undivided lines, and the outer of the weak and divided; the inner is (the symbol of) strength, and the outer of docility; the inner (represents) the superior man, and the outer the small man. (Thus) the way of
+<a name="fr_135"></a>[XI](#fn_135). 'The little come and the great gone in [**Tài ䷊**](e6b3b0tai.md), and its indication that there will be good fortune with progress and success' show to us heaven **☰** and earth **☷** in communication with each other, and all things in consequence having free course, and (also) the high and the low, (superiors and inferiors), in communication with one another, and possessed by the same aim. The inner (trigram **☰**) is made up of the strong and undivided lines, and the outer of the weak and divided (trigram **☷**); the inner is (the symbol of) strength, and the outer of docility; the inner (represents) the superior man, and the outer the small man. (Thus) the way of
 
 ###### p. 224
 
 the superior man appears increasing, and that of the small man decreasing.
 
-<a name="fr_136"></a>[XII](#fn_136). 'The want of good understanding between the (different classes of) men in [**Pǐ ䷋**](e590a6pi.md), and its indication as unfavourable to the firm and correct course of the superior man; with the intimation that the great are gone and the little come:' -- all this springs from the fact that in it heaven and earth are not in communication with each other, and all things in consequence do not have free course; and that the high and the low (superiors and inferiors) are not in communication with one another, and there are no (well-regulated) states under the sky. The inner (trigram) is made up of the weak and divided lines, and the outer of the strong and undivided: the inner is (the symbol of) weakness, and the outer of strength; the inner (represents) the small man, and the outer the superior man. Thus the way of the small man appears increasing, and that of the superior man decreasing.
+<a name="fr_136"></a>[XII](#fn_136). 'The want of good understanding between the (different classes of) men in [**Pǐ ䷋**](e590a6pi.md), and its indication as unfavourable to the firm and correct course of the superior man; with the intimation that the great are gone and the little come:' -- all this springs from the fact that in it heaven and earth are not in communication with each other, and all things in consequence do not have free course; and that the high and the low (superiors and inferiors) are not in communication with one another, and there are no (well-regulated) states under the sky. The inner (trigram **☷**) is made up of the weak and divided lines, and the outer of the strong and undivided (trigram **☰**): the inner is (the symbol of) weakness, and the outer of strength; the inner (represents) the small man, and the outer the superior man. Thus the way of the small man appears increasing, and that of the superior man decreasing.
 
 ###### p. 225
 
-<a name="fr_137"></a>[XIII](#fn_137). 1. In [**Tóng Rén ䷌**](e5908ce4babatongren.md) the weak (line) has the place (of influence), the central place, and responds to (the corresponding line in) [**Qián ䷀**](./e4b9beqian.md) (above); hence comes its name of [**Tóng Rén ䷌**](e5908ce4babatongren.md) (or 'Union of men').
+<a name="fr_137"></a>[XIII](#fn_137). 1. In [**Tóng Rén ䷌**](e5908ce4babatongren.md) the weak (line) has the place (of influence), the central place (**☲**), and responds to (the corresponding line in) [**Qián ䷀**](./e4b9beqian.md) (above); hence comes its name of [**Tóng Rén ䷌**](e5908ce4babatongren.md) (or 'Union of men').
 
 2. [**Tóng Rén ䷌**](e5908ce4babatongren.md) says: --
 
-3. The language, '[**Tóng Rén ䷌**](e5908ce4babatongren.md) appears here (as we find it) in (the remote districts of) the country, indicating progress and success, and that it will be advantageous to cross the great stream,' is moulded by its containing the strength (symbolled) in [**Qián ䷀**](./e4b9beqian.md). (Then) we have (the trigram indicating) elegance and intelligence, supported by (that indicating) strength; with the line in the central, and its correct, position, and responding (to the corresponding line above): -- (all representing) the correct course of the superior man. It is only the superior man who can comprehend and affect the minds of all under the sky.
+3. The language, '[**Tóng Rén ䷌**](e5908ce4babatongren.md) appears here (as we find it) in (the remote districts of) the country, indicating progress and success, and that it will be advantageous to cross the great stream,' is moulded by its containing the strength (symbolled) in **Qián ☰**. (Then) we have (the trigram indicating) elegance and intelligence, supported by (that indicating) strength; with the line in the central, and its correct, position, and responding (to the corresponding line above): -- (all representing) the correct course of the superior man. It is only the superior man who can comprehend and affect the minds of all under the sky.
 
 <a name="fr_138"></a>[XIV](#fn_138).
 
@@ -142,11 +142,11 @@ the superior man appears increasing, and that of the small man decreasing.
 
 ###### p. 226
 
-2. The attributes (of its component trigrams) are strength and vigour with elegance and brightness. (The ruling line in it) responds to (the ruling line in the symbol of) heaven, and (consequently) its action is (all) at the proper times. In this way (it is said to) indicate great progress and success.
+2. The attributes (of its component trigrams **☰ ☲**) are strength and vigour with elegance and brightness. (The ruling line in it) responds to (the ruling line in the symbol of) heaven, and (consequently) its action is (all) at the proper times. In this way (it is said to) indicate great progress and success.
 
 <a name="fr_139"></a>[XV](#fn_139).
 
-1. [**Qiān ䷎**](e8b0a6qian.md) indicates progress and success. It is the way of heaven to send down its beneficial influences below, where they are brilliantly displayed. It is the way of earth, lying low, to send its influences upwards and (there) to act.
+1. [**Qiān ䷎**](e8b0a6qian.md) indicates progress and success. It is the way of heaven to send down its beneficial influences below, where they are brilliantly displayed. It is the way of earth **☰**, lying low, to send its influences upwards and (there) to act.
 
 2. It is the way of heaven to diminish the full and augment the humble. It is the way of earth to overthrow the full and replenish the humble. Spiritual Beings inflict calamity on the full and bless the humble. It is the way of men to hate the full and love the humble. Humility in a position of honour makes that still more brilliant; and in a low position men will not (seek to) pass beyond it. Thus it is that 'the superior man will have a (good) issue (to his undertakings).'
 
