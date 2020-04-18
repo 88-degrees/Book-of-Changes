@@ -33,7 +33,7 @@ Line 1 is a strong line in its proper place. The danger is that its subject may 
 
 Line 2, as strong, should be in an odd place; but this is more than counterbalanced by the central position, and its correlate in line 5.
 
-Line 3 is weak, and neither central, nor in its correct position. Hence its action will not be advantageous; but being at the top of the trigram [**Duì ䷹**](e58591dui.md), which means being pleased, its subject is represented as 'well pleased to advance.' Anxious reflection will save him from error.
+Line 3 is weak, and neither central, nor in its correct position. Hence its action will not be advantageous; but being at the top of the trigram **Duì ☱**, which means being pleased, its subject is represented as 'well pleased to advance.' Anxious reflection will save him from error.
 
 Line 4, though weak, is in its proper place, and has for its correlate the strong 1. Hence its advance is 'in the highest style.'
 
