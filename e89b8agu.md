@@ -1,6 +1,8 @@
 # Gǔ ䷑
 
-Chinese: gǔ 蛊 ䷑
+> Chinese: 蛊 ䷑ gǔ
+
+###### p. 95
 
 ![Gu](https://88o.io/wp-content/uploads/2018/09/18-e89b8agu.jpg)
 
@@ -13,7 +15,11 @@ There will be advantage in (efforts like that of) crossing the great stream. (He
 
 3. The third NINE, undivided, shows (a son) dealing with the troubles caused by his father. There may be some small occasion for repentance, but there will not be any great error.
 
-4. The fourth SIX, divided, shows (a son) viewing indulgently the troubles caused by his father. If he go forward, he will find cause to regret it.
+4. The fourth SIX, divided, shows (a son) viewing
+
+###### p. 96
+
+indulgently the troubles caused by his father. If he go forward, he will find cause to regret it.
 
 5. The fifth SIX, divided, shows (a son) dealing with the troubles caused by his father. He obtains the praise of using (the fit instrument for his work).
 
