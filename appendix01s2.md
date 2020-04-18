@@ -408,7 +408,7 @@ trigrams). Hence it is said, 'There may be some small attainment and progress. I
 
 'Movement in any direction,' as explained in paragraph 3, indicates the ever-occurring new modes and spheres of activity, to which he who is firm and correct is called.
 
-Paragraph 4, and especially its concluding sentence, are of a meditative and reflective character not uncommon in the treatise on the **Thwan**.
+Paragraph 4, and especially its concluding sentence, are of a meditative and reflective character not uncommon in the treatise on the **Tuàn**.
 
 <a name="fn_157"></a>[240:XXXIII](#fr_157) 'The superior man,' it is said, 'advances or withdraws according to the character of the time. The strength and correct position of the fifth line show that he is able to maintain himself; and as it is responded to by the weak second line, no opposition to what is correct in him would come from any others. He might therefore keep his place; but looking at the two weak lines, 1 and 2, he recognises in them the advance and irrepressible progress of small men, and that for a time it is better for him to give way and withdraw from the field. Thus there is successful progress even in his retiring.'
 
@@ -422,7 +422,7 @@ Paragraph 2. That which is great (should be) correct: -- that the 'should be' mu
 
 King Wăn was not of the line of Shang. Though opposed and persecuted by its sovereign, he could pursue his own course, till his line came in the end to supersede the other. It could not be so with the count of Kî, who was a member of the House of Shang. He could do nothing that would help on its downfall.
 
-<a name="fn_161"></a>[242:XXXVII](#fr_161) Paragraph 1 first explains the statement of the [p. 243](#p-243) Thwan, about the wife, represented by line 2; and then proceeds to the husband, represented by line 5. The two trigrams become representative of the family circle, and the wide world without it. In the reference to heaven and earth it is not supposed that they are really husband and wife; but in their relation and positions they symbolise that social relation and the individuals in it.
+<a name="fn_161"></a>[242:XXXVII](#fr_161) Paragraph 1 first explains the statement of the [p. 243](#p-243) **Tuàn**, about the wife, represented by line 2; and then proceeds to the husband, represented by line 5. The two trigrams become representative of the family circle, and the wide world without it. In the reference to heaven and earth it is not supposed that they are really husband and wife; but in their relation and positions they symbolise that social relation and the individuals in it.
 
 Paragraph 2, more closely rendered, would be -- 'That in Kîa Zăn there is an authoritative ruler is a way of naming father and mother.' Does the writer mean to say that while the assertion of authority was indispensable in a family, that authority must have combined in it both force and gentleness?
 
@@ -434,7 +434,7 @@ The lesson of paragraph 3 is not unity in diversity, but union with diversity.
 
 <a name="fn_163"></a>[244:XXXIX](#fr_163) The upper or front trigram is **Kǎn ☵**, the attribute of which is perilousness; the lower is **Gèn ☶**, of which the arresting, actively or passively, of movement or advance is the attribute. We can understand how the union of these attributes gives the ideas of difficulty and prudent caution.
 
-The explanations in paragraph 2 of the phraseology of the Thwan p. 245 are not all easily followed. It is said that the advantageousness of the south-west is due to the central line in 5; but if we are to look for the meaning of south-west in **Kūn ☷**, as in the diagram of king Wăn's trigrams, there is no strong central line in it. May **Kǎn ☵**, as a yang trigram, be used for **Kūn ☷**?
+The explanations in paragraph 2 of the phraseology of the **Tuàn** p. 245 are not all easily followed. It is said that the advantageousness of the south-west is due to the central line in 5; but if we are to look for the meaning of south-west in **Kūn ☷**, as in the diagram of king Wăn's trigrams, there is no strong central line in it. May **Kǎn ☵**, as a yang trigram, be used for **Kūn ☷**?
 
 <a name="fn_164"></a>[245:XL](#fr_164)
 
@@ -468,15 +468,15 @@ The explanations in paragraph 2 of the phraseology of the Thwan p. 245 are not a
 
 <a name="fn_168"></a>[250:XLIV](#fr_168)
 
-1. On paragraph 1 the Khang-hsî editors say: -- '"The weak line meets with (or comes unexpectedly on) the strong ones;" -- the weak line, that is, plays the principal part. The case is like that of the minister who assumes the power of deciding for himself on all measures, or of a hen's announcing the morning; -- is not the name of (shameless) boldness rightly applied to it? Hence nothing more is said about the symbol of the bold female; but attention is called to the second part of the Thwan.'
+1. On paragraph 1 the Khang-hsî editors say: -- '"The weak line meets with (or comes unexpectedly on) the strong ones;" -- the weak line, that is, plays the principal part. The case is like that of the minister who assumes the power of deciding for himself on all measures, or of a hen's announcing the morning; -- is not the name of (shameless) boldness rightly applied to it? Hence nothing more is said about the symbol of the bold female; but attention is called to the second part of the **Tuàn**.'
 
-2. Paragraph 2 needs no remark. Paragraphs 3, 4, and 5 all speak of the importance of powers and parties meeting together, -- in the world of nature, and in the sphere of human affairs. But I do not see how this sentiment is a natural sequel to that in i and 2, nor that it has any connexion with the teaching of the Thwan and Symbolism.
+2. Paragraph 2 needs no remark. Paragraphs 3, 4, and 5 all speak of the importance of powers and parties meeting together, -- in the world of nature, and in the sphere of human affairs. But I do not see how this sentiment is a natural sequel to that in i and 2, nor that it has any connexion with the teaching of the **Tuàn** and Symbolism.
 
 <a name="fn_169"></a>[251:XLV](#fr_169) The lower trigram in [**Cuì ䷬**](e89083cui.md) is **Kūn ☷**, whose attribute is docile obedience; and the upper is **Duì ☱**, whose attribute is pleased satisfaction. Then we have the strong line in 5, and its proper correlate in 2. These things may give the idea of union. They might also give the idea of other good things.
 
-The Khang-hsî editors say that though all is done in accordance with the ordinances of Heaven' follows the concluding clauses of the Thwan, yet the sentiment of the words must be extended to the other clauses as well. Khăng-žze says that 'the ordinances of Heaven' are simply the natural and practical outcome of 'heavenly principle;' -- in this case what should and may be done according to the conditions and requirements of the time. So do the critics of China try to shirk the idea of personality in 'Heaven.'
+The Khang-hsî editors say that though all is done in accordance with the ordinances of Heaven' follows the concluding clauses of the **Tuàn**, yet the sentiment of the words must be extended to the other clauses as well. Khăng-žze says that 'the ordinances of Heaven' are simply the natural and practical outcome of 'heavenly principle;' -- in this case what should and may be done according to the conditions and requirements of the time. So do the critics of China try to shirk the idea of personality in 'Heaven.'
 
-With paragraph 3, compare the concluding paragraphs of the Thwan Kwan on hexagrams 31 **䷞**, 32 **䷟**.
+With paragraph 3, compare the concluding paragraphs of the [Tuàn Zhuàn](https://en.wikipedia.org/wiki/Ten_Wings) on hexagrams 31 **䷞**, 32 **䷟**.
 
 <a name="fn_170"></a>[252:XLVI](#fr_170) The explanation of the first paragraph has given occasion to much difference of opinion. Some will have 'the weak (line)' to be 4; some 5; and some the whole of **Kūn ☷**, the upper trigram. The advocates of 4, make it come from hexagram 40, the weak 3 of which ascends to the strong 4, displaces it, and takes its place; but we have seen repeatedly the folly of the doctrine of changing lines and figures. The great symbolism of Appendix II suggests the proper explanation. The lower trigram, **Xùn ☴**, represents here not wind but wood. The first line, weak, is the root of a tree planted beneath the earth. Its gradual growth symbolises the advance upwards of the subject of the hexagram, fostered, that is, by the circumstances of the time.
 
@@ -490,7 +490,7 @@ Why should the subject of **Kūn ☷** make speeches, be fond of arguing or plea
 
 <a name="fn_172"></a>[253:XLVIII](#fr_172) Kăng Khang-Khăng says: -- '**Kǎn ☵**, the upper trigram, represents water, and **Xùn ☴**, the lower, wood. This wood denotes the water-wheel or pulley with its bucket, which descends into the mouth of the spring, and brings the water up to the top.' This may be a correct explanation of the figure, though the reading of it from bottom to top seems at first to be strange.
 
-Paragraph 2. That the fashion of the well does not undergo any (great) change is dwelt upon as illustrating the unchangeableness of the great principles of human nature and of government. But that this truth may be learned from the strong and central lines only produces a smile. So do the remarks on the other two sentences of the Thwan.
+Paragraph 2. That the fashion of the well does not undergo any (great) change is dwelt upon as illustrating the unchangeableness of the great principles of human nature and of government. But that this truth may be learned from the strong and central lines only produces a smile. So do the remarks on the other two sentences of the **Tuàn**.
 
 <a name="fn_173"></a>[254:XLIX](#fr_173)
 
@@ -504,21 +504,21 @@ Paragraph 3 tells us how the greatest natural and the greatest political changes
 
 <a name="fn_174"></a>[255:L](#fr_174)
 
-1. See the notes on the Text of the Thwan about the figure of a caldron in [**Dǐng ䷱**](e9bc8eding.md). Its component trigrams are **Xùn ☴** representing wood, and **Lí ☲** representing fire; which may very well suggest the idea of cooking. The last sentence of the paragraph is entirely after the style of 'the Great Symbolism.' The Khang-hsî editors say that the distinction between [**Jǐng ䷯**](e4ba95jing.md) and [**Dǐng ䷱**](e9bc8eding.md) appears here very clearly, the former relating to the nourishment of the people, and the latter to the nourishing men of worth. They add that the reality of the offerings to God is such nourishing. 'God' is here Shang Tî, which Canon McClatchie translates 'the First Emperor,' adding in a note, 'The Chinese Jupiter, the Emperor of gods and men!'
+1. See the notes on the Text of the **Tuàn** about the figure of a caldron in [**Dǐng ䷱**](e9bc8eding.md). Its component trigrams are **Xùn ☴** representing wood, and **Lí ☲** representing fire; which may very well suggest the idea of cooking. The last sentence of the paragraph is entirely after the style of 'the Great Symbolism.' The Khang-hsî editors say that the distinction between [**Jǐng ䷯**](e4ba95jing.md) and [**Dǐng ䷱**](e9bc8eding.md) appears here very clearly, the former relating to the nourishment of the people, and the latter to the nourishing men of worth. They add that the reality of the offerings to God is such nourishing. 'God' is here Shang Tî, which Canon McClatchie translates 'the First Emperor,' adding in a note, 'The Chinese Jupiter, the Emperor of gods and men!'
 
-2. The first sentence deduces the sentiment of the Thwan from the attributes or virtues of the trigrams with considerable amplification of the virtue of **Lí ☲**. The second line of **Lí ☲**, as being divided, calls forth in other hexagrams the same notice as here. It is the most important line in the figure, and being responded to by the strong 2, gives an indication of the 'great progress and success.'
+2. The first sentence deduces the sentiment of the **Tuàn** from the attributes or virtues of the trigrams with considerable amplification of the virtue of **Lí ☲**. The second line of **Lí ☲**, as being divided, calls forth in other hexagrams the same notice as here. It is the most important line in the figure, and being responded to by the strong 2, gives an indication of the 'great progress and success.'
 
 <a name="fn_175"></a>[256:LI](#fr_175)
 
 1. Paragraph 1. See what is said on the Text.
 
-2. The explanations of the. Thwan here are good; but in no way deduced from the figure.
+2. The explanations of the. **Tuàn** here are good; but in no way deduced from the figure.
 
 3. The portion of the text printed in a different type is supposed to have dropt out of the Chinese copies. The explanation of it that follows is based on Wăn's view of Kăn as representing the oldest son. See on the Text.
 
 <a name="fn_176"></a>[256:LII](#fr_176)
 
-1. The Khang-hsî editors give their opinion that what is said in the first sentence of this paragraph, after the explanation of the name, illustrates the first sentence of the Thwan, and that the other sentence illustrates the: rest of the Thwan. It may be so, but the whole of the Thwan appears in paragraph 2.
+1. The Khang-hsî editors give their opinion that what is said in the first sentence of this paragraph, after the explanation of the name, illustrates the first sentence of the **Tuàn**, and that the other sentence illustrates the: rest of the **Tuàn**. It may be so, but the whole of the **Tuàn** appears in paragraph 2.
 
 2. The hexagram being made up of Kăn repeated, lines 1, 2, 3 are of course the same as 4, 5, and 6. But it will be seen that there is not a proper correlation among them all. I do not see, p. 257 however, that this furnishes any ground for the entire obliviousness of self, which the Th wan makes out to be in the figure.
 
@@ -532,7 +532,7 @@ Out of rest comes movement to go on for an indefinite time, and be succeeded by 
 
 1. [**Guī mèi ䷵**](e5bd92e5a6b9guimei.md) in this Appendix has the meaning simply of marriage, and for Mei we might substitute Nü ,'daughter' or 'young lady.' This appears from the writer's going on to point out, as elsewhere, the analogy between the growth of things in nature from the interaction of heaven and earth and the increase of mankind through marriage. He does this with a delicate touch. There is no grossness in the original any more than there is in the translation.
 
-But how are we to reconcile this reference to the action of heaven and earth with the bad auspice of the Thwan? The Khang-hsî editors felt the pressure of this difficulty, and they adduce a similar inconsistency in the account of hexagram 44 **䷫** in this treatise, adding, 'From this we may say that the interaction of the `yīn` and `yáng` cannot be dispensed with, but that we ought to be careful about it in the beginning in order to prevent mischief in the end. This is the doctrine of the `I Ching`.' This is very well, but it is no solution of the difficulty. The editors could not admit that the author of the Appendix did not understand or did not deal fairly with the Text; for that author, they thought, was Confucius.
+But how are we to reconcile this reference to the action of heaven and earth with the bad auspice of the **Tuàn**? The Khang-hsî editors felt the pressure of this difficulty, and they adduce a similar inconsistency in the account of hexagram 44 **䷫** in this treatise, adding, 'From this we may say that the interaction of the `yīn` and `yáng` cannot be dispensed with, but that we ought to be careful about it in the beginning in order to prevent mischief in the end. This is the doctrine of the `I Ching`.' This is very well, but it is no solution of the difficulty. The editors could not admit that the author of the Appendix did not understand or did not deal fairly with the Text; for that author, they thought, was Confucius.
 
 2. The same editors say that paragraph 2 implies both that the desire for the marriage originated with the lady, and that she was aware that the gentleman was older than herself.
 
@@ -542,7 +542,7 @@ But how are we to reconcile this reference to the action of heaven and earth wit
 
 Paragraph 3 seems rather contrary to the lesson of the hexagram. According to it, prosperity cannot be maintained, any more than we can have the other seasons without winter or perpetual day without night; but the object of the essay is to exhort to the maintenance of prosperity. Is it the case that the rise of every commonwealth and cause must be followed by its decay and fall? The mind refuses to admit the changes of the seasons, &c., as a true analogy for all moral and intellectual movements. See an important remark on the concluding sentence in the Introduction, [pp. 34, 35](https://sacred-texts.com/ich/icintr03.htm#page_34).
 
-<a name="fn_180"></a>[260:LVI](#fr_180) What is said in paragraph 1 is intended to explain the Thwan, and not to account for the meaning of the name [**Lǚ ䷷**](e69785lv.md). It is assumed that [**Lǚ ䷷**](e69785lv.md) means a stranger; and the writer from the position of the fifth line, and from the attributes of the component trigrams, derives the ideas of humility, docility, a quiet restfulness, and intelligence as the characteristics proper to a stranger, and which are likely to lead to his attaining what he desires, and then advancing.
+<a name="fn_180"></a>[260:LVI](#fr_180) What is said in paragraph 1 is intended to explain the **Tuàn**, and not to account for the meaning of the name [**Lǚ ䷷**](e69785lv.md). It is assumed that [**Lǚ ䷷**](e69785lv.md) means a stranger; and the writer from the position of the fifth line, and from the attributes of the component trigrams, derives the ideas of humility, docility, a quiet restfulness, and intelligence as the characteristics proper to a stranger, and which are likely to lead to his attaining what he desires, and then advancing.
 
 <a name="fn_181"></a>[260:LVII](#fr_181)
 
@@ -554,13 +554,13 @@ Paragraph 3 seems rather contrary to the lesson of the hexagram. According to it
 
 <a name="fn_183"></a>[262:LIX](#fr_183)
 
-1. This paragraph has been partially anticipated in the notes on the Thwan. The second line is said to suffer 'no extinction,' because the lower trigram is that of peril. The Khang-hsî editors say that the former part of this paragraph shows how the root of the work of the hexagram is strengthened, and the latter part how the execution of that work is secured.
+1. This paragraph has been partially anticipated in the notes on the **Tuàn**. The second line is said to suffer 'no extinction,' because the lower trigram is that of peril. The Khang-hsî editors say that the former part of this paragraph shows how the root of the work of the hexagram is strengthened, and the latter part how the execution of that work is secured.
 
 2. The conclusion of paragraph 2 is, literally, 'The king indeed is in the middle.' This does not mean, as some say, that the king is in the middle of the temple, but that his mind or heart is exactly set on the central truth of what is right and good.
 
 The upper trigram **Xùn ☴** represents both wind and wood. To explain the meaning of [**Huàn ䷺**](e6b6a3huan.md), the significance of wind is taken; the writer here seizes on that of wood, as furnishing materials for a boat in which the great stream can be crossed.
 
-<a name="fn_184"></a>[262:LX](#fr_184) Paragraph 1. See what is said on the Text of the Thwan.
+<a name="fn_184"></a>[262:LX](#fr_184) Paragraph 1. See what is said on the Text of the **Tuàn**.
 
 'Its course will come to an end' is the opposite of the intimation in [**Jié ䷻**](e88a82jie.md) of progress and attainment.
 
@@ -570,7 +570,7 @@ Paragraph 4 illustrates the importance of doing things according to rule by refe
 
 <a name="fn_185"></a>[263:LXI](#fr_185)
 
-1. The structure of the lineal figure which is here insisted on has been pointed out in explaining the Thwan. On what is further said as to the attributes of the trigrams and their effect, Khăng-žze observes: -- 'We have in the sincerity shown in the upper trigram superiors condescending to those below them in accordance with their peculiarities, and we have in that of the lower those below delighted to follow their superiors. The combination of these two things leads to the transformation of the country and state.'
+1. The structure of the lineal figure which is here insisted on has been pointed out in explaining the **Tuàn**. On what is further said as to the attributes of the trigrams and their effect, Khăng-žze observes: -- 'We have in the sincerity shown in the upper trigram superiors condescending to those below them in accordance with their peculiarities, and we have in that of the lower those below delighted to follow their superiors. The combination of these two things leads to the transformation of the country and state.'
 
 2. Paragraph 2. The two divided lines in the middle of the figure are supposed to give the semblance of an empty boat, and an [p. 264](#p-264) empty boat, it is said (with doubtful truth), is not liable to be upset. The trigram Sun symbolises both wind and wood.
 
@@ -584,9 +584,9 @@ It is easy to explain paragraphs 3 and 4, but what is said in them carries no co
 
 The sentiment of paragraph 5 is good, apart from the symbolism, which is only perplexing.
 
-<a name="fn_187"></a>[265:LXIII](#fr_187) For paragraphs 1 and 2, see the note on the Text of the Thwan.
+<a name="fn_187"></a>[265:LXIII](#fr_187) For paragraphs 1 and 2, see the note on the Text of the **Tuàn**.
 
-It is difficult to see the concatenation in paragraph 3 between the sentiment of the Thwan and the nature of the second line. The Khang-hsî editors compare this hexagram and the next with 11 **䷊** and 12 **䷋**, observing that the goodness of [**Tài ䷊**](e6b3b0tai.md) (hexagram 11) is concentrated, as here, in the second line.
+It is difficult to see the concatenation in paragraph 3 between the sentiment of the **Tuàn** and the nature of the second line. The Khang-hsî editors compare this hexagram and the next with 11 **䷊** and 12 **䷋**, observing that the goodness of [**Tài ䷊**](e6b3b0tai.md) (hexagram 11) is concentrated, as here, in the second line.
 
 The sentiment of paragraph 4 is that which we have often met with, -- that things move on with a constant process of change. Disorder succeeds to order, and again order to disorder.
 
