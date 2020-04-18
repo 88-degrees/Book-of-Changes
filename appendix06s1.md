@@ -48,9 +48,9 @@ The rule for the relation of husband and wife is that it should be long-enduring
 
 p. 437
 
-by Sun. But when Sun (or diminution) is going on without end, increase is sure to come. Sun therefore is followed by Yî. When increase goes on without end, there is sure to come a dispersing of it, and hence Yî is followed by Kwâi. Kwâi denotes dispersion. But dispersion must be succeeded by a meeting (again). Hence Kwâi is followed by Kâu, which denotes such meeting.
+by Sun. But when Sun (or diminution) is going on without end, increase is sure to come. Sun therefore is followed by Yî. When increase goes on without end, there is sure to come a dispersing of it, and hence Yî is followed by Kwâi. Kwâi denotes dispersion. But dispersion must be succeeded by a meeting (again). Hence Kwâi is followed by [**Gòu ䷫**](e5a7a4gou.md), which denotes such meeting.
 
-44-48. When things meet together, a collection is then formed. Hence Kâu is followed by Žhui, which name denotes, being collected. When (good men) are collected and mount to the highest places, there results what we call an upward advance; and hence Žhui is followed by Shăng. When such advance continues without stopping, there is sure to come distress; and hence Shăng is followed by Khwăn. When distress is felt in the height (that has been gained), there is sure to be a return to the ground beneath; and hence Khwăn is followed by Žing.
+44-48. When things meet together, a collection is then formed. Hence [**Gòu ䷫**](e5a7a4gou.md) is followed by Žhui, which name denotes, being collected. When (good men) are collected and mount to the highest places, there results what we call an upward advance; and hence Žhui is followed by Shăng. When such advance continues without stopping, there is sure to come distress; and hence Shăng is followed by Khwăn. When distress is felt in the height (that has been gained), there is sure to be a return to the ground beneath; and hence Khwăn is followed by Žing.
 
 48, 49. What happens under Žing requires to be changed, and hence it is followed by Ko (denoting change).
 

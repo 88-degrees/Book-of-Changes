@@ -90,7 +90,7 @@ p. 443
 
 28. And Tâ Kwo's overthrown with sad mischance.
 
-44. Kâu shows a meeting, where the many strong
+44. [**Gòu ䷫**](e5a7a4gou.md) shows a meeting, where the many strong
 
 Are met by one that's weak, yet struggles long.
 

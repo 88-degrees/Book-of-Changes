@@ -305,7 +305,7 @@ I can follow to some extent the first two statements of paragraph 12, so far as 
 
 353:III Chapter III, paragraphs 15-19, gives additional information about the constituent parts of the Yî, that is, the Text of the classic as we have it from [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son. The imperial editors say that it expands the meaning of the fourth paragraph, the third of chapter 2. It does do so, but this account hardly covers all its contents.
 
-To understand the names 'small and great,' as used of the diagrams in paragraphs 17 and 19, it should be noted that hexagrams to which the divided or yin line gives their character are termed 'small,' and those where the undivided or yang line rules are called 'great.' Kâu (44,  ), Thun (33,  ), and Phei (12,  ) are instances of the former class; Fû (24,  ), Lin (19,  ) and Thâi (11,  ), of the other.
+To understand the names 'small and great,' as used of the diagrams in paragraphs 17 and 19, it should be noted that hexagrams to which the divided or yin line gives their character are termed 'small,' and those where the undivided or yang line rules are called 'great.' [**Gòu ䷫**](e5a7a4gou.md) (44,  ), Thun (33,  ), and Phei (12,  ) are instances of the former class; Fû (24,  ), Lin (19,  ) and Thâi (11,  ), of the other.
 
 It is observed by Žhâi Khing (early in the Ming dynasty) that the terms 'diagrams' and 'explanations' must be understood not only of the whole figures but also as embracing the several lines.
 

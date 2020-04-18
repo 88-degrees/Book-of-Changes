@@ -230,9 +230,9 @@ position, there will be no error:'--but his standing in the due mean is not yet 
 
 6. 'There is the misery of having none on whom to call:'--the end will be that he cannot continue any longer.
 
-XLIV. (The trigram representing) wind and that for the sky above it form Kâu. The sovereign, in accordance with this, delivers his charges, and promulgates his announcements throughout the four quarters (of the kingdom).
+XLIV. (The trigram representing) wind and that for the sky above it form [**Gòu ䷫**](e5a7a4gou.md). The sovereign, in accordance with this, delivers his charges, and promulgates his announcements throughout the four quarters (of the kingdom).
 
-1. 'Tied and fastened to a metal drag:'--(this
+1. 'Tied and fastened to a metal drag:' -- (this
 
 p. 322
 
@@ -778,7 +778,7 @@ Line 3 responding, and alone of all the strong lines responding to 6, may appear
 
 The contiguity of line 5 to the divided 6, is supposed to have some bad effect on its subject, so that while he does what his central position requires, it is not without an effort. 'If a man,' says Khăng-žze, 'cherish a single illicit desire in his mind, he has left the right way. The admonition here conveyed is deep.'
 
-322:XLIV Wind, blowing all-under the sky, penetrates everywhere, and produces its natural effect; and it is a good application of this phenomenon that follows; but it has nothing to do with the meaning of Kâu and the interpretation of the hexagram, as taught in the Text. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors perceive this, and deal with the Symbolism after a method of their own, on which it is unnecessary to enter.
+322:XLIV Wind, blowing all-under the sky, penetrates everywhere, and produces its natural effect; and it is a good application of this phenomenon that follows; but it has nothing to do with the meaning of [**Gòu ䷫**](e5a7a4gou.md) and the interpretation of the hexagram, as taught in the Text. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors perceive this, and deal with the Symbolism after a method of their own, on which it is unnecessary to enter.
 
 Paragraph 1. My supplement, 'This describes the arrest of,' is a conclusion from the whole of the Text on the line. All the commentaries have it.
 
