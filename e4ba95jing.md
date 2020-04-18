@@ -38,7 +38,7 @@ Line 1, being weak, and at the very bottom of the figure, suggests, or is made t
 
 Line 2 is strong, and might very well symbolise an active spring, ever feeding the well and, through it, the ground and its cultivators; but it is in an inappropriate place, and has no proper correlate. Its cool waters cannot be brought to the top. So important is it that the ministers of a country should be able and willing rightly to administer its government. In the account of the ancient Shun it is stated that he once saved his life by an opening in the lining of a well.
 
-Line 3 is a strong line, in its proper place; and must represent an able minister or officer. But though the well is clear, no use is made of it. I do not find anything in the figure that can be connected with this fact. The author was wise beyond his lines. After the first sentence of the paragraph, the duke of Kâu ceases from his function of making emblems; reflects and moralises.
+Line 3 is a strong line, in its proper place; and must represent an able minister or officer. But though the well is clear, no use is made of it. I do not find anything in the figure that can be connected with this fact. The author was wise beyond his lines. After the first sentence of the paragraph, the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou) ceases from his function of making emblems; reflects and moralises.
 
 Line 4 is weak, but in its proper place. Its subject is not to be condemned, but neither is he to be praised. He takes care of himself, but does nothing for others.
 
