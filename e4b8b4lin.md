@@ -1,13 +1,19 @@
 # Lín ䷒
 
-Chinese: lín 临 ䷒
+> Chinese: 临 ䷒ lín
+
+###### p. 97
 
 ![Lin](https://88o.io/wp-content/uploads/2018/09/19-e4b8b4lin.jpg)
 
 **Lín ䷒** (indicates that under the conditions supposed in it) there will be great progress and success,
 while it will be advantageous to be firmly correct. In the eighth month there will be evil.
 
-1. The first NINE, undivided, shows its subject advancing in company (with the subject of the second line). Through his firm correctness there will be good fortune.
+1. The first NINE, undivided, shows its subject advancing in company (with the subject of the
+
+###### p. 98
+
+second line). Through his firm correctness there will be good fortune.
 
 2. The second NINE, undivided, shows its subject advancing in company (with the subject of the first line). There will be good fortune; (advancing) will be in every way advantageous.
 
