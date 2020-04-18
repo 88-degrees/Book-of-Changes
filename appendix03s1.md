@@ -116,7 +116,7 @@ Chapter  VII. 36. The Master said:--'Is not the Yî a perfect book?' It was by t
 
 37. Heaven and earth having their positions as assigned to them, the changes (of nature) take place between them. The nature (of man) having been completed, and being continually preserved, it is the gate of all good courses and righteousness.
 
-Chapter  VIII. 38. The sage was able to survey all the complex phenomena under the sky. He then considered in his mind how they could be figured, and (by means of the diagrams) represented their material forms and their character. Hence these (diagrams) are denominated Semblances (or emblematic figures, the Hsiang).
+Chapter  VIII. 38. The sage was able to survey all the complex phenomena under the sky. He then considered in his mind how they could be figured, and (by means of the diagrams) represented their material forms and their character. Hence these (diagrams) are denominated Semblances (or emblematic figures, the [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols)).
 
 39. A (later) sage was able to survey the motive influences working all under the sky. He contemplated them in. their common action and special nature, in order to bring out the standard and proper tendency of each. He then appended his
 
@@ -379,7 +379,7 @@ We may grant what is affirmed in paragraph 58, but does the Yî really give us a
 
 370:X Chapter X, paragraphs 59-65, enlarges on the service rendered to men by the Yî, owing to the way in which it was made by the sages to express their views and carry into effect their wishes.
 
-Paragraph 59 mentions the four things in which its usefulness appears. 'The emblematic figures' are the four hsiang, which are produced by the manipulation of the undivided and divided p. 371 lines, and whose representative numbers are 9, 8, 7, 6. 'Divination' appears in the paragraph as pû-shih, which means 'divination by the tortoise-shell and by the stalks.' But the tortoise-shell had nothing to do with the use of the Yî. Before the composition of these Appendixes the two terms must have been combined to express the practice of divination, without reference to its mode.
+Paragraph 59 mentions the four things in which its usefulness appears. 'The emblematic figures' are the four [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols), which are produced by the manipulation of the undivided and divided p. 371 lines, and whose representative numbers are 9, 8, 7, 6. 'Divination' appears in the paragraph as pû-shih, which means 'divination by the tortoise-shell and by the stalks.' But the tortoise-shell had nothing to do with the use of the Yî. Before the composition of these Appendixes the two terms must have been combined to express the practice of divination, without reference to its mode.
 
 Paragraph 60 speaks of the explanations and prognostications of the Yî. The 'exquisiteness' ascribed to it would be due to the sages who had devised it, and appended their explanations to it; but the whole thing has no existence save in cloud-land.
 

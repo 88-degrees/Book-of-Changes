@@ -20,7 +20,7 @@ p. 381
 
 7. Khien, (the symbol of heaven, and) conveying the idea of strength, shows to men its easy (and natural) action. Khwăn, (the symbol of earth, and) conveying the idea of docility, shows to men its compendious (receptivity and operation).
 
-8. The Yâo (or lines) are imitative representations of this. The Hsiang, or emblematic figures, are pictorial representations of the same.
+8. The Yâo (or lines) are imitative representations of this. The [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols), or emblematic figures, are pictorial representations of the same.
 
 9. The movements of the lines and figures take place (at the hand of the operator), and are unseen; the good fortune or ill is seen openly and is beyond. The work to be done appears by the changes; the sympathies of the sages are seen in their explanations.
 
@@ -234,7 +234,7 @@ Footnotes
 
 381:I Chapter I, paragraphs 1-10, is an amplification, according to Khung Ying-tâ and the editors of the imperial edition of the present dynasty, of the second chapter of Section i. The latter say that as all the chapters of Section i from the third onwards serve to elucidate chapter 2, so it is with this chapter and all that follow in this Section. The formation of the diagrams, and of their several lines, their indication of good fortune and bad, and the analogy between the processes of nature and the operations of divination, and other kindred subjects, are all touched on.
 
-The order of the eight trigrams in paragraph 1, is khien, tui, p. 381 lî, kăn, sun, khan, kăn, khwăn. The three lines of each are emblematic,--the first of heaven, the second of man, the third of earth. This is the most likely explanation of hsiang, 'the emblems' or 'similitudes' here. Why the maker--'sages'--stopt at sixty-four figures, of six lines each, is a question that cannot be answered.
+The order of the eight trigrams in paragraph 1, is khien, tui, p. 381 lî, kăn, sun, khan, kăn, khwăn. The three lines of each are emblematic,--the first of heaven, the second of man, the third of earth. This is the most likely explanation of [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols), 'the emblems' or 'similitudes' here. Why the maker--'sages'--stopt at sixty-four figures, of six lines each, is a question that cannot be answered.
 
 Paragraph 2. Of course it was a great delusion to suppose that the changes of lines consequent on divination could be so connected with the movements of life as to justify the characterising them as good or evil, or afford any guidance in the ordering of conduct.
 

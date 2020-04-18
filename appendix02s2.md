@@ -892,7 +892,7 @@ The line undivided like 4 is 1; perhaps we might translate--'He meets with the s
 
 No one but himself has any confidence in the subject of line 6. He holds himself aloof from others, and they leave him to himself.
 
-338:LVI Different attempts are made to bring the idea of a travelling stranger out of the trigrams Kăn and Lî; but none of them is satisfactory. Let Khung Ying-tâ's view serve as a specimen of them:--'A fire on a mountain lays hold of the grass, and runs with it over the whole space, not stopping anywhere long, and soon disappearing;--such is the emblem of the traveller.' The application may be derived well enough from the attributes of the trigrams; but does not fit in with the lessons of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) and Hsiang.
+338:LVI Different attempts are made to bring the idea of a travelling stranger out of the trigrams Kăn and Lî; but none of them is satisfactory. Let Khung Ying-tâ's view serve as a specimen of them:--'A fire on a mountain lays hold of the grass, and runs with it over the whole space, not stopping anywhere long, and soon disappearing;--such is the emblem of the traveller.' The application may be derived well enough from the attributes of the trigrams; but does not fit in with the lessons of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) and [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols).
 
 The meanness of the subject of line 1 does not arise from the nature of his occupation; but from his mind and aim being emptied of all that is good and ennobling.
 

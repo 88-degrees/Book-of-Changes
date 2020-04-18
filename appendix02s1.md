@@ -576,7 +576,7 @@ Kû says that he does not understand what is said under line 6,--that the occupa
 
 275:VI The symbolism here is different from that in the Text of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). We have the visible sky ascending and water or rain descending, which indicate, one hardly sees how, opposition and contention. The lesson as to the course of the superior man is a good one, but might with equal propriety be deduced from many other hexagrams.
 
-Hsiang An-shih (Sung dynasty) says that the first part of paragraph 2 is all to be taken as the language of the duke of Kâu, the characters being varied; the rest is the remark of the writer of this treatise.
+[**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols) An-shih (Sung dynasty) says that the first part of paragraph 2 is all to be taken as the language of the duke of Kâu, the characters being varied; the rest is the remark of the writer of this treatise.
 
 It is observed that the returning to (the study of Heaven's) ordinances, and changing the wish to contend, in paragraph 4, are not two things, but only one; 'the ordinances (ming) meaning what is right in principle.' The wish to contend was wrong in principle, and is now abandoned.
 
