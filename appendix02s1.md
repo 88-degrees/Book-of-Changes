@@ -1,5 +1,7 @@
 # APPENDIX II
 
+###### p. 267
+
 Treatise on the Symbolism of the Hexagrams, and of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s Explanations of the several Lines <a name="fr_189"></a>[1](#fn_189)
 
 ## SECTION I
@@ -532,7 +534,7 @@ divided),' is due to its occupying the place of a king or a prince.
 
 ## Footnotes
 
-[267:1](#fr_189) Like the Text under each hexagram, what is said under each in this treatise on its symbolism is divided into two portions. The p. 267 first is called 'the Great Symbolism,' and is occupied with the trigrammatic composition of the hexagram, to the statement of which is always subjoined an exhibition of the use which should be, or has been, made of the lesson suggested by the meaning of the whole figure in the administration of affairs, or in self-government. If the treatise be rightly ascribed to Confucius, this practical application of the teaching of the symbols is eminently characteristic of his method in inculcating truth and duty; though we often find it difficult to trace the connexion between his premiss and conclusion. This portion of the treatise will be separated by a double space from what follows,--'the Lesser Symbolism,' in the explanations of the several lines.
+<a name="fn_189"></a>[267:1](#fr_189) Like the Text under each hexagram, what is said under each in this treatise on its symbolism is divided into two portions. The [p. 267](#p-267) first is called 'the Great Symbolism,' and is occupied with the trigrammatic composition of the hexagram, to the statement of which is always subjoined an exhibition of the use which should be, or has been, made of the lesson suggested by the meaning of the whole figure in the administration of affairs, or in self-government. If the treatise be rightly ascribed to Confucius, this practical application of the teaching of the symbols is eminently characteristic of his method in inculcating truth and duty; though we often find it difficult to trace the connexion between his premiss and conclusion. This portion of the treatise will be separated by a double space from what follows,--'the Lesser Symbolism,' in the explanations of the several lines.
 
 [268:I](#fr_190) [**Qián ䷀**](e4b9beqian.md) is formed by redoubling the trigram of the same name. In the case of other hexagrams of similar formation, the repetition of the trigram is pointed out. That is not done here, according to Kû Hsî, 'because there is but one heaven.' But the motion of heaven is a complete revolution every day, resumed again the next; so moves 'the unwearied sun from day to day,' making it a good symbol of renewed, untiring effort.
 
