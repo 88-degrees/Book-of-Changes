@@ -34,7 +34,7 @@ and in the five undivided lines he saw the representatives of good order, or, it
 This then is the subject of the hexagram, -- how bad men, statesmen corrupt and yet powerful, are to be put out of the way.
 And he who would accomplish the task must do so by the force of his character more than by force of arms, and by producing a general sympathy on his side.
 
-The Thwan says that he must openly denounce the criminal in the court, seek to awaken general sympathy, and at the same time go about his enterprise, conscious of its difficulty and danger. Among his own adherents, moreover, as if it were in his own city, he must make it understood how unwillingly he takes up arms. Then let him go forward, and success will attend him.
+The [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) says that he must openly denounce the criminal in the court, seek to awaken general sympathy, and at the same time go about his enterprise, conscious of its difficulty and danger. Among his own adherents, moreover, as if it were in his own city, he must make it understood how unwillingly he takes up arms. Then let him go forward, and success will attend him.
 
 Line 1 is strong, the first line of that trigram, which expresses the idea of strength. But it is in the lowest place. The stage of [p. 154](e5a7a4gou.md#p-154) the enterprise is too early, and the preparation too small to make victory certain. Its subject had better not take the field.
 

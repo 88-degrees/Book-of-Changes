@@ -29,7 +29,7 @@ Was strength alone enough for the conduct of affairs? No. He saw also in the fig
 
 ###### p. 131
 
-This is the lesson of the hexagram, as sententiously expressed in the **Thwan**.
+This is the lesson of the hexagram, as sententiously expressed in the **[**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings)**.
 
 Line 1 is strong, in its correct place, and also the first line in Khien, the hexagram of strength, and the first line in Tâ Kwang. The idea of the figure might seem to be concentrated in it; and hence we have it symbolised by 'strength in the toes,' or 'advancing.' But such a measure is too bold to be undertaken by one in the lowest place, and moreover there is no proper correlate in 4. Hence comes the evil auspice.
 

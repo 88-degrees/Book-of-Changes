@@ -30,7 +30,7 @@ But the innings of the divided line commence again; and here we have in Kâu the
 
 In that divided line Wăn saw the symbol of the small or unworthy man, beginning to insinuate himself into the government of the country.
 His influence, if unchecked, would go on to grow, and he would displace one good man after another, and fill the vacant seats with others like-minded with himself.
-The object of Wăn in his Thwan, therefore, was to enjoin resistance to the encroachment of this bad man.
+The object of Wăn in his [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), therefore, was to enjoin resistance to the encroachment of this bad man.
 
 Kâu is defined as giving the idea of suddenly and casually encountering or meeting with. So does the divided line appear all at once in the figure.
 And this significance of the name rules in the interpretation of the lines, so as to set on one side the more common interpretation of them according to the correlation;

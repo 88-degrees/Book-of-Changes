@@ -48,7 +48,7 @@ Chapter  II. 9. The sages set forth the diagrams, inspected the emblems containe
 
 ###### p. 352
 
-Chapter  III. 15. The Thwan speak of the emblematic figures (of the complete diagrams). The Yâo speak of the changes (taking place: in the several lines).
+Chapter  III. 15. The [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) speak of the emblematic figures (of the complete diagrams). The Yâo speak of the changes (taking place: in the several lines).
 
 16. The expressions about good fortune or bad are used with reference to (the figures and lines, as) being right or wrong (according to the conditions of time and place); those about repentance or regret refer to small faults (in the satisfying those conditions); when it is said 'there will be no error,' or 'no blame,' there is reference to (the subject) repairing an error by what is good.
 

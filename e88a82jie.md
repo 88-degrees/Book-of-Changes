@@ -37,7 +37,7 @@ How the constituent trigrams are supposed to suggest or indicate this meaning wi
 
 Kû Hsî anticipates that symbolism in trying to account for the statement that the figure gives the promise of success and attainment;
 but the ground of this is generally made out by referring to the equal division of the undivided and divided lines and our having in 2 and 5, the central places, two undivided lines.
-An important point concerning 'regulations' is brought out in the conclusion of the Thwan, -- that they must be adapted to circumstances, and not made too strict and severe.
+An important point concerning 'regulations' is brought out in the conclusion of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), -- that they must be adapted to circumstances, and not made too strict and severe.
 
 Line 1 is strong, and in its correct place. Its subject therefore would not be wanting in power to make his way.
 But he is supposed to be kept in check by the strong 2, and the correlate 4 is the first line in the trigram of peril.

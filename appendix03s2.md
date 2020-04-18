@@ -72,7 +72,7 @@ Chapter  III. 24. Therefore what we call the Yî is (a collection of) emblematic
 
 p. 387
 
-25. What we call the Thwan (or king Wăn's explanations) are based on the significance (of each hexagram as a whole).
+25. What we call the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) (or king Wăn's explanations) are based on the significance (of each hexagram as a whole).
 
 26. We call the lines (of the figures) Yâo from their being according to the movements taking place all under the sky.
 

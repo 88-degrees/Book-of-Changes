@@ -550,11 +550,11 @@ Line 2. 'Things resume their regular course:'--the subject is now at liberty to 
 
 The subject of line 4 naturally recurs to the correlate in line 1. He is the natural helper in the case, and he has the ability.
 
-272:IV 'The spring here issuing forth' is different from the defile with a stream in it, in the explanation of the Thwan; different moreover from 'rain,' mentioned also as the phenomenon which is the natural symbol of Khan. The presence of water, however, is common to the three. But the water of the spring, or of the stream, would flow away from the hill, and not be stopped by it; as an emblem therefore of the ignorance and inexperience denoted by Măng it is not suitable. Kû Hsî says that 'the water of a spring is sure to move on and gradually advance.' This may serve as a symbol of the general process and progress of education, though it gives no account of the symbolism of the hill. It serves also to explain in part the transition of the writer to the subject of the superior man, and his dealing apparently with himself.
+272:IV 'The spring here issuing forth' is different from the defile with a stream in it, in the explanation of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings); different moreover from 'rain,' mentioned also as the phenomenon which is the natural symbol of Khan. The presence of water, however, is common to the three. But the water of the spring, or of the stream, would flow away from the hill, and not be stopped by it; as an emblem therefore of the ignorance and inexperience denoted by Măng it is not suitable. Kû Hsî says that 'the water of a spring is sure to move on and gradually advance.' This may serve as a symbol of the general process and progress of education, though it gives no account of the symbolism of the hill. It serves also to explain in part the transition of the writer to the subject of the superior man, and his dealing apparently with himself.
 
 Does line 1 set forth the use of punishment as the dernier resort, undesirable, but possibly unavoidable, to bring men in subjection to law?
 
-The force of line 2 comes out fully in the Thwan.
+The force of line 2 comes out fully in the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings).
 
 That a woman such as is represented in line 3 should not be taken in marriage is clear enough; but I do not see the bearing of the illustration on the proper lesson in the hexagram.
 
@@ -574,7 +574,7 @@ The recognition of the circumstances of the time, and hearkening to its requirem
 
 Kû says that he does not understand what is said under line 6,--that the occupant and the place are not suited to each other, for the yin line being in the sixth, an even place, seems to be where it ought to be. We are only surprised that cases of inconsistency in these explanations are not more numerous.
 
-275:VI The symbolism here is different from that in the Text of the Thwan. We have the visible sky ascending and water or rain descending, which indicate, one hardly sees how, opposition and contention. The lesson as to the course of the superior man is a good one, but might with equal propriety be deduced from many other hexagrams.
+275:VI The symbolism here is different from that in the Text of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). We have the visible sky ascending and water or rain descending, which indicate, one hardly sees how, opposition and contention. The lesson as to the course of the superior man is a good one, but might with equal propriety be deduced from many other hexagrams.
 
 Hsiang An-shih (Sung dynasty) says that the first part of paragraph 2 is all to be taken as the language of the duke of Kâu, the characters being varied; the rest is the remark of the writer of this treatise.
 
@@ -779,7 +779,7 @@ The subject of line 3 goes and comes, moves up and down, backwards and forwards;
 
 Those represented in line 4 by the strong and weak lines are the ruler and his minister.
 
-305:XXX In the Great Symbolism Lî is used in the sense of brightness. There was no occasion to refer to its other meaning. 'The great man' rather confirms the interpretation of the 'double brightness' in the treatise on the Thwan as indicating the ruler.
+305:XXX In the Great Symbolism Lî is used in the sense of brightness. There was no occasion to refer to its other meaning. 'The great man' rather confirms the interpretation of the 'double brightness' in the treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) as indicating the ruler.
 
 Paragraph 2. As yellow is a 'correct' colour, so is the due mean the correct course.
 
