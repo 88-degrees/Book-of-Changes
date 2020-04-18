@@ -75,7 +75,7 @@ But the symbolism here was the work of the duke of Kâu, after his brother king 
 How did the symbolism then occur to him? May we not conclude that at least the hsiang of this hexagram was written during the troubled period of his regency,
 after the accession of Wû's son, king Khăng?
 
-The Khang-hsî editors find in the concluding symbolism an incentive to humility: -- 'The duke, leaving birds on the wing,
+The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors find in the concluding symbolism an incentive to humility: -- 'The duke, leaving birds on the wing,
 is content to use his arrows against those in a cave!'
 
 Line 6 is weak, and is at the top of the trigram of movement. He is possessed by the idea of the hexagram in an extreme degree,

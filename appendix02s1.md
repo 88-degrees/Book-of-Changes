@@ -647,7 +647,7 @@ In line 4, stress should be laid on 'yielding to the right.'
 
 For line 5, see note on the Text.
 
-The Khang-hsî editors append the following note to the last paragraph: --'Under line 1 it is said that "union in the open country indicates progress and success," while here it is only said that "with union in the suburbs there is no cause for repentance." Beyond the suburbs was the open country, and till the union reached so far, the object of the hexagram was not attained. We may truly say that Confucius was a skilful reader of the duke of Kâu.' Of course the editors did not doubt Confucius' authorship of all the Appendixes.
+The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors append the following note to the last paragraph: --'Under line 1 it is said that "union in the open country indicates progress and success," while here it is only said that "with union in the suburbs there is no cause for repentance." Beyond the suburbs was the open country, and till the union reached so far, the object of the hexagram was not attained. We may truly say that Confucius was a skilful reader of the duke of Kâu.' Of course the editors did not doubt Confucius' authorship of all the Appendixes.
 
 286:XIV 'Fire above the sky' will shine far; and this is supposed to symbolise the vastness of the territory or of the wealth implied in the possession of what is great. The superior man, in governing men, especially in a time of prosperity and wealth, must set himself to develope what is good in them, and repress what is evil. And this will be in accordance with the will of Heaven, which has given to all men a nature fitted for goodness.
 
@@ -681,11 +681,11 @@ Paragraph 1 consists of two lines that rhyme; and paragraphs 4 (two lines), 5, a
 
 'The nourishing of virtue' appears especially in line 6; all the other lines belong to the 'helping of the people.'
 
-The subject of line 1 has entered into the work of his father, and brings it about that his father is looked on as blameless. The 'due mean' of line 2 is according to the caution in the Text. The Khang-hsî editors interpret the explanation of line 5 as = 'he takes up (the course of his father) with all his virtue.' I think they are wrong.
+The subject of line 1 has entered into the work of his father, and brings it about that his father is looked on as blameless. The 'due mean' of line 2 is according to the caution in the Text. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors interpret the explanation of line 5 as = 'he takes up (the course of his father) with all his virtue.' I think they are wrong.
 
-292:XIX 'The earth descending or approaching the marsh' is, according to Kû Hsî, symbolical of the approach of superiors to the inferior people, and then the two predicates about the superior man are descriptive of him in that approach, the instruction being symbolised by Tui, and the supporting by [Kūn(䷁)](e59da4kun.md). The Khang-hsî editors, wishing to defend the explanation of lin by 'great,' in Appendix VI, which they ascribe to Confucius, say:--'Lin means "great." The earth above the waters of the marsh shows how full those waters are, rising to the level of the earth, and thus expressing the idea of greatness.' This representation is lame and impotent.
+292:XIX 'The earth descending or approaching the marsh' is, according to Kû Hsî, symbolical of the approach of superiors to the inferior people, and then the two predicates about the superior man are descriptive of him in that approach, the instruction being symbolised by Tui, and the supporting by [Kūn(䷁)](e59da4kun.md). The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, wishing to defend the explanation of lin by 'great,' in Appendix VI, which they ascribe to Confucius, say:--'Lin means "great." The earth above the waters of the marsh shows how full those waters are, rising to the level of the earth, and thus expressing the idea of greatness.' This representation is lame and impotent.
 
-Kû Hsî says he does not understand what is said on line 2. The interpretation in my version is the ordinary one, but I am not satisfied with it. The Khang-hsî editors try to solve the difficulty; but I am not able to follow them.
+Kû Hsî says he does not understand what is said on line 2. The interpretation in my version is the ordinary one, but I am not satisfied with it. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors try to solve the difficulty; but I am not able to follow them.
 
 The same editors compare the conclusion of paragraph 6 in the symbolism of hexagram 11. 'What is external' there, and 'what is internal here,' have, they say, the same reference,--the state, namely, of the whole kingdom, the expressions differing according to the different standpoints from which they are made. The view in the translation is that of Kû Hsî. It is difficult to hold the balance between them. The newer view, perhaps, is the preferable.
 
@@ -713,7 +713,7 @@ Paragraph 3 tells us that it is not ornament, but correct firmness, which secure
 
 In the fourth place, and cut off from line 1 by 2 and 3, we might doubt how far the subject of 4 would continue loyal to the subject of it. But he does continue loyal, through the character and object of the subject of 3.
 
-The Khang-hsî editors say:--'Line 5 occupies the place of honour, and yet prefers simplicity and exalts economy; its subject p. 296 might change and transform manners and customs;--it is a small matter to say of him that he affords occasion for joy.
+The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say:--'Line 5 occupies the place of honour, and yet prefers simplicity and exalts economy; its subject p. 296 might change and transform manners and customs;--it is a small matter to say of him that he affords occasion for joy.
 
 The subject of line 6 has more of the spirit of the hexagram than in most hexagrams. His being clothed in simple white crowns the lesson that ornament must be kept in a secondary place.
 
@@ -725,7 +725,7 @@ Khăng-žze is precise and decisive in supplementing the explanation of paragrap
 
 See on the Text of lines 3 and 4.
 
-On paragraph 5, the Khang-hsî editors say admirably:--'The fifth line is weak, and yet occupies the most honourable place in the figure,--emblematic of a queen; and as its subject leads on the subjects of the other lines to obtain the favours given to the inmates of the palace, she, it is plain, has neither jealousy nor any other injurious temper that might incur blame for tending to overthrow the ruler.'
+On paragraph 5, the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say admirably:--'The fifth line is weak, and yet occupies the most honourable place in the figure,--emblematic of a queen; and as its subject leads on the subjects of the other lines to obtain the favours given to the inmates of the palace, she, it is plain, has neither jealousy nor any other injurious temper that might incur blame for tending to overthrow the ruler.'
 
 Paragraph 6 shows the ruler restored to the favour of the people, and the restoration of concord in the state. The small men have done their worst, and there is an end of their attempts for a time.
 
@@ -783,6 +783,6 @@ Those represented in line 4 by the strong and weak lines are the ruler and his m
 
 Paragraph 2. As yellow is a 'correct' colour, so is the due mean the correct course.
 
-Paragraph 3. 'The declining sun,' say the Khang-hsî editors, 'is an emblem of the obscuration coming over the virtue of the mind.'
+Paragraph 3. 'The declining sun,' say the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, 'is an emblem of the obscuration coming over the virtue of the mind.'
 
 Paragraph 4. 'None can bear with him' refers to the second part of the symbolism of the line, which is not given here.

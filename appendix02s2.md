@@ -658,7 +658,7 @@ Paragraph 1. What is beyond one's self is represented by line 4, a proper correl
 
 Paragraph 2. 'Compliance (with the circumstances of his condition and place)' is merely another way of 'being firm and correct.'
 
-Paragraph 3. The language, 'What he holds in his grasp is low,' makes Kû Hsî and the older commentators generally understand low of lines 1 and 2, and their weak subjects. But 'following' leads the mind to the lines above, as the Khang-hsî editors point out. 'Low' is to be understood in the sense of 'mean.'
+Paragraph 3. The language, 'What he holds in his grasp is low,' makes Kû Hsî and the older commentators generally understand low of lines 1 and 2, and their weak subjects. But 'following' leads the mind to the lines above, as the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors point out. 'Low' is to be understood in the sense of 'mean.'
 
 Paragraph 4. The 'being firm and correct' appears here as equivalent to the want of 'a selfish wish to influence.'
 
@@ -670,7 +670,7 @@ Paragraph 1. The stress of what is said under line 1 is here made to lie on its 
 
 Paragraph 2. Line 2 is in the centre of its trigram, and that position, here as often elsewhere, symbolises the course of its subject.
 
-Paragraph 3. The Khang-hsî editors make the application here = 'nowhere can he bear (to remain).'
+Paragraph 3. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors make the application here = 'nowhere can he bear (to remain).'
 
 p. 308
 
@@ -732,7 +732,7 @@ From the lesson in paragraph 2 we saw that the moral value of conduct is indepen
 
 On paragraph 3, Khung Ying-tâ says:--'Of the three lines of the lower trigram only the third is yang, above the two others which are of the yin nature. They cling to it, and are represented as if rejoicing in it.
 
-The view given of paragraph 4 is that of the Khang-hsî editors.
+The view given of paragraph 4 is that of the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors.
 
 'The friends' in paragraph 5 are the subjects of the second line, the correlate of 5, and also of the two other lines of the lower trigram.
 
@@ -740,7 +740,7 @@ Sû Shih (A. D. 1036-1101) remarks on paragraph 6 that by 'the inside,' and 'the
 
 317:XL It is a common saying that thunder and rain clear the atmosphere, and a feeling of oppression is relieved. The last paragraph of Appendix I, however, leads us to understand the Symbolism of the phenomena of spring. The application seems to refer to the gentle policy of a conqueror forward to forgive the opposition of those who offer no more resistance.
 
-The subject of line 2 is a minister or officer; and the Khang-hsî editors say that while straightforwardness, symbolised by the arrow, is the first duty of an officer, if he do not temper that quality by pursuing the due medium, which is symbolised by the yellow colour of the arrow, but proceed by main force, and that only, to remove what is evil, he will provoke indignation and rebellion. The 'three foxes' are not alluded to in this second paragraph.
+The subject of line 2 is a minister or officer; and the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that while straightforwardness, symbolised by the arrow, is the first duty of an officer, if he do not temper that quality by pursuing the due medium, which is symbolised by the yellow colour of the arrow, but proceed by main force, and that only, to remove what is evil, he will provoke indignation and rebellion. The 'three foxes' are not alluded to in this second paragraph.
 
 On paragraph 4 the same editors say:--'The subject of this line is not in the central nor in an odd place; he has for his correlate the subject of line 1 and for his close associate that of line 3, both of which lines are weak in strong places. Hence it is said, that they are all in places inappropriate to them.'
 
@@ -752,13 +752,13 @@ The explanation appended to paragraph 1 seems to be to account for the subject o
 
 'His aim' is to abide where he is, and help the subject of 5 by the exhibition of 'firm correctness.'
 
-The Khang-hsî editors observe that paragraph 3 is true indeed of three men; and not of three men only, but of many repetitions of thought or action.
+The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe that paragraph 3 is true indeed of three men; and not of three men only, but of many repetitions of thought or action.
 
 The same editors say on paragraph 5 that 'the blessing from above is explained, by many, of the oracles obtained through divining with the tortoise-shell; but that looking at the text on line 2 of the next hexagram, and that Tî (spoken of there) is the lord of all spirits, the term "above" here is most naturally explained of Heaven's mind, whose acceptance cannot be gainsaid by men or spirits.'
 
 Khăng-žze says on paragraph 6, though I do not see the relevancy p. 319 of his remarks:--'Dwelling on high, and taking nothing from those below him, but on the contrary giving more to them, the superior man accomplishes his aim on a grand scale. The aim of the superior man is simply to be increasing what others have;--that and nothing else.'
 
-319:XLII The Symbolism here is different from what we gather from the former Appendix. Sun no longer symbolises wood, but, as p. 320 it more commonly does, wind. Thunder and wind, it is supposed, increase each the other; and their combination gives the idea of increase. Then the application, good in itself, must be treated very nicely, as it is by the Khang-hsî editors, in order to make out any connexion between it and the Symbolism.
+319:XLII The Symbolism here is different from what we gather from the former Appendix. Sun no longer symbolises wood, but, as p. 320 it more commonly does, wind. Thunder and wind, it is supposed, increase each the other; and their combination gives the idea of increase. Then the application, good in itself, must be treated very nicely, as it is by the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, in order to make out any connexion between it and the Symbolism.
 
 Paragraph 1. 'One in a low position should not move in great affairs;'--not a son, it is said, while his father is alive; nor a minister, while his ruler governs; nor a member of an official department, while its head directs its affairs. If such a one do initiate such an affair, only great success will excuse his rashness.
 
@@ -772,13 +772,13 @@ Paragraph 6. As in line 2 the attractive power of benevolence is shown, so in li
 
 The first clause of the application follows naturally enough from the above interpretation of the Symbolism. Kû Hsî says he does not understand the second clause. Many critics adopt the view of it which appears in the translation.
 
-Paragraph 2 does not mention the precautionary measures taken in the Text by the subject of the line, from which the conclusion would follow quite as naturally as from his central position. The Khang-hsî editors, however, say that the not having recourse lightly to force is itself the due course.
+Paragraph 2 does not mention the precautionary measures taken in the Text by the subject of the line, from which the conclusion would follow quite as naturally as from his central position. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, however, say that the not having recourse lightly to force is itself the due course.
 
 Line 3 responding, and alone of all the strong lines responding to 6, may appear at first irresolute, and not prepared for decided measures; but 1 in the end' its subject does what is required of him.
 
 The contiguity of line 5 to the divided 6, is supposed to have some bad effect on its subject, so that while he does what his central position requires, it is not without an effort. 'If a man,' says Khăng-žze, 'cherish a single illicit desire in his mind, he has left the right way. The admonition here conveyed is deep.'
 
-322:XLIV Wind, blowing all-under the sky, penetrates everywhere, and produces its natural effect; and it is a good application of this phenomenon that follows; but it has nothing to do with the meaning of Kâu and the interpretation of the hexagram, as taught in the Text. The Khang-hsî editors perceive this, and deal with the Symbolism after a method of their own, on which it is unnecessary to enter.
+322:XLIV Wind, blowing all-under the sky, penetrates everywhere, and produces its natural effect; and it is a good application of this phenomenon that follows; but it has nothing to do with the meaning of Kâu and the interpretation of the hexagram, as taught in the Text. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors perceive this, and deal with the Symbolism after a method of their own, on which it is unnecessary to enter.
 
 Paragraph 1. My supplement, 'This describes the arrest of,' is a conclusion from the whole of the Text on the line. All the commentaries have it.
 
@@ -806,7 +806,7 @@ Paragraph 2. The subject of line 2 in his loyal devotion to 5 will do much good 
 
 Paragraph 3. 'He has no doubt or hesitation:'--but this is presuming rather on his strength.
 
-Paragraph 4. The Khang-hsî editors say:--'Such an employment of men of worth to do service to spiritual Beings is serving them according to their mind.'
+Paragraph 4. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say:--'Such an employment of men of worth to do service to spiritual Beings is serving them according to their mind.'
 
 Paragraph 6. When one has reached the greatest height, he should think of retiring. Ambition otherwise may overleap itself.
 
@@ -816,9 +816,9 @@ p. 327
 
 So stupid is the subject of line 1 that by his own act he increases his distress.
 
-The Khang-hsî editors say that the 'ground for congratulation in paragraph 2 is the banqueting and sacrificing.' I rather think it is the measure of help, which it is intimated the subject will give in removing the straitness and distress of the time.
+The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that the 'ground for congratulation in paragraph 2 is the banqueting and sacrificing.' I rather think it is the measure of help, which it is intimated the subject will give in removing the straitness and distress of the time.
 
-See the extract from the Khang-hsî editors on the symbolism of the third line of the Text.
+See the extract from the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors on the symbolism of the third line of the Text.
 
 The difficulties attending the symbolism of the Text of lines 4, 5, and 6 are not lightened by what we find in this Appendix.
 
@@ -834,7 +834,7 @@ What is said on the several lines is sufficiently illustrated in the notes on th
 
 330:L The Great Symbolism here has come before us in the treatise on the Thwan. Of the application of that symbolism I can only say that, as has been seen in many other hexagrams, while good enough in itself, it is far-fetched.
 
-The same remark may be made on the explanation of the Text of the first line. I can myself do little more than guess at its meaning. The Khang-hsî editors observe that nothing is said about the case of the 'concubine' in the Text; but that it is covered by the following the more noble,' 'so condensed and complete are the words of the sage!'
+The same remark may be made on the explanation of the Text of the first line. I can myself do little more than guess at its meaning. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe that nothing is said about the case of the 'concubine' in the Text; but that it is covered by the following the more noble,' 'so condensed and complete are the words of the sage!'
 
 The same editors find a pregnant sense in the conclusion of paragraph 2:--'There will be no fault in me to which my enemy can point, and his disposition to find fault will be diminished.'
 
@@ -848,7 +848,7 @@ Paragraph 1 is the same as 2 in Appendix I.
 
 Paragraph 4. Compare paragraph 4 of hexagram 21, Appendix II.
 
-332:LII According to the view of the Khang-hsî editors, the application should be translated:--'The superior man, in accordance with this, thinks anxiously how he shall not go beyond the duties of his position.' It is difficult to decide between this shade of the meaning, and the more common one which I have followed.
+332:LII According to the view of the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, the application should be translated:--'The superior man, in accordance with this, thinks anxiously how he shall not go beyond the duties of his position.' It is difficult to decide between this shade of the meaning, and the more common one which I have followed.
 
 The toes play a great part in walking; but they are here kept at rest, and so do not lose the correct idea of Kăn.
 
@@ -858,7 +858,7 @@ Khăng-žze finds an unsatisfactory auspice in paragraph 4. Line 4 represents a 
 
 Yü Păn (Ming dynasty) says on paragraph 5:--'Words should not be uttered rashly. Then, when uttered, they will be found p. 333 accordant with principle. But it is only the master of the virtue belonging to the due mean who can attain to this.'
 
-333:LIII The Khang-hsî editors, to bring out the suitability of the Great Symbolism and its application, say:--'A tree springing up on the ground is a tree as it begins to grow. A tree on a hill is high and large. Every tree when it begins to grow, shows its p. 334 branches and twigs gradually becoming long. Every morning and every evening show some difference; and when the tree is high and great, whether it be of an ordinary or extraordinary size, it has taken years to reach its dimensions. This illustrates the difference between the advance in Shăng (46) and that in Kien. Then the maintenance of extraordinary virtue in the application and the improvement of manners is a gradual process. The improvement of the manners, moreover, flows from the maintenance of the extraordinary virtue; which implies also a gradual operation and progress.'
+333:LIII The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, to bring out the suitability of the Great Symbolism and its application, say:--'A tree springing up on the ground is a tree as it begins to grow. A tree on a hill is high and large. Every tree when it begins to grow, shows its p. 334 branches and twigs gradually becoming long. Every morning and every evening show some difference; and when the tree is high and great, whether it be of an ordinary or extraordinary size, it has taken years to reach its dimensions. This illustrates the difference between the advance in Shăng (46) and that in Kien. Then the maintenance of extraordinary virtue in the application and the improvement of manners is a gradual process. The improvement of the manners, moreover, flows from the maintenance of the extraordinary virtue; which implies also a gradual operation and progress.'
 
 Paragraph 1. The danger is the result of circumstances; the small officer has not brought it on himself.
 
@@ -948,13 +948,13 @@ The subject of line 3 shows by his lamentation how he blames himself.
 
 The other three paragraphs are sufficiently explained in what is said on the Text.
 
-344:LXI Dissatisfied with previous attempts to explain the Great Symbolism, the Khang-hsî editors say:--'The wind penetrates things. The grass and trees of the level ground are shaken and tossed by it; the rocky valleys and caverns in their sides have it blowing round about them; and it acts also on the depths of the collected waters, the cold of which disappears and the ice is melted before it. This is what makes it the emblem of that perfect sincerity which penetrates everywhere. The litigations of the people are like the deep and dark places of the earth. The kings examine with discrimination into all secret matters connected with them.. even those which are here mentioned, till there is nothing that is not penetrated by their perfect sincerity.' But all this is greatly strained. The symbolism of the eight trigrams gets pretty well played out in the course of the 64 hexagrams.
+344:LXI Dissatisfied with previous attempts to explain the Great Symbolism, the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say:--'The wind penetrates things. The grass and trees of the level ground are shaken and tossed by it; the rocky valleys and caverns in their sides have it blowing round about them; and it acts also on the depths of the collected waters, the cold of which disappears and the ice is melted before it. This is what makes it the emblem of that perfect sincerity which penetrates everywhere. The litigations of the people are like the deep and dark places of the earth. The kings examine with discrimination into all secret matters connected with them.. even those which are here mentioned, till there is nothing that is not penetrated by their perfect sincerity.' But all this is greatly strained. The symbolism of the eight trigrams gets pretty well played out in the course of the 64 hexagrams.
 
 1. 'No change has come over the purpose:'--the sincerity, that is, perfect in itself and of itself, continues.
 
 2. One bond of loving regard unites the mother bird and her young; so answers the heart of man to man.
 
-345:LXII The Khang-hsî editors endeavour to show the appropriateness of the Great Symbolism in this way:--'When thunder issues from the earth, the sound of it comes with a rush and is loud; but when it reaches the top of a hill it has begun to die away and is small.' There is nothing in the Chinese about the hills being high; and readers will only smile at the attempted explanation. The application of the symbolism, or rather of the idea of the hexagram, is good, and in entire accordance with what I have stated that idea to be.
+345:LXII The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors endeavour to show the appropriateness of the Great Symbolism in this way:--'When thunder issues from the earth, the sound of it comes with a rush and is loud; but when it reaches the top of a hill it has begun to die away and is small.' There is nothing in the Chinese about the hills being high; and readers will only smile at the attempted explanation. The application of the symbolism, or rather of the idea of the hexagram, is good, and in entire accordance with what I have stated that idea to be.
 
 Nothing can be done to avoid the issue mentioned in paragraph 1, for the subject of the line brings it on himself.
 
@@ -972,7 +972,7 @@ The notes on the different lines present nothing that has not been dealt with in
 
 Kû Hsî and others suspect an error in the text of paragraph 1; yet a tolerable meaning comes from it as it stands.
 
-The Khang-hsî editors observe on paragraph 2 that an undivided line in the second place, and a divided line in the fifth place, are both incorrect, and yet it is often said of them that with firm correctness in their subjects there will be good fortune;--such is the virtue of the central position. This principle is at last clearly enunciated in this paragraph.
+The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe on paragraph 2 that an undivided line in the second place, and a divided line in the fifth place, are both incorrect, and yet it is often said of them that with firm correctness in their subjects there will be good fortune;--such is the virtue of the central position. This principle is at last clearly enunciated in this paragraph.
 
 Khăng-žze says:--'The subject of line 4 has the ability which the time requires, and possesses also a firm solidity. He can carry out therefore his purpose. There will be good fortune, and all cause for repentance will disappear. The smiting of the demon region was the highest example of firm correctness.'
 

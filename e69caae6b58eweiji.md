@@ -47,7 +47,7 @@ I suppose a fox to be intended by the symbolism of line 1, bringing that animal 
 
 The subject of line 2, strong, and in the centre, is able to repress himself, and keep back his carriage from advancing and there is good fortune.
 
-The Khang-hsî editors say that it is very difficult to understand what is said under line 3; and many critics suppose that a negative has dropt out, and that we should really read that 'it will not be advantageous to try and cross the great stream.'
+The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that it is very difficult to understand what is said under line 3; and many critics suppose that a negative has dropt out, and that we should really read that 'it will not be advantageous to try and cross the great stream.'
 
 Line 4, though strong, is in an even place; and this might vitiate the endeavours of its subject to bring about a better state of things. But he is firm and correct. He is in the fourth place moreover, and immediately above there is his ruler, represented by a weak line, humble therefore, and prepared to welcome his endeavours. Let him exert himself vigorously and long, as Kâo Žung did in his [p. 210](#p-210) famous expedition (see last hexagram, line 3), and he will make progress and have success. Expeditions beyond the frontiers in those days were not very remote. Intercourse was kept up between the army and the court. Rewards, distinctions, and whatever was necessary to encourage the army, were often sent to it.
 

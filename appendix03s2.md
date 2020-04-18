@@ -240,7 +240,7 @@ Paragraph 2. Of course it was a great delusion to suppose that the changes of li
 
 Paragraph 4. Who can tell 'the requirements of the time' amid the complexity of the phenomena of nature or the ever-varying events of human experience and history? The wiser men are, the more correct will be their judgments in such matters; but is there any reason for trusting to divination about them?
 
-Paragraphs 5, 6. It is difficult to say what is 'the exact rule' intended here; unless it be that the factors in every movement shall act according to their proper nature. The Khang-hsî editors say:--'We see the good sometimes meeting with misfortune, and the bad with good fortune; but such is not the general rule.' 'The lessons that heaven and earth give forth' are those concerning the method of their operation as stated in paragraph 7, and more fully in 6, 7, 8 of Section i.
+Paragraphs 5, 6. It is difficult to say what is 'the exact rule' intended here; unless it be that the factors in every movement shall act according to their proper nature. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say:--'We see the good sometimes meeting with misfortune, and the bad with good fortune; but such is not the general rule.' 'The lessons that heaven and earth give forth' are those concerning the method of their operation as stated in paragraph 7, and more fully in 6, 7, 8 of Section i.
 
 What is said in paragraph 10 is striking and important, and in harmony with the general strain of Confucian teaching;--as in the Great Learning, chapter 10, and many other places; but I fail to see its appropriateness in its present place in the Yî.
 
@@ -324,7 +324,7 @@ Paragraph 60 seems to say that the work of the duke of Kâu on each line was but
 
 p. 402
 
-The last two paragraphs mention several points important to be attended to in studying, more especially, the duke of Kâu on the several lines. Three different views of the concluding statement,--'are they occupied,' &c.,--are given in the imperial edition. 'It belongs,' says Wû Kăng, 'to the fifth line;' 'to the third line,' says Hû Ping-wăn (also of the Yüan dynasty); while Hân Hsing-kwo (of the Thang dynasty) held that it belonged to both. The Khang-hsî editors say that 'by discriminating and combining these views, we get to the meaning of the text.' I am unable to do so.
+The last two paragraphs mention several points important to be attended to in studying, more especially, the duke of Kâu on the several lines. Three different views of the concluding statement,--'are they occupied,' &c.,--are given in the imperial edition. 'It belongs,' says Wû Kăng, 'to the fifth line;' 'to the third line,' says Hû Ping-wăn (also of the Yüan dynasty); while Hân Hsing-kwo (of the Thang dynasty) held that it belonged to both. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that 'by discriminating and combining these views, we get to the meaning of the text.' I am unable to do so.
 
 402:X Chapter X, paragraphs 63, 64, speaks of the great comprehensiveness of the Yî, its figures and explanations being applicable to the three Powers--heaven, earth, and man.
 
