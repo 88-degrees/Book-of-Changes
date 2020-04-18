@@ -44,7 +44,7 @@ Treatise on the **Tuàn** <a name="fr_124"></a>[1](#fn_124), or king Wén's Expl
 
 ###### p.216
 
-are symbols of [**Zhèn ䷲**](e99c87zhen.md) and [**Kǎn ䷜**](e59d8ekan.md)), all (between heaven and earth) is filled up. But the condition of the time is full of irregularity and obscurity. Feudal princes should be established, but the feeling that rest and peace have been secured should not be indulged (even then).
+are symbols of **Zhèn ☳** and **Kǎn ☵**, all (between heaven and earth) is filled up. But the condition of the time is full of irregularity and obscurity. Feudal princes should be established, but the feeling that rest and peace have been secured should not be indulged (even then).
 
 <a name="fr_128"></a>[IV](#fn_128).
 
@@ -70,7 +70,7 @@ of progress (suggested by these) give (the idea in) [**Méng ䷃**](e89299meng.m
 
 <a name="fr_130"></a>[VI](#fn_130).
 
-1. The upper portion of [**Sòng ䷅**](e8aebcsong.md) is (the trigram representing) strength, and the lower (that representing) peril. (The coming together of) strength and peril gives (the idea in) [**Sòng ䷅**](e8aebcsong.md).
+1. The upper portion of [**Sòng ䷅**](e8aebcsong.md) is (the trigram ☰ representing) strength, and the lower (☵ that representing) peril. (The coming together of) strength and peril gives (the idea in) [**Sòng ䷅**](e8aebcsong.md).
 
 2. '[**Sòng ䷅**](e8aebcsong.md) intimates how, though there is sincerity in one's contention, he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution, there will be good fortune:' -- a strong (line) has come and got the central place (in the lower trigram).
 
@@ -306,7 +306,7 @@ rivers, hills, and mounds. Kings and princes arrange by means of such strengths,
 
 ## Footnotes
 
-<a name="fn_124"></a>[`213:1`](#fr_124) The name **Tuàn**, and the meaning of the character so-called, are sufficiently established. The Tuàn are king Wén's explanations of the entire hexagrams. It seems impossible now to [p. 214](#p-214) ascertain how the character arose, and how it was named Tuàn. The treatise on the Tuàn is ascribed to Confucius; and I have considered in the Introduction, [p. 30](https://www.sacred-texts.com/ich/icintr03.htm), whether the tradition to this effect may to any extent be admitted.
+<a name="fn_124"></a>[`213:1`](#fr_124) The name **Tuàn** (Chinese: [彖](https://en.wikipedia.org/wiki/I_Ching#cite_note-16)), and the meaning of the character so-called, are sufficiently established. The Tuàn are king Wén's explanations of the entire hexagrams. It seems impossible now to [p. 214](#p-214) ascertain how the character arose, and how it was named Tuàn. The treatise on the Tuàn is ascribed to Confucius; and I have considered in the Introduction, [p. 30](https://www.sacred-texts.com/ich/icintr03.htm), whether the tradition to this effect may to any extent be admitted.
 
 <a name="fn_125"></a>[`214:I`](#fr_125) The hexagram [**Qián ䷀**](./e4b9beqian.md) is made up of six undivided lines, or of the trigram [**Qián ䷀**](./e4b9beqian.md), Fúxī's symbol for heaven, repeated. The Tuàn does not dwell upon this, but starts, in its exposition, from the word 'heaven,' supposing that the hexagram represented all the meaning which had ever been intended by that term. In paragraphs 1, 2, 4 the four attributes in Wén's Text (2 being occupied with the second, though it is not expressly named) are illustrated by the phenomena taking place in the physical world.
 
