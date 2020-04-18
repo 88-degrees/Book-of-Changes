@@ -232,7 +232,7 @@ different objects: -- (on account of these things) it is called (the hexagram of
 
 When change thus takes place in the proper way, 'occasion for repentance disappears.'
 
-3. Heaven and earth undergo their changes, and the four seasons complete their functions. Thang changed the appointment (of the line of Hsiâ to the throne), and Wû (that of the line of Shang), in accordance with (the will of) Heaven, and in response to (the wishes of) men. Great indeed is what takes place in a time of change.
+3. Heaven and earth undergo their changes, and the four seasons complete their functions. [**Tāng**](https://en.wikipedia.org/wiki/Tang_of_Shang) changed the appointment (of the line of [**Xiā**](https://en.wikipedia.org/wiki/Xia_dynasty) to the throne), and [**Wǔ**](https://en.wikipedia.org/wiki/King_Wu_of_Zhou) (that of the line of [**Shāng**](https://en.wikipedia.org/wiki/Shang_dynasty), in accordance with (the will of) Heaven, and in response to (the wishes of) men. Great indeed is what takes place in a time of change.
 
 <a name="fr_174"></a>[L](#fn_174).
 
@@ -416,7 +416,7 @@ Paragraph 4, and especially its concluding sentence, are of a meditative and ref
 
 Paragraph 2. That which is great (should be) correct: -- that the 'should be' must be supplied in the translation appears from this, that the paragraph is intended to illustrate the text that 'it will be advantageous to be firm and correct.' The power of man becomes then a reflexion of the great power which we see working in nature, 'impartially,' 'unselfishly.'
 
-<a name="fn_159"></a>[241:XXXV](#fr_159) To those who advocate the view that the hexagrams of the Yî have been formed by changes of the lines in manipulating with the divining stalks, the words of paragraph 2, that we have in the figure 'the weak line advanced and moving above,' suggest the derivation of [**Jìn ䷢**](e6998bjin.md) from [**Guān ䷓**](e8a782guan.md), whose 4th and 5th lines are made to change places ( **䷢ -> ䷓** ). But we have seen that that view is inadmissible in the interpretation of the `I Ching`. And a simple explanation of the language at once presents itself. As Hsiang An-shih (Sòng dynasty) says, 'Of the three "daughter" trigrams it is only **Lí ☲** which has its divided line occupying the central place of honour, when it is the upper trigram in a hexagram.'
+<a name="fn_159"></a>[241:XXXV](#fr_159) To those who advocate the view that the hexagrams of the `I Ching` have been formed by changes of the lines in manipulating with the divining stalks, the words of paragraph 2, that we have in the figure 'the weak line advanced and moving above,' suggest the derivation of [**Jìn ䷢**](e6998bjin.md) from [**Guān ䷓**](e8a782guan.md), whose 4th and 5th lines are made to change places ( **䷓ -> ䷢** ). But we have seen that that view is inadmissible in the interpretation of the `I Ching`. And a simple explanation of the language at once presents itself. As [**Xiàng**](https://en.wikipedia.org/wiki/Ten_Wings) [Ān-Shí](https://zh.wikisource.org/wiki/易象論解) (Sòng dynasty) says, 'Of the three "daughter" trigrams it is only **Lí ☲** which has its divided line occupying the central place of honour, when it is the upper trigram in a hexagram.'
 
 <a name="fn_160"></a>[242:XXXVI](#fr_160) The sun disappearing, as we say, 'below the earth,' or, as the Chinese writer conceives it, I into the midst of, or within the earth,' sufficiently indicates the obscuration or wounding of brightness, -- the repression and resistance of the good and bright.
 
