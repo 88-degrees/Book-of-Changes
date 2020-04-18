@@ -53,7 +53,7 @@ which are in mutual communication; (they have the qualities of) docility and mot
 1. (The symbol of) the Earth and that of Brightness entering into the midst of it give the idea of [**Míng Yí ䷣**](e6988ee5a4b7mingyi.md) (Brightness wounded or obscured).
 
 2. The inner (trigram) denotes being accomplished and bright; the outer, being pliant and submissive.
-The case of king Wăn was that of one
+The case of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was that of one
 
 ###### p. 242
 
@@ -420,13 +420,13 @@ Paragraph 2. That which is great (should be) correct: -- that the 'should be' mu
 
 <a name="fn_160"></a>[242:XXXVI](#fr_160) The sun disappearing, as we say, 'below the earth,' or, as the Chinese writer conceives it, I into the midst of, or within the earth,' sufficiently indicates the obscuration or wounding of brightness, -- the repression and resistance of the good and bright.
 
-King Wăn was not of the line of Shang. Though opposed and persecuted by its sovereign, he could pursue his own course, till his line came in the end to supersede the other. It could not be so with the count of Kî, who was a member of the House of Shang. He could do nothing that would help on its downfall.
+[king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was not of the line of Shang. Though opposed and persecuted by its sovereign, he could pursue his own course, till his line came in the end to supersede the other. It could not be so with the count of Kî, who was a member of the House of Shang. He could do nothing that would help on its downfall.
 
 <a name="fn_161"></a>[242:XXXVII](#fr_161) Paragraph 1 first explains the statement of the [p. 243](#p-243) **Tuàn**, about the wife, represented by line 2; and then proceeds to the husband, represented by line 5. The two trigrams become representative of the family circle, and the wide world without it. In the reference to heaven and earth it is not supposed that they are really husband and wife; but in their relation and positions they symbolise that social relation and the individuals in it.
 
 Paragraph 2, more closely rendered, would be -- 'That in [**Jiā Rén ䷤**](e5aeb6e4babajiaren.md) there is an authoritative ruler is a way of naming father and mother.' Does the writer mean to say that while the assertion of authority was indispensable in a family, that authority must have combined in it both force and gentleness?
 
-<a name="fn_162"></a>[243:XXXVIII](#fr_162) In paragraph 1 we have first an explanation of the meaning of [**Kuí ䷥**](e79dbdkui.md) from the symbolism of Fû-hsî. Then follows [p. 244](#p-244) an explanation from that ascribed to king Wăn, where **Duì ☱** represents the youngest daughter and **Lí ☲** the second. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe that in many hexagrams we have two daughters dwelling together, but that only in this and 49 ([**䷰**](e99da9ge.md)) is attention called to it. The reason, they say, is that in those two diagrams the sisters are the second and third daughters, while in the others one of them is the eldest, whose place and superiority are fixed, so that between her and either of the others there can be no division or collision.
+<a name="fn_162"></a>[243:XXXVIII](#fr_162) In paragraph 1 we have first an explanation of the meaning of [**Kuí ䷥**](e79dbdkui.md) from the symbolism of Fû-hsî. Then follows [p. 244](#p-244) an explanation from that ascribed to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou), where **Duì ☱** represents the youngest daughter and **Lí ☲** the second. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe that in many hexagrams we have two daughters dwelling together, but that only in this and 49 ([**䷰**](e99da9ge.md)) is attention called to it. The reason, they say, is that in those two diagrams the sisters are the second and third daughters, while in the others one of them is the eldest, whose place and superiority are fixed, so that between her and either of the others there can be no division or collision.
 
 About what is said, in paragraph 2, on the weak line, as advanced and acting above, see the note on hexagram 35.
 
@@ -434,7 +434,7 @@ The lesson of paragraph 3 is not unity in diversity, but union with diversity.
 
 <a name="fn_163"></a>[244:XXXIX](#fr_163) The upper or front trigram is **Kǎn ☵**, the attribute of which is perilousness; the lower is **Gèn ☶**, of which the arresting, actively or passively, of movement or advance is the attribute. We can understand how the union of these attributes gives the ideas of difficulty and prudent caution.
 
-The explanations in paragraph 2 of the phraseology of the **Tuàn** p. 245 are not all easily followed. It is said that the advantageousness of the south-west is due to the central line in 5; but if we are to look for the meaning of south-west in **Kūn ☷**, as in the diagram of king Wăn's trigrams, there is no strong central line in it. May **Kǎn ☵**, as a yang trigram, be used for **Kūn ☷**?
+The explanations in paragraph 2 of the phraseology of the **Tuàn** p. 245 are not all easily followed. It is said that the advantageousness of the south-west is due to the central line in 5; but if we are to look for the meaning of south-west in **Kūn ☷**, as in the diagram of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s trigrams, there is no strong central line in it. May **Kǎn ☵**, as a yang trigram, be used for **Kūn ☷**?
 
 <a name="fn_164"></a>[245:XL](#fr_164)
 
@@ -446,7 +446,7 @@ The explanations in paragraph 2 of the phraseology of the **Tuàn** p. 245 are n
 
 <a name="fn_165"></a>[246:XLI](#fr_165)
 
-1. All that we see is two undivided lines in the lower trigram, and then a divided one, and exactly the opposite in the upper. But the whole figure could not but have this form from the process of its formation, whether by the gradual addition of the two primitive lines, or by the imposition of the whole trigrams on one another. To say that the upper lines of **Qián ☰** and **Kūn ☷** changed places to express the idea of subjects contributing in taxes to the maintenance of their ruler is absurd; and if that thought were in the mind of king Wăn (which I very much doubt), it would only show how he projected his own idea, formed independently of the figure, into its lines.
+1. All that we see is two undivided lines in the lower trigram, and then a divided one, and exactly the opposite in the upper. But the whole figure could not but have this form from the process of its formation, whether by the gradual addition of the two primitive lines, or by the imposition of the whole trigrams on one another. To say that the upper lines of **Qián ☰** and **Kūn ☷** changed places to express the idea of subjects contributing in taxes to the maintenance of their ruler is absurd; and if that thought were in the mind of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (which I very much doubt), it would only show how he projected his own idea, formed independently of the figure, into its lines.
 
 2. On the second sentence, the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say: -- 'When a minister devotes his life in the service of his lord, or the people undertake their various labours in behalf of their government, these are instances of the ministering of those below to increase those above. But in this way the intercourse of the two becomes close and their aims become the same; -- does not the method of action of those below communicate itself to those above?'
 
@@ -494,7 +494,7 @@ Paragraph 2. That the fashion of the well does not undergo any (great) change is
 
 <a name="fn_173"></a>[254:XLIX](#fr_173)
 
-1. Paragraph 1. **Lí ☲** the lower trigram, represents fire, and **Duì ☱**, the upper, represents water. Water will extinguish fire, and fire again will dry up water. Each, to all appearance, produces a change in the other. Again, according to king Wăn's scheme of the trigrams, as shown on [Figure I](bagua.png) and [Figure II](King_Wen_Table.png), **Lí ☲** is the second, and **Duì ☱** the youngest daughter. Their wills are likely to differ in love and other things; but this symbolism does not so readily suggest the idea of change.
+1. Paragraph 1. **Lí ☲** the lower trigram, represents fire, and **Duì ☱**, the upper, represents water. Water will extinguish fire, and fire again will dry up water. Each, to all appearance, produces a change in the other. Again, according to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s scheme of the trigrams, as shown on [Figure I](bagua.png) and [Figure II](King_Wen_Table.png), **Lí ☲** is the second, and **Duì ☱** the youngest daughter. Their wills are likely to differ in love and other things; but this symbolism does not so readily suggest the idea of change.
 
 2. The first sentence suggests how the dislike to change on the part of people generally is overcome.
 

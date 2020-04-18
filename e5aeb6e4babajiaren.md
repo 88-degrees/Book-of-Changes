@@ -36,7 +36,7 @@ Line 3 is strong, and in an odd place. If the place were central, the strength w
 
 Line 4 is weak, and in its proper place. The wife is again suggested to us, and we are told, that notwithstanding her being confined to the internal affairs of the household, she can do much to enrich the family.
 
-The subject of the strong fifth line appears as the king. This may be the husband spoken of as also a king; or the real king whose merit is revealed first in his family, as often in the Shih, where king Wăn is the theme. The central place here tempers the display of the strength and power.
+The subject of the strong fifth line appears as the king. This may be the husband spoken of as also a king; or the real king whose merit is revealed first in his family, as often in the Shih, where [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) is the theme. The central place here tempers the display of the strength and power.
 
 Line 6 is also strong, and being in an even place, the subject of it might degenerate into stern severity, but he is supposed to be sincere, complete in his personal character and self-culture, and hence his action will only lead to good fortune.
 

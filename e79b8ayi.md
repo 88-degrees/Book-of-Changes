@@ -27,7 +27,7 @@ a great movement. If it be greatly fortunate, no blame will be imputed to him.
 ## Notes
 
 **Yì ䷩** has the opposite meaning to [**Sǔn ䷨**](e68d9fsun.md), and is the symbol of addition or increasing.
-What king Wăn had in his mind, in connexion with the hexagram, was a ruler or a government operating [p. 151](e5a4acguai.md#p-151) so as to dispense benefits to,
+What [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) had in his mind, in connexion with the hexagram, was a ruler or a government operating [p. 151](e5a4acguai.md#p-151) so as to dispense benefits to,
 and increase the resources of all the people. Two indications are evident in the lines; -- the strong line in the ruler's seat, or the fifth line, and the weak line in the correlative place of 2.
 Whether there be other indications in the figure or its component trigrams will be considered in dealing with the Appendixes. The writer might well say, on general grounds,
 of the ruler whom he had in mind, that he would be successful in his enterprises and overcome the greatest difficulties.

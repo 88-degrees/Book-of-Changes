@@ -42,7 +42,7 @@ here the third and fourth lines are undivided, and outside each of them are two 
 The undivided or yang lines are great, the divided or yin lines are called small.
 In **Xiǎo Guò ䷽** the divided or small lines predominate. But this peculiar structure of the figure could be of no interest to the student,
 if it were not for the meaning of the name, which is 'small excesses' or 'exceeding in what is small.'
-The author, accepted by us as king Wăn, had in his mind our distinction of essentials and non-essentials.
+The author, accepted by us as [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou), had in his mind our distinction of essentials and non-essentials.
 Is it ever good to deviate from what is recognised as the established course of procedure?
 The reply is -- never in the matter of right but in what is conventional and ceremonial -- in what is nonessential -- the deviation may be made,
 and will be productive of good. The form may be given up, but not the substance.

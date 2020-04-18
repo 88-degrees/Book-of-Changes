@@ -24,7 +24,7 @@
 
 ## Notes
 
-**Dùn ䷠** is the hexagram of the sixth month; the yin influence is represented by two weak lines, and has made good its footing in the year. The figure thus suggested to king Wăn the growth of small and unprincipled men in the state, before whose advance superior men were obliged to retire. This is the theme of his essay, -- how, I when small men multiply and increase in power, p. 129 the necessity of the time requires superior men to withdraw before them.' Yet the auspice of Thun is not all bad. By firm correctness the threatened evil may be arrested to a small extent.
+**Dùn ䷠** is the hexagram of the sixth month; the yin influence is represented by two weak lines, and has made good its footing in the year. The figure thus suggested to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) the growth of small and unprincipled men in the state, before whose advance superior men were obliged to retire. This is the theme of his essay, -- how, I when small men multiply and increase in power, p. 129 the necessity of the time requires superior men to withdraw before them.' Yet the auspice of Thun is not all bad. By firm correctness the threatened evil may be arrested to a small extent.
 
 'A retiring tail' seems to suggest the idea of the subject of the lines hurrying away, which would only aggravate the evil and danger of the time.
 

@@ -30,7 +30,7 @@ and correct. There has been good fortune in the beginning; there may be disorder
 
 The character called 既 (Jì) is used as a symbol of being past or completed. 济 (Jì) denotes primarily crossing a stream, and has the secondary meaning of helping and completing.
 The two characters, combined, will express the successful accomplishment of whatever the writer has in his mind.
-In dealing with this lineal figure, king Wăn was thinking of the condition of the kingdom, at length at rest and quiet. The vessel of the state has been brought safely across the great and dangerous stream.
+In dealing with this lineal figure, [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was thinking of the condition of the kingdom, at length at rest and quiet. The vessel of the state has been brought safely across the great and dangerous stream.
 The distresses of the kingdom have been relieved, and its disorders have been repressed. Does anything remain to be done still?
 Yes, in small things. The new government has to be consolidated. Its ruler must, without noise or clamour, go on to perfect what has been wrought, with firmness and correctness,
 and ever keeping in mind the instability of all human affairs. That every line of the hexagram is in its correct place, and has its proper correlate is also supposed to harmonize with the intimation of progress and success.

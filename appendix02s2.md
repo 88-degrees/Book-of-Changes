@@ -698,7 +698,7 @@ If the subject of line 1 had received an official charge, then when unrecognised
 
 There is nothing said on line 2 to explain particularly the symbolism of 'the grandmother' in the Text.
 
-'The course of procedure' in paragraph 6 has still an element of force in it, which is more than 'the firm correctness' that was to king Wăn the ideal character of a feudal lord, and therefore his light is not yet that of the full-orbed sun.
+'The course of procedure' in paragraph 6 has still an element of force in it, which is more than 'the firm correctness' that was to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) the ideal character of a feudal lord, and therefore his light is not yet that of the full-orbed sun.
 
 312:XXXVI The application of the Great Symbolism here is in itself sufficiently natural; but this meaning of the hexagram hardly appears in the text, till we come to the sixth line.
 

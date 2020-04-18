@@ -24,7 +24,7 @@
 
 ## Notes
 
-The strong lines predominate in **Dà Zhuàng**. It suggested to king Wăn a state or condition of things in which there was abundance of strength and vigour.
+The strong lines predominate in **Dà Zhuàng**. It suggested to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) a state or condition of things in which there was abundance of strength and vigour.
 Was strength alone enough for the conduct of affairs? No. He saw also in the figure that which suggested to him that strength should be held in subordination to the idea of right, and exerted only in harmony with it.
 
 ###### p. 131

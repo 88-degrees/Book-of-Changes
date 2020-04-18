@@ -20,7 +20,7 @@ Chinese: bì 贲 ䷕
 
 ## Notes
 
-104:XXII The character **Bì ䷕** is the symbol of what is ornamental and of the act of adorning. As there is ornament in nature, so should there be in society; but its place is secondary to that of what is substantial. This is the view of king Wăn in his [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). The symbolism of the separate lines is sometimes fantastic.
+104:XXII The character **Bì ䷕** is the symbol of what is ornamental and of the act of adorning. As there is ornament in nature, so should there be in society; but its place is secondary to that of what is substantial. This is the view of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) in his [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). The symbolism of the separate lines is sometimes fantastic.
 
 Line 1 is strong, and in an odd place. It is at the very bottom of the hexagram, and is the first line of Lî, the trigram. for fire or light, and suggesting what is elegant and bright. Its subject has nothing to do but to attend to himself. Thus he cultivates -- adorns -- himself in his humble position; but if need be, righteousness requiring it, he can give up every luxury and indulgence.
 

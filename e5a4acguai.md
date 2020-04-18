@@ -28,7 +28,7 @@ and support), with a consciousness of the peril (involved in cutting off the cri
 
 In **Guài ䷪** we have the hexagram of the third month, when the last remnant, cold and dark, of winter, represented by the sixth line,
 is about to disappear before the advance of the warm and bright days of the approaching summer.
-In the yin line at the top king Wăn saw the symbol of a small or bad man, a feudal prince or high minister,
+In the yin line at the top [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) saw the symbol of a small or bad man, a feudal prince or high minister,
 lending his power to maintain a corrupt government, or, it might be, a dynasty that was waxen old and ready to vanish away;
 and in the five undivided lines he saw the representatives of good order, or, it might be, the dynasty which was to supersede the other.
 This then is the subject of the hexagram, -- how bad men, statesmen corrupt and yet powerful, are to be put out of the way.
