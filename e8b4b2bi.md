@@ -1,10 +1,14 @@
 # Bì ䷕
 
-Chinese: bì 贲 ䷕
+> Chinese: 贲 ䷕ bì
+
+###### p. 103
 
 ![Bi](https://88o.io/wp-content/uploads/2018/09/22-e8b4b2bi.jpg)
 
 **Bì ䷕** indicates that there should be free course (in what it denotes). There will be little advantage (however) if it be allowed to advance (and take the lead).
+
+###### p. 104
 
 1. The first NINE, undivided, shows one adorning (the way of) his feet. He can discard a carriage and walk on foot.
 
