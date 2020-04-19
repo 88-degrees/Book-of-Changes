@@ -1,4 +1,4 @@
-# Qian ䷀
+# Qián ䷀
 
 > Chinese: 乾 ䷀ qián
 
