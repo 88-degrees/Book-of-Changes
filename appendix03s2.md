@@ -232,7 +232,7 @@ those of him who is losing what he ought to keep are crooked.
 
 Footnotes
 
-381:I Chapter I, paragraphs 1-10, is an amplification, according to Khung Ying-tâ and the editors of the imperial edition of the present dynasty, of the second chapter of Section i. The latter say that as all the chapters of Section i from the third onwards serve to elucidate chapter 2, so it is with this chapter and all that follow in this Section. The formation of the diagrams, and of their several lines, their indication of good fortune and bad, and the analogy between the processes of nature and the operations of divination, and other kindred subjects, are all touched on.
+381:I Chapter I, paragraphs 1-10, is an amplification, according to [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda) and the editors of the imperial edition of the present dynasty, of the second chapter of Section i. The latter say that as all the chapters of Section i from the third onwards serve to elucidate chapter 2, so it is with this chapter and all that follow in this Section. The formation of the diagrams, and of their several lines, their indication of good fortune and bad, and the analogy between the processes of nature and the operations of divination, and other kindred subjects, are all touched on.
 
 The order of the eight trigrams in paragraph 1, is khien, tui, p. 381 lî, kăn, sun, khan, kăn, khwăn. The three lines of each are emblematic,--the first of heaven, the second of man, the third of earth. This is the most likely explanation of [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols), 'the emblems' or 'similitudes' here. Why the maker--'sages'--stopt at sixty-four figures, of six lines each, is a question that cannot be answered.
 
