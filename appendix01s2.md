@@ -16,7 +16,7 @@
 
 ###### p. 239
 
-which are in mutual communication; (they have the qualities of) docility and motive force; their strong and weak (lines) all respond, each to the other: -- these things are all found in Hăng.
+which are in mutual communication; (they have the qualities of) docility and motive force; their strong and weak (lines) all respond, each to the other: -- these things are all found in [**Héng ䷟**](e68192heng.md).
 
 2. (When it is said that) '[**Héng ䷟**](e68192heng.md) indicates successful progress and no error (in what it denotes); but the advantage will come from being firm and correct,' this indicates that there must be long continuance in its way of operation. The way of heaven and earth is to be long continued in their operation without stopping.
 
