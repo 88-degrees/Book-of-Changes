@@ -1,4 +1,4 @@
-# Qian ䷎
+# Qiān ䷎
 
 > Chinese: 谦 ䷎ qiān
 
