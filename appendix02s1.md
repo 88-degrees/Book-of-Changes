@@ -308,7 +308,7 @@ when they associated with Him (at the service) their highest ancestor and their 
 
 6. 'The sincerity is firmly held and clung to, as shown in the topmost line:' -- (the idea of the hexagram) has reached its extreme development.
 
-<a name="fr_207"></a>[XVIII](#fn_207). (The trigram for) a mountain, and below it that for wind, form Kû. The superior man, in accordance with this, (addresses himself to) help the people and nourish his own virtue.
+<a name="fr_207"></a>[XVIII](#fn_207). (The trigram **☶** for) a mountain, and below it **☴** that for wind, form [**Gǔ ䷑**](e89b8agu.md). The superior man, in accordance with this, (addresses himself to) help the people and nourish his own virtue.
 
 1. 'He deals with the troubles caused by his father:' -- he feels that he has entered into the work of his father.
 
@@ -324,7 +324,7 @@ when they associated with Him (at the service) their highest ancestor and their 
 
 6. 'He does not serve either king or feudal lord:' -- but his aim may be a model (to others).
 
-<a name="fr_208"></a>[XIX](#fn_208). (The trigram for) the waters of a marsh and that for the earth above it form Lin. The superior man, in accordance with this, has his purposes of instruction that are inexhaustible, and nourishes and supports the people without limit.
+<a name="fr_208"></a>[XIX](#fn_208). (The trigram **☱** for) the waters of a marsh and **☷** that for the earth above it form [**Lín ䷒**](e4b8b4lin.md). The superior man, in accordance with this, has his purposes of instruction that are inexhaustible, and nourishes and supports the people without limit.
 
 1. 'The good fortune through the firm correctness of (the subject of the first line) advancing in company (with the subject of the second)' is due to his will being set on doing what is right.
 
@@ -342,7 +342,7 @@ advance in the highest mode' is due to the (various) appropriateness of the posi
 
 6. 'The good fortune consequent on the advance of honesty and generosity' is due to the will (of the subject of the line) being set on the subjects of (the first two lines of) the inner (trigram).
 
-<a name="fr_209"></a>[XX](#fn_209). (The trigram representing) the earth, and that for wind moving above it, form Kwan. The ancient kings, in accordance with this, examined the (different) regions (of the kingdom), to see the (ways of the) people, and set forth their instructions.
+<a name="fr_209"></a>[XX](#fn_209). (The trigram **☷** representing) the earth, and **☴** that for wind moving above it, form [**Guān ䷓**](e8a782guan.md). The ancient kings, in accordance with this, examined the (different) regions (of the kingdom), to see the (ways of the) people, and set forth their instructions.
 
 1. 'The looking of a lad shown by the first six, (divided); indicates the way of the inferior people.
 
@@ -358,7 +358,7 @@ advance in the highest mode' is due to the (various) appropriateness of the posi
 
 6. 'He contemplates his own character:' -- he cannot even yet let his mind be at rest.
 
-<a name="fr_210"></a>[XXI](#fn_210). (The trigrams representing) thunder and lightning form Shih Ho. The ancient kings, in accordance with this, framed their penalties with intelligence, and promulgated their laws.
+<a name="fr_210"></a>[XXI](#fn_210). (The trigrams **☳** **☲** representing) thunder and lightning form [**Shì Kè ䷔**](e599ace59791shike.md). The ancient kings, in accordance with this, framed their penalties with intelligence, and promulgated their laws.
 
 1. 'His feet are in the stocks, and he is deprived of his toes:' -- there is no walking (to do evil).
 
@@ -376,7 +376,7 @@ to bite off the nose:' -- (the subject of the line) is mounted on the strong (fi
 
 6. 'He wears the cangue and is deprived of his ears:' -- he hears, but will not understand.
 
-<a name="fr_211"></a>[XXII](#fn_211). (The trigram representing) a mountain and that for fire under it form Pî. The superior man, in accordance with this, throws a brilliancy around his various processes of government, but does not dare (in a similar way) to decide cases of criminal litigation.
+<a name="fr_211"></a>[XXII](#fn_211). (The trigram **☶** representing) a mountain and **☲** that for fire under it form [**Bì ䷕**](e8b4b2bi.md). The superior man, in accordance with this, throws a brilliancy around his various processes of government, but does not dare (in a similar way) to decide cases of criminal litigation.
 
 ###### p. 295
 
