@@ -1,6 +1,8 @@
-# Tai ䷊
+# Tài ䷊
 
-Chinese: tài 泰 ䷊
+> Chinese: 泰 ䷊ tài
+
+###### p. 81
 
 ![Tai](https://88o.io/wp-content/uploads/2018/09/11-e6b3b0tai.jpg)
 
@@ -12,8 +14,11 @@ In **Tài ䷊** (we see) the little gone and the great come. (It indicates that)
 
 3. The third NINE, undivided, shows that, while there is no state of peace that is not liable to be disturbed, and no departure (of evil men) so that they shall not return, yet when one is firm and correct, as he realises the distresses that may arise, he will commit no error. There is no occasion for sadness at the certainty (of such recurring changes); and in this mood the happiness (of the present) may be (long) enjoyed.
 
-4. The fourth SIX, divided, shows its subject fluttering (down);--not relying on his own rich resources,
-but calling in his neighbours. (They all come) not as having received warning, but in the sincerity (of their hearts).
+4. The fourth SIX, divided, shows its subject fluttering (down);--not relying on his own rich
+
+###### p. 82
+
+resources, but calling in his neighbours. (They all come) not as having received warning, but in the sincerity (of their hearts).
 
 5. The fifth six, divided, reminds us of (king) Tî-yî's (rule about the) marriage of his younger sister. By such a course there is happiness and there will be great good fortune.
 
