@@ -1,4 +1,4 @@
-# Zhun ䷂
+# Zhūn ䷂
 
 > Chinese: 屯 ䷂ zhūn
 
@@ -38,7 +38,7 @@ To the subject of the second line, divided, advance is still more difficult. He 
 
 The third line is divided, not central, and the number of its place is appropriate to the occupancy of a strong line. All these things should affect the symbolism of the line. But the outcome of the whole hexagram being good, the superior man sees the immediate danger and avoids it.
 
-The subject of the fourth line, the first of the upper trigram, has recourse to the strong suitor of line 1, the first of the lower trigram; and with his help is able to cope with the difficulties of the position, and go forward.
+The subject of the fourth line, the first of the upper trigram **☵**, has recourse to the strong suitor of line 1, the first of the lower trigram **☳**; and with his help is able to cope with the difficulties of the position, and go forward.
 
 The subject of the fifth line is in the place of authority, and should show himself a ruler, dispensing benefits on a great scale. But he is in the very centre of the trigram denoting perilousness, and line 2, which responds to 5, is weak. Hence arises the symbolism, and great things should not be attempted.
 
