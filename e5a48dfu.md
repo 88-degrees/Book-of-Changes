@@ -1,6 +1,6 @@
 # Fù ䷗
 
-Chinese: fù 复 ䷗
+> Chinese: 复 ䷗ fù
 
 ###### p. 107
 
