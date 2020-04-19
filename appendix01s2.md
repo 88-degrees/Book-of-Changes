@@ -456,7 +456,7 @@ The explanations in paragraph 2 of the phraseology of the [**Tuàn**](https://en
 
 1. The process of the formation of the trigrams here is the reverse of that in the preceding hexagram; and is open to the remarks I have made on that. Of course the people are full of complacency and pleasure in the labours of their ruler for their good.
 
-2. The mention of 'the action of wood' has reference to the upper trigram **Xùn ☴**, which is the symbol both of wind and wood. From wood boats and ships are made, on which the great stream may be crossed. In three hexagrams, this, 59, and 61, of which **Xùn ☴** is a part, we find mention made of crossing the great stream. It is generally said that the lower trigram Kăn also symbolises wood; but that is obtained by a roundabout process. **Zhèn ☳** occupies the place of the east in Wan's arrangement of the trigrams; but the east symbolises spring, when the growth of vegetation begins; and therefore **Zhèn ☳** may symbolise wood! It was stated on [Bā Guà Figure](bagua.png), that the doctrine of 'the five elements' does not appear in the `I Ching`. [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) takes wood (木 `mù`), 'as a misprint for increase (益 `yì`).'
+2. The mention of 'the action of wood' has reference to the upper trigram **Xùn ☴**, which is the symbol both of wind and wood. From wood boats and ships are made, on which the great stream may be crossed. In three hexagrams, this, 59, and 61, of which **Xùn ☴** is a part, we find mention made of crossing the great stream. It is generally said that the lower trigram Kăn also symbolises wood; but that is obtained by a roundabout process. **Zhèn ☳** occupies the place of the east in [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s arrangement of the trigrams; but the east symbolises spring, when the growth of vegetation begins; and therefore **Zhèn ☳** may symbolise wood! It was stated on [Bā Guà Figure](bagua.png), that the doctrine of 'the five elements' does not appear in the `I Ching`. [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) takes wood (木 `mù`), 'as a misprint for increase (益 `yì`).'
 
 3. The words 'heaven dispensing and earth producing' are based on the fancied genesis of the figure from **Qián ☰** and **Kūn ☷** (image hex111000).
 
@@ -514,13 +514,13 @@ Paragraph 3 tells us how the greatest natural and the greatest political changes
 
 2. The explanations of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) here are good; but in no way deduced from the figure.
 
-3. The portion of the text printed in a different type is supposed to have dropt out of the Chinese copies. The explanation of it that follows is based on Wăn's view of Kăn as representing the oldest son. See on the Text.
+3. The portion of the text printed in a different type is supposed to have dropt out of the Chinese copies. The explanation of it that follows is based on [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s view of **Zhèn ☳** as representing the oldest son. See on the Text.
 
 <a name="fn_176"></a>[256:LII](#fr_176)
 
 1. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors give their opinion that what is said in the first sentence of this paragraph, after the explanation of the name, illustrates the first sentence of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16), and that the other sentence illustrates the: rest of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16). It may be so, but the whole of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) appears in paragraph 2.
 
-2. The hexagram being made up of Kăn repeated, lines 1, 2, 3 are of course the same as 4, 5, and 6. But it will be seen that there is not a proper correlation among them all. I do not see, p. 257 however, that this furnishes any ground for the entire obliviousness of self, which the Th wan makes out to be in the figure.
+2. The hexagram being made up of **Gèn ☶** repeated, lines 1, 2, 3 are of course the same as 4, 5, and 6. But it will be seen that there is not a proper correlation among them all. I do not see, [p. 257](#p-257) however, that this furnishes any ground for the entire obliviousness of self, which the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) makes out to be in the figure.
 
 <a name="fn_177"></a>[257:LIII](#fr_177) The first sentence of paragraph 2 describes the lines from 2 to 5 all getting into their proper places, as has been pointed out on the Text, and that sentence is symbolical of what is said in the second. 'The rectification of the country' is the reality of 'the successful progress.'
 
