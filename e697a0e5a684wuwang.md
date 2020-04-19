@@ -1,6 +1,6 @@
 # Wú Wàng ䷘
 
-Chinese: 无妄 ䷘ wú wàng
+> Chinese: 无妄 ䷘ wú wàng
 
 ###### p. 109
 
