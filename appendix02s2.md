@@ -828,7 +828,7 @@ Ii is said on paragraph 1:--'Those who have a mind to do something in the world,
 
 Rather in opposition to what I have said on the Text of line 4, the 'Daily Lecture' observes here:--'The cultivation of one's self, which is represented here, is fundamental to the government of others.'
 
-329:XLIX Wise men, occupying themselves with the determination of the seasons and questions of time, have in all ages based their judgments on the observation of the heavenly bodies. We find this insisted on in the first book of the Shû, by the ancient Yâo. But how this application of the Great Symbolism really flows from it, I must confess myself unable to discover. Once, however, when I was conversing about the Yî with a high Chinese dignitary, who was a well-read scholar also so far as his own literature was concerned, he referred to this paragraph as proving that all our western science had been known to Fû-hsî and Confucius!
+329:XLIX Wise men, occupying themselves with the determination of the seasons and questions of time, have in all ages based their judgments on the observation of the heavenly bodies. We find this insisted on in the first book of the Shû, by the ancient Yâo. But how this application of the Great Symbolism really flows from it, I must confess myself unable to discover. Once, however, when I was conversing about the Yî with a high Chinese dignitary, who was a well-read scholar also so far as his own literature was concerned, he referred to this paragraph as proving that all our western science had been known to [Fúxī](https://en.wikipedia.org/wiki/Fuxi) and Confucius!
 
 What is said on the several lines is sufficiently illustrated in the notes on the Text.
 
