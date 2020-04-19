@@ -22,7 +22,7 @@ engage in the king's business, he will not (claim the merit of) achievement.
 
 4. The fourth NINE, undivided, shows its subject unequal to the contention. He returns to (the study of Heaven's) ordinances, changes (his wish to contend), and rests in being firm and correct. There will be good fortune.
 
-5. The fifth NINE, undivided, shows its subject contending;--and with great good fortune.
+5. The fifth NINE, undivided, shows its subject contending; -- and with great good fortune.
 
 6. The topmost NINE, undivided, shows how its subject may have the leathern belt conferred on him (by the sovereign), and thrice it shall be taken from him in a morning.
 
@@ -40,7 +40,7 @@ Line 4 is strong, and not in the centre; so that we are to conceive of its subje
 
 Line 5 has every circumstance in favour of its subject.
 
-Line 6 is strong and able to contend successfully; but is there to be no end of striving? Persistence in it is sure to end in defeat and disgrace. The contender here might receive a reward from the king for his success; but if he received it thrice in a morning, thrice it would be taken from him again. As to the nature of the reward here given, see on the [Lî Kî, X, ii, 32](https://www.sacred-texts.com/cfu/liki/liki10.htm).
+Line 6 is strong and able to contend successfully; but is there to be no end of striving? Persistence in it is sure to end in defeat and disgrace. The contender here might receive a reward from the king for his success; but if he received it thrice in a morning, thrice it would be taken from him again. As to the nature of the reward here given, see on the [Lî Kî, X, ii, 32](https://www.sacred-texts.com/cfu/liki/liki10.htm) and the [original text](https://ctext.org/dictionary.pl?if=en&id=9961&remap=gb).
 
 P. Regis explains several of the expressions in the Text, both in the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) and the [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols), from the history of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son [king Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou). Possibly his own circumstances may have suggested to [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) some of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings); and his course in avoiding a direct collision with the tyrant [Shào](https://en.wikipedia.org/wiki/Duke_of_Shao), and [Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou)'s subsequent exploits may have been in the mind of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou). Some of the sentiments, however, cannot be historically explained. They are general protests against all contention and strife.
 

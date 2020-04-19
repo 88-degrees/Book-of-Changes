@@ -570,7 +570,7 @@ A strong line in the topmost place must represent, according to the scheme of th
 
 'The regular course' of the subject of line 1 seems to be the determination to wait, at a distance from danger, the proper time to act.
 
-The subject of line 2, which is undivided and in the centre, is thereby shown to be possessed of a large and generous forbearance.
+The subject of line 2, which is undivided and in the centre **☵**, is thereby shown to be possessed of a large and generous forbearance.
 
 The recognition of the circumstances of the time, and hearkening to its requirements, explain, in paragraph 4, 'the retreat from the cavern,' which is not here repeated from the Text. The line being weak and divided, its subject knows his own incompetency, and takes this prudent step.
 
