@@ -1,10 +1,10 @@
-# Bi ䷇
+# Bǐ ䷇
 
-Chinese: bǐ 比 ䷇
-
-![Bi](https://88o.io/wp-content/uploads/2018/09/08-e6af94bi.jpg)
+> Chinese: 比 ䷇ bǐ
 
 ###### p. 73
+
+![Bi](https://88o.io/wp-content/uploads/2018/09/08-e6af94bi.jpg)
 
 **Bǐ ䷇** indicates that (under the conditions which it supposes) there is good fortune. But let (the principal party intended in it) re-examine himself, (as if) 
 
