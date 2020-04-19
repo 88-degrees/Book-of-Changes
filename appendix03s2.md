@@ -324,7 +324,7 @@ Paragraph 60 seems to say that the work of the [duke of Zhou](https://en.wikiped
 
 p. 402
 
-The last two paragraphs mention several points important to be attended to in studying, more especially, the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou) on the several lines. Three different views of the concluding statement,--'are they occupied,' &c.,--are given in the imperial edition. 'It belongs,' says Wû Kăng, 'to the fifth line;' 'to the third line,' says [Hú Bǐng-wén](http://bec001.web3.ncku.edu.tw/var/file/142/1142/img/2248/5802.pdf) (also of the Yüan dynasty); while Hân Hsing-kwo (of the Thang dynasty) held that it belonged to both. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that 'by discriminating and combining these views, we get to the meaning of the text.' I am unable to do so.
+The last two paragraphs mention several points important to be attended to in studying, more especially, the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou) on the several lines. Three different views of the concluding statement,--'are they occupied,' &c.,--are given in the imperial edition. 'It belongs,' says Wû Kăng, 'to the fifth line;' 'to the third line,' says [Hú Bǐng-wén](http://bec001.web3.ncku.edu.tw/var/file/142/1142/img/2248/5802.pdf) (also of the Yuán dynasty); while Hân Hsing-kwo (of the Thang dynasty) held that it belonged to both. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that 'by discriminating and combining these views, we get to the meaning of the text.' I am unable to do so.
 
 402:X Chapter X, paragraphs 63, 64, speaks of the great comprehensiveness of the Yî, its figures and explanations being applicable to the three Powers--heaven, earth, and man.
 

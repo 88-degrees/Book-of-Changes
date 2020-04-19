@@ -692,7 +692,7 @@ In paragraph 3 nothing is added to the Text; and on the symbolism nothing is sai
 
 Paragraph 5. 'He is not in his appropriate place:' this is said simply because an odd place ought to be filled by a strong line.
 
-310:XXXV The sun rising above the earth, and then travelling up to his meridian height, readily suggests the idea of advancing. On p. 311 the application of this symbolism, [Hú Bǐng-wén](http://bec001.web3.ncku.edu.tw/var/file/142/1142/img/2248/5802.pdf) (Yüan dynasty) says:--'Of strong things there is none so strong as heaven; and hence the superior man after its pattern makes himself strong; of bright things there is none so bright as the sun, and after its pattern he makes himself bright.'
+310:XXXV The sun rising above the earth, and then travelling up to his meridian height, readily suggests the idea of advancing. On p. 311 the application of this symbolism, [Hú Bǐng-wén](http://bec001.web3.ncku.edu.tw/var/file/142/1142/img/2248/5802.pdf) (Yuán dynasty) says:--'Of strong things there is none so strong as heaven; and hence the superior man after its pattern makes himself strong; of bright things there is none so bright as the sun, and after its pattern he makes himself bright.'
 
 If the subject of line 1 had received an official charge, then when unrecognised by his sovereign, and obstructed in his progress, his correct course would have been to cease to advance, and retire from the office in which he was not allowed to carry out his principles.
 
@@ -716,7 +716,7 @@ The sooner preventive measures are presented to the youthful mind the better; bu
 
 In paragraph 2 'docility' is suggested by the weak line. 'The humility' comes out of Sun, the upper trigram, whose attribute is pliant flexibility.
 
-Yü Yen (Yüan dynasty) ingeniously observes on paragraph 4 that the riches of a family are not to be sought in its wealth, but in the affection and harmony of its members. Where these prevail, the family is not likely to be poor, and whatever it has will be well preserved.
+Yü Yen (Yuán dynasty) ingeniously observes on paragraph 4 that the riches of a family are not to be sought in its wealth, but in the affection and harmony of its members. Where these prevail, the family is not likely to be poor, and whatever it has will be well preserved.
 
 The mention 'of mutual love' is unusual in Chinese writings, and must be considered remarkable here. 'The. husband,' says [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'loves his helpmate in the house; the wife loves him who is the pattern for the family.' But however admirable the sentiment is, it comes from the mind of the writer, and is not drawn from the Text.
 
