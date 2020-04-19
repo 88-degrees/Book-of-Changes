@@ -10,11 +10,11 @@ In **Tài ䷊** (we see) the little gone and the great come. (It indicates that)
 
 1. The first NINE, undivided, suggests the idea of grass pulled up, and bringing with it other stalks with whose roots it is connected. Advance (on the part of its subject) will be fortunate.
 
-2. The second NINE, undivided, shows one who can bear with the uncultivated, will cross the Ho without a boat, does not forget the distant, and has no (selfish) friendships. Thus does he prove himself acting in accordance with the course of the due Mean.
+2. The second NINE, undivided, shows one who can bear with the uncultivated, will cross the [Hé](https://zh.wikipedia.org/wiki/河) (河) without a boat, does not forget the distant, and has no (selfish) friendships. Thus does he prove himself acting in accordance with the course of the due Mean.
 
 3. The third NINE, undivided, shows that, while there is no state of peace that is not liable to be disturbed, and no departure (of evil men) so that they shall not return, yet when one is firm and correct, as he realises the distresses that may arise, he will commit no error. There is no occasion for sadness at the certainty (of such recurring changes); and in this mood the happiness (of the present) may be (long) enjoyed.
 
-4. The fourth SIX, divided, shows its subject fluttering (down);--not relying on his own rich
+4. The fourth SIX, divided, shows its subject fluttering (down); -- not relying on his own rich
 
 ###### p. 82
 
@@ -27,7 +27,7 @@ resources, but calling in his neighbours. (They all come) not as having received
 ## Notes
 
 The language of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) has reference to the form of **Tài ䷊**, with the three strong lines of Khien below, and the three weak lines of Khwăn above.
-The former are 'the great,' active and vigorous; the latter are 'the small,' inactive and submissive. But where have the former 'come' from, and whither are the latter gone?' In many editions of the Yî beneath the hexagram of Thâi here, there appears that of [**Guīmèi ䷵**](e5bd92e5a6b9guimei.md), the 54th in order, which becomes **Tài ䷊**, if the third and fourth lines exchange places. But in the notes on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), in the first Appendix, on hexagram 6, I have spoken of the doctrine of 'changing figures,' and intimated my disbelief of it. The different hexagrams arose necessarily by the continued manipulation of the undivided and divided lines, and placing them each over itself and over the other. When [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) wrote these [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), he was taking the 64 hexagrams, as they were ready to his hand, and not forming one from another by any process of divination. The 'gone' and 'come' are merely equivalent to 'below' and 'above,' in the lower trigram or in the upper.
+The former are 'the great,' active and vigorous; the latter are 'the small,' inactive and submissive. But where have the former 'come' from, and whither are the latter gone?' In many editions of the `I Ching` beneath the hexagram of **Tài ䷊** here, there appears that of [**Guīmèi ䷵**](e5bd92e5a6b9guimei.md), the 54th in order, which becomes **Tài ䷊**, if the third and fourth lines exchange places. But in the notes on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), in the [first Appendix, on hexagram 6](appendix01s1.md#fn_130), I have spoken of the doctrine of 'changing figures,' and intimated my disbelief of it. The different hexagrams arose necessarily by the continued manipulation of the undivided and divided lines, and placing them each over itself and over the other. When [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) wrote these [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), he was taking the 64 hexagrams, as they were ready to his hand, and not forming one from another by any process of divination. The 'gone' and 'come' are merely equivalent to 'below' and 'above,' in the lower trigram or in the upper.
 
 A course in which the motive forces are represented by the three strong, and the opposing by the three weak lines, must be progressive and successful. **Tài ䷊** is called the hexagram of the first month of the year, the first month of the natural spring, when for six months, through the fostering sun and genial skies, the processes of growth will be going on.
 
