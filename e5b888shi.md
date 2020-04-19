@@ -1,10 +1,10 @@
-# Shi ䷆
+# Shī ䷆
 
-Chinese: shī 师 ䷆
-
-![Shi](https://88o.io/wp-content/uploads/2018/09/07-e5b888shi.jpg)
+> Chinese: 师 ䷆ shī
 
 ###### p. 71
+
+![Shi](https://88o.io/wp-content/uploads/2018/09/07-e5b888shi.jpg)
 
 **Shī ䷆** indicates how, in the case which it supposes, with firmness and correctness, and (a leader of) age
 
@@ -37,7 +37,7 @@ The symbolism of line 3 is very perplexing. P. Regis translates it: -- 'Milites 
 
 Line 4 is weak and not central; and therefore 'to retreat' is [p. 74](e6af94bi.md#p-74) natural for its subject. But its place is even, and proper for a divided line; and the retreat will be right in the circumstances.
 
-In line 5 we seem to have an intimation of the important truth that only defensive war, or war waged by the rightful authority to put down rebellion and lawlessness, is right. 'The birds in the fields' symbolise parties attacking for plunder. The fifth line symbolises the chief authority,--the king, who is weak, or humble, and in the centre, and cedes the use of all his power to the general symbolised by line 2. The subject of 2 is 'the oldest son.' Those of three and four are supposed to be 'the younger brother and son,' that is, the younger men, who would cause evil if admitted to share the command.
+In line 5 we seem to have an intimation of the important truth that only defensive war, or war waged by the rightful authority to put down rebellion and lawlessness, is right. 'The birds in the fields' symbolise parties attacking for plunder. The fifth line symbolises the chief authority, -- the king, who is weak, or humble, and in the centre, and cedes the use of all his power to the general symbolised by line 2. The subject of 2 is 'the oldest son.' Those of three and four are supposed to be 'the younger brother and son,' that is, the younger men, who would cause evil if admitted to share the command.
 
 The lesson on the topmost line is true and important, but the critics seem unable to deduce it from the nature of the line, as divided and in the sixth place.
 
