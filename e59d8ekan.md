@@ -1,6 +1,6 @@
 # Kǎn ䷜
 
-Chinese: kǎn 坎 ䷜
+> Chinese: kǎn 坎 ䷜
 
 ###### p. 118
 
