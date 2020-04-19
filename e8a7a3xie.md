@@ -31,7 +31,7 @@ executing his function of removing (whatever is injurious to the idea of the hex
 
 There is a weak line, instead of a strong, in the first place; but this is compensated for by its strong correlate in 4.
 
-Kû Hsî says he does not understand the symbolism under line 2. The place is even, but the line itself is strong; the strength therefore is modified or tempered. And 2 is the correlate of the ruler in 5. We are to look to its subject therefore for a minister striving to realise the idea of the hexagram, and pacify the subdued kingdom. He becomes a hunter, and disposes of unworthy men, represented by 'the three foxes.' He also gets the yellow arrows, the instruments used in war or in hunting, whose colour is 'correct,' and whose form is 'straight.' His firm correctness will be good.
+[Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says he does not understand the symbolism under line 2. The place is even, but the line itself is strong; the strength therefore is modified or tempered. And 2 is the correlate of the ruler in 5. We are to look to its subject therefore for a minister striving to realise the idea of the hexagram, and pacify the subdued kingdom. He becomes a hunter, and disposes of unworthy men, represented by 'the three foxes.' He also gets the yellow arrows, the instruments used in war or in hunting, whose colour is 'correct,' and whose form is 'straight.' His firm correctness will be good.
 
 Line 3 is weak, when it should be strong; and occupying, as it does, the topmost place of the lower trigram, it suggests the symbolism of a porter in a carriage. People will say, 'How did he get there? The things cannot be his own.' And robbers will attack and plunder him. The subject of the line cannot protect himself, nor accomplish anything good.
 

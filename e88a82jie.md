@@ -35,7 +35,7 @@ Whatever makes regular division may be denominated a Kieh; there enter into it t
 and the subject of this hexagram is the regulations of government enacted for the guidance and control of the people.
 How the constituent trigrams are supposed to suggest or indicate this meaning will be seen in [Appendix II](appendix02s1.md).
 
-Kû Hsî anticipates that symbolism in trying to account for the statement that the figure gives the promise of success and attainment;
+[Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) anticipates that symbolism in trying to account for the statement that the figure gives the promise of success and attainment;
 but the ground of this is generally made out by referring to the equal division of the undivided and divided lines and our having in 2 and 5, the central places, two undivided lines.
 An important point concerning 'regulations' is brought out in the conclusion of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), -- that they must be adapted to circumstances, and not made too strict and severe.
 

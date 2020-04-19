@@ -34,7 +34,7 @@ Line 2 is weak, but also in its right place, and central; giving us the idea of 
 
 Line 3, strong and in a strong place, is the topmost line of the lower. trigram. It responds also to line 6, in which the idea of the sovereign, emblemed by the upper trigram, is concentrated. The lower trigram is the emblem of light or brightness, the idea of which again is expressed by the south, to which we turn when we look at the sun in its meridian height. Hence the subject of the [p. 137]() line becomes a hunter pursuing his game, and successfully. The good officer will be successful in his struggle; but let him not be over eager to put all things right at once.
 
-Line 4 is weak, but in its right place. Kû Hsî says he does not understand the symbolism, as given in the Text. The translation indicates the view of it commonly accepted. The subject of the line evidently escapes from his position of danger with little damage.
+Line 4 is weak, but in its right place. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says he does not understand the symbolism, as given in the Text. The translation indicates the view of it commonly accepted. The subject of the line evidently escapes from his position of danger with little damage.
 
 Line 5 should be the place of the ruler or sovereign in the hexagram; but 6 is assigned as that place in **Míng Yí ䷣**. The officer occupying 5, the centre of the upper trigram, and near to the sovereign, has his ideal in the count of Kî, whose action appears in the [Shû, III, pp. 123, 127, 128](). He is a historical personage.
 

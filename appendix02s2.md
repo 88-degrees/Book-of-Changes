@@ -658,7 +658,7 @@ Paragraph 1. What is beyond one's self is represented by line 4, a proper correl
 
 Paragraph 2. 'Compliance (with the circumstances of his condition and place)' is merely another way of 'being firm and correct.'
 
-Paragraph 3. The language, 'What he holds in his grasp is low,' makes Kû Hsî and the older commentators generally understand low of lines 1 and 2, and their weak subjects. But 'following' leads the mind to the lines above, as the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors point out. 'Low' is to be understood in the sense of 'mean.'
+Paragraph 3. The language, 'What he holds in his grasp is low,' makes [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) and the older commentators generally understand low of lines 1 and 2, and their weak subjects. But 'following' leads the mind to the lines above, as the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors point out. 'Low' is to be understood in the sense of 'mean.'
 
 Paragraph 4. The 'being firm and correct' appears here as equivalent to the want of 'a selfish wish to influence.'
 
@@ -676,7 +676,7 @@ p. 308
 
 From paragraph 5 it appears that what is right will vary in different cases. The lesson of the hexagram is perseverance in what is right in each particular case.
 
-308:XXXIII Kû Hsî says:--'The sky is illimitable; a mountain is high, but has its limits; the union of these is an emblem of retiring.' I do not understand such embleming. [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says:--'Below the sky is a mountain. The mountain rises up below the sky, and its height is arrested, while the sky goes up higher and higher, till they come to be apart from each other. In this we have an emblem of retiring and avoiding.' We feel somewhat as p. 309 if there were a meaning in this; but, as in many other cases, both the symbolism and its application are but dimly apprehended.
+308:XXXIII [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says:--'The sky is illimitable; a mountain is high, but has its limits; the union of these is an emblem of retiring.' I do not understand such embleming. [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says:--'Below the sky is a mountain. The mountain rises up below the sky, and its height is arrested, while the sky goes up higher and higher, till they come to be apart from each other. In this we have an emblem of retiring and avoiding.' We feel somewhat as p. 309 if there were a meaning in this; but, as in many other cases, both the symbolism and its application are but dimly apprehended.
 
 The symbolism of the various lines is sufficiently explained on the Text. Paragraph 5 is but a repetition of the Text without additional explanation.
 
@@ -770,7 +770,7 @@ Paragraph 6. As in line 2 the attractive power of benevolence is shown, so in li
 
 321:XLIII We can only understand the mounting of the waters of a marsh up into the sky of the phenomenon of evaporation; and certainly the waters so formed into clouds will be condensed, and come down again as rain. This may be taken as an image of dispersion, but not of displacement in the sense of the Text of the hexagram.
 
-The first clause of the application follows naturally enough from the above interpretation of the Symbolism. Kû Hsî says he does not understand the second clause. Many critics adopt the view of it which appears in the translation.
+The first clause of the application follows naturally enough from the above interpretation of the Symbolism. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says he does not understand the second clause. Many critics adopt the view of it which appears in the translation.
 
 Paragraph 2 does not mention the precautionary measures taken in the Text by the subject of the line, from which the conclusion would follow quite as naturally as from his central position. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, however, say that the not having recourse lightly to force is itself the due course.
 
@@ -810,7 +810,7 @@ Paragraph 4. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary)
 
 Paragraph 6. When one has reached the greatest height, he should think of retiring. Ambition otherwise may overleap itself.
 
-326:XLVII The first sentence of the Great Symbolism is constructed differently from any which has presented itself in the previous 46 hexagrams. Literally translated, it would be 'a marsh with no water is Khwăn;' and this might certainly suggest to us a condition of distress. But how does this come out of the trigrams? The upper one is Tui, representing a marsh; and the lower is Khân, representing water in a defile. The collocation of the two suggests the running of the water from the marsh or lake into the stream, which will soon empty the other. Such is the view which occurred to myself; and it is the same as that given by Kû Hsî:--'The water descending and leaking away, the marsh above will become dry.' The application is good in itself, but the concatenation between it and the Symbolism is hardly discernible.
+326:XLVII The first sentence of the Great Symbolism is constructed differently from any which has presented itself in the previous 46 hexagrams. Literally translated, it would be 'a marsh with no water is Khwăn;' and this might certainly suggest to us a condition of distress. But how does this come out of the trigrams? The upper one is Tui, representing a marsh; and the lower is Khân, representing water in a defile. The collocation of the two suggests the running of the water from the marsh or lake into the stream, which will soon empty the other. Such is the view which occurred to myself; and it is the same as that given by [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi):--'The water descending and leaking away, the marsh above will become dry.' The application is good in itself, but the concatenation between it and the Symbolism is hardly discernible.
 
 p. 327
 
@@ -880,7 +880,7 @@ The addition to the Text of 1 the purpose' in paragraph 4 is to show that the pu
 
 336:LV Lightning appears here as the natural phenomenon of which Lî is the symbol. The virtues attributed to the two trigrams are certainly required in the application of them which is subjoined; but that application has little or nothing to do with the explanation of the hexagram supplied by the Text.
 
-I hardly understand the conclusion of paragraph 1. My translation of it is according to the view of Kû Hsî, if I rightly understand that.
+I hardly understand the conclusion of paragraph 1. My translation of it is according to the view of [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), if I rightly understand that.
 
 Paragraph 2. It is by such sincerity that the mind is affected,--that is, the mind of the ruler occupying line 5.
 
@@ -934,7 +934,7 @@ The action of the hexagram should culminate and end in line 5. But the subject o
 
 'What the subject of line 2 desired' would be his success in counteracting the prevailing tendency to disunion.
 
-The view given of paragraph 5 is that propounded by Kû Hsî.
+The view given of paragraph 5 is that propounded by [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi).
 
 For paragraph 6 see the note on line 6 under the Text.
 
@@ -970,7 +970,7 @@ The notes on the different lines present nothing that has not been dealt with in
 
 347:LXIV In this last hexagram we have water below and fire above, so that the two cannot act on each other, and the Symbolism may represent the unregulated condition of general affairs, the different classes of society not harmonising nor acting together. The application follows naturally.
 
-Kû Hsî and others suspect an error in the text of paragraph 1; yet a tolerable meaning comes from it as it stands.
+[Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) and others suspect an error in the text of paragraph 1; yet a tolerable meaning comes from it as it stands.
 
 The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe on paragraph 2 that an undivided line in the second place, and a divided line in the fifth place, are both incorrect, and yet it is often said of them that with firm correctness in their subjects there will be good fortune;--such is the virtue of the central position. This principle is at last clearly enunciated in this paragraph.
 
