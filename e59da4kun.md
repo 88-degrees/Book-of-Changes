@@ -1,10 +1,10 @@
 # Kūn ䷁
 
-Chinese: kūn 坤 ䷁
-
-![Kun](https://88o.io/wp-content/uploads/2018/09/02-e59da4kun.jpg)
+> Chinese: kūn 坤 ䷁
 
 ###### p. 59
+
+![Kun](https://88o.io/wp-content/uploads/2018/09/02-e59da4kun.jpg)
 
 **Kūn ䷁** (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare. When the superior man (here 
 
