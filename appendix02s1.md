@@ -206,13 +206,13 @@ his own rich resources:' -- both he and his neighbours are out of their real (pl
 
 6. 'The city wall returned back into the moat' shows how the (governmental) orders have (long) been in disorder.
 
-<a name="fr_201"></a>[XII](#fn_201). (The trigrams of) heaven and earth, not in intercommunication, form Phî. The superior man, in accordance with this, restrains (the manifestation) of) his virtue, and avoids the calamities (that threaten him). There is no opportunity of conferring on him the glory of emolument.
+<a name="fr_201"></a>[XII](#fn_201). (The trigrams **☰** **☷** of) heaven and earth, not in intercommunication, form [**Pǐ ䷋**](e590a6pi.md). The superior man, in accordance with this, restrains (the manifestation) of) his virtue, and avoids the calamities (that threaten him). There is no opportunity of conferring on him the glory of emolument.
 
 ###### p. 283
 
 1. 'The good fortune through firm goodness, (suggested by) the pulling up of the grass,' arises from the will (of the parties intended) being bent on (serving) the ruler.
 
-2. 'The great man, comporting himself as the distress and obstruction require, will have success:--'he does not allow himself to be disordered by the herd (of small men).
+2. 'The great man, comporting himself as the distress and obstruction require, will have success: -- 'he does not allow himself to be disordered by the herd (of small men).
 
 3. That 'his shame is folded in his breast' is owing to the inappropriateness of his position.
 
@@ -224,7 +224,7 @@ his own rich resources:' -- both he and his neighbours are out of their real (pl
 
 ###### p. 284
 
-<a name="fr_202"></a>[XIII](#fn_202). (The trigrams for) heaven and fire form Thung Zăn. The superior man, in accordance with this), distinguishes things according to their kinds and classes.
+<a name="fr_202"></a>[XIII](#fn_202). (The trigrams **☰** **☲** for) heaven and fire form [**Tóng Rén ䷌**](e5908ce4babatongren.md). The superior man, in accordance with this), distinguishes things according to their kinds and classes.
 
 1. '(The representative of) the union of men is just issuing from his gate:' -- who will blame him?
 
@@ -240,9 +240,9 @@ his own rich resources:' -- both he and his neighbours are out of their real (pl
 
 ###### p. 285
 
-<a name="fr_203"></a>[XIV](#fn_203). (The trigram for) heaven and (that of) fire above it form Tâ Yû The superior man, in accordance with this, represses what is evil and gives distinction to what is good, in sympathy with the excellent Heaven-conferred (nature).
+<a name="fr_203"></a>[XIV](#fn_203). (The trigram **☰** for) heaven and (**☲** that of) fire above it form [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md) The superior man, in accordance with this, represses what is evil and gives distinction to what is good, in sympathy with the excellent Heaven-conferred (nature).
 
-1. This first NINE, (undivided),of Tâ Yû shows no approach to what is injurious.
+1. This first NINE, (undivided),of [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md) shows no approach to what is injurious.
 
 2. 'A large waggon with its load' refers to the (virtue) accumulated (in the subject of the line), so that he will suffer no loss (in the conduct of affairs).
 
@@ -254,9 +254,9 @@ his own rich resources:' -- both he and his neighbours are out of their real (pl
 
 ###### p. 286
 
-6. 'The good fortune attached to the topmost line of Tâ Yû' arises from the help of Heaven.
+6. 'The good fortune attached to the topmost line of [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md)' arises from the help of Heaven.
 
-<a name="fr_204"></a>[XV](#fn_204). (The trigram for) the earth and (that of) a mountain in the midst of it form [Qián(䷀)](e4b9beqian.md). The superior man, in accordance with this, diminishes what is excessive (in himself), and increases where there is any defect, bringing about an equality, according to the nature of the case, in his treatment (of himself and others).
+<a name="fr_204"></a>[XV](#fn_204). (The trigram **☷** for) the earth and (**☶** that of) a mountain in the midst of it form [**Qiān ䷎**](e8b0a6qian.md). The superior man, in accordance with this, diminishes what is excessive (in himself), and increases where there is any defect, bringing about an equality, according to the nature of the case, in his treatment (of himself and others).
 
 1. 'The superior man who adds humility to humility' is one who nourishes his (virtue) in lowliness.
 
@@ -272,7 +272,7 @@ his own rich resources:' -- both he and his neighbours are out of their real (pl
 
 6. 'His humility has made itself recognised:' -- (but) all his aims have not yet been attained. He may employ the force of arms, (but only) in correcting (his own) towns and state.'
 
-<a name="fr_205"></a>[XVI](#fn_205). (The trigrams for) the earth and thunder issuing from it with its crashing noise form Yü. The ancient kings, in accordance with this, composed their music and did honour to virtue, presenting it especially and most grandly to God,
+<a name="fr_205"></a>[XVI](#fn_205). (The trigrams **☷** **☳** for) the earth and thunder issuing from it with its crashing noise form [**Yǜ ䷏**](e8b1abyu.md). The ancient kings, in accordance with this, composed their music and did honour to virtue, presenting it especially and most grandly to God,
 
 ###### p. 288
 
@@ -288,11 +288,11 @@ when they associated with Him (at the service) their highest ancestor and their 
 
 5. '(The subject of) the fifth six has a chronic complaint:' -- this is shown by his being mounted on the strong (line). 'He still lives on without dying:' -- he is in the central position, (and its memories of the past) have not yet perished.
 
-6. 'With darkened mind devoted to the harmony and satisfaction (of the time),' as shown in the topmost (line):--how can one in such a condition continue long?
+6. 'With darkened mind devoted to the harmony and satisfaction (of the time),' as shown in the topmost (line): -- how can one in such a condition continue long?
 
 ###### p. 289
 
-<a name="fr_206"></a>[XVII](#fn_206). (The trigram for the waters of) a marsh and (that for) thunder (hidden) in the midst of it form Sui. The superior man in accordance with this, when it is getting towards dark, enters (his house) and rests.
+<a name="fr_206"></a>[XVII](#fn_206). (The trigram **☵** for the waters of) a marsh and (**☳** that for) thunder (hidden) in the midst of it form [**Suí ䷐**](e99a8fsui.md). The superior man in accordance with this, when it is getting towards dark, enters (his house) and rests.
 
 1. 'He is changing the object of his pursuit:' -- but if he follow what is correct, there will be good fortune. 'He goes beyond (his own) gate to find associates:' -- he will not fail (in the method he pursues).
 
@@ -598,7 +598,7 @@ Other ways can be found to reward small men. They ought not to be placed in situ
 
 It is hardly possible to make what is said under line 5, on the royal huntings, agree with the account of them given on the same line in the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s text. I suspect that there is some corruption of the text. The two verbs 'neglecting' and 'taking' seem to be used, the one for the other.
 
-279:IX The suitability of the symbolism here is made all to turn on the wind. 'Wind,' says Kû, 'is simply the air, without solid substance; it can restrain, but not for long.' The wind moves in the sky for a time, and then ceases. The process of thought from the symbol to the lesson is not easily traced. Is it meant to say that virtue manifesting itself outwardly--in the carriage and speech--is, however good, but a small matter, admirable in an officer, or even a feudal lord, but that we look for more in a king, the Head of a nation?
+279:IX The suitability of the symbolism here is made all to turn on the wind. 'Wind,' says Kû, 'is simply the air, without solid substance; it can restrain, but not for long.' The wind moves in the sky for a time, and then ceases. The process of thought from the symbol to the lesson is not easily traced. Is it meant to say that virtue manifesting itself outwardly -- in the carriage and speech -- is, however good, but a small matter, admirable in an officer, or even a feudal lord, but that we look for more in a king, the Head of a nation?
 
 [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) calls attention to the addition to the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s explanation in the notice on line 2, that 'it is in the central place,' adding that this explains how the subject of the line restrains himself, and does not go beyond what is due from him.
 
