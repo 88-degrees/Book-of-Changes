@@ -1,6 +1,6 @@
 # Lí ䷝
 
-Chinese: lí 离 ䷝
+> Chinese: lí 离 ䷝
 
 ###### p. 120
 
