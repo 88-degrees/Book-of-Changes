@@ -434,7 +434,7 @@ The lesson of paragraph 3 is not unity in diversity, but union with diversity.
 
 <a name="fn_163"></a>[244:XXXIX](#fr_163) The upper or front trigram is **Kǎn ☵**, the attribute of which is perilousness; the lower is **Gèn ☶**, of which the arresting, actively or passively, of movement or advance is the attribute. We can understand how the union of these attributes gives the ideas of difficulty and prudent caution.
 
-The explanations in paragraph 2 of the phraseology of the **Tuàn** p. 245 are not all easily followed. It is said that the advantageousness of the south-west is due to the central line in 5; but if we are to look for the meaning of south-west in **Kūn ☷**, as in the diagram of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s trigrams, there is no strong central line in it. May **Kǎn ☵**, as a yang trigram, be used for **Kūn ☷**?
+The explanations in paragraph 2 of the phraseology of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) p. 245 are not all easily followed. It is said that the advantageousness of the south-west is due to the central line in 5; but if we are to look for the meaning of south-west in **Kūn ☷**, as in the diagram of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s trigrams, there is no strong central line in it. May **Kǎn ☵**, as a yang trigram, be used for **Kūn ☷**?
 
 <a name="fn_164"></a>[245:XL](#fr_164)
 
@@ -470,7 +470,7 @@ The explanations in paragraph 2 of the phraseology of the **Tuàn** p. 245 are n
 
 1. On paragraph 1 the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say: -- '"The weak line meets with (or comes unexpectedly on) the strong ones;" -- the weak line, that is, plays the principal part. The case is like that of the minister who assumes the power of deciding for himself on all measures, or of a hen's announcing the morning; -- is not the name of (shameless) boldness rightly applied to it? Hence nothing more is said about the symbol of the bold female; but attention is called to the second part of the **Tuàn**.'
 
-2. Paragraph 2 needs no remark. Paragraphs 3, 4, and 5 all speak of the importance of powers and parties meeting together, -- in the world of nature, and in the sphere of human affairs. But I do not see how this sentiment is a natural sequel to that in i and 2, nor that it has any connexion with the teaching of the **Tuàn** and Symbolism.
+2. Paragraph 2 needs no remark. Paragraphs 3, 4, and 5 all speak of the importance of powers and parties meeting together, -- in the world of nature, and in the sphere of human affairs. But I do not see how this sentiment is a natural sequel to that in i and 2, nor that it has any connexion with the teaching of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) and Symbolism.
 
 <a name="fn_169"></a>[251:XLV](#fr_169) The lower trigram in [**Cuì ䷬**](e89083cui.md) is **Kūn ☷**, whose attribute is docile obedience; and the upper is **Duì ☱**, whose attribute is pleased satisfaction. Then we have the strong line in 5, and its proper correlate in 2. These things may give the idea of union. They might also give the idea of other good things.
 
@@ -504,21 +504,21 @@ Paragraph 3 tells us how the greatest natural and the greatest political changes
 
 <a name="fn_174"></a>[255:L](#fr_174)
 
-1. See the notes on the Text of the **Tuàn** about the figure of a caldron in [**Dǐng ䷱**](e9bc8eding.md). Its component trigrams are **Xùn ☴** representing wood, and **Lí ☲** representing fire; which may very well suggest the idea of cooking. The last sentence of the paragraph is entirely after the style of 'the Great Symbolism.' The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that the distinction between [**Jǐng ䷯**](e4ba95jing.md) and [**Dǐng ䷱**](e9bc8eding.md) appears here very clearly, the former relating to the nourishment of the people, and the latter to the nourishing men of worth. They add that the reality of the offerings to God is such nourishing. 'God' is here Shang Tî, which Canon McClatchie translates 'the First Emperor,' adding in a note, 'The Chinese Jupiter, the Emperor of gods and men!'
+1. See the notes on the Text of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) about the figure of a caldron in [**Dǐng ䷱**](e9bc8eding.md). Its component trigrams are **Xùn ☴** representing wood, and **Lí ☲** representing fire; which may very well suggest the idea of cooking. The last sentence of the paragraph is entirely after the style of 'the Great Symbolism.' The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that the distinction between [**Jǐng ䷯**](e4ba95jing.md) and [**Dǐng ䷱**](e9bc8eding.md) appears here very clearly, the former relating to the nourishment of the people, and the latter to the nourishing men of worth. They add that the reality of the offerings to God is such nourishing. 'God' is here Shang Tî, which Canon McClatchie translates 'the First Emperor,' adding in a note, 'The Chinese Jupiter, the Emperor of gods and men!'
 
-2. The first sentence deduces the sentiment of the **Tuàn** from the attributes or virtues of the trigrams with considerable amplification of the virtue of **Lí ☲**. The second line of **Lí ☲**, as being divided, calls forth in other hexagrams the same notice as here. It is the most important line in the figure, and being responded to by the strong 2, gives an indication of the 'great progress and success.'
+2. The first sentence deduces the sentiment of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) from the attributes or virtues of the trigrams with considerable amplification of the virtue of **Lí ☲**. The second line of **Lí ☲**, as being divided, calls forth in other hexagrams the same notice as here. It is the most important line in the figure, and being responded to by the strong 2, gives an indication of the 'great progress and success.'
 
 <a name="fn_175"></a>[256:LI](#fr_175)
 
 1. Paragraph 1. See what is said on the Text.
 
-2. The explanations of the. **Tuàn** here are good; but in no way deduced from the figure.
+2. The explanations of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) here are good; but in no way deduced from the figure.
 
 3. The portion of the text printed in a different type is supposed to have dropt out of the Chinese copies. The explanation of it that follows is based on Wăn's view of Kăn as representing the oldest son. See on the Text.
 
 <a name="fn_176"></a>[256:LII](#fr_176)
 
-1. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors give their opinion that what is said in the first sentence of this paragraph, after the explanation of the name, illustrates the first sentence of the **Tuàn**, and that the other sentence illustrates the: rest of the **Tuàn**. It may be so, but the whole of the **Tuàn** appears in paragraph 2.
+1. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors give their opinion that what is said in the first sentence of this paragraph, after the explanation of the name, illustrates the first sentence of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16), and that the other sentence illustrates the: rest of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16). It may be so, but the whole of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) appears in paragraph 2.
 
 2. The hexagram being made up of Kăn repeated, lines 1, 2, 3 are of course the same as 4, 5, and 6. But it will be seen that there is not a proper correlation among them all. I do not see, p. 257 however, that this furnishes any ground for the entire obliviousness of self, which the Th wan makes out to be in the figure.
 
@@ -586,7 +586,7 @@ The sentiment of paragraph 5 is good, apart from the symbolism, which is only pe
 
 <a name="fn_187"></a>[265:LXIII](#fr_187) For paragraphs 1 and 2, see the note on the Text of the **Tuàn**.
 
-It is difficult to see the concatenation in paragraph 3 between the sentiment of the **Tuàn** and the nature of the second line. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors compare this hexagram and the next with 11 **䷊** and 12 **䷋**, observing that the goodness of [**Tài ䷊**](e6b3b0tai.md) (hexagram 11) is concentrated, as here, in the second line.
+It is difficult to see the concatenation in paragraph 3 between the sentiment of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) and the nature of the second line. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors compare this hexagram and the next with 11 **䷊** and 12 **䷋**, observing that the goodness of [**Tài ䷊**](e6b3b0tai.md) (hexagram 11) is concentrated, as here, in the second line.
 
 The sentiment of paragraph 4 is that which we have often met with, -- that things move on with a constant process of change. Disorder succeeds to order, and again order to disorder.
 
