@@ -36,7 +36,7 @@ And something analogous -- we cannot say exactly what -- must have place in soci
 
 The concluding auspice or oracle to him who finds this **Fù ䷗** by divination is what we might expect.
 
-The subject of line 1 is of course the undivided line, meaning here, says Khăng-žze, 'the way of the superior man.' There must have been some deviation from that, or 'returning' could not be spoken of.
+The subject of line 1 is of course the undivided line, meaning here, says [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'the way of the superior man.' There must have been some deviation from that, or 'returning' could not be spoken of.
 
 Line 2 is in its proper place, and central; but it is weak. This is more than compensated for, however, by its adherence to line 1, the fifth line not being a proper correlate. Hence the return of its subject is called excellent or admirable.
 
