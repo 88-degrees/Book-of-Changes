@@ -716,7 +716,7 @@ The sooner preventive measures are presented to the youthful mind the better; bu
 
 In paragraph 2 'docility' is suggested by the weak line. 'The humility' comes out of Sun, the upper trigram, whose attribute is pliant flexibility.
 
-Yü Yen (Yuán dynasty) ingeniously observes on paragraph 4 that the riches of a family are not to be sought in its wealth, but in the affection and harmony of its members. Where these prevail, the family is not likely to be poor, and whatever it has will be well preserved.
+[Yú Yán](https://ctext.org/searchbooks.pl?if=gb&searchu=周易集說) (Yuán dynasty) ingeniously observes on paragraph 4 that the riches of a family are not to be sought in its wealth, but in the affection and harmony of its members. Where these prevail, the family is not likely to be poor, and whatever it has will be well preserved.
 
 The mention 'of mutual love' is unusual in Chinese writings, and must be considered remarkable here. 'The. husband,' says [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'loves his helpmate in the house; the wife loves him who is the pattern for the family.' But however admirable the sentiment is, it comes from the mind of the writer, and is not drawn from the Text.
 
@@ -856,7 +856,7 @@ There is no correlation between lines 2 and 3, and thence the subject of 3 will 
 
 [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) finds an unsatisfactory auspice in paragraph 4. Line 4 represents a great minister who should be able to guide all to rest where they ought to be; but he can only keep himself from agitation.
 
-Yü Păn (Ming dynasty) says on paragraph 5:--'Words should not be uttered rashly. Then, when uttered, they will be found p. 333 accordant with principle. But it is only the master of the virtue belonging to the due mean who can attain to this.'
+Yü Păn (Míng dynasty) says on paragraph 5: -- 'Words should not be uttered rashly. Then, when uttered, they will be found p. 333 accordant with principle. But it is only the master of the virtue belonging to the due mean who can attain to this.'
 
 333:LIII The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, to bring out the suitability of the Great Symbolism and its application, say:--'A tree springing up on the ground is a tree as it begins to grow. A tree on a hill is high and large. Every tree when it begins to grow, shows its p. 334 branches and twigs gradually becoming long. Every morning and every evening show some difference; and when the tree is high and great, whether it be of an ordinary or extraordinary size, it has taken years to reach its dimensions. This illustrates the difference between the advance in Shăng (46) and that in Kien. Then the maintenance of extraordinary virtue in the application and the improvement of manners is a gradual process. The improvement of the manners, moreover, flows from the maintenance of the extraordinary virtue; which implies also a gradual operation and progress.'
 
