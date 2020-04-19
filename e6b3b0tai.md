@@ -10,11 +10,11 @@ In **Tài ䷊** (we see) the little gone and the great come. (It indicates that)
 
 1. The first NINE, undivided, suggests the idea of grass pulled up, and bringing with it other stalks with whose roots it is connected. Advance (on the part of its subject) will be fortunate.
 
-2. The second NINE, undivided, shows one who can bear with the uncultivated, will cross the Ho without a boat, does not forget the distant, and has no (selfish) friendships. Thus does he prove himself acting in accordance with the course of the due Mean.
+2. The second NINE, undivided, shows one who can bear with the uncultivated, will cross the [Hé](https://zh.wikipedia.org/wiki/河) (河) without a boat, does not forget the distant, and has no (selfish) friendships. Thus does he prove himself acting in accordance with the course of the due Mean.
 
 3. The third NINE, undivided, shows that, while there is no state of peace that is not liable to be disturbed, and no departure (of evil men) so that they shall not return, yet when one is firm and correct, as he realises the distresses that may arise, he will commit no error. There is no occasion for sadness at the certainty (of such recurring changes); and in this mood the happiness (of the present) may be (long) enjoyed.
 
-4. The fourth SIX, divided, shows its subject fluttering (down);--not relying on his own rich
+4. The fourth SIX, divided, shows its subject fluttering (down); -- not relying on his own rich
 
 ###### p. 82
 
