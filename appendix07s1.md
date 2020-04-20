@@ -4,19 +4,19 @@ Treatise on the Hexagrams taken promiscuously, according to the opposition or di
 
 This last of the Appendixes is touched on very briefly in the concluding paragraph of the Introduction, [p. 55](). It is stated there to be in rhyme, and I have endeavoured to give a similar form to the following version of it. The rhymes and length of the lines in the original, however, are very irregular, and I found it impossible to reproduce that irregularity in English.
 
-- `1, 2`. Strength in [**Qián ䷀**](./e4b9beqian.md), weakness in [**Kūn ䷁**](./e59da4kun.md) we find.
+- `1, 2` Strength in [**Qián ䷀**](./e4b9beqian.md), weakness in [**Kūn ䷁**](./e59da4kun.md) we find.
 
-- `8, 7`. [**Bǐ ䷇**](e6af94bi.md) shows us joy, and Sze the anxious mind.
+- `8, 7` [**Bǐ ䷇**](e6af94bi.md) shows us joy, and Sze the anxious mind.
 
-- `19, 20`. [**Lín ䷒**](e4b8b4lin.md) gives, [**Guān ䷓**](e8a782guan.md) seeks; -- such are the several themes Their different figures were to teach designed.
+- `19, 20` [**Lín ䷒**](e4b8b4lin.md) gives, [**Guān ䷓**](e8a782guan.md) seeks; -- such are the several themes Their different figures were to teach designed.
 
-- `3`. [**Zhūn ䷂**](e5b1afzhun.md) manifests itself, yet keeps its place;
+- `3` [**Zhūn ䷂**](e5b1afzhun.md) manifests itself, yet keeps its place;
 
-- `4`. 'Mid darkness still, to light [**Méng ䷃**](e89299meng.md) sets its face.
+- `4` 'Mid darkness still, to light [**Méng ䷃**](e89299meng.md) sets its face.
 
-- `51, 52`. Kăn starts; Kăn stops. In Sun and Yî are seen
+- `51, 52` Kăn starts; Kăn stops. In Sun and Yî are seen
 
-41, 42. How fulness and decay their course begin.
+- `41, 42` How fulness and decay their course begin.
 
 26. Tâ Khû keeps still, and waits the proper time.
 

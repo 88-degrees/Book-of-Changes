@@ -20,28 +20,28 @@ For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
  
 | * | * | * | * | * | * | * | * | * | * |
 | - | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | - |
-| * | 1 qián | 2 kūn | 3 zhūn | 4 méng | 5 xū | 6 sòng | 7 shī | . bǐ | * |
+| * | `01` qián | `02` kūn | `03` zhūn | `04` méng | `05` xū | `06` sòng | `07` shī | `08` bǐ | * |
 | * | [䷀](e4b9beqian.md) | [䷁](e59da4kun.md) | [䷂](e5b1afzhun.md) | [䷃](e89299meng.md) | [䷄](e99c80xu.md) | [䷅](e8aebcsong.md) | [䷆](e5b888shi.md) | [䷇](e6af94bi.md) | * |
 | * | 乾 | 坤 | 屯 | 蒙 | 需 | 讼 | 师 | 比 | * |
-| * | 9 xiǎo xù | 10 lǚ | 11 tài | 12 pǐ | 13 tóng rén | 14 dà yǒu | 15 qiān| 16 yǜ | * |
+| * | `09` xiǎo xù | `10` lǚ | `11` tài | `12` pǐ | `13` tóng rén | `14` dà yǒu | `15` qiān| `16` yǜ | * |
 | * | [䷈](e5b08fe7959cxiaoxu.md) | [䷉](e5b1a5lv.md) | [䷊](e6b3b0tai.md) | [䷋](e590a6pi.md) | [䷌](e5908ce4babatongren.md) | [䷍](e5a4a7e69c89dayou.md) | [䷎](e8b0a6qian.md) | [䷏](e8b1abyu.md) | * |
 | * | 小畜 | 履 | 泰 | 否 | 同人 | 大有 | 谦 | 豫 | * |
-| * | 17 suí | 18 gǔ | 19 lín | 20 guān | 21 shì kè | 22 bì | 23 bō | 24 fù | * |
+| * | `17` suí | `18` gǔ | `19` lín | `20` guān | `21` shì kè | `22` bì | `23` bō | `24` fù | * |
 | * | [䷐](e99a8fsui.md) | [䷑](e89b8agu.md) | [䷒](e4b8b4lin.md) | [䷓](e8a782guan.md) | [䷔](e599ace59791shike.md) | [䷕](e8b4b2bi.md) | [䷖](e589a5bo.md) | [䷗](e5a48dfu.md) | * |
 | * | 随 | 蛊 | 临 | 观 | 噬嗑 | 贲 | 剥 | 复 | * |
-| * | 25 wú wàng | 26 dà xù | 27 yí | 28 dà guò | 29 kǎn | 30 lí | 31 xián | 32 héng | * |
+| * | `25` wú wàng | `26` dà xù | `27` yí | `28` dà guò | `29` kǎn | `30` lí | `31` xián | `32` héng | * |
 | * | [䷘](e697a0e5a684wuwang.md) | [䷙](e5a4a7e89384daxu.md) | [䷚](e9a290yi.md) | [䷛](e5a4a7e8bf87daguo.md) | [䷜](e59d8ekan.md) | [䷝](e7a6bbli.md) | [䷞](e592b8xian.md) | [䷟](e68192heng.md) | * |
 | * | 无妄 | 大畜 | 颐 | 大过 | 坎 | 离 | 咸 | 恒 | * |
-| * | dùn | dà zhuàng | jìn | míng yí | jiā rén | kuí | jiǎn | xiè | * |
+| * | `33` dùn | `34` dà zhuàng | `35` jìn | `36` míng yí | `37` jiā rén | `38` kuí | `39` jiǎn | `40` xiè | * |
 | * | [䷠](e981afdun.md) | [䷡](e5a4a7e5a3aedazhuang.md) | [䷢](e6998bjin.md) | [䷣](e6988ee5a4b7mingyi.md) | [䷤](e5aeb6e4babajiaren.md) | [䷥](e79dbdkui.md) | [䷦](e8b987jian.md) | [䷧](e8a7a3xie.md) | * |
 | * | 遯 | 大壮 | 晋 | 明夷 | 家人 | 睽 | 蹇 | 解 | * |
-| * | sǔn | yì | guài | gòu | cuì | shēng | kùn | jǐng | * |
+| * | `41` sǔn | `42` yì | `43` guài | `44` gòu | `45` cuì | `46` shēng | `47` kùn | `48` jǐng | * |
 | * | [䷨](e68d9fsun.md) | [䷩](e79b8ayi.md) | [䷪](e5a4acguai.md) | [䷫](e5a7a4gou.md) | [䷬](e89083cui.md) | [䷭](e58d87sheng.md) | [䷮](e59bb0kun.md) | [䷯](e4ba95jing.md) | * |
 | * | 损 | 益 | 夬 | 姤 | 萃 | 升 | 困 | 井 | * |
-| * | gé | dǐng | zhèn | gèn | jiàn | guī mèi | fēng | lǚ | * |
+| * | `49` gé | `50` dǐng | `51` zhèn | `52` gèn | `53` jiàn | `54` guī mèi | `55` fēng | `56` lǚ | * |
 | * | [䷰](e99da9ge.md) | [䷱](e9bc8eding.md) | [䷲](e99c87zhen.md) | [䷳](e889aegen.md) | [䷴](e6b890jian.md) | [䷵](e5bd92e5a6b9guimei.md) | [䷶](e4b8b0feng.md) | [䷷](e69785lv.md) | * |
 | * | 革 | 鼎 | 震 | 艮 | 渐 | 归妹 | 丰 | 旅 | * |
-| * | xùn | duì | huàn | jié | zhōng fú  | xiǎo guò |  jì jì | wèi jì | * |
+| * | `57` xùn | `58` duì | `59` huàn | `60` jié | `61` zhōng fú  | `62` xiǎo guò |  `63` jì jì | `64` wèi jì | * |
 | * | [䷸](e5b7bdxun.md) | [䷹](e58591dui.md) | [䷺](e6b6a3huan.md) | [䷻](e88a82jie.md) | [䷼](e4b8ade5ad9azhongfu.md) | [䷽](e5b08fe8bf87xiaoguo.md) | [䷾](e697a2e6b58ejiji.md) | [䷿](e69caae6b58eweiji.md) | * |
 | * | 巽 | 兑 | 涣 | 节 | 中孚 | 小过 | 既济 | 未济 | * |
 | * | * | * | * | * | * | * | * | * | * |
