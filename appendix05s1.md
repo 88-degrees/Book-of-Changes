@@ -1,88 +1,112 @@
+###### p. 422
+
 ## APPENDIX V
 
 Treatise of Remarks on the Trigrams
 
-Chapter  I. 1. Anciently, when the sages made the Yî, in order to give mysterious assistance to the spiritual Intelligences, they produced (the rules for the use of) the divining plant.
+Chapter  <a name="fr_286"></a>[I](#fn_286). 
+
+1. Anciently, when the sages made the `I Ching`, in order to give mysterious assistance to the spiritual Intelligences, they produced (the rules for the use of) the divining plant.
 
 2. The number 3 was assigned to heaven, 2 to earth, and from these came the (other) numbers.
 
-3. They contemplated the changes in the divided and undivided lines (by the process of manipulating the stalks), and formed the trigrams; from the movements that took place in the strong and weak lines, they produced (their teaching about) the separate lines. There ensued a harmonious conformity to the course (of duty) and to virtue, with a discrimination of what was right (in each particular case). They (thus) made an exhaustive discrimination of what was right, and effected the complete development of (every) nature, till they arrived (in the Yî) at what was appointed for it (by Heaven).
+3. They contemplated the changes in the divided and undivided lines (by the process of manipulating the stalks), and formed the trigrams; from the movements that took place in the strong and weak lines, they produced (their teaching about) the separate lines. There ensued a harmonious conformity to the course (of duty) and to virtue, with a discrimination of what was right (in each particular case). They (thus) made an exhaustive discrimination of what was right, and effected the complete development of (every) nature, till they arrived (in the `I Ching`) at what was appointed for it (by Heaven).
 
-p. 423
+###### p. 423
 
-Chapter  II. 4. Anciently, when the sages made the Yî, it was with the design that (its figures) should be in conformity with the principles underlying the natures (of men and things), and the ordinances (for them) appointed (by Heaven). With this view they exhibited (in them) the way of heaven, calling (the lines) yin and yang; the way of earth, calling (them) the weak (or soft) and the strong (or hard); and the way of men, under the names of benevolence
+Chapter  <a name="fr_287"></a>[II](#fn_287).
 
-p. 424
+4. Anciently, when the sages made the `I Ching`, it was with the design that (its figures) should be in conformity with the principles underlying the natures (of men and things), and the ordinances (for them) appointed (by Heaven). With this view they exhibited (in them) the way of heaven, calling (the lines) `yīn` and `yáng`; the way of earth, calling (them) the weak (or soft) and the strong (or hard); and the way of men, under the names of benevolence
 
-and righteousness. Each (trigram) embraced (those) three Powers; and, being repeated, its full form consisted of six lines. A distinction was made of (the places assigned) to the yin and yang lines, which were variously occupied, now by the strong and now by the weak forms, and thus the figure (of each hexagram) was completed.
+###### p. 424
 
-Chapter  III. 5. (The symbols of) heaven and earth received their determinate positions; (those for) mountains and collections of water interchanged their influences; (those for) thunder and wind excited each other the more; and (those for) water and fire did each other no harm. (Then) among these eight symbols there was a mutual communication.
+and righteousness. Each (trigram) embraced (those) three Powers; and, being repeated, its full form consisted of six lines. A distinction was made of (the places assigned) to the `yīn` and `yáng` lines, which were variously occupied, now by the strong and now by the weak forms, and thus the figure (of each hexagram) was completed.
 
-6. The numbering of the past is a natural process.; the knowledge of the coming is anticipation. Therefore in the Yî we have (both) anticipation (and the natural process).
+Chapter  <a name="fr_288"></a>[III](#fn_288).
 
-p. 425
+5. (The symbols of) heaven and earth received their determinate positions; (those for) mountains and collections of water interchanged their influences; (those for) thunder and wind excited each other the more; and (those for) water and fire did each other no harm. (Then) among these eight symbols there was a mutual communication.
 
-Chapter  IV. 7. Thunder serves to put things in motion; wind to scatter (the genial seeds of) them; rain to moisten them; the sun to warm them; (what is symbolised by) Kăn, to arrest (and keep them in their places); (by) Tui, to give them joyful course; (by) Khien, to rule them; and by Khwăn, to store them up.
+6. The numbering of the past is a natural process.; the knowledge of the coming is anticipation. Therefore in the `I Ching` we have (both) anticipation (and the natural process).
 
-Chapter  V. 8. God comes forth in Kăn (to His producing work); He brings (His processes) into full and equal action in Sun; they are manifested to one another in Lî; the greatest service is done for Him in Khwăn; He rejoices in Tui; He struggles in Khien; He is comforted and enters into rest in Khân; and He completes (the work of the year) in Kăn.
+###### p. 425
 
-9. All things are made to issue forth in Kăn, which is placed at the east. (The processes of production) are brought into full and equal action in Sun, which is placed at the south-east. The being brought into full and equal action refers to the purity and equal arrangement of all things. Lî gives the idea of brightness. All things are now made manifest
+Chapter  <a name="fr_289"></a>[IV](#fn_289).
 
-p. 426
+7. Thunder serves to put things in motion; wind to scatter (the genial seeds of) them; rain to moisten them; the sun to warm them; (what is symbolised by) **Gèn ☶**, to arrest (and keep them in their places); (by) **Duì ☱**, to give them joyful course; (by) **Qián ☰**, to rule them; and by **Kūn ☷**, to store them up.
 
-to one another. It is the trigram of the south. The sages turn their faces to the south when they give audience to all under the sky, administering government towards the region of brightness:--the idea in this procedure was taken from this. Khwăn denotes the earth, (and is placed at the south-west). All things receive from it their fullest nourishment, and hence it is said, 'The greatest service is done for Him in Khwăn.' Tui corresponds (to the west) and to the autumn,--the season in which all things rejoice. Hence it is said, 'He rejoices in Tui.' He struggles in Khien, which is the trigram of the north-west. The idea is that there the inactive and active conditions beat against each other. Khan denotes water. It is the trigram of the exact north,--the trigram of comfort and rest, what all things are tending to. Hence it is said, 'He is comforted and enters into rest in Khan. Kăn is the trigram of the north-east. In it all things bring to a full end the issues of the past (year), and prepare the commencement of the next. Hence it is said, 'He completes (the work of the year) in Kăn.'
+Chapter  <a name="fr_290"></a>[V](#fn_290).
 
-p. 427
+8. God comes forth in **Zhèn ☳** (to His producing work); He brings (His processes) into full and equal action in **Xùn ☴**; they are manifested to one another in **Lí ☲**; the greatest service is done for Him in **Kūn ☷**; He rejoices in **Duì ☱**; He struggles in **Qián ☰**; He is comforted and enters into rest in **Kǎn ☵**; and He completes (the work of the year) in **Gèn ☶**.
 
-Chapter  VI. 10. When we speak of Spirit we mean the subtle (presence and operation of God) with all things. For putting all things in motion there is nothing more vehement than thunder; for scattering them there is nothing more effective than wind; for drying them up there is nothing more parching than fire; for giving them pleasure and satisfaction there is nothing more grateful than a lake or marsh; for moistening them there is nothing more enriching than water; for bringing them to an end and making them begin again there is nothing more fully adapted than Kăn. Thus water and fire contribute together to the one object; thunder and wind do not act contrary to each other; mountains and collections of water interchange their influences. It is in this way, that they are able to change and transform, and to give completion to all things.
+9. All things are made to issue forth in **Zhèn ☳**, which is placed at the east. (The processes of production) are brought into full and equal action in **Xùn ☴**, which is placed at the south-east. The being brought into full and equal action refers to the purity and equal arrangement of all things. **Lí ☲** gives the idea of brightness. All things are now made manifest
 
-p. 428
+###### p. 426
 
-Chapter  VII. 11. Khien is (the symbol of) strength; Khwăn, of docility; Kăn, of stimulus to movement; Sun, of penetration; Khan, of what is precipitous and perilous; Lî, of what is bright and what is catching; Kăn, of stoppage or arrest; and Tui, of pleasure and satisfaction.
+to one another. It is the trigram of the south. The sages turn their faces to the south when they give audience to all under the sky, administering government towards the region of brightness: -- the idea in this procedure was taken from this. **Kūn ☷** denotes the earth, (and is placed at the south-west). All things receive from it their fullest nourishment, and hence it is said, 'The greatest service is done for Him in **Kūn ☷**.' **Duì ☱** corresponds (to the west) and to the autumn, -- the season in which all things rejoice. Hence it is said, 'He rejoices in **Duì ☱**.' He struggles in **Qián ☰**, which is the trigram of the north-west. The idea is that there the inactive and active conditions beat against each other. **Kǎn ☵** denotes water. It is the trigram of the exact north, -- the trigram of comfort and rest, what all things are tending to. Hence it is said, 'He is comforted and enters into rest in **Kǎn ☵**. **Zhèn ☳** is the trigram of the north-east. In it all things bring to a full end the issues of the past (year), and prepare the commencement of the next. Hence it is said, 'He completes (the work of the year) in **Gèn ☶**.'
 
-p. 429
+###### p. 427
 
-Chapter  VIII. 12. Khien (suggests the idea of) a horse; Khwăn, that of an ox; Kăn, that of the dragon; Sun, that of a fowl; Khan, that of a pig; Lî, that of a pheasant; Kăn, that of a dog; and Tui, that of a sheep.
+Chapter  <a name="fr_291"></a>[VI](#fn_291).
 
-Chapter  IX, 13. Khien suggests the idea of the head; Khwăn, that of the belly; Kăn, that of the feet Sun, that of the thighs; Khan, that of the cars Lî, that of the eyes; Kăn, that of the hands and Tui, that of the mouth.
+10. When we speak of Spirit we mean the subtle (presence and operation of God) with all things. For putting all things in motion there is nothing more vehement than thunder; for scattering them there is nothing more effective than wind; for drying them up there is nothing more parching than fire; for giving them pleasure and satisfaction there is nothing more grateful than a lake or marsh; for moistening them there is nothing more enriching than water; for bringing them to an end and making them begin again there is nothing more fully adapted than **Kǎn ☵**. Thus water and fire contribute together to the one object; thunder and wind do not act contrary to each other; mountains and collections of water interchange their influences. It is in this way, that they are able to change and transform, and to give completion to all things.
 
-Chapter  X. 14. Khien is (the symbol of) heaven, and hence has the appellation of father. Khwăn is (the symbol of) earth, and hence has the appellation of mother, Kăn shows a first application (of Khwăn to Khien), resulting in getting (the first of) its male (or undivided lines), and hence is called 'the oldest son.' Sun shows a first application (of Khien to Khwăn), resulting in getting (the first of) its female (or divided lines), and hence is called 'the oldest daughter.' Khan shows a second application
+###### p. 428
 
-p. 430
+Chapter  <a name="fr_292"></a>[VII](#fn_292).
 
-(of Khwăn to Khien), resulting in getting (the second of) its male (or undivided lines), and hence is called 'the second son.' Lî shows a second application (of Khien to Khwăn), resulting in getting the second of its female (or divided lines), and hence is called 'the second daughter.' Kăn shows a third application (of Khwăn to Khien), resulting in getting (the third of) its male (or undivided lines), and hence is called 'the youngest son.' Tui shows a third application (of Khien to Khwăn), resulting in getting (the third of) its female (or divided lines), and hence is called 'the youngest daughter.'
+11. **Qián ☰** is (the symbol of) strength; **Kūn ☷**, of docility; **Zhèn ☳**, of stimulus to movement; **Xùn ☴**, of penetration; **Kǎn ☵**, of what is precipitous and perilous; **Lí ☲**, of what is bright and what is catching; **Gèn ☶**, of stoppage or arrest; and **Duì ☱**, of pleasure and satisfaction.
 
-Chapter  XI. 15. Khien suggests the idea of heaven; of a circle; of a ruler; of a father; of jade; of metal; of cold; of ice; of deep red; of a good horse; of an old horse; of a thin horse; of a piebald horse; and of the fruit of trees.
+###### p. 429
 
-16. Khwăn suggests the idea of the earth; of a mother; of cloth; of a caldron; of parsimony; of a turning lathe; of a young heifer; of a large waggon; of what is variegated; of a multitude; and of a handle and support. Among, soils it denotes what is black.
+Chapter  <a name="fr_293"></a>[VIII](#fn_293).
 
-17. Kăn suggests the idea of thunder; of the dragon; of (the union of) the azure and the yellow; of development; of a great highway; of the eldest son; of decision and vehemence; of bright young bamboos; of sedges and rushes; among horses, of
+12. **Qián ☰** (suggests the idea of) a horse; **Kūn ☷**, that of an ox; **Zhèn ☳**, that of the dragon; **Xùn ☴**, that of a fowl; **Kǎn ☵**, that of a pig; **Lí ☲**, that of a pheasant; **Gèn ☶**, that of a dog; and **Duì ☱**, that of a sheep.
 
-p. 431
+Chapter  <a name="fr_294"></a>[IX](#fn_294).
+
+13. **Qián ☰** suggests the idea of the head; **Kūn ☷**, that of the belly; **Zhèn ☳**, that of the feet; **Xùn ☴**, that of the thighs; **Kǎn ☵**, that of the ears; **Lí ☲**, that of the eyes; **Gèn ☶**, that of the hands; and **Duì ☱**, that of the mouth.
+
+Chapter  <a name="fr_295"></a>[X](#fn_295). 
+
+14. **Qián ☰** is (the symbol of) heaven, and hence has the appellation of father. **Kūn ☷** is (the symbol of) earth, and hence has the appellation of mother, **Zhèn ☳** shows a first application (of **Kūn ☷** to **Qián ☰**), resulting in getting (the first of) its male (or undivided lines), and hence is called 'the oldest son.' **Xùn ☴** shows a first application (of **Qián ☰** to **Kūn ☷**), resulting in getting (the first of) its female (or divided lines), and hence is called 'the oldest daughter.' **Kǎn ☵** shows a second application
+
+###### p. 430
+
+(of **Kūn ☷** to **Qián ☰**), resulting in getting (the second of) its male (or undivided lines), and hence is called 'the second son.' **Lí ☲** shows a second application (of **Qián ☰** to **Kūn ☷**), resulting in getting the second of its female (or divided lines), and hence is called 'the second daughter.' **Gèn ☶** shows a third application (of **Kūn ☷** to **Qián ☰**), resulting in getting (the third of) its male (or undivided lines), and hence is called 'the youngest son.' **Duì ☱** shows a third application (of **Qián ☰** to **Kūn ☷**), resulting in getting (the third of) its female (or divided lines), and hence is called 'the youngest daughter.'
+
+Chapter  <a name="fr_296"></a>[XI](#fn_296).
+
+15. **Qián ☰** suggests the idea of heaven; of a circle; of a ruler; of a father; of jade; of metal; of cold; of ice; of deep red; of a good horse; of an old horse; of a thin horse; of a piebald horse; and of the fruit of trees.
+
+16. **Kūn ☷** suggests the idea of the earth; of a mother; of cloth; of a caldron; of parsimony; of a turning lathe; of a young heifer; of a large waggon; of what is variegated; of a multitude; and of a handle and support. Among, soils it denotes what is black.
+
+17. **Zhèn ☳** suggests the idea of thunder; of the dragon; of (the union of) the azure and the yellow; of development; of a great highway; of the eldest son; of decision and vehemence; of bright young bamboos; of sedges and rushes; among horses, of
+
+###### p. 431
 
 the good neigher; of one whose white hind-leg appears, of the prancer, and of one with a white star in his forehead. Among the productions of husbandry it suggests the idea of what returns to life from its disappearance (beneath the surface), of what in the end becomes the strongest, and of what is the most luxuriant.
 
-18. Sun suggests the idea of wood; of wind; of the oldest daughter; of a plumb-line; of a carpenter's square; of being white; of being long; of being lofty; of advancing and receding; of want of decision; and of strong scents. It suggests in the human body, the idea of deficiency of hair; of a wide forehead; of a large development of the white of the eye. (Among tendencies), it suggests the close pursuit of gain, even to making three hundred per cent in the market. In the end it may become the trigram of decision.
+18. **Xùn ☴** suggests the idea of wood; of wind; of the oldest daughter; of a plumb-line; of a carpenter's square; of being white; of being long; of being lofty; of advancing and receding; of want of decision; and of strong scents. It suggests in the human body, the idea of deficiency of hair; of a wide forehead; of a large development of the white of the eye. (Among tendencies), it suggests the close pursuit of gain, even to making three hundred per cent in the market. In the end it may become the trigram of decision.
 
-19. Khan suggests the idea of water; of channels and ditches (for draining and irrigation); of being hidden and lying concealed; of being now straight, and now crooked; of a bow, and of a wheel. As referred to man, it suggests the idea of an increase of anxiety; of distress of mind; of pain in the ears;--it is the trigram of the blood; it suggests the idea of what is red. As referred to horses, it suggests the idea of the horse with an elegant spine; of one with a high spirit; of one with a drooping head; of one with a thin hoof; and of one with a shambling step. As referred to carriages, it suggests one that encounters many risks. It suggests what goes right through; the moon; a thief. Referred to trees, it suggests that which is strong, and firm-hearted.
+19. **Kǎn ☵** suggests the idea of water; of channels and ditches (for draining and irrigation); of being hidden and lying concealed; of being now straight, and now crooked; of a bow, and of a wheel. As referred to man, it suggests the idea of an increase of anxiety; of distress of mind; of pain in the ears;--it is the trigram of the blood; it suggests the idea of what is red. As referred to horses, it suggests the idea of the horse with an elegant spine; of one with a high spirit; of one with a drooping head; of one with a thin hoof; and of one with a shambling step. As referred to carriages, it suggests one that encounters many risks. It suggests what goes right through; the moon; a thief. Referred to trees, it suggests that which is strong, and firm-hearted.
 
-p. 432
+###### p. 432
 
-20. Lî suggests the emblem of fire; of the sun; of lightning; of the second daughter; of buff-coat and helmet; of spear and sword. Referred to men, it suggests the large belly. It is the trigram of dryness. It suggests the emblem of a turtle; of a crab; of a spiral univalve; of the mussel; and of the tortoise. Referred to trees, it suggests one which is hollow and rotten above.
+20. **Lí ☲** suggests the emblem of fire; of the sun; of lightning; of the second daughter; of buff-coat and helmet; of spear and sword. Referred to men, it suggests the large belly. It is the trigram of dryness. It suggests the emblem of a turtle; of a crab; of a spiral univalve; of the mussel; and of the tortoise. Referred to trees, it suggests one which is hollow and rotten above.
 
-21. Kăn suggests the emblem of a mountain; of a by-path; of a small rock; of a gateway; of the fruits of trees and creeping plants; of a porter or a eunuch; of the (ring) finger; of the dog; of the rat; of birds with powerful bills; among trees, of those which are strong, with many joints.
+21. **Gèn ☶** suggests the emblem of a mountain; of a by-path; of a small rock; of a gateway; of the fruits of trees and creeping plants; of a porter or a eunuch; of the (ring) finger; of the dog; of the rat; of birds with powerful bills; among trees, of those which are strong, with many joints.
 
-22. Tui suggests the emblem of a low-lying collection of water; of the youngest daughter; of a sorceress; of the mouth and tongue; of the decay and putting down (of things in harvest); of the removal (of fruits) hanging (from the stems or branches); among soils, of what is strong and salt; of a concubine; and of a sheep.
+22. **Duì ☱** suggests the emblem of a low-lying collection of water; of the youngest daughter; of a sorceress; of the mouth and tongue; of the decay and putting down (of things in harvest); of the removal (of fruits) hanging (from the stems or branches); among soils, of what is strong and salt; of a concubine; and of a sheep.
 
-Footnotes
+## Footnotes
 
-422:I Chapter I, paragraphs 1-3, treats of the rise of the scheme of the Yî from the wonderful qualities of the divining plant, the use of certain numbers, and the formation of the lineal figures.
+<a name="fn_286"></a>[422:I](#fr_286) Chapter I, paragraphs 1-3, treats of the rise of the scheme of the `I Ching` from the wonderful qualities of the divining plant, the use of certain numbers, and the formation of the lineal figures.
 
-P. Regis translates paragraph 1 by--'The ancient (sages), the most excellent men, were the authors of the Yî-king, in making which they were assisted by an intelligent spirit, who for their help produced the plant called Shih.'
+P. Regis translates paragraph 1 by -- 'The ancient (sages), the most excellent men, were the authors of the `I Ching`, in making which they were assisted by an intelligent spirit, who for their help produced the plant called [**Shī**](shi.jpg) (蓍).'
 
-But the text will not admit of this version, nor have I found the view given in it in any Chinese writer. It is difficult to make up one's mind whether to translate--'the sage,' or 'the sages.' Khung Yin-tâ contends that the writer had [Fúxī](https://en.wikipedia.org/wiki/Fuxi) and him alone in his p. 423 mind. To me it seems otherwise. [Fúxī](https://en.wikipedia.org/wiki/Fuxi), if we accept the testimony of universal Chinese consent, made the eight trigrams; but he did not make the Yî, which, by the same consent, was the production of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son.
+But the text will not admit of this version, nor have I found the view given in it in any Chinese writer. It is difficult to make up one's mind whether to translate -- 'the sage,' or 'the sages.' [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda) contends that the writer had [Fúxī](https://en.wikipedia.org/wiki/Fuxi) and him alone in his [<sub>p. 423</sub>](#p-423) mind. To me it seems otherwise. [Fúxī](https://en.wikipedia.org/wiki/Fuxi), if we accept the testimony of universal Chinese consent, made the eight trigrams; but he did not make the Yî, which, by the same consent, was the production of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son.
 
-The text would seem to say that the sages 'produced' the plant, but this is so extravagant that the view indicated in my supplementary clause appears in all the best commentators. So understood, the Yî may be said to 'give mysterious assistance to the spiritual Intelligences,' or, if we take that name as singular (according to the analogy of chapter 6), to the Divine Being in affording a revelation of His will, as in paragraph 3. We may well say that it is a pity the revelation should be so enigmatical; but the author, it must be remembered, is writing from his own standpoint. Wăn and his son, as I have endeavoured to show in the Introduction, merely wished to convey, under the style and veil of divination, their moral and political lessons.
+The text would seem to say that the sages 'produced' the plant, but this is so extravagant that the view indicated in my supplementary clause appears in all the best commentators. So understood, the `I Ching` may be said to 'give mysterious assistance to the spiritual Intelligences,' or, if we take that name as singular (according to the analogy of chapter 6), to the Divine Being in affording a revelation of His will, as in paragraph 3. We may well say that it is a pity the revelation should be so enigmatical; but the author, it must be remembered, is writing from his own standpoint. [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son, as I have endeavoured to show in the Introduction, merely wished to convey, under the style and veil of divination, their moral and political lessons.
 
 On paragraph 2 it is said that heaven is round; and as the circumference of a circle is three times its diameter, hence 3 is the number of heaven. Again, earth is square, and as the circumference of a square is four times its length or breadth, or it consists of two pairs of equal sides, hence 2 is the number of earth.
 
