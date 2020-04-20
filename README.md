@@ -19,7 +19,6 @@ Read the HEXAGRAM from bottom to top.
 For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
  
 | * | * | * | * | * | * | * | * | * | * |
-| - | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | - |
 | * | qián | kūn | zhūn | méng | xū | sòng | shī | bǐ | * |
 | * | [䷀](e4b9beqian.md) | [䷁](e59da4kun.md) | [䷂](e5b1afzhun.md) | [䷃](e89299meng.md) | [䷄](e99c80xu.md) | [䷅](e8aebcsong.md) | [䷆](e5b888shi.md) | [䷇](e6af94bi.md) | * |
 | * | 乾 | 坤 | 屯 | 蒙 | 需 | 讼 | 师 | 比 | * |
