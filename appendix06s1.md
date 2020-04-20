@@ -95,7 +95,7 @@ But what is allowable, good even, in poetry, is out of place in this treatise.
 
 <a name="fn_300"></a>[439:3](#fr_302) Contention on a great scale will put all the population of a state in excitement and motion, and military measures of repression will be necessary. But the idea of the multitudes in [**Shī ䷆**](e5b888shi.md) would seem to be simply that of number, and not that of a numerous host. In a feudal kingdom, however, all the able-bodied people might be required to join the army.
 
-<a name="fn_301"></a>[440:4](#fr_303) [p. 440](#p-440) [**Lǚ ䷉**](e5b1a5lv.md), the name of the 10th hexagram, is the symbol for a shoe, and the act of treading or walking. It seems here to be derived from the homophonous lî, the symbol of acts of ceremony. The identity of sound or name must be considered as accidental. A measured step would be one of the first ways in which the inward sense of propriety would manifest itself.
+<a name="fn_301"></a>[440:4](#fr_303) [<sub>p. 440</sub>](#p-440) [**Lǚ ䷉**](e5b1a5lv.md), the name of the 10th hexagram, is the symbol for a shoe, and the act of treading or walking. It seems here to be derived from the homophonous lî, the symbol of acts of ceremony. The identity of sound or name must be considered as accidental. A measured step would be one of the first ways in which the inward sense of propriety would manifest itself.
 
 <a name="fn_302"></a>[440:5](#p-434) By the subject of [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md) and [**Qiān ䷎**](e8b0a6qian.md) we must understand the possessor of the kingdom -- the great man who in his greatness is yet distinguished by humility. He attracts followers.
 
