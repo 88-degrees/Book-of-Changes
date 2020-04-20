@@ -14,98 +14,90 @@ This last of the Appendixes is touched on very briefly in the concluding paragra
 
 - `4` 'Mid darkness still, to light [**Méng ䷃**](e89299meng.md) sets its face.
 
-- `51, 52` Kăn starts; Kăn stops. In Sun and Yî are seen
+- `51, 52` [**Zhèn ䷲**](e99c87zhen.md) starts; [**Gèn ䷳**](e889aegen.md) stops.
 
-- `41, 42` How fulness and decay their course begin.
+- `41, 42` In [**Sǔn ䷨**](e68d9fsun.md) and [**Yì ䷩**](e79b8ayi.md) are seen How fulness and decay their course begin.
 
-26. Tâ Khû keeps still, and waits the proper time.
+- `26` [**Dà Xù ䷙**](e5a4a7e89384daxu.md) keeps still, and waits the proper time.
 
-25. Wû Wang sets forth how evil springs from crime.
+- `25` [**Wú Wàng ䷘**](e697a0e5a684wuwang.md) sets forth how evil springs from crime.
 
-p. 442
+###### p. 442
 
-45, 46. Good men in Žhui collect; in Shang they rise:
+- `45, 46` Good men in [**Cuì ䷬**](e89083cui.md) collect; in [**Shēng ䷭**](e58d87sheng.md) they rise:
 
-15, 16. Khien itself, Yü others doth despise.
+- `15, 16` [**Qiān ䷎**](e8b0a6qian.md) itself, [**Yǜ ䷏**](e8b1abyu.md) others doth despise.
 
-21, 22. Shih Ho takes eating for its theme; and Pî
+- `21, 22` [**Shì Kè ䷔**](e599ace59791shike.md) takes eating for its theme; and [**Bì ䷕**](e8b4b2bi.md) Takes what is plain, from ornament quite free.
 
-Takes what is plain, from ornament quite free.
+- `58, 57` [**Duì ䷹**](e58591dui.md) shows its scope, but [**Xùn ䷸**](e5b7bdxun.md)'s we do not see.
 
-58, 57. Tui shows its scope, but Sun's we do not see.
+- `17, 18` [**Suí ䷐**](e99a8fsui.md) quits the old; [**Gǔ ䷑**](e89b8agu.md) makes a new decree.
 
-17, 18. Sui quits the old; Kû makes a new decree.
+- `23` We see in [**Bō ䷖**](e589a5bo.md) its subject worn away;
 
-23. We see in Po its subject worn away;
+- `24` And [**Fù ䷗**](e5a48dfu.md) shows its recovering from decay.
 
-24. And Fû shows its recovering from decay.
+- `35` Above in Žin the sun shines clear and bright;
 
-35. Above in Žin the sun shines clear and bright;
+- `36` But in Ming Î 'tis hidden from the sight.
 
-36. But in Ming Î 'tis hidden from the sight.
+- `48, 47` Progress in Žing in Khwăn encounters blight.
 
-48,47. Progress in Žing in Khwăn encounters blight.
+- `31` Effect quick answering cause in Hsien appears;
 
-31. Effect quick answering cause in Hsien appears;
+- `32` While Hăng denotes continuance for years.
 
-32. While Hăng denotes continuance for years.
+- `59, 60` Hwân scatters; but Žieh its code of rules uprears.
 
-59,60. Hwân scatters; but Žieh its code of rules uprears.
+- `40` Relief and ease with Kieh are sure to come;
 
-40. Relief and ease with Kieh are sure to come;
+- `41` Hard toil and danger have in Kien their home.
 
-41. Hard toil and danger have in Kien their home.
+- `38` Khwei looks on others as beyond its care;
 
-38. Khwei looks on others as beyond its care;
+- `37` Kiâ Zăn all includes within its sphere.
 
-37. Kiâ Zăn all includes within its sphere.
+###### p. 443
 
-p. 443
+- `12, 11` While Phî and Thâi their different scopes prefer,
 
-12, 11. While Phî and Thâi their different scopes prefer,
+- `34, 33` Tâ Kwang stops here as right; withdraws Thun there.
 
-34, 33. Tâ Kwang stops here as right; withdraws Thun there.
+- `14` Tâ Yû adhering multitudes can show;
 
-14. Tâ Yû adhering multitudes can show;
+- `13` Thung Zăn reflects their warm affection's glow.
 
-13. Thung Zăn reflects their warm affection's glow.
+- `50, 51` Ting takes what's new; the old is left by Ko.
 
-50, 51. Ting takes what's new; the old is left by Ko.
+- `61, 62` Sincere is Kung Fû; but exceeds, Hsiâo Kwo.
 
-61, 62. Sincere is Kung Fû; but exceeds, Hsiâo Kwo.
+- `55, 56` Făng tells of trouble; Lü can boast few friends.
 
-55, 56. Făng tells of trouble; Lü can boast few friends.
+- `30, 29` Fire mounts in Lî; water in Khân descends.
 
-30, 29. Fire mounts in Lî; water in Khân descends.
+- `9` Hsiâo Khû with few 'gainst many foes contends.
 
-9. Hsiâo Khû with few 'gainst many foes contends.
+- `10` Movement in Lî, unresting, never ends.
 
-10. Movement in Lî, unresting, never ends.
+- `5` Hsü shows its subject making no advance:
 
-5. Hsü shows its subject making no advance:
+- `6` In Sung we seek in vain a friendly glance;
 
-6. In Sung we seek in vain a friendly glance;
+- `28` And Tâ Kwo's overthrown with sad mischance.
 
-28. And Tâ Kwo's overthrown with sad mischance.
+- `44` [**Gòu ䷫**](e5a7a4gou.md) shows a meeting, where the many strong Are met by one that's weak, yet struggles long.
 
-44. [**Gòu ䷫**](e5a7a4gou.md) shows a meeting, where the many strong
+- `53` In Kien we see a bride who will delay To move until the bridegroom takes his way.
 
-Are met by one that's weak, yet struggles long.
+- `27` Body and mind are nourished right in Î;
 
-53. In Kien we see a bride who will delay
+- `63` All things are well established in Kî Žî.
 
-To move until the bridegroom takes his way.
+###### p. 444
 
-27. Body and mind are nourished right in Î;
+- `54` Kwei Mei reveals how ends the virgin life;
 
-63. All things are well established in Kî Žî.
+- `64` Wei Žî how fails the youth (to get a wife).
 
-p. 444
-
-54. Kwei Mei reveals how ends the virgin life;
-
-64. Wei Žî how fails the youth (to get a wife).
-
-43. The strong disperse the weak; Kwâi teaches so.
-
-Prospers the good man's way; to grief all small men go.
+- `43` The strong disperse the weak; Kwâi teaches so. Prospers the good man's way; to grief all small men go.
