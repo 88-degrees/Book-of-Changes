@@ -19,8 +19,9 @@ Read the HEXAGRAM from bottom to top.
 For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
  
 | * | * | * | * | * | * | * | * | * | * |
-| - | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | - |
-| * | `01` qián | `02` kūn | `03` zhūn | `04` méng | `05` xū | `06` sòng | `07` shī | `08` bǐ | * |
+| - | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | - |
+| * | `01` | `02` | `03` | `04` | `05` | `06` | `07` | `08` | * |
+| * | qián | kūn | zhūn | méng | xū | sòng | shī | bǐ | * |
 | * | [䷀](e4b9beqian.md) | [䷁](e59da4kun.md) | [䷂](e5b1afzhun.md) | [䷃](e89299meng.md) | [䷄](e99c80xu.md) | [䷅](e8aebcsong.md) | [䷆](e5b888shi.md) | [䷇](e6af94bi.md) | * |
 | * | 乾 | 坤 | 屯 | 蒙 | 需 | 讼 | 师 | 比 | * |
 | * | `09` xiǎo xù | `10` lǚ | `11` tài | `12` pǐ | `13` tóng rén | `14` dà yǒu | `15` qiān| `16` yǜ | * |
