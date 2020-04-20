@@ -19,16 +19,17 @@ Read the HEXAGRAM from bottom to top.
 For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
  
 | * | * | * | * | * | * | * | * | * | * |
-| * | qián | kūn | zhūn | méng | xū | sòng | shī | bǐ | * |
+| - | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | - |
+| * | 1 qián | 2 kūn | 3 zhūn | 4 méng | 5 xū | 6 sòng | 7 shī | . bǐ | * |
 | * | [䷀](e4b9beqian.md) | [䷁](e59da4kun.md) | [䷂](e5b1afzhun.md) | [䷃](e89299meng.md) | [䷄](e99c80xu.md) | [䷅](e8aebcsong.md) | [䷆](e5b888shi.md) | [䷇](e6af94bi.md) | * |
 | * | 乾 | 坤 | 屯 | 蒙 | 需 | 讼 | 师 | 比 | * |
-| * | xiǎo xù | lǚ | tài | pǐ | tóng rén | dà yǒu | qiān| yǜ | * |
+| * | 9 xiǎo xù | 10 lǚ | 11 tài | 12 pǐ | 13 tóng rén | 14 dà yǒu | 15 qiān| 16 yǜ | * |
 | * | [䷈](e5b08fe7959cxiaoxu.md) | [䷉](e5b1a5lv.md) | [䷊](e6b3b0tai.md) | [䷋](e590a6pi.md) | [䷌](e5908ce4babatongren.md) | [䷍](e5a4a7e69c89dayou.md) | [䷎](e8b0a6qian.md) | [䷏](e8b1abyu.md) | * |
 | * | 小畜 | 履 | 泰 | 否 | 同人 | 大有 | 谦 | 豫 | * |
-| * | suí | gǔ | lín | guān | shì kè | bì | bō | fù | * |
+| * | 17 suí | 18 gǔ | 19 lín | 20 guān | 21 shì kè | 22 bì | 23 bō | 24 fù | * |
 | * | [䷐](e99a8fsui.md) | [䷑](e89b8agu.md) | [䷒](e4b8b4lin.md) | [䷓](e8a782guan.md) | [䷔](e599ace59791shike.md) | [䷕](e8b4b2bi.md) | [䷖](e589a5bo.md) | [䷗](e5a48dfu.md) | * |
 | * | 随 | 蛊 | 临 | 观 | 噬嗑 | 贲 | 剥 | 复 | * |
-| * | wú wàng | dà xù | yí | dà guò | kǎn | lí | xián | héng | * |
+| * | 25 wú wàng | 26 dà xù | 27 yí | 28 dà guò | 29 kǎn | 30 lí | 31 xián | 32 héng | * |
 | * | [䷘](e697a0e5a684wuwang.md) | [䷙](e5a4a7e89384daxu.md) | [䷚](e9a290yi.md) | [䷛](e5a4a7e8bf87daguo.md) | [䷜](e59d8ekan.md) | [䷝](e7a6bbli.md) | [䷞](e592b8xian.md) | [䷟](e68192heng.md) | * |
 | * | 无妄 | 大畜 | 颐 | 大过 | 坎 | 离 | 咸 | 恒 | * |
 | * | dùn | dà zhuàng | jìn | míng yí | jiā rén | kuí | jiǎn | xiè | * |
