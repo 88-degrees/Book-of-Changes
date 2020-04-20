@@ -40,4 +40,4 @@ no ground for blame or for praise,' are in reality a lesson of caution.
 
 ### Footnotes
 
-<a name="fn_285"></a>[421:1](#fr_285) The hexagram [**Kūn ䷁**](./e59da4kun.md) is dealt with in Section ii, and much wore briefly than [**Qián ䷀**](./e4b9beqian.md) in [Section I](appendix04s1.md). Much less distinct, moreover, is the attempt in it to show how the attributes of the hexagram are to be understood of the principles of human nature. The most important portion of the Section, perhaps, is paragraph 5, the first of chapter II, and I have spoken of it in the Introduction.
+<a name="fn_285"></a>[421:1](#fr_285) The hexagram [**Kūn ䷁**](./e59da4kun.md) is dealt with in **Section II**, and much wore briefly than [**Qián ䷀**](./e4b9beqian.md) in [**Section I**](appendix04s1.md). Much less distinct, moreover, is the attempt in it to show how the attributes of the hexagram are to be understood of the principles of human nature. The most important portion of the Section, perhaps, is paragraph 5, the first of chapter II, and I have spoken of it in the Introduction.
