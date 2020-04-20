@@ -38,66 +38,66 @@ This last of the Appendixes is touched on very briefly in the concluding paragra
 
 - `24` And [**Fù ䷗**](e5a48dfu.md) shows its recovering from decay.
 
-- `35` Above in Žin the sun shines clear and bright;
+- `35` Above in [**Jìn ䷢**](e6998bjin.md) the sun shines clear and bright;
 
-- `36` But in Ming Î 'tis hidden from the sight.
+- `36` But in [**Míng Yí ䷣**](e6988ee5a4b7mingyi.md) 'tis hidden from the sight.
 
-- `48, 47` Progress in Žing in Khwăn encounters blight.
+- `48, 47` Progress in [**Jǐng ䷯**](e4ba95jing.md) in [**Kùn ䷮**](e59bb0kun.md) encounters blight.
 
-- `31` Effect quick answering cause in Hsien appears;
+- `31` Effect quick answering cause in [**Xián ䷞**](e592b8xian.md) appears;
 
-- `32` While Hăng denotes continuance for years.
+- `32` While [**Héng ䷟**](e68192heng.md) denotes continuance for years.
 
-- `59, 60` Hwân scatters; but Žieh its code of rules uprears.
+- `59, 60` [**Huàn ䷺**](e6b6a3huan.md) scatters; but [**Jié ䷻**](e88a82jie.md) its code of rules uprears.
 
-- `40` Relief and ease with Kieh are sure to come;
+- `40` Relief and ease with [**Xiè ䷧**](e8a7a3xie.md) are sure to come;
 
-- `41` Hard toil and danger have in Kien their home.
+- `39` Hard toil and danger have in [**Jiǎn ䷦**](e8b987jian.md) their home.
 
-- `38` Khwei looks on others as beyond its care;
+- `38` [**Kuí ䷥**](e79dbdkui.md) looks on others as beyond its care;
 
-- `37` Kiâ Zăn all includes within its sphere.
+- `37` [**Jiā Rén ䷤**](e5aeb6e4babajiaren.md) all includes within its sphere.
 
 ###### p. 443
 
-- `12, 11` While Phî and Thâi their different scopes prefer,
+- `12, 11` While [**Pǐ ䷋**](e590a6pi.md) and [**Taì ䷊**](e6b3b0tai.md) their different scopes prefer.
 
-- `34, 33` Tâ Kwang stops here as right; withdraws Thun there.
+- `34, 33` [**Dà Zhuàng ䷡**](e5a4a7e5a3aedazhuang.md) stops here as right; withdraws [**Dùn ䷠**](e981afdun.md) there.
 
-- `14` Tâ Yû adhering multitudes can show;
+- `14` [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md) adhering multitudes can show;
 
-- `13` Thung Zăn reflects their warm affection's glow.
+- `13` [**Tóng Rén ䷌**](e5908ce4babatongren.md) reflects their warm affection's glow.
 
-- `50, 51` Ting takes what's new; the old is left by Ko.
+- `50, 49` [**Dǐng ䷱**](e9bc8eding.md) takes what's new; the old is left by [**Gé ䷰**](e99da9ge.md).
 
-- `61, 62` Sincere is Kung Fû; but exceeds, Hsiâo Kwo.
+- `61, 62` Sincere is [**Zhōng Fú ䷼**](e4b8ade5ad9azhongfu.md); but exceeds, [**Xiǎo Guò ䷽**](e5b08fe8bf87xiaoguo.md).
 
-- `55, 56` Făng tells of trouble; Lü can boast few friends.
+- `55, 56` [**Fēng ䷶**](e4b8b0feng.md) tells of trouble; [**Lǚ ䷷**](e69785lv.md) can boast few friends.
 
-- `30, 29` Fire mounts in Lî; water in Khân descends.
+- `30, 29` Fire mounts in [**Lí ䷝**](e7a6bbli.md); water in [**Kǎn ䷜**](e59d8ekan.md) descends.
 
-- `9` Hsiâo Khû with few 'gainst many foes contends.
+- `9` [**Xiǎo Xù ䷈**](e5b08fe7959cxiaoxu.md) with few 'gainst many foes contends.
 
-- `10` Movement in Lî, unresting, never ends.
+- `10` Movement in [**Lǚ ䷉**](e5b1a5lv.md), unresting, never ends.
 
-- `5` Hsü shows its subject making no advance:
+- `5` [**Xū ䷄**](e99c80xu.md) shows its subject making no advance:
 
-- `6` In Sung we seek in vain a friendly glance;
+- `6` In [**Sòng ䷅**](e8aebcsong.md) we seek in vain a friendly glance;
 
-- `28` And Tâ Kwo's overthrown with sad mischance.
+- `28` And [**Dà Guò ䷛**](e5a4a7e8bf87daguo.md)'s overthrown with sad mischance.
 
 - `44` [**Gòu ䷫**](e5a7a4gou.md) shows a meeting, where the many strong Are met by one that's weak, yet struggles long.
 
-- `53` In Kien we see a bride who will delay To move until the bridegroom takes his way.
+- `53` In [**Jiàn ䷴**](e6b890jian.md) we see a bride who will delay To move until the bridegroom takes his way.
 
-- `27` Body and mind are nourished right in Î;
+- `27` Body and mind are nourished right in [**Yí ䷚**](e9a290yi.md);
 
-- `63` All things are well established in Kî Žî.
+- `63` All things are well established in [**Jì Jì ䷾**](e697a2e6b58ejiji.md).
 
 ###### p. 444
 
-- `54` Kwei Mei reveals how ends the virgin life;
+- `54` [**Guī Mèi ䷵**](e5bd92e5a6b9guimei.md) reveals how ends the virgin life;
 
-- `64` Wei Žî how fails the youth (to get a wife).
+- `64` [**Wèi Jì ䷿**](e69caae6b58eweiji.md) how fails the youth (to get a wife).
 
-- `43` The strong disperse the weak; Kwâi teaches so. Prospers the good man's way; to grief all small men go.
+- `43` The strong disperse the weak; [**Guài ䷪**](e5a4acguai.md) teaches so. Prospers the good man's way; to grief all small men go.

@@ -33,7 +33,7 @@ For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
 | * | [䷐](e99a8fsui.md) | [䷑](e89b8agu.md) | [䷒](e4b8b4lin.md) | [䷓](e8a782guan.md) | [䷔](e599ace59791shike.md) | [䷕](e8b4b2bi.md) | [䷖](e589a5bo.md) | [䷗](e5a48dfu.md) | * |
 | * | 随 | 蛊 | 临 | 观 | 噬嗑 | 贲 | 剥 | 复 | * |
 | * | `25` | `26` | `27` | `28` | `29` | `30` | `31` | `32` | * |
-| * | wú wàng | dà xù | yí | dà guò | kǎn | lí |  xián | héng | * |
+| * | wú wàng | dà xù | yí | dà guò | kǎn | lí | xián | héng | * |
 | * | [䷘](e697a0e5a684wuwang.md) | [䷙](e5a4a7e89384daxu.md) | [䷚](e9a290yi.md) | [䷛](e5a4a7e8bf87daguo.md) | [䷜](e59d8ekan.md) | [䷝](e7a6bbli.md) | [䷞](e592b8xian.md) | [䷟](e68192heng.md) | * |
 | * | 无妄 | 大畜 | 颐 | 大过 | 坎 | 离 | 咸 | 恒 | * |
 | * | `33` | `34` | `35` | `36` | `37` | `38` | `39` | `40` | * |
