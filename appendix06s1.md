@@ -85,8 +85,11 @@ succeeded by [**Wèi Jì ䷿**](e69caae6b58eweiji.md), with which (the hexagrams
 <a name="fn_299"></a>[439:2](#fr_300) It is difficult to follow the writer here. [**Xū ䷄**](e99c80xu.md) in the Text is the symbol of the idea of waiting. Does he mean that a provision of food and drink can only be made gradually? There is nothing in the character [**Xū ䷄**](e99c80xu.md) to awaken in the mind the idea of nourishment, Then the genesis of contention which is given is strange. The writer probably had in his mind the lines of the [Shih, II, i, ode 5. 3](): --
 
 > 'The loss of kindly feeling oft
+
 > From slightest things shall grow.
+
 > Where all the fare is dry and spare,
+
 > Resentments fierce may glow.'
 
 But what is allowable, good even, in poetry, is out of place in this treatise.
