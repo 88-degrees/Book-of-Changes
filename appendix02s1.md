@@ -1,6 +1,6 @@
-# APPENDIX II
-
 ###### p. 267
+
+# APPENDIX II
 
 Treatise on the Symbolism of the Hexagrams, and of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s Explanations of the several Lines <a name="fr_189"></a>[1](#fn_189)
 

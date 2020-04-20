@@ -1,6 +1,6 @@
-## SECTION II
-
 ###### p. 238
+
+## SECTION II
 
 <a name="fr_155"></a>[XXXI](#fn_155).
 
