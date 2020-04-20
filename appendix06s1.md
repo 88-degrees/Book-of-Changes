@@ -26,7 +26,7 @@ The Orderly Sequence of the Hexagrams <a name="fr_297"></a>[<sub>a</sub>](#fn_29
 
 ###### p. 435
 
-[paragraph continues] [**Bì ䷕**](e8b4b2bi.md). [**Bì ䷕**](e8b4b2bi.md) denotes adorning. When ornamentation has been carried to the utmost, its progress comes to an end; and hence [**Bì ䷕**](e8b4b2bi.md) is followed by [**Bō ䷖**](e589a5bo.md). [**Bō ䷖**](e589a5bo.md) denotes decay and overthrow.
+<sub>[paragraph continues]</sub> [**Bì ䷕**](e8b4b2bi.md). [**Bì ䷕**](e8b4b2bi.md) denotes adorning. When ornamentation has been carried to the utmost, its progress comes to an end; and hence [**Bì ䷕**](e8b4b2bi.md) is followed by [**Bō ䷖**](e589a5bo.md). [**Bō ䷖**](e589a5bo.md) denotes decay and overthrow.
 
 23-26. Things cannot be done away for ever. When decadence and overthrow have completed their work at one end, reintegration commences at the other; and hence [**Bì ䷕**](e8b4b2bi.md) is followed by [**Fù ䷗**](e5a48dfu.md). When the return (thus indicated) has taken place, we have not any rash disorder, and [**Fù ䷗**](e5a48dfu.md). is followed by [**Wú Wàng ䷘**](e697a0e5a684wuwang.md). Given the freedom from disorder and insincerity (which this name denotes), there may be the accumulation (of virtue), and [**Wú Wàng ䷘**](e697a0e5a684wuwang.md) is followed by [**Dà Xù ䷙**](e5a4a7e89384daxu.md).
 
