@@ -1,8 +1,12 @@
+###### p. 379
+
 ## SECTION II
 
-Chapter  I. 1. The eight trigrams having been completed in their proper order, there were in each the (three) emblematic lines. They were then
+Chapter <a name="fr_266"></a>[I](#fn_266).
 
-p. 380
+1. The eight trigrams having been completed in their proper order, there were in each the (three) emblematic lines. They were then
+
+###### p. 380
 
 multiplied by a process of addition till the (six) component lines appeared.
 
@@ -16,7 +20,7 @@ multiplied by a process of addition till the (six) component lines appeared.
 
 6. By the same rule, heaven and earth, in their course, continually give forth (their lessons); the sun and moon continually emit their light; all the movements under the sky are constantly subject to this one and the same rule.
 
-p. 381
+###### p. 381
 
 7. Khien, (the symbol of heaven, and) conveying the idea of strength, shows to men its easy (and natural) action. Khwăn, (the symbol of earth, and) conveying the idea of docility, shows to men its compendious (receptivity and operation).
 
@@ -26,11 +30,13 @@ p. 381
 
 10. The great attribute of heaven and earth is the giving and maintaining life. What is most precious for the sage is to get the (highest) place--(in which he can be the human representative of heaven and earth). What will guard this position for him? Men. How shall he collect a large population round him? By the power of his wealth. The right administration of that wealth, correct instructions to the people, and prohibitions against wrong-doing;--these constitute his righteousness.
 
-p. 382
+###### p. 382
 
-Chapter  II. 11. Anciently, when Pâo-hsî had come to the rule of all under heaven, looking up, he contemplated the brilliant forms exhibited in the sky, and looking down he surveyed the patterns shown on the earth. He contemplated the ornamental appearances of birds and beasts and the (different) suitabilities of the soil. Near at hand, in his own person, he found things for consideration, and the same at a distance, in things in general. On this he devised the eight trigrams, to show fully the
+Chapter  <a name="fr_267"></a>[II](#fn_267).
 
-p. 383
+11. Anciently, when Pâo-hsî had come to the rule of all under heaven, looking up, he contemplated the brilliant forms exhibited in the sky, and looking down he surveyed the patterns shown on the earth. He contemplated the ornamental appearances of birds and beasts and the (different) suitabilities of the soil. Near at hand, in his own person, he found things for consideration, and the same at a distance, in things in general. On this he devised the eight trigrams, to show fully the
+
+###### p. 383
 
 attributes of the spirit-like and intelligent (operations working secretly), and to classify the qualities of the myriads of things.
 
@@ -42,7 +48,7 @@ attributes of the spirit-like and intelligent (operations working secretly), and
 
 15. After the death of Shăn-năng, there arose Hwang Tî, Yâo, and Shun. They carried through the (necessarily occurring) changes, so that the people did (what was required of them) without being wearied; yea, they exerted such a spirit-like transformation, that the people felt constrained to approve their (ordinances) as right. When a series of changes has run all its course, another change ensues. When it obtains free course, it will continue long. Hence it was that 'these (sovereigns) were helped by Heaven; they had good fortune, and their every movement was advantageous.' Hwang Tî, Yâo, and Shun (simply) wore their upper and
 
-p. 384
+###### p. 384
 
 lower garments (as patterns to the people), and good order was secured all under heaven. The idea of all this was taken, probably, from Khien and Khwăn (the first and eighth trigrams, or the first and second hexagrams).
 
@@ -56,7 +62,7 @@ lower garments (as patterns to the people), and good order was secured all under
 
 20. They bent wood by means of string so as to form bows, and sharpened wood so as to make arrows. This gave the benefit of bows and arrows, and served to produce everywhere a feeling of awe.
 
-p. 385
+###### p. 385
 
 [paragraph continues] The idea of this was taken, probably, from Khwei (the thirty-eighth hexagram).
 
@@ -66,11 +72,13 @@ p. 385
 
 23. In the highest antiquity, government was carried on successfully by the use of knotted cords (to preserve the memory of things). In subsequent ages the sages substituted for these written characters and bonds. By means of these (the doings of) all the officers could be regulated, and (the affairs of) all the people accurately examined. The idea of this was taken, probably, from Kwâi (the forty-third hexagram).
 
-p. 386
+###### p. 386
 
-Chapter  III. 24. Therefore what we call the Yî is (a collection of) emblematic lines. They are styled emblematic as being resemblances.
+Chapter <a name="fr_268"></a>[III](#fn_268).
 
-p. 387
+24. Therefore what we call the Yî is (a collection of) emblematic lines. They are styled emblematic as being resemblances.
+
+###### p. 387
 
 25. What we call the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) (or [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s explanations) are based on the significance (of each hexagram as a whole).
 
@@ -78,23 +86,25 @@ p. 387
 
 27. In this way (we see) the rise of good fortune and evil, and the manifestation of repentance and regret.
 
-p. 388
+###### p. 388
 
-Chapter  IV. 28. In the Yang trigrams (or those of the undivided line) there are more of the Yin lines, and in the Yin trigrams (or those of the divided line) there are more of the Yang lines.
+Chapter <a name="fr_269"></a>[IV](#fn_269).
+
+28. In the Yang trigrams (or those of the undivided line) there are more of the Yin lines, and in the Yin trigrams (or those of the divided line) there are more of the Yang lines.
 
 29. What is the cause of this? It is because the Yang lines are odd (or made by one stroke), and the Yin lines are even (or. made by two strokes).
 
 30. What (method of) virtuous conduct is thus intimated? In the Yang trigrams we have one ruler, and two subjects,--suggesting the way of the superior man. In the Yin trigrams we have two rulers, and one subject,--suggesting the way of the small man.
 
-p. 389
+###### p. 389
 
-Chapter  V. 31. It is said in the Yî, 'Full of anxious thoughts you go and come; (only) friends will follow you and think with you.' The Master said:--'In all (the processes taking place) under heaven, what is there of thinking? what is there of anxious scheming? They all come to the same (successful) issue, though by different paths; there is one result, though there might be a hundred anxious schemes. What is there of thinking? what is there of anxious scheming?'
+Chapter <a name="fr_270"></a>[V](#fn_270). 31. It is said in the Yî, 'Full of anxious thoughts you go and come; (only) friends will follow you and think with you.' The Master said:--'In all (the processes taking place) under heaven, what is there of thinking? what is there of anxious scheming? They all come to the same (successful) issue, though by different paths; there is one result, though there might be a hundred anxious schemes. What is there of thinking? what is there of anxious scheming?'
 
 32. The sun goes and the moon comes; the moon goes and the sun comes;--the sun and moon thus take the place each of the other, and their shining is the result. The cold goes and the heat comes; the heat goes and the cold comes;--it is by this mutual succession of the cold and heat that the year is completed. That which goes becomes less and less, and that which comes waxes more and more;--it is by the influence on each other of this contraction and expansion that the advantages (of the different conditions) are produced.
 
 33. When the looper coils itself up, it thereby straightens itself again; when worms and snakes
 
-p. 390
+###### p. 390
 
 go into the state of hybernation, they thereby keep themselves alive. (So), when we minutely investigate the nature and reasons (of things), till we have entered into the inscrutable and spirit-like in them, we attain to the largest practical application of them; when that application becomes the quickest and readiest, and all personal restfulness is secured, our virtue is thereby exalted.
 
@@ -104,7 +114,7 @@ go into the state of hybernation, they thereby keep themselves alive. (So), when
 
 36. It is said in the Yî, 'The duke with (his bow) shoots at the falcon on the top of the high wall; he hits it:--his every movement will be advantageous.' The Master said:--'The falcon is a bird (of prey); the bow and arrow is a weapon (of war); the shooter is a man. The superior man keeps his weapon concealed about his person, and waits for the proper time to move;--doing this, how should his movement be other than successful? There is nothing to fetter or embarrass his movement; and hence, when he comes forth, he succeeds in his object.
 
-p. 391
+###### p. 391
 
 [paragraph continues] The language speaks of movement when the instrument necessary to it is ready and perfect.'
 
@@ -114,7 +124,7 @@ p. 391
 
 39. The Master said:--'He who keeps danger in mind is he who will rest safe in his seat; he who keeps ruin in mind is he who will preserve his interests secure; he who sets the danger of disorder before him is he who will maintain the state of order. Therefore the superior man, when resting in safety, does not forget that danger may come; when in a state of security, he does not forget the possibility of ruin; and when all is in a state of order, he does not
 
-p. 392
+###### p. 392
 
 forget that disorder may come. Thus his person is kept safe, and his states and all their clans can be preserved. This is according to what the Yî says, "(Let him say), 'Shall I perish? shall I perish?' (so shall this state be firm, as if) bound to a clump of bushy mulberry trees."'
 
@@ -124,7 +134,7 @@ forget that disorder may come. Thus his person is kept safe, and his states and 
 
 42. The Master said:--'I may venture to say that the son of the Yen family had nearly attained (the
 
-p. 393
+###### p. 393
 
 standard of perfection). If anything that he did was not good, he was sure to become conscious of that; and when he knew it, he did not do the thing again. As is said in the Yî, "(The first line shows its subject) returning from an error that has not led him far away. There is no occasion for repentance. There will be great good."'
 
@@ -132,17 +142,19 @@ standard of perfection). If anything that he did was not good, he was sure to be
 
 44. The Master said:--'The superior man (in a high place) composes himself before he (tries to) move others; makes his mind restful and easy before he speaks; settles (the principles of) his intercourse with others before he seeks anything from them. The superior man cultivates these three things, and so is complete. If he try to move others while he is himself in unrest, the people will not (act) with him; if he speak while he is himself in a state of apprehension, the people will not respond to him; if without (certain principles of) intercommunication, he issue his requests, the people will not grant them. When there are none to accord with him, those who (work to) injure him will make their appearance. As is said in the Yî, "(We see one) to whose advantage none will contribute, while some will seek to assail him. He observes no
 
-p. 394
+###### p. 394
 
 regular rule in the ordering of his heart:--there will be evil."'
 
-p. 395
+###### p. 395
 
-Chapter  VI. 45. The Master said:--'(The trigrams) Khien and Khwăn may be regarded as the gate of the Yî.' Khien represents what is of the yang nature (bright and active); Khwăn what is of the yin nature (shaded and inactive). These two unite according to their qualities, and there comes the embodiment of the result by the strong and weak (lines). In this way we have the phenomena of heaven and earth visibly exhibited, and can comprehend the operation of the spiritual intelligence.
+Chapter <a name="fr_271"></a>[VI](#fn_271).
+
+45. The Master said:--'(The trigrams) Khien and Khwăn may be regarded as the gate of the Yî.' Khien represents what is of the yang nature (bright and active); Khwăn what is of the yin nature (shaded and inactive). These two unite according to their qualities, and there comes the embodiment of the result by the strong and weak (lines). In this way we have the phenomena of heaven and earth visibly exhibited, and can comprehend the operation of the spiritual intelligence.
 
 46. The appellations and names (of the diagrams and lines) are various, but do not go beyond (what is to be ascribed to the operation of these two conditions). When we examine the nature and style
 
-p. 396
+###### p. 396
 
 [paragraph continues] (of the appended explanations), they seem to express the ideas of a decaying age.
 
@@ -150,23 +162,27 @@ p. 396
 
 48. The appellations and names (of the diagrams and lines) are but small matters, but the classes of things comprehended under them are large. Their scope reaches far, and the explanations attached to them are elegant. The words are indirect, but to the point; the matters seem plainly set forth, but there is a secret principle in them. Their object is, in cases that are doubtful, to help the people in their conduct, and to make plain the recompenses of good and evil.
 
-p. 397
+###### p. 397
 
-Chapter  VII. 49. Was it not in the middle period of antiquity that the Yî began to flourish? Was not he who made it familiar with anxiety and calamity?
+Chapter <a name="fr_272"></a>[VII](#fn_272).
+
+49. Was it not in the middle period of antiquity that the Yî began to flourish? Was not he who made it familiar with anxiety and calamity?
 
 50. Therefore (the 10th diagram), Lî, shows us the foundation of virtue; (the 15th), Hsien, its handle; (the 24th), Fû, its root; (the 32nd), Hăng, its solidity; (the 41st), Sun, its cultivation; (the 42nd), Yî, its abundance; (the 47th), Khwăn, its exercise of discrimination; (the 48th), Žing, its field and (the 57th), Sun, its regulation.
 
 51. In Lî we have the perfection of harmony; in Hsien, we have the giving honour to others,
 
-p. 398
+###### p. 398
 
 and the distinction thence arising; in Fû we have what is small (at first), but there is in it a (nice) discrimination of (the qualities of) things; in Ming we have a mixed experience, but without any weariness; in Sun we have difficulty in the beginning and ease in the end; in Yî we have abundance of growth without any contrivance; in Khwăn we have the pressure of extreme difficulty, ending in a free course,; in Žing we have abiding in one's place and at the same time removal (to meet the movement of others); and in Sun we have the weighing of things (and action accordingly), but secretly and unobserved.
 
 52. (The use of) Lî appears in the harmony of the conduct; of Hsien, in the regulation of ceremonies; of Fû, in self-knowledge; of Hăng, in uniformity of virtue; of Sun, in keeping what is harmful at a distance; of Yî, in the promotion of what is advantageous; of Khwăn, in the diminution of resentments; of Žing, in the discrimination of what is righteous; and of Sun, in the doing of what is appropriate to time and to circumstances.
 
-p. 399
+###### p. 399
 
-Chapter  VIII. 53. The Yî is a book which should not be let slip from the mind. Its method (of teaching) is marked by the frequent changing (of its lines). They change and move without staying (in one place), flowing about into any one of the six places of the hexagram. They ascend and descend, ever inconstant. The strong and the weak lines change places, so that an invariable and compendious rule cannot be derived from them;--it must vary as their changes indicate.
+Chapter <a name="fr_273"></a>[VIII](#fn_273).
+
+53. The Yî is a book which should not be let slip from the mind. Its method (of teaching) is marked by the frequent changing (of its lines). They change and move without staying (in one place), flowing about into any one of the six places of the hexagram. They ascend and descend, ever inconstant. The strong and the weak lines change places, so that an invariable and compendious rule cannot be derived from them;--it must vary as their changes indicate.
 
 54. The goings forth and comings in (of the lines) are according to rule and measure. (People) learn from them in external and internal affairs to stand in awe.
 
@@ -174,9 +190,11 @@ Chapter  VIII. 53. The Yî is a book which should not be let slip from the mind.
 
 56. Beginning with taking note of its explanations, we reason out the principles to which they point. We thus find out that it does supply a constant and standard rule. But if there be not the Proper men (to carry this out), the course cannot be pursued without them.
 
-p. 400
+###### p. 400
 
-Chapter  IX. 57. The Yî is a book in which the form (of each diagram) is determined by the lines from the first to the last, which must be carefully observed. The six lines are mixed together, according to the time (when they enter the figure) and their substance (as whole and divided).
+Chapter <a name="fr_274"></a>[IX](#fn_274).
+
+57. The Yî is a book in which the form (of each diagram) is determined by the lines from the first to the last, which must be carefully observed. The six lines are mixed together, according to the time (when they enter the figure) and their substance (as whole and divided).
 
 58. There is difficulty in knowing (the significance of) the first line, while to know that of the topmost line is easy;--they form the beginning and the end (of the diagram). The explanation of the first line tasks the calculating (of the makers), but in the end they had (but) to complete this.
 
@@ -186,31 +204,37 @@ Chapter  IX. 57. The Yî is a book in which the form (of each diagram) is determ
 
 61. The second and fourth lines are of the same
 
-p. 401
+###### p. 401
 
 quality (as being in even places), but their positions (with respect to the fifth line) are different, and their value is not the same; but the second is the object of much commendation, and the fourth the subject of many apprehensions,--from its nearness (to that line). But for a line in a place of weakness it is not good to be far (from the occupant of the place of strength), and what its subject should desire in such a case is (merely) to be without blame. The advantage (here) is in (the second line) being in the central place.
 
 62. The third and fifth lines are of the same quality, (as being in odd places), but their positions are different; and the (occupant of) the third meets with many misfortunes, while the occupant of the fifth achieves much merit:--this arises from one being in the noble position and the other in the mean. Are they occupied by the symbol of weakness? There will be peril. By that of strength? There will be victory.
 
-p. 402
+###### p. 402
 
-Chapter  X. 63. The Yî is a book of wide comprehension and great scope, embracing everything. There are in it the way of heaven, the way of man, and the way of earth. It then takes (the lines representing) those three Powers, and doubles them till they amount to six. What these six lines show is simply this,--the way of the three Powers.
+Chapter <a name="fr_275"></a>[X](#fn_275).
+
+63. The Yî is a book of wide comprehension and great scope, embracing everything. There are in it the way of heaven, the way of man, and the way of earth. It then takes (the lines representing) those three Powers, and doubles them till they amount to six. What these six lines show is simply this,--the way of the three Powers.
 
 64. This way is marked by changes and movements, and hence we have the imitative lines. Those lines are of different grades (in the trigrams), and hence we designate them from their component elements. These are mixed together, and elegant forms arise. When such forms are not in their appropriate places, the ideas of good fortune and bad are thus produced.
 
-p. 403
+###### p. 403
 
-Chapter  XI. 65. Was it not in the last age of Yin, when the virtue of Kâu had reached its highest point, and during the troubles between [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and (the tyrant) Kâu, that the (study of the Yî) began to flourish? On this account the explanations (in the book) express (a feeling of) anxious apprehension, (and teach) how peril may be turned into security, and easy carelessness is sure to meet with overthrow. The method in which these things come about is very comprehensive, and must be acknowledged in every sphere of things. If at the beginning there be a cautious apprehension as to the end, there will probably be no error or cause for blame. This is what is called the way of the Yî.
+Chapter <a name="fr_276"></a>[XI](#fn_276).
 
-p. 404
+65. Was it not in the last age of Yin, when the virtue of Kâu had reached its highest point, and during the troubles between [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and (the tyrant) Kâu, that the (study of the Yî) began to flourish? On this account the explanations (in the book) express (a feeling of) anxious apprehension, (and teach) how peril may be turned into security, and easy carelessness is sure to meet with overthrow. The method in which these things come about is very comprehensive, and must be acknowledged in every sphere of things. If at the beginning there be a cautious apprehension as to the end, there will probably be no error or cause for blame. This is what is called the way of the Yî.
 
-Chapter  XII. 66. (The hexagram) Khien represents the strongest of all under the sky. Through this quality its operations are always manifested with ease, for it knows where there would be peril and embarrassment. (The hexagram) Khwăn represents the most docile of all under the sky. Through this quality its operations are always manifested with the promptest decision, for it knows where there would be obstruction.
+###### p. 404
+
+Chapter <a name="fr_277"></a>[XII](#fn_277).
+
+66. (The hexagram) Khien represents the strongest of all under the sky. Through this quality its operations are always manifested with ease, for it knows where there would be peril and embarrassment. (The hexagram) Khwăn represents the most docile of all under the sky. Through this quality its operations are always manifested with the promptest decision, for it knows where there would be obstruction.
 
 67. (The sages, who are thus represented, and who made the Yî,) were able to rejoice in heart (in the absolute truth of things), and were able (also) to weigh carefully all matters that could occasion anxiety; (thus) they fixed the good and bad fortune (of all things) under the sky, and could accomplish the things requiring strenuous efforts.
 
 68. Therefore amid the changes and transformations (taking place in heaven and earth), and the words and deeds of men, events that are to be fortunate have their happy omens. (The sages) knew the definite principles underlying the prognostications of the former class, and the future of
 
-p. 405
+###### p. 405
 
 those of the latter, (now to be) ascertained by divination.
 
@@ -222,15 +246,15 @@ those of the latter, (now to be) ascertained by divination.
 
 72. The language of him who is meditating a
 
-p. 406
+###### p. 406
 
 revolt (from the right) betrays his inward shame; that of him whose inward heart doubts about it diverges to other topics. The words of a good man are few; those of a coarse man are many. The words of one who slanders what is good are unsubstantial;
 
-p. 407
+###### p. 407
 
 those of him who is losing what he ought to keep are crooked.
 
-Footnotes
+### Footnotes
 
 381:I Chapter I, paragraphs 1-10, is an amplification, according to [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda) and the editors of the imperial edition of the present dynasty, of the second chapter of Section i. The latter say that as all the chapters of Section i from the third onwards serve to elucidate chapter 2, so it is with this chapter and all that follow in this Section. The formation of the diagrams, and of their several lines, their indication of good fortune and bad, and the analogy between the processes of nature and the operations of divination, and other kindred subjects, are all touched on.
 
@@ -322,7 +346,7 @@ Paragraph 58 belongs to the first and sixth lines. We are hardly prepared for th
 
 Paragraph 60 seems to say that the work of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou) on each line was but an indicating in detail of the processes of his father's mind in explaining the whole figure.
 
-p. 402
+###### p. 402
 
 The last two paragraphs mention several points important to be attended to in studying, more especially, the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou) on the several lines. Three different views of the concluding statement,--'are they occupied,' &c.,--are given in the imperial edition. 'It belongs,' says Wû Kăng, 'to the fifth line;' 'to the third line,' says [Hú Bǐng-wén](http://bec001.web3.ncku.edu.tw/var/file/142/1142/img/2248/5802.pdf) (also of the Yuán dynasty); while Hân Hsing-kwo (of the Thang dynasty) held that it belonged to both. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that 'by discriminating and combining these views, we get to the meaning of the text.' I am unable to do so.
 
