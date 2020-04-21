@@ -6,17 +6,17 @@ Treatise of Remarks on the Trigrams
 
 Chapter  <a name="fr_286"></a>[I](#fn_286). 
 
-1. Anciently, when the sages made the `I Ching`, in order to give mysterious assistance to the spiritual Intelligences, they produced (the rules for the use of) the divining plant.
+1. Anciently, when the sages made the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), in order to give mysterious assistance to the spiritual Intelligences, they produced (the rules for the use of) the divining plant.
 
 2. The number 3 was assigned to heaven, 2 to earth, and from these came the (other) numbers.
 
-3. They contemplated the changes in the divided and undivided lines (by the process of manipulating the stalks), and formed the trigrams; from the movements that took place in the strong and weak lines, they produced (their teaching about) the separate lines. There ensued a harmonious conformity to the course (of duty) and to virtue, with a discrimination of what was right (in each particular case). They (thus) made an exhaustive discrimination of what was right, and effected the complete development of (every) nature, till they arrived (in the `I Ching`) at what was appointed for it (by Heaven).
+3. They contemplated the changes in the divided and undivided lines (by the process of manipulating the stalks), and formed the trigrams; from the movements that took place in the strong and weak lines, they produced (their teaching about) the separate lines. There ensued a harmonious conformity to the course (of duty) and to virtue, with a discrimination of what was right (in each particular case). They (thus) made an exhaustive discrimination of what was right, and effected the complete development of (every) nature, till they arrived (in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching)) at what was appointed for it (by Heaven).
 
 ###### p. 423
 
 Chapter  <a name="fr_287"></a>[II](#fn_287).
 
-4. Anciently, when the sages made the `I Ching`, it was with the design that (its figures) should be in conformity with the principles underlying the natures (of men and things), and the ordinances (for them) appointed (by Heaven). With this view they exhibited (in them) the way of heaven, calling (the lines) `yīn` and `yáng`; the way of earth, calling (them) the weak (or soft) and the strong (or hard); and the way of men, under the names of benevolence
+4. Anciently, when the sages made the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), it was with the design that (its figures) should be in conformity with the principles underlying the natures (of men and things), and the ordinances (for them) appointed (by Heaven). With this view they exhibited (in them) the way of heaven, calling (the lines) `yīn` and `yáng`; the way of earth, calling (them) the weak (or soft) and the strong (or hard); and the way of men, under the names of benevolence
 
 ###### p. 424
 
@@ -26,7 +26,7 @@ Chapter  <a name="fr_288"></a>[III](#fn_288).
 
 5. (The symbols of) heaven and earth received their determinate positions; (those for) mountains and collections of water interchanged their influences; (those for) thunder and wind excited each other the more; and (those for) water and fire did each other no harm. (Then) among these eight symbols there was a mutual communication.
 
-6. The numbering of the past is a natural process.; the knowledge of the coming is anticipation. Therefore in the `I Ching` we have (both) anticipation (and the natural process).
+6. The numbering of the past is a natural process.; the knowledge of the coming is anticipation. Therefore in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) we have (both) anticipation (and the natural process).
 
 ###### p. 425
 
@@ -100,13 +100,13 @@ the good neigher; of one whose white hind-leg appears, of the prancer, and of on
 
 ## Footnotes
 
-<a name="fn_286"></a>[422:I](#fr_286) Chapter I, paragraphs 1-3, treats of the rise of the scheme of the `I Ching` from the wonderful qualities of the divining plant, the use of certain numbers, and the formation of the lineal figures.
+<a name="fn_286"></a>[422:I](#fr_286) Chapter I, paragraphs 1-3, treats of the rise of the scheme of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) from the wonderful qualities of the divining plant, the use of certain numbers, and the formation of the lineal figures.
 
-P. Regis translates paragraph 1 by -- 'The ancient (sages), the most excellent men, were the authors of the `I Ching`, in making which they were assisted by an intelligent spirit, who for their help produced the plant called [**Shī**](shi.jpg) (蓍).'
+P. Regis translates paragraph 1 by -- 'The ancient (sages), the most excellent men, were the authors of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), in making which they were assisted by an intelligent spirit, who for their help produced the plant called [**Shī**](shi.jpg) (蓍).'
 
 But the text will not admit of this version, nor have I found the view given in it in any Chinese writer. It is difficult to make up one's mind whether to translate -- 'the sage,' or 'the sages.' [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda) contends that the writer had [Fú-xī](https://en.wikipedia.org/wiki/Fuxi) and him alone in his [<sub>p. 423</sub>](#p-423) mind. To me it seems otherwise. [Fú-xī](https://en.wikipedia.org/wiki/Fuxi), if we accept the testimony of universal Chinese consent, made the eight trigrams; but he did not make the Yî, which, by the same consent, was the production of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son.
 
-The text would seem to say that the sages 'produced' the plant, but this is so extravagant that the view indicated in my supplementary clause appears in all the best commentators. So understood, the `I Ching` may be said to 'give mysterious assistance to the spiritual Intelligences,' or, if we take that name as singular (according to the analogy of chapter 6), to the Divine Being in affording a revelation of His will, as in paragraph 3. We may well say that it is a pity the revelation should be so enigmatical; but the author, it must be remembered, is writing from his own standpoint. [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son, as I have endeavoured to show in the Introduction, merely wished to convey, under the style and veil of divination, their moral and political lessons.
+The text would seem to say that the sages 'produced' the plant, but this is so extravagant that the view indicated in my supplementary clause appears in all the best commentators. So understood, the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) may be said to 'give mysterious assistance to the spiritual Intelligences,' or, if we take that name as singular (according to the analogy of chapter 6), to the Divine Being in affording a revelation of His will, as in paragraph 3. We may well say that it is a pity the revelation should be so enigmatical; but the author, it must be remembered, is writing from his own standpoint. [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son, as I have endeavoured to show in the Introduction, merely wished to convey, under the style and veil of divination, their moral and political lessons.
 
 On paragraph 2 it is said that heaven is round; and as the circumference of a circle is three times its diameter, hence 3 is the number of heaven. Again, earth is square, and as the circumference of a square is four times its length or breadth, or it consists of two pairs of equal sides, hence 2 is the number of earth.
 
@@ -138,4 +138,4 @@ The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors cons
 
 <a name="fn_295"></a>[430:X](#fr_295) Chapter X has been discussed in the Introduction. Let it simply be added here, that the account which it does give of the formation of the six subsidiary trigrams is inconsistent with their gradual rise from the mutual imposition of the undivided and divided lines.
 
-<a name="fn_296"></a>[432:XI](#fr_296) Chapter XI may be made to comprehend all the paragraphs from the 15th to the end, and shows how universally the ideas underlying the `I Ching` are diffused through the world of nature. The quality of the several trigrams will be found with more or less of truth, and with less or more of fancy, in the objects mentioned in connexion with them. More needs not to be said on the chapter than has been done in the Introduction.
+<a name="fn_296"></a>[432:XI](#fr_296) Chapter XI may be made to comprehend all the paragraphs from the 15th to the end, and shows how universally the ideas underlying the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) are diffused through the world of nature. The quality of the several trigrams will be found with more or less of truth, and with less or more of fancy, in the objects mentioned in connexion with them. More needs not to be said on the chapter than has been done in the Introduction.

@@ -42,47 +42,47 @@ attributes of the spirit-like and intelligent (operations working secretly), and
 
 12. He invented the making of nets of various kinds by knitting strings, both for hunting and fishing. The idea of this was taken, probably, from **Lí** (the third trigram **☲**, and thirtieth hexagram **䷝**).
 
-13. On the death of [Páo-xī](https://en.wikipedia.org/wiki/Fuxi), there arose Shăn-năng (in his place). He fashioned wood to form the share, and bent wood to make the plough-handle. The advantages of ploughing and weeding were then taught to all under heaven. The idea of this was taken, probably, from **Yì ䷩** (the forty-second hexagram).
+13. On the death of [Páo-xī](https://en.wikipedia.org/wiki/Fuxi), there arose [Shén Nóng](https://en.wikipedia.org/wiki/Shennong) (in his place). He fashioned wood to form the share, and bent wood to make the plough-handle. The advantages of ploughing and weeding were then taught to all under heaven. The idea of this was taken, probably, from **Yì ䷩** (the forty-second hexagram).
 
-14. He caused markets to be held at midday, thus bringing together all the people, and assembling in one place all their wares. They made their exchanges and retired, every one having got what he wanted. The idea of this was taken, probably, from Shih Ho (the twenty-first hexagram).
+14. He caused markets to be held at midday, thus bringing together all the people, and assembling in one place all their wares. They made their exchanges and retired, every one having got what he wanted. The idea of this was taken, probably, from [**Shì Kè ䷔**](e599ace59791shike.md) (the twenty-first hexagram).
 
-15. After the death of Shăn-năng, there arose Hwang Tî, Yâo, and Shun. They carried through the (necessarily occurring) changes, so that the people did (what was required of them) without being wearied; yea, they exerted such a spirit-like transformation, that the people felt constrained to approve their (ordinances) as right. When a series of changes has run all its course, another change ensues. When it obtains free course, it will continue long. Hence it was that 'these (sovereigns) were helped by Heaven; they had good fortune, and their every movement was advantageous.' Hwang Tî, Yâo, and Shun (simply) wore their upper and
+15. After the death of [Shén Nóng](https://en.wikipedia.org/wiki/Shennong), there arose [Huáng Dì](https://en.wikipedia.org/wiki/Yellow_Emperor), [Yáo](https://en.wikipedia.org/wiki/Emperor_Yao), and [Shùn](https://en.wikipedia.org/wiki/Emperor_Shun). They carried through the (necessarily occurring) changes, so that the people did (what was required of them) without being wearied; yea, they exerted such a spirit-like transformation, that the people felt constrained to approve their (ordinances) as right. When a series of changes has run all its course, another change ensues. When it obtains free course, it will continue long. Hence it was that 'these (sovereigns) were helped by Heaven; they had good fortune, and their every movement was advantageous.' [Huáng Dì](https://en.wikipedia.org/wiki/Yellow_Emperor), [Yáo](https://en.wikipedia.org/wiki/Emperor_Yao), and [Shùn](https://en.wikipedia.org/wiki/Emperor_Shun) (simply) wore their upper and
 
 ###### p. 384
 
-lower garments (as patterns to the people), and good order was secured all under heaven. The idea of all this was taken, probably, from Khien and Khwăn (the first and eighth trigrams, or the first and second hexagrams).
+lower garments (as patterns to the people), and good order was secured all under heaven. The idea of all this was taken, probably, from **Qián** and **Kūn** (the first **☰** and eighth **☷** trigrams, or the first **䷀** and second **䷁** hexagrams).
 
-16. They hollowed out trees to form canoes; they cut others long and thin to make oars. Thus arose the benefit of canoes and oars for the help of those who had no means of intercourse with others. They could now reach the most distant parts, and all under heaven were benefited. The idea of this was taken., probably, from Hwân (the fifty-ninth hexagram).
+16. They hollowed out trees to form canoes; they cut others long and thin to make oars. Thus arose the benefit of canoes and oars for the help of those who had no means of intercourse with others. They could now reach the most distant parts, and all under heaven were benefited. The idea of this was taken, probably, from Hwân (the fifty-ninth hexagram).
 
-17. They used oxen (in carts) and yoked horses (to chariots), thus providing for the carriage of what was heavy, and for distant journeys,--thereby benefiting all under the sky. The idea of this was taken, probably, from Sui (the seventeenth hexagram).
+17. They used oxen (in carts) and yoked horses (to chariots), thus providing for the carriage of what was heavy, and for distant journeys, -- thereby benefiting all under the sky. The idea of this was taken, probably, from [**Suí ䷐**](e99a8fsui.md) (the seventeenth hexagram).
 
-18. They made the (defence of the) double gates, and (the warning of) the clapper, as a preparation against the approach of marauding visitors. The idea of this was taken, probably, from Yü (the sixteenth hexagram).
+18. They made the (defence of the) double gates, and (the warning of) the clapper, as a preparation against the approach of marauding visitors. The idea of this was taken, probably, from [**Yǜ ䷏**](e8b1abyu.md) (the sixteenth hexagram).
 
-19. They cut wood and fashioned it into pestles; they dug in the ground and formed mortar's. Thus the myriads of the people received the benefit arising from the use of the pestle and mortar. The idea of this was taken, probably, from Hsiâo Kwo (the sixty-second hexagram).
+19. They cut wood and fashioned it into pestles; they dug in the ground and formed mortar's. Thus the myriads of the people received the benefit arising from the use of the pestle and mortar. The idea of this was taken, probably, from [**Xiǎo Guò ䷽**](e5b08fe8bf87xiaoguo.md) (the sixty-second hexagram).
 
 20. They bent wood by means of string so as to form bows, and sharpened wood so as to make arrows. This gave the benefit of bows and arrows, and served to produce everywhere a feeling of awe.
 
 ###### p. 385
 
-[paragraph continues] The idea of this was taken, probably, from Khwei (the thirty-eighth hexagram).
+<sub>[paragraph continues]</sub> The idea of this was taken, probably, from [**Kuí ䷥**](e79dbdkui.md) (the thirty-eighth hexagram).
 
-21. In the highest antiquity they made their homes (in winter) in caves, and (in summer) dwelt in the open country. In subsequent ages, for these the sages substituted houses, with the ridge-beam above and the projecting roof below, as a provision against wind and rain. The idea of this was taken, probably, from Tâ Kwang (the thirty-fourth hexagram).
+21. In the highest antiquity they made their homes (in winter) in caves, and (in summer) dwelt in the open country. In subsequent ages, for these the sages substituted houses, with the ridge-beam above and the projecting roof below, as a provision against wind and rain. The idea of this was taken, probably, from [**Dà Zhuàng ䷡**](e5a4a7e5a3aedazhuang.md) (the thirty-fourth hexagram).
 
-22. When the ancients buried their dead, they covered the body thickly with pieces of wood, having laid it in the open country. They raised no mound over it, nor planted trees around; nor had they any fixed period for mourning. In subsequent ages the sages substituted for these practices the inner and outer coffins. The idea of this was taken, probably, from Tâ Kwo (the twenty-eighth hexagram).
+22. When the ancients buried their dead, they covered the body thickly with pieces of wood, having laid it in the open country. They raised no mound over it, nor planted trees around; nor had they any fixed period for mourning. In subsequent ages the sages substituted for these practices the inner and outer coffins. The idea of this was taken, probably, from [**Dà Guò ䷛**](e5a4a7e8bf87daguo.md) (the twenty-eighth hexagram).
 
-23. In the highest antiquity, government was carried on successfully by the use of knotted cords (to preserve the memory of things). In subsequent ages the sages substituted for these written characters and bonds. By means of these (the doings of) all the officers could be regulated, and (the affairs of) all the people accurately examined. The idea of this was taken, probably, from Kwâi (the forty-third hexagram).
+23. In the highest antiquity, government was carried on successfully by the use of knotted cords (to preserve the memory of things). In subsequent ages the sages substituted for these written characters and bonds. By means of these (the doings of) all the officers could be regulated, and (the affairs of) all the people accurately examined. The idea of this was taken, probably, from [**Guài ䷪**](e5a4acguai.md) (the forty-third hexagram).
 
 ###### p. 386
 
 Chapter <a name="fr_268"></a>[III](#fn_268).
 
-24. Therefore what we call the Yî is (a collection of) emblematic lines. They are styled emblematic as being resemblances.
+24. Therefore what we call the [Yì](https://en.wikipedia.org/wiki/I_Ching) (易) is (a collection of) emblematic lines. They are styled emblematic as being resemblances.
 
 ###### p. 387
 
 25. What we call the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) (or [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s explanations) are based on the significance (of each hexagram as a whole).
 
-26. We call the lines (of the figures) Yâo from their being according to the movements taking place all under the sky.
+26. We call the lines (of the figures) [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) from their being according to the movements taking place all under the sky.
 
 27. In this way (we see) the rise of good fortune and evil, and the manifestation of repentance and regret.
 
@@ -90,17 +90,17 @@ Chapter <a name="fr_268"></a>[III](#fn_268).
 
 Chapter <a name="fr_269"></a>[IV](#fn_269).
 
-28. In the Yang trigrams (or those of the undivided line) there are more of the Yin lines, and in the Yin trigrams (or those of the divided line) there are more of the Yang lines.
+28. In the `Yáng` trigrams (or those of the undivided line) there are more of the `Yīn` lines, and in the `Yīn` trigrams (or those of the divided line) there are more of the `Yáng` lines.
 
-29. What is the cause of this? It is because the Yang lines are odd (or made by one stroke), and the Yin lines are even (or. made by two strokes).
+29. What is the cause of this? It is because the `Yáng` lines are odd (or made by one stroke), and the `Yīn` lines are even (or. made by two strokes).
 
-30. What (method of) virtuous conduct is thus intimated? In the Yang trigrams we have one ruler, and two subjects,--suggesting the way of the superior man. In the Yin trigrams we have two rulers, and one subject,--suggesting the way of the small man.
+30. What (method of) virtuous conduct is thus intimated? In the `Yáng` trigrams we have one ruler, and two subjects, -- suggesting the way of the superior man. In the `Yīn` trigrams we have two rulers, and one subject, -- suggesting the way of the small man.
 
 ###### p. 389
 
-Chapter <a name="fr_270"></a>[V](#fn_270). 31. It is said in the Yî, 'Full of anxious thoughts you go and come; (only) friends will follow you and think with you.' The Master said:--'In all (the processes taking place) under heaven, what is there of thinking? what is there of anxious scheming? They all come to the same (successful) issue, though by different paths; there is one result, though there might be a hundred anxious schemes. What is there of thinking? what is there of anxious scheming?'
+Chapter <a name="fr_270"></a>[V](#fn_270). 31. It is said in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), 'Full of anxious thoughts you go and come; (only) friends will follow you and think with you.' The Master said: -- 'In all (the processes taking place) under heaven, what is there of thinking? what is there of anxious scheming? They all come to the same (successful) issue, though by different paths; there is one result, though there might be a hundred anxious schemes. What is there of thinking? what is there of anxious scheming?'
 
-32. The sun goes and the moon comes; the moon goes and the sun comes;--the sun and moon thus take the place each of the other, and their shining is the result. The cold goes and the heat comes; the heat goes and the cold comes;--it is by this mutual succession of the cold and heat that the year is completed. That which goes becomes less and less, and that which comes waxes more and more;--it is by the influence on each other of this contraction and expansion that the advantages (of the different conditions) are produced.
+32. The sun goes and the moon comes; the moon goes and the sun comes; -- the sun and moon thus take the place each of the other, and their shining is the result. The cold goes and the heat comes; the heat goes and the cold comes; -- it is by this mutual succession of the cold and heat that the year is completed. That which goes becomes less and less, and that which comes waxes more and more; -- it is by the influence on each other of this contraction and expansion that the advantages (of the different conditions) are produced.
 
 33. When the looper coils itself up, it thereby straightens itself again; when worms and snakes
 
@@ -108,9 +108,9 @@ Chapter <a name="fr_270"></a>[V](#fn_270). 31. It is said in the Yî, 'Full of a
 
 go into the state of hybernation, they thereby keep themselves alive. (So), when we minutely investigate the nature and reasons (of things), till we have entered into the inscrutable and spirit-like in them, we attain to the largest practical application of them; when that application becomes the quickest and readiest, and all personal restfulness is secured, our virtue is thereby exalted.
 
-34. Going on beyond this, we reach a point which it is hardly possible to know. We have thoroughly comprehended the inscrutable and spirit-like, and know the processes of transformation;--this is the fulness of virtue.
+34. Going on beyond this, we reach a point which it is hardly possible to know. We have thoroughly comprehended the inscrutable and spirit-like, and know the processes of transformation; -- this is the fulness of virtue.
 
-35. It is said in the Yî, '(The third line shows its subject) distressed before a rock, and trying to lay hold of thorns; entering into his palace and not seeing his wife:--there will be evil.' The Master said:--'If one be distressed by what need not distress him, his name is sure to be disgraced; if he lay hold on what he should not touch, his life is sure to be imperilled. In disgrace and danger, his death will (soon) come;--is it possible for him in such circumstances to see his wife?'
+35. It is said in the Yî, '(The third line shows its subject) distressed before a rock, and trying to lay hold of thorns; entering into his palace and not seeing his wife: -- there will be evil.' The Master said: -- 'If one be distressed by what need not distress him, his name is sure to be disgraced; if he lay hold on what he should not touch, his life is sure to be imperilled. In disgrace and danger, his death will (soon) come;--is it possible for him in such circumstances to see his wife?'
 
 36. It is said in the Yî, 'The duke with (his bow) shoots at the falcon on the top of the high wall; he hits it:--his every movement will be advantageous.' The Master said:--'The falcon is a bird (of prey); the bow and arrow is a weapon (of war); the shooter is a man. The superior man keeps his weapon concealed about his person, and waits for the proper time to move;--doing this, how should his movement be other than successful? There is nothing to fetter or embarrass his movement; and hence, when he comes forth, he succeeds in his object.
 
@@ -272,7 +272,7 @@ What is said in paragraph 10 is striking and important, and in harmony with the 
 
 Paragraph 11. [Páo-xī](https://en.wikipedia.org/wiki/Fuxi) here and in 13 is the same as [Fú-xī](https://en.wikipedia.org/wiki/Fuxi). As Pâo is written here, there is no meaning in it; but another character Páo (庖) is more common, and Phâo-hsî would mean the inventor of the kitchen and cookery. This was the first step towards civilisation, and was appropriately followed by the hunting and fishing--both by means of nets--in paragraph 12.
 
-Paragraphs 13, 14 celebrate the work of Shăn-năng, 'the marvellous or spirit-like husbandman.' There was no metal about the primitive plough. The market for the exchange of commodities, without the use of coin, was an important advance.
+Paragraphs 13, 14 celebrate the work of [Shén Nóng](https://en.wikipedia.org/wiki/Shennong), 'the marvellous or spirit-like husbandman.' There was no metal about the primitive plough. The market for the exchange of commodities, without the use of coin, was an important advance.
 
 The invention of the robes, or of dress, mentioned in paragraph 15, would seem to show that previously men had been in a very rude state. The passage indicates, however, the courtesies and proprieties of social life, in which dress plays an important part, and which now began to be organised.
 

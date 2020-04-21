@@ -22,13 +22,13 @@ Chapter II.
 
 ###### p. 420
 
-his minister, or of his father by a son, is not the result of the events of one morning or one evening. The causes of it have gradually accumulated, -- through the absence of early discrimination. The words of the `I Ching`, 'He treads on the hoar-frost; the strong ice will come (by and by),' show the natural (issue and growth of things).
+his minister, or of his father by a son, is not the result of the events of one morning or one evening. The causes of it have gradually accumulated, -- through the absence of early discrimination. The words of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), 'He treads on the hoar-frost; the strong ice will come (by and by),' show the natural (issue and growth of things).
 
 6. 'Straight' indicates the correctness (of the internal principle), and 'square,' the righteousness (of the external act). The superior man, (thus represented), by his self-reverence maintains the inward (correctness), and in righteousness adjusts his external acts. His reverence and righteousness being (thus) established, his virtues are not solitary instances or of a single class. 'Straight, square, and great, working his operations, without repeated efforts, in every respect advantageous:' -- this shows how (such a one) has no doubts as to what he does.
 
 7. Although (the subject of) this divided line has excellent qualities, he (does not display them, but) keeps them under restraint. 'If he engage with them in the service of the king, and be successful, he will not claim that success for himself:' -- this is the way of the earth, of a wife, of a minister. The way of the earth is -- 'not to claim the merit of achievement,' but on behalf (of heaven) to bring things to their proper issue.
 
-8. Through the changes and transformations produced by heaven and earth, plants and trees grow luxuriantly. If (the reciprocal influence of) heaven and earth were shut up and restrained, we should have (a state that might suggest to us) the case of men of virtue and ability lying in obscurity. The words of the `I Ching`, 'A sack tied up: -- there will be
+8. Through the changes and transformations produced by heaven and earth, plants and trees grow luxuriantly. If (the reciprocal influence of) heaven and earth were shut up and restrained, we should have (a state that might suggest to us) the case of men of virtue and ability lying in obscurity. The words of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), 'A sack tied up: -- there will be
 
 ###### p. 421
 
