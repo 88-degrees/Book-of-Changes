@@ -22,7 +22,7 @@ multiplied by a process of addition till the (six) component lines appeared.
 
 ###### p. 381
 
-7. **Qián ☰**, (the symbol of heaven, and) conveying the idea of strength, shows to men its easy (and natural) action. **Kūn ☷*, (the symbol of earth, and) conveying the idea of docility, shows to men its compendious (receptivity and operation).
+7. **Qián ☰**, (the symbol of heaven, and) conveying the idea of strength, shows to men its easy (and natural) action. **Kūn ☷**, (the symbol of earth, and) conveying the idea of docility, shows to men its compendious (receptivity and operation).
 
 8. The [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) (or lines) are imitative representations of this. The [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols), or emblematic figures, are pictorial representations of the same.
 
@@ -40,9 +40,9 @@ Chapter  <a name="fr_267"></a>[II](#fn_267).
 
 attributes of the spirit-like and intelligent (operations working secretly), and to classify the qualities of the myriads of things.
 
-12. He invented the making of nets of various kinds by knitting strings, both for hunting and fishing. The idea of this was taken, probably, from **Lí** (the third trigram **☲**, and thirtieth hexagram **䷝**).
+12. He invented the making of nets of various kinds by knitting strings, both for hunting and fishing. The idea of this was taken, probably, from [**Lí ䷝**](e7a6bbli.md) (the third trigram **☲**, and thirtieth hexagram **䷝**).
 
-13. On the death of [Páo-xī](https://en.wikipedia.org/wiki/Fuxi), there arose [Shén Nóng](https://en.wikipedia.org/wiki/Shennong) (in his place). He fashioned wood to form the share, and bent wood to make the plough-handle. The advantages of ploughing and weeding were then taught to all under heaven. The idea of this was taken, probably, from **Yì ䷩** (the forty-second hexagram).
+13. On the death of [Páo-xī](https://en.wikipedia.org/wiki/Fuxi), there arose [Shén Nóng](https://en.wikipedia.org/wiki/Shennong) (in his place). He fashioned wood to form the share, and bent wood to make the plough-handle. The advantages of ploughing and weeding were then taught to all under heaven. The idea of this was taken, probably, from [**Yì ䷩**](e79b8ayi.md) (the forty-second hexagram).
 
 14. He caused markets to be held at midday, thus bringing together all the people, and assembling in one place all their wares. They made their exchanges and retired, every one having got what he wanted. The idea of this was taken, probably, from [**Shì Kè ䷔**](e599ace59791shike.md) (the twenty-first hexagram).
 
@@ -52,7 +52,7 @@ attributes of the spirit-like and intelligent (operations working secretly), and
 
 lower garments (as patterns to the people), and good order was secured all under heaven. The idea of all this was taken, probably, from **Qián** and **Kūn** (the first **☰** and eighth **☷** trigrams, or the first **䷀** and second **䷁** hexagrams).
 
-16. They hollowed out trees to form canoes; they cut others long and thin to make oars. Thus arose the benefit of canoes and oars for the help of those who had no means of intercourse with others. They could now reach the most distant parts, and all under heaven were benefited. The idea of this was taken, probably, from Hwân (the fifty-ninth hexagram).
+16. They hollowed out trees to form canoes; they cut others long and thin to make oars. Thus arose the benefit of canoes and oars for the help of those who had no means of intercourse with others. They could now reach the most distant parts, and all under heaven were benefited. The idea of this was taken, probably, from [**Huàn ䷺**](e6b6a3huan.md) (the fifty-ninth hexagram).
 
 17. They used oxen (in carts) and yoked horses (to chariots), thus providing for the carriage of what was heavy, and for distant journeys, -- thereby benefiting all under the sky. The idea of this was taken, probably, from [**Suí ䷐**](e99a8fsui.md) (the seventeenth hexagram).
 
@@ -76,7 +76,7 @@ lower garments (as patterns to the people), and good order was secured all under
 
 Chapter <a name="fr_268"></a>[III](#fn_268).
 
-24. Therefore what we call the [Yì](https://en.wikipedia.org/wiki/I_Ching) (易) is (a collection of) emblematic lines. They are styled emblematic as being resemblances.
+24. Therefore what we call the [**Yì**](https://en.wikipedia.org/wiki/I_Ching) (易) is (a collection of) emblematic lines. They are styled emblematic as being resemblances.
 
 ###### p. 387
 
@@ -98,7 +98,7 @@ Chapter <a name="fr_269"></a>[IV](#fn_269).
 
 ###### p. 389
 
-Chapter <a name="fr_270"></a>[V](#fn_270). 31. It is said in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), 'Full of anxious thoughts you go and come; (only) friends will follow you and think with you.' The Master said: -- 'In all (the processes taking place) under heaven, what is there of thinking? what is there of anxious scheming? They all come to the same (successful) issue, though by different paths; there is one result, though there might be a hundred anxious schemes. What is there of thinking? what is there of anxious scheming?'
+Chapter <a name="fr_270"></a>[V](#fn_270). 31. It is said in the [**Yì**](https://en.wikipedia.org/wiki/I_Ching), 'Full of anxious thoughts you go and come; (only) friends will follow you and think with you.' The Master said: -- 'In all (the processes taking place) under heaven, what is there of thinking? what is there of anxious scheming? They all come to the same (successful) issue, though by different paths; there is one result, though there might be a hundred anxious schemes. What is there of thinking? what is there of anxious scheming?'
 
 32. The sun goes and the moon comes; the moon goes and the sun comes; -- the sun and moon thus take the place each of the other, and their shining is the result. The cold goes and the heat comes; the heat goes and the cold comes; -- it is by this mutual succession of the cold and heat that the year is completed. That which goes becomes less and less, and that which comes waxes more and more; -- it is by the influence on each other of this contraction and expansion that the advantages (of the different conditions) are produced.
 
@@ -110,47 +110,47 @@ go into the state of hybernation, they thereby keep themselves alive. (So), when
 
 34. Going on beyond this, we reach a point which it is hardly possible to know. We have thoroughly comprehended the inscrutable and spirit-like, and know the processes of transformation; -- this is the fulness of virtue.
 
-35. It is said in the Yî, '(The third line shows its subject) distressed before a rock, and trying to lay hold of thorns; entering into his palace and not seeing his wife: -- there will be evil.' The Master said: -- 'If one be distressed by what need not distress him, his name is sure to be disgraced; if he lay hold on what he should not touch, his life is sure to be imperilled. In disgrace and danger, his death will (soon) come;--is it possible for him in such circumstances to see his wife?'
+35. It is said in the [**Yì**](https://en.wikipedia.org/wiki/I_Ching), '(The third line shows its subject) distressed before a rock, and trying to lay hold of thorns; entering into his palace and not seeing his wife: -- there will be evil.' The Master said: -- 'If one be distressed by what need not distress him, his name is sure to be disgraced; if he lay hold on what he should not touch, his life is sure to be imperilled. In disgrace and danger, his death will (soon) come;--is it possible for him in such circumstances to see his wife?'
 
-36. It is said in the Yî, 'The duke with (his bow) shoots at the falcon on the top of the high wall; he hits it:--his every movement will be advantageous.' The Master said:--'The falcon is a bird (of prey); the bow and arrow is a weapon (of war); the shooter is a man. The superior man keeps his weapon concealed about his person, and waits for the proper time to move;--doing this, how should his movement be other than successful? There is nothing to fetter or embarrass his movement; and hence, when he comes forth, he succeeds in his object.
+36. It is said in the [**Yì**](https://en.wikipedia.org/wiki/I_Ching), 'The duke with (his bow) shoots at the falcon on the top of the high wall; he hits it: -- his every movement will be advantageous.' The Master said: -- 'The falcon is a bird (of prey); the bow and arrow is a weapon (of war); the shooter is a man. The superior man keeps his weapon concealed about his person, and waits for the proper time to move; -- doing this, how should his movement be other than successful? There is nothing to fetter or embarrass his movement; and hence, when he comes forth, he succeeds in his object.
 
 ###### p. 391
 
-[paragraph continues] The language speaks of movement when the instrument necessary to it is ready and perfect.'
+<sub>[paragraph continues]</sub> The language speaks of movement when the instrument necessary to it is ready and perfect.'
 
-37. The Master said:--'The small man is not ashamed of what is not benevolent, nor does he fear to do what is not righteous. Without the prospect of gain he does not stimulate himself to what is good, nor does he correct himself without being moved. Self-correction, however, in what is small will make him careful in what would be of greater consequence;--and this is the happiness of the small man. It is said in the Yî, "His feet are in the stocks, and he is disabled in his toes:--there will be no (further) occasion for blame."'
+37. The Master said: -- 'The small man is not ashamed of what is not benevolent, nor does he fear to do what is not righteous. Without the prospect of gain he does not stimulate himself to what is good, nor does he correct himself without being moved. Self-correction, however, in what is small will make him careful in what would be of greater consequence; -- and this is the happiness of the small man. It is said in the [**Yì**](https://en.wikipedia.org/wiki/I_Ching), "His feet are in the stocks, and he is disabled in his toes: -- there will be no (further) occasion for blame."'
 
-38. If acts of goodness be not accumulated, they are not sufficient to give its finish to one's name; if acts of evil be not accumulated, they are not sufficient to destroy one's life. The small man thinks that small acts of goodness are of no benefit, and does not do them; and that small deeds of evil do no harm, and does not abstain from them. Hence his wickedness becomes great till it cannot be covered, and his guilt becomes great till it cannot be pardoned. This is what the Yî says, 'He wears the cangue and his ears are destroyed:--there will be evil.'
+38. If acts of goodness be not accumulated, they are not sufficient to give its finish to one's name; if acts of evil be not accumulated, they are not sufficient to destroy one's life. The small man thinks that small acts of goodness are of no benefit, and does not do them; and that small deeds of evil do no harm, and does not abstain from them. Hence his wickedness becomes great till it cannot be covered, and his guilt becomes great till it cannot be pardoned. This is what the [**Yì**](https://en.wikipedia.org/wiki/I_Ching) says, 'He wears the cangue and his ears are destroyed: -- there will be evil.'
 
-39. The Master said:--'He who keeps danger in mind is he who will rest safe in his seat; he who keeps ruin in mind is he who will preserve his interests secure; he who sets the danger of disorder before him is he who will maintain the state of order. Therefore the superior man, when resting in safety, does not forget that danger may come; when in a state of security, he does not forget the possibility of ruin; and when all is in a state of order, he does not
+39. The Master said: -- 'He who keeps danger in mind is he who will rest safe in his seat; he who keeps ruin in mind is he who will preserve his interests secure; he who sets the danger of disorder before him is he who will maintain the state of order. Therefore the superior man, when resting in safety, does not forget that danger may come; when in a state of security, he does not forget the possibility of ruin; and when all is in a state of order, he does not
 
 ###### p. 392
 
-forget that disorder may come. Thus his person is kept safe, and his states and all their clans can be preserved. This is according to what the Yî says, "(Let him say), 'Shall I perish? shall I perish?' (so shall this state be firm, as if) bound to a clump of bushy mulberry trees."'
+forget that disorder may come. Thus his person is kept safe, and his states and all their clans can be preserved. This is according to what the [**Yì**](https://en.wikipedia.org/wiki/I_Ching) says, "(Let him say), 'Shall I perish? shall I perish?' (so shall this state be firm, as if) bound to a clump of bushy mulberry trees."'
 
-40. The Master said:--'Virtue small and office high; wisdom small and plans great; strength small and burden heavy:--where such conditions exist, it is seldom that they do not end (in evil). As is said in the Yî, "The tripod's feet are overthrown, and the ruler's food is overturned. The body of him (who is thus indicated) is wet (with shame):there will be evil."'
+40. The Master said:--'Virtue small and office high; wisdom small and plans great; strength small and burden heavy:--where such conditions exist, it is seldom that they do not end (in evil). As is said in the [**Yì**](https://en.wikipedia.org/wiki/I_Ching), "The tripod's feet are overthrown, and the ruler's food is overturned. The body of him (who is thus indicated) is wet (with shame):there will be evil."'
 
-41. The Master said:--'Does not he who knows the springs of things possess spirit-like wisdom? The superior man, in his intercourse with the high, uses no flattery, and, in his intercourse with the low, no coarse freedom:--does not this show that he knows the springs of things? Those springs are the slight beginnings of movement, and the earliest indications of good fortune (or ill). The superior man sees them, and acts accordingly without waiting for (the delay of) a single day. As is said in the Yî, "He is firm as a rock, (and acts) without the delay of a single day. With firm goodness there will be good fortune." Firm as a rock, how should he have to wait a single day to ensure his knowing (those springs and his course)? The superior man knows the minute and the manifested; he knows what is weak, and what is strong:--he is a model to ten thousand.'
+41. The Master said:--'Does not he who knows the springs of things possess spirit-like wisdom? The superior man, in his intercourse with the high, uses no flattery, and, in his intercourse with the low, no coarse freedom:--does not this show that he knows the springs of things? Those springs are the slight beginnings of movement, and the earliest indications of good fortune (or ill). The superior man sees them, and acts accordingly without waiting for (the delay of) a single day. As is said in the [**Yì**](https://en.wikipedia.org/wiki/I_Ching), "He is firm as a rock, (and acts) without the delay of a single day. With firm goodness there will be good fortune." Firm as a rock, how should he have to wait a single day to ensure his knowing (those springs and his course)? The superior man knows the minute and the manifested; he knows what is weak, and what is strong: -- he is a model to ten thousand.'
 
 42. The Master said:--'I may venture to say that the son of the Yen family had nearly attained (the
 
 ###### p. 393
 
-standard of perfection). If anything that he did was not good, he was sure to become conscious of that; and when he knew it, he did not do the thing again. As is said in the Yî, "(The first line shows its subject) returning from an error that has not led him far away. There is no occasion for repentance. There will be great good."'
+standard of perfection). If anything that he did was not good, he was sure to become conscious of that; and when he knew it, he did not do the thing again. As is said in the [**Yì**](https://en.wikipedia.org/wiki/I_Ching), "(The first line shows its subject) returning from an error that has not led him far away. There is no occasion for repentance. There will be great good."'
 
-43. There is an intermingling of the genial influences of heaven and earth, and transformation in its various forms abundantly proceeds. There is an intercommunication of seed between male and female, and transformation in its living types proceeds. What is said in the Yî, 'Three individuals are walking together and one is made to disappear; there is (but) one man walking, and he gets his mate,' tells us of the effort (in nature) at oneness (of operation).
+43. There is an intermingling of the genial influences of heaven and earth, and transformation in its various forms abundantly proceeds. There is an intercommunication of seed between male and female, and transformation in its living types proceeds. What is said in the [**Yì**](https://en.wikipedia.org/wiki/I_Ching), 'Three individuals are walking together and one is made to disappear; there is (but) one man walking, and he gets his mate,' tells us of the effort (in nature) at oneness (of operation).
 
-44. The Master said:--'The superior man (in a high place) composes himself before he (tries to) move others; makes his mind restful and easy before he speaks; settles (the principles of) his intercourse with others before he seeks anything from them. The superior man cultivates these three things, and so is complete. If he try to move others while he is himself in unrest, the people will not (act) with him; if he speak while he is himself in a state of apprehension, the people will not respond to him; if without (certain principles of) intercommunication, he issue his requests, the people will not grant them. When there are none to accord with him, those who (work to) injure him will make their appearance. As is said in the Yî, "(We see one) to whose advantage none will contribute, while some will seek to assail him. He observes no
+44. The Master said: -- 'The superior man (in a high place) composes himself before he (tries to) move others; makes his mind restful and easy before he speaks; settles (the principles of) his intercourse with others before he seeks anything from them. The superior man cultivates these three things, and so is complete. If he try to move others while he is himself in unrest, the people will not (act) with him; if he speak while he is himself in a state of apprehension, the people will not respond to him; if without (certain principles of) intercommunication, he issue his requests, the people will not grant them. When there are none to accord with him, those who (work to) injure him will make their appearance. As is said in the [**Yì**](https://en.wikipedia.org/wiki/I_Ching), "(We see one) to whose advantage none will contribute, while some will seek to assail him. He observes no
 
 ###### p. 394
 
-regular rule in the ordering of his heart:--there will be evil."'
+regular rule in the ordering of his heart: -- there will be evil."'
 
 ###### p. 395
 
 Chapter <a name="fr_271"></a>[VI](#fn_271).
 
-45. The Master said:--'(The trigrams) Khien and Khwăn may be regarded as the gate of the Yî.' Khien represents what is of the yang nature (bright and active); Khwăn what is of the yin nature (shaded and inactive). These two unite according to their qualities, and there comes the embodiment of the result by the strong and weak (lines). In this way we have the phenomena of heaven and earth visibly exhibited, and can comprehend the operation of the spiritual intelligence.
+45. The Master said: -- '(The trigrams) [**Qián ䷀**](e4b9beqian.md) and [**Kūn ䷁**](e59da4kun.md) may be regarded as the gate of the [**Yì**](https://en.wikipedia.org/wiki/I_Ching).' [**Qián ䷀**](e4b9beqian.md) represents what is of the `yáng` nature (bright and active); [**Kūn ䷁**](e59da4kun.md) what is of the `yīn` nature (shaded and inactive). These two unite according to their qualities, and there comes the embodiment of the result by the strong and weak (lines). In this way we have the phenomena of heaven and earth visibly exhibited, and can comprehend the operation of the spiritual intelligence.
 
 46. The appellations and names (of the diagrams and lines) are various, but do not go beyond (what is to be ascribed to the operation of these two conditions). When we examine the nature and style
 
@@ -158,7 +158,7 @@ Chapter <a name="fr_271"></a>[VI](#fn_271).
 
 [paragraph continues] (of the appended explanations), they seem to express the ideas of a decaying age.
 
-47. The Yî exhibits the past, and (teaches us to) discriminate (the issues of) the future; it makes manifest what is minute, and brings to light what is obscure. (Then [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)) opened (its symbols), and distinguished things in accordance with its names, so that all his words were correct and his explanations decisive;--(the book) was now complete.
+47. The [**Yì**](https://en.wikipedia.org/wiki/I_Ching) exhibits the past, and (teaches us to) discriminate (the issues of) the future; it makes manifest what is minute, and brings to light what is obscure. (Then [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)) opened (its symbols), and distinguished things in accordance with its names, so that all his words were correct and his explanations decisive; -- (the book) was now complete.
 
 48. The appellations and names (of the diagrams and lines) are but small matters, but the classes of things comprehended under them are large. Their scope reaches far, and the explanations attached to them are elegant. The words are indirect, but to the point; the matters seem plainly set forth, but there is a secret principle in them. Their object is, in cases that are doubtful, to help the people in their conduct, and to make plain the recompenses of good and evil.
 
@@ -166,23 +166,23 @@ Chapter <a name="fr_271"></a>[VI](#fn_271).
 
 Chapter <a name="fr_272"></a>[VII](#fn_272).
 
-49. Was it not in the middle period of antiquity that the Yî began to flourish? Was not he who made it familiar with anxiety and calamity?
+49. Was it not in the middle period of antiquity that the [**Yì**](https://en.wikipedia.org/wiki/I_Ching) began to flourish? Was not he who made it familiar with anxiety and calamity?
 
-50. Therefore (the 10th diagram), Lî, shows us the foundation of virtue; (the 15th), Hsien, its handle; (the 24th), Fû, its root; (the 32nd), Hăng, its solidity; (the 41st), Sun, its cultivation; (the 42nd), Yî, its abundance; (the 47th), Khwăn, its exercise of discrimination; (the 48th), Žing, its field and (the 57th), Sun, its regulation.
+50. Therefore (the 10th diagram), [**Lǚ ䷉**](e5b1a5lv.md), shows us the foundation of virtue; (the 15th), [**Qiān ䷎**](e8b0a6qian.md), its handle; (the 24th), [**Fù ䷗**](e5a48dfu.md), its root; (the 32nd), [**Héng ䷟**](e68192heng.md), its solidity; (the 41st), [**Sǔn ䷨**](e68d9fsun.md), its cultivation; (the 42nd), [**Yì ䷩**](e79b8ayi.md), its abundance; (the 47th), [**Kùn ䷮**](e59bb0kun.md), its exercise of discrimination; (the 48th), [**Jǐng ䷯**](e4ba95jing.md), its field and (the 57th), [**Xùn ䷸**](e5b7bdxun.md), its regulation.
 
-51. In Lî we have the perfection of harmony; in Hsien, we have the giving honour to others,
+51. In [**Lǚ ䷉**](e5b1a5lv.md) we have the perfection of harmony; in [**Qiān ䷎**](e8b0a6qian.md), we have the giving honour to others,
 
 ###### p. 398
 
-and the distinction thence arising; in Fû we have what is small (at first), but there is in it a (nice) discrimination of (the qualities of) things; in Ming we have a mixed experience, but without any weariness; in Sun we have difficulty in the beginning and ease in the end; in Yî we have abundance of growth without any contrivance; in Khwăn we have the pressure of extreme difficulty, ending in a free course,; in Žing we have abiding in one's place and at the same time removal (to meet the movement of others); and in Sun we have the weighing of things (and action accordingly), but secretly and unobserved.
+and the distinction thence arising; in [**Fù ䷗**](e5a48dfu.md) we have what is small (at first), but there is in it a (nice) discrimination of (the qualities of) things; in [**Héng ䷟**](e68192heng.md) we have a mixed experience, but without any weariness; in [**Sǔn ䷨**](e68d9fsun.md) we have difficulty in the beginning and ease in the end; in [**Yì ䷩**](e79b8ayi.md) we have abundance of growth without any contrivance; in [**Kùn ䷮**](e59bb0kun.md) we have the pressure of extreme difficulty, ending in a free course,; in [**Jǐng ䷯**](e4ba95jing.md) we have abiding in one's place and at the same time removal (to meet the movement of others); and in [**Xùn ䷸**](e5b7bdxun.md), its regulation we have the weighing of things (and action accordingly), but secretly and unobserved.
 
-52. (The use of) Lî appears in the harmony of the conduct; of Hsien, in the regulation of ceremonies; of Fû, in self-knowledge; of Hăng, in uniformity of virtue; of Sun, in keeping what is harmful at a distance; of Yî, in the promotion of what is advantageous; of Khwăn, in the diminution of resentments; of Žing, in the discrimination of what is righteous; and of Sun, in the doing of what is appropriate to time and to circumstances.
+52. (The use of) [**Lǚ ䷉**](e5b1a5lv.md) appears in the harmony of the conduct; of [**Qiān ䷎**](e8b0a6qian.md), in the regulation of ceremonies; of [**Fù ䷗**](e5a48dfu.md), in self-knowledge; of [**Héng ䷟**](e68192heng.md), in uniformity of virtue; of [**Sǔn ䷨**](e68d9fsun.md), in keeping what is harmful at a distance; of [**Yì ䷩**](e79b8ayi.md), in the promotion of what is advantageous; of [**Kùn ䷮**](e59bb0kun.md), in the diminution of resentments; of [**Jǐng ䷯**](e4ba95jing.md), in the discrimination of what is righteous; and of [**Xùn ䷸**](e5b7bdxun.md), its regulation, in the doing of what is appropriate to time and to circumstances.
 
 ###### p. 399
 
 Chapter <a name="fr_273"></a>[VIII](#fn_273).
 
-53. The Yî is a book which should not be let slip from the mind. Its method (of teaching) is marked by the frequent changing (of its lines). They change and move without staying (in one place), flowing about into any one of the six places of the hexagram. They ascend and descend, ever inconstant. The strong and the weak lines change places, so that an invariable and compendious rule cannot be derived from them;--it must vary as their changes indicate.
+53. The [**Yì**](https://en.wikipedia.org/wiki/I_Ching) is a book which should not be let slip from the mind. Its method (of teaching) is marked by the frequent changing (of its lines). They change and move without staying (in one place), flowing about into any one of the six places of the hexagram. They ascend and descend, ever inconstant. The strong and the weak lines change places, so that an invariable and compendious rule cannot be derived from them; -- it must vary as their changes indicate.
 
 54. The goings forth and comings in (of the lines) are according to rule and measure. (People) learn from them in external and internal affairs to stand in awe.
 
@@ -194,7 +194,7 @@ Chapter <a name="fr_273"></a>[VIII](#fn_273).
 
 Chapter <a name="fr_274"></a>[IX](#fn_274).
 
-57. The Yî is a book in which the form (of each diagram) is determined by the lines from the first to the last, which must be carefully observed. The six lines are mixed together, according to the time (when they enter the figure) and their substance (as whole and divided).
+57. The [**Yì**](https://en.wikipedia.org/wiki/I_Ching) is a book in which the form (of each diagram) is determined by the lines from the first to the last, which must be carefully observed. The six lines are mixed together, according to the time (when they enter the figure) and their substance (as whole and divided).
 
 58. There is difficulty in knowing (the significance of) the first line, while to know that of the topmost line is easy;--they form the beginning and the end (of the diagram). The explanation of the first line tasks the calculating (of the makers), but in the end they had (but) to complete this.
 
@@ -206,9 +206,9 @@ Chapter <a name="fr_274"></a>[IX](#fn_274).
 
 ###### p. 401
 
-quality (as being in even places), but their positions (with respect to the fifth line) are different, and their value is not the same; but the second is the object of much commendation, and the fourth the subject of many apprehensions,--from its nearness (to that line). But for a line in a place of weakness it is not good to be far (from the occupant of the place of strength), and what its subject should desire in such a case is (merely) to be without blame. The advantage (here) is in (the second line) being in the central place.
+quality (as being in even places), but their positions (with respect to the fifth line) are different, and their value is not the same; but the second is the object of much commendation, and the fourth the subject of many apprehensions, -- from its nearness (to that line). But for a line in a place of weakness it is not good to be far (from the occupant of the place of strength), and what its subject should desire in such a case is (merely) to be without blame. The advantage (here) is in (the second line) being in the central place.
 
-62. The third and fifth lines are of the same quality, (as being in odd places), but their positions are different; and the (occupant of) the third meets with many misfortunes, while the occupant of the fifth achieves much merit:--this arises from one being in the noble position and the other in the mean. Are they occupied by the symbol of weakness? There will be peril. By that of strength? There will be victory.
+62. The third and fifth lines are of the same quality, (as being in odd places), but their positions are different; and the (occupant of) the third meets with many misfortunes, while the occupant of the fifth achieves much merit: -- this arises from one being in the noble position and the other in the mean. Are they occupied by the symbol of weakness? There will be peril. By that of strength? There will be victory.
 
 ###### p. 402
 
