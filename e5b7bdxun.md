@@ -31,7 +31,7 @@ subject). All occasion for repentance will disappear, and all his movements will
 
 ## Notes
 
-With **Xùn ䷸** as the fifth of the [Fúxī](https://en.wikipedia.org/wiki/Fuxi) trigrams we have become familiar. It symbolises both wind and wood; and has the attributes of flexibility (nearly allied to docility) and penetration. In this hexagram we are to think of it as representing wind with its penetrating power, finding its way into every corner and cranny.
+With **Xùn ䷸** as the fifth of the [Fú-xī](https://en.wikipedia.org/wiki/Fuxi) trigrams we have become familiar. It symbolises both wind and wood; and has the attributes of flexibility (nearly allied to docility) and penetration. In this hexagram we are to think of it as representing wind with its penetrating power, finding its way into every corner and cranny.
 
 Confucius once said ([Analects 12. 19](https://sacred-texts.com/cfu/conf1.htm)): -- 'The relation between superiors and inferiors is like that between the wind and the grass.
 The grass must bend when the wind blows upon it.' In accordance with this, the subject of the hexagram must be understood as the influence and orders of government designed to remedy what is wrong in the people. The 'Daily Lecture' says that the upper trigram denotes the orders issuing from the ruler, and the lower the obedience rendered to them by the people; but this view is hardly borne out by the Text.
