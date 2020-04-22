@@ -650,7 +650,7 @@ man, in accordance with this, thinks of evil (that may come), and beforehand gua
 
 ### Footnotes
 
-306:XXXI In various ways the waters of a marsh, placed high above the adjacent land, will descend to water and fertilise them. This symbolism agrees sufficiently well with the idea of influence passing between a superior and inferior party in relation with each other. There is nothing in the representation, however, to suggest particularly the relation between husband and wife; and the more I think of it, the more doubtful it becomes to me that [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) intended by the trigrams of this figure to give the idea of man and wife. The application of the symbolism is sufficiently appropriate. The commentators see in it especially the lesson of humility -- emptiness of self, or poverty of spirit--in order that the influences to which we are subjected may have free course.
+<a name="fn_220"></a>[306:XXXI](#fr_220) In various ways the waters of a marsh, placed high above the adjacent land, will descend to water and fertilise them. This symbolism agrees sufficiently well with the idea of influence passing between a superior and inferior party in relation with each other. There is nothing in the representation, however, to suggest particularly the relation between husband and wife; and the more I think of it, the more doubtful it becomes to me that [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) intended by the trigrams of this figure to give the idea of man and wife. The application of the symbolism is sufficiently appropriate. The commentators see in it especially the lesson of humility -- emptiness of self, or poverty of spirit--in order that the influences to which we are subjected may have free course.
 
 Paragraph 1. What is beyond one's self is represented by line 4, a proper correlate of 1. There is the desire to influence; but it is ineffectively exhibited.
 
@@ -662,7 +662,7 @@ Paragraph 4. The 'being firm and correct' appears here as equivalent to the want
 
 Paragraph 5. The triviality of the aim explains the ineffectiveness of the movement, but not its giving no occasion for repentance. That the mei which are moved are behind and above the region of the heart seems too mechanical and trivial an explanation.
 
-307:XXXII How the interaction of wind and thunder symbolises the lesson of the hexagram, and especially the application in this paragraph of that symbolism, is a question I have not been able to solve.
+<a name="fn_221"></a>[307:XXXII](#fr_221) How the interaction of wind and thunder symbolises the lesson of the hexagram, and especially the application in this paragraph of that symbolism, is a question I have not been able to solve.
 
 Paragraph 1. The stress of what is said under line 1 is here made to lie on its being the first line of the figure.
 
@@ -674,11 +674,11 @@ Paragraph 3. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary)
 
 From paragraph 5 it appears that what is right will vary in different cases. The lesson of the hexagram is perseverance in what is right in each particular case.
 
-308:XXXIII [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says:--'The sky is illimitable; a mountain is high, but has its limits; the union of these is an emblem of retiring.' I do not understand such embleming. [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says:--'Below the sky is a mountain. The mountain rises up below the sky, and its height is arrested, while the sky goes up higher and higher, till they come to be apart from each other. In this we have an emblem of retiring and avoiding.' We feel somewhat as p. 309 if there were a meaning in this; but, as in many other cases, both the symbolism and its application are but dimly apprehended.
+<a name="fn_222"></a>[308:XXXIII](#fr_222) [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says:--'The sky is illimitable; a mountain is high, but has its limits; the union of these is an emblem of retiring.' I do not understand such embleming. [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says:--'Below the sky is a mountain. The mountain rises up below the sky, and its height is arrested, while the sky goes up higher and higher, till they come to be apart from each other. In this we have an emblem of retiring and avoiding.' We feel somewhat as p. 309 if there were a meaning in this; but, as in many other cases, both the symbolism and its application are but dimly apprehended.
 
 The symbolism of the various lines is sufficiently explained on the Text. Paragraph 5 is but a repetition of the Text without additional explanation.
 
-309:XXXIV In illustration of the symbolism of the trigrams here, [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says well:--'Thunder rolling above in the sky and making all things shake is the emblem of great power.' In passing on to its application he starts with a beautiful saying of antiquity, that 'the strong man is he who overcomes himself.' That this thought was in the mind of the writer of the paragraph on the Great Symbolism I can well believe; but the analogy between the natural and the moral and spiritual worlds in passing from the phenomenon of thunder to this truth is a thing to be felt, and that can hardly be described.
+<a name="fn_223"></a>[309:XXXIV](#fr_223) In illustration of the symbolism of the trigrams here, [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says well:--'Thunder rolling above in the sky and making all things shake is the emblem of great power.' In passing on to its application he starts with a beautiful saying of antiquity, that 'the strong man is he who overcomes himself.' That this thought was in the mind of the writer of the paragraph on the Great Symbolism I can well believe; but the analogy between the natural and the moral and spiritual worlds in passing from the phenomenon of thunder to this truth is a thing to be felt, and that can hardly be described.
 
 ###### p. 310
 
@@ -690,7 +690,7 @@ In paragraph 3 nothing is added to the Text; and on the symbolism nothing is sai
 
 Paragraph 5. 'He is not in his appropriate place:' this is said simply because an odd place ought to be filled by a strong line.
 
-310:XXXV The sun rising above the earth, and then travelling up to his meridian height, readily suggests the idea of advancing. On p. 311 the application of this symbolism, [Hú Bǐng-wén](http://bec001.web3.ncku.edu.tw/var/file/142/1142/img/2248/5802.pdf) (Yuán dynasty) says:--'Of strong things there is none so strong as heaven; and hence the superior man after its pattern makes himself strong; of bright things there is none so bright as the sun, and after its pattern he makes himself bright.'
+<a name="fn_224"></a>[310:XXXV](#fr_224) The sun rising above the earth, and then travelling up to his meridian height, readily suggests the idea of advancing. On p. 311 the application of this symbolism, [Hú Bǐng-wén](http://bec001.web3.ncku.edu.tw/var/file/142/1142/img/2248/5802.pdf) (Yuán dynasty) says:--'Of strong things there is none so strong as heaven; and hence the superior man after its pattern makes himself strong; of bright things there is none so bright as the sun, and after its pattern he makes himself bright.'
 
 If the subject of line 1 had received an official charge, then when unrecognised by his sovereign, and obstructed in his progress, his correct course would have been to cease to advance, and retire from the office in which he was not allowed to carry out his principles.
 
@@ -698,7 +698,7 @@ There is nothing said on line 2 to explain particularly the symbolism of 'the gr
 
 'The course of procedure' in paragraph 6 has still an element of force in it, which is more than 'the firm correctness' that was to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) the ideal character of a feudal lord, and therefore his light is not yet that of the full-orbed sun.
 
-312:XXXVI The application of the Great Symbolism here is in itself sufficiently natural; but this meaning of the hexagram hardly appears in the text, till we come to the sixth line.
+<a name="fn_225"></a>[312:XXXVI](#fr_225) The application of the Great Symbolism here is in itself sufficiently natural; but this meaning of the hexagram hardly appears in the text, till we come to the sixth line.
 
 Paragraph 1. 'He thinks it right not to eat;'--he does not purposely fast; but when he has nothing to eat, he does not complain. He thinks it right that it should be so in the case.
 
@@ -708,7 +708,7 @@ Paragraph 3. 'The great achievement is accomplished;' but such achievement was n
 
 Paragraph 4. 'The idea in his inner mind' is the idea of withdrawing from the position and escaping; but the meaning is obscure. See on the Text.
 
-313:XXXVII The Symbolism here is certainly far-fetched. 'As wind,' it is said,' comes first from fire, so does transforming influence emanate from the family.' But the subject of the hexagram is the regulation and not the influence of the family. Then the application is good for the superior man's cultivation of himself; but this again is only connected indirectly with the regulation of the family.
+<a name="fn_226"></a>[313:XXXVII](#fr_226) The Symbolism here is certainly far-fetched. 'As wind,' it is said,' comes first from fire, so does transforming influence emanate from the family.' But the subject of the hexagram is the regulation and not the influence of the family. Then the application is good for the superior man's cultivation of himself; but this again is only connected indirectly with the regulation of the family.
 
 The sooner preventive measures are presented to the youthful mind the better; but does not prohibition imply that a change in the good will has taken place?
 
@@ -720,11 +720,11 @@ The mention 'of mutual love' is unusual in Chinese writings, and must be conside
 
 Paragraph 6. It is said on this, that the majesty is not designedly assumed or put on; but the effect of the character remoulded and perfected. The words of Mencius are aptly quoted in illustration of the lesson:--'If a man himself do not walk in the (right) path, it will not be walked in (even) by his wife and children.'
 
-314:XXXVIII The application here of the Symbolism is correct, but neither of them comes up to the idea of disunion which is in Khwei.
+<a name="fn_227"></a>[314:XXXVIII](#fr_227) The application here of the Symbolism is correct, but neither of them comes up to the idea of disunion which is in Khwei.
 
 The various paragraphs seem to need no illustration beyond what may be found in the notes on the Text.
 
-315:XXXIX The Symbolism is described here a little differently from the form of it in Appendix I. [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) brings the same meaning out of it, however, in the following way:--'We have here a steep and difficult mountain, and again on the top of that there p. 316 is water; each of the two trigrams is an emblem of perilousness. There is peril, both above and below, in the figure; and hence it represents the difficulties of the state.' The application of the symbolism is illustrated by the words of Mencius, 'When we do not, by what we do, realise (what we desire), we must turn inwards and examine ourselves in every point.'
+<a name="fn_228"></a>[315:XXXIX](#fr_228) The Symbolism is described here a little differently from the form of it in Appendix I. [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) brings the same meaning out of it, however, in the following way:--'We have here a steep and difficult mountain, and again on the top of that there p. 316 is water; each of the two trigrams is an emblem of perilousness. There is peril, both above and below, in the figure; and hence it represents the difficulties of the state.' The application of the symbolism is illustrated by the words of Mencius, 'When we do not, by what we do, realise (what we desire), we must turn inwards and examine ourselves in every point.'
 
 From the lesson in paragraph 2 we saw that the moral value of conduct is independent of failure or success. It is said, 'Though the difficulties be too great for him to overcome, the sage accepts his desire, in order to stimulate others to loyal devotedness.'
 
@@ -736,7 +736,7 @@ The view given of paragraph 4 is that of the [**Kāngxī**](https://en.wikipedia
 
 Sû Shih (A. D. 1036-1101) remarks on paragraph 6 that by 'the inside,' and 'the noble,' we are to understand the subject of line 5.
 
-317:XL It is a common saying that thunder and rain clear the atmosphere, and a feeling of oppression is relieved. The last paragraph of Appendix I, however, leads us to understand the Symbolism of the phenomena of spring. The application seems to refer to the gentle policy of a conqueror forward to forgive the opposition of those who offer no more resistance.
+<a name="fn_229"></a>[317:XL](#fr_229) It is a common saying that thunder and rain clear the atmosphere, and a feeling of oppression is relieved. The last paragraph of Appendix I, however, leads us to understand the Symbolism of the phenomena of spring. The application seems to refer to the gentle policy of a conqueror forward to forgive the opposition of those who offer no more resistance.
 
 The subject of line 2 is a minister or officer; and the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that while straightforwardness, symbolised by the arrow, is the first duty of an officer, if he do not temper that quality by pursuing the due medium, which is symbolised by the yellow colour of the arrow, but proceed by main force, and that only, to remove what is evil, he will provoke indignation and rebellion. The 'three foxes' are not alluded to in this second paragraph.
 
@@ -744,7 +744,7 @@ On paragraph 4 the same editors say:--'The subject of this line is not in the ce
 
 What paragraph 5 says, that 'the small men retire,' means that believing in the sincerity of the ruler's determination to remove all evil men, they retire of themselves, or strive to conform to his wishes.
 
-318:XLI 'The waters of a marsh are continually rising up in vapour to bedew the hill above it, and thus increase its verdure; what is taken from the marsh gives increase to the hill.' This is very far-fetched. In the application again the superior man acts only on himself, and for himself;--which has nothing to do with those of low degree giving to those above them. This application, however, agrees with what, as we have seen on the Text, was [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text))'s view of the meaning of the hexagram.
+<a name="fn_230"></a>[318:XLI](#fr_230) 'The waters of a marsh are continually rising up in vapour to bedew the hill above it, and thus increase its verdure; what is taken from the marsh gives increase to the hill.' This is very far-fetched. In the application again the superior man acts only on himself, and for himself;--which has nothing to do with those of low degree giving to those above them. This application, however, agrees with what, as we have seen on the Text, was [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text))'s view of the meaning of the hexagram.
 
 The explanation appended to paragraph 1 seems to be to account for the subject of line 1 hurrying away to the help of line 4.
 
@@ -756,7 +756,7 @@ The same editors say on paragraph 5 that 'the blessing from above is explained, 
 
 [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says on paragraph 6, though I do not see the relevancy p. 319 of his remarks:--'Dwelling on high, and taking nothing from those below him, but on the contrary giving more to them, the superior man accomplishes his aim on a grand scale. The aim of the superior man is simply to be increasing what others have;--that and nothing else.'
 
-319:XLII The Symbolism here is different from what we gather from the former Appendix. Sun no longer symbolises wood, but, as p. 320 it more commonly does, wind. Thunder and wind, it is supposed, increase each the other; and their combination gives the idea of increase. Then the application, good in itself, must be treated very nicely, as it is by the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, in order to make out any connexion between it and the Symbolism.
+<a name="fn_231"></a>[319:XLII](#fr_231) The Symbolism here is different from what we gather from the former Appendix. Sun no longer symbolises wood, but, as p. 320 it more commonly does, wind. Thunder and wind, it is supposed, increase each the other; and their combination gives the idea of increase. Then the application, good in itself, must be treated very nicely, as it is by the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, in order to make out any connexion between it and the Symbolism.
 
 Paragraph 1. 'One in a low position should not move in great affairs;'--not a son, it is said, while his father is alive; nor a minister, while his ruler governs; nor a member of an official department, while its head directs its affairs. If such a one do initiate such an affair, only great success will excuse his rashness.
 
@@ -766,7 +766,7 @@ Paragraph 3. There is a soul of good even in men who seem only evil; and adversi
 
 Paragraph 6. As in line 2 the attractive power of benevolence is shown, so in line 6 we have the repulsive power of selfishness exhibited. Mark the 'from beyond' in both paragraphs.
 
-321:XLIII We can only understand the mounting of the waters of a marsh up into the sky of the phenomenon of evaporation; and certainly the waters so formed into clouds will be condensed, and come down again as rain. This may be taken as an image of dispersion, but not of displacement in the sense of the Text of the hexagram.
+<a name="fn_232"></a>[321:XLIII](#fr_232) We can only understand the mounting of the waters of a marsh up into the sky of the phenomenon of evaporation; and certainly the waters so formed into clouds will be condensed, and come down again as rain. This may be taken as an image of dispersion, but not of displacement in the sense of the Text of the hexagram.
 
 The first clause of the application follows naturally enough from the above interpretation of the Symbolism. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says he does not understand the second clause. Many critics adopt the view of it which appears in the translation.
 
@@ -776,7 +776,7 @@ Line 3 responding, and alone of all the strong lines responding to 6, may appear
 
 The contiguity of line 5 to the divided 6, is supposed to have some bad effect on its subject, so that while he does what his central position requires, it is not without an effort. 'If a man,' says [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'cherish a single illicit desire in his mind, he has left the right way. The admonition here conveyed is deep.'
 
-322:XLIV Wind, blowing all-under the sky, penetrates everywhere, and produces its natural effect; and it is a good application of this phenomenon that follows; but it has nothing to do with the meaning of [**Gòu ䷫**](e5a7a4gou.md) and the interpretation of the hexagram, as taught in the Text. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors perceive this, and deal with the Symbolism after a method of their own, on which it is unnecessary to enter.
+<a name="fn_233"></a>[322:XLIV](#fr_233) Wind, blowing all-under the sky, penetrates everywhere, and produces its natural effect; and it is a good application of this phenomenon that follows; but it has nothing to do with the meaning of [**Gòu ䷫**](e5a7a4gou.md) and the interpretation of the hexagram, as taught in the Text. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors perceive this, and deal with the Symbolism after a method of their own, on which it is unnecessary to enter.
 
 Paragraph 1. My supplement, 'This describes the arrest of,' is a conclusion from the whole of the Text on the line. All the commentaries have it.
 
@@ -788,7 +788,7 @@ Paragraph 4. See what is said on the Text. But that the subject of the line stan
 
 The subject of line 5, while mindful of his task in the hexagram,--to repress the advance symbolised by 1,--yet keeps his wise plans concealed till the period of carrying them into execution, determined by the ordinances of Heaven, has arrived. Then comes the successful stroke of his policy as if it were directly from Heaven. The subject of line 6 really accomplishes nothing to repress the advance of the unworthy; but he keeps himself from evil communication with them. He is not to be charged with blameable error, though more and better might have been expected of him.
 
-324:XLV What has this Great Symbolism to do with the idea and preservation of union? The question is answered in this way:--A marsh whose waters are high up above the earth must be kept in by banks and dykes, to keep them together, to preserve them from being dispersed. So the union of a people must be preserved by precautions against what would disturb and destroy it. Of such precautions the chief is to be prepared to resist attack from without, and to put down internal sedition.
+<a name="fn_234"></a>[324:XLV](#fr_234) What has this Great Symbolism to do with the idea and preservation of union? The question is answered in this way: -- A marsh whose waters are high up above the earth must be kept in by banks and dykes, to keep them together, to preserve them from being dispersed. So the union of a people must be preserved by precautions against what would disturb and destroy it. Of such precautions the chief is to be prepared to resist attack from without, and to put down internal sedition.
 
 Paragraph 3. The topmost line is the last in Tui, whose attribute is complacent satisfaction, appearing in flexibility or docility.
 
@@ -796,7 +796,7 @@ Paragraph 5. 'His mind and aim have not yet been brilliantly displayed:' -- this
 
 Paragraph 6. The topmost position is that of the trigram; the subject of the line might bid farewell to all the work of the hexagram; but he cannot bear to do so.
 
-325:XLVI See what has been said on the Great Symbolism in Appendix I. The application which is made of it here may be accepted, though it has nothing to do with the teaching of the Text about the gradual rise of a good officer to high social distinction and influence.
+<a name="fn_235"></a>[325:XLVI](#fr_235) See what has been said on the Great Symbolism in Appendix I. The application which is made of it here may be accepted, though it has nothing to do with the teaching of the Text about the gradual rise of a good officer to high social distinction and influence.
 
 Paragraph x. Instead of finding in this the three lines of Khwăn and their subjects, [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) makes 'the upper' denote only line 2.
 
@@ -808,7 +808,7 @@ Paragraph 4. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary)
 
 Paragraph 6. When one has reached the greatest height, he should think of retiring. Ambition otherwise may overleap itself.
 
-326:XLVII The first sentence of the Great Symbolism is constructed differently from any which has presented itself in the previous 46 hexagrams. Literally translated, it would be 'a marsh with no water is Khwăn;' and this might certainly suggest to us a condition of distress. But how does this come out of the trigrams? The upper one is Tui, representing a marsh; and the lower is Khân, representing water in a defile. The collocation of the two suggests the running of the water from the marsh or lake into the stream, which will soon empty the other. Such is the view which occurred to myself; and it is the same as that given by [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi):--'The water descending and leaking away, the marsh above will become dry.' The application is good in itself, but the concatenation between it and the Symbolism is hardly discernible.
+<a name="fn_236"></a>[326:XLVII](#fr_236) The first sentence of the Great Symbolism is constructed differently from any which has presented itself in the previous 46 hexagrams. Literally translated, it would be 'a marsh with no water is Khwăn;' and this might certainly suggest to us a condition of distress. But how does this come out of the trigrams? The upper one is Tui, representing a marsh; and the lower is Khân, representing water in a defile. The collocation of the two suggests the running of the water from the marsh or lake into the stream, which will soon empty the other. Such is the view which occurred to myself; and it is the same as that given by [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi):--'The water descending and leaking away, the marsh above will become dry.' The application is good in itself, but the concatenation between it and the Symbolism is hardly discernible.
 
 ###### p. 327
 
@@ -820,17 +820,17 @@ See the extract from the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dic
 
 The difficulties attending the symbolism of the Text of lines 4, 5, and 6 are not lightened by what we find in this Appendix.
 
-328:XLVIII The Great Symbolism here may well enough represent a well, it being understood that the water which is above the wood is that raised by it for irrigation and other uses. What is said, moreover, in the application is more akin to the idea of the hexagram than in most of the other cases. It is certainly one way in which the ruler should nourish the people.
+<a name="fn_237"></a>[328:XLVIII](#fr_237) The Great Symbolism here may well enough represent a well, it being understood that the water which is above the wood is that raised by it for irrigation and other uses. What is said, moreover, in the application is more akin to the idea of the hexagram than in most of the other cases. It is certainly one way in which the ruler should nourish the people.
 
 Ii is said on paragraph 1:--'Those who have a mind to do something in the world, when they look at this line, and its symbolism, will learn how they ought to exert themselves.'
 
 Rather in opposition to what I have said on the Text of line 4, the 'Daily Lecture' observes here:--'The cultivation of one's self, which is represented here, is fundamental to the government of others.'
 
-329:XLIX Wise men, occupying themselves with the determination of the seasons and questions of time, have in all ages based their judgments on the observation of the heavenly bodies. We find this insisted on in the first book of the Shû, by the ancient Yâo. But how this application of the Great Symbolism really flows from it, I must confess myself unable to discover. Once, however, when I was conversing about the Yî with a high Chinese dignitary, who was a well-read scholar also so far as his own literature was concerned, he referred to this paragraph as proving that all our western science had been known to [Fú-xī](https://en.wikipedia.org/wiki/Fuxi) and Confucius!
+<a name="fn_238"></a>[329:XLIX](#fr_238) Wise men, occupying themselves with the determination of the seasons and questions of time, have in all ages based their judgments on the observation of the heavenly bodies. We find this insisted on in the first book of the Shû, by the ancient Yâo. But how this application of the Great Symbolism really flows from it, I must confess myself unable to discover. Once, however, when I was conversing about the Yî with a high Chinese dignitary, who was a well-read scholar also so far as his own literature was concerned, he referred to this paragraph as proving that all our western science had been known to [Fú-xī](https://en.wikipedia.org/wiki/Fuxi) and Confucius!
 
 What is said on the several lines is sufficiently illustrated in the notes on the Text.
 
-330:L The Great Symbolism here has come before us in the treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). Of the application of that symbolism I can only say that, as has been seen in many other hexagrams, while good enough in itself, it is far-fetched.
+<a name="fn_239"></a>[330:L](#fr_239) The Great Symbolism here has come before us in the treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). Of the application of that symbolism I can only say that, as has been seen in many other hexagrams, while good enough in itself, it is far-fetched.
 
 The same remark may be made on the explanation of the Text of the first line. I can myself do little more than guess at its meaning. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe that nothing is said about the case of the 'concubine' in the Text; but that it is covered by the following the more noble,' 'so condensed and complete are the words of the sage!'
 
@@ -840,13 +840,13 @@ The same editors find a pregnant sense in the conclusion of paragraph 2:--'There
 
 The subject of line 4 cannot be trusted again. He has failed in doing what was his proper work.
 
-331:LI The account of the Great Symbolism here calls for no remark. Nor does the application of it; but may it not be too late to fear, and order anew one's thoughts and actions when the retributions in providence are taking place? Commentators are haunted by the shadow of this question; but they are unable rightly to meet it.
+<a name="fn_240"></a>[331:LI](#fr_240) The account of the Great Symbolism here calls for no remark. Nor does the application of it; but may it not be too late to fear, and order anew one's thoughts and actions when the retributions in providence are taking place? Commentators are haunted by the shadow of this question; but they are unable rightly to meet it.
 
 Paragraph 1 is the same as 2 in Appendix I.
 
 Paragraph 4. Compare paragraph 4 of hexagram 21, Appendix II.
 
-332:LII According to the view of the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, the application should be translated:--'The superior man, in accordance with this, thinks anxiously how he shall not go beyond the duties of his position.' It is difficult to decide between this shade of the meaning, and the more common one which I have followed.
+<a name="fn_241"></a>[332:LII](#fr_241) According to the view of the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, the application should be translated:--'The superior man, in accordance with this, thinks anxiously how he shall not go beyond the duties of his position.' It is difficult to decide between this shade of the meaning, and the more common one which I have followed.
 
 The toes play a great part in walking; but they are here kept at rest, and so do not lose the correct idea of Kăn.
 
@@ -856,7 +856,7 @@ There is no correlation between lines 2 and 3, and thence the subject of 3 will 
 
 Yü Păn (Míng dynasty) says on paragraph 5: -- 'Words should not be uttered rashly. Then, when uttered, they will be found p. 333 accordant with principle. But it is only the master of the virtue belonging to the due mean who can attain to this.'
 
-333:LIII The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, to bring out the suitability of the Great Symbolism and its application, say:--'A tree springing up on the ground is a tree as it begins to grow. A tree on a hill is high and large. Every tree when it begins to grow, shows its p. 334 branches and twigs gradually becoming long. Every morning and every evening show some difference; and when the tree is high and great, whether it be of an ordinary or extraordinary size, it has taken years to reach its dimensions. This illustrates the difference between the advance in Shăng (46) and that in Kien. Then the maintenance of extraordinary virtue in the application and the improvement of manners is a gradual process. The improvement of the manners, moreover, flows from the maintenance of the extraordinary virtue; which implies also a gradual operation and progress.'
+<a name="fn_242"></a>[333:LIII](#fr_242) The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, to bring out the suitability of the Great Symbolism and its application, say:--'A tree springing up on the ground is a tree as it begins to grow. A tree on a hill is high and large. Every tree when it begins to grow, shows its p. 334 branches and twigs gradually becoming long. Every morning and every evening show some difference; and when the tree is high and great, whether it be of an ordinary or extraordinary size, it has taken years to reach its dimensions. This illustrates the difference between the advance in Shăng (46) and that in Kien. Then the maintenance of extraordinary virtue in the application and the improvement of manners is a gradual process. The improvement of the manners, moreover, flows from the maintenance of the extraordinary virtue; which implies also a gradual operation and progress.'
 
 Paragraph 1. The danger is the result of circumstances; the small officer has not brought it on himself.
 
@@ -870,13 +870,13 @@ Paragraph 5. 'The natural issue cannot be prevented:' -- the wife will have a ch
 
 Paragraph 6. See on the Text. But it is difficult to see the aptness of the symbolism.
 
-335:LIV Thunder rolling above is supposed to produce movement in the waters of the marsh below. The combination of this symbolism in Kwei Mei is recognised as an evil omen in the case which the name denotes. The application of it is not inappropriate.
+<a name="fn_243"></a>[335:LIV](#fr_243) Thunder rolling above is supposed to produce movement in the waters of the marsh below. The combination of this symbolism in Kwei Mei is recognised as an evil omen in the case which the name denotes. The application of it is not inappropriate.
 
 Paragraph 1. 'It is the constant practice (for such a case)' seems to mean that an ancillary wife has no right to the disposition of herself, but must do what she is told. Thus it is that the mean position of the younger sister does not interfere with the service she can render.
 
 The addition to the Text of 1 the purpose' in paragraph 4 is to show that the putting marriage off is on the part of the lady and not on the other side.
 
-336:LV Lightning appears here as the natural phenomenon of which Lî is the symbol. The virtues attributed to the two trigrams are certainly required in the application of them which is subjoined; but that application has little or nothing to do with the explanation of the hexagram supplied by the Text.
+<a name="fn_244"></a>[336:LV](#fr_244) Lightning appears here as the natural phenomenon of which Lî is the symbol. The virtues attributed to the two trigrams are certainly required in the application of them which is subjoined; but that application has little or nothing to do with the explanation of the hexagram supplied by the Text.
 
 I hardly understand the conclusion of paragraph 1. My translation of it is according to the view of [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), if I rightly understand that.
 
@@ -890,7 +890,7 @@ The line undivided like 4 is 1; perhaps we might translate--'He meets with the s
 
 No one but himself has any confidence in the subject of line 6. He holds himself aloof from others, and they leave him to himself.
 
-338:LVI Different attempts are made to bring the idea of a travelling stranger out of the trigrams Kăn and Lî; but none of them is satisfactory. Let [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda)'s view serve as a specimen of them:--'A fire on a mountain lays hold of the grass, and runs with it over the whole space, not stopping anywhere long, and soon disappearing;--such is the emblem of the traveller.' The application may be derived well enough from the attributes of the trigrams; but does not fit in with the lessons of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) and [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols).
+<a name="fn_245"></a>[338:LVI](#fr_245) Different attempts are made to bring the idea of a travelling stranger out of the trigrams Kăn and Lî; but none of them is satisfactory. Let [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda)'s view serve as a specimen of them:--'A fire on a mountain lays hold of the grass, and runs with it over the whole space, not stopping anywhere long, and soon disappearing;--such is the emblem of the traveller.' The application may be derived well enough from the attributes of the trigrams; but does not fit in with the lessons of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) and [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols).
 
 The meanness of the subject of line 1 does not arise from the nature of his occupation; but from his mind and aim being emptied of all that is good and ennobling.
 
@@ -904,7 +904,7 @@ It is difficult to say what 'he has reached a high place' means. The fifth line 
 
 The spirit that possesses the subject of line 6 is one of haughty arrogance, with which the humility that ought to characterise him cannot co-exist. His careless self-sufficiency has shut his mind against all lessons of wisdom.
 
-339:LVII I have said on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) that some commentators make the upper trigram symbolical of the ordinances of the ruler and the lower symbolical of the obedience of the people. E. g., [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says:--'Superiors, in harmony with the duty of inferiors, issue their commands; inferiors, in harmony with the wishes of their superiors, follow them. Above and below there are that harmony and deference; and this is the significance of the redoubled Sun. When governmental commands and business are in accordance with what is right, they agree with the tendencies of the minds of the people who follow them.'
+<a name="fn_246"></a>[339:LVII](#fr_246) I have said on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) that some commentators make the upper trigram symbolical of the ordinances of the ruler and the lower symbolical of the obedience of the people. E. g., [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says:--'Superiors, in harmony with the duty of inferiors, issue their commands; inferiors, in harmony with the wishes of their superiors, follow them. Above and below there are that harmony and deference; and this is the significance of the redoubled Sun. When governmental commands and business are in accordance with what is right, they agree with the tendencies of the minds of the people who follow them.'
 
 Paragraph 2 seems to say that the sincerity of purpose indicated by the central position of the second line conducts its subject to the right course, despite the many considerations that might distract him.
 
@@ -914,7 +914,7 @@ Paragraph 2 seems to say that the sincerity of purpose indicated by the central 
 
 What is said in paragraph 6 proceeds on a different view of the Text from that which I have followed.
 
-340:LVIII The application of the Great Symbolism here will recall to many readers the Hebrew maxims in Proverbs xxvii. 17, 19. The sentiment of it, however, does not readily fit in to the teaching of the hexagram as set forth in the Text.
+<a name="fn_247"></a>[340:LVIII](#fr_247) The application of the Great Symbolism here will recall to many readers the Hebrew maxims in Proverbs xxvii. 17, 19. The sentiment of it, however, does not readily fit in to the teaching of the hexagram as set forth in the Text.
 
 There is nothing in the conduct of the subject of line 1 to awaken suspicion. He has as yet taken no action; but it was not necessary to say anything like this about the subject of line 2, his central position being an assurance that he would never do anything of a doubtful character.
 
@@ -926,7 +926,7 @@ Paragraph 5 is incomplete. Does the correctness and appropriateness of the posit
 
 The action of the hexagram should culminate and end in line 5. But the subject of it has not made brilliant attainment in the firmness and correctness by which the love of pleasure should be controlled.
 
-341:LIX The 'in accordance with this' must be equivalent to--'to remedy the state of things thus symbolised.' What follows certainly p. 342 amounts to this, that the ancient kings considered the services of religion, sincerely and earnestly attended to, as calculated to counteract the tendency to mutual alienation and selfishness in the minds of men. How they operated to have this beneficial effect we are not told. Nor is it easy to account, for the extension of what is said in the Text about the establishment of the ancestral temple to the presentation also of offerings to God. Probably the writer had the same idea in his mind as in the Great Symbolism of hexagram 16, q. v.
+<a name="fn_248"></a>[341:LIX](#fr_248) The 'in accordance with this' must be equivalent to--'to remedy the state of things thus symbolised.' What follows certainly p. 342 amounts to this, that the ancient kings considered the services of religion, sincerely and earnestly attended to, as calculated to counteract the tendency to mutual alienation and selfishness in the minds of men. How they operated to have this beneficial effect we are not told. Nor is it easy to account, for the extension of what is said in the Text about the establishment of the ancestral temple to the presentation also of offerings to God. Probably the writer had the same idea in his mind as in the Great Symbolism of hexagram 16, q. v.
 
 'The natural course' pursued by the subject of line 1 is, probably, that required by the time.
 
@@ -936,7 +936,7 @@ The view given of paragraph 5 is that propounded by [Zhū Xī](https://en.wikipe
 
 For paragraph 6 see the note on line 6 under the Text.
 
-343:LX Various explanations of the Great Symbolism have been attempted. E. g., [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says:--'The water which a lake or marsh will contain is limited to a certain quantity. If the water flowing in exceed that, it overflows. This gives us the idea of Kieh.' What is found on the application of it is to my mind equally unsatisfactory.
+<a name="fn_249"></a>[343:LX](#fr_249) Various explanations of the Great Symbolism have been attempted. E. g., [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says:--'The water which a lake or marsh will contain is limited to a certain quantity. If the water flowing in exceed that, it overflows. This gives us the idea of Kieh.' What is found on the application of it is to my mind equally unsatisfactory.
 
 The subject of line 1 knows when he might have free course and when he is obstructed, and acts accordingly. He is regulated by a consideration of the time.
 
@@ -946,13 +946,13 @@ The subject of line 3 shows by his lamentation how he blames himself.
 
 The other three paragraphs are sufficiently explained in what is said on the Text.
 
-344:LXI Dissatisfied with previous attempts to explain the Great Symbolism, the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say:--'The wind penetrates things. The grass and trees of the level ground are shaken and tossed by it; the rocky valleys and caverns in their sides have it blowing round about them; and it acts also on the depths of the collected waters, the cold of which disappears and the ice is melted before it. This is what makes it the emblem of that perfect sincerity which penetrates everywhere. The litigations of the people are like the deep and dark places of the earth. The kings examine with discrimination into all secret matters connected with them.. even those which are here mentioned, till there is nothing that is not penetrated by their perfect sincerity.' But all this is greatly strained. The symbolism of the eight trigrams gets pretty well played out in the course of the 64 hexagrams.
+<a name="fn_250"></a>[344:LXI](#fr_250) Dissatisfied with previous attempts to explain the Great Symbolism, the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say:--'The wind penetrates things. The grass and trees of the level ground are shaken and tossed by it; the rocky valleys and caverns in their sides have it blowing round about them; and it acts also on the depths of the collected waters, the cold of which disappears and the ice is melted before it. This is what makes it the emblem of that perfect sincerity which penetrates everywhere. The litigations of the people are like the deep and dark places of the earth. The kings examine with discrimination into all secret matters connected with them.. even those which are here mentioned, till there is nothing that is not penetrated by their perfect sincerity.' But all this is greatly strained. The symbolism of the eight trigrams gets pretty well played out in the course of the 64 hexagrams.
 
 1. 'No change has come over the purpose:' -- the sincerity, that is, perfect in itself and of itself, continues.
 
 2. One bond of loving regard unites the mother bird and her young; so answers the heart of man to man.
 
-345:LXII The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors endeavour to show the appropriateness of the Great Symbolism in this way:--'When thunder issues from the earth, the sound of it comes with a rush and is loud; but when it reaches the top of a hill it has begun to die away and is small.' There is nothing in the Chinese about the hills being high; and readers will only smile at the attempted explanation. The application of the symbolism, or rather of the idea of the hexagram, is good, and in entire accordance with what I have stated that idea to be.
+<a name="fn_251"></a>[345:LXII](#fr_251) The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors endeavour to show the appropriateness of the Great Symbolism in this way:--'When thunder issues from the earth, the sound of it comes with a rush and is loud; but when it reaches the top of a hill it has begun to die away and is small.' There is nothing in the Chinese about the hills being high; and readers will only smile at the attempted explanation. The application of the symbolism, or rather of the idea of the hexagram, is good, and in entire accordance with what I have stated that idea to be.
 
 Nothing can be done to avoid the issue mentioned in paragraph 1, for the subject of the line brings it on himself.
 
@@ -962,11 +962,11 @@ For paragraphs 3 and 4 see the notes on the Text.
 
 In line 5 the yin line is too high. If the line were yang, the auspice would be different.
 
-346:LXIII Water and fire coming together as here, fire under the water, each element occupies its proper place, and their interaction will be beneficial. Such is the common explanation of the Great Symbolism; but the connexion between it and the application of it, which also is good in itself, is by no means clear.
+<a name="fn_252"></a>[346:LXIII](#fr_252) Water and fire coming together as here, fire under the water, each element occupies its proper place, and their interaction will be beneficial. Such is the common explanation of the Great Symbolism; but the connexion between it and the application of it, which also is good in itself, is by no means clear.
 
 The notes on the different lines present nothing that has not been dealt with in the notes on the Text.
 
-347:LXIV In this last hexagram we have water below and fire above, so that the two cannot act on each other, and the Symbolism may represent the unregulated condition of general affairs, the different classes of society not harmonising nor acting together. The application follows naturally.
+<a name="fn_253"></a>[347:LXIV](#fr_253) In this last hexagram we have water below and fire above, so that the two cannot act on each other, and the Symbolism may represent the unregulated condition of general affairs, the different classes of society not harmonising nor acting together. The application follows naturally.
 
 [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) and others suspect an error in the text of paragraph 1; yet a tolerable meaning comes from it as it stands.
 
