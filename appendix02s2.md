@@ -1,108 +1,108 @@
-## SECTION II
+### SECTION II
 
-XXXI. (The trigram representing) a mountain and above it that for (the waters of) a marsh form Hsien. The superior man, in accordance with this, keeps his mind free from pre-occupation, and open to receive (the influences of) others.
+<a name="fr_"></a>[XXXI](#fn_220). (The trigram representing) a mountain and above it that for (the waters of) a marsh form Hsien. The superior man, in accordance with this, keeps his mind free from pre-occupation, and open to receive (the influences of) others.
 
-1. 'He moves his great toe:'--his mind is set on what is beyond (himself).
+1. 'He moves his great toe:' -- his mind is set on what is beyond (himself).
 
-2. Though 'there would be evil; yet, if he abide (quiet) in his place, there will be good fortune:'--through compliance (with the circumstances of his condition and place) there will be no injury.
+2. Though 'there would be evil; yet, if he abide (quiet) in his place, there will be good fortune:' -- through compliance (with the circumstances of his condition and place) there will be no injury.
 
-3. 'He moves his thighs:'--he still does not (want to) rest in his place. His will is set on 'following others:'--what he holds in his grasp is low.
+3. 'He moves his thighs:' -- he still does not (want to) rest in his place. His will is set on 'following others:' -- what he holds in his grasp is low.
 
 4. 'Firm correctness will lead to good fortune,
 
-p. 306
+###### p. 306
 
-and prevent all occasion for repentance:'--there has not yet been any harm from (a selfish wish to) influence. 'He is unsettled in his movements:'(his power to influence) is not yet either brilliant or great.
+and prevent all occasion for repentance:' -- there has not yet been any harm from (a selfish wish to) influence. 'He is unsettled in his movements:'(his power to influence) is not yet either brilliant or great.
 
-5. 'He (tries to) move the flesh along the spine above the heart:'--his aim is trivial.
+5. 'He (tries to) move the flesh along the spine above the heart:' -- his aim is trivial.
 
-6. 'He moves his jaws and tongue:'--he (only) talks with loquacious mouth.
+6. 'He moves his jaws and tongue:' -- he (only) talks with loquacious mouth.
 
-p. 307
+###### p. 307
 
-XXXII. (The trigram representing) thunder and that for wind form Hăng. The superior man, in accordance with this, stands firm, and does not change his method (of operation).
+<a name="fr_"></a>[XXXII](#fn_221). (The trigram representing) thunder and that for wind form Hăng. The superior man, in accordance with this, stands firm, and does not change his method (of operation).
 
 1. 'The evil attached to the deep desire for long continuance (in the subject of the first line)' arises from the deep seeking for it at the commencement (of things).
 
-2. 'All occasion for repentance on the part of the subject of the second NINE, (undivided,), disappears:'--he can abide long in the due mean.
+2. 'All occasion for repentance on the part of the subject of the second NINE, (undivided,), disappears:' -- he can abide long in the due mean.
 
-3. 'He does not continuously maintain his virtue:'--nowhere will he be borne with.
+3. 'He does not continuously maintain his virtue:' -- nowhere will he be borne with.
 
 4. (Going) for long to what is not his proper place, how can he get game?
 
-5. 'Such firm correctness in a wife will be fortunate:'--it is hers to the end of life to follow with an unchanged mind. The husband must decide what is right, and lay down the rule accordingly:--for him to follow (like) a wife is evil.
+5. 'Such firm correctness in a wife will be fortunate:' -- it is hers to the end of life to follow with an unchanged mind. The husband must decide what is right, and lay down the rule accordingly:--for him to follow (like) a wife is evil.
 
-6. 'The subject of the topmost line is exciting himself to long continuance:'--far will he be from achieving merit.
+6. 'The subject of the topmost line is exciting himself to long continuance:' -- far will he be from achieving merit.
 
-p. 308
+###### p. 308
 
-XXXIII. (The trigram representing) the sky and below it that for a mountain form Thun. The superior man, in accordance with this, keeps small men at a distance, not by showing that he hates them, but by his own. dignified gravity.
+<a name="fr_"></a>[XXXIII](#fn_222). (The trigram representing) the sky and below it that for a mountain form Thun. The superior man, in accordance with this, keeps small men at a distance, not by showing that he hates them, but by his own. dignified gravity.
 
-1. There is 'the perilousness of the position shown by the retiring tail:'--but if 'no movement' be made, what disaster can there be?
+1. There is 'the perilousness of the position shown by the retiring tail:' -- but if 'no movement' be made, what disaster can there be?
 
-2. 'He holds it as; by (a thong from the hide of) a yellow ox:'--his purpose is firm.
+2. 'He holds it as; by (a thong from the hide of) a yellow ox:' -- his purpose is firm.
 
-3. 'The peril connected with the case of one retiring, though bound,' is due to the (consequent) distress and exhaustion. 'If he were (to deal as in) nourishing a servant or concubine, it would be fortunate for him:'--but a great affair cannot be dealt with in this way.
+3. 'The peril connected with the case of one retiring, though bound,' is due to the (consequent) distress and exhaustion. 'If he were (to deal as in) nourishing a servant or concubine, it would be fortunate for him:' -- but a great affair cannot be dealt with in this way.
 
 4. 'A superior man retires notwithstanding his likings; a small man cannot attain to this.'
 
-5. 'He retires in an admirable way, and with firm correctness there will be good fortune:'--this is due to the rectitude of his purpose.
+5. 'He retires in an admirable way, and with firm correctness there will be good fortune:' -- this is due to the rectitude of his purpose.
 
-6. 'He retires in a noble way, and his doing so will be advantageous in every respect:'--he who does so has no doubts about his course.
+6. 'He retires in a noble way, and his doing so will be advantageous in every respect:' -- he who does so has no doubts about his course.
 
-p. 309
+###### p. 309
 
-XXXIV. (The trigram representing) heaven and above it that for thunder form Tâ Kwang. The superior man, in accordance with this, does not take a step which is not according to propriety.
+<a name="fr_"></a>[XXXIV](#fn_223). (The trigram representing) heaven and above it that for thunder form Tâ Kwang. The superior man, in accordance with this, does not take a step which is not according to propriety.
 
-1. 'He manifests his vigour in his toes:'--this will certainly lead to exhaustion.
+1. 'He manifests his vigour in his toes:' -- this will certainly lead to exhaustion.
 
-2. 'The second NINE, (undivided), shows that with firm correctness there will be good fortune:'--this is due to its being in the centre, (and its subject exemplifying the due mean).
+2. 'The second NINE, (undivided), shows that with firm correctness there will be good fortune:' -- this is due to its being in the centre, (and its subject exemplifying the due mean).
 
 3. 'The small man uses all his strength; in the case of the superior man it is his rule not to do so.'
 
-4. 'The fence is opened and the horns are not entangled:'--(the subject of the line) still advances.
+4. 'The fence is opened and the horns are not entangled:' -- (the subject of the line) still advances.
 
-5. 'He loses his ram and hardly perceives it:'--he is not in his appropriate place.
+5. 'He loses his ram and hardly perceives it:' -- he is not in his appropriate place.
 
-6. 'He is unable either to retreat or to advance:'--this is owing to his want of care. 'If he realise the difficulty (of his position), there will be good fortune:'--his error will not be prolonged.
+6. 'He is unable either to retreat or to advance:' -- this is owing to his want of care. 'If he realise the difficulty (of his position), there will be good fortune:' -- his error will not be prolonged.
 
-p. 310
+###### p. 310
 
-XXXV. (The trigram representing) the earth and that for the bright (sun) coming forth above it form Žin. The superior man, according to this, gives himself to make more brilliant his bright virtue.
+<a name="fr_"></a>[XXXV](#fn_224). (The trigram representing) the earth and that for the bright (sun) coming forth above it form Žin. The superior man, according to this, gives himself to make more brilliant his bright virtue.
 
-1. 'He appears wishing to advance, but (at the same time) being kept back:'--all-alone he pursues the correct course. 'Let him maintain a large and generous mind, and there will be no error:'--he has not yet received an official charge.
+1. 'He appears wishing to advance, but (at the same time) being kept back:' -- all-alone he pursues the correct course. 'Let him maintain a large and generous mind, and there will be no error:' -- he has not yet received an official charge.
 
-2. 'He will receive this great blessing:'--for he is in the central place and the correct position for him.
+2. 'He will receive this great blessing:' -- for he is in the central place and the correct position for him.
 
-3. 'All (around) trust him:'--their (common) aim is to move upwards and act.
+3. 'All (around) trust him:' -- their (common) aim is to move upwards and act.
 
-4. '(He advances like) a marmot. However firm and correct he may be, his position is one of peril:'--his place is not that appropriate for him.
+4. '(He advances like) a marmot. However firm and correct he may be, his position is one of peril:' -- his place is not that appropriate for him.
 
-5. 'Let him not concern himself whether he fails or succeeds:'--his movement in advance will afford ground for congratulation.
+5. 'Let him not concern himself whether he fails or succeeds:' -- his movement in advance will afford ground for congratulation.
 
-6. 'He uses his horns only to punish (the rebellious people of) his city:'--his course of procedure is not yet brilliant.
+6. 'He uses his horns only to punish (the rebellious people of) his city:' -- his course of procedure is not yet brilliant.
 
-p. 311
+###### p. 311
 
-XXXVI. (The trigram representing) the earth and that for the bright (sun) entering within it form Ming Î. The superior man, in accordance with this, conducts his management of men;--he shows his intelligence by keeping it obscured.
+<a name="fr_"></a>[XXXVI](#fn_225). (The trigram representing) the earth and that for the bright (sun) entering within it form Ming Î. The superior man, in accordance with this, conducts his management of men;--he shows his intelligence by keeping it obscured.
 
-1. 'The superior man (is revolving his) going away:'--(in such a case) he feels it right not to eat.
+1. 'The superior man (is revolving his) going away:' -- (in such a case) he feels it right not to eat.
 
 2. 'The good fortune of (the subject of) the second SIX, divided,' is due to the proper fashion of his acting according to his circumstances.
 
 3. With the aim represented by 'hunting in the south' a great achievement is accomplished.
 
-4. 'He has (just) entered into the left side of the belly (of the dark land):'--he is still able to carry out the idea in his (inner) mind.
+4. 'He has (just) entered into the left side of the belly (of the dark land):' -- he is still able to carry out the idea in his (inner) mind.
 
 5. 'With the firm correctness of the count of Kî,' his brightness could not be (quite) extinguished.
 
-6. 'He had at first ascended to (the top of) the sky:'--he might have enlightened the four quarters
+6. 'He had at first ascended to (the top of) the sky:' -- he might have enlightened the four quarters
 
-p. 312
+###### p. 312
 
-of the kingdom. 'His future shall be to go into the earth:'--he has failed to fulfil the model (of a ruler).
+of the kingdom. 'His future shall be to go into the earth:' -- he has failed to fulfil the model (of a ruler).
 
-XXXVII. (The trigram representing) fire, and that for wind coming forth from it, form Kiâ Zăn. The superior man, in accordance with this, orders his words according to (the truth of) things, and his conduct so that it is uniformly consistent.
+<a name="fr_"></a>[XXXVII](#fn_226). (The trigram representing) fire, and that for wind coming forth from it, form Kiâ Zăn. The superior man, in accordance with this, orders his words according to (the truth of) things, and his conduct so that it is uniformly consistent.
 
 1. 'He establishes restrictive regulations in his household:--(he does so), before any change has taken place in their wills.
 
@@ -112,77 +112,77 @@ XXXVII. (The trigram representing) fire, and that for wind coming forth from it,
 
 4. 'The family is enriched, and there is great
 
-p. 313
+###### p. 313
 
-good fortune:'--this is due to the docility (belonging to the subject of the line), and its being in its correct place.
+good fortune:' -- this is due to the docility (belonging to the subject of the line), and its being in its correct place.
 
-5. 'The influence of the king extends to his family:'--the intercourse between them is that of mutual love.
+5. 'The influence of the king extends to his family:' -- the intercourse between them is that of mutual love.
 
 6. 'The good fortune connected with the display of majesty' describes (the result of) the recovery of the true character.
 
-p. 314
+###### p. 314
 
-XXXVIII. (The trigram representing) fire above, and that for (the waters of) a marsh below, form Khwei. The superior man, in accordance with this, where there is a general agreement, yet admits diversity.
+<a name="fr_"></a>[XXXVIII](#fn_227). (The trigram representing) fire above, and that for (the waters of) a marsh below, form Khwei. The superior man, in accordance with this, where there is a general agreement, yet admits diversity.
 
-1. 'He meets with bad men (and communicates with them):'--(he does so), to avoid the evil of their condemnation.
+1. 'He meets with bad men (and communicates with them):' -- (he does so), to avoid the evil of their condemnation.
 
-2. 'He happens to meet with his lord in a bye-passage:'--but he has not deviated (for this meeting) from the (proper) course.
+2. 'He happens to meet with his lord in a bye-passage:' -- but he has not deviated (for this meeting) from the (proper) course.
 
-3. 'We see his carriage dragged back:'--this is indicated by the inappropriateness of the position (of the line).
+3. 'We see his carriage dragged back:' -- this is indicated by the inappropriateness of the position (of the line).
 
-'There is no (good) beginning, but there will be a (good) end:'--this arises from his meeting with the strong (subject of the topmost line).
+'There is no (good) beginning, but there will be a (good) end:' -- this arises from his meeting with the strong (subject of the topmost line).
 
-4. 'They blend their sincere desires together, and there will be no error:'--their (common) aim is carried into effect.
+4. 'They blend their sincere desires together, and there will be no error:' -- their (common) aim is carried into effect.
 
-5. 'With his hereditary minister (he unites closely and easily) as if he were biting through a piece of skin:'--his going forward will afford ground for congratulation.
+5. 'With his hereditary minister (he unites closely and easily) as if he were biting through a piece of skin:' -- his going forward will afford ground for congratulation.
 
 6. 'The good fortune symbolised by meeting with (genial) rain' springs from the passing away of all doubts.
 
-p. 315
+###### p. 315
 
-XXXIX. (The trigram representing) a mountain, and above it that for water, form Kien. The superior man, in accordance with this, turns round (and examines) himself, and cultivates his virtue.
+<a name="fr_"></a>[XXXIX](#fn_228). (The trigram representing) a mountain, and above it that for water, form Kien. The superior man, in accordance with this, turns round (and examines) himself, and cultivates his virtue.
 
-1. 'Advancing will conduct to (greater) difficulties, while remaining stationary will afford ground for praise:'--the proper course is to wait.
+1. 'Advancing will conduct to (greater) difficulties, while remaining stationary will afford ground for praise:' -- the proper course is to wait.
 
-2. 'The minister of the king struggles with difficulty on difficulty:'--in the end no blame will be attached to him.
+2. 'The minister of the king struggles with difficulty on difficulty:' -- in the end no blame will be attached to him.
 
-3. 'He advances, (but only) to (greater) difficulty; he remains stationary, and returns to his former associates:'--they, (represented in) the inner (trigram), rejoice in him.
+3. 'He advances, (but only) to (greater) difficulty; he remains stationary, and returns to his former associates:' -- they, (represented in) the inner (trigram), rejoice in him.
 
-4. 'To advance will (only be to) encounter (greater) difficulties; he remains stationary, and unites (with the subject of the line above):'--that is in its proper place and has the solidity (due to it in that position).
+4. 'To advance will (only be to) encounter (greater) difficulties; he remains stationary, and unites (with the subject of the line above):' -- that is in its proper place and has the solidity (due to it in that position).
 
-5. 'He struggles with the greatest difficulties, while friends are coming (to help him):'--he is in the central position, and possesses the requisite virtue.
+5. 'He struggles with the greatest difficulties, while friends are coming (to help him):' -- he is in the central position, and possesses the requisite virtue.
 
-6. 'To advance will (only) increase the difficulties, while his remaining stationary will (be productive of) great (merit):'--his aim is to assist the (subject of the line) inside of him.
+6. 'To advance will (only) increase the difficulties, while his remaining stationary will (be productive of) great (merit):' -- his aim is to assist the (subject of the line) inside of him.
 
-'It will be advantageous to meet the great man:'--by his course he follows that noble (lord of the figure).
+'It will be advantageous to meet the great man:' -- by his course he follows that noble (lord of the figure).
 
-p. 316
+###### p. 316
 
-XL. (The trigram representing) thunder and that for rain, with these phenomena in a state of manifestation, form Kieh. The superior man, in accordance with this, forgives errors, and deals gently with crimes.
+<a name="fr_"></a>[XL](#fn_229). (The trigram representing) thunder and that for rain, with these phenomena in a state of manifestation, form Kieh. The superior man, in accordance with this, forgives errors, and deals gently with crimes.
 
 1. The strong (fourth) line and the weak line here are in correlation:--we judge rightly in saying that 'its subject will commit no error.'
 
 2. 'The good fortune springing from the firm correctness of the second NINE, (undivided),' is due to its subject holding the due mean.
 
-3. For 'a porter with his burden to be riding in a carriage' is a thing to be ashamed of. 'It is he himself that tempts the robbers to come:'--on whom besides can we lay the blame? (See Appendix III, i, 48.)
+3. For 'a porter with his burden to be riding in a carriage' is a thing to be ashamed of. 'It is he himself that tempts the robbers to come:' -- on whom besides can we lay the blame? (See Appendix III, i, 48.)
 
-4. 'Remove your toes:'--the places (of this line
+4. 'Remove your toes:' -- the places (of this line
 
-p. 317
+###### p. 317
 
 and of the third and first) are all inappropriate to them.
 
 5. When 'the superior man executes his function of removing (whatever is injurious to the idea of the hexagram),' small men will of themselves retire.
 
-6. 'A prince with his bow shoots a falcon:'--thus he removes (the promoters of) rebellion.
+6. 'A prince with his bow shoots a falcon:' -- thus he removes (the promoters of) rebellion.
 
-XLI. (The trigram representing) a mountain and beneath it that for the waters of a marsh form Sun. The superior man, in accordance with this, restrains his wrath and represses his desires.
+<a name="fr_"></a>[XLI](#fn_230). (The trigram representing) a mountain and beneath it that for the waters of a marsh form Sun. The superior man, in accordance with this, restrains his wrath and represses his desires.
 
-1. 'He suspends his own affairs and hurries away (to help the subject of the fourth line):'--the (subject of that) upper (line) mingles his wishes with his.
+1. 'He suspends his own affairs and hurries away (to help the subject of the fourth line):' -- the (subject of that) upper (line) mingles his wishes with his.
 
-p. 318
+###### p. 318
 
-2. 'It will be advantageous for (the subject of) the second NINE, (undivided), to maintain his firm correctness:'--his central position gives its character to his aim.
+2. 'It will be advantageous for (the subject of) the second NINE, (undivided), to maintain his firm correctness:' -- his central position gives its character to his aim.
 
 3. 'One man, walking,' (finds his friend): -- when three are together, doubts rise among them.
 
@@ -190,345 +190,343 @@ p. 318
 
 5. 'The great good fortune attached to the fifth six, (divided),' is due to the blessing from above.
 
-6. 'He gives increase to others without taking from what is his own:'--he obtains his wish on a grand scale.
+6. 'He gives increase to others without taking from what is his own:' -- he obtains his wish on a grand scale.
 
-p. 319
+###### p. 319
 
-XLII. (The trigram representing) wind and that for thunder form Yî. The superior man, in accordance with this, when he sees what is good, moves towards it; and when he sees his errors, he turns from them.
+<a name="fr_"></a>[XLII](#fn_231). (The trigram representing) wind and that for thunder form Yî. The superior man, in accordance with this, when he sees what is good, moves towards it; and when he sees his errors, he turns from them.
 
-1. 'If the movement be greatly fortunate, no blame will be imputed to him:'--though it is not for one in so low a position to have to do with great affairs.
+1. 'If the movement be greatly fortunate, no blame will be imputed to him:' -- though it is not for one in so low a position to have to do with great affairs.
 
-2. 'Parties add to his stores:'--they come from beyond (his immediate circle) to do so.
+2. 'Parties add to his stores:' -- they come from beyond (his immediate circle) to do so.
 
-3. 'Increase is given by means of what is evil and difficult:'--as he has in himself (the qualities called forth).
+3. 'Increase is given by means of what is evil and difficult:' -- as he has in himself (the qualities called forth).
 
-4. 'His advice to his prince is followed:'--his (only) object in it being the increase (of the general good).
+4. 'His advice to his prince is followed:' -- his (only) object in it being the increase (of the general good).
 
-5. '(The ruler) with sincere heart seeks to benefit (all below):'--there need be no question (about the result). '(All below) with sincere heart acknowledge (his goodness):'--he gets what he desires on a great scale.
+5. '(The ruler) with sincere heart seeks to benefit (all below):' -- there need be no question (about the result). '(All below) with sincere heart acknowledge (his goodness):' -- he gets what he desires on a great scale.
 
-6. 'To his increase none will contribute:'--this expresses but half the result. 'Many will seek to assail him:'--they will come from beyond (his immediate circle) to do so.
+6. 'To his increase none will contribute:' -- this expresses but half the result. 'Many will seek to assail him:' -- they will come from beyond (his immediate circle) to do so.
 
-p. 320
+###### p. 320
 
-XLIII. (The trigram representing) heaven and that for the waters of a marsh mounting above it form Kwâi. The superior man, in accordance with this, bestows emolument on those below him, and dislikes allowing his gifts to accumulate (undispensed).
+<a name="fr_"></a>[XLIII](#fn_232). (The trigram representing) heaven and that for the waters of a marsh mounting above it form Kwâi. The superior man, in accordance with this, bestows emolument on those below him, and dislikes allowing his gifts to accumulate (undispensed).
 
-1. 'Without (being able to) succeed, he goes forward:'--this is an error.
+1. 'Without (being able to) succeed, he goes forward:' -- this is an error.
 
-2. 'Though hostile measures be taken against him, he need not be anxious:'--he pursues the course of the due mean.
+2. 'Though hostile measures be taken against him, he need not be anxious:' -- he pursues the course of the due mean.
 
-3. 'The superior man looks bent on cutting off the culprit:'--there will in the end be no error.
+3. 'The superior man looks bent on cutting off the culprit:' -- there will in the end be no error.
 
-4. 'He walks slowly and with difficulty:'--he is not in the place appropriate to him.
+4. 'He walks slowly and with difficulty:' -- he is not in the place appropriate to him.
 
-'He hears these words, but does not believe them:'--he hears, but does not understand.
+'He hears these words, but does not believe them:' -- he hears, but does not understand.
 
 5. 'If his action be in harmony with his central
 
-p. 321
+###### p. 321
 
-position, there will be no error:'--but his standing in the due mean is not yet clearly displayed.
+position, there will be no error:' -- but his standing in the due mean is not yet clearly displayed.
 
-6. 'There is the misery of having none on whom to call:'--the end will be that he cannot continue any longer.
+6. 'There is the misery of having none on whom to call:' -- the end will be that he cannot continue any longer.
 
-XLIV. (The trigram representing) wind and that for the sky above it form [**Gòu ䷫**](e5a7a4gou.md). The sovereign, in accordance with this, delivers his charges, and promulgates his announcements throughout the four quarters (of the kingdom).
+<a name="fr_"></a>[XLIV](#fn_233). (The trigram representing) wind and that for the sky above it form [**Gòu ䷫**](e5a7a4gou.md). The sovereign, in accordance with this, delivers his charges, and promulgates his announcements throughout the four quarters (of the kingdom).
 
 1. 'Tied and fastened to a metal drag:' -- (this
 
-p. 322
+###### p. 322
 
 describes the arrest of) the weak (line) in its advancing course.
 
-2. 'He has a wallet of fish:'--it is right for him not to allow (the subject of the first line) to get to the guests.
+2. 'He has a wallet of fish:' -- it is right for him not to allow (the subject of the first line) to get to the guests.
 
-3. 'He walks with difficulty:'--but his steps have not yet been drawn (into the course of the first line).
+3. 'He walks with difficulty:' -- but his steps have not yet been drawn (into the course of the first line).
 
 4. 'The evil' indicated by there being 'no fish in the wallet' is owing to (the subject of the line) keeping himself aloof from the people.
 
-5. 'The subject of the fifth NINE, (undivided), keeps his brilliant qualities concealed:'--as is indicated by his central and correct position.
+5. 'The subject of the fifth NINE, (undivided), keeps his brilliant qualities concealed:' -- as is indicated by his central and correct position.
 
 '(The good issue) descends (as) from Heaven:--'his aim does not neglect the ordinances (of Heaven).
 
-6. 'He receives others on his horns:'--he is exhausted at his greatest height, and there will be cause for regret.
+6. 'He receives others on his horns:' -- he is exhausted at his greatest height, and there will be cause for regret.
 
-p. 323
+###### p. 323
 
-XLV. (The trigram representing the) earth and that for the waters of a marsh raised above it form Žhui. The superior man, in accordance with this, has his weapons of war put in good repair, to be prepared against unforeseen contingencies.
+<a name="fr_"></a>[XLV](#fn_234). (The trigram representing the) earth and that for the waters of a marsh raised above it form Žhui. The superior man, in accordance with this, has his weapons of war put in good repair, to be prepared against unforeseen contingencies.
 
-1. 'In consequence disorder is brought into the sphere of his union:'--his mind and aim are thrown into confusion.
+1. 'In consequence disorder is brought into the sphere of his union:' -- his mind and aim are thrown into confusion.
 
-2. 'He is led forward; there will be good fortune, and freedom from error:'--(the virtue proper to) his central place has not undergone any change.
+2. 'He is led forward; there will be good fortune, and freedom from error:' -- (the virtue proper to) his central place has not undergone any change.
 
-3. 'If he go forward, he will not err:'--in the subject of the topmost line there is humility and condescension.
+3. 'If he go forward, he will not err:' -- in the subject of the topmost line there is humility and condescension.
 
-4. 'If he be grandly fortunate, he will receive no blame:'--(this condition is necessary, because) his position is not the one proper to him.
+4. 'If he be grandly fortunate, he will receive no blame:' -- (this condition is necessary, because) his position is not the one proper to him.
 
-5. 'There is the union (of all) under him in the place of dignity:'--(but) his mind and aim have not yet been brilliantly displayed.
+5. 'There is the union (of all) under him in the place of dignity:' -- (but) his mind and aim have not yet been brilliantly displayed.
 
-p. 324
+###### p. 324
 
-6. 'He sighs and weeps:'--he does not yet rest in his topmost position.
+6. 'He sighs and weeps:' -- he does not yet rest in his topmost position.
 
-XLVI. (The trigram representing) wood and that for the earth with the wood growing in the midst of it form Shăng. The superior man, in accordance with this, pays careful attention to his virtue, and accumulates the small developments of it till it is high and great.
+<a name="fr_"></a>[XLVI](#fn_235). (The trigram representing) wood and that for the earth with the wood growing in the midst of it form Shăng. The superior man, in accordance with this, pays careful attention to his virtue, and accumulates the small developments of it till it is high and great.
 
-1. 'He is welcomed in his advance upwards, and there will be great good fortune:'--(the subjects of) the upper (trigram) are of the same mind with him.
+1. 'He is welcomed in his advance upwards, and there will be great good fortune:' -- (the subjects of) the upper (trigram) are of the same mind with him.
 
 2. 'The sincerity of the subject of the second NINE, undivided,' affords occasion for joy.
 
-3. 'He advances upwards (as into) an empty city:'--he has no doubt or hesitation.
+3. 'He advances upwards (as into) an empty city:' -- he has no doubt or hesitation.
 
-4. 'The king employs him to prevent his offerings on mount Khî:'--such a service (of spiritual Beings) is according to (their mind).
+4. 'The king employs him to prevent his offerings on mount Khî:' -- such a service (of spiritual Beings) is according to (their mind).
 
-p. 325
+###### p. 325
 
-5. 'He is firmly correct, and will therefore enjoy good fortune. He ascends the stairs (with all due ceremony):'--he grandly succeeds in his aim.
+5. 'He is firmly correct, and will therefore enjoy good fortune. He ascends the stairs (with all due ceremony):' -- he grandly succeeds in his aim.
 
 6. 'He blindly advances upwards,' and is in the highest place:--but there is decay in store for him, and he will not (preserve) his riches.
 
-XLVII. (The trigram representing) a marsh, and (below it that for a defile, which has drained the other dry so that there is) no water in it, form Khwăn. The superior man, in accordance with this, will sacrifice his life in order to carry out his purpose.
+<a name="fr_"></a>[XLVII](#fn_236). (The trigram representing) a marsh, and (below it that for a defile, which has drained the other dry so that there is) no water in it, form Khwăn. The superior man, in accordance with this, will sacrifice his life in order to carry out his purpose.
 
-1. 'He enters a dark valley:'--so benighted is he, and without clear vision.
+1. 'He enters a dark valley:' -- so benighted is he, and without clear vision.
 
-2. 'He is straitened amidst his wine and viands:'--(but) his position is central, and there will be ground for congratulation.
+2. 'He is straitened amidst his wine and viands:' -- (but) his position is central, and there will be ground for congratulation.
 
-p. 326
+###### p. 326
 
-3. 'He lays hold of thorns:'--(this is suggested by the position of the line) above the strong (line).
+3. 'He lays hold of thorns:' -- (this is suggested by the position of the line) above the strong (line).
 
-'He enters his palace, and does not see his wife:'--this is inauspicious.
+'He enters his palace, and does not see his wife:' -- this is inauspicious.
 
-4. 'He proceeds very slowly (to help the subject of the first line):'--his aim is directed to (help) that lower (line). Although he is not in his appropriate place, he and that other will (in the end) be together.
+4. 'He proceeds very slowly (to help the subject of the first line):' -- his aim is directed to (help) that lower (line). Although he is not in his appropriate place, he and that other will (in the end) be together.
 
-5. 'His nose and feet are cut off:'--his aim has not yet been gained.
+5. 'His nose and feet are cut off:' -- his aim has not yet been gained.
 
-'He is leisurely, however, in his movements, and is satisfied:'--his position is central and (his virtue) is correct.
+'He is leisurely, however, in his movements, and is satisfied:' -- his position is central and (his virtue) is correct.
 
-'It will be well for him to be (as sincere as) in sacrificing:'-- so shall he receive blessing.
+'It will be well for him to be (as sincere as) in sacrificing:' --  so shall he receive blessing.
 
 6. 'He is straitened as if bound with creepers: (his spirit and action) are unsuitable.
 
-'(He says), "If I move, I shall repent of it." And he does repent (of former errors), which leads to good fortune:'--so he (now) goes on.
+'(He says), "If I move, I shall repent of it." And he does repent (of former errors), which leads to good fortune:' -- so he (now) goes on.
 
-p. 327
+###### p. 327
 
-XLVIII. (The trigram representing) wood and above it that for water form Žing. The superior man, in accordance with this, comforts the people, and. stimulates them to mutual helpfulness.
+<a name="fr_"></a>[XLVIII](#fn_237). (The trigram representing) wood and above it that for water form Žing. The superior man, in accordance with this, comforts the people, and. stimulates them to mutual helpfulness.
 
-1. 'A well so muddy that men will not drink of it:'--this is indicated by the low position (of the line).
+1. 'A well so muddy that men will not drink of it:' -- this is indicated by the low position (of the line).
 
-'An old well to which the birds do not come:'--it has been forsaken in the course of time.
+'An old well to which the birds do not come:' -- it has been forsaken in the course of time.
 
-2. 'A well from which by a hole the water escapes, and flows away to the shrimps:'--(the subject of this second line has) none co-operating with him (above).
+2. 'A well from which by a hole the water escapes, and flows away to the shrimps:' -- (the subject of this second line has) none co-operating with him (above).
 
-3. 'The well has been cleared out, but is not used:'--(even) passers-by would be sorry for this.
+3. 'The well has been cleared out, but is not used:' -- (even) passers-by would be sorry for this.
 
-A prayer is made 'that the king were intelligent:'--for then blessing would be received.
+A prayer is made 'that the king were intelligent:' -- for then blessing would be received.
 
-4. 'A well the lining of which is well laid. There will be no error:'--the well has been put in good repair.
+4. 'A well the lining of which is well laid. There will be no error:' -- the well has been put in good repair.
 
-5. 'The waters from the cold spring are (freely) drunk:'--this is indicated by the central and correct position (of the line).
+5. 'The waters from the cold spring are (freely) drunk:' -- this is indicated by the central and correct position (of the line).
 
 6. 'The great good fortune' at the topmost place
 
-p. 328
+###### p. 328
 
 indicates the grand accomplishment (of the idea in the hexagram).
 
-XLIX. (The trigram representing the waters of) a marsh and that for fire in the midst of them form Ko. The superior man, in accordance with this, regulates his (astronomical) calculations, and makes clear the seasons and times.
+<a name="fr_"></a>[XLIX](#fn_238). (The trigram representing the waters of) a marsh and that for fire in the midst of them form Ko. The superior man, in accordance with this, regulates his (astronomical) calculations, and makes clear the seasons and times.
 
-1. 'He is bound with (the skin of) a yellow ox:'--he should in his circumstances be taking action.
+1. 'He is bound with (the skin of) a yellow ox:' -- he should in his circumstances be taking action.
 
-2. 'He makes his changes when some time has passed:'--what he does will be matter of admiration.
+2. 'He makes his changes when some time has passed:' -- what he does will be matter of admiration.
 
-3. 'The change (contemplated) has been three times fully discussed:'--to what else should attention (now) be directed?
+3. 'The change (contemplated) has been three times fully discussed:' -- to what else should attention (now) be directed?
 
 4. 'The good fortune consequent on changing (existing) ordinances' is due to the faith reposed in his aims.
 
-5. 'The great man produces his changes as the tiger does when he changes his stripes:'--their beauty becomes more brilliant.
+5. 'The great man produces his changes as the tiger does when he changes his stripes:' -- their beauty becomes more brilliant.
 
-p. 329
+###### p. 329
 
-6. 'The superior man produces his changes as the leopard does when he changes his spots:'--their beauty becomes more elegant.
+6. 'The superior man produces his changes as the leopard does when he changes his spots:' -- their beauty becomes more elegant.
 
-'Small men change their faces:'--they show themselves prepared to follow their ruler.
+'Small men change their faces:' -- they show themselves prepared to follow their ruler.
 
-L. (The trigram representing) wood and above it that for fire form Ting. The superior man, in accordance with this, keeps his every position correct, and maintains secure the appointment (of Heaven).
+<a name="fr_"></a>[L](#fn_239). (The trigram representing) wood and above it that for fire form Ting. The superior man, in accordance with this, keeps his every position correct, and maintains secure the appointment (of Heaven).
 
-1. 'The caldron is overturned, and its feet turned upwards:'--but this is not (all) contrary (to what is right).
+1. 'The caldron is overturned, and its feet turned upwards:' -- but this is not (all) contrary (to what is right).
 
-'There will be advantage in getting rid of what was bad:'--thereby (the subject of the line) will follow the more noble (subject of the fourth line).
+'There will be advantage in getting rid of what was bad:' -- thereby (the subject of the line) will follow the more noble (subject of the fourth line).
 
-2. 'There is the caldron with the things (to be cooked) in it:'--let (the subject of the line) be careful where he goes.
+2. 'There is the caldron with the things (to be cooked) in it:' -- let (the subject of the line) be careful where he goes.
 
-'My enemy dislikes me:'--but there will in the end be no fault (to which he can point).
+'My enemy dislikes me:' -- but there will in the end be no fault (to which he can point).
 
 3. 'There is the caldron with (the places for) its
 
-p. 330
+###### p. 330
 
-ears changed:'--(its subject) has failed in what was required of him (in his situation).
+ears changed:' -- (its subject) has failed in what was required of him (in his situation).
 
-4. 'The contents designed for the ruler's use are overturned and spilt:'--how can (the subject of the line) be trusted?
+4. 'The contents designed for the ruler's use are overturned and spilt:' -- how can (the subject of the line) be trusted?
 
-5. 'The caldron has yellow ears:'--the central position (of the line) is taken as (a proof of) the solid (virtue of its subject).
+5. 'The caldron has yellow ears:' -- the central position (of the line) is taken as (a proof of) the solid (virtue of its subject).
 
 6. 'The rings of jade' are at the very top:--the strong and the weak meet in their due proportions.
 
-LI. (The trigram representing) thunder, being repeated, forms Kăn. The superior man, in accordance with this, is fearful and apprehensive, cultivates (his virtue), and examines (his faults).
+<a name="fr_"></a>[LI](#fn_240). (The trigram representing) thunder, being repeated, forms Kăn. The superior man, in accordance with this, is fearful and apprehensive, cultivates (his virtue), and examines (his faults).
 
-1. 'When the (time of) movement comes, he will be found looking out with apprehension:'-- that feeling of dread leads to happiness.
+1. 'When the (time of) movement comes, he will be found looking out with apprehension:' --  that feeling of dread leads to happiness.
 
-p. 331
+###### p. 331
 
-'He yet smiles and talks cheerfully:'--the issue (of his dread) is that he adopts (proper) laws (for his course).
+'He yet smiles and talks cheerfully:' -- the issue (of his dread) is that he adopts (proper) laws (for his course).
 
-2. 'When the movement approaches, he is in a position of peril:'--(a weak line) is mounted on a strong (one).
+2. 'When the movement approaches, he is in a position of peril:' -- (a weak line) is mounted on a strong (one).
 
-3. 'He is distraught amid the startling movements going on:'--(the third line) is in a position unsuitable to it.
+3. 'He is distraught amid the startling movements going on:' -- (the third line) is in a position unsuitable to it.
 
-4. 'Amid the startling movements, he sinks supinely in the mud:'--the light in him has not yet been brilliantly developed.
+4. 'Amid the startling movements, he sinks supinely in the mud:' -- the light in him has not yet been brilliantly developed.
 
-5. 'He goes and comes amid the startling movements, and (always) in peril:'--full of risk are his doings.
+5. 'He goes and comes amid the startling movements, and (always) in peril:' -- full of risk are his doings.
 
-'What he has to do has to be done in his central position:'--far will he be from incurring any loss.
+'What he has to do has to be done in his central position:' -- far will he be from incurring any loss.
 
-6. 'Amid the startling movements he is in breathless dismay:'--he has not found out (the course of) the due mean.
+6. 'Amid the startling movements he is in breathless dismay:' -- he has not found out (the course of) the due mean.
 
-'Though evil (threatens), he will not fall into error:'--he is afraid of being warned by his neighbours.
+'Though evil (threatens), he will not fall into error:' -- he is afraid of being warned by his neighbours.
 
-LII. (Two trigrams representing) a mountain, one over the other, form Kăn. The superior man, in
+<a name="fr_"></a>[LII](#fn_241). (Two trigrams representing) a mountain, one over the other, form Kăn. The superior man, in
 
-0
-
-p. 332
+###### p. 332
 
 accordance with this, does not go in his thoughts beyond the (duties of the) position in which he is.
 
-1. 'He keeps his toes at rest:'--he does not fail in what is correct (according to the idea of the figure).
+1. 'He keeps his toes at rest:' -- he does not fail in what is correct (according to the idea of the figure).
 
 2. 'He cannot help him whom he follows:'(he whom he follows) will not retreat to listen to him.
 
-3. 'He keeps the loins at rest:'--the danger (from his doing so) produces a glowing, heat in the heart.
+3. 'He keeps the loins at rest:' -- the danger (from his doing so) produces a glowing, heat in the heart.
 
-4. 'He keeps the trunk of his body at rest:'--he keeps himself free (from agitation).
+4. 'He keeps the trunk of his body at rest:' -- he keeps himself free (from agitation).
 
-5. 'He keeps his cheek bones at rest:'--in harmony with his central position he acts correctly.
+5. 'He keeps his cheek bones at rest:' -- in harmony with his central position he acts correctly.
 
-6. 'There is good fortune through his devotedly maintaining his restfulness:'--to the end he shows himself generous and good.
+6. 'There is good fortune through his devotedly maintaining his restfulness:' -- to the end he shows himself generous and good.
 
-p. 333
+###### p. 333
 
-LIII. (The trigram representing) a mountain and above it that for a tree form Kien. The superior man, in accordance with this, attains to and maintains his extraordinary virtue, and makes the manners of the people good.
+<a name="fr_"></a>[LIII](#fn_242). (The trigram representing) a mountain and above it that for a tree form Kien. The superior man, in accordance with this, attains to and maintains his extraordinary virtue, and makes the manners of the people good.
 
 1. 'The danger of a small officer (as represented in the first line)' is owing to no fault of his in the matter of what is right.
 
-2. 'They eat and drink joyfully and at ease:'--but not without having earned their food.
+2. 'They eat and drink joyfully and at ease:' -- but not without having earned their food.
 
-3. 'A husband goes and does not return:'--he separates himself from his comrades.
+3. 'A husband goes and does not return:' -- he separates himself from his comrades.
 
-'A wife is pregnant, but will not nourish her child:'--she has failed in her (proper) course.
+'A wife is pregnant, but will not nourish her child:' -- she has failed in her (proper) course.
 
-'It might be advantageous in resisting plunderers:'--by acting as here indicated men would preserve one another.
+'It might be advantageous in resisting plunderers:' -- by acting as here indicated men would preserve one another.
 
-4. 'They may light on the flat branches:'--there is docility (in the line) going on to flexible penetration.
+4. 'They may light on the flat branches:' -- there is docility (in the line) going on to flexible penetration.
 
-5. 'In the end the natural issue cannot be prevented. There will be good fortune:'--(the subject of the line) will get what he desires.
+5. 'In the end the natural issue cannot be prevented. There will be good fortune:' -- (the subject of the line) will get what he desires.
 
-6. 'Their feathers can be used as ornaments. There will be good fortune:'--(the object and character of the subject of the line) cannot be disturbed.
+6. 'Their feathers can be used as ornaments. There will be good fortune:' -- (the object and character of the subject of the line) cannot be disturbed.
 
-p. 334
+###### p. 334
 
-LIV. (The trigram representing the waters of) a marsh and over it that for thunder form Kwei Mei. The superior man, in accordance with this, having regard to the far-distant end, knows the mischief (that may be done at the beginning).
+<a name="fr_"></a>[LIV](#fn_243). (The trigram representing the waters of) a marsh and over it that for thunder form Kwei Mei. The superior man, in accordance with this, having regard to the far-distant end, knows the mischief (that may be done at the beginning).
 
-1. 'The younger sister is married off in a position ancillary to that of the real wife:'--it is the constant practice (for such a case).
+1. 'The younger sister is married off in a position ancillary to that of the real wife:' -- it is the constant practice (for such a case).
 
-'Lame on one leg, she is able to tramp along:'--she can render helpful service.
+'Lame on one leg, she is able to tramp along:' -- she can render helpful service.
 
-2. 'There will be advantage in maintaining the firm correctness of a solitary widow:'--(the subject of
+2. 'There will be advantage in maintaining the firm correctness of a solitary widow:' -- (the subject of
 
-p. 335
+###### p. 335
 
 the line) has not changed from the constancy (proper to a wife).
 
-3. 'The younger sister who was to be married off is in a mean position:'--this is shown by the improprieties (indicated in the line).
+3. 'The younger sister who was to be married off is in a mean position:' -- this is shown by the improprieties (indicated in the line).
 
 4. (The purpose in) 'protracting the time' is that, after waiting, the thing may be done (all the better).
 
-5. 'The sleeves of the younger sister of (king) Tî-yî, when she was married away, were not equal to those of her (half-)sister, who accompanied her:'--such was her noble character, indicated by the central position of the line.
+5. 'The sleeves of the younger sister of (king) Tî-yî, when she was married away, were not equal to those of her (half-)sister, who accompanied her:' -- such was her noble character, indicated by the central position of the line.
 
 6. '(What is said in) the sixth SIX, (divided),about there being nothing in the basket' shows that the subject of it is carrying an empty basket.
 
-LV. (The trigrams representing) thunder and lightning combine to form Făng. The superior man, in accordance with this, decides cases of litigation, and apportions punishments with exactness.
+<a name="fr_"></a>[LV](#fn_244). (The trigrams representing) thunder and lightning combine to form Făng. The superior man, in accordance with this, decides cases of litigation, and apportions punishments with exactness.
 
-1. 'Though they are both of the same character, there will be no error:'--if the subject of this
+1. 'Though they are both of the same character, there will be no error:' -- if the subject of this
 
-p. 336
+###### p. 336
 
 line seek to overpass that similarity, there will be calamity.
 
-2. 'Let him cherish his feeling of sincere devotion, that it shall appear being put forth:'--it is by sincerity that the mind is affected.
+2. 'Let him cherish his feeling of sincere devotion, that it shall appear being put forth:' -- it is by sincerity that the mind is affected.
 
-3. 'There is an (additional) screen of a large and thick banner:'--great things should not be attempted (in such circumstances).
+3. 'There is an (additional) screen of a large and thick banner:' -- great things should not be attempted (in such circumstances).
 
-'He breaks his right arm:'--in the end he will not be fit to be employed.
+'He breaks his right arm:' -- in the end he will not be fit to be employed.
 
-4. 'He is surrounded by a screen large and thick:'--the position of the line is inappropriate.
+4. 'He is surrounded by a screen large and thick:' -- the position of the line is inappropriate.
 
-'At midday he sees the constellation of the Bushel:'--there is darkness and no light.
+'At midday he sees the constellation of the Bushel:' -- there is darkness and no light.
 
-'He meets with the subject of the line, undivided like himself. There will be good fortune:'--action may be taken.
+'He meets with the subject of the line, undivided like himself. There will be good fortune:' -- action may be taken.
 
 5. 'The good fortune indicated by the fifth six, (divided),'is the congratulation (that is sure to arise).
 
-6. 'He has made his house large:'--he soars (in his pride) to the heavens.
+6. 'He has made his house large:' -- he soars (in his pride) to the heavens.
 
-'He looks at his door, which is still, with no one about it:'--he (only) keeps himself withdrawn from all others.
+'He looks at his door, which is still, with no one about it:' -- he (only) keeps himself withdrawn from all others.
 
-p. 337
+###### p. 337
 
-LVI. (The trigram representing) a mountain and above it that for fire form Lü. The superior man, in accordance with this, exerts his wisdom and caution in the use of punishments and not allowing litigations to continue.
+<a name="fr_"></a>[LVI](#fn_245). (The trigram representing) a mountain and above it that for fire form Lü. The superior man, in accordance with this, exerts his wisdom and caution in the use of punishments and not allowing litigations to continue.
 
-1. 'The stranger is mean and meanly occupied:'--his aim is become of the lowest character, and calamity will ensue.
+1. 'The stranger is mean and meanly occupied:' -- his aim is become of the lowest character, and calamity will ensue.
 
-2. 'He is provided with good and trusty servants:'--he will in the end have nothing of which to complain.
+2. 'He is provided with good and trusty servants:' -- he will in the end have nothing of which to complain.
 
-3. 'The stranger burns his lodging-house:'--and he himself also suffers hurt thereby. When, as a stranger, he treats those below him (as the line indicates), the right relation between him and them is lost.
+3. 'The stranger burns his lodging-house:' -- and he himself also suffers hurt thereby. When, as a stranger, he treats those below him (as the line indicates), the right relation between him and them is lost.
 
-4. 'The stranger is in a resting-place:'--but he has not got his proper position.
+4. 'The stranger is in a resting-place:' -- but he has not got his proper position.
 
-'He has the means of livelihood, and the axe:'--but his mind is not at ease.
+'He has the means of livelihood, and the axe:' -- but his mind is not at ease.
 
-5. 'In the end he will obtain praise and a (high) charge:'--he has reached a high place.
+5. 'In the end he will obtain praise and a (high) charge:' -- he has reached a high place.
 
 6. 'Considering that the stranger is here at the very height (of distinction),' with the spirit that possesses him, it is right he (should be emblemed by a bird) burning (its nest).
 
-p. 338
+###### p. 338
 
-'He loses his ox(-like docility) too readily and easily:'--to the end he would not listen to (the truth about the course to be pursued).
+'He loses his ox(-like docility) too readily and easily:' -- to the end he would not listen to (the truth about the course to be pursued).
 
-LVII. (Two trigrams representing) wind, following each other, form Sun. The superior man, in accordance with this, reiterates his orders, and secures the practice of his affairs.
+<a name="fr_"></a>[LVII](#fn_246). (Two trigrams representing) wind, following each other, form Sun. The superior man, in accordance with this, reiterates his orders, and secures the practice of his affairs.
 
-1. '(Now) he advances, (now) he recedes:'--his mind is perplexed.
+1. '(Now) he advances, (now) he recedes:' -- his mind is perplexed.
 
 It would be advantageous for him to have the
 
-p. 339
+###### p. 339
 
-firmness of a brave soldier:'--his mind would in that case be well governed.
+firmness of a brave soldier:' -- his mind would in that case be well governed.
 
 2. 'The good fortune springing from what borders on confusion' is due to the position (of the line) in the centre.
 
 3. 'The regret arising from the violent and repeated efforts to penetrate' shows the exhaustion of the will.
 
-4. 'He takes game in his hunting, enough for the threefold use of it:'--he achieves merit.
+4. 'He takes game in his hunting, enough for the threefold use of it:' -- he achieves merit.
 
 5. 'The good fortune of (the subject of) the fifth NINE, undivided,' is owing to its correct position and its being in the centre.
 
-6. 'The representative of penetration is beneath a couch:'--though occupying the topmost place, his powers are exhausted.
+6. 'The representative of penetration is beneath a couch:' -- though occupying the topmost place, his powers are exhausted.
 
-'He has lost the axe with which he executed his decisions:'--though he try to be correct, there will be evil.
+'He has lost the axe with which he executed his decisions:' -- though he try to be correct, there will be evil.
 
-p. 340
+###### p. 340
 
-LVIII. (Two symbols representing) the waters of a marsh, one over the other, form Tui. The superior man, in accordance with this, (encourages) the conversation of friends and (the stimulus of) their (common) practice.
+<a name="fr_"></a>[LVIII](#fn_247). (Two symbols representing) the waters of a marsh, one over the other, form Tui. The superior man, in accordance with this, (encourages) the conversation of friends and (the stimulus of) their (common) practice.
 
 1. 'The good fortune attached to the pleasure of (inward) harmony' arises from there being nothing in the conduct (of the subject of the line) to awaken doubt.
 
@@ -538,33 +536,33 @@ LVIII. (Two symbols representing) the waters of a marsh, one over the other, for
 
 4. 'The joy in connexion with (the subject of) the fourth NINE, (undivided): is due to the happiness (which he will produce).
 
-5. 'He trusts in one who would injure him:'--his place is that which is correct and appropriate.
+5. 'He trusts in one who would injure him:' -- his place is that which is correct and appropriate.
 
-6. 'The topmost SIX, (divided), shows the pleasure (of its subject) in leading and attracting others:'--his (virtue) is not yet brilliant.
+6. 'The topmost SIX, (divided), shows the pleasure (of its subject) in leading and attracting others:' -- his (virtue) is not yet brilliant.
 
-p. 341
+###### p. 341
 
-LIX. (The trigram representing) water and that for wind moving above the water form Hwân. The ancient kings, in accordance with this, presented offerings to God and established the ancestral temple.
+<a name="fr_"></a>[LIX](#fn_248). (The trigram representing) water and that for wind moving above the water form Hwân. The ancient kings, in accordance with this, presented offerings to God and established the ancestral temple.
 
 1. 'The good fortune attached to the first six, divided),'is due to the natural course (pursued by its subject).
 
-2. 'Amidst the prevailing dispersion, he hurries to his contrivance (for security):'--he gets what he desires.
+2. 'Amidst the prevailing dispersion, he hurries to his contrivance (for security):' -- he gets what he desires.
 
-3. 'He has no regard to his own person:'--his aim is directed to what is external to himself.
+3. 'He has no regard to his own person:' -- his aim is directed to what is external to himself.
 
-4. 'He scatters the (different) parties (in the state), and there is great good fortune:'--brilliant and great (are his virtue and service).
+4. 'He scatters the (different) parties (in the state), and there is great good fortune:' -- brilliant and great (are his virtue and service).
 
-5. 'The accumulations of the royal (granaries) are dispersed, and there is no error:'--this is due to the correctness of the position.
+5. 'The accumulations of the royal (granaries) are dispersed, and there is no error:' -- this is due to the correctness of the position.
 
-6. 'His bloody wounds are gone:'--he is far removed from the danger of injury.
+6. 'His bloody wounds are gone:' -- he is far removed from the danger of injury.
 
-p. 342
+###### p. 342
 
-LX. (The trigram representing) a lake, and above it that for water, form Kieh. The superior man, in accordance with this, constructs his (methods of) numbering and measurement, and discusses (points of) virtue and conduct.
+<a name="fr_"></a>[LX](#fn_249). (The trigram representing) a lake, and above it that for water, form Kieh. The superior man, in accordance with this, constructs his (methods of) numbering and measurement, and discusses (points of) virtue and conduct.
 
-1. 'He does not quit the courtyard outside his door:'--he knows when he has free course and when he is obstructed.
+1. 'He does not quit the courtyard outside his door:' -- he knows when he has free course and when he is obstructed.
 
-2. 'He does not quit the courtyard inside his gate. There will be evil:'--he loses the time (for action) to an extreme degree.
+2. 'He does not quit the courtyard inside his gate. There will be evil:' -- he loses the time (for action) to an extreme degree.
 
 3. In 'the lamentation for not observing the (proper) regulations,' who should there be to blame?
 
@@ -572,85 +570,85 @@ LX. (The trigram representing) a lake, and above it that for water, form Kieh. T
 
 5. 'The good fortune arising from the regulations enacted sweetly and acceptably' is due to (the line)
 
-p. 343
+###### p. 343
 
 occupying the place (of authority) and being in the centre.
 
-6. 'The regulations are severe and difficult. Even with firm correctness there will be evil:'--the course (indicated by the hexagram) is come to an end.
+6. 'The regulations are severe and difficult. Even with firm correctness there will be evil:' -- the course (indicated by the hexagram) is come to an end.
 
-LXI. (The trigram representing the waters of) a marsh and that for wind above it form Kung Fû. The superior man, in accordance with this, deliberates about cases of litigation and delays (the infliction of) death.
+<a name="fr_"></a>[LXI](#fn_250). (The trigram representing the waters of) a marsh and that for wind above it form Kung Fû. The superior man, in accordance with this, deliberates about cases of litigation and delays (the infliction of) death.
 
-1. 'The first NINE, (undivided), shows its subject resting (in himself). There will be good fortune:'--no change has yet come over his purpose.
+1. 'The first NINE, (undivided), shows its subject resting (in himself). There will be good fortune:' -- no change has yet come over his purpose.
 
-2. 'Her young ones respond to her:'--from the (common) wish of the inmost heart.
+2. 'Her young ones respond to her:' -- from the (common) wish of the inmost heart.
 
-3. 'Now he beats his drum, and now he leaves off:'--the position (of the line) is the appropriate one for it.
+3. 'Now he beats his drum, and now he leaves off:' -- the position (of the line) is the appropriate one for it.
 
-p. 344
+###### p. 344
 
-4. 'A horse the fellow of which disappears:'--he breaks from his (former) companions, and mounts upwards.
+4. 'A horse the fellow of which disappears:' -- he breaks from his (former) companions, and mounts upwards.
 
-5. 'He is perfectly sincere, and links others to him in closest union:'--the place (of the line) is the correct and appropriate one.
+5. 'He is perfectly sincere, and links others to him in closest union:' -- the place (of the line) is the correct and appropriate one.
 
-6. 'Chanticleer (tries to) mount to heaven:'--but how can (such an effort) continue long?
+6. 'Chanticleer (tries to) mount to heaven:' -- but how can (such an effort) continue long?
 
-LXII. (The trigram representing) a hill and that for thunder above it form Hsiâo Kwo. The superior man, in accordance with this, in his conduct exceeds in humility, in mourning exceeds in sorrow, and in his expenditure exceeds in economy.
+<a name="fr_"></a>[LXII](#fn_251). (The trigram representing) a hill and that for thunder above it form Hsiâo Kwo. The superior man, in accordance with this, in his conduct exceeds in humility, in mourning exceeds in sorrow, and in his expenditure exceeds in economy.
 
-1. 'There is a bird flying (and ascending) till the result is evil:'--nothing can be done to avoid this issue.
+1. 'There is a bird flying (and ascending) till the result is evil:' -- nothing can be done to avoid this issue.
 
-2. 'He does not attempt to reach his ruler:'--
+2. 'He does not attempt to reach his ruler:' -- 
 
-p. 345
+###### p. 345
 
 a minister should not overpass the distance (between his ruler and himself).
 
-3. 'Some in consequence find opportunity to assail and injure him. There will be evil:'--how great will it be!
+3. 'Some in consequence find opportunity to assail and injure him. There will be evil:' -- how great will it be!
 
-4. 'He meets the exigency (of his situation), without exceeding (the proper course):'--(he does so), the position being inappropriate (for a strong line).
+4. 'He meets the exigency (of his situation), without exceeding (the proper course):' -- (he does so), the position being inappropriate (for a strong line).
 
-'If he go forward, there will be peril, and he must be cautious:'--the result would be that his course would not be long pursued.
+'If he go forward, there will be peril, and he must be cautious:' -- the result would be that his course would not be long pursued.
 
-5. 'There are dense clouds, but no rain:'--(the line) is in too high a place.
+5. 'There are dense clouds, but no rain:' -- (the line) is in too high a place.
 
-6. 'He does not meet the exigency (of his situation), and exceeds (his proper course):'--(the position indicates) the habit of domineering.
+6. 'He does not meet the exigency (of his situation), and exceeds (his proper course):' -- (the position indicates) the habit of domineering.
 
-LXIII. (The trigram representing) fire and that for water above it form Kî Žî. The superior
+<a name="fr_"></a>[LXIII](#fn_252). (The trigram representing) fire and that for water above it form Kî Žî. The superior
 
-p. 346
+###### p. 346
 
 man, in accordance with this, thinks of evil (that may come), and beforehand guards against it.
 
-1. 'He drags back his wheel:'--as we may rightly judge, there will be no mistake.
+1. 'He drags back his wheel:' -- as we may rightly judge, there will be no mistake.
 
-2. 'In seven days she will find it:'--for the course pursued is that indicated by the central position (of the line).
+2. 'In seven days she will find it:' -- for the course pursued is that indicated by the central position (of the line).
 
-3. 'He was three years in subduing it:'--enough to make him weary.
+3. 'He was three years in subduing it:' -- enough to make him weary.
 
-4. 'He is on his guard all the day:'--he is in doubt about something.
+4. 'He is on his guard all the day:' -- he is in doubt about something.
 
-5. 'The slaughtering of an ox by the neighbour in the east is not equal to (the small sacrifice of) the neighbour in the west:'--because the time (in the latter case is more important and fit).
+5. 'The slaughtering of an ox by the neighbour in the east is not equal to (the small sacrifice of) the neighbour in the west:' -- because the time (in the latter case is more important and fit).
 
-'His sincerity receives the blessing:'--good fortune comes on a great scale.
+'His sincerity receives the blessing:' -- good fortune comes on a great scale.
 
-6. 'His head is immersed; the position is perilous:'--how could such a state continue long?
+6. 'His head is immersed; the position is perilous:' -- how could such a state continue long?
 
-LXIV. (The trigram representing) water and that for fire above it form Wei Žî. The superior man, in accordance with this, carefully discriminates among (the qualities of) things, and the (different) positions they (naturally) occupy.
+<a name="fr_"></a>[LXIV](#fn_253). (The trigram representing) water and that for fire above it form Wei Žî. The superior man, in accordance with this, carefully discriminates among (the qualities of) things, and the (different) positions they (naturally) occupy.
 
-1. 'His tail gets immersed:'--this is the very height of ignorance.
+1. 'His tail gets immersed:' -- this is the very height of ignorance.
 
-p. 347
+###### p. 347
 
-2. 'The second NINE, (undivided), shows good fortune arising from being firm and correct:'--it is in the central place, and the action of its subject thereby becomes correct.
+2. 'The second NINE, (undivided), shows good fortune arising from being firm and correct:' -- it is in the central place, and the action of its subject thereby becomes correct.
 
-3. '(The state of things is) not yet remedied. Advancing will lead to evil:'--the place (of the line) is not that appropriate for it.
+3. '(The state of things is) not yet remedied. Advancing will lead to evil:' -- the place (of the line) is not that appropriate for it.
 
-4. (By firm correctness there is good fortune, and cause for repentance disappears:'--the aim (of the subject of the line) is carried into effect.
+4. (By firm correctness there is good fortune, and cause for repentance disappears:' -- the aim (of the subject of the line) is carried into effect.
 
 5. '(We see) the brightness of a superior man:--'the diffusion of that brightness tends to good fortune.
 
-6. 'He drinks and gets his head immersed:'--he does not know how to submit to the (proper) regulations.
+6. 'He drinks and gets his head immersed:' -- he does not know how to submit to the (proper) regulations.
 
-Footnotes
+### Footnotes
 
 306:XXXI In various ways the waters of a marsh, placed high above the adjacent land, will descend to water and fertilise them. This symbolism agrees sufficiently well with the idea of influence passing between a superior and inferior party in relation with each other. There is nothing in the representation, however, to suggest particularly the relation between husband and wife; and the more I think of it, the more doubtful it becomes to me that [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) intended by the trigrams of this figure to give the idea of man and wife. The application of the symbolism is sufficiently appropriate. The commentators see in it especially the lesson of humility -- emptiness of self, or poverty of spirit--in order that the influences to which we are subjected may have free course.
 
@@ -672,7 +670,7 @@ Paragraph 2. Line 2 is in the centre of its trigram, and that position, here as 
 
 Paragraph 3. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors make the application here = 'nowhere can he bear (to remain).'
 
-p. 308
+###### p. 308
 
 From paragraph 5 it appears that what is right will vary in different cases. The lesson of the hexagram is perseverance in what is right in each particular case.
 
@@ -682,7 +680,7 @@ The symbolism of the various lines is sufficiently explained on the Text. Paragr
 
 309:XXXIV In illustration of the symbolism of the trigrams here, [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says well:--'Thunder rolling above in the sky and making all things shake is the emblem of great power.' In passing on to its application he starts with a beautiful saying of antiquity, that 'the strong man is he who overcomes himself.' That this thought was in the mind of the writer of the paragraph on the Great Symbolism I can well believe; but the analogy between the natural and the moral and spiritual worlds in passing from the phenomenon of thunder to this truth is a thing to be felt, and that can hardly be described.
 
-p. 310
+###### p. 310
 
 Paragraph 1. 'This will lead to exhaustion;' and from that will follow distress and other evils.
 
@@ -784,7 +782,7 @@ Paragraph 1. My supplement, 'This describes the arrest of,' is a conclusion from
 
 In the 'Daily Lecture' it is said that the lesson of paragraph 2 is that 'the subject of the line should make the repression of 1 his own exclusive work, and not allow it to pass on to the subject of any of the other lines.' That view is rather different from the one indicated in my supplement.
 
-'His steps have not been drawn into the course of the first p. 323 line:'--we have to supply, land therefore there will be no great error.'
+'His steps have not been drawn into the course of the first p. 323 line:' -- we have to supply, land therefore there will be no great error.'
 
 Paragraph 4. See what is said on the Text. But that the subject of the line stands alone is owing, it is here implied, to his own impatience. If he could exercise forbearance, he would find a proper opportunity to check the advance of the subject of line 1.
 
@@ -794,7 +792,7 @@ The subject of line 5, while mindful of his task in the hexagram,--to repress th
 
 Paragraph 3. The topmost line is the last in Tui, whose attribute is complacent satisfaction, appearing in flexibility or docility.
 
-Paragraph 5. 'His mind and aim have not yet been brilliantly displayed:'--this is in explanation of the case that some may even still not have confidence in him.
+Paragraph 5. 'His mind and aim have not yet been brilliantly displayed:' -- this is in explanation of the case that some may even still not have confidence in him.
 
 Paragraph 6. The topmost position is that of the trigram; the subject of the line might bid farewell to all the work of the hexagram; but he cannot bear to do so.
 
@@ -804,7 +802,7 @@ Paragraph x. Instead of finding in this the three lines of Khwăn and their subj
 
 Paragraph 2. The subject of line 2 in his loyal devotion to 5 will do much good and benefit many; hence we have the words, affords occasion for joy.'
 
-Paragraph 3. 'He has no doubt or hesitation:'--but this is presuming rather on his strength.
+Paragraph 3. 'He has no doubt or hesitation:' -- but this is presuming rather on his strength.
 
 Paragraph 4. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say:--'Such an employment of men of worth to do service to spiritual Beings is serving them according to their mind.'
 
@@ -812,7 +810,7 @@ Paragraph 6. When one has reached the greatest height, he should think of retiri
 
 326:XLVII The first sentence of the Great Symbolism is constructed differently from any which has presented itself in the previous 46 hexagrams. Literally translated, it would be 'a marsh with no water is Khwăn;' and this might certainly suggest to us a condition of distress. But how does this come out of the trigrams? The upper one is Tui, representing a marsh; and the lower is Khân, representing water in a defile. The collocation of the two suggests the running of the water from the marsh or lake into the stream, which will soon empty the other. Such is the view which occurred to myself; and it is the same as that given by [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi):--'The water descending and leaking away, the marsh above will become dry.' The application is good in itself, but the concatenation between it and the Symbolism is hardly discernible.
 
-p. 327
+###### p. 327
 
 So stupid is the subject of line 1 that by his own act he increases his distress.
 
@@ -868,7 +866,7 @@ The 'separation from his comrades' has respect to line 3 not finding its correla
 
 [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says, on paragraph 4, that humility and right-doing will find rest and peace in all places and circumstances.
 
-Paragraph 5. 'The natural issue cannot be prevented:'--the wife will have a child minister and ruler will meet happily.
+Paragraph 5. 'The natural issue cannot be prevented:' -- the wife will have a child minister and ruler will meet happily.
 
 Paragraph 6. See on the Text. But it is difficult to see the aptness of the symbolism.
 
@@ -884,7 +882,7 @@ I hardly understand the conclusion of paragraph 1. My translation of it is accor
 
 Paragraph 2. It is by such sincerity that the mind is affected,--that is, the mind of the ruler occupying line 5.
 
-p. 337
+###### p. 337
 
 Line 3 has a correlate in 6, which is weak, and as it were out of the game. The light in 3 moreover is hidden. Hence the symbolism; and through the blindness of its subject his hurt, which unfits him to be employed.
 
@@ -912,7 +910,7 @@ Paragraph 2 seems to say that the sincerity of purpose indicated by the central 
 
 'The will is exhausted' in paragraph 3 intimates that 'the repeated efforts' made by its subject have exhausted him. He can now only regret his failures.
 
-p. 340
+###### p. 340
 
 What is said in paragraph 6 proceeds on a different view of the Text from that which I have followed.
 
@@ -920,7 +918,7 @@ What is said in paragraph 6 proceeds on a different view of the Text from that w
 
 There is nothing in the conduct of the subject of line 1 to awaken suspicion. He has as yet taken no action; but it was not necessary to say anything like this about the subject of line 2, his central position being an assurance that he would never do anything of a doubtful character.
 
-p. 314
+###### p. 314
 
 Line 3 should be strong, and the desire of pleasure which is the idea of the hexagram leads its weak subject to the course which is so emphatically condemned.
 
@@ -950,7 +948,7 @@ The other three paragraphs are sufficiently explained in what is said on the Tex
 
 344:LXI Dissatisfied with previous attempts to explain the Great Symbolism, the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say:--'The wind penetrates things. The grass and trees of the level ground are shaken and tossed by it; the rocky valleys and caverns in their sides have it blowing round about them; and it acts also on the depths of the collected waters, the cold of which disappears and the ice is melted before it. This is what makes it the emblem of that perfect sincerity which penetrates everywhere. The litigations of the people are like the deep and dark places of the earth. The kings examine with discrimination into all secret matters connected with them.. even those which are here mentioned, till there is nothing that is not penetrated by their perfect sincerity.' But all this is greatly strained. The symbolism of the eight trigrams gets pretty well played out in the course of the 64 hexagrams.
 
-1. 'No change has come over the purpose:'--the sincerity, that is, perfect in itself and of itself, continues.
+1. 'No change has come over the purpose:' -- the sincerity, that is, perfect in itself and of itself, continues.
 
 2. One bond of loving regard unites the mother bird and her young; so answers the heart of man to man.
 
