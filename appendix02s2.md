@@ -1,6 +1,6 @@
 ### SECTION II
 
-<a name="fr_"></a>[XXXI](#fn_220). (The trigram representing) a mountain and above it that for (the waters of) a marsh form Hsien. The superior man, in accordance with this, keeps his mind free from pre-occupation, and open to receive (the influences of) others.
+<a name="fr_220"></a>[XXXI](#fn_220). (The trigram representing) a mountain and above it that for (the waters of) a marsh form Hsien. The superior man, in accordance with this, keeps his mind free from pre-occupation, and open to receive (the influences of) others.
 
 1. 'He moves his great toe:' -- his mind is set on what is beyond (himself).
 
@@ -20,7 +20,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 ###### p. 307
 
-<a name="fr_"></a>[XXXII](#fn_221). (The trigram representing) thunder and that for wind form Hăng. The superior man, in accordance with this, stands firm, and does not change his method (of operation).
+<a name="fr_221"></a>[XXXII](#fn_221). (The trigram representing) thunder and that for wind form Hăng. The superior man, in accordance with this, stands firm, and does not change his method (of operation).
 
 1. 'The evil attached to the deep desire for long continuance (in the subject of the first line)' arises from the deep seeking for it at the commencement (of things).
 
@@ -36,7 +36,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 ###### p. 308
 
-<a name="fr_"></a>[XXXIII](#fn_222). (The trigram representing) the sky and below it that for a mountain form Thun. The superior man, in accordance with this, keeps small men at a distance, not by showing that he hates them, but by his own. dignified gravity.
+<a name="fr_222"></a>[XXXIII](#fn_222). (The trigram representing) the sky and below it that for a mountain form Thun. The superior man, in accordance with this, keeps small men at a distance, not by showing that he hates them, but by his own. dignified gravity.
 
 1. There is 'the perilousness of the position shown by the retiring tail:' -- but if 'no movement' be made, what disaster can there be?
 
@@ -52,7 +52,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 ###### p. 309
 
-<a name="fr_"></a>[XXXIV](#fn_223). (The trigram representing) heaven and above it that for thunder form Tâ Kwang. The superior man, in accordance with this, does not take a step which is not according to propriety.
+<a name="fr_223"></a>[XXXIV](#fn_223). (The trigram representing) heaven and above it that for thunder form Tâ Kwang. The superior man, in accordance with this, does not take a step which is not according to propriety.
 
 1. 'He manifests his vigour in his toes:' -- this will certainly lead to exhaustion.
 
@@ -68,7 +68,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 ###### p. 310
 
-<a name="fr_"></a>[XXXV](#fn_224). (The trigram representing) the earth and that for the bright (sun) coming forth above it form Žin. The superior man, according to this, gives himself to make more brilliant his bright virtue.
+<a name="fr_224"></a>[XXXV](#fn_224). (The trigram representing) the earth and that for the bright (sun) coming forth above it form Žin. The superior man, according to this, gives himself to make more brilliant his bright virtue.
 
 1. 'He appears wishing to advance, but (at the same time) being kept back:' -- all-alone he pursues the correct course. 'Let him maintain a large and generous mind, and there will be no error:' -- he has not yet received an official charge.
 
@@ -84,7 +84,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 ###### p. 311
 
-<a name="fr_"></a>[XXXVI](#fn_225). (The trigram representing) the earth and that for the bright (sun) entering within it form Ming Î. The superior man, in accordance with this, conducts his management of men;--he shows his intelligence by keeping it obscured.
+<a name="fr_225"></a>[XXXVI](#fn_225). (The trigram representing) the earth and that for the bright (sun) entering within it form Ming Î. The superior man, in accordance with this, conducts his management of men;--he shows his intelligence by keeping it obscured.
 
 1. 'The superior man (is revolving his) going away:' -- (in such a case) he feels it right not to eat.
 
@@ -102,7 +102,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 of the kingdom. 'His future shall be to go into the earth:' -- he has failed to fulfil the model (of a ruler).
 
-<a name="fr_"></a>[XXXVII](#fn_226). (The trigram representing) fire, and that for wind coming forth from it, form Kiâ Zăn. The superior man, in accordance with this, orders his words according to (the truth of) things, and his conduct so that it is uniformly consistent.
+<a name="fr_226"></a>[XXXVII](#fn_226). (The trigram representing) fire, and that for wind coming forth from it, form Kiâ Zăn. The superior man, in accordance with this, orders his words according to (the truth of) things, and his conduct so that it is uniformly consistent.
 
 1. 'He establishes restrictive regulations in his household:--(he does so), before any change has taken place in their wills.
 
@@ -122,7 +122,7 @@ good fortune:' -- this is due to the docility (belonging to the subject of the l
 
 ###### p. 314
 
-<a name="fr_"></a>[XXXVIII](#fn_227). (The trigram representing) fire above, and that for (the waters of) a marsh below, form Khwei. The superior man, in accordance with this, where there is a general agreement, yet admits diversity.
+<a name="fr_227"></a>[XXXVIII](#fn_227). (The trigram representing) fire above, and that for (the waters of) a marsh below, form Khwei. The superior man, in accordance with this, where there is a general agreement, yet admits diversity.
 
 1. 'He meets with bad men (and communicates with them):' -- (he does so), to avoid the evil of their condemnation.
 
@@ -140,7 +140,7 @@ good fortune:' -- this is due to the docility (belonging to the subject of the l
 
 ###### p. 315
 
-<a name="fr_"></a>[XXXIX](#fn_228). (The trigram representing) a mountain, and above it that for water, form Kien. The superior man, in accordance with this, turns round (and examines) himself, and cultivates his virtue.
+<a name="fr_228"></a>[XXXIX](#fn_228). (The trigram representing) a mountain, and above it that for water, form Kien. The superior man, in accordance with this, turns round (and examines) himself, and cultivates his virtue.
 
 1. 'Advancing will conduct to (greater) difficulties, while remaining stationary will afford ground for praise:' -- the proper course is to wait.
 
@@ -158,7 +158,7 @@ good fortune:' -- this is due to the docility (belonging to the subject of the l
 
 ###### p. 316
 
-<a name="fr_"></a>[XL](#fn_229). (The trigram representing) thunder and that for rain, with these phenomena in a state of manifestation, form Kieh. The superior man, in accordance with this, forgives errors, and deals gently with crimes.
+<a name="fr_229"></a>[XL](#fn_229). (The trigram representing) thunder and that for rain, with these phenomena in a state of manifestation, form Kieh. The superior man, in accordance with this, forgives errors, and deals gently with crimes.
 
 1. The strong (fourth) line and the weak line here are in correlation:--we judge rightly in saying that 'its subject will commit no error.'
 
@@ -176,7 +176,7 @@ and of the third and first) are all inappropriate to them.
 
 6. 'A prince with his bow shoots a falcon:' -- thus he removes (the promoters of) rebellion.
 
-<a name="fr_"></a>[XLI](#fn_230). (The trigram representing) a mountain and beneath it that for the waters of a marsh form Sun. The superior man, in accordance with this, restrains his wrath and represses his desires.
+<a name="fr_230"></a>[XLI](#fn_230). (The trigram representing) a mountain and beneath it that for the waters of a marsh form Sun. The superior man, in accordance with this, restrains his wrath and represses his desires.
 
 1. 'He suspends his own affairs and hurries away (to help the subject of the fourth line):' -- the (subject of that) upper (line) mingles his wishes with his.
 
@@ -194,7 +194,7 @@ and of the third and first) are all inappropriate to them.
 
 ###### p. 319
 
-<a name="fr_"></a>[XLII](#fn_231). (The trigram representing) wind and that for thunder form Yî. The superior man, in accordance with this, when he sees what is good, moves towards it; and when he sees his errors, he turns from them.
+<a name="fr_231"></a>[XLII](#fn_231). (The trigram representing) wind and that for thunder form Yî. The superior man, in accordance with this, when he sees what is good, moves towards it; and when he sees his errors, he turns from them.
 
 1. 'If the movement be greatly fortunate, no blame will be imputed to him:' -- though it is not for one in so low a position to have to do with great affairs.
 
@@ -210,7 +210,7 @@ and of the third and first) are all inappropriate to them.
 
 ###### p. 320
 
-<a name="fr_"></a>[XLIII](#fn_232). (The trigram representing) heaven and that for the waters of a marsh mounting above it form Kwâi. The superior man, in accordance with this, bestows emolument on those below him, and dislikes allowing his gifts to accumulate (undispensed).
+<a name="fr_232"></a>[XLIII](#fn_232). (The trigram representing) heaven and that for the waters of a marsh mounting above it form Kwâi. The superior man, in accordance with this, bestows emolument on those below him, and dislikes allowing his gifts to accumulate (undispensed).
 
 1. 'Without (being able to) succeed, he goes forward:' -- this is an error.
 
@@ -230,7 +230,7 @@ position, there will be no error:' -- but his standing in the due mean is not ye
 
 6. 'There is the misery of having none on whom to call:' -- the end will be that he cannot continue any longer.
 
-<a name="fr_"></a>[XLIV](#fn_233). (The trigram representing) wind and that for the sky above it form [**Gòu ䷫**](e5a7a4gou.md). The sovereign, in accordance with this, delivers his charges, and promulgates his announcements throughout the four quarters (of the kingdom).
+<a name="fr_233"></a>[XLIV](#fn_233). (The trigram representing) wind and that for the sky above it form [**Gòu ䷫**](e5a7a4gou.md). The sovereign, in accordance with this, delivers his charges, and promulgates his announcements throughout the four quarters (of the kingdom).
 
 1. 'Tied and fastened to a metal drag:' -- (this
 
@@ -252,7 +252,7 @@ describes the arrest of) the weak (line) in its advancing course.
 
 ###### p. 323
 
-<a name="fr_"></a>[XLV](#fn_234). (The trigram representing the) earth and that for the waters of a marsh raised above it form Žhui. The superior man, in accordance with this, has his weapons of war put in good repair, to be prepared against unforeseen contingencies.
+<a name="fr_234"></a>[XLV](#fn_234). (The trigram representing the) earth and that for the waters of a marsh raised above it form Žhui. The superior man, in accordance with this, has his weapons of war put in good repair, to be prepared against unforeseen contingencies.
 
 1. 'In consequence disorder is brought into the sphere of his union:' -- his mind and aim are thrown into confusion.
 
@@ -268,7 +268,7 @@ describes the arrest of) the weak (line) in its advancing course.
 
 6. 'He sighs and weeps:' -- he does not yet rest in his topmost position.
 
-<a name="fr_"></a>[XLVI](#fn_235). (The trigram representing) wood and that for the earth with the wood growing in the midst of it form Shăng. The superior man, in accordance with this, pays careful attention to his virtue, and accumulates the small developments of it till it is high and great.
+<a name="fr_235"></a>[XLVI](#fn_235). (The trigram representing) wood and that for the earth with the wood growing in the midst of it form Shăng. The superior man, in accordance with this, pays careful attention to his virtue, and accumulates the small developments of it till it is high and great.
 
 1. 'He is welcomed in his advance upwards, and there will be great good fortune:' -- (the subjects of) the upper (trigram) are of the same mind with him.
 
@@ -284,7 +284,7 @@ describes the arrest of) the weak (line) in its advancing course.
 
 6. 'He blindly advances upwards,' and is in the highest place:--but there is decay in store for him, and he will not (preserve) his riches.
 
-<a name="fr_"></a>[XLVII](#fn_236). (The trigram representing) a marsh, and (below it that for a defile, which has drained the other dry so that there is) no water in it, form Khwăn. The superior man, in accordance with this, will sacrifice his life in order to carry out his purpose.
+<a name="fr_236"></a>[XLVII](#fn_236). (The trigram representing) a marsh, and (below it that for a defile, which has drained the other dry so that there is) no water in it, form Khwăn. The superior man, in accordance with this, will sacrifice his life in order to carry out his purpose.
 
 1. 'He enters a dark valley:' -- so benighted is he, and without clear vision.
 
@@ -310,7 +310,7 @@ describes the arrest of) the weak (line) in its advancing course.
 
 ###### p. 327
 
-<a name="fr_"></a>[XLVIII](#fn_237). (The trigram representing) wood and above it that for water form Žing. The superior man, in accordance with this, comforts the people, and. stimulates them to mutual helpfulness.
+<a name="fr_237"></a>[XLVIII](#fn_237). (The trigram representing) wood and above it that for water form Žing. The superior man, in accordance with this, comforts the people, and. stimulates them to mutual helpfulness.
 
 1. 'A well so muddy that men will not drink of it:' -- this is indicated by the low position (of the line).
 
@@ -332,7 +332,7 @@ A prayer is made 'that the king were intelligent:' -- for then blessing would be
 
 indicates the grand accomplishment (of the idea in the hexagram).
 
-<a name="fr_"></a>[XLIX](#fn_238). (The trigram representing the waters of) a marsh and that for fire in the midst of them form Ko. The superior man, in accordance with this, regulates his (astronomical) calculations, and makes clear the seasons and times.
+<a name="fr_238"></a>[XLIX](#fn_238). (The trigram representing the waters of) a marsh and that for fire in the midst of them form Ko. The superior man, in accordance with this, regulates his (astronomical) calculations, and makes clear the seasons and times.
 
 1. 'He is bound with (the skin of) a yellow ox:' -- he should in his circumstances be taking action.
 
@@ -350,7 +350,7 @@ indicates the grand accomplishment (of the idea in the hexagram).
 
 'Small men change their faces:' -- they show themselves prepared to follow their ruler.
 
-<a name="fr_"></a>[L](#fn_239). (The trigram representing) wood and above it that for fire form Ting. The superior man, in accordance with this, keeps his every position correct, and maintains secure the appointment (of Heaven).
+<a name="fr_239"></a>[L](#fn_239). (The trigram representing) wood and above it that for fire form Ting. The superior man, in accordance with this, keeps his every position correct, and maintains secure the appointment (of Heaven).
 
 1. 'The caldron is overturned, and its feet turned upwards:' -- but this is not (all) contrary (to what is right).
 
@@ -372,7 +372,7 @@ ears changed:' -- (its subject) has failed in what was required of him (in his s
 
 6. 'The rings of jade' are at the very top:--the strong and the weak meet in their due proportions.
 
-<a name="fr_"></a>[LI](#fn_240). (The trigram representing) thunder, being repeated, forms Kăn. The superior man, in accordance with this, is fearful and apprehensive, cultivates (his virtue), and examines (his faults).
+<a name="fr_240"></a>[LI](#fn_240). (The trigram representing) thunder, being repeated, forms Kăn. The superior man, in accordance with this, is fearful and apprehensive, cultivates (his virtue), and examines (his faults).
 
 1. 'When the (time of) movement comes, he will be found looking out with apprehension:' --  that feeling of dread leads to happiness.
 
@@ -394,7 +394,7 @@ ears changed:' -- (its subject) has failed in what was required of him (in his s
 
 'Though evil (threatens), he will not fall into error:' -- he is afraid of being warned by his neighbours.
 
-<a name="fr_"></a>[LII](#fn_241). (Two trigrams representing) a mountain, one over the other, form Kăn. The superior man, in
+<a name="fr_241"></a>[LII](#fn_241). (Two trigrams representing) a mountain, one over the other, form Kăn. The superior man, in
 
 ###### p. 332
 
@@ -414,7 +414,7 @@ accordance with this, does not go in his thoughts beyond the (duties of the) pos
 
 ###### p. 333
 
-<a name="fr_"></a>[LIII](#fn_242). (The trigram representing) a mountain and above it that for a tree form Kien. The superior man, in accordance with this, attains to and maintains his extraordinary virtue, and makes the manners of the people good.
+<a name="fr_242"></a>[LIII](#fn_242). (The trigram representing) a mountain and above it that for a tree form Kien. The superior man, in accordance with this, attains to and maintains his extraordinary virtue, and makes the manners of the people good.
 
 1. 'The danger of a small officer (as represented in the first line)' is owing to no fault of his in the matter of what is right.
 
@@ -434,7 +434,7 @@ accordance with this, does not go in his thoughts beyond the (duties of the) pos
 
 ###### p. 334
 
-<a name="fr_"></a>[LIV](#fn_243). (The trigram representing the waters of) a marsh and over it that for thunder form Kwei Mei. The superior man, in accordance with this, having regard to the far-distant end, knows the mischief (that may be done at the beginning).
+<a name="fr_243"></a>[LIV](#fn_243). (The trigram representing the waters of) a marsh and over it that for thunder form Kwei Mei. The superior man, in accordance with this, having regard to the far-distant end, knows the mischief (that may be done at the beginning).
 
 1. 'The younger sister is married off in a position ancillary to that of the real wife:' -- it is the constant practice (for such a case).
 
@@ -454,7 +454,7 @@ the line) has not changed from the constancy (proper to a wife).
 
 6. '(What is said in) the sixth SIX, (divided),about there being nothing in the basket' shows that the subject of it is carrying an empty basket.
 
-<a name="fr_"></a>[LV](#fn_244). (The trigrams representing) thunder and lightning combine to form Făng. The superior man, in accordance with this, decides cases of litigation, and apportions punishments with exactness.
+<a name="fr_244"></a>[LV](#fn_244). (The trigrams representing) thunder and lightning combine to form Făng. The superior man, in accordance with this, decides cases of litigation, and apportions punishments with exactness.
 
 1. 'Though they are both of the same character, there will be no error:' -- if the subject of this
 
@@ -482,7 +482,7 @@ line seek to overpass that similarity, there will be calamity.
 
 ###### p. 337
 
-<a name="fr_"></a>[LVI](#fn_245). (The trigram representing) a mountain and above it that for fire form Lü. The superior man, in accordance with this, exerts his wisdom and caution in the use of punishments and not allowing litigations to continue.
+<a name="fr_245"></a>[LVI](#fn_245). (The trigram representing) a mountain and above it that for fire form Lü. The superior man, in accordance with this, exerts his wisdom and caution in the use of punishments and not allowing litigations to continue.
 
 1. 'The stranger is mean and meanly occupied:' -- his aim is become of the lowest character, and calamity will ensue.
 
@@ -502,7 +502,7 @@ line seek to overpass that similarity, there will be calamity.
 
 'He loses his ox(-like docility) too readily and easily:' -- to the end he would not listen to (the truth about the course to be pursued).
 
-<a name="fr_"></a>[LVII](#fn_246). (Two trigrams representing) wind, following each other, form Sun. The superior man, in accordance with this, reiterates his orders, and secures the practice of his affairs.
+<a name="fr_246"></a>[LVII](#fn_246). (Two trigrams representing) wind, following each other, form Sun. The superior man, in accordance with this, reiterates his orders, and secures the practice of his affairs.
 
 1. '(Now) he advances, (now) he recedes:' -- his mind is perplexed.
 
@@ -526,7 +526,7 @@ firmness of a brave soldier:' -- his mind would in that case be well governed.
 
 ###### p. 340
 
-<a name="fr_"></a>[LVIII](#fn_247). (Two symbols representing) the waters of a marsh, one over the other, form Tui. The superior man, in accordance with this, (encourages) the conversation of friends and (the stimulus of) their (common) practice.
+<a name="fr_247"></a>[LVIII](#fn_247). (Two symbols representing) the waters of a marsh, one over the other, form Tui. The superior man, in accordance with this, (encourages) the conversation of friends and (the stimulus of) their (common) practice.
 
 1. 'The good fortune attached to the pleasure of (inward) harmony' arises from there being nothing in the conduct (of the subject of the line) to awaken doubt.
 
@@ -542,7 +542,7 @@ firmness of a brave soldier:' -- his mind would in that case be well governed.
 
 ###### p. 341
 
-<a name="fr_"></a>[LIX](#fn_248). (The trigram representing) water and that for wind moving above the water form Hwân. The ancient kings, in accordance with this, presented offerings to God and established the ancestral temple.
+<a name="fr_248"></a>[LIX](#fn_248). (The trigram representing) water and that for wind moving above the water form Hwân. The ancient kings, in accordance with this, presented offerings to God and established the ancestral temple.
 
 1. 'The good fortune attached to the first six, divided),'is due to the natural course (pursued by its subject).
 
@@ -558,7 +558,7 @@ firmness of a brave soldier:' -- his mind would in that case be well governed.
 
 ###### p. 342
 
-<a name="fr_"></a>[LX](#fn_249). (The trigram representing) a lake, and above it that for water, form Kieh. The superior man, in accordance with this, constructs his (methods of) numbering and measurement, and discusses (points of) virtue and conduct.
+<a name="fr_249"></a>[LX](#fn_249). (The trigram representing) a lake, and above it that for water, form Kieh. The superior man, in accordance with this, constructs his (methods of) numbering and measurement, and discusses (points of) virtue and conduct.
 
 1. 'He does not quit the courtyard outside his door:' -- he knows when he has free course and when he is obstructed.
 
@@ -576,7 +576,7 @@ occupying the place (of authority) and being in the centre.
 
 6. 'The regulations are severe and difficult. Even with firm correctness there will be evil:' -- the course (indicated by the hexagram) is come to an end.
 
-<a name="fr_"></a>[LXI](#fn_250). (The trigram representing the waters of) a marsh and that for wind above it form Kung Fû. The superior man, in accordance with this, deliberates about cases of litigation and delays (the infliction of) death.
+<a name="fr_250"></a>[LXI](#fn_250). (The trigram representing the waters of) a marsh and that for wind above it form Kung Fû. The superior man, in accordance with this, deliberates about cases of litigation and delays (the infliction of) death.
 
 1. 'The first NINE, (undivided), shows its subject resting (in himself). There will be good fortune:' -- no change has yet come over his purpose.
 
@@ -592,7 +592,7 @@ occupying the place (of authority) and being in the centre.
 
 6. 'Chanticleer (tries to) mount to heaven:' -- but how can (such an effort) continue long?
 
-<a name="fr_"></a>[LXII](#fn_251). (The trigram representing) a hill and that for thunder above it form Hsiâo Kwo. The superior man, in accordance with this, in his conduct exceeds in humility, in mourning exceeds in sorrow, and in his expenditure exceeds in economy.
+<a name="fr_251"></a>[LXII](#fn_251). (The trigram representing) a hill and that for thunder above it form Hsiâo Kwo. The superior man, in accordance with this, in his conduct exceeds in humility, in mourning exceeds in sorrow, and in his expenditure exceeds in economy.
 
 1. 'There is a bird flying (and ascending) till the result is evil:' -- nothing can be done to avoid this issue.
 
@@ -612,7 +612,7 @@ a minister should not overpass the distance (between his ruler and himself).
 
 6. 'He does not meet the exigency (of his situation), and exceeds (his proper course):' -- (the position indicates) the habit of domineering.
 
-<a name="fr_"></a>[LXIII](#fn_252). (The trigram representing) fire and that for water above it form Kî Žî. The superior
+<a name="fr_252"></a>[LXIII](#fn_252). (The trigram representing) fire and that for water above it form Kî Žî. The superior
 
 ###### p. 346
 
@@ -632,7 +632,7 @@ man, in accordance with this, thinks of evil (that may come), and beforehand gua
 
 6. 'His head is immersed; the position is perilous:' -- how could such a state continue long?
 
-<a name="fr_"></a>[LXIV](#fn_253). (The trigram representing) water and that for fire above it form Wei Žî. The superior man, in accordance with this, carefully discriminates among (the qualities of) things, and the (different) positions they (naturally) occupy.
+<a name="fr_253"></a>[LXIV](#fn_253). (The trigram representing) water and that for fire above it form Wei Žî. The superior man, in accordance with this, carefully discriminates among (the qualities of) things, and the (different) positions they (naturally) occupy.
 
 1. 'His tail gets immersed:' -- this is the very height of ignorance.
 
