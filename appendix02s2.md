@@ -1,6 +1,6 @@
 ### SECTION II
 
-<a name="fr_220"></a>[XXXI](#fn_220). (The trigram representing) a mountain and above it that for (the waters of) a marsh form Hsien. The superior man, in accordance with this, keeps his mind free from pre-occupation, and open to receive (the influences of) others.
+<a name="fr_220"></a>[XXXI](#fn_220). (The trigram **☶** representing) a mountain and above it **☱** that for (the waters of) a marsh form [**Xián ䷞**](e592b8xian.md). The superior man, in accordance with this, keeps his mind free from pre-occupation, and open to receive (the influences of) others.
 
 1. 'He moves his great toe:' -- his mind is set on what is beyond (himself).
 
@@ -20,7 +20,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 ###### p. 307
 
-<a name="fr_221"></a>[XXXII](#fn_221). (The trigram representing) thunder and that for wind form Hăng. The superior man, in accordance with this, stands firm, and does not change his method (of operation).
+<a name="fr_221"></a>[XXXII](#fn_221). (The trigram **☳** representing) thunder and **☴** that for wind form [**Héng ䷟**](e68192heng.md). The superior man, in accordance with this, stands firm, and does not change his method (of operation).
 
 1. 'The evil attached to the deep desire for long continuance (in the subject of the first line)' arises from the deep seeking for it at the commencement (of things).
 
@@ -30,13 +30,13 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 4. (Going) for long to what is not his proper place, how can he get game?
 
-5. 'Such firm correctness in a wife will be fortunate:' -- it is hers to the end of life to follow with an unchanged mind. The husband must decide what is right, and lay down the rule accordingly:--for him to follow (like) a wife is evil.
+5. 'Such firm correctness in a wife will be fortunate:' -- it is hers to the end of life to follow with an unchanged mind. The husband must decide what is right, and lay down the rule accordingly: -- for him to follow (like) a wife is evil.
 
 6. 'The subject of the topmost line is exciting himself to long continuance:' -- far will he be from achieving merit.
 
 ###### p. 308
 
-<a name="fr_222"></a>[XXXIII](#fn_222). (The trigram representing) the sky and below it that for a mountain form Thun. The superior man, in accordance with this, keeps small men at a distance, not by showing that he hates them, but by his own. dignified gravity.
+<a name="fr_222"></a>[XXXIII](#fn_222). (The trigram **☰** representing) the sky and below it **☶** that for a mountain form [**Dùn ䷠**](e981afdun.md). The superior man, in accordance with this, keeps small men at a distance, not by showing that he hates them, but by his own. dignified gravity.
 
 1. There is 'the perilousness of the position shown by the retiring tail:' -- but if 'no movement' be made, what disaster can there be?
 
@@ -52,7 +52,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 ###### p. 309
 
-<a name="fr_223"></a>[XXXIV](#fn_223). (The trigram representing) heaven and above it that for thunder form Tâ Kwang. The superior man, in accordance with this, does not take a step which is not according to propriety.
+<a name="fr_223"></a>[XXXIV](#fn_223). (The trigram **☰** representing) heaven and above it **☳** that for thunder form [**Dà Zhuàng ䷡**](e5a4a7e5a3aedazhuang.md). The superior man, in accordance with this, does not take a step which is not according to propriety.
 
 1. 'He manifests his vigour in his toes:' -- this will certainly lead to exhaustion.
 
