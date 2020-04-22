@@ -179,7 +179,7 @@ Fragrance like orchid plants diffuse.'
 
 45. 'A superior man toiling laboriously and yet humble! He will bring things to an end, and with good fortune.' The Master said on this: -- 'He toils with success, but does not boast of it; he achieves merit, but takes no virtue to himself from it; -- this is the height of generous goodness, and speaks of the man who with (great) merit yet places
 
-###### <sub>p. 363</sub>
+<a name="p-363"><sub>p. 363</sub></a>
 
 himself below others. He wishes his virtue to be more and more complete, and in his intercourse with others to be more and more respectful; -- he who is so humble, carrying his respectfulness to the utmost, will be able to preserve himself in his position.'
 
