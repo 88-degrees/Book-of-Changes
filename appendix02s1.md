@@ -578,7 +578,7 @@ Kû says that he does not understand what is said under line 6, -- that the occu
 
 <a name="fn_195"></a>[275:VI](#fr_195) The symbolism here is different from that in the Text of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). We have the visible sky ascending and water or rain descending, which indicate, one hardly sees how, opposition and contention. The lesson as to the course of the superior man is a good one, but might with equal propriety be deduced from many other hexagrams.
 
-Hsiang An-shih (Sòng dynasty) says that the first part of paragraph 2 is all to be taken as the language of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou), the characters being varied; the rest is the remark of the writer of this treatise.
+[Xiàng Ānshì](https://ctext.org/library.pl?if=en&res=865&by_author=項安世&remap=gb) (Sòng dynasty) says that the first part of paragraph 2 is all to be taken as the language of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou), the characters being varied; the rest is the remark of the writer of this treatise.
 
 It is observed that the returning to (the study of Heaven's) ordinances, and changing the wish to contend, in paragraph 4, are not two things, but only one; 'the ordinances (ming) meaning what is right in principle.' The wish to contend was wrong in principle, and is now abandoned.
 

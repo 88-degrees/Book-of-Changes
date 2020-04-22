@@ -37,7 +37,7 @@ Favoured as he is, however, according to the general idea of the hexagram,
 and specially responding to the proper correlate in 4, it is natural that he should make a movement; and great success will make his rashness be forgotten.
 
 With paragraph 2 compare paragraph 5 of the preceding hexagram. Line 2 is weak, but in the centre, and is the correlate of 5. Friends give its subject the valuable gifts mentioned;
-'that is,' says Kwo Yung (Sung dynasty), 'men benefit him; the oracles of the divination are in his favour, -- spirits, that is, benefit him; and finally, when the king sacrifices to God, He accepts. Heaven confers benefit from above.'
+'that is,' says [Guō Yōng](https://ctext.org/library.pl?if=en&author=郭雍&remap=gb) (Sòng dynasty), 'men benefit him; the oracles of the divination are in his favour, -- spirits, that is, benefit him; and finally, when the king sacrifices to God, He accepts. Heaven confers benefit from above.'
 
 Line 3 is weak, neither central, nor in its correct position. It would seem therefore that its subject should have no increase given to him.
 But it is the time for giving increase, and the idea of his receiving it by means of evil things is put into the line.
