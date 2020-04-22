@@ -30,7 +30,7 @@ Treatise on the Symbolism of the Hexagrams, and of the [duke of Zhou](https://en
 
 2. The movement indicated by the second six, (divided),is 'from the straight (line) to the square.' '(Its operation), without repeated effort, in every way advantageous,' shows the brilliant result of the way of earth.
 
-3. 'He keeps his excellence tinder restraint, but firmly maintains it:' -- at the proper time he will manifest it. 'He may have occasion to engage in the king's service:--great is the glory of his wisdom.
+3. 'He keeps his excellence tinder restraint, but firmly maintains it:' -- at the proper time he will manifest it. 'He may have occasion to engage in the king's service: -- great is the glory of his wisdom.
 
 ###### p. 269
 
@@ -186,9 +186,9 @@ husband who) cannot maintain correctly his relations with his wife.
 
 ###### p. 281
 
-6. 'There will be great good fortune,' and that in the occupancy of the topmost line:--this is great matter for congratulation.
+6. 'There will be great good fortune,' and that in the occupancy of the topmost line: -- this is great matter for congratulation.
 
-<a name="fr_200"></a>[XI](#fn_200). (The trigrams **☰** for) heaven and **☷** earth in communication together form [**Tài ䷊**](e6b3b0tai.md). The (sage) sovereign, in harmony with this, fashions and completes (his regulations) after the courses of heaven and earth, and assists the application of the adaptations furnished by them,--in order to benefit the people.
+<a name="fr_200"></a>[XI](#fn_200). (The trigrams **☰** for) heaven and **☷** earth in communication together form [**Tài ䷊**](e6b3b0tai.md). The (sage) sovereign, in harmony with this, fashions and completes (his regulations) after the courses of heaven and earth, and assists the application of the adaptations furnished by them, -- in order to benefit the people.
 
 1. 'The good fortune of advance, (as suggested by the emblem of) the grass pulled up,' arises from the will (of the party intended) being set on what is external to himself.
 
