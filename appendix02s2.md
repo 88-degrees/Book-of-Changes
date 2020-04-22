@@ -184,9 +184,9 @@ p. 318
 
 2. 'It will be advantageous for (the subject of) the second NINE, (undivided), to maintain his firm correctness:'--his central position gives its character to his aim.
 
-3. 'One man, walking,' (finds his friend):--when three are together, doubts rise among them.
+3. 'One man, walking,' (finds his friend): -- when three are together, doubts rise among them.
 
-4. 'He diminishes the ailment under which he labours:'--this is matter for joy.
+4. 'He diminishes the ailment under which he labours:' -- this is matter for joy.
 
 5. 'The great good fortune attached to the fifth six, (divided),' is due to the blessing from above.
 
