@@ -8,7 +8,7 @@
 
 **Dà Guò ䷛** suggests to us a beam that is weak. There will be advantage in moving (under its conditions) in any direction whatever; there will be success.
 
-1. The first SIX, divided, shows one placing mats of the white mâo grass under things set on the ground. There will be no error.
+1. The first SIX, divided, shows one placing mats of the white [*máo*](https://ctext.org/dictionary.pl?if=en&char=茅) grass under things set on the ground. There will be no error.
 
 2. The second NINE, undivided, shows a decayed
 
