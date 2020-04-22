@@ -68,7 +68,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 ###### p. 310
 
-<a name="fr_224"></a>[XXXV](#fn_224). (The trigram representing) the earth and that for the bright (sun) coming forth above it form Žin. The superior man, according to this, gives himself to make more brilliant his bright virtue.
+<a name="fr_224"></a>[XXXV](#fn_224). (The trigram **☷** representing) the earth and **☲** that for the bright (sun) coming forth above it form [**Jìn ䷢**](e6998bjin.md). The superior man, according to this, gives himself to make more brilliant his bright virtue.
 
 1. 'He appears wishing to advance, but (at the same time) being kept back:' -- all-alone he pursues the correct course. 'Let him maintain a large and generous mind, and there will be no error:' -- he has not yet received an official charge.
 
@@ -84,7 +84,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 ###### p. 311
 
-<a name="fr_225"></a>[XXXVI](#fn_225). (The trigram representing) the earth and that for the bright (sun) entering within it form Ming Î. The superior man, in accordance with this, conducts his management of men;--he shows his intelligence by keeping it obscured.
+<a name="fr_225"></a>[XXXVI](#fn_225). (The trigram **☷** representing) the earth and **☲** that for the bright (sun) entering within it form [**Míng Yí ䷣**](e6988ee5a4b7mingyi.md). The superior man, in accordance with this, conducts his management of men; -- he shows his intelligence by keeping it obscured.
 
 1. 'The superior man (is revolving his) going away:' -- (in such a case) he feels it right not to eat.
 
@@ -94,7 +94,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 4. 'He has (just) entered into the left side of the belly (of the dark land):' -- he is still able to carry out the idea in his (inner) mind.
 
-5. 'With the firm correctness of the count of Kî,' his brightness could not be (quite) extinguished.
+5. 'With the firm correctness of the count of [Qì](https://en.wiktionary.org/wiki/气),' his brightness could not be (quite) extinguished.
 
 6. 'He had at first ascended to (the top of) the sky:' -- he might have enlightened the four quarters
 
@@ -102,9 +102,9 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 of the kingdom. 'His future shall be to go into the earth:' -- he has failed to fulfil the model (of a ruler).
 
-<a name="fr_226"></a>[XXXVII](#fn_226). (The trigram representing) fire, and that for wind coming forth from it, form Kiâ Zăn. The superior man, in accordance with this, orders his words according to (the truth of) things, and his conduct so that it is uniformly consistent.
+<a name="fr_226"></a>[XXXVII](#fn_226). (The trigram **☲** representing) fire, and **☴** that for wind coming forth from it, form [**Jiā Rén ䷤**](e5aeb6e4babajiaren.md). The superior man, in accordance with this, orders his words according to (the truth of) things, and his conduct so that it is uniformly consistent.
 
-1. 'He establishes restrictive regulations in his household:--(he does so), before any change has taken place in their wills.
+1. 'He establishes restrictive regulations in his household: -- ( he does so), before any change has taken place in their wills.
 
 2. 'The good fortune attached to the second six, (divided),' is due to the docility (of its subject), operating with humility.
 
@@ -122,7 +122,7 @@ good fortune:' -- this is due to the docility (belonging to the subject of the l
 
 ###### p. 314
 
-<a name="fr_227"></a>[XXXVIII](#fn_227). (The trigram representing) fire above, and that for (the waters of) a marsh below, form Khwei. The superior man, in accordance with this, where there is a general agreement, yet admits diversity.
+<a name="fr_227"></a>[XXXVIII](#fn_227). (The trigram **☲** representing) fire above, and **☱** that for (the waters of) a marsh below, form [**Kuí ䷥**](e79dbdkui.md). The superior man, in accordance with this, where there is a general agreement, yet admits diversity.
 
 1. 'He meets with bad men (and communicates with them):' -- (he does so), to avoid the evil of their condemnation.
 
@@ -140,7 +140,7 @@ good fortune:' -- this is due to the docility (belonging to the subject of the l
 
 ###### p. 315
 
-<a name="fr_228"></a>[XXXIX](#fn_228). (The trigram representing) a mountain, and above it that for water, form Kien. The superior man, in accordance with this, turns round (and examines) himself, and cultivates his virtue.
+<a name="fr_228"></a>[XXXIX](#fn_228). (The trigram **☶** representing) a mountain, and above it **☵** that for water, form [**Jiǎn ䷦**](e8b987jian.md). The superior man, in accordance with this, turns round (and examines) himself, and cultivates his virtue.
 
 1. 'Advancing will conduct to (greater) difficulties, while remaining stationary will afford ground for praise:' -- the proper course is to wait.
 
