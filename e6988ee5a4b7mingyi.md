@@ -20,7 +20,7 @@ difficulty (of the position), and maintain firm correctness.
 
 4. The fourth six, divided, shows its subject (just) entered into the left side of the belly (of the dark land). (But) he is able to carry out the mind appropriate (in the condition indicated by) **Míng Yí ䷣**, quitting the gate and courtyard (of the lord of darkness).
 
-5. The fifth six, divided, shows how the count of Kî fulfilled the condition indicated by **Míng Yí ䷣**. It will be advantageous to be firm and correct.
+5. The fifth six, divided, shows how the count of [Qì](https://en.wiktionary.org/wiki/气) fulfilled the condition indicated by **Míng Yí ䷣**. It will be advantageous to be firm and correct.
 
 6. The sixth six, divided, shows the case where there is no light, but (only) obscurity. (Its subject) had at first ascended to (the top of) the sky; his future shall be to go into the earth.
 
