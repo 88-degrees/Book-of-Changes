@@ -179,7 +179,7 @@ Fragrance like orchid plants diffuse.'
 
 45. 'A superior man toiling laboriously and yet humble! He will bring things to an end, and with good fortune.' The Master said on this: -- 'He toils with success, but does not boast of it; he achieves merit, but takes no virtue to himself from it; -- this is the height of generous goodness, and speaks of the man who with (great) merit yet places
 
-<a name="p-363"><sub>p. 363</sub></a>
+###### p. 363
 
 himself below others. He wishes his virtue to be more and more complete, and in his intercourse with others to be more and more respectful; -- he who is so humble, carrying his respectfulness to the utmost, will be able to preserve himself in his position.'
 
@@ -201,13 +201,13 @@ Chapter <a name="fr_262"></a>[IX](#fn_262).
 
 50. The numbers belonging to heaven are five, and those belonging to earth are (also) five. The numbers of these two series correspond to each other (in their fixed positions), and each one has another that may be considered its mate. The heavenly numbers amount to 25, and the earthly to 30. The numbers of heaven and earth together amount to 55. It is by these that the changes and transformations are effected, and the spirit-like agencies kept in movement.
 
-51. The numbers of the Great Expansion, (multiplied together), make 50, of which (only) 49 are used (in divination). (The stalks representing these) are divided into two heaps to represent the two (emblematic lines, or heaven and earth). One is then taken (from the heap on the right), and placed (between the little finger of the left hand and the next), that there may thus be symbolised the three (powers of heaven, earth, and man). (The heaps on both sides) are manipulated by fours to represent the four seasons; and then the remainders are returned, and placed (between) the two middle fingers of the left hand, to represent the intercalary month. In five years there are two intercalations, and therefore there are two operations; and afterwards the whole process is repeated.
+51. The numbers of the [Great Expansion](https://ctext.org/dictionary.pl?if=en&id=46928), (multiplied together), make 50, of which (only) 49 are used (in divination). (The stalks representing these) are divided into two heaps to represent the two (emblematic lines, or heaven and earth). One is then taken (from the heap on the right), and placed (between the little finger of the left hand and the next), that there may thus be symbolised the three (powers of heaven, earth, and man). (The heaps on both sides) are manipulated by fours to represent the four seasons; and then the remainders are returned, and placed (between) the two middle fingers of the left hand, to represent the intercalary month. In five years there are two intercalations, and therefore there are two operations; and afterwards the whole process is repeated.
 
-52. The numbers (required) for [Qián(䷀)](e4b9beqian.md) (or the
+52. The numbers (required) for **Qián ☰** (or the
 
 ###### p. 366
 
-undivided line) amount to 216; those for [Kūn(䷁)](e59da4kun.md) (or the divided line), to 144. Together they are 36o, corresponding to the days of the year.
+undivided line) amount to 216; those for **Kūn ☷** (or the divided line), to 144. Together they are 360, corresponding to the days of the year. [<sub>Xì Cí, Chapter 1</sub>](https://ctext.org/dictionary.pl?if=en&id=46929)
 
 53. The number produced by the lines in the two parts (of the [**Yì**](https://en.wikipedia.org/wiki/I_Ching)) amount to 11,520, corresponding to the number of all things.
 
