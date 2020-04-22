@@ -1,13 +1,19 @@
 # Zhōng Fú ䷼
 
-Chinese: zhōng fú 中孚 ䷼
+> Chinese: 中孚 ䷼ zhōng fú
+
+###### p. 199
 
 ![Zhongfu](https://88o.io/wp-content/uploads/2018/09/61-e4b8ade5ad9azhongfu.jpg)
 
 **Zhōng Fú ䷼** (moves even) pigs and fish, and leads to good fortune.
-There will be advantage in crossing the great stream. There will be advantage in being firm and correct.
+There will be advantage in crossing
 
-I. The first NINE, undivided, shows its subject resting (in himself). There will be good fortune. If he sought to any other, he would not find rest.
+###### p. 200
+
+the great stream. There will be advantage in being firm and correct.
+
+1. The first NINE, undivided, shows its subject resting (in himself). There will be good fortune. If he sought to any other, he would not find rest.
 
 2. The second NINE, undivided, shows its subject (like) the crane crying out in her hidden retirement, and her young ones responding to her. (It is as if it were said), 'I have a cup of good spirits,' (and the response were), 'I will partake of it with you.'
 
