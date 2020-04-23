@@ -36,7 +36,7 @@ and taking the bird in a cave.
 ## Notes
 
 The name **Xiǎo Guò ䷽** is explained both by reference to the lines of the hexagram,
-and to the meaning of the characters. The explanation from the lines appears immediately on comparing them with those of Tâ Kwo, the 28th hexagram.
+and to the meaning of the characters. The explanation from the lines appears immediately on comparing them with those of [**Dà Guò ䷛**](e5a4a7e8bf87daguo.md), the 28th hexagram.
 There the first and sixth lines are divided, and between are four undivided lines;
 here the third and fourth lines are undivided, and outside each of them are two divided lines.
 The undivided or yang lines are great, the divided or yin lines are called small.
