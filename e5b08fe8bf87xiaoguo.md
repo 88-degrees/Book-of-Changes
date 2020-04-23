@@ -70,7 +70,7 @@ Line 5, though in the ruler's seat, is weak, and incapable of doing anything gre
 and the one whom in the concluding sentence he is said to capture is supposed to be the subject of 2.
 
 The first part of the symbolism is the same as that of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) under hexagram 9, q.v. I said there that it probably gave a testimony of the merit of the house of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty),
-as deserving the throne rather than the kings of Shang. That was because the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) contained the sentiments of Wăn, while he was yet only lord of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty).
+as deserving the throne rather than the kings of [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty). That was because the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) contained the sentiments of Wăn, while he was yet only lord of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty).
 But the symbolism here was the work of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou), after his brother [king Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou) had obtained the throne.
 How did the symbolism then occur to him? May we not conclude that at least the [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols) of this hexagram was written during the troubled period of his regency,
 after the accession of Wû's son, king Khăng?

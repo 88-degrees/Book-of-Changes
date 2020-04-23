@@ -26,13 +26,13 @@ in which case with firm correctness there will be good fortune. (But) if he move
 ## Notes
 
 The single, divided, line at the top of **Gòu ䷫**, the hexagram of the third month, has been displaced, and Khien has ruled over the fourth month of the year.
-But the innings of the divided line commence again; and here we have in [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty) the hexagram of the fifth month, when light and heat are supposed both to begin to be less.
+But the innings of the divided line commence again; and here we have in **Gòu ䷫** the hexagram of the fifth month, when light and heat are supposed both to begin to be less.
 
 In that divided line Wăn saw the symbol of the small or unworthy man, beginning to insinuate himself into the government of the country.
 His influence, if unchecked, would go on to grow, and he would displace one good man after another, and fill the vacant seats with others like-minded with himself.
 The object of Wăn in his [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), therefore, was to enjoin resistance to the encroachment of this bad man.
 
-Kâu is defined as giving the idea of suddenly and casually encountering or meeting with. So does the divided line appear all at once in the figure.
+**Gòu ䷫** is defined as giving the idea of suddenly and casually encountering or meeting with. So does the divided line appear all at once in the figure.
 And this significance of the name rules in the interpretation of the lines, so as to set on one side the more common interpretation of them according to the correlation;
 showing how the meaning of the figures was put into them from the minds of Wăn and Tan in the first place. The sentiments of the Text are not learned from them; but they are forced and twisted, often fantastically, and made to appear to give those sentiments forth of themselves.
 
