@@ -44,7 +44,7 @@ But it is the time for giving increase, and the idea of his receiving it by mean
 That such things serve for reproof and correction is well known to Chinese moralists. But the paragraph goes on also to caution and admonish.
 
 Line 4 is the place for a minister, near to that of the ruler. Its subject is weak, but his place is appropriate, and as he follows the [p. 152](e5a4acguai.md#p-152) due course, his ruler will listen to him,
-and he will be a support in the most critical movements. Changing the capital from place to place was frequent in the feudal times of China. That of Shang, which preceded Kâu, was changed five times.
+and he will be a support in the most critical movements. Changing the capital from place to place was frequent in the feudal times of China. That of Shang, which preceded [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty), was changed five times.
 
 Line 5 is strong, in its fitting position, and central. It is the seat of the ruler, who has his proper correlate in 2. Everything good, according to the conditions of the hexagram, therefore, may be said of him; -- as is done.
 
