@@ -846,7 +846,7 @@ Paragraph 1 is the same as 2 in Appendix I.
 
 Paragraph 4. Compare paragraph 4 of hexagram 21, Appendix II.
 
-<a name="fn_241"></a>[332:LII](#fr_241) According to the view of the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, the application should be translated:--'The superior man, in accordance with this, thinks anxiously how he shall not go beyond the duties of his position.' It is difficult to decide between this shade of the meaning, and the more common one which I have followed.
+<a name="fn_241"></a>[332:LII](#fr_241) According to the view of the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, the application should be translated: -- 'The superior man, in accordance with this, thinks anxiously how he shall not go beyond the duties of his position.' It is difficult to decide between this shade of the meaning, and the more common one which I have followed.
 
 The toes play a great part in walking; but they are here kept at rest, and so do not lose the correct idea of Kăn.
 
