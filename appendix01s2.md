@@ -484,7 +484,7 @@ With paragraph 3, compare the concluding paragraphs of the [Tuàn Zhuàn](https:
 
 1. One sees the relative position of the strong and weak lines in the figure; but to deduce from that the idea expressed by **Kūn ☷** requires a painful straining of the imagination. That idea was in the mind, and then the lines were interpreted accordingly.
 
-2. 'Perilousness' is the attribute of the lower trigram, and 'satisfaction' that of the upper. The superior man, however straitened, [p. 253](#p-253) remains master of himself, and pursues the proper end of principle settled in his mind.
+2. 'Perilousness' is the attribute of the lower trigram, and 'satisfaction' that of the upper. The superior man, however straitened, [<sub>p. 253</sub>](#p-253) remains master of himself, and pursues the proper end of principle settled in his mind.
 
 Why should the subject of **Kūn ☷** make speeches, be fond of arguing or pleading, -- as the characters say, if we could translate them literally, 'setting a value on the mouth?' The reply to this is found in the trigram denoting 'satisfaction,' or 'being pleased.' The party in the extremity of **Kūn ☷** yet wishes and tries to make men pleased with him.
 

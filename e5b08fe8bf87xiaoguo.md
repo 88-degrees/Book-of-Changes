@@ -73,7 +73,7 @@ The first part of the symbolism is the same as that of the [**Tuàn**](https://e
 as deserving the throne rather than the kings of [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty). That was because the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) contained the sentiments of Wăn, while he was yet only lord of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty).
 But the symbolism here was the work of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou), after his brother [king Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou) had obtained the throne.
 How did the symbolism then occur to him? May we not conclude that at least the [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols) of this hexagram was written during the troubled period of his regency,
-after the accession of Wû's son, king Khăng?
+after the accession of [Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou)'s son, king [Kāng](https://en.wikipedia.org/wiki/King_Kang_of_Zhou)?
 
 The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors find in the concluding symbolism an incentive to humility: -- 'The duke, leaving birds on the wing,
 is content to use his arrows against those in a cave!'
