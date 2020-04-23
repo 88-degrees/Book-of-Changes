@@ -488,7 +488,7 @@ With paragraph 3, compare the concluding paragraphs of the [Tuàn Zhuàn](https:
 
 Why should the subject of **Kūn ☷** make speeches, be fond of arguing or pleading, -- as the characters say, if we could translate them literally, 'setting a value on the mouth?' The reply to this is found in the trigram denoting 'satisfaction,' or 'being pleased.' The party in the extremity of **Kūn ☷** yet wishes and tries to make men pleased with him.
 
-<a name="fn_172"></a>[253:XLVIII](#fr_172) Kăng Khang-Khăng says: -- '**Kǎn ☵**, the upper trigram, represents water, and **Xùn ☴**, the lower, wood. This wood denotes the water-wheel or pulley with its bucket, which descends into the mouth of the spring, and brings the water up to the top.' This may be a correct explanation of the figure, though the reading of it from bottom to top seems at first to be strange.
+<a name="fn_172"></a>[253:XLVIII](#fr_172) [Zhèng Kāngchéng](https://en.wikipedia.org/wiki/Zheng_Xuan) (郑玄) says: -- '**Kǎn ☵**, the upper trigram, represents water, and **Xùn ☴**, the lower, wood. This wood denotes the water-wheel or pulley with its bucket, which descends into the mouth of the spring, and brings the water up to the top.' This may be a correct explanation of the figure, though the reading of it from bottom to top seems at first to be strange.
 
 Paragraph 2. That the fashion of the well does not undergo any (great) change is dwelt upon as illustrating the unchangeableness of the great principles of human nature and of government. But that this truth may be learned from the strong and central lines only produces a smile. So do the remarks on the other two sentences of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16).
 
