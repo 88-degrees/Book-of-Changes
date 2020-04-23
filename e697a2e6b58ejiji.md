@@ -16,7 +16,7 @@ and correct. There has been good fortune in the beginning; there may be disorder
 
 2. The second SIX, divided, (shows its subject as) a wife who has lost her (carriage-)screen. There is no occasion to go in pursuit of it. In seven days she will find it.
 
-3. The third NINE, undivided, (suggests the case of) [Gāo Zōng](https://zh.wikipedia.org/zh-cn/高宗), who attacked the Demon region, but was three years in subduing it. Small men should not be employed (in such enterprises).
+3. The third NINE, undivided, (suggests the case of) [Gāo Zōng](https://zh.wikipedia.org/zh-cn/高宗), who attacked the [Demon region](https://en.wikipedia.org/wiki/Guifang), but was three years in subduing it. Small men should not be employed (in such enterprises).
 
 ###### p. 206
 

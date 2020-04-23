@@ -690,7 +690,7 @@ In paragraph 3 nothing is added to the Text; and on the symbolism nothing is sai
 
 Paragraph 5. 'He is not in his appropriate place:' this is said simply because an odd place ought to be filled by a strong line.
 
-<a name="fn_224"></a>[310:XXXV](#fr_224) The sun rising above the earth, and then travelling up to his meridian height, readily suggests the idea of advancing. On p. 311 the application of this symbolism, [Hú Bǐng-wén](http://bec001.web3.ncku.edu.tw/var/file/142/1142/img/2248/5802.pdf) (Yuán dynasty) says:--'Of strong things there is none so strong as heaven; and hence the superior man after its pattern makes himself strong; of bright things there is none so bright as the sun, and after its pattern he makes himself bright.'
+<a name="fn_224"></a>[310:XXXV](#fr_224) The sun rising above the earth, and then travelling up to his meridian height, readily suggests the idea of advancing. On p. 311 the application of this symbolism, [Hú Bǐng-wén](http://bec001.web3.ncku.edu.tw/var/file/142/1142/img/2248/5802.pdf) (Yuán dynasty) says: -- 'Of strong things there is none so strong as heaven; and hence the superior man after its pattern makes himself strong; of bright things there is none so bright as the sun, and after its pattern he makes himself bright.'
 
 If the subject of line 1 had received an official charge, then when unrecognised by his sovereign, and obstructed in his progress, his correct course would have been to cease to advance, and retire from the office in which he was not allowed to carry out his principles.
 
@@ -700,7 +700,7 @@ There is nothing said on line 2 to explain particularly the symbolism of 'the gr
 
 <a name="fn_225"></a>[312:XXXVI](#fr_225) The application of the Great Symbolism here is in itself sufficiently natural; but this meaning of the hexagram hardly appears in the text, till we come to the sixth line.
 
-Paragraph 1. 'He thinks it right not to eat;'--he does not purposely fast; but when he has nothing to eat, he does not complain. He thinks it right that it should be so in the case.
+Paragraph 1. 'He thinks it right not to eat;' -- he does not purposely fast; but when he has nothing to eat, he does not complain. He thinks it right that it should be so in the case.
 
 Paragraph 2. 'The proper fashion of acting' is suggested by the weak line's being in the central place.
 
@@ -724,11 +724,11 @@ Paragraph 6. It is said on this, that the majesty is not designedly assumed or p
 
 The various paragraphs seem to need no illustration beyond what may be found in the notes on the Text.
 
-<a name="fn_228"></a>[315:XXXIX](#fr_228) The Symbolism is described here a little differently from the form of it in Appendix I. [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) brings the same meaning out of it, however, in the following way:--'We have here a steep and difficult mountain, and again on the top of that there p. 316 is water; each of the two trigrams is an emblem of perilousness. There is peril, both above and below, in the figure; and hence it represents the difficulties of the state.' The application of the symbolism is illustrated by the words of Mencius, 'When we do not, by what we do, realise (what we desire), we must turn inwards and examine ourselves in every point.'
+<a name="fn_228"></a>[315:XXXIX](#fr_228) The Symbolism is described here a little differently from the form of it in Appendix I. [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) brings the same meaning out of it, however, in the following way:--'We have here a steep and difficult mountain, and again on the top of that there [<sub>p. 316</sub>](#p-316) is water; each of the two trigrams is an emblem of perilousness. There is peril, both above and below, in the figure; and hence it represents the difficulties of the state.' The application of the symbolism is illustrated by the words of Mencius, 'When we do not, by what we do, realise (what we desire), we must turn inwards and examine ourselves in every point.'
 
 From the lesson in paragraph 2 we saw that the moral value of conduct is independent of failure or success. It is said, 'Though the difficulties be too great for him to overcome, the sage accepts his desire, in order to stimulate others to loyal devotedness.'
 
-On paragraph 3, [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda) says:--'Of the three lines of the lower trigram only the third is yang, above the two others which are of the yin nature. They cling to it, and are represented as if rejoicing in it.
+On paragraph 3, [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda) says: -- 'Of the three lines of the lower trigram only the third is yang, above the two others which are of the yin nature. They cling to it, and are represented as if rejoicing in it.
 
 The view given of paragraph 4 is that of the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors.
 
@@ -744,7 +744,7 @@ On paragraph 4 the same editors say:--'The subject of this line is not in the ce
 
 What paragraph 5 says, that 'the small men retire,' means that believing in the sincerity of the ruler's determination to remove all evil men, they retire of themselves, or strive to conform to his wishes.
 
-<a name="fn_230"></a>[318:XLI](#fr_230) 'The waters of a marsh are continually rising up in vapour to bedew the hill above it, and thus increase its verdure; what is taken from the marsh gives increase to the hill.' This is very far-fetched. In the application again the superior man acts only on himself, and for himself;--which has nothing to do with those of low degree giving to those above them. This application, however, agrees with what, as we have seen on the Text, was [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text))'s view of the meaning of the hexagram.
+<a name="fn_230"></a>[318:XLI](#fr_230) 'The waters of a marsh are continually rising up in vapour to bedew the hill above it, and thus increase its verdure; what is taken from the marsh gives increase to the hill.' This is very far-fetched. In the application again the superior man acts only on himself, and for himself; -- which has nothing to do with those of low degree giving to those above them. This application, however, agrees with what, as we have seen on the Text, was [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text))'s view of the meaning of the hexagram.
 
 The explanation appended to paragraph 1 seems to be to account for the subject of line 1 hurrying away to the help of line 4.
 
@@ -822,11 +822,11 @@ The difficulties attending the symbolism of the Text of lines 4, 5, and 6 are no
 
 <a name="fn_237"></a>[328:XLVIII](#fr_237) The Great Symbolism here may well enough represent a well, it being understood that the water which is above the wood is that raised by it for irrigation and other uses. What is said, moreover, in the application is more akin to the idea of the hexagram than in most of the other cases. It is certainly one way in which the ruler should nourish the people.
 
-Ii is said on paragraph 1:--'Those who have a mind to do something in the world, when they look at this line, and its symbolism, will learn how they ought to exert themselves.'
+Ii is said on paragraph 1: -- 'Those who have a mind to do something in the world, when they look at this line, and its symbolism, will learn how they ought to exert themselves.'
 
-Rather in opposition to what I have said on the Text of line 4, the 'Daily Lecture' observes here:--'The cultivation of one's self, which is represented here, is fundamental to the government of others.'
+Rather in opposition to what I have said on the Text of line 4, the 'Daily Lecture' observes here: -- 'The cultivation of one's self, which is represented here, is fundamental to the government of others.'
 
-<a name="fn_238"></a>[329:XLIX](#fr_238) Wise men, occupying themselves with the determination of the seasons and questions of time, have in all ages based their judgments on the observation of the heavenly bodies. We find this insisted on in the first book of the Shû, by the ancient Yâo. But how this application of the Great Symbolism really flows from it, I must confess myself unable to discover. Once, however, when I was conversing about the Yî with a high Chinese dignitary, who was a well-read scholar also so far as his own literature was concerned, he referred to this paragraph as proving that all our western science had been known to [Fú-xī](https://en.wikipedia.org/wiki/Fuxi) and Confucius!
+<a name="fn_238"></a>[329:XLIX](#fr_238) Wise men, occupying themselves with the determination of the seasons and questions of time, have in all ages based their judgments on the observation of the heavenly bodies. We find this insisted on in the first book of the [Shū](https://ctext.org/shang-shu), by the ancient [Yáo](https://en.wikipedia.org/wiki/Emperor_Yao). But how this application of the Great Symbolism really flows from it, I must confess myself unable to discover. Once, however, when I was conversing about the [**Yì**](https://en.wikipedia.org/wiki/I_Ching) with a high Chinese dignitary, who was a well-read scholar also so far as his own literature was concerned, he referred to this paragraph as proving that all our western science had been known to [Fú-xī](https://en.wikipedia.org/wiki/Fuxi) and Confucius!
 
 What is said on the several lines is sufficiently illustrated in the notes on the Text.
 
@@ -834,7 +834,7 @@ What is said on the several lines is sufficiently illustrated in the notes on th
 
 The same remark may be made on the explanation of the Text of the first line. I can myself do little more than guess at its meaning. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe that nothing is said about the case of the 'concubine' in the Text; but that it is covered by the following the more noble,' 'so condensed and complete are the words of the sage!'
 
-The same editors find a pregnant sense in the conclusion of paragraph 2:--'There will be no fault in me to which my enemy can point, and his disposition to find fault will be diminished.'
+The same editors find a pregnant sense in the conclusion of paragraph 2: -- 'There will be no fault in me to which my enemy can point, and his disposition to find fault will be diminished.'
 
 'What was required of the caldron in the third line was that that line and line 5, instead of 6, should be correlates;' but there is little meaning in such a statement.
 
@@ -970,8 +970,8 @@ The notes on the different lines present nothing that has not been dealt with in
 
 [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) and others suspect an error in the text of paragraph 1; yet a tolerable meaning comes from it as it stands.
 
-The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe on paragraph 2 that an undivided line in the second place, and a divided line in the fifth place, are both incorrect, and yet it is often said of them that with firm correctness in their subjects there will be good fortune;--such is the virtue of the central position. This principle is at last clearly enunciated in this paragraph.
+The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe on paragraph 2 that an undivided line in the second place, and a divided line in the fifth place, are both incorrect, and yet it is often said of them that with firm correctness in their subjects there will be good fortune; -- such is the virtue of the central position. This principle is at last clearly enunciated in this paragraph.
 
-[Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says:--'The subject of line 4 has the ability which the time requires, and possesses also a firm solidity. He can carry out therefore his purpose. There will be good fortune, and all cause for repentance will disappear. The smiting of the demon region was the highest example of firm correctness.'
+[Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says:--'The subject of line 4 has the ability which the time requires, and possesses also a firm solidity. He can carry out therefore his purpose. There will be good fortune, and all cause for repentance will disappear. The smiting of the [demon region](https://en.wikipedia.org/wiki/Guifang) was the highest example of firm correctness.'
 
 Both the symbols in paragraph 6 indicate a want of caution, and an unwillingness to submit one's impulses to the regulation of reason and prudence.
