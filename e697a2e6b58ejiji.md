@@ -16,7 +16,7 @@ and correct. There has been good fortune in the beginning; there may be disorder
 
 2. The second SIX, divided, (shows its subject as) a wife who has lost her (carriage-)screen. There is no occasion to go in pursuit of it. In seven days she will find it.
 
-3. The third NINE, undivided, (suggests the case of) Kâo Žung, who attacked the Demon region, but was three years in subduing it. Small men should not be employed (in such enterprises).
+3. The third NINE, undivided, (suggests the case of) [Gāo Zōng](https://zh.wikipedia.org/zh-cn/高宗), who attacked the Demon region, but was three years in subduing it. Small men should not be employed (in such enterprises).
 
 ###### p. 206
 
@@ -37,7 +37,7 @@ and ever keeping in mind the instability of all human affairs. That every line o
 
 Line 1, the first of the hexagram, represents the time immediately after the successful achievement of the enterprise it denotes; -- the time for resting and being quiet. For a season, at least, all movement should be hushed. Hence we have the symbolism of a driver trying to stop his carriage, and a fox who has wet his tail, and will not tempt the stream again.
 
-Line 2 is weak, and in its proper place. It also has the strong correlate 5; and might be expected to be forward to act. But it occupies its correct and central place, and suggests the symbol of a lady whose carriage has lost its screen. She will not advance [<sub>p. 207</sub>](e69caae6b58eweiji.md#p-207) further so soon after success has been achieved; but keep herself hidden and retired. Let her not try to find the screen. When it is said that she will find this 'after seven days,' the meaning seems to be simply this, that the period of Kî Žî will then have been exhausted, the six lines having been gone through, and a new period, when action will be proper, shall have commenced.
+Line 2 is weak, and in its proper place. It also has the strong correlate 5; and might be expected to be forward to act. But it occupies its correct and central place, and suggests the symbol of a lady whose carriage has lost its screen. She will not advance [<sub>p. 207</sub>](e69caae6b58eweiji.md#p-207) further so soon after success has been achieved; but keep herself hidden and retired. Let her not try to find the screen. When it is said that she will find this 'after seven days,' the meaning seems to be simply this, that the period of **Jì Jì ䷾** will then have been exhausted, the six lines having been gone through, and a new period, when action will be proper, shall have commenced.
 
 The strong line 3, at the top of the lower trigram, suggests for its subject one undertaking a vigorous enterprise. The writer thinks of [Gāo Zōng](https://zh.wikipedia.org/zh-cn/高宗), the sacrificial title of [Wǔ Dīng](https://en.wikipedia.org/wiki/Wu_Ding), one of the ablest sovereigns of the [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty) dynasty (B. C. 1364 - 1324), who undertook an expedition against the barbarous hordes of the cold and bleak regions north of the Middle States. He is mentioned again under the next hexagram. He appears also in the [Shû, IV, ix](https://www.sacred-texts.com/cfu/sbe03/sbe03012.htm), and in the [Shih, IV, iii, ode 5](https://www.sacred-texts.com/cfu/sbe03/sbe03107.htm). His enterprise may have been good, and successful, but it was tedious, and the paragraph concludes with a caution.
 
