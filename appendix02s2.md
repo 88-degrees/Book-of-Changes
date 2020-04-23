@@ -734,7 +734,7 @@ The view given of paragraph 4 is that of the [**Kāngxī**](https://en.wikipedia
 
 'The friends' in paragraph 5 are the subjects of the second line, the correlate of 5, and also of the two other lines of the lower trigram.
 
-Sû Shih (A. D. 1036-1101) remarks on paragraph 6 that by 'the inside,' and 'the noble,' we are to understand the subject of line 5.
+[Sū Shì](https://en.wikipedia.org/wiki/Su_Shi) (A. D. 1036-1101) remarks on paragraph 6 that by 'the inside,' and 'the noble,' we are to understand the subject of line 5.
 
 <a name="fn_229"></a>[317:XL](#fr_229) It is a common saying that thunder and rain clear the atmosphere, and a feeling of oppression is relieved. The last paragraph of [Appendix I](appendix01s1.md#fn_154), however, leads us to understand the Symbolism of the phenomena of spring. The application seems to refer to the gentle policy of a conqueror forward to forgive the opposition of those who offer no more resistance.
 
@@ -752,7 +752,7 @@ The explanation appended to paragraph 1 seems to be to account for the subject o
 
 The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe that paragraph 3 is true indeed of three men; and not of three men only, but of many repetitions of thought or action.
 
-The same editors say on paragraph 5 that 'the blessing from above is explained, by many, of the oracles obtained through divining with the tortoise-shell; but that looking at the text on line 2 of the next hexagram, and that Tî (spoken of there) is the lord of all spirits, the term "above" here is most naturally explained of Heaven's mind, whose acceptance cannot be gainsaid by men or spirits.'
+The same editors say on paragraph 5 that 'the blessing from above is explained, by many, of the oracles obtained through divining with the tortoise-shell; but that looking at the text on line 2 of the next hexagram, and that [Dì](https://ctext.org/dictionary.pl?if=en&char=帝) (spoken of there) is the lord of all spirits, the term "above" here is most naturally explained of Heaven's mind, whose acceptance cannot be gainsaid by men or spirits.'
 
 [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says on paragraph 6, though I do not see the relevancy [<sub>p. 319</sub>](#p-319) of his remarks: -- 'Dwelling on high, and taking nothing from those below him, but on the contrary giving more to them, the superior man accomplishes his aim on a grand scale. The aim of the superior man is simply to be increasing what others have; -- that and nothing else.'
 
@@ -782,11 +782,11 @@ Paragraph 1. My supplement, 'This describes the arrest of,' is a conclusion from
 
 In the 'Daily Lecture' it is said that the lesson of paragraph 2 is that 'the subject of the line should make the repression of 1 his own exclusive work, and not allow it to pass on to the subject of any of the other lines.' That view is rather different from the one indicated in my supplement.
 
-'His steps have not been drawn into the course of the first p. 323 line:' -- we have to supply, land therefore there will be no great error.'
+'His steps have not been drawn into the course of the first [<sub>p. 323</sub>](#p-323) line:' -- we have to supply, land therefore there will be no great error.'
 
 Paragraph 4. See what is said on the Text. But that the subject of the line stands alone is owing, it is here implied, to his own impatience. If he could exercise forbearance, he would find a proper opportunity to check the advance of the subject of line 1.
 
-The subject of line 5, while mindful of his task in the hexagram,--to repress the advance symbolised by 1,--yet keeps his wise plans concealed till the period of carrying them into execution, determined by the ordinances of Heaven, has arrived. Then comes the successful stroke of his policy as if it were directly from Heaven. The subject of line 6 really accomplishes nothing to repress the advance of the unworthy; but he keeps himself from evil communication with them. He is not to be charged with blameable error, though more and better might have been expected of him.
+The subject of line 5, while mindful of his task in the hexagram, -- to repress the advance symbolised by 1, -- yet keeps his wise plans concealed till the period of carrying them into execution, determined by the ordinances of Heaven, has arrived. Then comes the successful stroke of his policy as if it were directly from Heaven. The subject of line 6 really accomplishes nothing to repress the advance of the unworthy; but he keeps himself from evil communication with them. He is not to be charged with blameable error, though more and better might have been expected of him.
 
 <a name="fn_234"></a>[324:XLV](#fr_234) What has this Great Symbolism to do with the idea and preservation of union? The question is answered in this way: -- A marsh whose waters are high up above the earth must be kept in by banks and dykes, to keep them together, to preserve them from being dispersed. So the union of a people must be preserved by precautions against what would disturb and destroy it. Of such precautions the chief is to be prepared to resist attack from without, and to put down internal sedition.
 
