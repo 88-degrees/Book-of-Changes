@@ -790,15 +790,15 @@ The subject of line 5, while mindful of his task in the hexagram, -- to repress 
 
 <a name="fn_234"></a>[324:XLV](#fr_234) What has this Great Symbolism to do with the idea and preservation of union? The question is answered in this way: -- A marsh whose waters are high up above the earth must be kept in by banks and dykes, to keep them together, to preserve them from being dispersed. So the union of a people must be preserved by precautions against what would disturb and destroy it. Of such precautions the chief is to be prepared to resist attack from without, and to put down internal sedition.
 
-Paragraph 3. The topmost line is the last in Tui, whose attribute is complacent satisfaction, appearing in flexibility or docility.
+Paragraph 3. The topmost line is the last in **Duì ☱**, whose attribute is complacent satisfaction, appearing in flexibility or docility.
 
 Paragraph 5. 'His mind and aim have not yet been brilliantly displayed:' -- this is in explanation of the case that some may even still not have confidence in him.
 
 Paragraph 6. The topmost position is that of the trigram; the subject of the line might bid farewell to all the work of the hexagram; but he cannot bear to do so.
 
-<a name="fn_235"></a>[325:XLVI](#fr_235) See what has been said on the Great Symbolism in Appendix I. The application which is made of it here may be accepted, though it has nothing to do with the teaching of the Text about the gradual rise of a good officer to high social distinction and influence.
+<a name="fn_235"></a>[325:XLVI](#fr_235) See what has been said on the Great Symbolism in [Appendix I](appendix01s1.md). The application which is made of it here may be accepted, though it has nothing to do with the teaching of the Text about the gradual rise of a good officer to high social distinction and influence.
 
-Paragraph x. Instead of finding in this the three lines of Khwăn and their subjects, [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) makes 'the upper' denote only line 2.
+Paragraph 1. Instead of finding in this the three lines of **Kūn ☷** and their subjects, [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) makes 'the upper' denote only line 2.
 
 Paragraph 2. The subject of line 2 in his loyal devotion to 5 will do much good and benefit many; hence we have the words, affords occasion for joy.'
 
@@ -808,7 +808,7 @@ Paragraph 4. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary)
 
 Paragraph 6. When one has reached the greatest height, he should think of retiring. Ambition otherwise may overleap itself.
 
-<a name="fn_236"></a>[326:XLVII](#fr_236) The first sentence of the Great Symbolism is constructed differently from any which has presented itself in the previous 46 hexagrams. Literally translated, it would be 'a marsh with no water is Khwăn;' and this might certainly suggest to us a condition of distress. But how does this come out of the trigrams? The upper one is Tui, representing a marsh; and the lower is Khân, representing water in a defile. The collocation of the two suggests the running of the water from the marsh or lake into the stream, which will soon empty the other. Such is the view which occurred to myself; and it is the same as that given by [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi):--'The water descending and leaking away, the marsh above will become dry.' The application is good in itself, but the concatenation between it and the Symbolism is hardly discernible.
+<a name="fn_236"></a>[326:XLVII](#fr_236) The first sentence of the Great Symbolism is constructed differently from any which has presented itself in the previous 46 hexagrams. Literally translated, it would be 'a marsh with no water is **Kūn ☷**'; and this might certainly suggest to us a condition of distress. But how does this come out of the trigrams? The upper one is **Duì ☱**, representing a marsh; and the lower is **Kǎn ☵**, representing water in a defile. The collocation of the two suggests the running of the water from the marsh or lake into the stream, which will soon empty the other. Such is the view which occurred to myself; and it is the same as that given by [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi): -- 'The water descending and leaking away, the marsh above will become dry.' The application is good in itself, but the concatenation between it and the Symbolism is hardly discernible.
 
 ###### p. 327
 
