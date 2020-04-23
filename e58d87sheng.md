@@ -12,7 +12,7 @@ Chinese: shēng 升 ䷭
 
 3. The third NINE, undivided, shows its subject ascending upwards (as into) an empty city.
 
-4. The fourth SIX, divided, shows its subject employed by the king to present his offerings on mount Khî. There will be good fortune; there will be no mistake.
+4. The fourth SIX, divided, shows its subject employed by the king to present his offerings on [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County). There will be good fortune; there will be no mistake.
 
 5. The fifth six, divided, shows its subject firmly correct, and therefore enjoying good fortune. He ascends the stairs (with all due ceremony).
 
@@ -30,7 +30,7 @@ See on the second line of [**Cuì ䷬**](e89083cui.md). Line 2 is strong, and th
 
 Paragraph 3 describes the boldness and fearlessness of the advance of the third line. According to the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, who, I think, are right, there is a shade of condemnation in the line. Its subject is too bold.
 
-Line 4 occupies the place of a great minister, in immediate contiguity to his ruler, who confides in him, and raises him to the highest distinction as a feudal prince. The mention of mount Khî, at the foot of which was the capital of the lords of Kâu, seems to take the paragraph out of the sphere of symbolism into that of history. 'The king' in it is the last sovereign of Shang; the feudal prince in it is Wăn.
+Line 4 occupies the place of a great minister, in immediate contiguity to his ruler, who confides in him, and raises him to the highest distinction as a feudal prince. The mention of [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County), at the foot of which was the capital of the lords of Kâu, seems to take the paragraph out of the sphere of symbolism into that of history. 'The king' in it is the last sovereign of Shang; the feudal prince in it is Wăn.
 
 In line 5 the advance has reached the highest point of dignity, and firm correctness is specially called for. 'Ascending the steps of a stair' may intimate, as [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says, the ease of the advance; or according to others (the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors among them), its ceremonious manner.
 

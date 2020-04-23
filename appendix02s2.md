@@ -276,7 +276,7 @@ describes the arrest of) the weak (line) in its advancing course.
 
 3. 'He advances upwards (as into) an empty city:' -- he has no doubt or hesitation.
 
-4. 'The king employs him to prevent his offerings on mount Khî:' -- such a service (of spiritual Beings) is according to (their mind).
+4. 'The king employs him to prevent his offerings on [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County):' -- such a service (of spiritual Beings) is according to (their mind).
 
 ###### p. 325
 

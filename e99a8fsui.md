@@ -34,14 +34,14 @@ Line 1 is strong, and lord of the lower trigram. The weak lines ought to follow 
 
 Line 2 is weak. Its proper correlate is the strong 5; but it prefers to cleave to the line below, instead of waiting to follow 5. Hence the symbolism of the text, the bad omen of which needs not to be mentioned.
 
-Line 3 is also weak, but it follows the strong line above it and leaves line 1, reversing the course of 2;--with a different issue. It is weak, however, and 4 is not its proper correlate; hence the conclusion of the paragraph is equivalent to a caution.
+Line 3 is also weak, but it follows the strong line above it and leaves line 1, reversing the course of 2; -- with a different issue. It is weak, however, and 4 is not its proper correlate; hence the conclusion of the paragraph is equivalent to a caution.
 
 Line 4 is strong, and in the place of a great minister next the ruler in 5. But his having adherents may be injurious to the supreme and sole authority of that ruler, and only a sincere loyalty will save him from. error and misfortune.
 
 Line 5 is strong, and in its correct place, with 2 as its proper correlate; thus producing the auspicious symbolism.
 
 The issue of the hexagram is seen in line 6; which represents the ideal of following, directed by the most sincere adherence to what is right.
-This influence not only extends to men, but also to spiritual beings. 'The western hill' is mount Khî, at the foot of which was the original settlement of the house of Kâu, in B. C. 1325.
+This influence not only extends to men, but also to spiritual beings. 'The western hill' is [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County), at the foot of which was the original settlement of the house of Kâu, in B. C. 1325.
 The use of the name 'king' here brings us down from Wăn into the time of [king Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou) at least.
 
 # [随](./e99a8fsui_cn.md)
