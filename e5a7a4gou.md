@@ -28,13 +28,13 @@ in which case with firm correctness there will be good fortune. (But) if he move
 The single, divided, line at the top of **Gòu ䷫**, the hexagram of the third month, has been displaced, and Khien has ruled over the fourth month of the year.
 But the innings of the divided line commence again; and here we have in **Gòu ䷫** the hexagram of the fifth month, when light and heat are supposed both to begin to be less.
 
-In that divided line Wăn saw the symbol of the small or unworthy man, beginning to insinuate himself into the government of the country.
+In that divided line [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) saw the symbol of the small or unworthy man, beginning to insinuate himself into the government of the country.
 His influence, if unchecked, would go on to grow, and he would displace one good man after another, and fill the vacant seats with others like-minded with himself.
-The object of Wăn in his [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), therefore, was to enjoin resistance to the encroachment of this bad man.
+The object of [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) in his [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), therefore, was to enjoin resistance to the encroachment of this bad man.
 
 **Gòu ䷫** is defined as giving the idea of suddenly and casually encountering or meeting with. So does the divided line appear all at once in the figure.
 And this significance of the name rules in the interpretation of the lines, so as to set on one side the more common interpretation of them according to the correlation;
-showing how the meaning of the figures was put into them from the minds of Wăn and Tan in the first place. The sentiments of the Text are not learned from them; but they are forced and twisted, often fantastically, and made to appear to give those sentiments forth of themselves.
+showing how the meaning of the figures was put into them from the minds of [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and [Dàn](https://en.wikipedia.org/wiki/Duke_of_Zhou) in the first place. The sentiments of the Text are not learned from them; but they are forced and twisted, often fantastically, and made to appear to give those sentiments forth of themselves.
 
 Here the first line, divided, where it ought to be the contrary, becomes the symbol of a bold, bad woman, who appears unexpectedly on the scene,
 and wishes to subdue or win all the five strong lines to herself. No one would contract a marriage with such a female; and every good servant of his country will try to repel the entrance into the government of every officer who can be so symbolised.

@@ -578,7 +578,7 @@ A good commentary on paragraph 3 is supplied in many passages of 'the Doctrine o
 
 <a name="fn_186"></a>[264:LXII](#fr_186) Paragraph 1. That the small lines exceed the others appears at a glance. The intimation of progress and attainment is less clear. Compare the first paragraph of [Appendix I](#p-240) to hexagram 33 ䷠.
 
-'The requirements of the time' in paragraph 2 cannot make [p. 265](#p-265) right wrong or wrong right; but they may modify the conventional course to be taken in any particular case.
+'The requirements of the time' in paragraph 2 cannot make [<sub>p. 265</sub>](#p-265) right wrong or wrong right; but they may modify the conventional course to be taken in any particular case.
 
 It is easy to explain paragraphs 3 and 4, but what is said in them carries no conviction to the mind.
 

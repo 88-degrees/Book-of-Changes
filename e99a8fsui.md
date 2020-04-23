@@ -42,6 +42,6 @@ Line 5 is strong, and in its correct place, with 2 as its proper correlate; thus
 
 The issue of the hexagram is seen in line 6; which represents the ideal of following, directed by the most sincere adherence to what is right.
 This influence not only extends to men, but also to spiritual beings. 'The western hill' is [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County), at the foot of which was the original settlement of the house of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty), in B. C. 1325.
-The use of the name 'king' here brings us down from Wăn into the time of [king Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou) at least.
+The use of the name 'king' here brings us down from [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) into the time of [king Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou) at least.
 
 # [随](./e99a8fsui_cn.md)
