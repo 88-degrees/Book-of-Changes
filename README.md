@@ -1,7 +1,5 @@
 # Book of Changes
 
-- [中文版](./README_CN.md)
-
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U5N28P765VRT4)
 
 As `Classic of Changes` or `Book of Changes`, is an ancient Chinese divination text and the oldest of the Chinese classics. Possessing a history of more than two and a half millennia of commentary and interpretation, the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) is an influential text read throughout the world.
@@ -53,3 +51,5 @@ For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
 | * | [䷸](e5b7bdxun.md) | [䷹](e58591dui.md) | [䷺](e6b6a3huan.md) | [䷻](e88a82jie.md) | [䷼](e4b8ade5ad9azhongfu.md) | [䷽](e5b08fe8bf87xiaoguo.md) | [䷾](e697a2e6b58ejiji.md) | [䷿](e69caae6b58eweiji.md) | * |
 | * | 巽 | 兑 | 涣 | 节 | 中孚 | 小过 | 既济 | 未济 | * |
 | * | * | * | * | * | * | * | * | * | * |
+
+- [中文版](./README_CN.md)
