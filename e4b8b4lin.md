@@ -43,6 +43,6 @@ Line 4, though weak, is in its proper place, and has for its correlate the stron
 
 Line 5 is the position of the ruler. It is weak, but being central, and having for its correlate the strong and central 2, we have in it a symbol of authority distrustful of itself, and employing fit agents; -- characteristic of the wise ruler.
 
-Line 6 is the last of the trigram **Kün ☷**, the height therefore of docility. Line 2 is not its correlate, but it belongs to the `Yīn` to seek for the `Yáng`; and it is so emphatically in this case. Hence the characteristic and issue as assigned.
+Line 6 is the last of the trigram **Kūn ☷**, the height therefore of docility. Line 2 is not its correlate, but it belongs to the `Yīn` to seek for the `Yáng`; and it is so emphatically in this case. Hence the characteristic and issue as assigned.
 
 # [临](./e4b8b4lin_cn.md)
