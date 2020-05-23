@@ -40,10 +40,15 @@ The intimation of progress and success is supposed to be given by the strong lin
 
 Line 1, at the commencement of the hexagram, tells us that the evil has not yet made great progress, and that dealing with it will be easy. But the subject of the line is weak, and in an odd place. He cannot cope with the evil himself. He must have help, and he finds that in a strong horse, which description is understood to be symbolical of the subject of the strong second line.
 
-> ䷺ changing to ䷼
+> **䷺** changing to [**䷼**](e4b8ade5ad9azhongfu.md)
+
 > Matching Line in Adjacent Hexagram: [60.1](e88a82jie.md#60.1)
 
 Line 2 is strong, but in an even place. That place is, indeed, the central, but the attribute of the lower trigram **Kǎn ☵** is peril. These conditions indicate evil, and action will be dangerous; but the subject of 2 looks to 1 below him, and takes shelter in union with its subject. Since the commentary of [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), this has been the interpretation of the line.
+
+> **䷺** changing to [**䷓**](e8a782guan.md)
+
+> Matching Line in Adjacent Hexagram: [60.2](e88a82jie.md#60.2)
 
 Line 3 is weak, and in an odd place. A regard for himself that would unfit its subject for contributing any service to the work of the hexagram might be feared; but he discards that regard, and will do nothing to be repented of. There is a change of style in the Chinese text at this point. As [Wáng Shēn-zǐ](https://ctext.org/searchbooks.pl?if=gb&author=王申子&remap=gb) (Yuán dynasty) says: -- 'Here and henceforth the scattering is of what should be scattered, that what should not be scattered may be collected.'
 
