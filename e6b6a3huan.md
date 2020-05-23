@@ -14,21 +14,21 @@ The king goes to his ancestral temple; and it will be advantageous to
 cross the great stream.
 It will be advantageous to be firm and correct.
 
-1. The first SIX, divided, shows its subject engaged in rescuing (from the impending evil) and having (the assistance of) a strong horse. There will be good fortune.
+1.<a name="59.1"></a> The first SIX, divided, shows its subject engaged in rescuing (from the impending evil) and having (the assistance of) a strong horse. There will be good fortune.
 
-2. The second NINE, undivided, shows its subject, amid the dispersion, hurrying to his contrivance (for security). All occasion for repentance will disappear.
+2.<a name="59.2"></a> The second NINE, undivided, shows its subject, amid the dispersion, hurrying to his contrivance (for security). All occasion for repentance will disappear.
 
-3. The third SIX, divided, shows its subject discarding any regard to his own person. There will be no occasion for repentance.
+3.<a name="59.3"></a> The third SIX, divided, shows its subject discarding any regard to his own person. There will be no occasion for repentance.
 
-4. The fourth SIX, divided, shows its subject scattering the (different) parties (in the state); which leads to great good fortune. From the dispersion (he collects again good men standing out, a crowd) like a mound, which is what ordinary men would not have thought of.
+4.<a name="59.4"></a> The fourth SIX, divided, shows its subject scattering the (different) parties (in the state); which leads to great good fortune. From the dispersion (he collects again good men standing out, a crowd) like a mound, which is what ordinary men would not have thought of.
 
-5. The fifth NINE, undivided, shows its subject amidst the dispersion issuing his great announcements as the perspiration (flows from his body).
+5.<a name="59.5"></a> The fifth NINE, undivided, shows its subject amidst the dispersion issuing his great announcements as the perspiration (flows from his body).
 
 ###### p. 196
 
-[paragraph continues] He scatters abroad (also) the accumulations in the royal granaries. There will be no error.
+<sub>[paragraph continues]</sub> He scatters abroad (also) the accumulations in the royal granaries. There will be no error.
 
-6. The topmost NINE, undivided, shows its subject disposing of (what may be called) its bloody wounds, and going and separating himself from its anxious fears. There will be no error.
+6.<a name="59.6"></a> The topmost NINE, undivided, shows its subject disposing of (what may be called) its bloody wounds, and going and separating himself from its anxious fears. There will be no error.
 
 ## Notes
 
@@ -39,6 +39,9 @@ The figure is made up of one of the trigrams for water and over it that for wind
 The intimation of progress and success is supposed to be given by the strong lines occupying the central places. The king goes to the ancestral temple, there to meet with the spirits of his ancestors. His filial piety moves them by the sincerity of its manifestation. Those spirits come and are present. Let filial piety -- in our language, let sincere religion -- rule in men's minds, and there will be no alienation in them from what is right and good or from one another. And if the state of the country demand a great or hazardous enterprise, let it be undertaken. But whatever is done, must be done with due attention to what is right, firmly and correctly.
 
 Line 1, at the commencement of the hexagram, tells us that the evil has not yet made great progress, and that dealing with it will be easy. But the subject of the line is weak, and in an odd place. He cannot cope with the evil himself. He must have help, and he finds that in a strong horse, which description is understood to be symbolical of the subject of the strong second line.
+
+> ䷺ changing to ䷼
+> Matching Line in Adjacent Hexagram: [60.1](e88a82jie.md#60.1)
 
 Line 2 is strong, but in an even place. That place is, indeed, the central, but the attribute of the lower trigram **Kǎn ☵** is peril. These conditions indicate evil, and action will be dangerous; but the subject of 2 looks to 1 below him, and takes shelter in union with its subject. Since the commentary of [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), this has been the interpretation of the line.
 
