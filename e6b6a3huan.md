@@ -52,7 +52,15 @@ Line 2 is strong, but in an even place. That place is, indeed, the central, but 
 
 Line 3 is weak, and in an odd place. A regard for himself that would unfit its subject for contributing any service to the work of the hexagram might be feared; but he discards that regard, and will do nothing to be repented of. There is a change of style in the Chinese text at this point. As [Wáng Shēn-zǐ](https://ctext.org/searchbooks.pl?if=gb&author=王申子&remap=gb) (Yuán dynasty) says: -- 'Here and henceforth the scattering is of what should be scattered, that what should not be scattered may be collected.'
 
+> **䷺** changing to [**䷸**](e5b7bdxun.md)
+
+> Matching Line in Adjacent Hexagram: [60.3](e88a82jie.md#60.3)
+
 Line 4, though weak, is in its correct place, and adjoins the strong 5, which is in the ruler's seat. The subject of 4, therefore, will fitly represent the minister, to whom it belongs to do a great part in remedying the evil of dispersion. And this he does. He brings dissentient partizanship to an end; and not satisfied with that, he collects multitudes of those who had been divided into a great body so that they stand out conspicuous like a hill.
+
+> **䷺** changing to [**䷅**](e8aebcsong.md)
+
+> Matching Line in Adjacent Hexagram: [60.4](e88a82jie.md#60.4)
 
 Line 5 gives us the action of the ruler himself; -- by his proclamations, and by his benevolence. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) and other critics enlarge on the symbolism of the perspiration, which they think much to the point. P. Regis avoids it, translating -- 'Ille, magnas leges dissipans, facit ut penetrent(ur?).' Canon McClatchie has an ingenious and original, so far as my Chinese reading goes, note upon it: -- 'As sweat cures fevers, so do proclamations cure rebellions.' Both of these translators miss the meaning of the other instance of the king's work.
 
