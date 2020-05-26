@@ -12,21 +12,45 @@
 
 by divination, whether his virtue be great, unintermitting, and firm. If it be so, there will be no error. Those who have not rest will then come to him; and with those who are (too) late in coming it will be ill.
 
-1. The first SIX, divided, shows its subject seeking by his sincerity to win the attachment of his object. There will be no error. Let (the breast) be full of sincerity as an earthenware vessel is of its contents, and it will in the end bring other advantages.
+1.<a name="8.1"></a> The first SIX, divided, shows its subject seeking by his sincerity to win the attachment of his object. There will be no error. Let (the breast) be full of sincerity as an earthenware vessel is of its contents, and it will in the end bring other advantages.
 
-2. In the second SIX, divided, we see the movement towards union and attachment proceeding from the inward (mind). With firm correctness there will be good fortune.
+> **䷇** changing to [**䷂**](e5b1afzhun.md)
 
-3. In the third SIX, divided, we see its subject seeking for union with such as ought not to be associated with.
+> Matching Line in Adjacent Hexagram: [7.1](e5b888shi.md#7.1)
 
-4. In the fourth SIX, divided, we see its subject
+2.<a name="8.2"></a> In the second SIX, divided, we see the movement towards union and attachment proceeding from the inward (mind). With firm correctness there will be good fortune.
+
+> **䷇** changing to [**䷜**](e59d8ekan.md)
+
+> Matching Line in Adjacent Hexagram: [7.2](e5b888shi.md#7.2)
+
+3.<a name="8.3"></a> In the third SIX, divided, we see its subject seeking for union with such as ought not to be associated with.
+
+> **䷇** changing to [**䷦**](e8b987jian.md)
+
+> Matching Line in Adjacent Hexagram: [7.3](e5b888shi.md#7.3)
+
+4.<a name="8.4"></a> In the fourth SIX, divided, we see its subject
 
 ###### p. 75
 
 seeking for union with the one beyond himself. With firm correctness there will be good fortune.
 
-5. The fifth NINE, undivided, affords the most illustrious instance of seeking union and attachment. (We seem to see in it) the king urging his pursuit of the game (only) in three directions, and allowing the escape of all the animals before him, while the people of his towns do not warn one another (to prevent it). There will be good fortune.
+> **䷇** changing to [**䷬**](e89083cui.md)
 
-6. In the topmost SIX, divided, we see one seeking union and attachment without having taken the first step (to such an end). There will be evil.
+> Matching Line in Adjacent Hexagram: [7.4](e5b888shi.md#7.4)
+
+5.<a name="8.5"></a> The fifth NINE, undivided, affords the most illustrious instance of seeking union and attachment. (We seem to see in it) the king urging his pursuit of the game (only) in three directions, and allowing the escape of all the animals before him, while the people of his towns do not warn one another (to prevent it). There will be good fortune.
+
+> **䷇** changing to [**䷁**](e59da4kun.md)
+
+> Matching Line in Adjacent Hexagram: [7.5](e5b888shi.md#7.5)
+
+6.<a name="8.6"></a> In the topmost SIX, divided, we see one seeking union and attachment without having taken the first step (to such an end). There will be evil.
+
+> **䷇** changing to [**䷓**](e8a782guan.md)
+
+> Matching Line in Adjacent Hexagram: [7.6](e5b888shi.md#7.6)
 
 ## Notes
 
@@ -40,7 +64,7 @@ Line 2 is the proper correlate of 5. Its position in the centre of the inner or 
 
 Line 3 is weak, not in the centre, nor in its correct place. The lines above and below it are both weak. All these things are supposed to account for what is said on it.
 
-'The one beyond himself' in line 4 is the ruler or king, who is [p. 76](e5b08fe7959cxiaoxu.md#p-76) the subject of 5, and with whom union ought to be sought. The divided line, moreover, is in a place proper to it. If its subject be firm and correct, there will be good fortune.
+'The one beyond himself' in line 4 is the ruler or king, who is <sub>[p. 76](e5b08fe7959cxiaoxu.md#p-76)</sub> the subject of 5, and with whom union ought to be sought. The divided line, moreover, is in a place proper to it. If its subject be firm and correct, there will be good fortune.
 
 The subject of line 5 is the king, who must be the centre of union. The ancient kings had their great hunting expeditions in the different seasons; and that of each season had its peculiar rules. But what is stated here was common to all. When the beating was completed, and the shooting was ready to commence, one side of the enclosure into which the game had been driven was left open and unguarded; -- a proof of the royal benevolence, which did not want to make an end of all the game. So well known and understood is this benevolence of the model king of the hexagram, that all his people try to give it effect. Thus the union contemplated is shown to be characterised by mutual confidence and appreciation in virtue and benevolence.
 
