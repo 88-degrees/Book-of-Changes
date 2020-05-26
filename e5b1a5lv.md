@@ -10,25 +10,49 @@
 
 ###### p. 79
 
-1. The first NINE, undivided, shows its subject treading his accustomed path. If he go forward, there will be no error.
+1.<a name="10.1"></a> The first NINE, undivided, shows its subject treading his accustomed path. If he go forward, there will be no error.
 
-2. The second NINE, undivided, shows its subject treading the path that is level and easy; -- a quiet and solitary man, to whom, if he be firm and correct, there will be good fortune.
+> **䷉** changing to [**䷅**](e8aebcsong.md)
 
-3. The third SIX, divided, shows a one-eyed man (who thinks he) can see; a lame man (who thinks he) can walk well; one who treads on the tail of a tiger and is bitten. (All this indicates) ill fortune. We have a (mere) bravo acting the part of a great ruler.
+> Matching Line in Adjacent Hexagram: [9.1](e5b08fe7959cxiaoxu.md#9.1)
 
-4. The fourth NINE, undivided, shows its subject treading on the tail of a tiger. He becomes full of apprehensive caution, and in the end there will be good fortune.
+2.<a name="10.2"></a> The second NINE, undivided, shows its subject treading the path that is level and easy; -- a quiet and solitary man, to whom, if he be firm and correct, there will be good fortune.
 
-5. The fifth NINE, undivided, shows the resolute tread of its subject. Though he be firm and correct, there will be peril.
+> **䷉** changing to [**䷘**](e697a0e5a684wuwang.md)
 
-6. The sixth NINE, undivided, tells us to look at (the whole course) that is trodden, and examine the
+> Matching Line in Adjacent Hexagram: [9.2](e5b08fe7959cxiaoxu.md#9.2)
+
+3.<a name="10.3"></a> The third SIX, divided, shows a one-eyed man (who thinks he) can see; a lame man (who thinks he) can walk well; one who treads on the tail of a tiger and is bitten. (All this indicates) ill fortune. We have a (mere) bravo acting the part of a great ruler.
+
+> **䷉** changing to [**䷀**](e4b9beqian.md)
+
+> Matching Line in Adjacent Hexagram: [9.3](e5b08fe7959cxiaoxu.md#9.3)
+
+4.<a name="10.4"></a> The fourth NINE, undivided, shows its subject treading on the tail of a tiger. He becomes full of apprehensive caution, and in the end there will be good fortune.
+
+> **䷉** changing to [**䷼**](e4b8ade5ad9azhongfu.md)
+
+> Matching Line in Adjacent Hexagram: [9.4](e5b08fe7959cxiaoxu.md#9.4)
+
+5.<a name="10.5"></a> The fifth NINE, undivided, shows the resolute tread of its subject. Though he be firm and correct, there will be peril.
+
+> **䷉** changing to [**䷥**](e79dbdkui.md)
+
+> Matching Line in Adjacent Hexagram: [9.5](e5b08fe7959cxiaoxu.md#9.5)
+
+6.<a name="10.6"></a> The sixth NINE, undivided, tells us to look at (the whole course) that is trodden, and examine the
 
 ###### p.80
 
 presage which that gives. If it be complete and without failure, there will be great good fortune.
 
+> **䷉** changing to [**䷹**](e58591dui.md)
+
+> Matching Line in Adjacent Hexagram: [9.6](e5b08fe7959cxiaoxu.md#9.6)
+
 ## Notes
 
-The character giving its name to the hexagram plays an important part also in the symbolism; and this may be the reason why it does not, as the name, occupy the first place in the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). Looking at the figure, we see it is made up of the trigrams Tui, representing a marsh, and [**Qián ䷀**](e4b9beqian.md), representing the sky. Tui is a yin trigram, and its top line is divided. Below Khien, the great symbol of strength, it may readily suggest the idea of treading on a tiger's tail, which was an old way of expressing what was hazardous ([Shû V, XXV, 2](https://sacred-texts.com/cfu/sbe03/sbe03004.htm#fn_10)). But what suggests the statement that 'the tiger does not bite the treader?' The attribute of Tui is pleased satisfaction. of course such an attribute could not be predicated of one who was in the fangs of a tiger. The coming scatheless out of such danger further suggests the idea of 'progress and success' in the course which [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) had in his mind. And according to [Appendix VI](appendix06s1.md), that course was 'propriety,' the observance of all the rules of courtesy. On these, as so many stepping-stones, one may tread safely amid scenes of disorder and peril.
+The character giving its name to the hexagram plays an important part also in the symbolism; and this may be the reason why it does not, as the name, occupy the first place in the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). Looking at the figure, we see it is made up of the trigrams **Duì ☱**, representing a marsh, and **Qián ☰**, representing the sky. **Duì ☱** is a `yīn` trigram, and its top line is divided. Below **Qián ☰**, the great symbol of strength, it may readily suggest the idea of treading on a tiger's tail, which was an old way of expressing what was hazardous ([Shû V, XXV, 2](https://sacred-texts.com/cfu/sbe03/sbe03004.htm#fn_10)). But what suggests the statement that 'the tiger does not bite the treader?' The attribute of **Duì ☱** is pleased satisfaction. of course such an attribute could not be predicated of one who was in the fangs of a tiger. The coming scatheless out of such danger further suggests the idea of 'progress and success' in the course which [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) had in his mind. And according to [Appendix VI](appendix06s1.md), that course was 'propriety,' the observance of all the rules of courtesy. On these, as so many stepping-stones, one may tread safely amid scenes of disorder and peril.
 
 Line 1 is an undivided line in an odd place; giving us the ideas of activity, firmness, and correctness. One so characterised will act rightly.
 
