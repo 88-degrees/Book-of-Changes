@@ -11,24 +11,35 @@ and the advantage will come from being correct and firm. (But) any movement in a
 
 1.<a name="3.1"></a> The first NINE, undivided, shows the difficulty (its subject has) in advancing. It will be advantageous for him to abide correct and firm; advantageous (also) to be made a feudal ruler.
 
+> Matching Line in Adjacent Hexagram: [4.1](e89299meng.md#4.1)
+
 2.<a name="3.2"></a> The second SIX, divided, shows (its subject) distressed and obliged to return; (even) the horses of her chariot (also) seem to be retreating. (But) not by a spoiler (is she assailed), but by one who seeks her to be his wife. The young lady maintains her firm correctness, and declines a union. After ten years she will be united, and have children.
 
+> Matching Line in Adjacent Hexagram: [4.2](e89299meng.md#4.2)
+
 3.<a name="3.3"></a> The third SIX, divided, shows one following the deer without (the guidance of) the forester, and only finding himself in the midst of the forest. The superior man, acquainted with the secret risks, thinks it better to give up the chase. If he went forward, he would regret it.
+
+> Matching Line in Adjacent Hexagram: [4.3](e89299meng.md#4.3)
 
 ###### p. 63
 
 4.<a name="3.4"></a> The fourth SIX, divided, shows (its subject as a lady), the horses of whose chariot appear in retreat.
 She seeks, however, (the help of) him who seeks her to be his wife. Advance will be fortunate; all will turn out advantageously.
 
-5.<a name="3.5"></a> The fifth NINE, undivided, shows the difficulties in the way of (its subject's) dispensing the rich favours that might be expected from him.
-With firmness and correctness there will be good fortune in small things; (even) with them in great things there will be evil.
+> Matching Line in Adjacent Hexagram: [4.4](e89299meng.md#4.4)
+
+5.<a name="3.5"></a> The fifth NINE, undivided, shows the difficulties in the way of (its subject's) dispensing the rich favours that might be expected from him. With firmness and correctness there will be good fortune in small things; (even) with them in great things there will be evil.
+
+> Matching Line in Adjacent Hexagram: [4.5](e89299meng.md#4.5)
 
 6.<a name="3.6"></a> The topmost SIX, divided, shows (its subject) with the horses of his chariot obliged to retreat, and weeping tears of blood in streams.
+
+> Matching Line in Adjacent Hexagram: [4.6](e89299meng.md#4.6)
 
 ## Notes
 
 The character called **Zhūn ䷂** is pictorial, and was intended to show us how a plant struggles with difficulty out of the earth, rising gradually above the surface.
-This difficulty, marking the first stages in the growth of a plant, is used to symbolise the struggles that mark the rise of a state out of a condition of disorder, consequent on a great revolution. The same thing is denoted by the combination of the trigrams that form the figure;--as will be seen in the notes on it under [Appendix II](./appendix02s1.md).
+This difficulty, marking the first stages in the growth of a plant, is used to symbolise the struggles that mark the rise of a state out of a condition of disorder, consequent on a great revolution. The same thing is denoted by the combination of the trigrams that form the figure; -- as will be seen in the notes on it under [Appendix II](./appendix02s1.md).
 
 I have introduced within parentheses, in the translation, the words 'in the case which the hexagram presupposes.' It is necessary to introduce them. [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son wrote, as they did in every hexagram, with reference to a particular state of affairs which they had in mind. This was the unspoken text which controlled and directed all their writing; and the student must try to get hold of this, if he would make his way with comfort and success through the [**Yì**](https://en.wikipedia.org/wiki/I_Ching). [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) saw the social and political world around him in great disorder, hard to be remedied. But he had faith in himself and the destinies of his House. Let there be prudence and caution, with unswerving adherence to the right; let the government of the different states be entrusted to good and able men: -- then all would be well.
 
