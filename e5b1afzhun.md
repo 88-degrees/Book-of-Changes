@@ -11,13 +11,19 @@ and the advantage will come from being correct and firm. (But) any movement in a
 
 1.<a name="3.1"></a> The first NINE, undivided, shows the difficulty (its subject has) in advancing. It will be advantageous for him to abide correct and firm; advantageous (also) to be made a feudal ruler.
 
+> **䷂** changing to [**䷇**](e6af94bi.md)
+
 > Matching Line in Adjacent Hexagram: [4.1](e89299meng.md#4.1)
 
 2.<a name="3.2"></a> The second SIX, divided, shows (its subject) distressed and obliged to return; (even) the horses of her chariot (also) seem to be retreating. (But) not by a spoiler (is she assailed), but by one who seeks her to be his wife. The young lady maintains her firm correctness, and declines a union. After ten years she will be united, and have children.
 
+> **䷂** changing to [**䷻**](e88a82jie.md)
+
 > Matching Line in Adjacent Hexagram: [4.2](e89299meng.md#4.2)
 
 3.<a name="3.3"></a> The third SIX, divided, shows one following the deer without (the guidance of) the forester, and only finding himself in the midst of the forest. The superior man, acquainted with the secret risks, thinks it better to give up the chase. If he went forward, he would regret it.
+
+> **䷂** changing to [**䷾**](e697a2e6b58ejiji.md)
 
 > Matching Line in Adjacent Hexagram: [4.3](e89299meng.md#4.3)
 
@@ -26,13 +32,19 @@ and the advantage will come from being correct and firm. (But) any movement in a
 4.<a name="3.4"></a> The fourth SIX, divided, shows (its subject as a lady), the horses of whose chariot appear in retreat.
 She seeks, however, (the help of) him who seeks her to be his wife. Advance will be fortunate; all will turn out advantageously.
 
+> **䷂** changing to [**䷐**](e99a8fsui.md)
+
 > Matching Line in Adjacent Hexagram: [4.4](e89299meng.md#4.4)
 
 5.<a name="3.5"></a> The fifth NINE, undivided, shows the difficulties in the way of (its subject's) dispensing the rich favours that might be expected from him. With firmness and correctness there will be good fortune in small things; (even) with them in great things there will be evil.
 
+> **䷂** changing to [**䷗**](e5a48dfu.md)
+
 > Matching Line in Adjacent Hexagram: [4.5](e89299meng.md#4.5)
 
 6.<a name="3.6"></a> The topmost SIX, divided, shows (its subject) with the horses of his chariot obliged to retreat, and weeping tears of blood in streams.
+
+> **䷂** changing to [**䷩**](e79b8ayi.md)
 
 > Matching Line in Adjacent Hexagram: [4.6](e89299meng.md#4.6)
 
