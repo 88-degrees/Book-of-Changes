@@ -12,21 +12,47 @@
 
 intended) has to make any movement, if he take the initiative, he will go astray; if he follow, he will find his (proper) lord. The advantageousness will be seen in his getting friends in the south-west, and losing friends in the north-east. If he rest in correctness and firmness, there will be good fortune.
 
-1. In the first SIX, divided, (we see its subject) treading on hoarfrost. The strong ice will come (by and by).
+1.<a name="2.1"></name> In the first SIX, divided, (we see its subject) treading on hoarfrost. The strong ice will come (by and by).
 
-2. The second SIX, divided, (shows the attribute of) being straight, square, and great. (Its operation), without repeated efforts, will be in every respect advantageous.
+> **䷁** Changing to [**䷗**](e5a48dfu.md)
 
-3. The third SIX, divided, (shows its subject) keeping his excellence under restraint, but firmly maintaining it. If he should have occasion to engage in the king's service, though he will not claim the success (for himself), he will bring affairs to a good issue.
+> Matching Line in Adjacent Hexagram: [1.1](e4b9beqian.md#1.1)
 
-4. The fourth SIX, divided, (shows the symbol of) a sack tied up. There will be no ground for blame or for praise.
+2.<a name="2.2"></name> The second SIX, divided, (shows the attribute of) being straight, square, and great. (Its operation), without repeated efforts, will be in every respect advantageous.
 
-5. The fifth SIX, divided, (shows) the yellow lower garment. There will be great good fortune.
+> **䷁** Changing to [**䷆**](e5b888shi.md)
+
+> Matching Line in Adjacent Hexagram: [1.2](e4b9beqian.md#1.2)
+
+3.<a name="2.3"></name> The third SIX, divided, (shows its subject) keeping his excellence under restraint, but firmly maintaining it. If he should have occasion to engage in the king's service, though he will not claim the success (for himself), he will bring affairs to a good issue.
+
+> **䷁** Changing to [**䷎**](e8b0a6qian.md)
+
+> Matching Line in Adjacent Hexagram: [1.3](e4b9beqian.md#1.3)
+
+4.<a name="2.3"></name> The fourth SIX, divided, (shows the symbol of) a sack tied up. There will be no ground for blame or for praise.
+
+> **䷁** Changing to [**䷏**](e8b1abyu.md)
+
+> Matching Line in Adjacent Hexagram: [1.4](e4b9beqian.md#1.4)
+
+5.<a name="2.5"></name> The fifth SIX, divided, (shows) the yellow lower garment. There will be great good fortune.
+
+> **䷁** Changing to [**䷇**](e6af94bi.md)
+
+> Matching Line in Adjacent Hexagram: [1.5](e4b9beqian.md#1.5)
 
 ###### p. 61
 
-6. The sixth SIX, divided (shows) dragons fighting in the wild. Their blood is purple and yellow.
+6.<a name="2.6"></name> The sixth SIX, divided (shows) dragons fighting in the wild. Their blood is purple and yellow.
+
+> **䷁** Changing to [**䷖**](e589a5bo.md)
+
+> Matching Line in Adjacent Hexagram: [1.6](e4b9beqian.md#1.6)
 
 7. (The lines of this hexagram are all weak and divided, as appears from) the use of the number six. If those (who are thus represented) be perpetually correct and firm, advantage will arise.
+
+> **䷁** Changing to [**䷀**](e4b9beqian.md)
 
 ## Notes
 
