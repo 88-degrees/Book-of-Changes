@@ -6,20 +6,19 @@
 
 **Shì Kè ䷔** indicates successful progress (in the condition of things which it supposes). It will be advantageous to use legal constraints.
 
-1. The first NINE, undivided, shows one with his feet in the stocks and deprived of his toes. There will be no error.
+1.<a name="21.1"></a> The first NINE, undivided, shows one with his feet in the stocks and deprived of his toes. There will be no error.
 
-2. The second SIX, divided, shows one biting through the soft flesh, and (going on to) bite off the nose. There will be no error.
+2.<a name="21.2"></a> The second SIX, divided, shows one biting through the soft flesh, and (going on to) bite off the nose. There will be no error.
 
 ###### p. 102
 
-3. The third SIX, divided, shows one gnawing dried flesh, and meeting with what is disagreeable. There will be occasion for some small regret, but no (great) error.
+3.<a name="21.3"></a> The third SIX, divided, shows one gnawing dried flesh, and meeting with what is disagreeable. There will be occasion for some small regret, but no (great) error.
 
-4. The fourth NINE, undivided, shows one gnawing the flesh dried on the bone, and getting the pledges of money and arrows.
-It will be advantageous to him to realise the difficulty of his task and be firm, -- in which case there will be good fortune.
+4.<a name="21.4"></a> The fourth NINE, undivided, shows one gnawing the flesh dried on the bone, and getting the pledges of money and arrows. It will be advantageous to him to realise the difficulty of his task and be firm, -- in which case there will be good fortune.
 
-5. The fifth SIX, divided, shows one gnawing at dried flesh, and finding the yellow gold. Let him be firm and correct, realising the peril (of his position). There will be no error.
+5.<a name="21.5"></a> The fifth SIX, divided, shows one gnawing at dried flesh, and finding the yellow gold. Let him be firm and correct, realising the peril (of his position). There will be no error.
 
-6. The sixth NINE, undivided, shows one wearing the cangue, and deprived of his cars. There will be evil.
+6.<a name="21.6"></a> The sixth NINE, undivided, shows one wearing the cangue, and deprived of his cars. There will be evil.
 
 ## Notes
 
@@ -31,10 +30,10 @@ Line 2 is weak, appropriately therefore in an even place, and it is central besi
 
 Line 3 is weak, and in an even place. The action of its subject will be ineffective; and is emblemed by the hard task of gnawing through dried flesh, and encountering, besides, what is distasteful and injurious in it. But again comes in the consideration that here punishment is the rule, and the auspice is not all bad.
 
-Of old, in a civil case, both parties, before they were heard, brought to the court an arrow (or a bundle of arrows), in testimony of their rectitude, after which they were heard; in a criminal case, they in the same way deposited each thirty pounds of gold, or some other metal. See the [Official Book of Kau, 27. 14, 15](https://sacred-texts.com/cfu/sbe03/sbe03054.htm). The subject of the fourth line's getting those pledges indicates his exercising his judicial functions; and what he gnaws through indicates their difficulty. Moreover, though the line is strong, it is in an even place; and hence comes the lesson of caution.
+Of old, in a civil case, both parties, before they were heard, brought to the court an arrow (or a bundle of arrows), in testimony of their rectitude, after which they were heard; in a criminal case, they in the same way deposited each thirty pounds of gold, or some other metal. See the [Official Book of Zhōu](https://ctext.org/dictionary.pl?if=en&id=21488). The subject of the fourth line's getting those pledges indicates his exercising his judicial functions; and what he gnaws through indicates their difficulty. Moreover, though the line is strong, it is in an even place; and hence comes the lesson of caution.
 
 The fifth line represents 'the lord of judgment.' As it is a weak line, he will be disposed to leniency; and his judgments will be correct. This is declared by his finding the 'yellow metal;' for yellow is one of the five 'correct' colours. The position is in the centre and that of rule; but the line being weak, a caution is given, as under the previous line.
 
 The action of the figure has passed, and still we have, in the subject of line 6, one persisting in wrong, a strong criminal, wearing the cangue, and deaf to counsel. of course the auspice is evil.
 
-# [噬嗑](./e599ace59791shike_cn.md)
+# [噬嗑 ䷔](./e599ace59791shike_cn.md)
