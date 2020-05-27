@@ -66,4 +66,4 @@ But the dragon appears in the sixth line as going beyond the proper limits. The 
 
 The meaning given to the supernumerary paragraph is the opposite of that of paragraph 6. The 'host of dragons without their heads' would give us the next hexagram, or [**Kūn ䷁**](./e59da4kun.md), made up of six divided lines. Force would have given place to submission, and haughtiness to humility; and the result would be good fortune. Such at least is the interpretation of the paragraph given in a narrative of the [Zuǒ Zhuàn](https://en.wikipedia.org/wiki/Zuo_zhuan) under B. C. 513. For further explanation of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s meaning, see [Appendixes II](appendix02s1.md) and [Appendixes IV](appendix04s1.md).
 
-# [乾](./e4b9beqian_cn.md)
+# [乾 ䷀](./e4b9beqian_cn.md)
