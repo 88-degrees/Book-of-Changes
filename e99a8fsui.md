@@ -8,19 +8,43 @@
 
 **Suí ䷐** indicates that (under its conditions) there will be great progress and success. But it will be advantageous to be firm and correct. There will (then) be no error.
 
-1. The first NINE, undivided, shows us one changing the object of his pursuit; but if he be firm and correct, there will he good fortune. Going beyond (his own) gate to find associates, he will achieve merit.
+1.<a name="17.1"></a> The first NINE, undivided, shows us one changing the object of his pursuit; but if he be firm and correct, there will he good fortune. Going beyond (his own) gate to find associates, he will achieve merit.
 
-2. The second SIX, divided, shows us one who cleaves to the little boy, and lets go the man of age and experience.
+> **䷐** changing to [**䷬**](e89083cui.md)
 
-3. The third SIX, divided, shows us one who cleaves to the man of age and experience, and lets go. the little boy. Such following will get what it seeks; but it will be advantageous to adhere to what is firm and correct.
+> Matching Line in Adjacent Hexagram: [18.1](e89b8agu.md#18.1)
 
-4. The fourth NINE, undivided, shows us one followed and obtaining (adherents). Though he be firm and correct, there will be evil. If he be sincere (however) in his course, and make that evident, into what error will he fall?
+2.<a name="17.2"></a> The second SIX, divided, shows us one who cleaves to the little boy, and lets go the man of age and experience.
+
+> **䷐** changing to [**䷹**](e58591dui.md)
+
+> Matching Line in Adjacent Hexagram: [18.2](e89b8agu.md#18.2)
+
+3.<a name="17.3"></a> The third SIX, divided, shows us one who cleaves to the man of age and experience, and lets go. the little boy. Such following will get what it seeks; but it will be advantageous to adhere to what is firm and correct.
+
+> **䷐** changing to [**䷰**](e99da9ge.md)
+
+> Matching Line in Adjacent Hexagram: [18.3](e89b8agu.md#18.3)
+
+4.<a name="17.4"></a> The fourth NINE, undivided, shows us one followed and obtaining (adherents). Though he be firm and correct, there will be evil. If he be sincere (however) in his course, and make that evident, into what error will he fall?
+
+> **䷐** changing to [**䷂**](e5b1afzhun.md)
+
+> Matching Line in Adjacent Hexagram: [18.4](e89b8agu.md#18.4)
 
 ###### p. 94
 
-5. The fifth NINE, undivided, shows us (the ruler) sincere in (fostering all) that is excellent. There will be good fortune.
+5.<a name="17.5"></a> The fifth NINE, undivided, shows us (the ruler) sincere in (fostering all) that is excellent. There will be good fortune.
 
-6. The topmost SIX, divided, shows us (that sincerity) firmly held and clung to, yea, and bound fast. (We see) the king with it presenting his offerings on the western mountain.
+> **䷐** changing to [**䷲**](e99c87zhen.md)
+
+> Matching Line in Adjacent Hexagram: [18.5](e89b8agu.md#18.5)
+
+6.<a name="17.6"></a> The topmost SIX, divided, shows us (that sincerity) firmly held and clung to, yea, and bound fast. (We see) the king with it presenting his offerings on the western mountain.
+
+> **䷐** changing to [**䷘**](e697a0e5a684wuwang.md)
+
+> Matching Line in Adjacent Hexagram: [18.6](e89b8agu.md#18.6)
 
 ## Notes
 
@@ -30,7 +54,7 @@ The hexagram includes the cases where one follows others, and where others follo
 and the auspice of great progress and success is due to this flexibility and applicability of it.
 But in both cases the following must be guided by a reference to what is proper and correct. See the notes on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) and the Great Symbolism.
 
-Line 1 is strong, and lord of the lower trigram. The weak lines ought to follow it; but here it is below them, in the lowest place of the figure. This gives rise to the representation of one changing his pursuit. Still through the native vigour indicated by the line being strong, and in its correct place, its subject will be fortunate. Going beyond his gate to find associates indicates his public spirit, and superiority to selfish considerations.
+Line 1 is strong, and lord of the lower trigram ☳. The weak lines ought to follow it; but here it is below them, in the lowest place of the figure. This gives rise to the representation of one changing his pursuit. Still through the native vigour indicated by the line being strong, and in its correct place, its subject will be fortunate. Going beyond his gate to find associates indicates his public spirit, and superiority to selfish considerations.
 
 Line 2 is weak. Its proper correlate is the strong 5; but it prefers to cleave to the line below, instead of waiting to follow 5. Hence the symbolism of the text, the bad omen of which needs not to be mentioned.
 
@@ -40,8 +64,6 @@ Line 4 is strong, and in the place of a great minister next the ruler in 5. But 
 
 Line 5 is strong, and in its correct place, with 2 as its proper correlate; thus producing the auspicious symbolism.
 
-The issue of the hexagram is seen in line 6; which represents the ideal of following, directed by the most sincere adherence to what is right.
-This influence not only extends to men, but also to spiritual beings. 'The western hill' is [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County), at the foot of which was the original settlement of the house of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty), in B. C. 1325.
-The use of the name 'king' here brings us down from [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) into the time of [king Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou) at least.
+The issue of the hexagram is seen in line 6; which represents the ideal of following, directed by the most sincere adherence to what is right. This influence not only extends to men, but also to spiritual beings. 'The western hill' is [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County), at the foot of which was the original settlement of the house of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty), in B. C. 1325. The use of the name 'king' here brings us down from [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) into the time of [king Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou) at least.
 
-# [随](./e99a8fsui_cn.md)
+# [随 ䷐](./e99a8fsui_cn.md)
