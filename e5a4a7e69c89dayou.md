@@ -8,21 +8,45 @@
 
 **Dà Yǒu ䷍** indicates that, (under the circumstances which it implies), there will be great progress and success.
 
-1. In the first NINE, undivided, there is no approach to what is injurious, and there is no error. Let there be a realisation of the difficulty (and danger of the position), and there will be no error (to the end).
+1.<a name="14.1"></a> In the first NINE, undivided, there is no approach to what is injurious, and there is no error. Let there be a realisation of the difficulty (and danger of the position), and there will be no error (to the end).
 
-2. In the second NINE, undivided, we have a large waggon with its load. In whatever direction advance is made, there will be no error.
+> **䷍** changing to [**䷱**](e9bc8eding.md)
 
-3. The third NINE, undivided, shows us a feudal prince presenting his offerings to the Son of Heaven. A small man would be unequal (to such a duty).
+> Matching Line in Adjacent Hexagram: [13.1](e5908ce4babatongren.md#13.1)
 
-4. The fourth NINE, undivided, shows its subject keeping his great resources under restraint. There will be no error.
+2.<a name="14.2"></a> In the second NINE, undivided, we have a large waggon with its load. In whatever direction advance is made, there will be no error.
 
-5. The fifth SIX, divided, shows the sincerity of its subject reciprocated by that of all the others (represented in the hexagram). Let him display a proper majesty, and there will be good fortune.
+> **䷍** changing to [**䷝**](e7a6bbli.md)
 
-6. The topmost NINE, undivided, shows its subject with help accorded to him from Heaven. There will be good fortune, advantage in every respect.
+> Matching Line in Adjacent Hexagram: [13.2](e5908ce4babatongren.md#13.2)
+
+3.<a name="14.3"></a> The third NINE, undivided, shows us a feudal prince presenting his offerings to the Son of Heaven. A small man would be unequal (to such a duty).
+
+> **䷍** changing to [**䷥**](e79dbdkui.md)
+
+> Matching Line in Adjacent Hexagram: [13.3](e5908ce4babatongren.md#13.3)
+
+4.<a name="14.4"></a> The fourth NINE, undivided, shows its subject keeping his great resources under restraint. There will be no error.
+
+> **䷍** changing to [**䷙**](e5a4a7e89384daxu.md)
+
+> Matching Line in Adjacent Hexagram: [13.4](e5908ce4babatongren.md#13.4)
+
+5.<a name="14.5"></a> The fifth SIX, divided, shows the sincerity of its subject reciprocated by that of all the others (represented in the hexagram). Let him display a proper majesty, and there will be good fortune.
+
+> **䷍** changing to [**䷀**](e4b9beqian.md)
+
+> Matching Line in Adjacent Hexagram: [13.5](e5908ce4babatongren.md#13.5)
+
+6.<a name="14.6"></a> The topmost NINE, undivided, shows its subject with help accorded to him from Heaven. There will be good fortune, advantage in every respect.
+
+> **䷍** changing to [**䷡**](e5a4a7e5a3aedazhuang.md)
+
+> Matching Line in Adjacent Hexagram: [13.6](e5908ce4babatongren.md#13.6)
 
 ## Notes
 
-**Dà Yǒu ䷍** means 'Great Havings;' denoting in a kingdom a state of prosperity and abundance, and in a, family or individual, a [p. 89](e8b0a6qian.md#p-89) state of opulence. The danger threatening such a condition arises from the pride which it is likely to engender. But everything here is against that issue. Apart from the symbolism of the trigrams, we have the place of honour occupied by a weak line, so that its subject will be humble; and all the other lines, strong as they are, will act in obedient sympathy. There will be great progress and success.
+**Dà Yǒu ䷍** means 'Great Havings;' denoting in a kingdom a state of prosperity and abundance, and in a, family or individual, a <sub>[p. 89](e8b0a6qian.md#p-89)</sub> state of opulence. The danger threatening such a condition arises from the pride which it is likely to engender. But everything here is against that issue. Apart from the symbolism of the trigrams, we have the place of honour occupied by a weak line, so that its subject will be humble; and all the other lines, strong as they are, will act in obedient sympathy. There will be great progress and success.
 
 Line 2, though strong, is at the lowest part of the figure, and has no correlate above. No external influences have as yet acted injuriously on its subject. Let him do as directed, and no hurtful influence will ever affect him.
 
@@ -36,4 +60,4 @@ Line 5 symbolises the ruler. Mild sincerity is good in him, and affects his mini
 
 Even the topmost line takes its character from 5. The strength of its subject is still tempered, and Heaven gives its approval.
 
-# [大有](./e5a4a7e69c89dayou_cn.md)
+# [大有 ䷍](./e5a4a7e69c89dayou_cn.md)

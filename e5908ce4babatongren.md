@@ -8,21 +8,45 @@
 
 **Tóng Rén ䷌** (or 'Union of men') appears here (as we find it) in the (remote districts of the) country, indicating progress and success. It will be advantageous to cross the great stream. It will be advantageous to maintain the firm correctness of the superior man.
 
-1. The first NINE, undivided, (shows the representative of) the union of men just issuing from his gate. There will be no error.
+1.<a name="13.1"></a> The first NINE, undivided, (shows the representative of) the union of men just issuing from his gate. There will be no error.
 
-2. The second SIX, divided, (shows the representative of) the union of men in relation with his kindred. There will be occasion for regret.
+> **䷌** changing to [**䷠**](e981afdun.md)
 
-3. The third NINE, undivided, (shows its subject) with his arms hidden in the thick grass, and at the top of a high mound. (But) for three years he makes no demonstration.
+> Matching Line in Adjacent Hexagram: [14.1](e5a4a7e69c89dayou.md#14.1)
 
-4. The fourth NINE, undivided, (shows its subject) mounted on the city wall; but he does not proceed to make the attack (he contemplates). There will be good fortune.
+2.<a name="13.2"></a> The second SIX, divided, (shows the representative of) the union of men in relation with his kindred. There will be occasion for regret.
 
-5. In the fifth NINE, undivided, (the representative of) the union of men first wails and cries out, and then laughs. His great host conquers, and he (and the subject of the second line) meet together.
+> **䷌** changing to [**䷀**](e4b9beqian.md)
 
-6. The topmost NINE, undivided, (shows the representative
+> Matching Line in Adjacent Hexagram: [14.2](e5a4a7e69c89dayou.md#14.2)
+
+3.<a name="13.3"></a> The third NINE, undivided, (shows its subject) with his arms hidden in the thick grass, and at the top of a high mound. (But) for three years he makes no demonstration.
+
+> **䷌** changing to [**䷘**](e697a0e5a684wuwang.md)
+
+> Matching Line in Adjacent Hexagram: [14.3](e5a4a7e69c89dayou.md#14.3)
+
+4.<a name="13.4"></a> The fourth NINE, undivided, (shows its subject) mounted on the city wall; but he does not proceed to make the attack (he contemplates). There will be good fortune.
+
+> **䷌** changing to [**䷤**](e5aeb6e4babajiaren.md)
+
+> Matching Line in Adjacent Hexagram: [14.4](e5a4a7e69c89dayou.md#14.4)
+
+5.<a name="13.5"></a> In the fifth NINE, undivided, (the representative of) the union of men first wails and cries out, and then laughs. His great host conquers, and he (and the subject of the second line) meet together.
+
+> **䷌** changing to [**䷝**](e7a6bbli.md)
+
+> Matching Line in Adjacent Hexagram: [14.5](e5a4a7e69c89dayou.md#14.5)
+
+6.<a name="13.6"></a> The topmost NINE, undivided, (shows the representative
 
 ###### p. 87
 
 of) the union of men in the suburbs. There will be no occasion for repentance.
+
+> **䷌** changing to [**䷰**](e99da9ge.md)
+
+> Matching Line in Adjacent Hexagram: [14.6](e5a4a7e69c89dayou.md#14.6)
 
 ## Notes
 
@@ -43,4 +67,4 @@ Line 5 is strong, in an odd, and the central place; and would fain unite with 2,
 
 The union reaches to all within the suburbs, and is riot yet universal; but still there is no cause for repentance.
 
-# [同人](./e5908ce4babatongren_cn.md)
+# [同人 ䷌](./e5908ce4babatongren_cn.md)
