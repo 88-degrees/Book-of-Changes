@@ -1,6 +1,6 @@
 ###### p. 418
 
-## SECTION II: **[**Kūn ䷁**](./e59da4kun.md)** <a name="fr_285"></a>[<sub>1</sub>](#fn_285)
+## SECTION II: **[**Kūn ䷁**](./e59da4kun.md)** <a name="fr_285"></a><sub>[1](#fn_285)</sub>
 
 Chapter I.
 

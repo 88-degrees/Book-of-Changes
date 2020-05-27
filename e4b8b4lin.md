@@ -9,27 +9,27 @@
 **Lín ䷒** (indicates that under the conditions supposed in it) there will be great progress and success,
 while it will be advantageous to be firmly correct. In the eighth month there will be evil.
 
-1. The first NINE, undivided, shows its subject advancing in company (with the subject of the
+1.<a name="19.1"></a> The first NINE, undivided, shows its subject advancing in company (with the subject of the
 
 ###### p. 98
 
 second line). Through his firm correctness there will be good fortune.
 
-2. The second NINE, undivided, shows its subject advancing in company (with the subject of the first line). There will be good fortune; (advancing) will be in every way advantageous.
+2.<a name="19.2"></a> The second NINE, undivided, shows its subject advancing in company (with the subject of the first line). There will be good fortune; (advancing) will be in every way advantageous.
 
-3. The third SIX, divided, shows one well pleased (indeed) to advance, (but whose action) will be in no way advantageous. If he become anxious about it (however), there will be no error.
+3.<a name="19.3"></a> The third SIX, divided, shows one well pleased (indeed) to advance, (but whose action) will be in no way advantageous. If he become anxious about it (however), there will be no error.
 
-4. The fourth SIX, divided, shows one advancing in the highest mode. There will be no error.
+4.<a name="19.4"></a> The fourth SIX, divided, shows one advancing in the highest mode. There will be no error.
 
-5. The fifth SIX, divided, shows the advance of wisdom, such as befits the great ruler. There will be good fortune.
+5.<a name="19.5"></a> The fifth SIX, divided, shows the advance of wisdom, such as befits the great ruler. There will be good fortune.
 
-6. The sixth SIX, divided, shows the advance of honesty and generosity. There will be good fortune, and no error.
+6.<a name="19.6"></a> The sixth SIX, divided, shows the advance of honesty and generosity. There will be good fortune, and no error.
 
 ## Notes
 
 In [Appendix VI](appendix06s1.md) **Lín ䷒** is explained as meaning 'great.' The writer, having misunderstood the meaning of the previous [**Gǔ ䷑**](e89b8agu.md), subjoins -- 'He who performs such services may become "great."' But **Lín ䷒** denotes the approach of authority, -- to inspect, to comfort, or to rule. When we look at the figure, we see two strong undivided lines advancing on the four weak lines above them, and thence follows the assurance that their action will be powerful and successful. That action must be governed by rectitude, however, and by caution grounded on the changing character of all conditions and events.
 
-The meaning of the concluding sentence is given in [Appendix I](appendix01s1.md#fn_143) as simply being -- that, 'the advancing power will decay in no long time.' Lû Kăn-khî (Míng dynasty) says: -- 'The sun (or the day) is the symbol of what is `Yáng`; and the moon is the symbol of what is `Yīn`. Eight is the number of the second of the four emblematic figures (the smaller Yin), and seven is the number of the third of them (the smaller `Yáng`). Hence to indicate the period of the coming of what is `Yīn`, we use the phrase, "the eighth month"; and to indicate the period of the coming of what is [<sub>p. 99</sub>](e8a782guan.md#p-99) `Yáng`, we use the phrase, "the seventh day".'
+The meaning of the concluding sentence is given in [Appendix I](appendix01s1.md#fn_143) as simply being -- that, 'the advancing power will decay in no long time.' Lû Kăn-khî (Míng dynasty) says: -- 'The sun (or the day) is the symbol of what is `Yáng`; and the moon is the symbol of what is `Yīn`. Eight is the number of the second of the four emblematic figures (the smaller Yin), and seven is the number of the third of them (the smaller `Yáng`). Hence to indicate the period of the coming of what is `Yīn`, we use the phrase, "the eighth month"; and to indicate the period of the coming of what is <sub>[p. 99](e8a782guan.md#p-99)</sub> `Yáng`, we use the phrase, "the seventh day".'
 
 The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that this is the best explanation of the language of the Text that can be given: -- 'The `Yáng` numbers culminate in 9, the influence then receding and producing the 8 of the smaller Yin. The Yin numbers culminate in 6, and the next advance produces the 7 of the smaller `Yáng`; so that 7 and 8 are the numbers indicating the first birth of what is `Yīn` and what is `Yáng`.' 'If we go to seek,' they add, 'any other explanation of the phraseology of the Text, and such expressions as "3 days", "3 years", "10 years", &c., we make them unintelligible.' **Lín ䷒** is the hexagram of the twelfth month.
 

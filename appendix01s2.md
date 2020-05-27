@@ -484,7 +484,7 @@ With paragraph 3, compare the concluding paragraphs of the [Tuàn Zhuàn](https:
 
 1. One sees the relative position of the strong and weak lines in the figure; but to deduce from that the idea expressed by **Kūn ☷** requires a painful straining of the imagination. That idea was in the mind, and then the lines were interpreted accordingly.
 
-2. 'Perilousness' is the attribute of the lower trigram, and 'satisfaction' that of the upper. The superior man, however straitened, [<sub>p. 253</sub>](#p-253) remains master of himself, and pursues the proper end of principle settled in his mind.
+2. 'Perilousness' is the attribute of the lower trigram, and 'satisfaction' that of the upper. The superior man, however straitened, <sub>[p. 253](#p-253)</sub> remains master of himself, and pursues the proper end of principle settled in his mind.
 
 Why should the subject of **Kūn ☷** make speeches, be fond of arguing or pleading, -- as the characters say, if we could translate them literally, 'setting a value on the mouth?' The reply to this is found in the trigram denoting 'satisfaction,' or 'being pleased.' The party in the extremity of **Kūn ☷** yet wishes and tries to make men pleased with him.
 
@@ -578,7 +578,7 @@ A good commentary on paragraph 3 is supplied in many passages of 'the Doctrine o
 
 <a name="fn_186"></a>[264:LXII](#fr_186) Paragraph 1. That the small lines exceed the others appears at a glance. The intimation of progress and attainment is less clear. Compare the first paragraph of [Appendix I](#p-240) to hexagram 33 ䷠.
 
-'The requirements of the time' in paragraph 2 cannot make [<sub>p. 265</sub>](#p-265) right wrong or wrong right; but they may modify the conventional course to be taken in any particular case.
+'The requirements of the time' in paragraph 2 cannot make <sub>[p. 265](#p-265)</sub> right wrong or wrong right; but they may modify the conventional course to be taken in any particular case.
 
 It is easy to explain paragraphs 3 and 4, but what is said in them carries no conviction to the mind.
 

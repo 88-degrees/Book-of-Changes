@@ -33,7 +33,7 @@ The Chinese character 观 (Guān), from which this hexagram is named, is used in
 
 In the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), [King Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) symbolises the sovereign by a worshipper when he is most solemn in his religious service, at the commencement of it, full of sincerity and with a dignified carriage.
 
-Line 1 is weak, and in the lowest place, improper also for it; -- [<sub>p. 101</sub>](#p-101) the symbol of a thoughtless lad, who cannot see far, and takes only superficial views.
+Line 1 is weak, and in the lowest place, improper also for it; -- <sub>[p. 101](#p-101)</sub> the symbol of a thoughtless lad, who cannot see far, and takes only superficial views.
 
 Line 2 is also weak, but in its proper place, showing a woman, living retired, and only able to peep as from her door at the subject of the fifth line. But ignorance and retirement are proper in a woman.
 
