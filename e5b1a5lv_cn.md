@@ -1,6 +1,6 @@
 # 履 ䷉
 
-<img src="https://i.zgjm.net/d/file/20170330/dd4e2af72cb7bfd82d89ccfb42a5a867.jpg" width=160 alt="履" align=left>
+<img src="shapes/10.10.jpg" width=160 alt="履" align=left>
 
 履（lǚ）卦的代号是`6:7` ，主卦是兑卦，卦象是泽，阳数是`6`；客卦是乾卦，卦象是天，阳数是`7`。
 
@@ -718,7 +718,7 @@
 
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no10tianzelv.jpg">
+<img src="shapes/10.11.jpg">
 
 ### 《断易天机》解
 
@@ -813,7 +813,7 @@
 
 ### 初九变卦：天泽履 变卦 天水讼
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/10_1.png" align=left>
+<img src="shapes/10.01.png" align=left>
 
 初九爻动变得[第6卦：天水讼](./e8aebcsong_cn.md)。
 
@@ -852,7 +852,7 @@
 
 ### 九二变卦：天泽履 变卦 天雷无妄
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/10_2.png" align=left>
+<img src="shapes/10.02.png" align=left>
 
 九二爻动变得[第25卦：天雷无妄](./e697a0e5a684wuwang_cn.md)。
 
@@ -891,7 +891,7 @@
 
 ### 六三变卦：天泽履 变卦 乾为天
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/10_3.png" align=left>
+<img src="shapes/10.03.png" align=left>
 
 六三爻动变得[第1卦：乾为天](./e4b9beqian_cn.md)。
 
@@ -927,7 +927,7 @@
 
 ### 九四变卦：天泽履 变卦 风泽中孚
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/10_4.png" align=left>
+<img src="shapes/10.04.png" align=left>
 
 九四爻动变得[第61卦：风泽中孚](./e4b8ade5ad9azhongfu_cn.md)。
 
@@ -963,7 +963,7 @@
 
 ### 九五变卦：天泽履 变卦 火泽睽
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/10_5.png" align=left>
+<img src="shapes/10.05.png" align=left>
 
 九五爻动变得[第38卦：火泽睽](./e79dbdkui_cn.md)。
 
@@ -1004,7 +1004,7 @@
 
 ### 上九变卦：天泽履 变卦 兑为泽
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/10_6.png" align=left>
+<img src="shapes/10.06.png" align=left>
 
 上九爻动变得[第58卦：兑为泽](./e58591dui_cn.md)。
 
@@ -1018,4 +1018,4 @@
 兑为悦也。
 同秉刚健之德，外抱柔和之姿，坚行正道，导民向上。
 　　　　　　　　　　　　　　　　　　　　　　
-# [Lv](./e5b1a5lv.md)
+# [Lǚ ䷉](./e5b1a5lv.md)
