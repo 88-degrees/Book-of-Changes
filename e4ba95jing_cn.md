@@ -1,6 +1,6 @@
 # 井 ䷯
 
-<img src="https://i.zgjm.net/d/file/20170331/6256ecf472189ab98d674d43b340854a.jpg" width=160 alt="井" align=left>
+<img src="shapes/48.10.jpg" width=160 alt="井" align=left>
 
 井（jǐng）卦展示在像“井”的形势下各种变化的可能性。
 
@@ -484,7 +484,7 @@
 羸其瓶，是以凶也。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no48shuifengjing.png">
+<img src="shapes/48.11.png">
 
 ### 《断易天机》解
 
@@ -578,7 +578,7 @@
 
 ### 初六变卦：水风井 变卦 水天需
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/48_1.png" align=left>
+<img src="shapes/48.01.png" align=left>
 
 初六爻动变得[第5卦：水天需](./e99c80xu_cn.md)。
 
@@ -615,7 +615,7 @@
 
 ### 九二变卦：水风井 变卦 水山蹇
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/48_2.png" align=left>
+<img src="shapes/48.02.png" align=left>
 
 九二爻动变得[第39卦：水山蹇](./e8b987jian_cn.md)。
 
@@ -654,7 +654,7 @@
 
 ### 九三变卦：水风井 变卦 坎为水
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/48_3.png" align=left>
+<img src="shapes/48.03.png" align=left>
 
 九三爻动变得[第29卦：坎为水](./e59d8ekan_cn.md)。
 
@@ -691,7 +691,7 @@
 
 ### 六四变卦：水风井 变卦 泽风大过
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/48_4.png" align=left>
+<img src="shapes/48.04.png" align=left>
 
 六四爻动变得[第28卦：泽风大过](./e5a4a7e8bf87daguo_cn.md)。
 
@@ -727,7 +727,7 @@
 
 ### 九五变卦：水风井 变卦 地风升
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/48_5.png" align=left>
+<img src="shapes/48.05.png" align=left>
 
 九五爻动变得[第46卦：地风升](./e58d87sheng_cn.md)。
 
@@ -764,7 +764,7 @@
 
 ### 上六变卦：水风井 变卦 巽为风
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/48_6.png" align=left>
+<img src="shapes/48.06.png" align=left>
 
 上六爻动变得[第57卦：巽为风](./e5b7bdxun_cn.md)。
 
