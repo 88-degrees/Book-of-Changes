@@ -1,6 +1,6 @@
 # 蛊 ䷑
 
-<img src="https://i.zgjm.net/d/file/20170331/d42418e0e2a48e23973889c3e9bb6c1c.jpg" width=160 alt="蛊" align=left>
+<img src="18.10.jpg" width=160 alt="蛊" align=left>
 
 蛊（gǔ）卦展示“蛊”的形势下各种变化的可能性，“蛊”的意思是祸乱。
 
@@ -693,7 +693,7 @@
 5. 六五：干父之蛊，用誉。《象》曰：干父用誉，承以德也。没有什么东西比成功更能导致成功的了。然后如果仅仅是坐享其成，就会一代不如一代。故继父之蛊，必须用誉。我们的目的就是更上一层楼和承之以德，否则何须父辈为我们铺展前进的道路。故身为人子，最大的孝莫过于继父之志述父之事，开创更加美好未来，宏扬更为辉煌的业绩，是以“干父用誉，承以德也。”当然，我们现今的社会由于政策的开放和世界的融入，需要的是各尽其能各展其才，继承父业不再是人们的最佳选择，而是另一种继承的出现，那就是人人都可以施展能力超越发展了。
 6. 上九：不事王侯，高尚其事。《象》曰：不事王侯，志可则也。不事，不谋划也。观天之大，地之厚，物之众，人之多，不自尚其事，不自尊其业，安能存其身利其已。因此君子不以小谋大，不以远言近，而当脚踏实地高尚其事。如此是以志可则，事可考矣。故君子做事要有分寸，要实在，要合情，“不事王侯，高尚其事。”天下甚幸！
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no18shanfenggu.jpg">
+<img src="18.11.jpg">
 
 ### 《断易天机》解
 
@@ -791,7 +791,7 @@
 
 ### 初六变卦：山风蛊 变卦 山天大畜
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/18_1.png" align=left>
+<img src="18.01.png" align=left>
 
 初六爻动变得[第26卦：山天大畜](./e5a4a7e89384daxu_cn.md)。
 
@@ -829,7 +829,7 @@
 
 ### 九二变卦：山风蛊 变卦 艮为山
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/18_2.png" align=left>
+<img src="18.02.png" align=left>
 
 九二爻动变得[第52卦：艮为山](./e889aegen_cn.md)。
 
@@ -869,7 +869,7 @@
 
 ### 九三变卦：山风蛊 变卦 山水蒙
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/18_3.png" align=left>
+<img src="18.03.png" align=left>
 
 九三爻动变得[第4卦：山水蒙](./e89299meng_cn.md)。
 
@@ -907,7 +907,7 @@
 
 ### 六四变卦：山风蛊 变卦 火风鼎
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/18_4.png" align=left>
+<img src="18.04.png" align=left>
 
 六四爻动变得[第50卦：火风鼎](./e9bc8eding_cn.md)。
 
@@ -945,7 +945,7 @@
 
 ### 六五变卦：山风蛊 变卦 巽为风
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/18_5.png" align=left>
+<img src="18.05.png" align=left>
 
 六五爻动变得[第57卦：巽为风](./e5b7bdxun_cn.md)。
 
@@ -981,7 +981,7 @@
 
 ### 上九变卦：山风蛊 变卦 地风升
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/18_6.png" align=left>
+<img src="18.06.png" align=left>
 
 上九爻动变得[第46卦：地风升](./e58d87sheng_cn.md)。
 
@@ -993,4 +993,4 @@
 
 喻事业步步高升，前程远大，故名“升”。
 
-# [Gu](./e89b8agu.md)
+# [Gu ䷑](./e89b8agu.md)
