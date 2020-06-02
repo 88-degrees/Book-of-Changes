@@ -2,18 +2,31 @@
 
 > Chinese: 蛊 ䷑ gǔ
 
+* Arresting Decay
+
 ###### p. 95
 
 ![Gu](https://88o.io/wp-content/uploads/2018/09/18-e89b8agu.jpg)
 
-**Gǔ ䷑** indicates great progress and success (to him who deals properly with the condition represented by it).
-There will be advantage in (efforts like that of) crossing the great stream. (He should weigh well, however, the events of) three days before the turning point, and those (to be done) three days after it.
+**Gǔ ䷑** indicates great progress and success (to him who deals properly with the condition represented by it). There will be advantage in (efforts like that of) crossing the great stream. (He should weigh well, however, the events of) three days before the turning point, and those (to be done) three days after it.
 
 1.<a name="18.1"></a> The first SIX, divided, shows (a son) dealing with the troubles caused by his father. If he be an (able) son, the father will escape the blame of having erred. The position is perilous, but there will be good fortune in the end.
 
+> **䷑** changing to [**䷙**](e5a4a7e89384daxu.md)
+
+> Matching Line in Adjacent Hexagram: [17.1](e99a8fsui.md#17.1)
+
 2.<a name="18.2"></a> The second NINE, undivided, shows (a son) dealing with the troubles caused by his mother. He should not (carry) his firm correctness (to the utmost).
 
+> **䷑** changing to [**䷳**](e889aegen.md)
+
+> Matching Line in Adjacent Hexagram: [17.2](e99a8fsui.md#17.2)
+
 3.<a name="18.3"></a> The third NINE, undivided, shows (a son) dealing with the troubles caused by his father. There may be some small occasion for repentance, but there will not be any great error.
+
+> **䷑** changing to [**䷃**](e89299meng.md)
+
+> Matching Line in Adjacent Hexagram: [17.3](e99a8fsui.md#17.3)
 
 4.<a name="18.4"></a> The fourth SIX, divided, shows (a son) viewing
 
@@ -21,17 +34,25 @@ There will be advantage in (efforts like that of) crossing the great stream. (He
 
 indulgently the troubles caused by his father. If he go forward, he will find cause to regret it.
 
+> **䷑** changing to [**䷱**](e9bc8eding.md)
+
+> Matching Line in Adjacent Hexagram: [17.4](e99a8fsui.md#17.4)
+
 5.<a name="18.5"></a> The fifth SIX, divided, shows (a son) dealing with the troubles caused by his father. He obtains the praise of using (the fit instrument for his work).
+
+> **䷑** changing to [**䷸**](e5b7bdxun.md)
+
+> Matching Line in Adjacent Hexagram: [17.5](e99a8fsui.md#17.5)
 
 6.<a name="18.6"></a> The sixth NINE, undivided, shows us one who does not serve either king or feudal lord, but in a lofty spirit prefers (to attend to) his own affairs.
 
+> **䷑** changing to [**䷭**](e58d87sheng.md)
+
+> Matching Line in Adjacent Hexagram: [17.6](e99a8fsui.md#17.6)
+
 ## Notes
 
-In the 6th Appendix it is said, They who follow another are sure to have services (to perform), and hence [**Suí ䷐**](e99a8fsui.md) is followed by **Gǔ ䷑**.
-But **Gǔ ䷑** means the having painful or troublesome services to do. It denotes here a state in which things are going to ruin, as if through poison or venomous worms;
-and the figure is supposed to describe the arrest of the decay and the restoration to soundness and vigour, so as to justify its auspice of great progress and success.
-To realise such a result, however, great efforts will be required, as in crossing the great stream; and a careful consideration of the events that have brought on the state of decay,
-and the measures to be taken to remedy it is also necessary. See [Appendix I](appendix01s1.md#p-229) on the 'three days.'
+In the [6th Appendix](appendix06s1.md) it is said, They who follow another are sure to have services (to perform), and hence [**Suí ䷐**](e99a8fsui.md) is followed by **Gǔ ䷑**. But **Gǔ ䷑** means the having painful or troublesome services to do. It denotes here a state in which things are going to ruin, as if through poison or venomous worms; and the figure is supposed to describe the arrest of the decay and the restoration to soundness and vigour, so as to justify its auspice of great progress and success. To realise such a result, however, great efforts will be required, as in crossing the great stream; and a careful consideration of the events that have brought on the state of decay, and the measures to be taken to remedy it is also necessary. See [Appendix I](appendix01s1.md#p-229) on the 'three days.'
 
 The subject of line 1, and of all the other lines, excepting perhaps 6, appears as a son. Yet the line itself is of the `yīn` nature, and the trigram in which it plays the principal part is also `yīn`.
 
