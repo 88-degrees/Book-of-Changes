@@ -1,8 +1,8 @@
 # Gǔ ䷑
 
-> Chinese: 蛊 ䷑ gǔ
-
 * Arresting Decay
+
+> Chinese: 蛊 ䷑ gǔ
 
 ###### p. 95
 
