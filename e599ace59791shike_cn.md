@@ -1,6 +1,6 @@
 # 噬嗑 ䷔
 
-<img src="https://i.zgjm.net/d/file/20170331/70c4765aa6a188fcccaa1f653815adb0.jpg" width=160 alt="噬嗑" align=left>
+<img src="shapes/21.10.jpg" width=160 alt="噬嗑" align=left>
 
 噬嗑卦是《易经》六十四卦第21卦。
 
@@ -637,7 +637,7 @@
 杀了他，灭口。大家都安逸了。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no21huoleishike.png">
+<img src="shapes/21.11.png">
 
 ### 《断易天机》解
 
@@ -732,7 +732,7 @@
 
 ### 初九变卦：火雷噬嗑 变卦 火地晋
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/21_1.png" align=left>
+<img src="shapes/21.01.png" align=left>
 
 初九爻动变得[第35卦：火地晋](./e6998bjin_cn.md)。
 
@@ -771,7 +771,7 @@
 
 ### 六二变卦：火雷噬嗑 变卦 火泽睽
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/21_2.png" align=left>
+<img src="shapes/21.02.png" align=left>
 
 六二爻动变得[第38卦：火泽睽](./e79dbdkui_cn.md)。
 
@@ -812,7 +812,7 @@
 
 ### 六三变卦：火雷噬嗑 变卦 离为火
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/21_3.png" align=left>
+<img src="shapes/21.03.png" align=left>
 
 六三爻动变得[第30卦：离为火](./e7a6bbli_cn.md)。
 
@@ -852,7 +852,7 @@
 
 ### 九四变卦：火雷噬嗑 变卦 山雷颐
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/21_4.png" align=left>
+<img src="shapes/21.04.png" align=left>
 
 九四爻动变得[第27卦：山雷颐](./e9a290yi_cn.md)。
 
@@ -892,7 +892,7 @@
 
 ### 六五变卦：火雷噬嗑 变卦 天雷无妄
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/21_5.png" align=left>
+<img src="shapes/21.05.png" align=left>
 
 六五爻动变得[第25卦：天雷无妄](./e697a0e5a684wuwang_cn.md)。
 
@@ -933,7 +933,7 @@
 
 ### 上九变卦：火雷噬嗑 变卦 震为雷
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/21_6.png" align=left>
+<img src="shapes/21.06.png" align=left>
 
 上九爻动变得[第51卦：震为雷](./e99c87zhen_cn.md)。
 
@@ -946,4 +946,4 @@
 平日应居安思危，怀恐惧心理，不敢有所怠慢，
 遇到突发事变，也能安然自若，谈笑如常。
 
-# [Shike](./e599ace59791shike.md)
+# [Shì Kè ䷔](./e599ace59791shike.md)
