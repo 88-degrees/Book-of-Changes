@@ -1,6 +1,6 @@
 # 丰 ䷶
 
-<img src="https://i.zgjm.net/d/file/20170331/ea306866698a28633a18a60d5e3a2bd4.jpg" width=160 alt="丰" align=left>
+<img src="shapes/55.10.jpg" width=160 alt="丰" align=left>
 
 丰（fēng）是`5:4`卦的卦名，`5:4`是丰卦的代号。
 
@@ -349,7 +349,7 @@
 就是荒废一些时日，也没有关系，也不会遭战败之祸。
 ⑥ 往有尚：指征伐无道昏君，会得到人们的拥护和崇尚。
 ⑦ 丰其蔀：“丰”，本丰富，此处当盛大的王师讲 。
-“蔀”（bu部），古谓日蔽云中，又有“大暗谓蔀”一说。
+“蔀”（bù 部），古谓日蔽云中，又有“大暗谓蔀”一说。
 但按“上六”爻的“蔀其家”，
 “蔀”当“日蔽云中”和“大暗”讲则不妥。
 又参《小畜》一卦卦辞“密云不雨，
@@ -363,9 +363,9 @@
 ⑨ 往得疑疾：谓王师见此状而产生疑虑。
 ⑩ 有孚发若：谓君王当用诚实的信用，
 鼓舞本国将士的士气和去感化被征伐邑国的臣民。
-⑾ 丰其沛：“沛”（qei配），盛大。
+⑾ 丰其沛：“沛”（pèi 配），盛大。
 “丰其沛”，基本上与“丰其蔀”意思相同。
-⑿ 日中见沬：“沬”（mei妹），通昧，微暗。
+⑿ 日中见沬：“沬”（mèi 妹），通昧，微暗。
 “日中见沬”，指被征伐的邑国尚不很黑暗 。
 ⒀ 折其右肱：“折”，折断。
 “肱”（gōng 公），本指臂，此处指股肱之臣。
@@ -530,7 +530,7 @@
 结果恶霸逃了，人去楼空，悲催的恶霸吓得三年都不敢回家。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no55leihuofeng.png">
+<img src="shapes/55.11.png">
 
 ### 《断易天机》解
 
@@ -622,7 +622,7 @@
 
 ### 初九变卦：雷火丰 变卦 雷山小过
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/55_1.png" align=left>
+<img src="shapes/55.01.png" align=left>
 
 初九爻动变得[第62卦：雷山小过](./e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -651,19 +651,16 @@
 
 吉：得此爻者，有久困发财之美，有讼者不辩自明，有病者会愈。做官的忠言多阻于邪议，先失后得。
 
-台湾国学大儒傅佩荣解
+### 台湾国学大儒 傅佩荣 解
 
-时运：坚守正道，逢凶化吉。
-
-财运：以诚待人，拨云见月。
-
-家宅：明亮为宜；始疑终谐。
-
-身体：狭心之症，需要开导。
+- 时运：坚守正道，逢凶化吉。
+- 财运：以诚待人，拨云见月。
+- 家宅：明亮为宜；始疑终谐。
+- 身体：狭心之症，需要开导。
 
 ### 六二变卦：雷火丰 变卦 雷天大壮
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/55_2.png" align= left>
+<img src="shapes/55.02.png" align= left>
 
 六二爻动变得[第34卦：雷天大壮](./e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -701,7 +698,7 @@
 
 ### 九三变卦：雷火丰 变卦 震为雷
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/55_3.png" align=left>
+<img src="shapes/55.03.png" align=left>
 
 九三爻动变得[第51卦：震为雷](./e99c87zhen_cn.md)。
 
@@ -741,7 +738,7 @@
 
 ### 九四变卦：雷火丰 变卦 地火明夷
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/55_4.png" align=left>
+<img src="shapes/55.04.png" align=left>
 
 九四爻动变得[第36卦：地火明夷](./e6988ee5a4b7mingyi_cn.md)。
 
@@ -777,7 +774,7 @@
 
 ### 六五变卦：雷火丰 变卦 泽火革
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/55_5.png" align=left>
+<img src="shapes/55.05.png" align=left>
 
 六五爻动变得[第49卦：泽火革](./e99da9ge_cn.md)。
 
@@ -818,7 +815,7 @@
 
 ### 上六变卦：雷火丰 变卦 离为火
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/55_6.png" align=left>
+<img src="shapes/55.06.png" align=left>
 
 上六爻动变得[第30卦：离为火](./e7a6bbli_cn.md)。
 
@@ -828,4 +825,4 @@
 
 离为火、为明，太阳反复升落，运行不息，柔顺为心。
 
-# [Feng](./e4b8b0feng.md)
+# [Fēng ䷶](./e4b8b0feng.md)

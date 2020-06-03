@@ -1,6 +1,6 @@
 # 大壮 ䷡
 
-<img src="https://i.zgjm.net/d/file/20170331/0fb7e671e14654c186251518c9951d74.jpg" width=160 alt="大壮" align=left>
+<img src="shapes/34.10.jpg" width=160 alt="大壮" align=left>
 
 大壮（dà zhuàng）是 `7:4` 卦的卦名，`7:4` 是大壮卦的代号。
 
@@ -150,7 +150,8 @@
 
 《象》曰：九二“贞吉”，以中也。
 
-【白话】《象辞》说：《大壮卦》的第二爻位（九二）
+【白话】《象辞》说：
+《大壮卦》的第二爻位（九二）
 之所以能够坚守正道而获得吉祥，
 是因为它位置居中，能够以柔相出的原因。
 
@@ -473,7 +474,7 @@
 俱往矣，昔日肥沃繁茂的草原，今朝已变为现代化的钢筋水泥丛林和网络。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no34leitiandazhuang.png">
+<img src="shapes/34.11.png">
 
 ### 《断易天机》解
 
@@ -567,7 +568,7 @@
 
 ### 初九变卦：雷天大壮 变卦 雷风恒
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/34_1.png" align=left>
+<img src="shapes/34.01.png" align=left>
 
 初九爻动变得[第32卦：雷风恒](./e68192heng_cn.md)。
 
@@ -606,7 +607,7 @@
 
 ### 九二变卦：雷天大壮 变卦 雷火丰
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/34_2.png" align=left>
+<img src="shapes/34.02.png" align=left>
 
 九二爻动变得[第55卦：雷火丰](./e4b8b0feng_cn.md)。
 
@@ -642,7 +643,7 @@
 
 ### 九三变卦：雷天大壮 变卦 雷泽归妹
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/34_3.png" align=left>
+<img src="shapes/34.03.png" align=left>
 
 九三爻动变得[第54卦：雷泽归妹](./e5bd92e5a6b9guimei_cn.md)。
 
@@ -679,7 +680,7 @@
 
 ### 九四变卦：雷天大壮 变卦 地天泰
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/34_4.png" align=left>
+<img src="shapes/34.04.png" align=left>
 
 九四爻动变得[第11卦：地天泰](./e6b3b0tai_cn.md)。
 
@@ -717,7 +718,7 @@
 
 ### 六五变卦：雷天大壮 变卦 泽天夬
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/34_5.png" align=left>
+<img src="shapes/34.05.png" align=left>
 
 六五爻动变得[第43卦：泽天夬](./e5a4acguai_cn.md)。
 
@@ -756,7 +757,7 @@
 
 ### 上六变卦：雷天大壮 变卦 火天大有
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/34_6.png" align=left>
+<img src="shapes/34.06.png" align=left>
 
 上六爻动变得[第14卦：火天大有](./e5a4a7e69c89dayou_cn.md)。
 
@@ -766,4 +767,4 @@
 
 火在天上，普照万物，万民归顺，顺天依时，大有所成。
 
-# [Dazhuang](./e5a4a7e5a3aedazhuang.md)
+# [Dà Zhuàng ䷡](./e5a4a7e5a3aedazhuang.md)

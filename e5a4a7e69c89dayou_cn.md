@@ -1,6 +1,6 @@
 # 大有 ䷍
 
-<img src="https://i.zgjm.net/d/file/20170330/f449d0f8670e69586703cd0bb7bc49e3.jpg" width=160 alt="大有" align=left>
+<img src="shapes/14.10.jpg" width=160 alt="大有" align=left>
 
 大有（dà yǒu）是`7:5`卦的卦名，`7:5`是大有卦的代号。
 
@@ -36,7 +36,7 @@
 
 根据当前情况，主方或者客方作出任何变化，都是非常规变化，不可预测。
 同时，也需要考虑常规变化，常规变化是事物自身的发展变化，按阳数，其规律是4、5、6、7、3、2、1和0。
-如主卦的阳数是7，已经达到了发展的顶峰，再继续下去，可能产生质变，从上升跃变到衰落，阳数从7下降到3。
+如主卦的阳数是`7`，已经达到了发展的顶峰，再继续下去，可能产生质变，从上升跃变到衰落，阳数从`7`下降到`3`。
 其变化主要是行动上，由积极主动变成消极被动。主方必须极力避免这种变化发生，保持积极主动的活力。
 客方可能发生的变化是从离卦变到兑卦，如果这种变化发生，对主方不利。
 总之，主方应当保持积极主动的活力，利用客方对自己的依附，与客方共同发展，相互补益。“大有”意味主方拥有客方。
@@ -569,7 +569,7 @@
 只要你顺应天理，顺其大有卦的道理，你当然会得到吉无不利。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no14huotiandayou.jpg">
+<img src="shapes/14.11.jpg">
 
 ### 《断易天机》解
 
@@ -662,7 +662,7 @@
 
 ### 初九变卦：火天大有 变卦 火风鼎
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/14_1.png" align=left>
+<img src="shapes/14.01.png" align=left>
 
 初九爻动变得[第50卦：火风鼎](./e9bc8eding_cn.md)。
 
@@ -701,7 +701,7 @@
 
 ### 九二变卦：火天大有 变卦 离为火
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/14_2.png" align=left>
+<img src="shapes/14.02.png" align=left>
 
 九二爻动变得[第30卦：离为火](./e7a6bbli_cn.md)。
 
@@ -739,7 +739,7 @@
 
 ### 九三变卦：火天大有 变卦 火泽睽
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/14_3.png" align=left>
+<img src="shapes/14.03.png" align=left>
 
 九三爻动变得[第38卦：火泽睽](./e79dbdkui_cn.md)。
 
@@ -780,7 +780,7 @@
 
 ### 九四变卦：火天大有 变卦 山天大畜
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/14_4.png" align=left>
+<img src="shapes/14.04.png" align=left>
 
 九四爻动变得[第26卦：山天大畜](./e5a4a7e89384daxu_cn.md)。
 
@@ -818,7 +818,7 @@
 
 ### 六五变卦：火天大有 变卦 乾为天
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/14_5.png" align=left>
+<img src="shapes/14.05.png" align=left>
 
 六五爻动变得[第1卦：乾为天](./e4b9beqian_cn.md)。
 
@@ -858,7 +858,7 @@
 
 ### 上九变卦：火天大有 变卦 雷天大壮
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/14_6.png" align=left>
+<img src="shapes/14.06.png" align=left>
 
 上九爻动变得[第34卦：雷天大壮](./e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -872,4 +872,4 @@
 刚壮有力故曰壮。大而且壮，故名大壮。
 四阳壮盛，积极而有所作为，上正下正，标正影直。
 
-# [Dayou](./e5a4a7e69c89dayou.md)
+# [Dà Yǒu ䷍](./e5a4a7e69c89dayou.md)
