@@ -1,6 +1,6 @@
 # 鼑 ䷱
 
-<img src="https://i.zgjm.net/d/file/20170331/190dc85e2961ee82920d53562c063eb0.jpg" width=160 alt="鼎" align=left>
+<img src="shapes/50.10.jpg" width=160 alt="鼎" align=left>
 
 鼎（dǐng）卦是《易经》六十四卦的第50卦，含义是稳定图变。
 
@@ -490,7 +490,7 @@
 就象玉体一样，刚中有柔，柔中有刚，刚柔相济，阴阳调和。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no50huofengding.png">
+<img src="shapes/50.11.png">
 
 ### 《断易天机》解
 
@@ -588,7 +588,7 @@
 
 ### 初六变卦：火风鼎 变卦 火天大有
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/50_1.png" align=left>
+<img src="shapes/50.01.png" align=left>
 
 初六爻动变得[第14卦：火天大有](./e5a4a7e69c89dayou_cn.md)。
 
@@ -624,7 +624,7 @@
 
 ### 九二变卦：火风鼎 变卦 火山旅
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/50_2.png" align=left>
+<img src="shapes/50.02.png" align=left>
 
 九二爻动变得[第56卦：火山旅](./e69785lv_cn.md)。
 
@@ -662,7 +662,7 @@
 
 ### 九三变卦：火风鼎 变卦 火水未济
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/50_3.png" align=left>
+<img src="shapes/50.03.png" align=left>
 
 九三爻动变得[第64卦：火水未济](./e69caae6b58eweiji_cn.md)。
 
@@ -700,7 +700,7 @@
 
 ### 九四变卦：火风鼎 变卦 山风蛊
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/50_4.png" align=left>
+<img src="shapes/50.04.png" align=left>
 
 九四爻动变得[第18卦：山风蛊](./e89b8agu_cn.md)。
 
@@ -738,7 +738,7 @@
 
 ### 六五变卦：风火鼎 变卦 天风姤
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/50_5.png" align=left>
+<img src="shapes/50.05.png" align=left>
 
 六五爻动变得[第44卦：天风姤](./e5a7a4gou_cn.md)。
 
@@ -778,7 +778,7 @@
 
 ### 上九变卦：火风鼎 变卦 雷风恒
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/50_6.png" align=left>
+<img src="shapes/50.06.png" align=left>
 
 上九爻动变得[第32卦：雷风恒](./e68192heng_cn.md)。
 
@@ -792,4 +792,4 @@
 
 阴阳相应，常情，故称为恒。
 
-# [Ding](./e9bc8eding.md)
+# [Dǐng ䷱](./e9bc8eding.md)
