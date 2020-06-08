@@ -1,6 +1,6 @@
 # 剥 ䷖
 
-<img src="https://i.zgjm.net/d/file/20170331/1ef5cceb308e85c4183fea4b4d4bb7cb.jpg" width=160 alt="剥" align=left>
+<img src="shapes/23.10.jpg" width=160 alt="剥" align=left>
 
 剥（bō）卦展示“剥”形势下各种变化的可能性。
 
@@ -746,7 +746,7 @@
 于是乎：大多数时候，剥卦都会被认为是凶卦。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no23shandibo.png">
+<img src="shapes/23.11.png">
 
 ### 《断易天机》解
 
@@ -846,7 +846,7 @@
 
 ### 初六变卦：山地剥 变卦 山雷颐
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/23_1.png" align=left>
+<img src="shapes/23.01.png" align=left>
 
 初六爻动变得[第27卦：山雷颐](./e9a290yi_cn.md)。
 
@@ -883,7 +883,7 @@
 
 ### 六二变卦：山地剥 变卦 山水蒙
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/23_2.png" align=left>
+<img src="shapes/23.02.png" align=left>
 
 六二爻动变得[第4卦：山水蒙](./e89299meng_cn.md)。
 
@@ -920,7 +920,7 @@
 
 ### 六三变卦：山地剥 变卦 艮为山
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/23_3.png" align=left>
+<img src="shapes/23.03.png" align=left>
 
 六三爻动变得[第52卦：艮为山](./e889aegen_cn.md)。
 
@@ -958,7 +958,7 @@
 
 ### 六四变卦：山地剥 变卦 火地晋
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/23_4.png" align=left>
+<img src="shapes/23.04.png" align=left>
 
 六四爻动变得[第35卦：火地晋](./e6998bjin_cn.md)。
 
@@ -995,7 +995,7 @@
 
 ### 六五变卦：山地剥 变卦 风地观
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/23_5.png" align=left>
+<img src="shapes/23.05.png" align=left>
 
 六五爻动变得[第20卦：风地观](./e8a782guan_cn.md)。
 
@@ -1032,7 +1032,7 @@
 
 ### 上九变卦：山地剥 变卦 坤为地
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/23_6.png" align=left>
+<img src="shapes/23.06.png" align=left>
 
 上九爻动变得[第2卦：坤为地](./e59da4kun_cn.md)。
 
@@ -1046,4 +1046,4 @@
 它以“先迷后得”证明“坤”顺从“乾”，依随“乾”，
 才能把握正确方向，遵循正道，获取吉利。
 
-# [Bo](./e589a5bo.md)
+# [Bō ䷖](./e589a5bo.md)

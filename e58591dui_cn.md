@@ -1,6 +1,6 @@
 # 兑 ䷹
 
-<img src="https://i.zgjm.net/d/file/20170331/3c898c6de4cda33bb554a3e227e12c41.jpg" width=160 alt="兑" align=left>
+<img src="shapes/58.10.jpg" width=160 alt="兑" align=left>
 
 兑（duì）卦是《周易》第58卦，代号是`6:6`。
 
@@ -649,7 +649,7 @@
 不玩什么下马威之类的才是长久吉祥之道。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no58duiweize.png">
+<img src="shapes/58.11.png">
 
 ### 《断易天机》解
 
@@ -741,7 +741,7 @@
 
 ### 初九变卦：兑为泽 变卦 泽水困卦
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/58_1.png" align=left>
+<img src="shapes/58.01.png" align=left>
 
 初九爻动变得周易[第47卦：泽水困](./e59bb0kun_cn.md)。
 
@@ -778,7 +778,7 @@
 
 ### 九二变卦：兑为泽 变卦 泽雷随
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/58_2.png" align=left>
+<img src="shapes/58.02.png" align=left>
 
 九二爻动变得[第17卦：泽雷随](./e99a8fsui_cn.md)。
 
@@ -815,7 +815,7 @@
 
 ### 六三变卦：兑为泽 变卦 泽天夬
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/58_3.png" align=left>
+<img src="shapes/58.03.png" align=left>
 
 六三爻动变得[第43卦：泽天夬](./e5a4acguai_cn.md)。
 
@@ -852,7 +852,7 @@
 
 ### 九四变卦：兑为泽 变卦 水泽节
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/58_4.png" align=left>
+<img src="shapes/58.04.png" align=left>
 
 九四爻动变得[第60卦：水泽节](./e88a82jie_cn.md)。
 
@@ -891,7 +891,7 @@
 
 ### 九五变卦：兑为泽 变卦 雷泽归妹
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/58_5.png" align=left>
+<img src="shapes/58.05.png" align=left>
 
 九五爻动变得[第54卦：雷泽归妹](./e5bd92e5a6b9guimei_cn.md)。
 
@@ -928,7 +928,7 @@
 
 ### 上六变卦：兑为泽 变卦 天泽履
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/58_6.png" align=left>
+<img src="shapes/58.06.png" align=left>
 
  上六爻动变得[第10卦：天泽履](./e5b1a5lv_cn.md)。
 
@@ -940,4 +940,4 @@
 因此，结果吉利。君上民下，各得其位。
 兑柔遇乾刚，所履危。履意为实践，卦义是脚踏实地的向前进取的意思。
 
-# [Dui](./e58591dui.md)
+# [Duì ䷹](./e58591dui.md)
