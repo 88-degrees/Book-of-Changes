@@ -1,11 +1,11 @@
 # 同人 ䷌
 
-<img src="https://i.zgjm.net/d/file/20170330/4298f9ee68ee68501ca40ba870289b3f.jpg" width=160 alt="同人" align=left>
+<img src="shapes/13.10.jpg" width=160 alt="同人" align=left>
 
-同人卦是《易经》六十四卦第13卦。
+同人卦，阐释和同的原则。
 
-同人卦，阐释和同的原则。此卦的主要精神是首先应当破除一家﹑一族的私见，
-重视大同，不计较小异，本着大公无私的精神，以道义为基础，于异中求同，积极的广泛与人和同，才能实现大同世界的理想。
+此卦的主要精神是首先应当破除一家﹑一族的私见，重视大同，不计较小异，
+本着大公无私的精神，以道义为基础，于异中求同，积极的广泛与人和同，才能实现大同世界的理想。
 
 正义必然使邪恶屈服，但障碍必须果敢的排除。
 同人的意思是会同他人。`5:7`是同人卦的代号，表示其主卦是`5`卦离卦，客卦是`7`卦乾卦。
@@ -634,7 +634,7 @@
 这的确是值得我们好好思索的一个问题。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no13tianhuotongren.jpg">
+<img src="shapes/13.11.jpg">
 
 ### 《断易天机》解
 
@@ -726,7 +726,7 @@
 
 ### 初九变卦：天火同人 变卦 天山遁
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/13_1.png" align=left>
+<img src="shapes/13.01.png" align=left>
 
 初九爻动变得[第33卦：天山遁](./e981afdun_cn.md)。
 
@@ -762,7 +762,7 @@
 
 ### 六二变卦：天火同人 变卦 乾为天
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/13_2.png" align=left>
+<img src="shapes/13.02.png" align=left>
 
 六二爻动变得[第1卦：乾为天](./e4b9beqian_cn.md)。
 
@@ -798,7 +798,7 @@
 
 ### 九三变卦：天火同人 变卦 天雷无妄
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/13_3.png" align=left>
+<img src="shapes/13.03.png" align=left>
 
 九三爻动变得[第25卦：天雷无妄](./e697a0e5a684wuwang_cn.md)。
 
@@ -835,7 +835,7 @@
 
 ### 九四变卦：天火同人 变卦 风火家人
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/13_4.png" align=left>
+<img src="shapes/13.04.png" align=left>
 
 九四爻动变得[第37卦：风火家人](./e5aeb6e4babajiaren_cn.md)。
 
@@ -874,7 +874,7 @@
 
 ### 九五变卦：天火同人 变卦 离为火
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/13_5.png" align=left>
+<img src="shapes/13.05.png" align=left>
 
 九五爻动变得[第30卦：离为火](./e7a6bbli_cn.md)。
 
@@ -910,7 +910,7 @@
 
 ### 上九变卦：天火同人 变卦 泽火革
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/13_6.png" align=left>
+<img src="shapes/13.06.png" align=left>
 
 上九爻动变得[第49卦：泽火革](./e99da9ge_cn.md)。
 
@@ -923,4 +923,4 @@
 
 二者相生亦相克，必然出现变革。变革是宇宙的基本规律。
 
-# [Tongren](./e5908ce4babatongren.md)
+# [Tóng Rén ䷌](./e5908ce4babatongren.md)

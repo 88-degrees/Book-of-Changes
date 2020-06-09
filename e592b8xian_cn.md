@@ -1,6 +1,6 @@
 # 咸 ䷞
 
-<img src="https://i.zgjm.net/d/file/20170331/72f3684f6bec982c44c79f7b8ef2cf74.jpg" width=160 alt="咸" align=left>
+<img src="shapes/31.10.jpg" width=160 alt="咸" align=left>
 
 咸（xián）卦的代号是`1:6`，主卦是艮卦，卦象是山，阳数是`1`；客卦是兑卦，卦象是泽，阳数是`6`。
 
@@ -47,7 +47,7 @@
 ## 哲学解读
 ### 起卦
 
-“咸”是1:6卦的卦名，1:6是咸卦的代号。
+“咸”是`1:6`卦的卦名，`1:6`是咸卦的代号。
 咸卦启示的是男女之间相互感应的道理和方式。
 此卦卦名为咸，是《周易》下经的第一个卦。甲骨文的“咸”字是“戌”字与“口”字相合。
 而此卦的“咸”字与“感”字是一个意思。即表示感应。
@@ -216,7 +216,7 @@
 “贞吉”，坚持下去吉利，面对客强主弱的形势，
 主方应当坚持消极被动和强硬的态度。
 如果这样，就是应当做的，没有悔恨，爻辞说“悔亡”。
-“憧憧”（chongchong），往来不定，摇曳不定，人影憧憧。
+“憧憧”（chōng chōng），往来不定，摇曳不定，人影憧憧。
 “朋”指客方。“尔”指主方。
 “憧憧往来，朋从尔思”指客方摇曳不定，只得顺从主方的意思而转移。
 
@@ -266,8 +266,8 @@
 〖解说〗这是咸卦第六爻的爻辞。
 第六爻是客卦上爻，代表客方态度，
 阴爻，表示客方态度随和。
-“辅”（fu），指面颊，人的颊骨部位。
-“颊”（jia），人的面部两侧从眼到下颌的部分。
+“辅”（fǔ），指面颊，人的颊骨部位。
+“颊”（jiá），人的面部两侧从眼到下颌的部分。
 “辅颊舌”反映客方态度，从字面上看，
 这条爻辞的意思是，注意客方态度，利用客方的随和态度。
 
@@ -281,7 +281,7 @@
 ```
 
 ## 卦意
-### 第31卦 泽山咸（xián）相互感应
+### 泽山咸（xián）相互感应
 ### 中上卦
 
 象曰：运去黄金失色，时来棒槌发芽，月令极好无差，且喜心宽意大。
@@ -534,7 +534,7 @@
 宁可相信自己的经验。经验显然更可靠一些。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no31genweishan.png">
+<img src="shapes/31.11.png">
 
 ### 《断易天机》解
 
@@ -629,7 +629,7 @@
 
 ### 初六变卦：泽山咸 变卦 泽火革
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/31_1.png" align=left>
+<img src="shapes/31.01.png" align=left>
 
 初六爻动变得[第49卦：泽火革](./e99da9ge_cn.md)。
 
@@ -670,7 +670,7 @@
 
 ### 六二变卦：泽山咸 变卦 泽风大过
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/31_2.png" align=left>
+<img src="shapes/31.02.png" align=left>
 
 六二爻动变得[第28卦：泽风大过](./e5a4a7e8bf87daguo_cn.md)。
 
@@ -709,7 +709,7 @@
 
 ### 九三变卦：泽山咸 变卦 泽地萃
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/31_3.png" align=left>
+<img src="shapes/31.03.png" align=left>
 
 九三爻动变得[第45卦：泽地萃](./e89083cui_cn.md)。
 
@@ -749,7 +749,7 @@
 
 ### 九四变卦：泽山咸 变卦 水山蹇
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/31_4.png" align=left>
+<img src="shapes/31.04.png" align=left>
 
 九四爻动变得[第39卦：水山蹇](./e8b987jian_cn.md)。
 
@@ -789,7 +789,7 @@
 
 ### 九五变卦 泽山咸 变卦 雷山小过
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/31_5.png" align=left>
+<img src="shapes/31.05.png" align=left>
 
 九五爻动变得[第62卦：雷山小过](./e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -828,7 +828,7 @@
 
 ### 上六变卦：泽山咸 变卦 天山遁
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/31_6.png" align=left>
+<img src="shapes/31.06.png" align=left>
 
 上六爻动变得[第33卦：天山遁](./e981afdun_cn.md)。
 
@@ -841,4 +841,4 @@
 阴长阳消，小人得势，君子退隐，
 明哲保身，伺机救天下。
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-# [Xian](./e592b8xian.md)
+# [Xián ䷞](./e592b8xian.md)

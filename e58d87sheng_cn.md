@@ -1,6 +1,6 @@
 # 升 ䷭
 
-<img src="https://i.zgjm.net/d/file/20170331/22a4f56af8584d340ca67a618927b8cc.jpg" width=160 alt="升" align=left>
+<img src="shapes/46.10.jpg" width=160 alt="升" align=left>
 
 升（shēng）卦展示“升”形势下各种变化的可能性。
 
@@ -8,7 +8,7 @@
 主方在消极被动状态下，应当阴中有阳，适时采取主动，利用客方对自己的依赖，更强地控制客方，维护和增加自己的利益。
 
 图中，红色表示当位的爻，天蓝色表示不当位的爻，箭头表示有应。
-升卦是《易经》六十四卦的第46卦。《升》卦谈的是上升之卦，亦犹其爻辞所说的“升阶”之义。
+《升》卦谈的是上升之卦，亦犹其爻辞所说的“升阶”之义。
 但是，从此卦卦辞的“南征吉”和爻辞的“升虚邑”以及其它爻辞的用语来看，此卦仍属用兵侵伐之卦。
 也即是说，此卦谈的是在兼并时期侵伐其它邦国时所应该注意到的一些问题。
 
@@ -384,7 +384,7 @@
 南征吉，志行也。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no46difengsheng.png">
+<img src="shapes/46.11.png">
 
 ### 《断易天机》解
 
@@ -477,7 +477,7 @@
 
 ### 初六变卦：地风升 变卦 地天泰
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/46_1.png" align=left>
+<img src="shapes/46.01.png" align=left>
 
 初六爻动变得[第11卦：地天泰](./e6b3b0tai_cn.md)。
 
@@ -516,7 +516,7 @@
 
 ### 九二变卦：地风升 变卦 地山谦
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/46_2.png" align=left>
+<img src="shapes/46.02.png" align=left>
 
 九二爻动变得[第15卦：地山谦](./e8b0a6qian_cn.md)。
 
@@ -555,7 +555,7 @@
 
 ### 九三变卦：地风升 变卦 地水师
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/46_3.png" align=left>
+<img src="shapes/46.03.png" align=left>
 
 九三爻动变得[第7卦：地水师](./e5b888shi_cn.md)。
 
@@ -595,7 +595,7 @@
 
 ### 六四变卦：地风升 变卦 雷风恒
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/46_4.png" align=left>
+<img src="shapes/46.04.png" align=left>
 
 六四爻动变得[第32卦：雷风恒](./e68192heng_cn.md)。
 
@@ -634,7 +634,7 @@
 
 ### 六五变卦：地风升 变卦 水风井
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/46_5.png" align=left>
+<img src="shapes/46.05.png" align=left>
 
 六五爻动变得[第48卦：水风井](./e4ba95jing_cn.md)。
 
@@ -673,7 +673,7 @@
 
 ### 上六变卦：地风升 变卦 山风蛊
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/46_6.png" align=left>
+<img src="shapes/46.06.png" align=left>
 
 上六爻动变得[第18卦：山风蛊](./e89b8agu_cn.md)。
 
@@ -685,4 +685,4 @@
 
 必须革新创造，治理整顿，挽救危机，重振事业。
 
-# [Sheng](./e58d87sheng.md)
+# [Shēng ䷭](./e58d87sheng.md)

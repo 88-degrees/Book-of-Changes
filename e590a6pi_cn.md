@@ -1,6 +1,6 @@
 # 否 ䷋
 
-<img src="https://i.zgjm.net/d/file/20170330/266636a8482b0c168229e88b94a04e71.jpg" width=160 alt="否" align=left>
+<img src="shapes/12.10.jpg" width=160 alt="否" align=left>
 
 否卦是一个别卦，代号是`0:7`。
 
@@ -12,7 +12,8 @@
 
 图中，红色表示当位的爻，天蓝色表示不当位的爻，箭头表示有应。
 
-否卦是《易经》六十四卦之第12卦。天地否（否卦）不交不通。
+天地否（否卦）不交不通。
+
 否卦，阐释由安泰到混乱，由通畅到闭塞，小人势长，君子势消的黑暗时期，终于到来的应对原则。
 当此反常时期，君子应当提高警觉，巩固团结，坚定立场，伸张正义，以防患于未然；
 当小人势力显露衰败迹象时，也不可轻举妄动，必须谨慎，集中力量，把握时机，给以致命的一击。
@@ -562,7 +563,7 @@
 是人们所不容许的。是以“否终则倾，何可长也。”
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no12tiandipi.jpg">
+<img src="shapes/12.11.jpg">
 
 ### 《断易天机》解
 
@@ -658,7 +659,7 @@
 
 ### 初六变卦：天地否 变卦 天雷无妄
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/12_1.png" align=left>
+<img src="shapes/12.01.png" align=left>
 
 初六爻动变得[第25卦：天雷无妄](./e697a0e5a684wuwang_cn.md)。
 
@@ -696,7 +697,7 @@
 
 ### 六二变卦：天地否 变卦 天水讼
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/12_2.png" align=left>
+<img src="shapes/12.02.png" align=left>
 
 六二爻动变得[第6卦：天水讼](./e8aebcsong_cn.md)。
 
@@ -735,7 +736,7 @@
 
 ### 六三变卦：天地否 变卦 天山遁
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/12_3.png" align=left>
+<img src="shapes/12.03.png" align=left>
 
 六三爻动变得[第33卦：天山遁](./e981afdun_cn.md)。
 
@@ -774,7 +775,7 @@
 
 ### 九四变卦：天地否 变卦 风地观
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/12_4.png" align=left>
+<img src="shapes/12.04.png" align=left>
 
 九四爻动变得[第20卦：风地观](./e8a782guan_cn.md)。
 
@@ -813,7 +814,7 @@
 
 ### 九五变卦：天地否 变卦 火地晋
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/12_5.png" align=left>
+<img src="shapes/12.05.png" align=left>
 
 九五爻动变得[第35卦：火地晋](./e6998bjin_cn.md)。
 
@@ -851,7 +852,7 @@
 
 ### 上九变卦：天地否 变卦 泽地萃
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/12_6.png" align=left>
+<img src="shapes/12.06.png" align=left>
 
 上九爻动变得[第45卦：泽地萃](./e89083cui_cn.md)。
 
@@ -864,4 +865,4 @@
 务必顺天任贤，未雨绸缪，柔顺而又和悦，
 彼此相得益彰，安居乐业。萃，聚集、团结。
 　　　　　　　　
-# [Pi](./e590a6pi.md)
+# [Pǐ ䷋](./e590a6pi.md)
