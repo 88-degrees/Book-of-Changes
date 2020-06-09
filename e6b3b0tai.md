@@ -67,4 +67,4 @@ According to the treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_W
 
 The course denoted by **Tài ䷊** has been run; and will be followed by one of a different and unhappy character. The earth dug from the moat had been built up to form a protecting wall; but it is now again fallen into the ditch. War will only aggravate the evil; and however the ruler may address good proclamations to himself and the people of his capital, the coming evil cannot be altogether averted.
 
-# [泰](./e6b3b0tai_cn.md)
+# [泰](e6b3b0tai_cn.md)

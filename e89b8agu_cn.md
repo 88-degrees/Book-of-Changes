@@ -793,7 +793,7 @@
 
 <img src="shapes/18.01.png" align=left>
 
-初六爻动变得[第26卦：山天大畜](./e5a4a7e89384daxu_cn.md)。
+初六爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
 这个卦是异卦（下乾上艮）相叠。
 
@@ -831,7 +831,7 @@
 
 <img src="shapes/18.02.png" align=left>
 
-九二爻动变得[第52卦：艮为山](./e889aegen_cn.md)。
+九二爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
 这个卦是同卦（下艮上艮）相叠。
 
@@ -871,7 +871,7 @@
 
 <img src="shapes/18.03.png" align=left>
 
-九三爻动变得[第4卦：山水蒙](./e89299meng_cn.md)。
+九三爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
 这个卦是异卦（下坎上艮）相叠，
 
@@ -909,7 +909,7 @@
 
 <img src="shapes/18.04.png" align=left>
 
-六四爻动变得[第50卦：火风鼎](./e9bc8eding_cn.md)。
+六四爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
 这个卦是异卦（下巽上离）相叠。
 
@@ -947,7 +947,7 @@
 
 <img src="shapes/18.05.png" align=left>
 
-六五爻动变得[第57卦：巽为风](./e5b7bdxun_cn.md)。
+六五爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
 这个卦是同（下巽上巽）相叠，
 
@@ -983,7 +983,7 @@
 
 <img src="shapes/18.06.png" align=left>
 
-上九爻动变得[第46卦：地风升](./e58d87sheng_cn.md)。
+上九爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
 这个卦是异卦相叠（下巽上坤）。
 
@@ -993,4 +993,4 @@
 
 喻事业步步高升，前程远大，故名“升”。
 
-# [Gu ䷑](./e89b8agu.md)
+# [Gu ䷑](e89b8agu.md)

@@ -638,7 +638,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/43_1.png" align=left>
 
-初九爻动变得[第28卦：泽风大过](./e5a4a7e8bf87daguo_cn.md)。
+初九爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
 这个卦是异卦（下巽上兑）相叠。
 
@@ -676,7 +676,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/43_2.png" align=left>
 
-九二爻动变得[第49卦：泽火革](./e99da9ge_cn.md)。
+九二爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
 这个卦是异卦（下离上兑）相叠。
 
@@ -717,7 +717,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/43_3.png" align=left>
 
-九三爻动变得[第58卦：兑为泽](./e58591dui_cn.md)。
+九三爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
 这个卦是同卦（下泽上泽）相叠。
 
@@ -757,7 +757,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/43_4.png" align=left>
 
-九四爻动变得[第5卦：水天需](./e99c80xu_cn.md)。
+九四爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
 这个卦是异卦（下乾上坎）相叠，
 
@@ -793,7 +793,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/43_5.png" align=left>
 
-九五爻动变得[第34卦：雷天大壮](./e5a4a7e5a3aedazhuang_cn.md)。
+九五爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
 这个卦是异卦（下乾上震）相叠。
 
@@ -832,7 +832,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/43_6.png" align=left>
 
-上六爻动变得[第1卦：乾为天](./e4b9beqian_cn.md)。
+上六爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
 这个卦是同卦（下乾上乾）相叠。
 
@@ -843,4 +843,4 @@
 乾卦是根据万物变通的道理，以“元、亨、利、贞”为卦辞，
 表示吉祥如意，教导人遵守天道的德行。
 
-# [Guai](./e5a4acguai.md)
+# [Guai](e5a4acguai.md)

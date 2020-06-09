@@ -539,7 +539,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/26_1.png" align=left>
 
-初九爻动变得[第18卦：山风蛊](./e89b8agu_cn.md)。
+初九爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
 这个卦是异卦（下巽上艮）相叠，与随卦互为综卦。
 
@@ -576,7 +576,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/26_2.png" align=left>
 
-九二爻动变得[第22卦：山火贲](./e8b4b2bi_cn.md)。
+九二爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
 这个卦是异卦（下离上艮）相叠。
 
@@ -615,7 +615,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/26_3.png" align=left>
 
-九三爻动变得[第41卦：山泽损](./e68d9fsun_cn.md)。
+九三爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
 这个卦是异卦（下兑上艮）相叠。
 
@@ -658,7 +658,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/26_4.png" align=left>
 
-六四爻动变得[第14卦：火天大有](./e5a4a7e69c89dayou_cn.md)。
+六四爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
 这个卦是异卦（下乾上离）相叠。
 
@@ -694,7 +694,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/26_5.png" align=left>
 
-六五爻动变得[第9卦：风天小畜](./e5b08fe7959cxiaoxu_cn.md)。
+六五爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
 这个卦是异卦（下乾上巽）相叠，乾为天，巽为风。
 
@@ -730,7 +730,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/26_6.png" align=left>
 
-上九爻动变得[第11卦：地天泰](./e6b3b0tai_cn.md)。
+上九爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
 这个卦是异卦（下乾上坤）相叠，
 
@@ -740,4 +740,4 @@
 
 反之则凶，万事万物，皆对立，转化，盛极必衰，衰而转盛，故应时而变者泰（通）。
 
-# [Daxu](./e5a4a7e89384daxu.md)
+# [Daxu](e5a4a7e89384daxu.md)

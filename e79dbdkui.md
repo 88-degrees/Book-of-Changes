@@ -42,4 +42,4 @@ The place of 5 is odd, but the line itself is weak, so that there might arise oc
 
 Line 6 is an even place, and yet the line is strong; -- what can its subject effect? He looks at 3, which, as weak, is a proper correlate; but he looks with the evil eye of disunion. The subject of 3 appears no better than a filthy pig, nor more real than an impossible carriage-load of ghosts. He bends his bow against him, but he unbends it, discovering a friend in 3, as x did in 4, and 5 in 2. He acts and with good luck, comparable to the falling rain, which results from the happy union of the `yáng` and `yīn` in nature.
 
-# [睽 ䷥](./e79dbdkui_cn.md)
+# [睽 ䷥](e79dbdkui_cn.md)

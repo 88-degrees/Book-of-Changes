@@ -46,4 +46,4 @@ The place of the weak fifth line is not proper for it; and this accounts for the
 
 The third line of the trigrams, and the sixth of the hexagram, is what makes Kăn what it is, -- the symbol of a mountain. The subject of it therefore will carry out the resting required by the whole figure in the highest style.
 
-# [艮 ䷳](./e889aegen_cn.md)
+# [艮 ䷳](e889aegen_cn.md)

@@ -38,4 +38,4 @@ Line .5 is in the place of honour, and has no proper correlate in 2. It therefor
 
 Line 6 is at the top of the hexagram. Ornament has had its course, and here there is a return to pure, 'white,' simplicity. Substantiality is better than ornament.
 
-# [贲](./e8b4b2bi_cn.md)
+# [贲](e8b4b2bi_cn.md)

@@ -543,7 +543,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/59_1.png" align=left>
 
-初六爻动变得[第61卦：风泽中孚](./e4b8ade5ad9azhongfu_cn.md)。
+初六爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
 这个卦是异卦（下兑上巽）相叠。
 
@@ -579,7 +579,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/59_2.png" align=left> 
 
-九二爻动变得[第20卦：风地观](./e8a782guan_cn.md)。
+九二爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
 这个卦是异卦（下坤上巽）相叠，风行地上，喻德教遍施。
 
@@ -615,7 +615,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/59_3.png" align=left>
 
-六三爻动变得[第57卦：巽为风](./e5b7bdxun_cn.md)。
+六三爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
 这个卦是同卦（下巽上巽）相叠，
 
@@ -651,7 +651,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/59_4.png" align=left>
 
-六四爻动变得[第6卦：天水讼](./e8aebcsong_cn.md)。
+六四爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
 这个卦是异卦（下坎上乾）相叠。
 
@@ -691,7 +691,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/59_5.png" align=left>
 
-九五爻动变得[第4卦：山水蒙](./e89299meng_cn.md)。
+九五爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
 这个卦是异卦（下坎上艮）相叠，
 
@@ -729,7 +729,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/59_6.png" align=left>
 
-上九爻动变得[第29卦：坎为水](./e59d8ekan_cn.md)。
+上九爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
 这个卦是同卦（下坎上坎）相叠。
 
@@ -741,4 +741,4 @@
 
 虽险难重重，却方能显人性光彩。
 
-# [Huan](./e6b6a3huan.md)
+# [Huan](e6b6a3huan.md)

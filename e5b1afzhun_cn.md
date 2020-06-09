@@ -746,7 +746,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/3_1.png" align=left>
 
-初九爻动变得[第8卦：水地比](./e6af94bi_cn.md)。
+初九爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
 这个卦是异卦（下坤上坎）相叠，
 
@@ -785,7 +785,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/3_2.png" align=left>
 
-六二爻动变得[第60卦：水泽节](./e88a82jie_cn.md)。
+六二爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
 这个卦是异卦（下兑上坎）相叠。
 
@@ -827,7 +827,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/3_3.png" align=left>
 
-六三爻动变得[第63卦：水火既济](./e697a2e6b58ejiji_cn.md)。
+六三爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
 这个卦是异卦（下离上坎）相叠。
 
@@ -866,7 +866,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/3_4.png" align=left>
 
-六四爻动变得[第17卦：泽雷随](./e99a8fsui_cn.md)。
+六四爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
 这个卦是异卦（下震上兑）相叠，
 
@@ -904,7 +904,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/3_5.png" align=left>
 
-九五爻动变得[第24卦：地雷复](./e5a48dfu_cn.md)。
+九五爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
 这个卦是异卦（下震上坤）相叠。
 
@@ -940,7 +940,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/3_6.png" align=left>
 
-上六爻动变得[第42卦：风雷益](./e79b8ayi_cn.md)。
+上六爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
 这个卦是异卦（下震上巽）相叠。
 
@@ -950,4 +950,4 @@
 
 此卦与损卦相反。它是损上以益下，后者是损下以益上。二卦阐述的是损益的原则。
 
-# [Zhun](./e5b1afzhun.md)
+# [Zhun](e5b1afzhun.md)

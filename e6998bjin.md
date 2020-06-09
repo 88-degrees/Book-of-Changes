@@ -41,4 +41,4 @@ In line 5 that lord and his intelligent sovereign meet happily. He holds on his 
 
 Line 6 is strong, and suggests the idea of its subject to the last continuing his advance, and that not only with firm correctness, but with strong force. The 'horns' are an emblem of threatening strength, and though he uses them only in his own state, and against the rebellious there, that such a prince should have any occasion to use force is matter for regret.
 
-# [晋 ䷢](./e6998bjin_cn.md)
+# [晋 ䷢](e6998bjin_cn.md)

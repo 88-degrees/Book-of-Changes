@@ -654,7 +654,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/5_1.png" align=left>
 
-初九爻动变得[第48卦：水风井](./e4ba95jing_cn.md)。
+初九爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
 这个卦是异卦（下巽上坎）相叠。
 
@@ -694,7 +694,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/5_2.png" align=left>
 
-九二爻动变得[第63卦：水火既济](./e697a2e6b58ejiji_cn.md)。
+九二爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
 这个卦是异卦（下离上坎）相叠。
 
@@ -732,7 +732,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/5_3.png" align=left>
 
-九三爻动变得[第60卦：水泽节](./e88a82jie_cn.md)。
+九三爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
 这个卦是异卦（下兑上坎）相叠。
 
@@ -774,7 +774,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/5_4.png" align=left>
 
-六四爻动变得[第43卦：泽天夬](./e5a4acguai_cn.md)。
+六四爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
 这个卦是异卦（下乾上兑）相叠。
 
@@ -812,7 +812,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/5_5.png" align=left>
 
-九五爻动变得[第11卦：地天泰](./e6b3b0tai_cn.md)。
+九五爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
 这个卦是异卦（下乾上坤）相叠，
 
@@ -850,7 +850,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/5_6.png" align=left>
 
-上六爻动变得[第9卦：风天小畜](./e5b08fe7959cxiaoxu_cn.md)。
+上六爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
 这个卦是异卦（下乾上巽）相叠，
 
@@ -860,4 +860,4 @@
 
 力量有限，须待发展到一定程度，才可大有作为。
 
-# [Xu](./e99c80xu.md)
+# [Xu](e99c80xu.md)

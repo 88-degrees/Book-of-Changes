@@ -417,7 +417,7 @@
 
 <img src="shapes/47.01.png" align=left>
 
-初六爻动变得[第58卦：兑为泽](./e58591dui_cn.md)。
+初六爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
 这个卦是同卦（下泽上泽）相叠。
 
@@ -460,7 +460,7 @@
 
 <img src="shapes/47.02.png" align=left>
 
-九二爻动变得[第45卦：泽地萃](./e89083cui_cn.md)。
+九二爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
 这个卦是异卦（下坤上兑）相叠。
 
@@ -501,7 +501,7 @@
 
 <img src="shapes/47.03.png" align=left>
 
-六三爻动变得[第28卦：泽风大过](./e5a4a7e8bf87daguo_cn.md)。
+六三爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
 这个卦是异卦（下巽上兑）相叠。
 
@@ -540,7 +540,7 @@
 
 <img src="shapes/47.04.png" align=left>
 
-九四爻动变得[第29卦：坎为水](./e59d8ekan_cn.md)。
+九四爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
 这个卦是同卦（下坎上坎）相叠。
 
@@ -584,7 +584,7 @@
 
 <img src="shapes/47.05.png" align=left>
 
-九五爻动变得[第40卦：雷水解](./e8a7a3xie_cn.md)。
+九五爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
 这个卦是异卦（下坎上震）相叠。
 
@@ -622,7 +622,7 @@
 
 <img src="shapes/47.06.png" align=left>
 
-上六爻动变得[第6卦：天水讼](./e8aebcsong_cn.md)。
+上六爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
 这个卦是异卦（下坎上乾）相叠。
 
@@ -634,4 +634,4 @@
 
 争讼非善事，务必慎重戒惧。
 
-# [Kùn ䷮](./e59bb0kun.md)
+# [Kùn ䷮](e59bb0kun.md)

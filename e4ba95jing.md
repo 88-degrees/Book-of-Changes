@@ -46,4 +46,4 @@ Line 5 is strong, and in its right place. The place is that of the ruler, and su
 
 Line 6 is in its proper place, but weak. If the general idea of the figure was different, a bad auspice might be drawn from it. But here we see in it the symbol of the water drawn up, and the top uncovered so that the use of the well is free to all. Then the mention of 'sincerity' suggests the inexhaustibleness of the elemental supply.
 
-# [井](./e4ba95jing_cn.md)
+# [井](e4ba95jing_cn.md)

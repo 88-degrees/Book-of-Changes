@@ -781,7 +781,7 @@
 
 <img src="shapes/04.01.png" align=left>
 
-初六爻动变得[第41卦：山泽损](./e68d9fsun_cn.md)。
+初六爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
 这个卦是异卦（下兑上艮）相叠。
 
@@ -823,7 +823,7 @@
 
 <img src="shapes/04.02.png" align=left>
 
-九二爻动变得[第23卦：山地剥](./e589a5bo_cn.md)。
+九二爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
 这个卦是异卦（下坤上艮）相叠。
 
@@ -861,7 +861,7 @@
 
 <img src="shapes/04.03.png" align=left>
 
-六三爻动变得[第18卦：山风蛊](./e89b8agu_cn.md)。
+六三爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
 这个卦是异卦（下巽上艮）相叠，与随卦互为综卦。
 
@@ -899,7 +899,7 @@
 
 <img src="shapes/04.04.png" align=left>
 
-六四爻动变得[第64卦：火水未济](./e69caae6b58eweiji_cn.md)。
+六四爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
 这个卦是异卦（下坎上离）相叠。
 
@@ -937,7 +937,7 @@
 
 <img src="shapes/04.05.png" align=left>
 
-六五爻动变得[第59卦：风水涣](./e6b6a3huan_cn.md)。
+六五爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
 这个卦是异卦（下坎上巽）相叠。
 
@@ -975,7 +975,7 @@
 
 <img src="shapes/04.06.png" align=left>
 
-上九爻动变得[第7卦：地水师](./e5b888shi_cn.md)。
+上九爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
 这个卦是异卦（下坎上坤）相叠。
 
@@ -985,4 +985,4 @@
 
 但它可以顺利无阻碍地解决矛盾，因为顺乎形势，师出有名，故能化凶为吉。
 
-# [Méng ䷃](./e89299meng.md)
+# [Méng ䷃](e89299meng.md)

@@ -60,4 +60,4 @@ Line 5 symbolises the ruler. Mild sincerity is good in him, and affects his mini
 
 Even the topmost line takes its character from 5. The strength of its subject is still tempered, and Heaven gives its approval.
 
-# [大有 ䷍](./e5a4a7e69c89dayou_cn.md)
+# [大有 ䷍](e5a4a7e69c89dayou_cn.md)

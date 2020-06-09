@@ -580,7 +580,7 @@
 
 <img src="shapes/48.01.png" align=left>
 
-初六爻动变得[第5卦：水天需](./e99c80xu_cn.md)。
+初六爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
 这个卦是异卦（下乾上坎）相叠，
 
@@ -617,7 +617,7 @@
 
 <img src="shapes/48.02.png" align=left>
 
-九二爻动变得[第39卦：水山蹇](./e8b987jian_cn.md)。
+九二爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
 这个卦是异卦（下艮上坎）相叠。
 
@@ -656,7 +656,7 @@
 
 <img src="shapes/48.03.png" align=left>
 
-九三爻动变得[第29卦：坎为水](./e59d8ekan_cn.md)。
+九三爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
 这个卦是同卦（下坎上坎）相叠。
 
@@ -693,7 +693,7 @@
 
 <img src="shapes/48.04.png" align=left>
 
-六四爻动变得[第28卦：泽风大过](./e5a4a7e8bf87daguo_cn.md)。
+六四爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
 这个卦是异卦（下巽上兑）相叠。
 
@@ -729,7 +729,7 @@
 
 <img src="shapes/48.05.png" align=left>
 
-九五爻动变得[第46卦：地风升](./e58d87sheng_cn.md)。
+九五爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
 这个卦是异卦（下巽上坤）相叠。
 
@@ -766,7 +766,7 @@
 
 <img src="shapes/48.06.png" align=left>
 
-上六爻动变得[第57卦：巽为风](./e5b7bdxun_cn.md)。
+上六爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
 这个卦是同卦（下巽上巽）相叠，
 
@@ -774,4 +774,4 @@
 
 巽亦为顺、谦逊的态度和行为，可无往不利。
 
-# [Jǐng ䷯](./e4ba95jing.md)
+# [Jǐng ䷯](e4ba95jing.md)

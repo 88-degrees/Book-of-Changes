@@ -45,4 +45,4 @@ Line 5 is the position of the ruler. It is weak, but being central, and having f
 
 Line 6 is the last of the trigram **Kūn ☷**, the height therefore of docility. Line 2 is not its correlate, but it belongs to the `Yīn` to seek for the `Yáng`; and it is so emphatically in this case. Hence the characteristic and issue as assigned.
 
-# [临 ䷒](./e4b8b4lin_cn.md)
+# [临 ䷒](e4b8b4lin_cn.md)

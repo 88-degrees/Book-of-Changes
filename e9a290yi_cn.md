@@ -569,7 +569,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/27_1.png" align=left>
 
-初九爻动变得[第23卦：山地剥](./e589a5bo_cn.md)。
+初九爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
 这个卦是异卦（下坤上艮）相叠。
 
@@ -607,7 +607,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/27_2.png" align=left>
 
-六二爻动变得[第41卦：山泽损](./e68d9fsun_cn.md)。
+六二爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
 这个卦是异卦（下兑上艮）相叠。
 
@@ -651,7 +651,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/27_3.png" align=left>
 
-六三爻动变得[第22卦：山火贲](./e8b4b2bi_cn.md)。
+六三爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
 这个卦是异卦（下离上艮）相叠。
 
@@ -690,7 +690,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/27_4.png" align=left>
 
-六四爻动变得[第21卦：火雷噬嗑](./e599ace59791shike_cn.md)。
+六四爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
 这个卦是异卦（下震上离）相叠。
 
@@ -728,7 +728,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/27_5.png" align=left>
 
-六五爻动变得[第42卦：风雷益](./e79b8ayi_cn.md)。
+六五爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
 这个卦是异卦（下震上巽）相叠。
 
@@ -768,7 +768,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/27_6.png" align=left>
 
-上九爻动变得[第24卦：地雷复](./e5a48dfu_cn.md)。
+上九爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
 这个卦是异卦（下震上坤）相叠。
 
@@ -778,4 +778,4 @@
 
 动在顺中，内阳外阴，循序运动，进退自如，利于前进。
 
-# [Yi](./e9a290yi.md)
+# [Yi](e9a290yi.md)

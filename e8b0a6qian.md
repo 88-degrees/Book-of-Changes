@@ -64,4 +64,4 @@ All men love and honour humility, in itself and without the adjuncts which usual
 
 The subject of the sixth line, which is weak, is outside the game, so to speak, that has been played out. He will use force, but only within his own sphere and to assert what is right. He will not be aggressive.
 
-# [谦 ䷎](./e8b0a6qian_cn.md)
+# [谦 ䷎](e8b0a6qian_cn.md)

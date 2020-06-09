@@ -40,4 +40,4 @@ Line 5 has every quality proper to 'the lord of the hexagram,' and his action wi
 
 Line 6 is weak, but its subject is penetrated with the spirit of the hexagram. If its subject be a superior man, only inferior to 'the great man,' immediately below, the changes he makes will be inferior only to his. If he be a small man, he will be compliant and submissive. The lesson for him, however, is to abide firm and correct without taking any action of his own.
 
-# [革](./e99da9ge_cn.md)
+# [革](e99da9ge_cn.md)

@@ -642,7 +642,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/37_1.png" align=left>
 
-初九爻动变得[第53卦：风山渐](./e6b890jian_cn.md)。
+初九爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
 这个卦是异卦（下艮上巽）相叠。
 
@@ -680,7 +680,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/37_2.png" align=left>
 
-六二爻动变得[第9卦：风天小畜](./e5b08fe7959cxiaoxu_cn.md)。
+六二爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
 这个卦是异卦（下乾上巽）相叠，
 
@@ -718,7 +718,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/37_3.png" align=left>
 
-九三爻动变得[第42卦：风雷益](./e79b8ayi_cn.md)。
+九三爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
 这个卦是异卦（下震上巽）相叠。
 
@@ -756,7 +756,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/37_4.png" align=left>
 
-六四爻动变得[第13卦：天火同人](./e5908ce4babatongren_cn.md)。
+六四爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
 这个卦是异卦（下离上乾）相叠，
 
@@ -794,7 +794,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/37_5.png" align=left>
 
-九五爻动变得[第22卦：山火贲](./e8b4b2bi_cn.md)。
+九五爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
 这个卦是异卦（下离上艮）相叠。
 
@@ -833,7 +833,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/37_6.png" align=left>
 
-上九爻动变得[第63卦：水火既济](./e697a2e6b58ejiji_cn.md)。
+上九爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
 这个卦是异卦（下离上坎）相叠。
 
@@ -845,4 +845,4 @@
 
 既济就是事情已经成功，但终将发生变故。
 
-# [Jiaren](./e5aeb6e4babajiaren.md)
+# [Jiaren](e5aeb6e4babajiaren.md)

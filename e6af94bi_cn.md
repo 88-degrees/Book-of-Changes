@@ -466,7 +466,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/8_1.png" align=left>
 
-初六爻动变得[第3卦：水雷屯](./e5b1afzhun_cn.md)。
+初六爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
 这个卦是异卦（下震上坎）相叠，
 
@@ -504,7 +504,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/8_2.png" align=left>
 
-六二爻动变得[第29卦：坎为水](./e59d8ekan_cn.md)。
+六二爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
 这个卦是同卦（下坎上坎）相叠。
 
@@ -544,7 +544,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/8_3.png" align=left>
 
-六三爻动变得[第39卦：水山蹇](./e8b987jian_cn.md)。
+六三爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
 这个卦是异卦（下艮上坎）相叠。
 
@@ -583,7 +583,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/8_4.png" align=left>
 
-六四爻动变得[第45卦：泽地萃](./e89083cui_cn.md)。
+六四爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
 这个卦是异卦（下坤上兑）相叠。
 
@@ -621,7 +621,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/8_5.png" align=left>
 
-九五爻动变得[第2卦：坤为地](./e59da4kun_cn.md)。
+九五爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
 这个卦是同卦（下坤上坤）相叠，阴性。
 
@@ -659,7 +659,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/8_6.png" align=left>
 
-上六爻动变得[第20卦：风地观](./e8a782guan_cn.md)。
+上六爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
 这个卦是异卦（下坤上巽）相叠，
 
@@ -669,4 +669,4 @@
 
 在上者以道义观天下；在下者以敬仰瞻上，人心顺服归从。
 
-# [Bi](./e6af94bi.md)
+# [Bi](e6af94bi.md)

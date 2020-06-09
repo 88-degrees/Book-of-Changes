@@ -486,7 +486,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/15_1.png" align=left>
 
-初六爻动变得[第36卦：地火明夷](./e6988ee5a4b7mingyi_cn.md)。
+初六爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
 这个卦是异卦（下离上坤）相叠。
 
@@ -524,7 +524,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/15_2.png" align=left>
 
-六二爻动变得[第46卦：地风升](./e58d87sheng_cn.md)。
+六二爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
 这个卦是异卦（下巽上坤）相叠。
 
@@ -562,7 +562,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/15_3.png" align=left>
 
-九三爻动变得[第2卦：坤为地](./e59da4kun_cn.md)。
+九三爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
 这个卦是同卦（下坤上坤）相叠，阴性。
 
@@ -600,7 +600,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/15_4.png" align=left>
 
-六四爻动变得[第62卦：雷山小过](./e5b08fe8bf87xiaoguo_cn.md)。
+六四爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
 这个卦是异卦（下艮上震）相叠。
 
@@ -638,7 +638,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/15_5.png" align=left>
 
-六五爻动变得[第39卦：水山蹇](./e8b987jian_cn.md)。
+六五爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
 这个卦是异卦（下艮上坎）相叠。
 
@@ -678,7 +678,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/15_6.png" align=left>
 
-上六爻动变得[第52卦：艮为山](./e889aegen_cn.md)。
+上六爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
 这个卦是同卦（下艮上艮）相叠。
 
@@ -692,4 +692,4 @@
 
 行止即动和静，都不可失机，应恰到好处，动静得宜，适可而止。
 
-# [Qian](./e8b0a6qian.md)
+# [Qian](e8b0a6qian.md)

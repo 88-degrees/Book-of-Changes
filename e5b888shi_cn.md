@@ -876,7 +876,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/7_1.png" align=left>
 
-初六爻动变得[第19卦：地泽临](./e4b8b4lin_cn.md)。
+初六爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
 这个卦是异卦（下兑上坤）相叠。
 
@@ -912,7 +912,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/7_2.png" align=left>
 
-九二爻动变得[第2卦：坤为地](./e59da4kun_cn.md)。
+九二爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
 这个卦是同卦（下坤上坤）相叠，阴性。
 
@@ -950,7 +950,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/7_3.png" align=left>
 
-六三爻动变得[第46卦：地风升](./e58d87sheng_cn.md)。
+六三爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
 这个卦是异卦（下巽上坤）相叠。
 
@@ -988,7 +988,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/7_4.png" align=left>
 
-六四爻动变得[第40卦：雷水解](./e8a7a3xie_cn.md)。
+六四爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
 这个卦是异卦（下坎上震）相叠。
 
@@ -1026,7 +1026,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/7_5.png" align=left>
 
-六五爻动变得[第29卦：坎为水](./e59d8ekan_cn.md)。
+六五爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
 这个卦是同卦（下坎上坎）相叠。
 
@@ -1064,7 +1064,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/7_6.png" align=left>
 
-上六爻动变得[第4卦：山水蒙](./e89299meng_cn.md)。
+上六爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
 这个卦是异卦（下坎上艮）相叠，
 
@@ -1074,4 +1074,4 @@
 
 但因把握时机，行动切合时宜，因此，具有启蒙和通达的卦象。
 
-# [Shi](./e5b888shi.md)
+# [Shi](e5b888shi.md)

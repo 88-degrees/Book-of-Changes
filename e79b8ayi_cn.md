@@ -606,7 +606,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/42_1.png" align=left>
 
-初九爻动变得[第20卦：风地观](./e8a782guan_cn.md)。
+初九爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
 这个卦是异卦（下坤上巽）相叠，风行地上，喻德教遍施。
 
@@ -642,7 +642,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/42_2.png" align=left>
 
-六二爻动变得[第61卦：风泽中孚](./e4b8ade5ad9azhongfu_cn.md)。
+六二爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
 这个卦是异卦（下兑上巽）相叠。
 
@@ -678,7 +678,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/42_3.png" align=left>
 
-六三爻动变得[第37卦：风火家人](./e5aeb6e4babajiaren_cn.md)。
+六三爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
 这个卦是异卦（下离上巽）相叠。
 
@@ -720,7 +720,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/42_4.png" align=left>
 
-六四爻动变得[第25卦：天雷无妄](./e697a0e5a684wuwang_cn.md)。
+六四爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
 这个卦是异卦（下震上乾）相叠。
 
@@ -758,7 +758,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/42_5.png" align=left>
 
-九五爻动变得[第27卦：山雷颐](./e9a290yi_cn.md)。
+九五爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
 这个卦是异卦（下震上艮）相叠。
 
@@ -798,7 +798,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/42_6.png" align=left>
 
-上九爻动变得[第3卦：水雷屯](./e5b1afzhun_cn.md)。
+上九爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
 这个卦是异卦（下震上坎）相叠，
 
@@ -808,4 +808,4 @@
 
 “屯”原指植物萌生大地，万物始生，充满艰难险阻，然而顺时应运，必欣欣向荣。
 
-# [Yi](./yi.md)
+# [Yi](yi.md)

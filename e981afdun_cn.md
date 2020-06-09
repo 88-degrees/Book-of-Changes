@@ -612,7 +612,7 @@
 
 <img src="shapes/33.01.png" align=left>
 
-初六爻动变得[第13卦：天火同人](./e5908ce4babatongren_cn.md)。
+初六爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
 这个卦是异卦（下离上乾）相叠，
 
@@ -648,7 +648,7 @@
 
 <img src="shapes/33.02.png" align=left>
 
-六二爻动变得[第44卦：天风姤](./e5a7a4gou_cn.md)。
+六二爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
 这个卦是异卦（下巽上乾）相叠。
 
@@ -688,7 +688,7 @@
 
 <img src="shapes/33.03.png" align=left>
 
-九三爻动变得[第12卦：天地否](./e590a6pi_cn.md)。
+九三爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
 这个卦是异卦（下坤上乾）相叠，
 
@@ -726,7 +726,7 @@
 
 <img src="shapes/33.04.png" align=left>
 
-九四爻动变得[第53卦：风山渐](./e6b890jian_cn.md)。
+九四爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
 这个卦是异卦（下艮上巽）相叠。
 
@@ -764,7 +764,7 @@
 
 <img src="shapes/33.05.png" align=left>
 
-九五爻动变得[第56卦：火山旅](./e69785lv_cn.md)。
+九五爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
 这个卦是异卦（下艮上离）相叠。
 
@@ -802,7 +802,7 @@
 
 <img src="shapes/33.06.png" align=left>
 
-上九爻动变得[第31卦：泽山咸](./e592b8xian_cn.md)。
+上九爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
 这个卦是异卦（下艮上兑）相叠。
 
@@ -812,4 +812,4 @@
 
 水向下渗，柔上而刚下，交相感应。感则成。
 
-# [Dùn ䷠](./e981afdun.md)
+# [Dùn ䷠](e981afdun.md)

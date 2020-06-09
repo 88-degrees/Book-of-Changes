@@ -626,7 +626,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/16_1.png" align=left>
 
-初六爻动变得[第51卦：震为雷](./e99c87zhen_cn.md)。
+初六爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
 这个卦是同卦（下震上震）相叠。
 
@@ -662,7 +662,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/16_2.png" align=left>
 
-六二爻动变得[第40卦：雷水解](./e8a7a3xie_cn.md)。
+六二爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
 这个卦是异卦（下坎上震）相叠。
 
@@ -702,7 +702,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/16_3.png" align=left>
 
-六三爻动变得[第62卦：雷山小过](./e5b08fe8bf87xiaoguo_cn.md)。
+六三爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
 这个卦是异卦（下艮上震）相叠。
 
@@ -740,7 +740,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/16_4.png" align=left>
 
-九四爻动变得[第2卦：坤为地](./e59da4kun_cn.md)。
+九四爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
 这个卦是同卦（下坤上坤）相叠，阴性。
 
@@ -778,7 +778,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/16_5.png" align=left>
 
-六五爻动变得[第45卦：泽地萃](./e89083cui_cn.md)。
+六五爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
 这个卦是异卦（下坤上兑）相叠。
 
@@ -817,7 +817,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/16_6.png" align=left>
 
-上六爻动变得[第35卦：火地晋](./e6998bjin_cn.md)。
+上六爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 
 这个卦是异卦（下坤上离）相叠。
 
@@ -827,4 +827,4 @@
 
 光明磊落，柔进上行，喻事业蒸蒸日上。
 
-# [Yu](./e8b1abyu.md)
+# [Yu](e8b1abyu.md)

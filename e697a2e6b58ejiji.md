@@ -47,4 +47,4 @@ Line 4 is weak, and has advanced into the trigram. for water. Its subject will b
 
 The topmost line is weak, and on the outmost edge of **Kǎn ☵**, the trigram, of peril. His action is violent and perilous, like that one attempting to cross a ford, and being plunged overhead into the water.
 
-# [既济](./e697a2e6b58ejiji_cn.md)
+# [既济](e697a2e6b58ejiji_cn.md)

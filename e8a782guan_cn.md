@@ -888,7 +888,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/20_1.png" align=left>
 
-初六爻动变得[第42卦：风雷益](./e79b8ayi_cn.md)。
+初六爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
 这个卦是异卦（下震上巽）相叠。
 
@@ -926,7 +926,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/20_2.png" align=left>
 
-六二爻动变得[第59卦：风水涣](./e6b6a3huan_cn.md)。
+六二爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
 这个卦是异卦（下坎上巽）相叠。
 
@@ -964,7 +964,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/20_3.png" align=left>
 
-六三爻动变得[第53卦：风山渐](./e6b890jian_cn.md)。
+六三爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
 这个卦是异卦（下艮上巽）相叠。
 
@@ -1002,7 +1002,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/20_4.png" align=left>
 
-六四爻动变得[第12卦：天地否](./e590a6pi_cn.md)。
+六四爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
 这个卦是异卦（下坤上乾）相叠，
 
@@ -1038,7 +1038,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/20_5.png" align=left>
 
-九五爻动变得[第23卦：山地剥](./e589a5bo_cn.md)。
+九五爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
 这个卦是异卦（下坤上艮）相叠。
 
@@ -1076,7 +1076,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/20_6.png" align=left>
 
-上九爻动变得[第8卦：水地比](./e6af94bi_cn.md)。
+上九爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
 这个卦是异卦（下坤上坎）相叠，
 
@@ -1088,4 +1088,4 @@
 
 它阐述的是相亲相辅，宽宏无私，精诚团结的道理。
 
-# [Guan](./e8a782guan.md)
+# [Guan](e8a782guan.md)

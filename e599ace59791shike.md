@@ -36,4 +36,4 @@ The fifth line represents 'the lord of judgment.' As it is a weak line, he will 
 
 The action of the figure has passed, and still we have, in the subject of line 6, one persisting in wrong, a strong criminal, wearing the cangue, and deaf to counsel. of course the auspice is evil.
 
-# [噬嗑 ䷔](./e599ace59791shike_cn.md)
+# [噬嗑 ䷔](e599ace59791shike_cn.md)

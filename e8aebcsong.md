@@ -68,4 +68,4 @@ Line 6 is strong and able to contend successfully; but is there to be no end of 
 
 P. Regis explains several of the expressions in the Text, both in the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) and the [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols), from the history of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son [king Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou). Possibly his own circumstances may have suggested to [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) some of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings); and his course in avoiding a direct collision with the tyrant [Shào](https://en.wikipedia.org/wiki/Duke_of_Shao), and [Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou)'s subsequent exploits may have been in the mind of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou). Some of the sentiments, however, cannot be historically explained. They are general protests against all contention and strife.
 
-# [讼](./e8aebcsong_cn.md)
+# [讼](e8aebcsong_cn.md)

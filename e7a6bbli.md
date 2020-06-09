@@ -43,4 +43,4 @@ Line 5 is in the place of honour, and central. But it is weak; as is its correla
 
 Line 6, strong and at the top of the figure, has the intelligence denoted by its trigrams in the highest degree, and his own proper vigour. Through these his achievements are great, but his generous consideration is equally conspicuous, and he falls into no error.
 
-# [离 ䷝](./e7a6bbli_cn.md)
+# [离 ䷝](e7a6bbli_cn.md)

@@ -380,7 +380,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/64_1.png" align=left>
 
-初六爻动变得[第38卦：火泽睽](./e79dbdkui_cn.md)。
+初六爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
 这个卦是异卦（下兑上离）相叠。
 
@@ -420,7 +420,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/64_2.png" align=left>
 
-九二爻动变得[第35卦：火地晋](./e6998bjin_cn.md)。
+九二爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 
 这个卦是异卦（下坤上离）相叠。
 
@@ -458,7 +458,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/64_3.png" align=left>
 
-六三爻动变得[第50卦：火风鼎](./e9bc8eding_cn.md)。
+六三爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
 这个卦是异卦（下巽上离）相叠。
 
@@ -496,7 +496,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/64_4.png" align=left>
 
-九四爻动变得[第4卦：山水蒙](./e89299meng_cn.md)。
+九四爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
 这个卦是异卦（下坎上艮）相叠，
 
@@ -534,7 +534,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/64_5.png" align=left>
  
-六五爻动变得[第6卦：天水讼](./e8aebcsong_cn.md)。
+六五爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
 这个卦是异卦（下坎上乾）相叠。
 
@@ -572,7 +572,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/64_6.png" align=left>
  
-上九爻动变得[第40卦：雷水解](./e8a7a3xie_cn.md)。
+上九爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
 这个卦是异卦（下坎上震）相叠。
 
@@ -584,4 +584,4 @@
 
 万象更新，冬去春来，一切消除，是为解。
 
-# [Weiji](./e69caae6b58eweiji.md)
+# [Weiji](e69caae6b58eweiji.md)

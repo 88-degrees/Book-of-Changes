@@ -728,7 +728,7 @@
 
 <img src="shapes/13.01.png" align=left>
 
-初九爻动变得[第33卦：天山遁](./e981afdun_cn.md)。
+初九爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 
 这个卦是异卦（下艮上乾）相叠。
 
@@ -764,7 +764,7 @@
 
 <img src="shapes/13.02.png" align=left>
 
-六二爻动变得[第1卦：乾为天](./e4b9beqian_cn.md)。
+六二爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
 这个卦是同卦（下乾上乾）相叠。
 
@@ -800,7 +800,7 @@
 
 <img src="shapes/13.03.png" align=left>
 
-九三爻动变得[第25卦：天雷无妄](./e697a0e5a684wuwang_cn.md)。
+九三爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
 这个卦是异卦（下震上乾）相叠。
 
@@ -837,7 +837,7 @@
 
 <img src="shapes/13.04.png" align=left>
 
-九四爻动变得[第37卦：风火家人](./e5aeb6e4babajiaren_cn.md)。
+九四爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
 这个卦是异卦（下离上巽）相叠。
 
@@ -876,7 +876,7 @@
 
 <img src="shapes/13.05.png" align=left>
 
-九五爻动变得[第30卦：离为火](./e7a6bbli_cn.md)。
+九五爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
 这个卦是同卦（下离上离）相叠。
 
@@ -912,7 +912,7 @@
 
 <img src="shapes/13.06.png" align=left>
 
-上九爻动变得[第49卦：泽火革](./e99da9ge_cn.md)。
+上九爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
 这个卦是异卦（下离上兑）相叠。
 
@@ -923,4 +923,4 @@
 
 二者相生亦相克，必然出现变革。变革是宇宙的基本规律。
 
-# [Tóng Rén ䷌](./e5908ce4babatongren.md)
+# [Tóng Rén ䷌](e5908ce4babatongren.md)

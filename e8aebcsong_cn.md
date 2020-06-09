@@ -720,7 +720,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/6_1.png" align=left>
 
-初六爻动变得[第10卦：天泽履](./e5b1a5lv_cn.md)。
+初六爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
 这个卦是异卦（下兑上乾）相叠，
 
@@ -760,7 +760,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/6_2.png" align=left>
 
-九二爻动变得[第12卦：天地否](./e590a6pi_cn.md)。
+九二爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
 这个卦是异卦（下坤上乾）相叠，
 
@@ -796,7 +796,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/6_3.png" align=left>
 
-六三爻动变得[第44卦：天风姤](./e5a7a4gou_cn.md)。
+六三爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
 这个卦是异卦（下巽上乾）相叠。
 
@@ -836,7 +836,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/6_4.png" align=left>
 
-九四爻动变得[第59卦：风水涣](./e6b6a3huan_cn.md)。
+九四爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
 这个卦是异卦（下坎上巽）相叠。
 
@@ -874,7 +874,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/6_5.png" align=left>
 
-九五爻动变得[第64卦：火水未济](./e69caae6b58eweiji_cn.mdop)。
+九五爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.mdop)。
 
 这个卦是异卦（下坎上离）相叠。
 
@@ -912,7 +912,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/6_6.png" align=left>
 
-上九爻动变得[第47卦：泽水困](./e59bb0kun_cn.md)。
+上九爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
 这个卦是异卦（下坎上兑）相叠。
 
@@ -920,4 +920,4 @@
 
 泽水困，陷入困境，才智难以施展，仍坚守正道，自得其乐，必可成事，摆脱困境。
 
-# [Song](./e8aebcsong.md)
+# [Song](e8aebcsong.md)

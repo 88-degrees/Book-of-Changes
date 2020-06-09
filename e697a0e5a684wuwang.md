@@ -44,4 +44,4 @@ Line 5 is strong, in the central place of honour, and has its proper correlate i
 
 Line 6 is at the top of the hexagram, and comes into the field when the action has run its course. He should be still, and not initiate any fresh movement.
 
-# [无妄](./e697a0e5a684wuwang_cn.md)
+# [无妄](e697a0e5a684wuwang_cn.md)

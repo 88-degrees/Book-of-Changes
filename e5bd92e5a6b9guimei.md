@@ -44,4 +44,4 @@ King [Dìyǐ](https://en.wikipedia.org/wiki/Di_Yi) has been already mentioned un
 
 Line 6 is weak, at the top of the hexagram, and without a proper correlate. Hence its auspice is evil. The marriage-contract is broken, according to [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), and does not take effect. The parties mentioned in the paragraph appear engaged in the temple, offering or sacrificing to the spirits of their ancestors. But the woman's basket which should contain her offerings (The Shih, I, ii, ode 4) is empty, and the man attempts to perform his part in slaying the victim ([The Shih, II, vi, ode 6. 5](https://www.sacred-texts.com/cfu/sbe03/sbe03075.htm)) without effect.
 
-# [归妹](./e5bd92e5a6b9guimei_cn.md)
+# [归妹](e5bd92e5a6b9guimei_cn.md)

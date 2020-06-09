@@ -50,4 +50,4 @@ Line 5 is strong, in its fitting position, and central. It is the seat of the ru
 
 Line 6 is also strong; but it should be weak. Occupying the topmost place of the figure, its subject will concentrate his powers in the increase of himself, and not think of benefiting those below him; and the consequence will be as described.
 
-# [益](./e79b8ayi_cn.md)
+# [益](e79b8ayi_cn.md)

@@ -4,15 +4,15 @@
 
 Supplementary to the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) and [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) on the first and second Hexagrams, and showing how they may be interpreted of man's nature and doings <a name="fr_278"></a><sub>[1](#fn_278)</sub>
 
-## SECTION I. [**Qián ䷀**](./e4b9beqian.md)
+## SECTION I. [**Qián ䷀**](e4b9beqian.md)
 
 Chapter <a name="fr_279"></a>[I](#fn_279).
 
-1. What is called (under [**Qián ䷀**](./e4b9beqian.md)) 'the great and originating' is (in man) the first and chief quality of goodness; what is called 'the penetrating' is the assemblage of excellences; what is called 'the advantageous' is the harmony of all that is right; and what is called 'the correct and firm' is the faculty of action.
+1. What is called (under [**Qián ䷀**](e4b9beqian.md)) 'the great and originating' is (in man) the first and chief quality of goodness; what is called 'the penetrating' is the assemblage of excellences; what is called 'the advantageous' is the harmony of all that is right; and what is called 'the correct and firm' is the faculty of action.
 
 2. The superior man, embodying benevolence, is fit to preside over men; presenting the assemblage of excellences, he is fit to show in himself the union of all propriety; benefiting (all) creatures, he is fit to exhibit the harmony of all that is right; correct and firm, he is fit to manage (all) affairs.
 
-3. The fact that the superior man practises these four virtues justifies the application to him of the words -- '[**Qián ䷀**](./e4b9beqian.md) represents what is great and originating, penetrating, advantageous, correct and firm.'
+3. The fact that the superior man practises these four virtues justifies the application to him of the words -- '[**Qián ䷀**](e4b9beqian.md) represents what is great and originating, penetrating, advantageous, correct and firm.'
 
 ###### p. 409
 
@@ -58,7 +58,7 @@ Chapter <a name="fr_281"></a>[III](#fn_281).
 
 15. 'The dragon exceeds the proper limit, and there will be occasion for repentance:' -- when things have been carried to extremity, calamity ensues.
 
-16. Undivided lines appear in all these representations of the great and originating power denoted by [**Qián ䷀**](./e4b9beqian.md): -- (what follows in the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) tells us how) all under the sky there will be good order.
+16. Undivided lines appear in all these representations of the great and originating power denoted by [**Qián ䷀**](e4b9beqian.md): -- (what follows in the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) tells us how) all under the sky there will be good order.
 
 ###### p. 414
 
@@ -70,25 +70,25 @@ Chapter <a name="fr_282"></a>[IV](#fn_282).
 
 19. 'All the day active and vigilant:' -- continually, as the time passes and requires, does he act.
 
-20. 'He is as if he were leaping up, (but still) is in the deep:' -- a change is taking place in the method indicated by (this) [**Qián ䷀**](./e4b9beqian.md) diagram.
+20. 'He is as if he were leaping up, (but still) is in the deep:' -- a change is taking place in the method indicated by (this) [**Qián ䷀**](e4b9beqian.md) diagram.
 
 21. 'The dragon is on the wing in the sky this shows that his place is based on his heavenly virtue.
 
 22. 'The dragon exceeds the (proper) limit;--there will be occasion for repentance:' -- the time is come to an end, and so also is his opportunity.
 
-23. Undivided NINES appear in all these representations of the great and originating power denoted by [**Qián ䷀**](./e4b9beqian.md): -- and (from what follows in the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻)) we see the model (of action) afforded by heaven.
+23. Undivided NINES appear in all these representations of the great and originating power denoted by [**Qián ䷀**](e4b9beqian.md): -- and (from what follows in the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻)) we see the model (of action) afforded by heaven.
 
 ###### p. 415
 
 Chapter <a name="fr_283"></a>[V](#fn_283).
 
-24. The 'greatness' and 'originating' represented by [**Qián ䷀**](./e4b9beqian.md) refer to it as (the symbol of) what gives their beginning (to all things), and (also) secures their growth and development.
+24. The 'greatness' and 'originating' represented by [**Qián ䷀**](e4b9beqian.md) refer to it as (the symbol of) what gives their beginning (to all things), and (also) secures their growth and development.
 
 25. 'The advantageousness and the correctness and firmness' refer to its nature and feelings (as seen in all the resulting things).
 
-26. [**Qián ䷀**](./e4b9beqian.md), (thus) originating, is able with its admirable benefits to benefit all under the sky. We are not told how its benefits are conferred; but how great is (its operation)!
+26. [**Qián ䷀**](e4b9beqian.md), (thus) originating, is able with its admirable benefits to benefit all under the sky. We are not told how its benefits are conferred; but how great is (its operation)!
 
-27. How great is (what is emblemed by) [**Qián ䷀**](./e4b9beqian.md)! -- strong, vigorous, undeflected, correct, and (in all these qualities) pure, unmixed, exquisite!
+27. How great is (what is emblemed by) [**Qián ䷀**](e4b9beqian.md)! -- strong, vigorous, undeflected, correct, and (in all these qualities) pure, unmixed, exquisite!
 
 28. The six lines, as explained (by the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou)), bring forth and display (its meaning), and everything about it is (thus) indirectly exhibited.
 
@@ -120,7 +120,7 @@ occupant) is not in heaven above, nor is he in the field beneath. Therefore ther
 
 <a name="fn_278"></a>[408:1](#fr_278) The title of this Appendix is in Chinese the [Wén Yán Wén](https://en.wiktionary.org/wiki/文言文#Chinese) (文言文), 'The Record of [Wén Yán](https://en.wiktionary.org/wiki/文言);' and according to the analogy of the titles of the three Appendixes that follow, [Wén](https://en.wiktionary.org/wiki/文#Chinese) should perform the part of a verb and [Yán](https://en.wiktionary.org/wiki/言#Chinese) that of a substantive. So the characters are usually taken, and to [Wén](https://en.wiktionary.org/wiki/文#Chinese) is given the meaning of 'Explaining ([Shì](https://en.wiktionary.org/wiki/释);' and to [Yán](https://en.wiktionary.org/wiki/言#Chinese) that of 'Words or Sentences,' meaning the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou), and the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou) on the first two hexagrams. The document treats of these, <sub>[p. 409](#p-409)</sub> and of no others. 'It shows the amount and depth of meaning in them,' says [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), 'and the other hexagrams may be treated after the analog supplied here.' Confucius, it is said by others, died before he was able to carry out the plan which he had formed. But, as I have shown in the Introduction, it is more than doubtful whether we have in this Appendix anything at all directly from the sage.
 
-<a name="fn_279"></a>[409:I](#fr_279) Chapter I, paragraphs 1-3, shows how the attributes of [**Qián ䷀**](./e4b9beqian.md), as explained by [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou), are to be understood of the constituent principles of human nature. What is remarkable is, that we find paragraphs 1, 2, with very little variation, in one of the narratives of the [Zuǒ Zhuàn](https://en.wikipedia.org/wiki/Zuo_zhuan), as having been spoken by a marchioness-dowager of [Lǔ](https://en.wikipedia.org/wiki/Lu_(state)) in B.C. several years before Confucius was born One so familiar as [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) was with all the classical literature of his country could not be ignorant of this. His solution of the questions arising from it is, that anciently there was this explanation of the characters of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou); that it was employed by [Shū Jiāng](https://zh.wikipedia.org/zh-cn/叔姜) (of [Lǔ](https://en.wikipedia.org/wiki/Lu_(state))), and that Confucius also availed himself of it; while the chronicler used, as he does below, the phraseology of 'The Master said,' to distinguish the real words of Confucius from such ancient sayings. But who was this chronicler? No one can tell. The legitimate conclusion from [Zhū](https://en.wikipedia.org/wiki/Zhu_Xi)'s criticism is this, that so much of this Appendix as is preceded by 'The Master said' is from Confucius; -- so much and no more.
+<a name="fn_279"></a>[409:I](#fr_279) Chapter I, paragraphs 1-3, shows how the attributes of [**Qián ䷀**](e4b9beqian.md), as explained by [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou), are to be understood of the constituent principles of human nature. What is remarkable is, that we find paragraphs 1, 2, with very little variation, in one of the narratives of the [Zuǒ Zhuàn](https://en.wikipedia.org/wiki/Zuo_zhuan), as having been spoken by a marchioness-dowager of [Lǔ](https://en.wikipedia.org/wiki/Lu_(state)) in B.C. several years before Confucius was born One so familiar as [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) was with all the classical literature of his country could not be ignorant of this. His solution of the questions arising from it is, that anciently there was this explanation of the characters of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou); that it was employed by [Shū Jiāng](https://zh.wikipedia.org/zh-cn/叔姜) (of [Lǔ](https://en.wikipedia.org/wiki/Lu_(state))), and that Confucius also availed himself of it; while the chronicler used, as he does below, the phraseology of 'The Master said,' to distinguish the real words of Confucius from such ancient sayings. But who was this chronicler? No one can tell. The legitimate conclusion from [Zhū](https://en.wikipedia.org/wiki/Zhu_Xi)'s criticism is this, that so much of this Appendix as is preceded by 'The Master said' is from Confucius; -- so much and no more.
 
 The ascription in paragraph 3 of 'the four virtues' to the superior-or normal man, man in his best estate, and yet inferior to 'the sagely man,' is Confucian, -- after the style of the teaching of the Master in the Analects.
 
@@ -134,7 +134,7 @@ Paragraph 9. As I have said above, the place of honour and authority in the hexa
 
 <a name="fn_281"></a>[413:III](#fr_281) Chapter III, paragraphs 10-16, goes over again the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou) with very brief explanations, grounded chiefly on the consideration of the place or position occupied by the several lines, and the time of their introduction into the action of the hexagram.
 
-Paragraph 16. See the note on the Text of [**Qián ䷀**](./e4b9beqian.md), corresponding to this line, page [58](e4b9beqian.md#p-58), and also that on paragraph 7 of the symbolism of the figures and lines, Section i, page 165. There is the same <sub>[p. 413](#p-413)</sub> difficulty in understanding the first part of the short paragraph; the conclusion of it must be a consequence of the language of the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻), though it is not repeated here.
+Paragraph 16. See the note on the Text of [**Qián ䷀**](e4b9beqian.md), corresponding to this line, page [58](e4b9beqian.md#p-58), and also that on paragraph 7 of the symbolism of the figures and lines, Section i, page 165. There is the same <sub>[p. 413](#p-413)</sub> difficulty in understanding the first part of the short paragraph; the conclusion of it must be a consequence of the language of the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻), though it is not repeated here.
 
 <a name="fn_282"></a>[414:IV](#fr_282) Chapter IV, paragraphs 7-23, goes over the same ground for a third time, treating the various paragraphs chiefly from the standpoint of time.
 
@@ -142,13 +142,13 @@ Paragraph 17 tells us that time and circumstances are essential, as well as inwa
 
 Paragraph 19. Compare the language on paragraph 6, towards the end.
 
-Paragraph 20. The subject passes here from the lower trigram and enters into the upper. We are told not to lay stress on 'the method of [**Qián ䷀**](./e4b9beqian.md).' In paragraph 21 we have the sage upon the <sub>[p. 415](#p-415)</sub> throne. Time and opportunity are both in progress in 19; here in 22, they are both passed, have reached their extremity or end.
+Paragraph 20. The subject passes here from the lower trigram and enters into the upper. We are told not to lay stress on 'the method of [**Qián ䷀**](e4b9beqian.md).' In paragraph 21 we have the sage upon the <sub>[p. 415](#p-415)</sub> throne. Time and opportunity are both in progress in 19; here in 22, they are both passed, have reached their extremity or end.
 
 Paragraph 23: -- see on paragraph 16. 'The model of heaven,' says [Wú Chéng](https://en.wikipedia.org/wiki/Wu_Cheng_(philosopher)), 'is the due blending of the strong and active with the weak and passive, the regulation of movement in accordance with the highest reason, so that there shall be neither excess nor deficiency.'
 
 <a name="fn_283"></a>[415:V](#fr_283) Chapter V, paragraphs 24-29. The author here, leaving the treatise on the symbolism of the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻), turns to that on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), or expositions of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou), and amplifies it, not quoting from it, however, so fully and exactly, as he has done in the previous chapters from the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻).
 
-Paragraphs 24 and 25 are based on the statement of the significance of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) under [**Qián ䷀**](./e4b9beqian.md), and not on the treatise on the symbolism. The originating power cannot be separated from that of penetration and development. The latter issues from the former <sub>[p. 416](#p-416)</sub> as the summer follows on the spring, according to an illustration of [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi). 'The advantageousness' and 'firm correctness,' he compares also to the autumn and winter, saying that the [**Qián ䷀**](./e4b9beqian.md) power in its essence, as it is in itself, is best described by these two latter characteristics, while the two former describe it in its operation. It is thus that he tries to give his readers an idea of what he understood by 'nature and feelings' in 25. But this chapter treats of the [**Qián ䷀**](./e4b9beqian.md) power in nature rather than in humanity. Confining our view to the power so operating, we cannot say that the description of it in 26 and 27 is magniloquent or hyperbolical.
+Paragraphs 24 and 25 are based on the statement of the significance of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) under [**Qián ䷀**](e4b9beqian.md), and not on the treatise on the symbolism. The originating power cannot be separated from that of penetration and development. The latter issues from the former <sub>[p. 416](#p-416)</sub> as the summer follows on the spring, according to an illustration of [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi). 'The advantageousness' and 'firm correctness,' he compares also to the autumn and winter, saying that the [**Qián ䷀**](e4b9beqian.md) power in its essence, as it is in itself, is best described by these two latter characteristics, while the two former describe it in its operation. It is thus that he tries to give his readers an idea of what he understood by 'nature and feelings' in 25. But this chapter treats of the [**Qián ䷀**](e4b9beqian.md) power in nature rather than in humanity. Confining our view to the power so operating, we cannot say that the description of it in 26 and 27 is magniloquent or hyperbolical.
 
 Paragraph 28 returns to the explanations of the lines of the hexagram by the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou), which exhibit the power in different positions and relations, bringing out all its significance; and then 29 confines us to the fifth line, in which we have its ideal. The spheres of nature and of men seem to be in the view of the author, and therefore I introduce 'the great man,' as the subject, after the example of the best critics. Like the clouds and the rain to the thirsty earth, so is the rule of the sage to expectant humanity.
 

@@ -66,4 +66,4 @@ Beneath the symbolism under line 5, lies the principle that the most excellent t
 
 What is said on line 6 is good, but is only a truism. The whole course has been shown; if every step has been right and appropriate, the issue will be very good.
 
-# [履](./e5b1a5lv_cn.md)
+# [履](e5b1a5lv_cn.md)

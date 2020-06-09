@@ -603,7 +603,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/45_1.png" align=left>
 
-初六爻动变得[第17卦：泽雷随](./e99a8fsui_cn.md)。
+初六爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
 这个卦是异卦（下震上兑）相叠，
 
@@ -639,7 +639,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/45_2.png" align=left>
 
-六二爻动变得[第47卦：泽水困](./e59bb0kun_cn.md)。
+六二爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
 这个卦是异卦（下坎上兑）相叠。
 
@@ -675,7 +675,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/45_3.png" align=left>
 
-六三爻动变得[第31卦：泽山咸](./e592b8xian_cn.md)。
+六三爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
 这个卦是异卦（下艮上兑）相叠。
 
@@ -711,7 +711,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/45_4.png" align=left>
 
-九四爻动变得[第8卦：水地比](./e6af94bi_cn.md)。
+九四爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
 这个卦是异卦（下坤上坎）相叠，
 
@@ -751,7 +751,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/45_5.png" align=left>
 
-九五爻动变得[第16卦：雷地豫](./e8b1abyu_cn.md)。
+九五爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
 这个卦是异卦（下坤上震）相叠，
 
@@ -791,7 +791,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/45_6.png" align=left>
 
-上六爻动变得[第12卦：天地否](./e590a6pi_cn.md)。
+上六爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
 这个卦是异卦（下坤上乾）相叠，
 
@@ -799,4 +799,4 @@
 
 它们彼此为“综卦”，表明泰极而否，否极泰来，互为因果。
 
-# [Cui](./e89083cui.md)
+# [Cui](e89083cui.md)

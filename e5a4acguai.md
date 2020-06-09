@@ -48,4 +48,4 @@ Purslain grows in shady places, and hence we find it here in close contiguity to
 
 The subject of the 6th line, standing alone, may be easily disposed of.
 
-# [夬](./e5a4acguai_cn.md)
+# [夬](e5a4acguai_cn.md)

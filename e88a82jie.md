@@ -58,4 +58,4 @@ Line 5 is strong, and in its correct place. Its subject regulates himself, havin
 Line 6 is weak, in its proper place. The subject of the topmost line must be supposed to possess an exaggerated desire for enacting regulations.
 They will be too severe, and the effect will be evil. But as Confucius ([Analects 3. 3](https://sacred-texts.com/cfu/conf1.htm)) says, that is not so great a fault as to be easy and remiss. It may be remedied, and cause for repentance will disappear.
 
-# [节](./e88a82jie_cn.md)
+# [节](e88a82jie_cn.md)

@@ -44,4 +44,4 @@ The subject of line 5 is on the eve of extrication and deliverance. The waters o
 
 The case of the subject of line 6 is hopeless. When danger has reached its highest point, there he is, represented by a weak line, and with no proper correlate below. The 'thicket of thorns' is taken as a metaphor for a prison; but if the expression has a history, I have been unable to find it.
 
-# [坎](./e59d8ekan_cn.md)
+# [坎](e59d8ekan_cn.md)

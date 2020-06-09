@@ -768,7 +768,7 @@
 
 <img src="shapes/25.01.png" align=left>
 
-初九爻动变得[第12卦：天地否](./e590a6pi_cn.md)。
+初九爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
 这个卦是异卦（下坤上乾）相叠，
 
@@ -806,7 +806,7 @@
 
 <img src="shapes/25.02.png" align=left>
 
-六二爻动变得[第10卦：天泽履](./e5b1a5lv_cn.md)。
+六二爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
 这个卦是异卦（下兑上乾）相叠，
 
@@ -846,7 +846,7 @@
 
 <img src="shapes/25.03.png" align=left>
 
-六三爻动变得[第13卦：天火同人](./e5908ce4babatongren_cn.md)。
+六三爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
 这个卦是异卦（下离上乾）相叠，
 
@@ -882,7 +882,7 @@
 
 <img src="shapes/25.04.png" align=left>
 
-九四爻动变得[第42卦：风雷益](./e79b8ayi_cn.md)。
+九四爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
 这个卦是异卦（下震上巽）相叠。
 
@@ -922,7 +922,7 @@
 
 <img src="shapes/25.05.png" align=left>
 
-九五爻动变得[第21卦：火雷噬嗑](./e599ace59791shike_cn.md)。
+九五爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
 这个卦是异卦（下震上离）相叠。
 
@@ -960,7 +960,7 @@
 
 <img src="shapes/25.06.png" align=left>
 
-上九爻动变得[第17卦：泽雷随](./e99a8fsui_cn.md)。
+上九爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
 这个卦是异卦（下震上兑）相叠，
 
@@ -970,4 +970,4 @@
 
 随必依时顺势，有原则和条件，以坚贞为前提。
 
-# [Wú Wàng ䷘](./e697a0e5a684wuwang.md)
+# [Wú Wàng ䷘](e697a0e5a684wuwang.md)

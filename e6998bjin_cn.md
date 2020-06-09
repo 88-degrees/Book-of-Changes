@@ -635,7 +635,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/35_1.png" align=left>
 
-初六爻动变得[第21卦：火雷噬嗑](./e599ace59791shike_cn.md)。
+初六爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
 这个卦是异卦（下震上离）相叠。
 
@@ -672,7 +672,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/35_2.png" align=left>
 
-六二爻动变得[第64卦：火水未济](./e69caae6b58eweiji_cn.md)。
+六二爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
 这个卦是异卦（下坎上离）相叠。
 
@@ -710,7 +710,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/35_3.png" align=left>
 
-六三爻动变得[第56卦：火山旅](./e69785lv_cn.md)。
+六三爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
 这个卦是异卦（下艮上离）相叠。
 
@@ -746,7 +746,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/35_4.png" align=left>
 
-九四爻动变得[第23卦：山地剥](./e589a5bo_cn.md)。
+九四爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
 这个卦是异卦（下坤上艮）相叠。
 
@@ -784,7 +784,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/35_5.png" align=left>
 
-六五爻动变得[第12卦：天地否](./e590a6pi_cn.md)。
+六五爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
 这个卦是异卦（下坤上乾）相叠，
 
@@ -822,7 +822,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/35_6.png" align=left>
 
-上九爻动变得[第16卦：雷地豫](./e8b1abyu_cn.md)。
+上九爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
 这个卦是异卦（下坤上震）相叠，
 
@@ -834,4 +834,4 @@
 
 此卦与谦卦互为综卦，交互作用。
 　　　
-# [Jin](./e6998bjin.md)
+# [Jin](e6998bjin.md)

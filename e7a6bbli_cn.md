@@ -540,7 +540,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/30_1.png" align=left>
 
-初九爻动变得[第56卦：火山旅](./e69785lv_cn.md)。
+初九爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
 这个卦是异卦（下艮上离）相叠。
 
@@ -578,7 +578,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/30_2.png" align=left>
 
-六二爻动变得[第14卦：火天大有](./e5a4a7e69c89dayou_cn.md)。
+六二爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
 这个卦是异卦（下乾上离）相叠。
 
@@ -614,7 +614,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/30_3.png" align=left>
 
-九三爻动变得[第21卦：火雷噬嗑](./e599ace59791shike_cn.md)。
+九三爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
 这个卦是异卦（下震上离）相叠。
 
@@ -652,7 +652,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/30_4.png" align=left>
 
-九四爻动变得[第22卦：山火贲](./e8b4b2bi_cn.md)。
+九四爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
 这个卦是异卦（下离上艮）相叠。
 
@@ -690,7 +690,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/30_5.png" align=left>
 
-六五爻动变得[第13卦：天火同人](./e5908ce4babatongren_cn.md)。
+六五爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
 这个卦是异卦（下离上乾）相叠，
 
@@ -726,7 +726,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/30_6.png" align=left>
 
-上九爻动变得[第55卦：雷火丰](./e4b8b0feng_cn.md)。
+上九爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
 这个卦是异卦（下离上震）相叠，
 
@@ -734,4 +734,4 @@
 
 告戒：务必注意事物向相反方面发展，盛衰无常，不可不警惕。
 
-# [Li](./e7a6bbli.md)
+# [Li](e7a6bbli.md)

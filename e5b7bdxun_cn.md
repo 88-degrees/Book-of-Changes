@@ -489,7 +489,7 @@
 
  <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/57_1.png" align=left>
 
-初六爻动变得[第9卦：风天小畜](./e5b08fe7959cxiaoxu_cn.md)。
+初六爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
 这个卦是异卦（下乾上巽）相叠，
 
@@ -527,7 +527,7 @@
 
  <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/57_2.png" align=left>
 
-九二爻动变得[第53卦：风山渐](./e6b890jian_cn.md)。
+九二爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
 这个卦是异卦（下艮上巽）相叠。
 
@@ -565,7 +565,7 @@
 
  <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/57_3.png" align=left>
 
-九三爻动变得[第59卦：风水涣](./e6b6a3huan_cn.md)。
+九三爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
 这个卦是异卦（下坎上巽）相叠。
 
@@ -603,7 +603,7 @@
 
  <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/57_4.png" align=left>
 
-六四爻动变得[第44卦：天风姤](./e5a7a4gou_cn.md)。
+六四爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
 这个卦是异卦（下巽上乾）相叠。
 
@@ -643,7 +643,7 @@
 
  <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/57_5.png" align=left>
 
-九五爻动变得[第18卦：山风蛊](./e89b8agu_cn.md)。
+九五爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
 这个卦是异卦（下巽上艮）相叠，
 
@@ -681,7 +681,7 @@
 
  <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/57_6.png" align=left>
 
-上九爻动变得[第48卦：水风井](./e4ba95jing_cn.md)。
+上九爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
 这个卦是异卦（下巽上坎）相叠。
 
@@ -693,4 +693,4 @@
 
 相互为养，井以水养人，经久不竭，人应取此德而勤劳自勉。
 
-# [Xun](./e5b7bdxun.md)
+# [Xun](e5b7bdxun.md)

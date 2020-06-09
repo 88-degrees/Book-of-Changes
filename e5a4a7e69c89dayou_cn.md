@@ -664,7 +664,7 @@
 
 <img src="shapes/14.01.png" align=left>
 
-初九爻动变得[第50卦：火风鼎](./e9bc8eding_cn.md)。
+初九爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
 这个卦是异卦（下巽上离）相叠。
 
@@ -703,7 +703,7 @@
 
 <img src="shapes/14.02.png" align=left>
 
-九二爻动变得[第30卦：离为火](./e7a6bbli_cn.md)。
+九二爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
 这个卦是同卦（下离上离）相叠。
 
@@ -741,7 +741,7 @@
 
 <img src="shapes/14.03.png" align=left>
 
-九三爻动变得[第38卦：火泽睽](./e79dbdkui_cn.md)。
+九三爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
 这个卦是异卦（下兑上离）相叠。
 
@@ -782,7 +782,7 @@
 
 <img src="shapes/14.04.png" align=left>
 
-九四爻动变得[第26卦：山天大畜](./e5a4a7e89384daxu_cn.md)。
+九四爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
 这个卦是异卦（下乾上艮）相叠。
 
@@ -820,7 +820,7 @@
 
 <img src="shapes/14.05.png" align=left>
 
-六五爻动变得[第1卦：乾为天](./e4b9beqian_cn.md)。
+六五爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
 这个卦是同卦（下乾上乾）相叠。
 
@@ -860,7 +860,7 @@
 
 <img src="shapes/14.06.png" align=left>
 
-上九爻动变得[第34卦：雷天大壮](./e5a4a7e5a3aedazhuang_cn.md)。
+上九爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
 这个卦是异卦（下乾上震）相叠。
 
@@ -872,4 +872,4 @@
 刚壮有力故曰壮。大而且壮，故名大壮。
 四阳壮盛，积极而有所作为，上正下正，标正影直。
 
-# [Dà Yǒu ䷍](./e5a4a7e69c89dayou.md)
+# [Dà Yǒu ䷍](e5a4a7e69c89dayou.md)

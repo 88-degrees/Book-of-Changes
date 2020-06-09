@@ -43,4 +43,4 @@ Line 5 is weak, and occupies a central place. Its subject will cease therefore t
 
 Line 6 being at the top of [**Zhèn ䷲**](e99c87zhen.md), the symbol of movement, and at the top of **Dà Zhuàng**, its subject may be expected to be active in exerting his strength; and through his weakness, the result would be as described. But he becomes conscious of his weakness, reflects and rests, and good fortune results, as he desists from the prosecution of his unwise efforts.
 
-# [大壮](./e5a4a7e5a3aedazhuang_cn.md)
+# [大壮](e5a4a7e5a3aedazhuang_cn.md)

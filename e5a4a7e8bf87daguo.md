@@ -42,4 +42,4 @@ Line 5 is strong and central. Its subject should be equal to achieve extraordina
 
 The subject of 6 pursues his daring course, with a view to satisfy the extraordinary exigency of the time, and benefit all under the sky. He is unequal to the task, and sinks beneath it; but his motive modifies the judgment on his conduct.
 
-# [大过](./e5a4a7e8bf87daguo_cn.md)
+# [大过](e5a4a7e8bf87daguo_cn.md)

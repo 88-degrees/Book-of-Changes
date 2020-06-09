@@ -50,4 +50,4 @@ On line 5 [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'It i
 
 The evil that paragraph 6 concludes with would arise from the quality of Sun being carried to excess. I have followed the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors in adopting a change of one character in the received Text.
 
-# [巽](./e5b7bdxun_cn.md)
+# [巽](e5b7bdxun_cn.md)

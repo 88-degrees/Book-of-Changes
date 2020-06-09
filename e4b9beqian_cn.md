@@ -1086,7 +1086,7 @@
 
 <img src="shapes/01.01.png" align=left>
 
-初九爻动变得[第44卦：天风姤](./e5a7a4gou_cn.md)。
+初九爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
 这个卦是异卦（下巽上乾）相叠。
 
@@ -1125,7 +1125,7 @@
 
 <img src="shapes/01.02.png" align=left>
 
-九二爻动变得[第13卦：天火同人](./e5908ce4babatongren_cn.md)。
+九二爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
 这个卦是异卦（下离上乾）相叠，
 
@@ -1163,7 +1163,7 @@
 
 <img src="shapes/01.03.png" align=left>
 
-九三爻动变得[第10卦：天泽履](./e5b1a5lv_cn.md)。
+九三爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
 这个卦是异卦（下兑上乾）相叠，
 乾为天，兑为泽，以天喻君，以泽喻民。
@@ -1203,7 +1203,7 @@
 
 <img src="shapes/01.04.png" align=left>
 
-九四爻动变得[第9卦：风天小畜](./e5b08fe7959cxiaoxu_cn.md)。
+九四爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
 这个卦是异卦（下乾上巽）相叠，乾为天，巽为风。
 
@@ -1239,7 +1239,7 @@
 
 <img src="shapes/01.05.png" align=left>
 
-九五爻动变得[第14卦：火天大有](./e5a4a7e69c89dayou_cn.md)。
+九五爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
 这个卦是异卦（下乾上离）相叠。
 
@@ -1275,7 +1275,7 @@
 
 <img src="shapes/01.06.png" align=left>
 
-上九爻动变得[第43卦：泽天夬](./e5a4acguai_cn.md)。
+上九爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
 这个卦是异卦（下乾上兑）相叠。
 
@@ -1285,4 +1285,4 @@
 
 五阳去一阴，去之不难，决（去之意）即可，故名为夬（guài），夬即决。
 
-# [Qián ䷀](./e4b9beqian.md)
+# [Qián ䷀](e4b9beqian.md)

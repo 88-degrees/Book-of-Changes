@@ -540,7 +540,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/28_1.png" align=left>
 
-初六爻动变得[第43卦：泽天夬](./e5a4acguai_cn.md)。
+初六爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
 这个卦是异卦（下乾上兑）相叠。
 
@@ -578,7 +578,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/28_2.png" align=left>
 
-九二爻动变得[第31卦：泽山咸](./e592b8xian_cn.md)。
+九二爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
 这个卦是异卦（下艮上兑）相叠。
 
@@ -616,7 +616,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/28_3.png" align=left>
 
-九三爻动变得[第47卦：泽水困](./e59bb0kun_cn.md)。
+九三爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
 这个卦是异卦（下坎上兑）相叠。
 
@@ -654,7 +654,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/28_4.png" align=left>
 
-九四爻动变得[第48卦：水风井](./e4ba95jing_cn.md)。
+九四爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
 这个卦是异卦（下巽上坎）相叠。
 
@@ -693,7 +693,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/28_5.png" align=left>
 
-九五爻动变得[第32卦：雷风恒](./e68192heng_cn.md)。
+九五爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
 这个卦是异卦（下巽上震）相叠。
 
@@ -732,7 +732,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/28_6.png" align=left>
 
-上六爻动变得[第44卦：天风姤](./e5a7a4gou_cn.md)。
+上六爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
 这个卦是异卦（下巽上乾）相叠。
 
@@ -743,4 +743,4 @@
 姤（gòu）卦与夬（guài）卦相反，互为“综卦”。
 姤即媾，阴阳相遇。但五阳一阴，不能长久相处。
 
-# [Daguo](./e5a4a7e8bf87daguo.md)
+# [Daguo](e5a4a7e8bf87daguo.md)

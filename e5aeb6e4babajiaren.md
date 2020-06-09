@@ -40,4 +40,4 @@ The subject of the strong fifth line appears as the king. This may be the husban
 
 Line 6 is also strong, and being in an even place, the subject of it might degenerate into stern severity, but he is supposed to be sincere, complete in his personal character and self-culture, and hence his action will only lead to good fortune.
 
-# [家人 ䷤](./e5aeb6e4babajiaren_cn.md)
+# [家人 ䷤](e5aeb6e4babajiaren_cn.md)

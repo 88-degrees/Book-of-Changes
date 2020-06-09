@@ -66,4 +66,4 @@ Line 5 is in the ruler's place; but it is weak, and he is in danger of being car
 
 Line 6, at the very top or end of the hexagram, is weak, and its subject is all but lost. Still even for him there is a chance of safety, if he will but change.
 
-# [豫 ䷏](./e8b1abyu_cn.md)
+# [豫 ䷏](e8b1abyu_cn.md)

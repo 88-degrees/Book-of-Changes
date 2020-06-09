@@ -479,7 +479,7 @@
 
 <img src="shapes/46.01.png" align=left>
 
-初六爻动变得[第11卦：地天泰](./e6b3b0tai_cn.md)。
+初六爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
 这个卦是异卦（下乾上坤）相叠，
 
@@ -518,7 +518,7 @@
 
 <img src="shapes/46.02.png" align=left>
 
-九二爻动变得[第15卦：地山谦](./e8b0a6qian_cn.md)。
+九二爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
 这个卦是异卦（下艮上坤）相叠，
 
@@ -556,7 +556,7 @@
 
 <img src="shapes/46.03.png" align=left>
 
-九三爻动变得[第7卦：地水师](./e5b888shi_cn.md)。
+九三爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
 这个卦是异卦（下坎上坤）相叠。
 
@@ -595,7 +595,7 @@
 
 <img src="shapes/46.04.png" align=left>
 
-六四爻动变得[第32卦：雷风恒](./e68192heng_cn.md)。
+六四爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
 这个卦是异卦（下巽上震）相叠。
 
@@ -634,7 +634,7 @@
 
 <img src="shapes/46.05.png" align=left>
 
-六五爻动变得[第48卦：水风井](./e4ba95jing_cn.md)。
+六五爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
 这个卦是异卦（下巽上坎）相叠。
 
@@ -673,7 +673,7 @@
 
 <img src="shapes/46.06.png" align=left>
 
-上六爻动变得[第18卦：山风蛊](./e89b8agu_cn.md)。
+上六爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
 这个卦是异卦（下巽上艮）相叠，与随卦互为综卦。
 
@@ -683,4 +683,4 @@
 
 必须革新创造，治理整顿，挽救危机，重振事业。
 
-# [Shēng ䷭](./e58d87sheng.md)
+# [Shēng ䷭](e58d87sheng.md)

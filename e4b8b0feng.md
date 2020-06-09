@@ -44,4 +44,4 @@ The subject of line 5 is in the ruler's place, himself weak, but 'the lord' of t
 
 All the conditions of line 6 are unfavourable, and its subject is left to himself without any helpers. He is isolated for long, and undone. The issue is only evil.
 
-# [丰](./e4b8b0feng_cn.md)
+# [丰](e4b8b0feng_cn.md)

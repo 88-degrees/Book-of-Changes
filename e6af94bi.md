@@ -70,4 +70,4 @@ The subject of line 5 is the king, who must be the centre of union. The ancient 
 
 A weak line being in the 6th place, which is appropriate to it, its subject is supposed to be trying to promote union among and with the subjects of the lines below. It is too late. The time is past. Hence it is symbolised as 'without a head,' that is, as not having taken the first step, from which its action should begin, and go on to the end.
 
-# [比](./e6af94bi_cn.md)
+# [比](e6af94bi_cn.md)

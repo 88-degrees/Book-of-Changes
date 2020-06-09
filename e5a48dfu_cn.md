@@ -843,7 +843,7 @@
 
 <img src="shapes/24.01.png" align=left>
 
-初九爻动变得[第2卦：坤为地](./e59da4kun_cn.md)。
+初九爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
 这个卦是同卦（下坤上坤）相叠，阴性。
 
@@ -886,7 +886,7 @@
 
 <img src="shapes/24.02.png" align=left>
 
-六二爻动变得[第19卦：地泽临](./e4b8b4lin_cn.md)。
+六二爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
 这个卦是异卦（下兑上坤）相叠。
 
@@ -924,7 +924,7 @@
 
 <img src="shapes/24.03.png" align=left>
 
-六三爻动变得[第36卦：地火明夷](./e6988ee5a4b7mingyi_cn.md)。
+六三爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
 这个卦是异卦（下离上坤）相叠。
 
@@ -962,7 +962,7 @@
 
 <img src="shapes/24.04.png" align=left>
 
-六四爻动变得[第51卦：震为雷](./e99c87zhen_cn.md)。
+六四爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
 这个卦是同卦（下震上震）相叠。
 
@@ -1001,7 +1001,7 @@
 
 <img src="shapes/24.05.png" align=left>
 
-六五爻动变得[第3卦：水雷屯](./e5b1afzhun_cn.md)。
+六五爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
 这个卦是异卦（下震上坎）相叠，
 
@@ -1040,7 +1040,7 @@
 
 <img src="shapes/24.06.png" align=left>
 
-上六爻动变得[第27卦：山雷颐](./e9a290yi_cn.md)。
+上六爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
 这个卦是异卦（下震上艮）相叠。
 
@@ -1052,4 +1052,4 @@
 
 阳实阴虚，实者养人，虚者为人养。自食其力。
 
-# [Fù ䷗](./e5a48dfu.md)
+# [Fù ䷗](e5a48dfu.md)

@@ -40,4 +40,4 @@ Line 5 should be the place of the ruler or sovereign in the hexagram; but 6 is a
 
 Line 6 sets forth the fate of the ruler, who opposes himself to the officer who would do him good and intelligent service. Instead of becoming as the sun, enlightening all from the height of the sky, he is as the sun hidden below the earth. I can well believe that the writer had the last king of Shang in his mind.
 
-# [明夷 ䷣](./e6988ee5a4b7mingyi_cn.md)
+# [明夷 ䷣](e6988ee5a4b7mingyi_cn.md)

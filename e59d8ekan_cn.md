@@ -637,7 +637,7 @@
 
 <img src="shapes/29.01.png" align=left>
 
-初六爻动变得[第60卦：水泽节](./e88a82jie_cn.md)。
+初六爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
 这个卦是异卦（下兑上坎）相叠。
 
@@ -679,7 +679,7 @@
 
 <img src="shapes/29.02.png" align=left>
 
-九二爻动变得[第8卦：水地比](./e6af94bi_cn.md)。
+九二爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
 这个卦是异卦（下坤上坎）相叠，
 
@@ -719,7 +719,7 @@
 
 <img src="shapes/29.03.png" align=left>
 
-六三爻动变得[第48卦：水风井](./e4ba95jing_cn.md)。
+六三爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
 这个卦是异卦（下巽上坎）相叠。
 
@@ -759,7 +759,7 @@
 
 <img src="shapes/29.04.png" align=left>
 
-六四爻动变得[第47卦：泽水困](./e59bb0kun_cn.md)。
+六四爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
 这个卦是异卦（下坎上兑）相叠。
 
@@ -798,7 +798,7 @@
 
 <img src="shapes/29.05.png" align=left>
 
-九五爻动变得[第7卦：地水师](./e5b888shi_cn.md)。
+九五爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
 这个卦是异卦（下坎上坤）相叠。
 
@@ -838,7 +838,7 @@
 
 <img src="shapes/29.06.png" align=left>
 
-上六爻动变得[第59卦：风水涣](./e6b6a3huan_cn.md)。
+上六爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
 这个卦是异卦（下坎上巽）相叠。
 
@@ -850,4 +850,4 @@
 必须用积极的手段和方法克服，
 战胜弊端，挽救涣散，转危为安。
 
-# [Kǎn ䷜](./e59d8ekan.md)
+# [Kǎn ䷜](e59d8ekan.md)

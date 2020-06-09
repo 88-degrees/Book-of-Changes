@@ -734,7 +734,7 @@
 
 <img src="shapes/21.01.png" align=left>
 
-初九爻动变得[第35卦：火地晋](./e6998bjin_cn.md)。
+初九爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 
 这个卦是异卦（下坤上离）相叠。
 
@@ -773,7 +773,7 @@
 
 <img src="shapes/21.02.png" align=left>
 
-六二爻动变得[第38卦：火泽睽](./e79dbdkui_cn.md)。
+六二爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
 这个卦是异卦（下兑上离）相叠。
 
@@ -814,7 +814,7 @@
 
 <img src="shapes/21.03.png" align=left>
 
-六三爻动变得[第30卦：离为火](./e7a6bbli_cn.md)。
+六三爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
 这个卦是同卦（下离上离）相叠。
 
@@ -854,7 +854,7 @@
 
 <img src="shapes/21.04.png" align=left>
 
-九四爻动变得[第27卦：山雷颐](./e9a290yi_cn.md)。
+九四爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
 这个卦是异卦（下震上艮）相叠。
 
@@ -894,7 +894,7 @@
 
 <img src="shapes/21.05.png" align=left>
 
-六五爻动变得[第25卦：天雷无妄](./e697a0e5a684wuwang_cn.md)。
+六五爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
 这个卦是异卦（下震上乾）相叠。
 
@@ -935,7 +935,7 @@
 
 <img src="shapes/21.06.png" align=left>
 
-上九爻动变得[第51卦：震为雷](./e99c87zhen_cn.md)。
+上九爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
 这个卦是同卦（下震上震）相叠。
 
@@ -946,4 +946,4 @@
 平日应居安思危，怀恐惧心理，不敢有所怠慢，
 遇到突发事变，也能安然自若，谈笑如常。
 
-# [Shì Kè ䷔](./e599ace59791shike.md)
+# [Shì Kè ䷔](e599ace59791shike.md)

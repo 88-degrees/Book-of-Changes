@@ -607,7 +607,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/11_1.png" align=left>
 
-初九爻动变得[第46卦：地风升](./e58d87sheng_cn.md)。
+初九爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
 这个卦是异卦（下巽上坤）相叠。
 
@@ -643,7 +643,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/11_2.png" align=left>
 
-九二爻动变得[第36卦：地火明夷](./e6988ee5a4b7mingyi_cn.md)。
+九二爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
 这个卦是异卦（下离上坤）相叠。
 
@@ -681,7 +681,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/11_3.png" align=left>
 
-九三爻动变得[第19卦：地泽临](./e4b8b4lin_cn.md)。
+九三爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
 这个卦是异卦（下兑上坤）相叠。
 
@@ -717,7 +717,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/11_4.png" align=left>
 
-六四爻动变得[第34卦：雷天大壮](./e5a4a7e5a3aedazhuang_cn.md)。
+六四爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
 这个卦是异卦（下乾上震）相叠。
 
@@ -757,7 +757,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/11_5.png" align=left>
 
-六五爻动变得[第5卦：水天需](./e99c80xu_cn.md)。
+六五爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
 这个卦是异卦（下乾上坎）相叠，
 
@@ -792,7 +792,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/11_6.png" align=left>
 
-上六爻动变得[第26卦：山天大畜](./e5a4a7e89384daxu_cn.md)。
+上六爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
 这个卦是异卦（下乾上艮）相叠。
 
@@ -802,4 +802,4 @@
 
 为此不畏严重的艰难险阻，努力修身养性以丰富德业。
 
-# [Tai](./e6b3b0tai.md)
+# [Tai](e6b3b0tai.md)

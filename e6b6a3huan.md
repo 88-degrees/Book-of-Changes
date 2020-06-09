@@ -74,4 +74,4 @@ Line 6 is occupied by a strong line, which has a proper correlate in 3; but 3 is
 
 > Matching Line in Adjacent Hexagram: [60.6](e88a82jie.md#60.6)
 
-# [涣](./e6b6a3huan_cn.md)
+# [涣](e6b6a3huan_cn.md)

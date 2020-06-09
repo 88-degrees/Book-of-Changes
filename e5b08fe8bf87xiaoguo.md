@@ -81,4 +81,4 @@ is content to use his arrows against those in a cave!'
 Line 6 is weak, and is at the top of the trigram of movement. He is possessed by the idea of the hexagram in an extreme degree,
 and is incapable of keeping himself under restraint.
 
-# [小过](./e5b08fe8bf87xiaoguo_cn.md)
+# [小过](e5b08fe8bf87xiaoguo_cn.md)

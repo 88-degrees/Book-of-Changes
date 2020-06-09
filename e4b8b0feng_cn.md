@@ -624,7 +624,7 @@
 
 <img src="shapes/55.01.png" align=left>
 
-初九爻动变得[第62卦：雷山小过](./e5b08fe8bf87xiaoguo_cn.md)。
+初九爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
 这个卦是异卦（下艮上震）相叠。
 
@@ -662,7 +662,7 @@
 
 <img src="shapes/55.02.png" align= left>
 
-六二爻动变得[第34卦：雷天大壮](./e5a4a7e5a3aedazhuang_cn.md)。
+六二爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
 这个卦是异卦（下乾上震）相叠。
 
@@ -700,7 +700,7 @@
 
 <img src="shapes/55.03.png" align=left>
 
-九三爻动变得[第51卦：震为雷](./e99c87zhen_cn.md)。
+九三爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
 这个卦是同卦（下震上震）相叠。
 
@@ -740,7 +740,7 @@
 
 <img src="shapes/55.04.png" align=left>
 
-九四爻动变得[第36卦：地火明夷](./e6988ee5a4b7mingyi_cn.md)。
+九四爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
 这个卦是异卦（下离上坤）相叠。
 
@@ -776,7 +776,7 @@
 
 <img src="shapes/55.05.png" align=left>
 
-六五爻动变得[第49卦：泽火革](./e99da9ge_cn.md)。
+六五爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
 这个卦是异卦（下离上兑）相叠。
 
@@ -817,7 +817,7 @@
 
 <img src="shapes/55.06.png" align=left>
 
-上六爻动变得[第30卦：离为火](./e7a6bbli_cn.md)。
+上六爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
 这个卦是同卦（下离上离）相叠。
 
@@ -825,4 +825,4 @@
 
 离为火、为明，太阳反复升落，运行不息，柔顺为心。
 
-# [Fēng ䷶](./e4b8b0feng.md)
+# [Fēng ䷶](e4b8b0feng.md)

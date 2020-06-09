@@ -67,4 +67,4 @@ Line 5 is strong, in an odd, and the central place; and would fain unite with 2,
 
 The union reaches to all within the suburbs, and is riot yet universal; but still there is no cause for repentance.
 
-# [同人 ䷌](./e5908ce4babatongren_cn.md)
+# [同人 ䷌](e5908ce4babatongren_cn.md)

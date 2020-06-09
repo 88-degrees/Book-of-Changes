@@ -484,7 +484,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/38_1.png" align=left>
 
-初九爻动变得[第64卦：火水未济](./e69caae6b58eweiji_cn.md)。
+初九爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
 这个卦是异卦（下坎上离）相叠。
 
@@ -522,7 +522,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/38_2.png" align=left>
 
-九二爻动变得[第21卦：火雷噬嗑](./e599ace59791shike_cn.md)。
+九二爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
 这个卦是异卦（下震上离）相叠。
 
@@ -560,7 +560,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/38_3.png" align=left>
 
-六三爻动变得[第14卦：火天大有](./e5a4a7e69c89dayou_cn.md)。
+六三爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
 这个卦是异卦（下乾上离）相叠。
 
@@ -596,7 +596,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/38_4.png" align=left>
 
-九四爻动变得[第41卦：山泽损](./e68d9fsun_cn.md)。
+九四爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
 这个卦是异卦（下兑上艮）相叠。
 
@@ -638,7 +638,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/38_5.png" align=left>
 
-六五爻动变得[第10卦：天泽履](./e5b1a5lv_cn.md)。
+六五爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
 这个卦是异卦（下兑上乾）相叠，
 
@@ -678,7 +678,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/38_6.png" align=left>
 
-上九爻动变得[第54卦：雷泽归妹](./e5bd92e5a6b9guimei_cn.md)。
+上九爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
 这个卦是异卦（下兑上震）相叠。
 
@@ -686,4 +686,4 @@
 
 以少女从长男，产生爱慕之情，有婚姻之动，有嫁女之象，故称归妹。
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-# [Kui](./e79dbdkui.md)
+# [Kui](e79dbdkui.md)

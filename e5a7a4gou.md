@@ -51,4 +51,4 @@ Line 5 is strong, and in the ruler's place. Its relation to 1 is like that of a 
 
 The symbolism of line 6 is difficult to understand, though the meaning of what is said is pretty clear. The [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe: -- 'The subject of this line is like an officer who has withdrawn from the world. He can accomplish no service for the time; but his person is removed from the workers of disorder.'
 
-# [姤](./e5a7a4gou_cn.md)
+# [姤](e5a7a4gou_cn.md)

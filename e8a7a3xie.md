@@ -41,4 +41,4 @@ Line 5 is weak in an odd place; but the place is that of the ruler, to whom it b
 
 Line 6 is the highest line in the figure, but not the place of the ruler. Hence it appears as occupied by a feudal duke, who carries out the idea of the figure against small men, according to the symbolism employed.
 
-# [解](./e8a7a3xie_cn.md)
+# [解](e8a7a3xie_cn.md)

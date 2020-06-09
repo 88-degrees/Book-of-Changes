@@ -45,4 +45,4 @@ Line 5 is strong, and in the place of the ruler. He is a superior man, but this 
 
 There is a slight difference in the 6th paragraph from the 5th, which can hardly be expressed in a translation. By making a change in the punctuation, however, the different significance may be brought out. Line 6 is strong, and should be considered out of the work of the hexagram, but its subject is still possessed by the spirit of its idea, and is led to self-examination.
 
-# [观](./e8a782guan_cn.md)
+# [观](e8a782guan_cn.md)

@@ -685,7 +685,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/53_1.png" align=left>
 
-初六爻动变得[第37卦：风火家人](./e5aeb6e4babajiaren_cn.md)。
+初六爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
 这个卦是异卦（下离上巽）相叠。
 
@@ -725,7 +725,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/53_2.png" align=left>
 
-六二爻动变得[第57卦：巽为风](./e5b7bdxun_cn.md)。
+六二爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
 这个卦是同卦（下巽上巽）相叠，
 
@@ -761,7 +761,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/53_3.png" align=left>
 
-九三爻动变得[第20卦：风地观](./e8a782guan_cn.md)。
+九三爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
 这个卦是异卦（下坤上巽）相叠，
 
@@ -799,7 +799,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/53_4.png" align=left>
 
-六四爻动变得[第33卦：天山遁](./e981afdun_cn.md)。
+六四爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 
 这个卦是异卦（下艮上乾）相叠。
 
@@ -837,7 +837,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/53_5.png" align=left>
 
-九五爻动变得[第52卦：艮为山](./e889aegen_cn.md)。
+九五爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
 这个卦是同卦（下艮上艮）相叠。
 
@@ -879,7 +879,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/53_6.png" align=left>
 
-上九爻动变得[第39卦：水山蹇](./e8b987jian_cn.md)。
+上九爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
 这个卦是异卦（下艮上坎）相叠。
 
@@ -889,4 +889,4 @@
 
 人生险阻，见险而止，明哲保身，可谓智慧。蹇，跋行艰难。
 
-# [Jian](./e6b890jian.md)
+# [Jian](e6b890jian.md)

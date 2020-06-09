@@ -594,7 +594,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/49_1.png" align=left>
 
-初九爻动变得[第31卦：泽山咸](./e592b8xian_cn.md)。
+初九爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
 这个卦是异卦（下艮上兑）相叠。
 
@@ -632,7 +632,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/49_2.png" align=left>
 
-六二爻动变得[第43卦：泽天夬](./e5a4acguai_cn.md)。
+六二爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
 这个卦是异卦（下乾上兑）相叠。
 
@@ -670,7 +670,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/49_3.png" align=left>
 
-九三爻动变得[第17卦：泽雷随](./e99a8fsui_cn.md)。
+九三爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
 这个卦是异卦（下震上兑）相叠，
 
@@ -708,7 +708,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/49_4.png" align=left>
 
-九四爻动变得[第63卦：水火既济](./e697a2e6b58ejiji_cn.md)。
+九四爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
 这个卦是异卦（下离上坎）相叠。
 
@@ -748,7 +748,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/49_5.png" align=left>
 
-九五爻动变得[第55卦：雷火丰](./e4b8b0feng_cn.md)。
+九五爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
 这个卦是异卦（下离上震）相叠，
 
@@ -786,7 +786,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/49_6.png" align=left>
 
-上六爻动变得[第13卦：天火同人](./e5908ce4babatongren_cn.md)。
+上六爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
 这个卦是异卦（下离上乾）相叠，
 
@@ -794,4 +794,4 @@
 
 上天下火，火性上升，同于天，上下和同，同舟共济，人际关系和谐，天下大同。
 
-# [Ge](./e99da9ge.md)
+# [Ge](e99da9ge.md)

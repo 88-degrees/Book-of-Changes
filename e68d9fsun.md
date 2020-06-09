@@ -44,4 +44,4 @@ Line 5 is the seat of the ruler, who is here humble, and welcomes the assistance
 
 Line 6 has been changed from a weak into a strong line from line 3; has received therefore the greatest increase, and will carry out the idea of the hexagram in the highest degree and style. But he can give increase to others without diminishing his own resources, and of course the benefit he will confer will be incalculable. Ministers will come to serve him; and not one from each clan merely, but many. Such is the substance of what is said on this last paragraph. I confess that I only discern the meaning darkly.
 
-# [损](./e68d9fsun_cn.md)
+# [损](e68d9fsun_cn.md)

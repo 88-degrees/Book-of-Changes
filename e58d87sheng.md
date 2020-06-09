@@ -36,4 +36,4 @@ In line 5 the advance has reached the highest point of dignity, and firm correct
 
 What can the subject of the hexagram want more? He has gained all his wishes, and still he is for going onwards. His advance is blind and foolish; and only the most exact correctness will save him from the consequences.
 
-# [升](./e58d87sheng_cn.md)
+# [升](e58d87sheng_cn.md)

@@ -44,4 +44,4 @@ Line 5 is a strong line in the ruler's seat; and yet it appears here as the symb
 
 The subject of line 6 has reached the top of the hexagram. There is no more advance for him; and he has no correlate. But he may still do some good work for the state, and verify the auspice derived from the ornamental plumes of the geese.
 
-# [渐](./e6b890jian_cn.md)
+# [渐](e6b890jian_cn.md)

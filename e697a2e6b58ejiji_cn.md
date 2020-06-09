@@ -475,7 +475,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/63_1.png" align=left>
  
-初九爻动变得[第39卦：水山蹇](./e8b987jian_cn.md)。
+初九爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
 这个卦是异卦（下艮上坎）相叠。
 
@@ -513,7 +513,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/63_2.png" align=left>
  
-六二爻动变得[第5卦：水天需](./e99c80xu_cn.md)。
+六二爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
 这个卦是异卦（下乾上坎）相叠，
 
@@ -549,7 +549,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/63_3.png" align=left>
  
-九三爻动变得[第3卦：水雷屯](./e5b1afzhun_cn.md)。
+九三爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
 这个卦是异卦（下震上坎）相叠，
 
@@ -587,7 +587,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/63_4.png" align=left>
 
-六四爻动变得[第49卦：泽火革](./e99da9ge_cn.md)。
+六四爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
 这个卦是异卦（下离上兑）相叠。
 
@@ -627,7 +627,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/63_5.png" align=left>
 
-九五爻动变得[第36卦：地火明夷](./e6988ee5a4b7mingyi_cn.md)。
+九五爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
 这个卦是异卦（下离上坤）相叠。
 
@@ -665,7 +665,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/63_6.png" align=left>
 
-上六爻动变得[第37卦：风火家人](./e5aeb6e4babajiaren_cn.md)。
+上六爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
 这个卦是异卦（下离上巽）相叠。
 
@@ -677,4 +677,4 @@
 
 发生于内，形成于外。喻先治家而后治天下，家道正，天下安乐。
 
-# [Jiji](./e697a2e6b58ejiji.md)
+# [Jiji](e697a2e6b58ejiji.md)

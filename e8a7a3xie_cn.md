@@ -656,7 +656,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/40_1.png" align=left>
 
-初六爻动变得[第54卦：雷泽归妹](./e5bd92e5a6b9guimei_cn.md)。
+初六爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
 这个卦是异卦（下兑上震）相叠。
 
@@ -692,7 +692,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/40_2.png" align=left>
 
-九二爻动变得[第16卦：雷地豫](./e8b1abyu_cn.md)。
+九二爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
 这个卦是异卦（下坤上震）相叠，
 
@@ -730,7 +730,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/40_3.png" align=left>
 
-六三爻动变得[第32卦：雷风恒](./e68192heng_cn.md)。
+六三爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
 这个卦是异卦（下巽上震）相叠。
 
@@ -768,7 +768,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/40_4.png" align=left>
 
-九四爻动变得[第7卦：地水师](./e5b888shi_cn.md)。
+九四爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
 这个卦是异卦（下坎上坤）相叠。
 
@@ -806,7 +806,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/40_5.png" align=left>
 
-六五爻动变得[第47卦：泽水困](./e59bb0kun_cn.md)。
+六五爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
 这个卦是异卦（下坎上兑）相叠。
 
@@ -842,7 +842,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/40_6.png" align=left>
 
-上六爻动变得[第64卦：火水未济](./e69caae6b58eweiji_cn.md)。
+上六爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
 这个卦是异卦（下坎上离）相叠。
 
@@ -852,4 +852,4 @@
 
 《周易》以乾坤二卦为始，以既济、未济二卦为终，充分反映了变化发展的思想。
 
-# [Xie](./e8a7a3xie.md)
+# [Xie](e8a7a3xie.md)

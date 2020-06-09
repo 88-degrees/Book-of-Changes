@@ -522,7 +522,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/17_1.png" align=left>
 
-初九爻动变得[第45卦：泽地萃](./e89083cui_cn.md)。
+初九爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
 这个卦是异卦相叠（下坤上兑）。
 
@@ -561,7 +561,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/17_2.png" align=left>
 
-六二爻动变得[第58卦：兑为泽](./e58591dui_cn.md)。
+六二爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
 这个卦是同卦（下泽上泽）相叠。
 
@@ -599,7 +599,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/17_3.png" align=left>
 
-六三爻动变得[第49卦：泽火革](./e99da9ge_cn.md)。
+六三爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
 这个卦是异卦（下离上兑）相叠。
 
@@ -639,7 +639,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/17_4.png" align=left>
 
-九四爻动变得[第3卦：水雷屯](./e5b1afzhun_cn.md)。
+九四爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
 这个卦是异卦（下震上坎）相叠，
 
@@ -679,7 +679,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/17_5.png" align=left>
 
-九五爻动变得[第51卦：震为雷](./e99c87zhen_cn.md)。
+九五爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
 这个卦是同卦（下震上震）相叠。
 
@@ -717,7 +717,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/17_6.png" align=left>
 
-上六爻动变得[第25卦：天雷无妄](./e697a0e5a684wuwang_cn.md)。
+上六爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
 这个卦是异卦（下震上乾）相叠。
 
@@ -727,4 +727,4 @@
 
 但唯循纯正，不可妄行。无妄必有获，必可致福。
 
-# [Sui](./e99a8fsui.md)
+# [Sui](e99a8fsui.md)

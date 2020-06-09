@@ -531,7 +531,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/62_1.png" align=left>
 
-初六爻动变得[第55卦：雷火丰](./e4b8b0feng_cn.md)。
+初六爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
 这个卦是异卦（下离上震）相叠，
 
@@ -567,7 +567,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/62_2.png" align=left>
 
-六二爻动变得[第32卦：雷风恒](./e68192heng_cn.md)。
+六二爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
 这个卦是异卦（下巽上震）相叠。
 
@@ -606,7 +606,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/62_3.png" align=left>
 
-九三爻动变得[第16卦：雷地豫](./e8b1abyu_cn.md)。
+九三爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
 这个卦是异卦（下坤上震）相叠，
 
@@ -644,7 +644,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/62_4.png" align=left>
 
-九四爻动变得[第15卦：地山谦](./e8b0a6qian_cn.md)。
+九四爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
 这个卦是异卦（下艮上坤）相叠，
 
@@ -682,7 +682,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/62_5.png" align=left>
 
-六五爻动变得[第31卦：泽山咸](./e592b8xian_cn.md)。
+六五爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
 这个卦是异卦（下艮上兑）相叠。
 
@@ -720,7 +720,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/62_6.png" align=left>
 
-上六爻动变得[第56卦：火山旅](./e69785lv_cn.md)。
+上六爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
 这个卦是异卦（下艮上离）相叠。
 
@@ -730,4 +730,4 @@
 
 火势不停地向前蔓延，如同途中行人，急于赶路。因而称旅卦。
 　　
-# [Xiaoguo](./e5b08fe8bf87xiaoguo.md)
+# [Xiaoguo](e5b08fe8bf87xiaoguo.md)

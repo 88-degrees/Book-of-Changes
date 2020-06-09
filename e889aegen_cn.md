@@ -501,7 +501,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/52_1.png" align=left>
 
-初六爻动变得[第22卦：山火贲](./e8b4b2bi_cn.md)。
+初六爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
 这个卦是异卦（下离上艮）相叠。
 
@@ -537,7 +537,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/52_2.png" align=left>
 
-六二爻动变得[第18卦：山风蛊](./e89b8agu_cn.md)。
+六二爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
 这个卦是异卦（下巽上艮）相叠，与随卦互为综卦。
 
@@ -575,7 +575,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/52_3.png" align=left>
 
-九三爻动变得[第23卦：山地剥](./e589a5bo_cn.md)。
+九三爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
 这个卦是异卦（下坤上艮）相叠。
 
@@ -613,7 +613,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/52_4.png" align=left>
 
-六四爻动变得[第56卦：火山旅](./e69785lv_cn.md)。
+六四爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
 这个卦是异卦（下艮上离）相叠。
 
@@ -651,7 +651,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/52_5.png" align=left>
 
-六五爻动变得[第53卦：风山渐](./e6b890jian_cn.md)。
+六五爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
 这个卦是异卦（下艮上巽）相叠。
 
@@ -689,7 +689,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/52_6.png" align=left>
 
-上九爻动变得[第15卦：地山谦](./e8b0a6qian_cn.md)。
+上九爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
 这个卦是异卦（下艮上坤）相叠，
 
@@ -699,4 +699,4 @@
 
 比喻功高不自居，名高不自誉，位高不自傲。这就是谦。
 
-# [Gen](./e889aegen.md)
+# [Gen](e889aegen.md)

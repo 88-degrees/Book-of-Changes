@@ -550,7 +550,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_1.png" align=left>
 
-初六爻动变得[第34卦：雷天大壮](./e5a4a7e5a3aedazhuang_cn.md)。
+初六爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
 这个卦是异卦（下乾上震）相叠。
 
@@ -588,7 +588,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_2.png" align=left>
 
-九二爻动变得[第62卦：雷山小过](./e5b08fe8bf87xiaoguo_cn.md)。
+九二爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
 这个卦是异卦（下艮上震）相叠。
 
@@ -626,7 +626,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_3.png" align=left>
 
-九三爻动变得[第40卦：雷水解](./e8a7a3xie_cn.md)。
+九三爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
 这个卦是异卦（下坎上震）相叠。
 
@@ -666,7 +666,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_4.png" align=left>
 
-九四爻动变得[第46卦：地风升](./e58d87sheng_cn.md)。
+九四爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
 这个卦是异卦（下巽上坤）相叠。
 
@@ -704,7 +704,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_5.png" align=left>
 
-六五爻动变得[第28卦：泽风大过](./e5a4a7e8bf87daguo_cn.md)。
+六五爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
 这个卦是异卦（下巽上兑）相叠。
 
@@ -740,7 +740,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_6.png" align=left>
 
-上六爻动变得[第50卦：火风鼎](./e9bc8eding_cn.md)。
+上六爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
 这个卦是异卦（下巽上离）相叠。
 
@@ -750,4 +750,4 @@
 
 煮食，喻食物充足，不再有困难和困扰。在此基础上宜变革，发展事业。
 
-# [Heng](./e68192heng.md)
+# [Heng](e68192heng.md)

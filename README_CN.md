@@ -1,6 +1,6 @@
 # 易之书
 
-- [English Version](./README.md)
+- [English Version](README.md)
 
 《周易》是一部古老而又灿烂的文化瑰宝，古人用它来预测未来、决策国家大事、反映当前现象，上测天，下测地。
 

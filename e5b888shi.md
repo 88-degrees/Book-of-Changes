@@ -64,4 +64,4 @@ In line 5 we seem to have an intimation of the important truth that only defensi
 
 The lesson on the topmost line is true and important, but the critics seem unable to deduce it from the nature of the line, as divided and in the sixth place.
 
-# [师](./e5b888shi_cn.md)
+# [师](e5b888shi_cn.md)

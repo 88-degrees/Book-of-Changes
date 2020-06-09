@@ -527,7 +527,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/22_1.png" align=left>
 
-初九爻动变得[第52卦：艮为山](./e889aegen_cn.md)。
+初九爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
 这个卦是同卦（下艮上艮）相叠。
 
@@ -569,7 +569,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/22_2.png" align=left>
 
-六二爻动变得[第26卦：山天大畜](./e5a4a7e89384daxu_cn.md)。
+六二爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
 这个卦是异卦（下乾上艮）相叠。
 
@@ -607,7 +607,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/22_3.png" align=left>
 
-九三爻动变得[第27卦：山雷颐](./e9a290yi_cn.md)。
+九三爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
 这个卦是异卦（下震上艮）相叠。
 
@@ -647,7 +647,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/22_4.png" align=left>
 
-六四爻动变得[第30卦：离为火](./e7a6bbli_cn.md)。
+六四爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
 这个卦是同卦（下离上离）相叠。
 
@@ -685,7 +685,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/22_5.png" align=left>
 
-六五爻动变得[第37卦：风火家人](./e5aeb6e4babajiaren_cn.md)。
+六五爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
 这个卦是异卦（下离上巽）相叠。
 
@@ -727,7 +727,7 @@
 
 <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/22_6.png" align=left>
 
-上九爻动变得[第36卦：地火明夷](./e6988ee5a4b7mingyi_cn.md)。
+上九爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
 这个卦是异卦（下离上坤）相叠。
 
@@ -737,4 +737,4 @@
 
 宜遵时养晦，坚守正道，外愚内慧，韬光养晦。
 
-# [Bi](./e8b4b2bi.md)
+# [Bi](e8b4b2bi.md)

@@ -52,4 +52,4 @@ Line 5 is the king, the man great and strong. He can cope with the difficulties,
 
 The action of the hexagram is over; where can the weak 6 go forward to? Let him abide where he is, and serve the great man immediately below him. So shall he also be great; -- in meritorious action at least.
 
-# [蹇](./e8b987jian_cn.md)
+# [蹇](e8b987jian_cn.md)

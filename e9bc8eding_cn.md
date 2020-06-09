@@ -590,7 +590,7 @@
 
 <img src="shapes/50.01.png" align=left>
 
-初六爻动变得[第14卦：火天大有](./e5a4a7e69c89dayou_cn.md)。
+初六爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
 这个卦是异卦（下乾上离）相叠。
 
@@ -626,7 +626,7 @@
 
 <img src="shapes/50.02.png" align=left>
 
-九二爻动变得[第56卦：火山旅](./e69785lv_cn.md)。
+九二爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
 这个卦是异卦（下艮上离）相叠。
 
@@ -664,7 +664,7 @@
 
 <img src="shapes/50.03.png" align=left>
 
-九三爻动变得[第64卦：火水未济](./e69caae6b58eweiji_cn.md)。
+九三爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
 这个卦是异卦（下坎上离）相叠。
 
@@ -702,7 +702,7 @@
 
 <img src="shapes/50.04.png" align=left>
 
-九四爻动变得[第18卦：山风蛊](./e89b8agu_cn.md)。
+九四爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
 这个卦是异卦（下巽上艮）相叠，与随卦互为综卦。
 
@@ -740,7 +740,7 @@
 
 <img src="shapes/50.05.png" align=left>
 
-六五爻动变得[第44卦：天风姤](./e5a7a4gou_cn.md)。
+六五爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
 这个卦是异卦（下巽上乾）相叠。
 
@@ -780,7 +780,7 @@
 
 <img src="shapes/50.06.png" align=left>
 
-上九爻动变得[第32卦：雷风恒](./e68192heng_cn.md)。
+上九爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
 这个卦是异卦（下巽上震）相叠。
 
@@ -792,4 +792,4 @@
 
 阴阳相应，常情，故称为恒。
 
-# [Dǐng ䷱](./e9bc8eding.md)
+# [Dǐng ䷱](e9bc8eding.md)

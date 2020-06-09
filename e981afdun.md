@@ -38,4 +38,4 @@ In the [Shû IV, v, Section 2. 9](), the worthy Î Yin is made to say, 'The mini
 
 Line 6 is strong, and with no correlate to detain it in 3. Its subject vigorously and happily carries out the idea of the hexagram.
 
-# [遯](./e981afdun_cn.md)
+# [遯](e981afdun_cn.md)
