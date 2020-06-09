@@ -1,6 +1,6 @@
 # 坎 ䷜
 
-<img src="https://i.zgjm.net/d/file/20170331/5f141385d94259c88d4612ceb9975301.jpg" width=160 alt="坎" align=left>
+<img src="shapes/29.10.jpg" width=160 alt="坎" align=left>
 
 坎卦展示在“坎”的形势下各种变化的可能性。
 
@@ -68,7 +68,7 @@
 上六：系用徽纆，寘于丛棘上，三岁不得，凶。
 注释：系用徽纆，寘于丛棘，三岁不得：
 用黑色绳索捆缚，又被置于监狱，三年不得出来。系，捆绑。
-徽纆(mò)，古代捆绑罪人的黑色绳索。
+徽纆（mò），古代捆绑罪人的黑色绳索。
 寘（zhì），置。
 丛棘，古代在狱外种的荆棘，据说有“九棘”，以防罪人逃跑，犹如铁丝网。
 三岁不得，在狱中囚三年。古代疑狱三年而后断。
@@ -400,7 +400,7 @@
 ③ 窞（dàn）：双重坎坑。
 ④ 之：至，到达。
 ⑤ 枕:用作 “沈”，意思是深。
-⑥ 樽：装酒的器皿。簋(guǐ)：装饭的器皿。簋贰：两 碗饭。
+⑥ 樽：装酒的器皿。簋（guǐ）：装饭的器皿。簋贰：两 碗饭。
 ⑦ 缶：陶制的器皿。约：取。牖（yǒu）：窗户。
 ⑧ 祗：应为 “坁’，意思是小山丘。
 ⑨ 系：捆绑。徽纆（mò）：绳索。三股叫徽，两股叫纆。
@@ -541,7 +541,7 @@
 如此三年还不进步的人可以重惩。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no29kanweishui.png">
+<img src="shapes/29.11.png">
 
 ### 《断易天机》解
 
@@ -635,7 +635,7 @@
 
 ### 初六变卦：坎为水 变卦 水泽节
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/29_1.png" align=left>
+<img src="shapes/29.01.png" align=left>
 
 初六爻动变得[第60卦：水泽节](./e88a82jie_cn.md)。
 
@@ -677,7 +677,7 @@
 
 ### 九二变卦：坎为水 变卦 水地比
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/29_2.png" align=left>
+<img src="shapes/29.02.png" align=left>
 
 九二爻动变得[第8卦：水地比](./e6af94bi_cn.md)。
 
@@ -717,7 +717,7 @@
 
 ### 六三变卦：坎为水 变卦 水风井
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/29_3.png" align=left>
+<img src="shapes/29.03.png" align=left>
 
 六三爻动变得[第48卦：水风井](./e4ba95jing_cn.md)。
 
@@ -757,7 +757,7 @@
 
 ### 六四变卦：坎为水 变卦 泽水困
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/29_4.png" align=left>
+<img src="shapes/29.04.png" align=left>
 
 六四爻动变得[第47卦：泽水困](./e59bb0kun_cn.md)。
 
@@ -796,7 +796,7 @@
 
 ### 九五变卦：坎为水 变卦 地水师
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/29_5.png" align=left>
+<img src="shapes/29.05.png" align=left>
 
 九五爻动变得[第7卦：地水师](./e5b888shi_cn.md)。
 
@@ -836,7 +836,7 @@
 
 ### 上六变卦：坎为水 变卦 风水涣
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/29_6.png" align=left>
+<img src="shapes/29.06.png" align=left>
 
 上六爻动变得[第59卦：风水涣](./e6b6a3huan_cn.md)。
 
@@ -850,4 +850,4 @@
 必须用积极的手段和方法克服，
 战胜弊端，挽救涣散，转危为安。
 
-# [Kan](./e59d8ekan.md)
+# [Kǎn ䷜](./e59d8ekan.md)

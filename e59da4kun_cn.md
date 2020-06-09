@@ -1,6 +1,6 @@
 # 坤 ䷁
 
-<img src="https://i.zgjm.net/d/file/20170330/543e27cde53785a30aefc269522c0c9d.jpg" width=160 alt="坤" align=left>
+<img src="shapes/02.10.jpg" width=160 alt="坤" align=left>
 
 坤（kūn）卦是《易经》六十四卦之第2卦。 
 
@@ -36,7 +36,7 @@
 我们在研究《坤》卦时，应特别注意这些问题，如不弄清这些，则便在刚从《周易》中的《乾》卦中得到一些启迪，则又在《坤》卦中陷入扑朔迷离之中。
 
 ## 卦意
-### 第2卦 坤为地（坤卦）柔顺伸展
+### 坤为地（坤卦）柔顺伸展
 ### 上上卦
 
 象曰：地势坤，君子以厚德载物。
@@ -826,7 +826,7 @@
 坤卦，伟大的事业，可以永远的传承下去。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no2diweikun.jpg">
+<img src="shapes/02.11.jpg">
 
 ### 《断易天机》解
 
@@ -928,9 +928,9 @@
 
 ### 初六变卦：坤为地 变卦 地雷复
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/2_1.png" align=left>
+<img src="shapes/02.01.png" align=left>
 
-初六爻动变得[第24卦：地雷复](./e5a48dfu_cn.md)。
+初六爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
 这个卦是异卦（下震上坤）相叠。
 
@@ -969,9 +969,9 @@
 
 ### 六二变卦：坤为地 变卦 地水师
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/2_2.png" align=left>
+<img src="shapes/02.02.png" align=left>
 
-六二爻动变得[第7卦：地水师](./e5b888shi_cn.md)。
+六二爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
 这个卦是异卦（下坎上坤）相叠。
 
@@ -1009,9 +1009,9 @@
 
 ### 六三变卦：坤为地 变卦 地山谦
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/2_3.png" align=left>
+<img src="shapes/02.03.png" align=left>
 
-六三爻动变得[第15卦：地山谦](./e8b0a6qian_cn.md)。
+六三爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
 这个卦是异卦（下艮上坤）相叠，
 
@@ -1048,9 +1048,9 @@
 
 ### 六四变卦：坤为地 变卦 雷地豫
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/2_4.png" align=left>
+<img src="shapes/02.04.png" align=left>
 
-六四爻动变得[第16卦：雷地豫](./e8b1abyu_cn.md)。
+六四爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
 这个卦是异卦（下坤上震）相叠，
 
@@ -1088,9 +1088,9 @@
 
 ### 六五变卦：坤为地 变卦 水地比
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/2_5.png" align=left>
+<img src="shapes/02.05.png" align=left>
 
-六五爻动变得[第8卦：水地比](./e6af94bi_cn.md)。
+六五爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
 这个卦是异卦（下坤上坎）相叠，
 
@@ -1130,9 +1130,9 @@
 
 ### 上六变卦：坤为地 变卦 山地剥
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/2_6.png" align=left>
+<img src="shapes/02.06.png" align=left>
 
-上六爻动变得[第23卦：山地剥](./e589a5bo_cn.md)。
+上六爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
 这个卦是异卦（下坤上艮）相叠。
 
@@ -1144,4 +1144,4 @@
 
 此卦阴盛阳衰，喻小人得势，君子困顿，事业败坏。
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-# [Kun](./e59da4kun.md)
+# [Kùn ䷁](e59da4kun.md)
