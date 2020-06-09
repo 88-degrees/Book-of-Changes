@@ -1,6 +1,6 @@
 # 大过 ䷛
 
-<img src="https://i.zgjm.net/d/file/20170331/325084ff2905ceb978c033a5c29c79a3.jpg" width=160 alt="大过" align=left>
+<img src="shapes/28.10.jpg" width=160 alt="大过" align=left>
 
 大过（dà guò）卦是《周易》第28卦，代号是`3:6`，
 主卦是巽卦，卦象是风、木，特征是顺，阳数是`3`；
@@ -12,7 +12,8 @@
 卦形上本卦中间为四阳，上下为二阴，象征阳气过剩而失调。
 当前形势对于主方来说是一个太过分的负担，主方不容易对付，但也不是灾难，只是主方需要谨慎处理。
 
-易经六十四卦第28卦。 泽风大过（大过卦）非常行动。
+泽风大过（大过卦）非常行动。
+
 简析，这个卦是异卦（下巽上兑）相叠。
 阴阳爻相反，阳大阴小，行动非常，有过度形象，内刚外柔。
 
@@ -446,7 +447,7 @@
 因此我们当适而有止，不自犯其咎。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no28zefengdaguo.png">
+<img src="shapes/28.11.png">
 
 ### 《断易天机》解
 
@@ -538,7 +539,7 @@
 
 ### 初六变卦：泽风大过 变卦 泽天夬
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/28_1.png" align=left>
+<img src="shapes/28.01.png" align=left>
 
 初六爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -576,7 +577,7 @@
 
 ### 九二变卦：泽风大过 变卦 泽山咸
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/28_2.png" align=left>
+<img src="shapes/28.02.png" align=left>
 
 九二爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -614,7 +615,7 @@
 
 ### 九三变卦：泽风大过 变卦 泽水困
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/28_3.png" align=left>
+<img src="shapes/28.03.png" align=left>
 
 九三爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -652,7 +653,7 @@
 
 ### 九四变卦：泽风大过 变卦 水风井
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/28_4.png" align=left>
+<img src="shapes/28.04.png" align=left>
 
 九四爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
@@ -691,7 +692,7 @@
 
 ### 九五变卦：泽风大过 变卦 雷风恒
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/28_5.png" align=left>
+<img src="shapes/28.05.png" align=left>
 
 九五爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -730,7 +731,7 @@
 
 ### 上六变卦：泽风大过 变卦 天风姤
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/28_6.png" align=left>
+<img src="shapes/28.06.png" align=left>
 
 上六爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -743,4 +744,4 @@
 姤（gòu）卦与夬（guài）卦相反，互为“综卦”。
 姤即媾，阴阳相遇。但五阳一阴，不能长久相处。
 
-# [Daguo](e5a4a7e8bf87daguo.md)
+# [Dà Guò ䷛](e5a4a7e8bf87daguo.md)

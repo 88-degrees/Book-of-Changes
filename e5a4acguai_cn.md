@@ -1,6 +1,6 @@
 # 夬 ䷪
 
-<img src="https://i.zgjm.net/d/file/20170331/59e5569d9c7ecadf37956b3f2e241bcb.jpg" width=160 alt="夬" align=left>
+<img src="shapes/43.10.jpg" width=160 alt="夬" align=left>
 
 夬是`7:6`卦的卦名，`7:6`是夬卦的代号。
 
@@ -266,7 +266,6 @@
 ```
 
 ## 夬卦
-### 夬卦是《易经》六十四卦的第43卦。
 ### 泽天夬 （夬卦） 决而能和
 ### 上上卦
 
@@ -314,18 +313,18 @@
 ⑨ 莫夜有戎：“莫”，朱熹注为“暮”。
 “莫夜”，当“暮夜”。此句为晚上将有兵变发生。
 ⑩ 勿恤：勿忧。
-⑾ 頄(qiu求)：颊骨。
+⑾ 頄（qiú 求）：颊骨。
 ⑿ 君子夬夬独行：“夬夬”，平叛。
 此句为君侯临危不惧，独自坚持平叛。
 ⒀ 遇雨若濡：“濡”，古指沾湿。
 此句为君侯在叛乱中有若在大雨里侵湿了一点头发和衣服，含满不在乎之义。
-⒁ 愠（yun运）：怒。
+⒁ 愠（yùn 运）：怒。
 ⒂ 臀无肤：指臀部磨破了皮。
-⒃ 次且（zi资ju居）：步履艰难。
+⒃ 次且（zī 资 jū 居）：步履艰难。
 ⒄ 牵羊悔亡：借《大壮》一卦“君子用罔”一义，
 言君侯用智谋笼困住了雄壮的羝羊，牵着它行走，一切后悔自然消亡。
 ⒅ 闻言不信：言一般人并不相信这个简单的道理。
-⒆ 苋陆夬夬：“苋（xian现）陆”，草名，即马齿苋。
+⒆ 苋陆夬夬：“苋（xiàn 现）陆”，草名，即马齿苋。
 “夬夬”，铲除。此句为要象铲除马齿苋草那样去坚决平叛。
 ⒇ 中行无咎：“中行”，不偏不倚，过犹不及。
 此句为言平叛不宜杀戮过甚，这样才无灾祸。
@@ -335,7 +334,7 @@
 
 ### 释意
 
-夬，六十四卦第四十三卦，阐明以阳决阴、果断清除小人的道理。
+夬，阐明以阳决阴、果断清除小人的道理。
 ```
 夬卦下乾上泽，泽为水，乾为天，天上有水。
 水可润万物，但水如过多则溃决，危及众生，
@@ -541,7 +540,7 @@
 利有攸往，刚长乃终也。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no43zetianguai.png">
+<img src="shapes/43.11.png">
 
 ### 《断易天机》解
 
@@ -636,7 +635,7 @@
 
 ### 初九变卦：泽天夬 变卦 泽风大过
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/43_1.png" align=left>
+<img src="shapes/43.01.png" align=left>
 
 初九爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
@@ -674,7 +673,7 @@
 
 ### 九二变卦：泽天夬 变卦 泽火革
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/43_2.png" align=left>
+<img src="shapes/43.02.png" align=left>
 
 九二爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
@@ -715,7 +714,7 @@
 
 ### 九三变卦：泽天夬 变卦兑为泽
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/43_3.png" align=left>
+<img src="shapes/43.03.png" align=left>
 
 九三爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -755,7 +754,7 @@
 
 ### 九四变卦：泽天夬 变卦 水天需
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/43_4.png" align=left>
+<img src="shapes/43.04.png" align=left>
 
 九四爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -791,7 +790,7 @@
 
 ### 九五变卦：泽天夬 变卦 雷天大壮
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/43_5.png" align=left>
+<img src="shapes/43.05.png" align=left>
 
 九五爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -830,7 +829,7 @@
 
 ### 上六变卦：泽天夬 变卦 乾为天
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/43_6.png" align=left>
+<img src="shapes/43.06.png" align=left>
 
 上六爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
@@ -843,4 +842,4 @@
 乾卦是根据万物变通的道理，以“元、亨、利、贞”为卦辞，
 表示吉祥如意，教导人遵守天道的德行。
 
-# [Guai](e5a4acguai.md)
+# [Guài ䷪](e5a4acguai.md)

@@ -1,6 +1,6 @@
 # 姤 ䷫
 
-<img src="https://i.zgjm.net/d/file/20170331/af1b493ad2f8005557de8243b00172e5.jpg" width=160 alt="姤" align=left>
+<img src="shapes/44.10.jpg" width=160 alt="姤" align=left>
 
 姤（gòu）卦的代号是`3:7`，主卦是巽卦，卦象是风，阳数是`3`；客卦是乾卦，卦象是天，阳数是`7`。
 
@@ -9,7 +9,6 @@
 在当前形势下，主方已经处于客方控制下，主方不得不听任客方摆布。
 主方在自身发展变化过程中，越过了顶峰，开始走向衰落，如果主方想扭转当前不利形势，就必须振作起来，恢复当日威风，积极主动地去创造新的成就。
 
-姤卦是易经六十四卦第44卦。
 天风姤（姤卦），天下有风。这个卦是异卦（下巽上乾）相叠。乾为天，巽为风。
 天下有风，吹遍大地，阴阳交合，万物茂盛。
 姤（gòu）卦与夬卦相反，互为“综卦”。姤即遘，阴阳相遇。但五阳一阴，不能长久相处。
@@ -19,7 +18,6 @@
 
 ## 原文
 ### 意义
-#### 易经六十四卦 第44卦
 #### 天风姤（姤卦） 天下有风
 
 ### 卦象
@@ -502,8 +500,7 @@
 
 ### 新解
 
-姤（卦四十四）
--- 梦中相亲出行
+姤 -- 梦中相亲出行
 ```
 【原文】
 翼下乾上）姤①：女壮②，勿用取女③。
@@ -515,13 +512,13 @@
 初六：系于金柅④，贞吉。有攸往，见凶。赢豕争踯躅⑤。
 
 【注释】
-① 姤（gou）是本卦的标题。
+① 姤（gòu）是本卦的标题。
 姤用作“遘”，意思是遇合，也用作婚媾的 “媾”。
 全卦的内容与出行和婚姻有关，并且都是占问梦中景象，即梦占。
 标题取“姤”的两种意义。
 ② 壮：受伤。
 ③ 勿用：不利。取；用作 “娶”。
-④ 金柅（ni）：铜制的纺车转轮把手。
+④ 金柅（nǐ）：铜制的纺车转轮把手。
 ⑤ 赢豕：瘦猪。孚：用 作“桴”，意思是牵引。
 踯躅（zhí zhú）：徘徊不前的样子。
 ⑥ 包：用作 “疱”，意思是厨房。
@@ -596,7 +593,7 @@
 你前进了几步，心想偷窥女子洗澡肯定会被揍，于是乎你犹豫踌躇了。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no44tianfenggou.png">
+<img src="shapes/44.11.png">
 
 ### 《断易天机》解
 
@@ -692,7 +689,7 @@
 
 ### 初六变卦：天风姤 变卦 乾为天
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/44_1.png" align=left>
+<img src="shapes/44.01.png" align=left>
 
 初六爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
@@ -728,7 +725,7 @@
 
 ### 九二变卦：天风姤 变卦 天山遁
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/44_2.png" align=left>
+<img src="shapes/44.02.png" align=left>
 
 九二爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 
@@ -766,7 +763,7 @@
 
 ### 九三变卦：天风姤 变卦 天水讼
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/44_3.png" align=left>
+<img src="shapes/44.03.png" align=left>
 
 九三爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
@@ -805,7 +802,7 @@
 
 ### 九四变卦：天风姤 变卦 巽为风
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/44_4.png" align=left>
+<img src="shapes/44.04.png" align=left>
 
 九四爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -841,7 +838,7 @@
 
 ### 九五变卦：天风姤 变卦 火风鼎
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/44_5.png" align=left>
+<img src="shapes/44.05.png" align=left>
 
 九五爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
@@ -880,7 +877,7 @@
 
 ### 上九变卦：天风姤 变卦 泽风大过
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/44_6.png" align=left>
+<img src="shapes/44.06.png" align=left>
 
 上九爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
@@ -892,4 +889,4 @@
 
 阴阳爻相反，阳大阴小，行动非常，有过度形象，内刚外柔。
 
-# [Gou](e5a7a4gou.md)
+# [Gòu ䷫](e5a7a4gou.md)

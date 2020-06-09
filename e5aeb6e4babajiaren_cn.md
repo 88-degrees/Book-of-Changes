@@ -1,13 +1,13 @@
 # 家人 ䷤
 
-<img src="https://i.zgjm.net/d/file/20170331/28a3861ac4517ba70e98941cffabb895.jpg" width=160 alt="家人" align=left>
+<img src="shapes/37.10.jpg" width=160 alt="家人" align=left>
 
 家人（jiā rén）卦是别卦，其代号是`5:3`。
 家人卦的主卦是`5`卦离卦，客卦是`3`卦巽卦，主卦和客卦的阳数比是`5:3`。
 家人指家长。主卦是离卦，光明而依附，如家长操劳家务而依赖全家人员配合；客卦是巽卦，有力而顺从，如家庭成员顺从家长。
 图中，红色表示当位的爻，天蓝色表示不当位的爻，箭头表示有应。
 
-《易经》64卦中的第37卦。《家人卦》象征家庭：特别注重女人在家中的作用，如果她能够坚守正道，始终如一，将会非常有利。
+《家人卦》象征家庭：特别注重女人在家中的作用，如果她能够坚守正道，始终如一，将会非常有利。
 
 《象》曰：风自火出，家人；君子以言有物而行有恒。换成白话就是，《象辞》说：《家人卦》的卦象是离（火）下巽（风）上，为风从火出之表象，象征着外部的风来自于本身的火，就像家庭的影响和作用都产生于自己内部一样。君子应该特别注意自己的一言一行，说话要有根据和内容，行动要有准则和规矩，不能朝三暮四和半途而废。
 
@@ -329,7 +329,7 @@
 ```
 
 ## 卦意
-### 第37卦 风火家人（家人卦）诚威治业
+### 风火家人（家人卦）诚威治业
 ### 上上卦
 
 象曰：一朵鲜花镜中开，看着极好取不来，劝君休把镜花恋，卦若逢之主可怪。
@@ -547,7 +547,7 @@
 家道端正，天下也就安定了。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no37fenghuojiaren.png">
+<img src="shapes/37.11.png">
 
 ### 《断易天机》解
 
@@ -640,7 +640,7 @@
 
 ### 初九变卦：风火家人 变卦 风山渐
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/37_1.png" align=left>
+<img src="shapes/37.01.png" align=left>
 
 初九爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
@@ -678,7 +678,7 @@
 
 ### 六二变卦：风火家人 变卦 风天小畜
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/37_2.png" align=left>
+<img src="shapes/37.02.png" align=left>
 
 六二爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -716,7 +716,7 @@
 
 ### 九三变卦：风火家人 变卦 风雷益
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/37_3.png" align=left>
+<img src="shapes/37.03.png" align=left>
 
 九三爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -754,7 +754,7 @@
 
 ### 六四变卦：风火家人 变卦 天火同人
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/37_4.png" align=left>
+<img src="shapes/37.04.png" align=left>
 
 六四爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -792,7 +792,7 @@
 
 ### 九五变卦：风火家人 变卦 山火贲
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/37_5.png" align=left>
+<img src="shapes/37.05.png" align=left>
 
 九五爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
@@ -831,7 +831,7 @@
 
 ### 上九变卦：风火家人 变卦 水火既济
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/37_6.png" align=left>
+<img src="shapes/37.06.png" align=left>
 
 上九爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -845,4 +845,4 @@
 
 既济就是事情已经成功，但终将发生变故。
 
-# [Jiaren](e5aeb6e4babajiaren.md)
+# [Jiā Rén ䷤](e5aeb6e4babajiaren.md)

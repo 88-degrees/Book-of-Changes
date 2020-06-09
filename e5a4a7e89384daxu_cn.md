@@ -1,6 +1,6 @@
 # 大畜 ䷙
 
-<img src="https://i.zgjm.net/d/file/20170331/e94e8e6b098d849655bc872c2a865347.jpg" width=160 alt="大畜" align=left>
+<img src="shapes/26.10.jpg" width=160 alt="大畜" align=left>
 
 大畜（dà xù）卦展示在“大畜”形势下各种变化的可能性。
 
@@ -15,7 +15,6 @@
 - 卦序：26
 
 ## 基本资料
-### 易经六十四卦 第26卦
 ### 山天大畜（xù）（大畜卦）止而不止
 ### 中上卦
 
@@ -444,7 +443,7 @@
 上九：得到上天的福怙，大吉大利。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no26shantiandaxu.png">
+<img src="shapes/26.11.png">
 
 ### 《断易天机》解
 
@@ -537,7 +536,7 @@
 
 ### 初九变卦：山天大畜 变卦 山风蛊
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/26_1.png" align=left>
+<img src="shapes/26.01.png" align=left>
 
 初九爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
@@ -574,7 +573,7 @@
 
 ### 九二变卦：山天大畜 变卦 山火贲
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/26_2.png" align=left>
+<img src="shapes/26.02.png" align=left>
 
 九二爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
@@ -613,7 +612,7 @@
 
 ### 九三变卦：山天大畜 变卦 山泽损
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/26_3.png" align=left>
+<img src="shapes/26.03.png" align=left>
 
 九三爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -656,7 +655,7 @@
 
 ### 六四变卦：山天大畜 变卦 火天大有
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/26_4.png" align=left>
+<img src="shapes/26.04.png" align=left>
 
 六四爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -692,7 +691,7 @@
 
 ### 六五变卦：山天大畜 变卦 风天小畜
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/26_5.png" align=left>
+<img src="shapes/26.05.png" align=left>
 
 六五爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -728,7 +727,7 @@
 
 ### 上九变卦：山天大畜 变卦 地天泰
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/26_6.png" align=left>
+<img src="shapes/26.06.png" align=left>
 
 上九爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -740,4 +739,4 @@
 
 反之则凶，万事万物，皆对立，转化，盛极必衰，衰而转盛，故应时而变者泰（通）。
 
-# [Daxu](e5a4a7e89384daxu.md)
+# [Dà Xù ䷙](e5a4a7e89384daxu.md)
