@@ -1,6 +1,6 @@
 # 晋 ䷢
 
-<img src="https://i.zgjm.net/d/file/20170331/66fa2cf1c6448d43bf14f122e736403c.jpg" width=160 alt="晋" align=left>
+<img src="shapes/35.10.jpg" width=160 alt="晋" align=left>
 
 晋（jìn）是`0:5`卦的卦名，`0:5`是晋卦的代号。
 
@@ -34,7 +34,7 @@
 ```
 
 ## 卦辞解释
-### 第35卦 火地晋（晋卦）求进发展
+### 火地晋（晋卦）求进发展
 ### 中上卦
 
 象曰：锄地锄去苗里草，谁想财帛将人找，一锄锄出银子来，这个运气也算好。
@@ -540,7 +540,7 @@
 才符合人类社会发展的大趋势。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no35huodijin.png">
+<img src="shapes/35.11.png">
 
 ### 《断易天机》解
 
@@ -633,7 +633,7 @@
 
 ### 初六变卦：火地晋 变卦 火雷噬嗑
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/35_1.png" align=left>
+<img src="shapes/35.01.png" align=left>
 
 初六爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -670,7 +670,7 @@
 
 ### 六二变卦：火地晋 变卦 火水未济
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/35_2.png" align=left>
+<img src="shapes/35.02.png" align=left>
 
 六二爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
@@ -708,7 +708,7 @@
 
 ### 六三变卦：火地晋 变卦 火山旅
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/35_3.png" align=left>
+<img src="shapes/35.03.png" align=left>
 
 六三爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
@@ -744,7 +744,7 @@
 
 ### 九四变卦：火地晋 变卦 山地剥
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/35_4.png" align=left>
+<img src="shapes/35.04.png" align=left>
 
 九四爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -782,7 +782,7 @@
 
 ### 六五变卦：火地晋 变卦 天地否
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/35_5.png" align=left>
+<img src="shapes/35.05.png" align=left>
 
 六五爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -820,7 +820,7 @@
 
 ### 上九变卦：火地晋 变卦 雷地豫
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/35_6.png" align=left>
+<img src="shapes/35.06.png" align=left>
 
 上九爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -834,4 +834,4 @@
 
 此卦与谦卦互为综卦，交互作用。
 　　　
-# [Jin](e6998bjin.md)
+# [Jìn ䷢](e6998bjin.md)
