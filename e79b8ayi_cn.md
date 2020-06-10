@@ -1,6 +1,6 @@
 # 益 ䷩
 
-<img src="https://i.zgjm.net/d/file/20170331/57ad5a1530a3a822e50886e07553ecae.jpg" width=160 alt="益" align=left>
+<img src="shapes/42.10.jpg" width=160 alt="益" align=left>
 
 益（yì）卦是别卦，其代号是`4:3`，主卦是`4`卦震卦，客卦是`3`卦巽卦。
 益，表明这个卦所代表的状态对主方有益。震卦的卦象是雷，主方积极主动，雷厉风行。
@@ -8,7 +8,7 @@
 
 图中，红色表示当位的爻，天蓝色表示不当位的爻，箭头表示有应。
 
-益卦是《易经》六十四卦的第42卦。 风雷益（益卦），损上益下，上上卦。
+风雷益（益卦），损上益下，上上卦。
 象曰：时来运转吉气发，多年枯木又开花，枝叶重生多茂盛，几人见了几人夸。
 
 这个卦是异卦（下震上巽）相叠。巽为风；震为雷。
@@ -508,7 +508,7 @@
 凡益之道，与时偕行。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no42fengleiyi.png">
+<img src="shapes/42.11.png">
 
 ### 《断易天机》解
 
@@ -604,7 +604,7 @@
 
 ### 初九变卦：风雷益 变卦 风地观
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/42_1.png" align=left>
+<img src="shapes/42.01.png" align=left>
 
 初九爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -640,7 +640,7 @@
 
 ### 六二变卦：风雷益 变卦 风泽中孚
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/42_2.png" align=left>
+<img src="shapes/42.02.png" align=left>
 
 六二爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -676,7 +676,7 @@
 
 ### 六三变卦：风雷益 变卦 风火家人
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/42_3.png" align=left>
+<img src="shapes/42.03.png" align=left>
 
 六三爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -718,7 +718,7 @@
 
 ### 六四变卦：风雷益 变卦 天雷无妄
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/42_4.png" align=left>
+<img src="shapes/42.04.png" align=left>
 
 六四爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
@@ -756,7 +756,7 @@
 
 ### 九五变卦：风雷益 变卦 山雷颐
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/42_5.png" align=left>
+<img src="shapes/42.05.png" align=left>
 
 九五爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -796,7 +796,7 @@
 
 ### 上九变卦：风雷益 变卦 水雷屯
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/42_6.png" align=left>
+<img src="shapes/42.06.png" align=left>
 
 上九爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -808,4 +808,4 @@
 
 “屯”原指植物萌生大地，万物始生，充满艰难险阻，然而顺时应运，必欣欣向荣。
 
-# [Yi](yi.md)
+# [Yì ䷩](yi.md)
