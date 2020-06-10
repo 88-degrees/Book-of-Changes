@@ -1,8 +1,8 @@
 # 离 ䷝
 
-<img src="https://i.zgjm.net/d/file/20170331/790f478002591359d7d7026a8dc07b1b.jpg" width=160 alt="离" align=left>
+<img src="shapes/30.10.jpg" width=160 alt="离" align=left>
 
-离（lí）卦是上离下离的卦名，是《易经》六十四卦第30卦，代号是`5:5`。
+离（lí）卦是上离下离的卦名，代号是`5:5`。
 
 离为火（离卦）附和依托。主卦和客卦都是`5`卦离卦，卦象是火。这个卦是同卦（下离上离）相叠。
 
@@ -445,7 +445,7 @@
 这里并不存在什么不利因素。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no30liweihuo.png">
+<img src="shapes/30.11.png">
 
 ### 《断易天机》解
 
@@ -538,7 +538,7 @@
 
 ### 初九变卦：离为火 变卦 火山旅
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/30_1.png" align=left>
+<img src="shapes/30.01.png" align=left>
 
 初九爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
@@ -576,7 +576,7 @@
 
 ### 六二变卦：离为火 变卦 火天大有
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/30_2.png" align=left>
+<img src="shapes/30.02.png" align=left>
 
 六二爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -612,7 +612,7 @@
 
 ### 九三变卦：离为火 变卦 火雷噬嗑
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/30_3.png" align=left>
+<img src="shapes/30.03.png" align=left>
 
 九三爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -650,7 +650,7 @@
 
 ### 九四变卦：离为火 变卦 山火贲
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/30_4.png" align=left>
+<img src="shapes/30.04.png" align=left>
 
 九四爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
@@ -688,7 +688,7 @@
 
 ### 六五变卦：离为火 变卦 天火同人
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/30_5.png" align=left>
+<img src="shapes/30.05.png" align=left>
 
 六五爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -724,7 +724,7 @@
 
 ### 上九变卦：离为火 变卦 雷火丰
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/30_6.png" align=left>
+<img src="shapes/30.06.png" align=left>
 
 上九爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -734,4 +734,4 @@
 
 告戒：务必注意事物向相反方面发展，盛衰无常，不可不警惕。
 
-# [Li](e7a6bbli.md)
+# [Lí ䷝](e7a6bbli.md)

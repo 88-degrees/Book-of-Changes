@@ -1,6 +1,6 @@
 # 观 ䷓
 
-<img src="https://i.zgjm.net/d/file/20170331/7595eda7bc8f9bbf95baf63de7bf9a37.jpg" width=160 alt="观" align=left>
+<img src="shapes/20.10.jpg" width=160 alt="观" align=left>
 
 观（guān）卦代号是`0:3`，主卦是坤卦，卦象是地，阳数是`0`；客卦是巽卦，阳数是`3`，卦象是风。
 
@@ -141,7 +141,7 @@
 《诗》曰：颙颙昂昂，如珪如璋。君德之义也。
 观天之神道，而四时不忒。
 
-虞翻曰：忒，差也。神道谓五。
+虞翻曰：忒（tè），差也。神道谓五。
 临，震兑为春秋，三上易位，坎冬离夏，日月象正。
 故“四时不忒”。
 圣人神道设教，而天下服矣。
@@ -789,7 +789,7 @@
 这就是道你所学到的圣人慈悲之道。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no20fengdiguan.png">
+<img src="shaps/20.11.png">
 
 ### 《断易天机》解
 
@@ -886,7 +886,7 @@
 
 ### 初六变卦：风地观 变卦 风雷益
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/20_1.png" align=left>
+<img src="shaps/20.01.png" align=left>
 
 初六爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -924,7 +924,7 @@
 
 ### 六二变卦：风地观 变卦 风水涣
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/20_2.png" align=left>
+<img src="shaps/20.02.png" align=left>
 
 六二爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -962,7 +962,7 @@
 
 ### 六三变卦：风地观 变卦 风山渐
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/20_3.png" align=left>
+<img src="shaps/20.03.png" align=left>
 
 六三爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
@@ -1000,7 +1000,7 @@
 
 ### 六四变卦：风地观 变卦 天地否
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/20_4.png" align=left>
+<img src="shaps/20.04.png" align=left>
 
 六四爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -1036,7 +1036,7 @@
 
 ### 九五变卦：风地观 变卦 山地剥
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/20_5.png" align=left>
+<img src="shaps/20.05.png" align=left>
 
 九五爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -1074,7 +1074,7 @@
 
 ### 上九变卦：风地观 变卦 水地比
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/20_6.png" align=left>
+<img src="shaps/20.06.png" align=left>
 
 上九爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
@@ -1088,4 +1088,4 @@
 
 它阐述的是相亲相辅，宽宏无私，精诚团结的道理。
 
-# [Guan](e8a782guan.md)
+# [Guān ䷓](e8a782guan.md)

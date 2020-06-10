@@ -1,8 +1,8 @@
 # 节 ䷻
 
-<img src="https://i.zgjm.net/d/file/20170331/c369435e5b9c7648fdcf3b562c88715d.jpg" width=160 alt="节" align=left>
+<img src="shapes/60.10.jpg" width=160 alt="节" align=left>
 
-节（jié）卦是《易经》六十四卦的第60卦。水泽节（节卦）万物有节。
+节（jié）卦，水泽节，万物有节。
 
 这个卦是异卦（下兑上坎）相叠。兑为泽，坎为水。泽有水而流有限，多必溢于泽外。
 因此要有节度，故称节。节卦与涣卦相反，互为综卦，交相使用。
@@ -20,7 +20,7 @@
 
 ### 简介
 
-节卦是《易经》六十四卦的第六十卦。水泽节（节卦）万物有节，是上上卦。象曰：时来运转喜气生，登台封神姜太公，到此诸神皆退位，纵然有祸不成凶。这个卦是异卦（下兑上坎）相叠。兑为泽，坎为水。泽有水而流有限，多必溢于泽外。因此要有节度，故称节。节卦与涣卦相反，互为综卦，交相使用。天地有节度才能常新，国家有节度才能安稳，个人有节度才能完美。《节》卦是谈节制自己行动的卦。此卦有些从上卦《涣》卦而来的意思。任何事物皆有一个有盛有衰的过程，也有一个有行有止的过程，在一定的时候必须适当节制一下自己的行动，这将会是极有益处的，此卦就是从各方面来。
+水泽节（节卦）万物有节，是上上卦。象曰：时来运转喜气生，登台封神姜太公，到此诸神皆退位，纵然有祸不成凶。这个卦是异卦（下兑上坎）相叠。兑为泽，坎为水。泽有水而流有限，多必溢于泽外。因此要有节度，故称节。节卦与涣卦相反，互为综卦，交相使用。天地有节度才能常新，国家有节度才能安稳，个人有节度才能完美。《节》卦是谈节制自己行动的卦。此卦有些从上卦《涣》卦而来的意思。任何事物皆有一个有盛有衰的过程，也有一个有行有止的过程，在一定的时候必须适当节制一下自己的行动，这将会是极有益处的，此卦就是从各方面来。
 
 ### 全卦内容
 
@@ -350,7 +350,7 @@
 以地天泰为例，下卦乾卦的互卦为兑卦，上卦坤的互卦为震卦。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no60shuizejie.png">
+<img src="shapes/60.11.png">
 
 ### 《断易天机》解
 
@@ -448,7 +448,7 @@
 
 ### 初九变卦：水泽节 变卦 坎为水
 
- <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/60_1.png" align=left>
+ <img src="shapes/60.01.png" align=left>
 
 初九爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
@@ -486,7 +486,7 @@
 
 ### 九二变卦：水泽节 变卦 水雷屯
 
- <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/60_2.png" align=left>
+ <img src="shapes/60.02.png" align=left>
 
 九二爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -524,7 +524,7 @@
 
 ### 六三变卦：水泽节 变卦 水天需
 
- <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/60_3.png" align=left>
+ <img src="shapes/60.03.png" align=left>
 
 六三爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -560,7 +560,7 @@
 
 ### 六四变卦：水泽节 变卦 兑为泽
 
- <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/60_4.png" align=left>
+ <img src="shapes/60.04.png" align=left>
 
 六四爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -598,7 +598,7 @@
 
 ### 九五变卦：水泽节 变卦 地泽临
 
- <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/60_5.png" align=left>
+ <img src="shapes/60.05.png" align=left>
 
 九五爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -634,7 +634,7 @@
 
 ### 上六变卦：水泽节 变卦 风泽中孚
 
- <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/60_6.png" align=left>
+ <img src="shapes/60.06.png" align=left>
 
 上六爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -646,4 +646,4 @@
 
 这是立身处世的根本。
 
-# [Jie](e88a82jie.md)
+# [Jié ䷻](e88a82jie.md)

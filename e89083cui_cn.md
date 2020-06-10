@@ -1,8 +1,8 @@
 # 萃 ䷬
 
-<img src="https://i.zgjm.net/d/file/20170331/74c0bc5e5638fa3c5b636d976ba8a3d1.jpg" width=160 alt="萃" align=left>
+<img src="shapes/45.10.jpg" width=160 alt="萃" align=left>
 
-萃（cuì）卦是易经六十四卦第45卦，上泽下地，泽地萃。象征荟萃聚集。
+萃（cuì）卦，上泽下地，泽地萃。象征荟萃聚集。
 
 这个卦是异卦相叠（下坤上兑）。坤为地、为顺；兑为泽、为水。
 泽泛滥淹没大地，人众多相互斗争，危机必四伏，务必顺天任贤，未雨绸缪，柔顺而又和悦，彼此相得益彰，安居乐业。萃，聚集、团结。
@@ -46,7 +46,7 @@
 卦辞明确地指出，重要的是主方自己要主动积极地行动起来，改善自己的素质，“利见大人”。下面逐条说明卦爻辞。
 
 ## 卦意
-### 第45卦 泽地萃（萃卦）荟萃聚集
+### 泽地萃（萃卦）荟萃聚集
 ### 中上卦
 
 象曰：游鱼戏水被网惊，跳过龙门身化龙，三尺杨柳垂金钱，万朵桃花显你能。
@@ -395,7 +395,7 @@
 
 ### 应用条件
 
-萃是`0:6`卦的卦名。`0:6`是萃卦的代号，表示它由`0`卦和`6`卦组成，`0`卦是主卦，`6`卦是客卦。萃音（cuì）。
+萃是`0:6`卦的卦名。`0:6`是萃卦的代号，表示它由`0`卦和`6`卦组成，`0`卦是主卦，`6`卦是客卦。萃音cuì。
 
 1. 草丛生的样子；
 2. 聚集，会集，荟萃；
@@ -507,7 +507,7 @@
 也是众人所不加害的人，因而能够转危为安，得以无咎。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no45zedicui.png">
+<img src="shapes/45.11.png">
 
 ### 《断易天机》解
 
@@ -601,7 +601,7 @@
 
 ### 初六变卦：泽地萃 变卦 泽雷随
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/45_1.png" align=left>
+<img src="shapes/45.01.png" align=left>
 
 初六爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
@@ -637,7 +637,7 @@
 
 ### 六二变卦：泽地萃 变卦 泽水困
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/45_2.png" align=left>
+<img src="shapes/45.02.png" align=left>
 
 六二爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -673,7 +673,7 @@
 
 ### 六三变卦：泽地萃 变卦 泽山咸
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/45_3.png" align=left>
+<img src="shapes/45.03.png" align=left>
 
 六三爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -709,7 +709,7 @@
 
 ### 九四变卦：泽地萃 变卦 水地比
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/45_4.png" align=left>
+<img src="shapes/45.04.png" align=left>
 
 九四爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
@@ -749,7 +749,7 @@
 
 ### 九五变卦：泽地萃 变卦 雷地豫
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/45_5.png" align=left>
+<img src="shapes/45.05.png" align=left>
 
 九五爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -789,7 +789,7 @@
 
 ### 上六变卦：泽地萃 变卦 天地否
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/45_6.png" align=left>
+<img src="shapes/45.06.png" align=left>
 
 上六爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -799,4 +799,4 @@
 
 它们彼此为“综卦”，表明泰极而否，否极泰来，互为因果。
 
-# [Cui](e89083cui.md)
+# [Cuì ䷬](e89083cui.md)

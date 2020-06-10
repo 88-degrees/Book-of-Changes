@@ -1,8 +1,8 @@
 # 暌 ䷥
 
-<img src="https://i.zgjm.net/d/file/20170331/8645a8d269647db77f5a622a74a0a5c8.jpg" width=160 alt="暌" align=left>
+<img src="shapes/38.10.jpg" width=160 alt="暌" align=left>
 
-睽（kuí）卦是离上兑下的卦名。易经六十四卦第38卦。
+睽（kuí）卦是离上兑下的卦名。
 
 代号是`6:5`，其主卦是`6`卦兑卦，卦象是泽，特性是愉快；客卦是`5`卦离卦，卦象是火，特性是光明而依赖。
 
@@ -389,7 +389,7 @@
 悠闲的心境和细致的体察，是产生这篇日记的关键因素。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no38huozekui.png">
+<img src="shapes/38.11.png">
 
 ### 《断易天机》解
 
@@ -482,7 +482,7 @@
 
 ### 初九变卦：火泽睽 变卦 火水未济
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/38_1.png" align=left>
+<img src="shapes/38.01.png" align=left>
 
 初九爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
@@ -520,7 +520,7 @@
 
 ### 九二变卦：火泽睽 变卦 火雷噬嗑
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/38_2.png" align=left>
+<img src="shapes/38.02.png" align=left>
 
 九二爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -558,7 +558,7 @@
 
 ### 六三变卦：火泽睽 变卦 火天大有
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/38_3.png" align=left>
+<img src="shapes/38.03.png" align=left>
 
 六三爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -594,7 +594,7 @@
 
 ### 九四变卦：火泽睽 变卦 山泽损
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/38_4.png" align=left>
+<img src="shapes/38.04.png" align=left>
 
 九四爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -636,7 +636,7 @@
 
 ### 六五变卦：火泽睽 变卦 天泽履
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/38_5.png" align=left>
+<img src="shapes/38.05.png" align=left>
 
 六五爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -676,7 +676,7 @@
 
 ### 上九变卦：火泽睽 变卦 雷泽归妹
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/38_6.png" align=left>
+<img src="shapes/38.06.png" align=left>
 
 上九爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -686,4 +686,4 @@
 
 以少女从长男，产生爱慕之情，有婚姻之动，有嫁女之象，故称归妹。
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-# [Kui](e79dbdkui.md)
+# [Kuí ䷥](e79dbdkui.md)
