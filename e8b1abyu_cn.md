@@ -1,8 +1,8 @@
 # 豫 ䷏
 
-<img src="https://i.zgjm.net/d/file/20170330/fdbbe2c290fecb174bce1f2849f1539e.jpg" width=160 alt="豫" align=left>
+<img src="shapes/16.10.jpg" width=160 alt="豫" align=left>
 
-豫卦是《易经》六十四卦之第16卦，代号是`0:4`，主卦是坤卦，卦象地，客卦为震卦，卦象雷。
+豫卦代号是`0:4`，主卦是坤卦，卦象地，客卦为震卦，卦象雷。
 
 雷地豫（豫卦）顺时依势。“豫”的意思是安闲，主方满足于现状，客方态度随和，为主方提供了安闲舒适的环境。
 
@@ -68,7 +68,7 @@
 安闲，由别人作主，大有得益，
 不要怀疑，朋友怎不给插上发簪。
 有疾病长期坚持，就是总死不了。
-安闲，成为黑暗愚昧，(应当)有变。
+安闲，成为黑暗愚昧，（应当）有变。
 ```
 
 下面逐条说明卦爻辞。
@@ -527,7 +527,7 @@
 参与前反复思虑，想清楚后便投入。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no16leidiyu.jpg">
+<img src="shapes/16.11.jpg">
 
 ### 《断易天机》解
 
@@ -624,7 +624,7 @@
 
 ### 初六变卦：雷地豫 变卦 震为雷
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/16_1.png" align=left>
+<img src="shapes/16.01.png" align=left>
 
 初六爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -660,7 +660,7 @@
 
 ### 六二变卦：雷地豫 变卦 雷水解
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/16_2.png" align=left>
+<img src="shapes/16.02.png" align=left>
 
 六二爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -700,7 +700,7 @@
 
 ### 六三变卦：雷地豫 变卦 雷山小过
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/16_3.png" align=left>
+<img src="shapes/16.03.png" align=left>
 
 六三爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -738,7 +738,7 @@
 
 ### 九四变卦：雷地豫 变卦 坤为地
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/16_4.png" align=left>
+<img src="shapes/16.04.png" align=left>
 
 九四爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -776,7 +776,7 @@
 
 ### 六五变卦：雷地豫 变卦 泽地萃
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/16_5.png" align=left>
+<img src="shapes/16.05.png" align=left>
 
 六五爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -815,7 +815,7 @@
 
 ### 上六变卦：雷地豫 变卦 火地晋
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/16_6.png" align=left>
+<img src="shapes/16.06.png" align=left>
 
 上六爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 
@@ -827,4 +827,4 @@
 
 光明磊落，柔进上行，喻事业蒸蒸日上。
 
-# [Yu](e8b1abyu.md)
+# [Yù ䷏](e8b1abyu.md)

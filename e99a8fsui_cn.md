@@ -1,12 +1,12 @@
 # 随 ䷐
 
-<img src="https://i.zgjm.net/d/file/20170330/21e17f1b23cf673bdde68df44a95fd23.jpg" alt="随" width=160 align=left>
+<img src="shapes/17.10.jpg" alt="随" width=160 align=left>
 
 随是跟随的意思，用于“随便”、“随从”、“跟随”、“随后”、“随意”等等。
 
 代号是`4:6`。主卦是`4`卦震卦，卦象是雷，特性是运动，阳数是`4`。客卦是`6`卦兑卦，卦象是泽，阳数是`6`。
 
-主方跟随客方在这生气盈然的河泽地区积极主动地探索。随卦是易经六十四卦第17卦。
+主方跟随客方在这生气盈然的河泽地区积极主动地探索。
 
 泽雷随（随卦）随时变通。这个卦是异卦（下震上兑）相叠，震为雷、为动；兑为悦。动而悦就是“随”。
 
@@ -427,7 +427,7 @@
 这一点，作者无论如何是想不到的。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no17zeleisui.jpg">
+<img src="shapes/17.11.jpg">
 
 ### 《断易天机》解
 
@@ -520,7 +520,7 @@
 
 ### 初九变卦：泽雷随 变卦 泽地萃
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/17_1.png" align=left>
+<img src="shapes/17.01.png" align=left>
 
 初九爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -559,7 +559,7 @@
 
 ### 六二变卦：泽雷随 变卦 兑为泽
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/17_2.png" align=left>
+<img src="shapes/17.02.png" align=left>
 
 六二爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -597,7 +597,7 @@
 
 ### 六三变卦：泽雷随 变卦 泽火革
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/17_3.png" align=left>
+<img src="shapes/17.03.png" align=left>
 
 六三爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
@@ -637,7 +637,7 @@
 
 ### 九四变卦：泽雷随 变卦 水雷屯
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/17_4.png" align=left>
+<img src="shapes/17.04.png" align=left>
 
 九四爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -677,7 +677,7 @@
 
 ### 九五变卦：泽雷随 变卦 震为雷
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/17_5.png" align=left>
+<img src="shapes/17.05.png" align=left>
 
 九五爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -715,7 +715,7 @@
 
 ### 上六变卦：泽雷随 变卦 天雷无妄
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/17_6.png" align=left>
+<img src="shapes/17.06.png" align=left>
 
 上六爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
@@ -727,4 +727,4 @@
 
 但唯循纯正，不可妄行。无妄必有获，必可致福。
 
-# [Sui](e99a8fsui.md)
+# [Suí ](e99a8fsui.md)

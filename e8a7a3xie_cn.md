@@ -1,10 +1,10 @@
 # 解 ䷧
 
-<img src="https://i.zgjm.net/d/file/20170331/8f35bd1fb878e9380987b668fbcc81b5.jpg" width=160 alt="解" align=left>
+<img src="shapes/40.10.jpg" width=160 alt="解" align=left>
 
 解卦的代号是`2:4`。主卦是`2`卦坎卦，客卦是`4`卦震卦。
 
-易经六十四卦第40卦，雷水解（解卦）柔道致治。
+解卦，雷水解，柔道致治。
 解卦，阐释解除困难的法则。发生困难，就应当设法解除。
 
 原则上，应当采用柔和平易的方法，才能得到群众的支持；而且应当快速，立即恢复平静，以免扰民。
@@ -91,7 +91,9 @@
 
 象曰：目下月令如过关，千辛万苦受熬煎，时来恰相有人救，任意所为不相干。
 
-这个卦是异卦（下坎上震）相叠。震为雷、为动；坎为水、为险。险在内，动在外。严冬天地闭塞，静极而动。万象更新，冬去春来，一切消除，是为解。
+这个卦是异卦（下坎上震）相叠。震为雷、为动；坎为水、为险。险在内，动在外。
+
+严冬天地闭塞，静极而动。万象更新，冬去春来，一切消除，是为解。
 
 ## 爻辞释义
 ### 一阴
@@ -343,7 +345,9 @@
 
 象曰：目下月令如过关，千辛万苦受熬煎，时来恰相有人救，任意所为不相干。
 
-这个卦是异卦（下坎上震）相叠。震为雷、为动；坎为水、为险。险在内，动在外。严冬天地闭塞，静极而动。万象更新，冬去春来，一切消除，是为解。
+这个卦是异卦（下坎上震）相叠。震为雷、为动；坎为水、为险。险在内，动在外。
+
+严冬天地闭塞，静极而动。万象更新，冬去春来，一切消除，是为解。
 
 ### 雷水解 上震下坎
 
@@ -555,7 +559,7 @@
 这没有什么不吉利。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no40leishuijie.png">
+<img src="shapes/40.11.png">
 
 ### 《断易天机》解
 
@@ -654,7 +658,7 @@
 
 ### 初六变卦：雷水解 变卦 雷泽归妹
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/40_1.png" align=left>
+<img src="shapes/40.01.png" align=left>
 
 初六爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -690,7 +694,7 @@
 
 ### 九二变卦：雷水解 变卦 雷地豫
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/40_2.png" align=left>
+<img src="shapes/40.02.png" align=left>
 
 九二爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -728,7 +732,7 @@
 
 ### 六三变卦：雷水解 变卦 雷风恒
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/40_3.png" align=left>
+<img src="shapes/40.03.png" align=left>
 
 六三爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -766,7 +770,7 @@
 
 ### 九四变卦：雷水解 变卦 地水师
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/40_4.png" align=left>
+<img src="shapes/40.04.png" align=left>
 
 九四爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
@@ -804,7 +808,7 @@
 
 ### 六五变卦：雷水解之泽水困
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/40_5.png" align=left>
+<img src="shapes/40.05.png" align=left>
 
 六五爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -840,7 +844,7 @@
 
 ### 上六变卦：雷水解 变卦 火水未济
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/40_6.png" align=left>
+<img src="shapes/40.06.png" align=left>
 
 上六爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
@@ -852,4 +856,4 @@
 
 《周易》以乾坤二卦为始，以既济、未济二卦为终，充分反映了变化发展的思想。
 
-# [Xie](e8a7a3xie.md)
+# [Xiè ䷧](e8a7a3xie.md)

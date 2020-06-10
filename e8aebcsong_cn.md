@@ -1,9 +1,8 @@
 # 讼 ䷅
 
-<img src="https://i.zgjm.net/d/file/20170330/181ff9c4e1051d4c228630f04ea02c0c.jpg" width=160 alt="讼" align=left>
+<img src="shapes/06.10.jpg" width=160 alt="讼" align=left>
 
-讼（sòng）卦是上卦为乾，下卦为坎的卦名。
-是周易六十四卦第6卦。代号是`2:7`。
+讼（sòng）卦是上卦为乾，下卦为坎的卦名。代号是`2:7`。
 “讼”（sòng），在法庭上争辨是非曲直，打官司：讼事。
 
 讼卦的主卦是`2`卦坎卦，卦象是水，阳数是`2`，特性是危险和困难；客卦是`7`卦乾卦，卦象是天，阳数是`7`，特性是强健。
@@ -218,7 +217,7 @@
 主方只得回复原状，遵从客方的命令。
 如果主方改变自己的作法，不再诉讼，
 而是坚持安定的生活，情况对于主方来说是吉利的。
-“即命”（jímìng），顺从正理；遵从王命。
+“即命”（jí mìng），顺从正理；遵从王命。
 “渝”（yú），改变，违背（多指感情或态度）：忠贞不渝。
 
 〖结构分析〗第四爻位置是阴位，
@@ -621,7 +620,7 @@
 也许获得了一时的成功，得到了极大的赏识，但以讼受服有什么值得尊敬的呢。
 特别是嘴上功夫了得又有何用，没有实质性的进展是不值得称道的。因此我们需要实际行动去解决一切存在的问题，而不是相互显耀和吹捧，更不是争夺和拥有。
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no6tianshuisong.jpg">
+<img src="shapes/06.11.jpg">
 
 ### 《断易天机》解
 
@@ -718,7 +717,7 @@
 
 ### 初六变卦：天水讼 变卦 天泽履
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/6_1.png" align=left>
+<img src="shapes/06.01.png" align=left>
 
 初六爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -758,7 +757,7 @@
 
 ### 九二变卦：天水讼 变卦 天地否
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/6_2.png" align=left>
+<img src="shapes/06.02.png" align=left>
 
 九二爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -794,7 +793,7 @@
 
 ### 六三变卦：天水讼 变卦 天风姤
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/6_3.png" align=left>
+<img src="shapes/06.03.png" align=left>
 
 六三爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -834,7 +833,7 @@
 
 ### 九四变卦：天水讼 变卦 风水涣
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/6_4.png" align=left>
+<img src="shapes/06.04.png" align=left>
 
 九四爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -872,7 +871,7 @@
 
 ### 九五变卦：天水讼 变卦 火水未济
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/6_5.png" align=left>
+<img src="shapes/06.05.png" align=left>
 
 九五爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.mdop)。
 
@@ -910,7 +909,7 @@
 
 ### 上九变卦：天水讼 变卦 泽水困
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/6_6.png" align=left>
+<img src="shapes/06.06.png" align=left>
 
 上九爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -920,4 +919,4 @@
 
 泽水困，陷入困境，才智难以施展，仍坚守正道，自得其乐，必可成事，摆脱困境。
 
-# [Song](e8aebcsong.md)
+# [Sòng ䷅](e8aebcsong.md)
