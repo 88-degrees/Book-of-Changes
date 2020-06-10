@@ -1,8 +1,8 @@
 # 未济 ䷿
 
-<img src="https://i.zgjm.net/d/file/20170331/016207948413af10ad925dea21f580f3.jpg" width=160 alt="未济" align=left>
+<img src="shapes/64.10.jpg" width=160 alt="未济" align=left>
 
-未济（wèi jì）卦是《易经》六十四卦最后一卦，以未能渡过河为喻，阐明“物不可穷”的道理。
+未济（wèi jì）卦，以未能渡过河为喻，阐明“物不可穷”的道理。
 
 未济卦是既济的综卦，下坎上离，离为火，坎为水。火向上炎，水往下润，两两不相交。
 
@@ -273,14 +273,14 @@
 ```
 
 ## 卦意
-### 第64卦 火水未济（未济卦）事业未竟
+### 火水未济（未济卦）事业未竟
 ### 中下卦
 
 象曰：离地着人几丈深，是防偷营劫寨人，后封太岁为凶煞，时加谨慎祸不侵。
 
 这个卦是异卦（下坎上离）相叠。离为火，坎为水。火上水下，火势压倒水势，救火大功未成，故称未济。《周易》以乾坤二卦为始，以既济、未济二卦为终，充分反映了变化发展的思想。
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no64shuihuoweiji.png">
+<img src="shapes/64.11.png">
 
 ### 《断易天机》解
 
@@ -378,7 +378,7 @@
 
 ### 初六变卦：火水未济 变卦 火泽睽
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/64_1.png" align=left>
+<img src="shapes/64.01.png" align=left>
 
 初六爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
@@ -418,7 +418,7 @@
 
 ### 九二变卦：火水未济 变卦
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/64_2.png" align=left>
+<img src="shapes/64.02.png" align=left>
 
 九二爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 
@@ -456,7 +456,7 @@
 
 ### 六三变卦：火水未济 变卦
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/64_3.png" align=left>
+<img src="shapes/64.03.png" align=left>
 
 六三爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
@@ -494,7 +494,7 @@
 
 ### 九四变卦：火水未济 变卦
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/64_4.png" align=left>
+<img src="shapes/64.04.png" align=left>
 
 九四爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
@@ -532,7 +532,7 @@
 
 ### 六五变卦：火水未济 变卦
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/64_5.png" align=left>
+<img src="shapes/64.05.png" align=left>
  
 六五爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
@@ -570,7 +570,7 @@
 
 ### 上九变卦：火水未济 变卦
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/64_6.png" align=left>
+<img src="shapes/64.06.png" align=left>
  
 上九爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -584,4 +584,4 @@
 
 万象更新，冬去春来，一切消除，是为解。
 
-# [Weiji](e69caae6b58eweiji.md)
+# [Wèi Jì ䷿](e69caae6b58eweiji.md)

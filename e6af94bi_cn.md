@@ -1,6 +1,6 @@
 # 比 ䷇
 
-<img src="https://i.zgjm.net/d/file/20170330/4be4ebbac2bbfd712044474e28b8254e.jpg" width=160 alt="比" align=left>
+<img src="shapes/08.10.jpg" width=160 alt="比" align=left>
 
 “比”指比较。
 
@@ -11,8 +11,7 @@
 
 比卦在周易中是第8卦。图中，红色表示当位的爻，天蓝色表示不当位的爻，箭头表示有应。
 
-比卦是《易经》六十四卦之第8卦。
-卦象为五条阴爻系于九五，象征团结一心。
+比卦卦象为五条阴爻系于九五，象征团结一心。
 
 《杂卦传》云：“比乐，师忧。”
 比者亲也，其字形为两人并坐，因为亲近，所以乐；师自争讼起，兵者凶器，所以忧。
@@ -370,7 +369,7 @@
 讲团结，搞外交，请不要忘了这个道义上的准则。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no8shuidibi.jpg">
+<img src="shapes/08.11.jpg">
 
 ### 《断易天机》解
 
@@ -464,7 +463,7 @@
 
 ### 初六变卦：水地比 变卦 水雷屯
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/8_1.png" align=left>
+<img src="shapes/08.01.png" align=left>
 
 初六爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -502,7 +501,7 @@
 
 ### 六二变卦：水地比 变卦 坎为水
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/8_2.png" align=left>
+<img src="shapes/08.02.png" align=left>
 
 六二爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
@@ -542,7 +541,7 @@
 
 ### 六三变卦：水地比 变卦 水山蹇
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/8_3.png" align=left>
+<img src="shapes/08.03.png" align=left>
 
 六三爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
@@ -581,7 +580,7 @@
 
 ### 六四变卦：水地比 变卦 泽地萃
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/8_4.png" align=left>
+<img src="shapes/08.04.png" align=left>
 
 六四爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -619,7 +618,7 @@
 
 ### 九五变卦：水地比 变卦 坤为地
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/8_5.png" align=left>
+<img src="shapes/08.05.png" align=left>
 
 九五爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -657,7 +656,7 @@
 
 ### 上六变卦：水地比 变卦 风地观
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/8_6.png" align=left>
+<img src="shapes/08.06.png" align=left>
 
 上六爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -669,4 +668,4 @@
 
 在上者以道义观天下；在下者以敬仰瞻上，人心顺服归从。
 
-# [Bi](e6af94bi.md)
+# [Bǐ ䷇](e6af94bi.md)

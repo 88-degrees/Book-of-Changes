@@ -1,12 +1,12 @@
 # 泰 ䷊
 
-<img src="https://i.zgjm.net/d/file/20170330/89bbd012f4c0af3d962854bd5776041b.jpg" width=160 alt="泰" align=left>
+<img src="shapes/11.10.jpg" width=160 alt="泰" align=left>
 
 泰（tài）卦展示“泰”形势下各种变化的可能性。
 
 “泰”是安定的意思。泰卦的代号是`7:0`，主卦是乾卦，卦象是天，阳数是`7`；客卦是坤卦，卦象是地，阳数是`0`。
 
-主方应当利用当前全面和谐的好形势，给于客方实惠，从而取得更多利益。易经六十四卦之第11卦。
+主方应当利用当前全面和谐的好形势，给于客方实惠，从而取得更多利益。
 
 彖曰：泰，小往大来，吉亨。
 则是天地交，而万物通也；上下交，而其志同也。
@@ -239,7 +239,7 @@
 ```
 
 ## 卦意
-### 第11卦 地天泰（泰卦）应时而变
+### 地天泰（泰卦）应时而变
 ### 中中卦
 
 学文满腹入场闱，三元及第得意回，从今解去愁和闷，喜庆平地一声雷。
@@ -513,7 +513,7 @@
 5. 六五：帝亿归妹以祉，元吉。《象》日：以祉元吉，中以行愿也。帝亿归妹以祉，成人之美也。君子成人之美，则必受人以敬。受人以敬则何事而不成，是以“以祉元吉，中以行愿也。”故君子之德当一心为民谋福祉，只有一心为民谋福祉的人才能树立起崇高的品德，才能受到人民的爱戴和拥护，是以又有什么不可通达的地方。
 6. 上六：城复于隍，勿用师，自邑告命，贞吝。《象》日：城复于隍，其命乱也。城复于隍（城墙建在城池内），以为安也；勿用师，以为泰也；自邑告命，自相庆也；如此而行则必见其吝。原因是“世移则事异，事异则备变。”隔绝外界就会坐井观天，就会无法惯通外界的发展，因此关起门来搞革命是行不通的，也只能充分说明着它的脆弱和无能，甚至是自傲和自负。
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no11ditiantai.jpg">
+<img src="shapes/11.11.jpg">
 
 ### 《断易天机》解
 
@@ -605,7 +605,7 @@
 
 ### 初九变卦：地天泰 变卦 地风升
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/11_1.png" align=left>
+<img src="shapes/11.01.png" align=left>
 
 初九爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
@@ -641,7 +641,7 @@
 
 ### 九二变卦：地天泰 变卦 地火明夷
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/11_2.png" align=left>
+<img src="shapes/11.02.png" align=left>
 
 九二爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
@@ -679,7 +679,7 @@
 
 ### 九三变卦：地天泰 变卦 地泽临
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/11_3.png" align=left>
+<img src="shapes/11.03.png" align=left>
 
 九三爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -715,7 +715,7 @@
 
 ### 六四变卦：地天泰 变卦 雷天大壮
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/11_4.png" align=left>
+<img src="shapes/11.04.png" align=left>
 
 六四爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -755,7 +755,7 @@
 
 ### 六五变卦：地天泰 变卦 水天需
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/11_5.png" align=left>
+<img src="shapes/11.05.png" align=left>
 
 六五爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -790,7 +790,7 @@
 
 ### 上六变卦：地天泰 变卦 山天大畜
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/11_6.png" align=left>
+<img src="shapes/11.06.png" align=left>
 
 上六爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
@@ -802,4 +802,4 @@
 
 为此不畏严重的艰难险阻，努力修身养性以丰富德业。
 
-# [Tai](e6b3b0tai.md)
+# [Tài ䷊](e6b3b0tai.md)
