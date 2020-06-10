@@ -1,8 +1,6 @@
 # 恒 ䷟
 
-<img src="https://i.zgjm.net/d/file/20170331/ad956f6fd34bd535ac4a5f063ae5fbba.jpg" width=160 alt="恒" align=left>
-
-恒（héng）卦是易经六十四卦第32卦。
+<img src="shapes/32.10.jpg" width=160 alt="恒" align=left>
 
 雷风恒（恒卦）恒心有成。代号是`3:4`。
 `3:4`卦的主卦是`3`卦巽卦，卦象是风，阳数是`3`；客卦是`4`卦震卦，卦象是雷，阳数是`4`。
@@ -72,7 +70,7 @@
 〖译文〗顺利，无所怪罪，利于坚持，利于有所前进。
 
 〖解说〗这是恒卦的卦辞。
-“亨”（héng），通达，顺利；万事亨通。
+“亨”（hēng），通达，顺利；万事亨通。
 恒卦的三对爻全部有应，二条爻当位，卦辞说“亨”。
 然而有四条爻不当位，因此卦辞没有说“元亨”。
 主方消极被动，而客方积极主动；客方没有足够的力量，主方有力量；
@@ -269,7 +267,7 @@
 ```
 
 ## 卦意
-### 第32卦 雷风恒（恒卦）恒心有成
+### 雷风恒（恒卦）恒心有成
 ### 中上卦
 
 象曰：鱼翁寻鱼运气好，鱼来撞网跑不了，别人使本挣不来，谁想一到就凑合。
@@ -453,7 +451,7 @@
 但是，疲惫的现代人已没有了向上苍祈祷的虔诚了。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no32leifengheng.png">
+<img src="shapes/32.11.png">
 
 ### 《断易天机》解
 
@@ -548,7 +546,7 @@
 
 ### 初六变卦：雷风恒 变卦 雷天大壮
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_1.png" align=left>
+<img src="shapes/32.01.png" align=left>
 
 初六爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -586,7 +584,7 @@
 
 ### 九二变卦：雷风恒 变卦 雷山小过
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_2.png" align=left>
+<img src="shapes/32.02.png" align=left>
 
 九二爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -624,7 +622,7 @@
 
 ### 九三变卦：雷风恒 变卦 雷水解
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_3.png" align=left>
+<img src="shapes/32.03.png" align=left>
 
 九三爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -664,7 +662,7 @@
 
 ### 九四变卦：雷风恒 变卦 地风升
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_4.png" align=left>
+<img src="shapes/32.04.png" align=left>
 
 九四爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
@@ -702,7 +700,7 @@
 
 ### 六五变卦：雷风恒 变卦 泽风大过
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_5.png" align=left>
+<img src="shapes/32.05.png" align=left>
 
 六五爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
@@ -738,7 +736,7 @@
 
 ### 上六变卦：雷风恒 变卦 火风鼎
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/32_6.png" align=left>
+<img src="shapes/32.06.png" align=left>
 
 上六爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
@@ -750,4 +748,4 @@
 
 煮食，喻食物充足，不再有困难和困扰。在此基础上宜变革，发展事业。
 
-# [Heng](e68192heng.md)
+# [Héng ䷟](e68192heng.md)

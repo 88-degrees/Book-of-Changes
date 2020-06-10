@@ -1,8 +1,8 @@
 # 既济 ䷾
 
-<img src="https://i.zgjm.net/d/file/20170331/4b2e2f2ea9964b23119cac3b06e8427e.jpg" width=160 alt="既济" align=left>
+<img src="shapes/63.10.jpg" width=160 alt="既济" align=left>
 
-既济（jì jì）卦是易经六十三卦第63卦，水火既济盛极将衰。
+既济（jì jì）卦，水火既济盛极将衰。
 
 坎为水，离为火，水火相交，水在火上，水势压倒火势，救火大功告成。
 
@@ -91,7 +91,7 @@
 ```
 
 ## 卦辞解释
-### 第63卦 水火既济（既济卦）盛极将衰
+### 水火既济（既济卦）盛极将衰
 ### 中上卦
 
 ## 爻辞
@@ -198,7 +198,7 @@
 另一方面，客方虽然是被动防守，但是不能排除其中有诈。
 爻辞提醒主方要有戒备。
 “繻”（rú），应当是濡，渗漏。
-“袽”（袽），旧絮，破布一类的东西。
+“袽”（rú），旧絮，破布一类的东西。
 这条爻辞，从字面上看，
 是说船上的人应当终日戒备航行中沉船的危险，
 如果船有渗漏，立即用破布一类东西堵塞。
@@ -378,7 +378,7 @@
 终止则乱，其道穷也。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no63shuihuojiji.png">
+<img src="shapes/63.11.png">
 
 ### 《断易天机》解
 
@@ -473,7 +473,7 @@
 
 ### 初九变卦：水火既济 变卦 水山蹇
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/63_1.png" align=left>
+<img src="shapes/63.01.png" align=left>
  
 初九爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
@@ -511,7 +511,7 @@
 
 ### 六二变卦：水火既济 变卦 水天需
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/63_2.png" align=left>
+<img src="shapes/63.02.png" align=left>
  
 六二爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -547,7 +547,7 @@
 
 ### 九三变卦：水火既济 变卦 水雷屯
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/63_3.png" align=left>
+<img src="shapes/63.03.png" align=left>
  
 九三爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -585,7 +585,7 @@
 
 ### 六四变卦：水火既济 变卦 泽火革
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/63_4.png" align=left>
+<img src="shapes/63.04.png" align=left>
 
 六四爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
@@ -625,7 +625,7 @@
 
 ### 九五变卦：水火既济 变卦 地火明夷
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/63_5.png" align=left>
+<img src="shapes/63.05.png" align=left>
 
 九五爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
@@ -663,7 +663,7 @@
 
 ### 上六变卦：水火既济 变卦 风火家人
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/63_6.png" align=left>
+<img src="shapes/63.06.png" align=left>
 
 上六爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -677,4 +677,4 @@
 
 发生于内，形成于外。喻先治家而后治天下，家道正，天下安乐。
 
-# [Jiji](e697a2e6b58ejiji.md)
+# [Jì Jì ䷾](e697a2e6b58ejiji.md)

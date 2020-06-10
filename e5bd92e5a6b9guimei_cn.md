@@ -1,6 +1,6 @@
 # 归妹 ䷵
 
-<img src="https://i.zgjm.net/d/file/20170331/71c84d1d270bd64756b3986d942462b9.jpg" width=160 alt="归妹" align=left>
+<img src="shapes/54.10.jpg" width=160 alt="归妹" align=left>
 
 归妹（guī mèi）是震上兑下卦的卦名，代号`6:4`。
 “归”（guī），古代称女子出嫁。
@@ -450,7 +450,7 @@
 用适中平衡原理走出了困境取得了成功。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no54leizeguimei.png">
+<img src="shapes/54.11.png">
 
 ### 《断易天机》解
 
@@ -544,7 +544,7 @@
 
 ### 初九变卦：雷泽归妹 变卦 雷水解卦
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_1.png" align=left>
+<img src="shapes/54.01.png" align=left>
 
 初九爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -582,7 +582,7 @@
 
 ### 九二变卦：雷泽归妹 变卦 震为雷
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_2.png" align=left>
+<img src="shapes/54.02.png" align=left>
 
 九二爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -618,7 +618,7 @@
 
 ### 六三变卦：雷泽归妹 变卦 雷天大壮
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_3.png" align=left>
+<img src="shapes/54.03.png" align=left>
 
 六三爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -656,7 +656,7 @@
 
 ### 九四变卦：雷泽归妹 变卦 地泽临
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_4.png" align=left>
+<img src="shapes/54.04.png" align=left>
 
 九四爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -692,7 +692,7 @@
 
 ### 六五变卦：雷泽归妹 变卦 兑为泽
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_5.png" align=left>
+<img src="shapes/54.05.png" align=left>
 
 六五爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -730,7 +730,7 @@
 
 ### 上六变卦；雷泽归妹 变卦 火泽睽
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/54_6.png" align=left>
+<img src="shapes/54.06.png" align=left>
 
 上六爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
@@ -742,4 +742,4 @@
 
 克则生，往复无空。万物有所不同，必有所异，相互矛盾。睽即矛盾。
 
-# [Guimei](e5bd92e5a6b9guimei.md)
+# [Guī Mèi ䷵](e5bd92e5a6b9guimei.md)
