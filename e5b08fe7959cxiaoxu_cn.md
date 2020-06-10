@@ -1,6 +1,6 @@
 # 小畜 ䷈
 
-<img src="https://i.zgjm.net/d/file/20170330/54d281aaa09cf91b3f9b1040398381ed.jpg" width=160 alt="小畜" align=left>
+<img src="shapes/09.10.jpg" width=160 alt="小畜" align=left>
 
 小畜（xiǎo xù）是`7:3`卦的卦名，`7:3`是小畜卦的代号。
 
@@ -457,7 +457,7 @@
 ② 處（chǔ）：处，停止。
 ③ 載（zǎi）：载，假借为“栽”。
 ④ 女：妇女。
-貞厲（zhēn lì ）：贞厉，贞问危险。厉：危险。
+貞厲（zhēn lì）：贞厉，贞问危险。厉：危险。
 ⑤ 幾望（jǐ wàng）：几望，近望。几：近。
 ⑥ 君子：此处指“女贞厉”中的“女人”的丈夫。正，假借为“征”。
 【讲解】尚九阳刚之爻居于少畜卦的终点，处于巽顺之体的最高位，
@@ -604,7 +604,7 @@
 为了迫使异族认同大道而兴兵，不值当，这是下策。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no9fengtianxiaoxu.jpg">
+<img src="shapes/09.11.jpg">
 
 ### 《断易天机》解
 
@@ -699,7 +699,7 @@
 
 ### 初九变卦：风天小畜 变卦 巽为风
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/9_1.png" align=left>
+<img src="shapes/09.01.png" align=left>
 
 初九爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -737,7 +737,7 @@
 
 ### 九二变卦：风天小畜 变卦 风火家人
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/9_2.png" align=left>
+<img src="shapes/09.02.png" align=left>
 
 九二爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -777,7 +777,7 @@
 
 ### 九三变卦：风天小畜 变卦 风泽中孚
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/9_3.png" align=left>
+<img src="shapes/09.03.png" align=left>
 
 九三爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -813,7 +813,7 @@
 
 ### 六四变卦：风天小畜 变卦 乾为天
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/9_4.png" align=left>
+<img src="shapes/09.04.png" align=left>
 
 六四爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
@@ -851,7 +851,7 @@
 
 ### 九五变卦：风天小畜 变卦 山天大畜
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/9_5.png" align=left>
+<img src="shapes/09.05.png" align=left>
 
 九五爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
@@ -889,7 +889,7 @@
 
 ### 上九变卦：风天小畜 变卦 水天需
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/9_6.png" align=left>
+<img src="shapes/09.06.png" align=left>
 
 上九爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -900,4 +900,4 @@
 
 以刚逢险，宜稳健之妥，不可冒失行动，观时待变，所往一定成功。
 　　
-# [Xiaoxu](e5b08fe7959cxiaoxu.md)
+# [Xiǎo Xù ䷈](e5b08fe7959cxiaoxu.md)

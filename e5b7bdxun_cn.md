@@ -1,6 +1,6 @@
 # 巽 ䷸
 
-<img src="https://i.zgjm.net/d/file/20170331/40f015506317a8c03dfbeaaec573a7f2.jpg" width=160 alt="巽" align=left>
+<img src="shapes/57.10.jpg" width=160 alt="巽" align=left>
 
 巽是`3:3`卦的卦名，`3:3`是巽卦的代号。“巽”（xùn），古同“逊”，谦让恭顺。
 
@@ -8,7 +8,7 @@
 主方和客方都顺从，谁顺从谁呢？主方该如何行动呢？
 主方应当保护好自己的利益，对客方谦让恭顺，能进则进，能退则退。图中，红色表示当位的爻，天蓝色表示不当位的爻。
 
-巽卦是易经六十四卦第57卦，巽为风（巽卦）谦逊受益，象曰：一叶孤舟落沙滩，有篙无水进退难，时逢大雨江湖溢，不用费力任往返。
+巽为风（巽卦）谦逊受益，象曰：一叶孤舟落沙滩，有篙无水进退难，时逢大雨江湖溢，不用费力任往返。
 
 - 卦序：57
 
@@ -393,7 +393,7 @@
 17. 颜色：兰。
 18. 病象伤风感冒，中风，受风，神经症状，患胆疾，传染病，坐骨神经痛，神经痛，淋巴疾病，抽筋，强直强硬症，病情不稳定，喘息，哮喘，左肩痛，神经炎，胯股病，胫骨病，忧郁症，血管病。
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no57xunweifeng.png">
+<img src="shapes/57.11.png">
 
 ### 《断易天机》解
 
@@ -487,7 +487,7 @@
 
 ### 初六变卦：巽为风 变卦 风天小畜
 
- <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/57_1.png" align=left>
+ <img src="shapes/57.01.png" align=left>
 
 初六爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -525,7 +525,7 @@
 
 ### 九二变卦：巽为风 变卦 风山渐
 
- <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/57_2.png" align=left>
+ <img src="shapes/57.02.png" align=left>
 
 九二爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
@@ -563,7 +563,7 @@
 
 ### 九三变卦：巽为风 变卦 风水涣
 
- <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/57_3.png" align=left>
+ <img src="shapes/57.03.png" align=left>
 
 九三爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -601,7 +601,7 @@
 
 ### 六四变卦：巽为风 变卦 天风姤
 
- <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/57_4.png" align=left>
+ <img src="shapes/57.04.png" align=left>
 
 六四爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -641,7 +641,7 @@
 
 ### 九五变卦：巽为风卦 变卦 山风蛊
 
- <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/57_5.png" align=left>
+ <img src="shapes/57.05.png" align=left>
 
 九五爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
@@ -679,7 +679,7 @@
 
 ### 上九变卦：巽为风 变卦 水风井
 
- <img src="http://www.yilusoso.com/wp-content/uploads/2018/06/57_6.png" align=left>
+ <img src="shapes/57.06.png" align=left>
 
 上九爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
@@ -693,4 +693,4 @@
 
 相互为养，井以水养人，经久不竭，人应取此德而勤劳自勉。
 
-# [Xun](e5b7bdxun.md)
+# [Xùn ䷸](e5b7bdxun.md)

@@ -1,6 +1,6 @@
 # 小过 ䷽
 
-<img src="https://i.zgjm.net/d/file/20170331/d11b477572f73d69ac94d5afc6df67c8.jpg" width=160 alt="小过" align=left>
+<img src="shapes/62.10.jpg" width=160 alt="小过" align=left>
 
 小过（xiǎo guò）是震上艮下的卦名，代号是`1:4`。
 “过”（guò），从这儿到那儿，从此时到彼时：过江。
@@ -8,7 +8,7 @@
 `1:4`卦的主卦是`1`卦艮卦，卦象是山，阳数是`1`；客卦是`4`卦震卦，卦象是雷，阳数是`4`。
 
 “过”指经过，过去。“小”指小部分。小过，小小地过去了。
-小过卦是《易经》六十四卦之第62卦。
+
 雷山小过（小过卦）行动有度。这个卦是异卦（下艮上震）相叠。
 艮为山，震为雷，过山雷鸣，不可不畏惧。
 
@@ -268,7 +268,7 @@
 还有《小过》一卦安排在《周易》临近末尾，还有它的特有的《乾》卦 “亢龙有悔”的结构成份。如果弄不清这一问题，也就无法正确地理解《小过》卦，同样也无法正确地理解一部《周易》。
 
 ## 卦意
-### 第62卦 雷山小过（小过卦）行动有度
+### 雷山小过（小过卦）行动有度
 ### 中上卦
 
 象曰：行人路过独木桥，心内惶恐眼里瞧，爽利保你过得去，慢行一定不安牢。
@@ -432,7 +432,7 @@
 ⑮ 眚，灾。与灾同义。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no62leishanxiaoguo.png">
+<img src="shapes/62.11.png">
 
 ### 《断易天机》解
 
@@ -529,7 +529,7 @@
 
 ### 初六变卦：雷山小过 变卦 雷火丰
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/62_1.png" align=left>
+<img src="shapes/62.01.png" align=left>
 
 初六爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -565,7 +565,7 @@
 
 ### 六二变卦：雷山小过 变卦 雷风恒
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/62_2.png" align=left>
+<img src="shapes/62.02.png" align=left>
 
 六二爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -604,7 +604,7 @@
 
 ### 九三变卦：雷山小过 变卦 雷地豫
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/62_3.png" align=left>
+<img src="shapes/62.03.png" align=left>
 
 九三爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -642,7 +642,7 @@
 
 ### 九四变卦：雷山小过 变卦 地山谦
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/62_4.png" align=left>
+<img src="shapes/62.04.png" align=left>
 
 九四爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
@@ -680,7 +680,7 @@
 
 ### 六五变卦 雷山小过 变卦 泽山咸
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/62_5.png" align=left>
+<img src="shapes/62.05.png" align=left>
 
 六五爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -718,7 +718,7 @@
 
 ### 上六变卦：雷山小过 变卦 火山旅
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/62_6.png" align=left>
+<img src="shapes/62.06.png" align=left>
 
 上六爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
@@ -730,4 +730,4 @@
 
 火势不停地向前蔓延，如同途中行人，急于赶路。因而称旅卦。
 　　
-# [Xiaoguo](e5b08fe8bf87xiaoguo.md)
+# [Xiǎo Guò ䷽](e5b08fe8bf87xiaoguo.md)
