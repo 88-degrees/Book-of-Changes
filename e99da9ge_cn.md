@@ -1,6 +1,6 @@
 # 革 ䷰
 
-<img src="https://i.zgjm.net/d/file/20170331/c467d1ab26d089a3c4552fb096e66b6b.jpg" width=160 alt="革" align=left>
+<img src="shapes/49.10.jpg" width=160 alt="革" align=left>
 
 革（gé）是`5:6`卦的卦名，`5:6`是革卦的代号。
 
@@ -494,7 +494,7 @@
 革之时大矣哉！
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no49zehuoge.png">
+<img src="shapes/49.11.png">
 
 ### 《断易天机》解
 
@@ -592,7 +592,7 @@
 
 ### 初九变卦：泽火革 变卦 泽山咸
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/49_1.png" align=left>
+<img src="shapes/49.01.png" align=left>
 
 初九爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -630,7 +630,7 @@
 
 ### 六二变卦：泽火革 变卦 泽天夬
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/49_2.png" align=left>
+<img src="shapes/49.02.png" align=left>
 
 六二爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -668,7 +668,7 @@
 
 ### 九三变卦：泽火革 变卦 泽雷随
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/49_3.png" align=left>
+<img src="shapes/49.03.png" align=left>
 
 九三爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
@@ -706,7 +706,7 @@
 
 ### 九四变卦：泽火革 变卦 水火既济
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/49_4.png" align=left>
+<img src="shapes/49.04.png" align=left>
 
 九四爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -746,7 +746,7 @@
 
 ### 九五变卦：泽火革 变卦 雷火丰
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/49_5.png" align=left>
+<img src="shapes/49.05.png" align=left>
 
 九五爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -784,7 +784,7 @@
 
 ### 上六变卦：泽火革 变卦 天火同人
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/49_6.png" align=left>
+<img src="shapes/49.06.png" align=left>
 
 上六爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -794,4 +794,4 @@
 
 上天下火，火性上升，同于天，上下和同，同舟共济，人际关系和谐，天下大同。
 
-# [Ge](e99da9ge.md)
+# [Gé ䷰](e99da9ge.md)

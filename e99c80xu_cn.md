@@ -1,6 +1,6 @@
 # 需 ䷄
 
-<img src="https://i.zgjm.net/d/file/20170330/70f1e39772f76c210bb30bd2b6b5d1a6.jpg" alt="需" width=160 align=left>
+<img src="shapes/05.10.jpg" alt="需" width=160 align=left>
 
 需（xū）卦是别卦。“需”的意思是等待。需卦的代号是`7:2`。
 
@@ -61,14 +61,14 @@
 本卦因“需”字多次出现，便用它作标题。
 全卦内容主要是出行和客居。
 ② 孚：本义是俘虏，也指获利。
-③ 光亨：意思是 大亨，元亨。
+③ 光亨：意思是大亨，元亨。
 ④ 需：爻辞中“需”的意思是等待，停留。
-⑤ 用：以， 于。恒：常，长久。
+⑤ 用：以，于。恒：常，长久。
 ⑥ 沙：沙地，难走的地。”
-⑦ 言：当作想用，意 思是过错。
-⑧ 泥：．泥泞的地方。
+⑦ 言：当作想用，意思是过错。
+⑧ 泥：泥泞的地方。
 ⑨ 血：血污的地方。
-⑩ 穴；古 时的住所，依地势挖建而成，
+⑩ 穴；古时的住所，依地势挖建而成，
 下半是在地下挖出的小土穴，上半是在地面搭建的屋顶。
 ⑪ 速：请，招。不速：没有邀请。
 
@@ -557,7 +557,7 @@
 入于穴，藏也。从现代角度来说叫家有积粮，从打猎为主的时代叫打到较大的猎物，在未能温饱的时代必然受他人青睐也。故唯敬则自敬，若一毛不拔比禽兽都狠矣。故人当有恻隐之心，思已之患也；人当有羞恶之心，思劳之艰也；人当有辞让之心，思争之害也。
 人类社会毕竟是一个集合的整体，而需求是人人追求的目标，然后局部的安宁说明不了大体的安宁，只有大体的安宁才能带来局部的安宁。因此处富贵之地当知贫贱的痛痒，自持其贵而不可一世，贫富不均而差距过大必然形成两极分化而引起不断争斗。因此不可不慎不可不敬，是以“入于穴，有不速之客三人来，敬之终吉”。
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no5shuitianxu.jpg">
+<img src="shapes/05.11.jpg">
 
 ### 《断易天机》解
 
@@ -652,7 +652,7 @@
 
 ### 初九变卦：水天需 变卦 水风井
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/5_1.png" align=left>
+<img src="shapes/05.01.png" align=left>
 
 初九爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
@@ -692,7 +692,7 @@
 
 ### 九二变卦：水天需 变卦 水火既济
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/5_2.png" align=left>
+<img src="shapes/05.02.png" align=left>
 
 九二爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -730,7 +730,7 @@
 
 ### 九三变卦：水天需 变卦 水泽节
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/5_3.png" align=left>
+<img src="shapes/05.03.png" align=left>
 
 九三爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
@@ -772,7 +772,7 @@
 
 ### 六四变卦：水天需 变卦 泽天夬
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/5_4.png" align=left>
+<img src="shapes/05.04.png" align=left>
 
 六四爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -810,7 +810,7 @@
 
 ### 九五变卦：水天需 变卦 地天泰
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/5_5.png" align=left>
+<img src="shapes/05.05.png" align=left>
 
 九五爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -848,7 +848,7 @@
 
 ### 上六变卦：水天需 变卦 风天小畜
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/5_6.png" align=left>
+<img src="shapes/05.06.png" align=left>
 
 上六爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -860,4 +860,4 @@
 
 力量有限，须待发展到一定程度，才可大有作为。
 
-# [Xu](e99c80xu.md)
+# [Xū ䷄](e99c80xu.md)

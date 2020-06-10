@@ -1,6 +1,6 @@
 # 颐 ䷚
 
-<img src="https://i.zgjm.net/d/file/20170331/5c655af64d11ad08fd8c07cc76989fff.jpg" alt="颐" width=160 align=left>
+<img src="shapes/27.10.jpg" alt="颐" width=160 align=left>
 
 颐（yí）卦展示在像“颐”的形势下各种变化的可能性。
 
@@ -8,7 +8,7 @@
 
 客方的消极被动给了主方积极发展的机会，客方像山，只要不触及客方利益，主方就可以在广阔原野上尽情发展，不过，主方也不能指望从客方得到什么，主方必须着力于“自求口实”。
 
-易经六十四卦中第27卦。象曰：山下有雷，颐。君子以慎言语，节饮食。
+《象》曰：山下有雷，颐。君子以慎言语，节饮食。
 《彖》曰：颐之时大矣哉。颐，贞吉。观颐，自求口实。
 这个卦是异卦（下震上艮）相叠。震为雷，艮为山。山在上而雷在下，外实内虚。
 图中，红色表示当位的爻，天蓝色表示不当位的爻，箭头表示有应。
@@ -471,7 +471,7 @@
 上九：遵循养生之道，先艰难后吉利。有利于渡过大江大河。
 ```
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/no27shanleiji.png">
+<img src="shapes/27.11.png">
  
 ### 《断易天机》解
 
@@ -567,7 +567,7 @@
 
 ### 初九变卦：山雷颐 变卦 山地剥
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/27_1.png" align=left>
+<img src="shapes/27.01.png" align=left>
 
 初九爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -605,7 +605,7 @@
 
 ### 六二变卦：山雷颐 变卦 山泽损
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/27_2.png" align=left>
+<img src="shapes/27.02.png" align=left>
 
 六二爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -649,7 +649,7 @@
 
 ### 六三变卦：山雷颐 变卦 山火贲
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/27_3.png" align=left>
+<img src="shapes/27.03.png" align=left>
 
 六三爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
@@ -688,7 +688,7 @@
 
 ### 六四变卦：山雷颐 变卦 火雷噬嗑
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/27_4.png" align=left>
+<img src="shapes/27.04.png" align=left>
 
 六四爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -726,7 +726,7 @@
 
 ### 六五变卦：山雷颐 变卦 风雷益
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/27_5.png" align=left>
+<img src="shapes/27.05.png" align=left>
 
 六五爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -766,7 +766,7 @@
 
 ### 上九变卦：山雷颐 变卦 地雷复
 
-<img src="http://www.yilusoso.com/wp-content/uploads/2018/06/27_6.png" align=left>
+<img src="shapes/27.06.png" align=left>
 
 上九爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
@@ -778,4 +778,4 @@
 
 动在顺中，内阳外阴，循序运动，进退自如，利于前进。
 
-# [Yi](e9a290yi.md)
+# [Yí ䷚](e9a290yi.md)
