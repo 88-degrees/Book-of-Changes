@@ -1,5 +1,7 @@
 # Bì ䷕
 
+* Adorning
+
 > Chinese: 贲 ䷕ bì
 
 ###### p. 103
@@ -10,21 +12,45 @@
 
 ###### p. 104
 
-1. The first NINE, undivided, shows one adorning (the way of) his feet. He can discard a carriage and walk on foot.
+1.<a name="22.1"></a> The first NINE, undivided, shows one adorning (the way of) his feet. He can discard a carriage and walk on foot.
 
-2. The second SIX, divided, shows one adorning his beard.
+> **䷕** changing to [**䷳**](e889aegen.md)
 
-3. The third NINE, undivided, shows its subject with the appearance of being adorned and bedewed (with rich favours). But let him ever maintain his firm correctness, and there will be good fortune.
+> Matching Line in Adjacent Hexagram: [21.1](e599ace59791shike.md#21.1)
 
-4. The fourth SIX, divided, shows one looking as if adorned, but only in white. As if (mounted on) a white horse, and furnished with wings, (he seeks union with the subject of the first line), while (the intervening third pursues), not as a robber, but intent on a matrimonial alliance.
+2.<a name="22.2"></a> The second SIX, divided, shows one adorning his beard.
 
-5. The fifth SIX, divided, shows its subject adorned by (the occupants of) the heights and gardens. He bears his roll of silk, small and slight. He may appear stingy; but there will be good fortune in the end.
+> **䷕** changing to [**䷙**](e5a4a7e89384daxu.md)
 
-6. The sixth NINE, undivided, shows one with white as his (only) ornament. There will be no error.
+> Matching Line in Adjacent Hexagram: [21.2](e599ace59791shike.md#21.2)
+
+3.<a name="22.3"></a> The third NINE, undivided, shows its subject with the appearance of being adorned and bedewed (with rich favours). But let him ever maintain his firm correctness, and there will be good fortune.
+
+> **䷕** changing to [**䷚**](e9a290yi.md)
+
+> Matching Line in Adjacent Hexagram: [21.3](e599ace59791shike.md#21.3)
+
+4.<a name="22.4"></a> The fourth SIX, divided, shows one looking as if adorned, but only in white. As if (mounted on) a white horse, and furnished with wings, (he seeks union with the subject of the first line), while (the intervening third pursues), not as a robber, but intent on a matrimonial alliance.
+
+> **䷕** changing to [**䷝**](e7a6bbli.md)
+
+> Matching Line in Adjacent Hexagram: [21.4](e599ace59791shike.md#21.4)
+
+5.<a name="22.5"></a> The fifth SIX, divided, shows its subject adorned by (the occupants of) the heights and gardens. He bears his roll of silk, small and slight. He may appear stingy; but there will be good fortune in the end.
+
+> **䷕** changing to [**䷤**](e5aeb6e4babajiaren.md)
+
+> Matching Line in Adjacent Hexagram: [21.5](e599ace59791shike.md#21.5)
+
+6.<a name="22.6"></a> The sixth NINE, undivided, shows one with white as his (only) ornament. There will be no error.
+
+> **䷕** changing to [**䷣**](e6988ee5a4b7mingyi.md)
+
+> Matching Line in Adjacent Hexagram: [21.6](e599ace59791shike.md#21.6)
 
 ## Notes
 
-104:XXII The character **Bì ䷕** is the symbol of what is ornamental and of the act of adorning. As there is ornament in nature, so should there be in society; but its place is secondary to that of what is substantial. This is the view of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) in his [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). The symbolism of the separate lines is sometimes fantastic.
+The character **Bì ䷕** is the symbol of what is ornamental and of the act of adorning. As there is ornament in nature, so should there be in society; but its place is secondary to that of what is substantial. This is the view of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) in his [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). The symbolism of the separate lines is sometimes fantastic.
 
 Line 1 is strong, and in an odd place. It is at the very bottom of the hexagram, and is the first line of Lî, the trigram. for fire or light, and suggesting what is elegant and bright. Its subject has nothing to do but to attend to himself. Thus he cultivates -- adorns -- himself in his humble position; but if need be, righteousness requiring it, he can give up every luxury and indulgence.
 
@@ -34,8 +60,8 @@ Line 3 is strong, and between two weak lines, which adorn it, and bestow their f
 
 Line 4 has its proper correlate in 1, from whose strength it should receive ornament, but 2 and the strong 3 intervene and keep them apart, so that the ornament is only white, and of no bright colour. Line 4, however, is faithful to 1, and earnest for their union. And finally line 3 appears in a good character, and not with the purpose to injure, so that the union of 1 and 4 takes place. All this is intended to indicate how ornament recognises the superiority of solidity. Compare the symbolism of the second line of [**Zhūn ䷂**](e5b1afzhun.md) (No. 3), and that of the topmost line of [**Kuí ䷥**](e79dbdkui.md) (No. 38).
 
-Line .5 is in the place of honour, and has no proper correlate in 2. It therefore associates with the strong 6, which is symbolised by the heights and gardens round a city, and serving both to protect and to beautify it. Thus the subject of the line receives adorning from without, and does not of itself try to manifest it. Moreover, in his weakness, his offerings of ceremony are poor and mean. But, as Confucius said, 'In ceremonies it is better to be sparing than extravagant.' Hence that stinginess does not prevent a good auspice.
+Line 5 is in the place of honour, and has no proper correlate in 2. It therefore associates with the strong 6, which is symbolised by the heights and gardens round a city, and serving both to protect and to beautify it. Thus the subject of the line receives adorning from without, and does not of itself try to manifest it. Moreover, in his weakness, his offerings of ceremony are poor and mean. But, as Confucius said, 'In ceremonies it is better to be sparing than extravagant.' Hence that stinginess does not prevent a good auspice.
 
 Line 6 is at the top of the hexagram. Ornament has had its course, and here there is a return to pure, 'white,' simplicity. Substantiality is better than ornament.
 
-# [贲](e8b4b2bi_cn.md)
+# [贲 ䷕](e8b4b2bi_cn.md)

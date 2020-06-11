@@ -1,5 +1,7 @@
 # Shì Kè ䷔
 
+* Gnawing Through
+
 > Chinese: 噬嗑 ䷔ shì kè
 
 ![Shike](https://88o.io/wp-content/uploads/2018/09/21-e599ace59791shike.jpg)
@@ -8,17 +10,41 @@
 
 1.<a name="21.1"></a> The first NINE, undivided, shows one with his feet in the stocks and deprived of his toes. There will be no error.
 
+> **䷔** changing to [**䷢**](e6998bjin.md)
+
+> Matching Line in Adjacent Hexagram: [22.1](e8b4b2bi.md#22.1)
+
 2.<a name="21.2"></a> The second SIX, divided, shows one biting through the soft flesh, and (going on to) bite off the nose. There will be no error.
+
+> **䷔** changing to [**䷥**](e79dbdkui.md)
+
+> Matching Line in Adjacent Hexagram: [22.2](e8b4b2bi.md#22.2)
 
 ###### p. 102
 
 3.<a name="21.3"></a> The third SIX, divided, shows one gnawing dried flesh, and meeting with what is disagreeable. There will be occasion for some small regret, but no (great) error.
 
+> **䷔** changing to [**䷝**](e7a6bbli.md)
+
+> Matching Line in Adjacent Hexagram: [22.3](e8b4b2bi.md#22.3)
+
 4.<a name="21.4"></a> The fourth NINE, undivided, shows one gnawing the flesh dried on the bone, and getting the pledges of money and arrows. It will be advantageous to him to realise the difficulty of his task and be firm, -- in which case there will be good fortune.
+
+> **䷔** changing to [**䷚**](e9a290yi.md)
+
+> Matching Line in Adjacent Hexagram: [22.4](e8b4b2bi.md#22.4)
 
 5.<a name="21.5"></a> The fifth SIX, divided, shows one gnawing at dried flesh, and finding the yellow gold. Let him be firm and correct, realising the peril (of his position). There will be no error.
 
+> **䷔** changing to [**䷘**](e697a0e5a684wuwang.md)
+
+> Matching Line in Adjacent Hexagram: [22.5](e8b4b2bi.md#22.5)
+
 6.<a name="21.6"></a> The sixth NINE, undivided, shows one wearing the cangue, and deprived of his cars. There will be evil.
+
+> **䷔** changing to [**䷲**](e99c87zhen.md)
+
+> Matching Line in Adjacent Hexagram: [22.6](e8b4b2bi.md#22.6)
 
 ## Notes
 
