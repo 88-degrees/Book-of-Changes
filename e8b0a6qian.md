@@ -50,7 +50,7 @@ stream may be crossed with this, and there will be good fortune.
 
 ## Notes
 
-An essay on humility rightly follows that on abundant possessions. The third line, which is a whole line amid five others divided, occupying the topmost place in the lower trigram, is held by the [**Kāngxī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors and many others to be 'the lord of the hexagram,' the representative of humility, strong, but abasing itself. There is nothing here in the text to make us enter farther on the symbolism of the figure. Humility is the way to permanent success.
+An essay on humility rightly follows that on abundant possessions. The third line, which is a whole line amid five others divided, occupying the topmost place in the lower trigram, is held by the [**Kāng Xī **](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors and many others to be 'the lord of the hexagram,' the representative of humility, strong, but abasing itself. There is nothing here in the text to make us enter farther on the symbolism of the figure. Humility is the way to permanent success.
 
 A weak line, at the lowest place of the figure, is the fitting symbol of the superior man adding humility to humility.
 
