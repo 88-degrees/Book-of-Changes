@@ -1,5 +1,7 @@
 # Guān ䷓
 
+* Looking, Contemplating
+
 > Chinese: 观 ䷓ guān
 
 ###### p. 99
@@ -13,23 +15,47 @@ but not (yet) presented his offerings; -- with sincerity
 
 and an appearance of dignity (commanding reverent regard).
 
-1. The first SIX, divided, shows the looking of a lad; -- not blamable in men of inferior rank, but matter for regret in superior men.
+1.<a name="20.1"></a> The first SIX, divided, shows the looking of a lad; -- not blamable in men of inferior rank, but matter for regret in superior men.
 
-2. The second SIX, divided, shows one peeping out from a door. It would be advantageous if it were (merely) the firm correctness of a female.
+> **䷓** changing to [**䷩**](e79b8ayi.md)
 
-3. The third SIX, divided, shows one looking at (the course of) his own life, to advance or recede (accordingly).
+> Matching Line in Adjacent Hexagram: [19.1](e4b8b4lin.md#19.1)
 
-4. The fourth SIX, divided, shows one contemplating the glory of the kingdom. It will be advantageous for him, being such as he is, (to seek) to be a guest of the king.
+2.<a name="20.2"></a> The second SIX, divided, shows one peeping out from a door. It would be advantageous if it were (merely) the firm correctness of a female.
 
-5. The fifth NINE, undivided, shows its subject contemplating his own life(-course). A superior man, he will (thus) fall into no error.
+> **䷓** changing to [**䷺**](e6b6a3huan.md)
 
-6. The sixth NINE, undivided, shows its subject contemplating his character to see if it be indeed that of a superior man. He will not fall into error.
+> Matching Line in Adjacent Hexagram: [19.2](e4b8b4lin.md#19.2)
+
+3.<a name="20.3"></a> The third SIX, divided, shows one looking at (the course of) his own life, to advance or recede (accordingly).
+
+> **䷓** changing to [**䷴**](e6b890jian.md)
+
+> Matching Line in Adjacent Hexagram: [19.3](e4b8b4lin.md#19.3)
+
+4.<a name="20.4"></a> The fourth SIX, divided, shows one contemplating the glory of the kingdom. It will be advantageous for him, being such as he is, (to seek) to be a guest of the king.
+
+> **䷓** changing to [**䷋**](e590a6pi.md)
+
+> Matching Line in Adjacent Hexagram: [19.4](e4b8b4lin.md#19.4)
+
+5.<a name="20.5"></a> The fifth NINE, undivided, shows its subject contemplating his own life(-course). A superior man, he will (thus) fall into no error.
+
+> **䷓** changing to [**䷖**](e589a5bo.md)
+
+> Matching Line in Adjacent Hexagram: [19.5](e4b8b4lin.md#19.5)
+
+6.<a name="20.6"></a> The sixth NINE, undivided, shows its subject contemplating his character to see if it be indeed that of a superior man. He will not fall into error.
+
+> **䷓** changing to [**䷇**](e6af94bi.md)
+
+> Matching Line in Adjacent Hexagram: [19.6](e4b8b4lin.md#19.6)
 
 ###### p. 101
 
 ## Notes
 
-The Chinese character 观 (Guān), from which this hexagram is named, is used in it in two senses. In the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), the first paragraph of the treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), and the paragraph on the Great Symbolism, it denotes showing, manifesting; in all other places it denotes contemplating, looking at. The subject of the hexagram is the sovereign and his subjects, how he manifests himself to them, and how they contemplate him. The two upper, undivided, lines belong to the sovereign; the four weak lines below them are his subjects, -- ministers and others who look up at him. **Guān ䷓** is the hexagram of the eighth month.
+The Chinese character **观** (Guān), from which this hexagram is named, is used in it in two senses. In the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), the first paragraph of the treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), and the paragraph on the Great Symbolism, it denotes showing, manifesting; in all other places it denotes contemplating, looking at. The subject of the hexagram is the sovereign and his subjects, how he manifests himself to them, and how they contemplate him. The two upper, undivided, lines belong to the sovereign; the four weak lines below them are his subjects, -- ministers and others who look up at him. **Guān ䷓** is the hexagram of the eighth month.
 
 In the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), [King Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) symbolises the sovereign by a worshipper when he is most solemn in his religious service, at the commencement of it, full of sincerity and with a dignified carriage.
 
@@ -45,4 +71,4 @@ Line 5 is strong, and in the place of the ruler. He is a superior man, but this 
 
 There is a slight difference in the 6th paragraph from the 5th, which can hardly be expressed in a translation. By making a change in the punctuation, however, the different significance may be brought out. Line 6 is strong, and should be considered out of the work of the hexagram, but its subject is still possessed by the spirit of its idea, and is led to self-examination.
 
-# [观](e8a782guan_cn.md)
+# [观 ䷓](e8a782guan_cn.md)

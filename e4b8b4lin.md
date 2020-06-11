@@ -1,5 +1,7 @@
 # Lín ䷒
 
+* Approaching
+
 > Chinese: 临 ䷒ lín
 
 ###### p. 97
@@ -15,19 +17,43 @@ while it will be advantageous to be firmly correct. In the eighth month there wi
 
 second line). Through his firm correctness there will be good fortune.
 
+> **䷒** changing to [**䷆**](e5b888shi.md)
+
+> Matching Line in Adjacent Hexagram: [20.1](e8a782guan.md#20.1)
+
 2.<a name="19.2"></a> The second NINE, undivided, shows its subject advancing in company (with the subject of the first line). There will be good fortune; (advancing) will be in every way advantageous.
+
+> **䷒** changing to [**䷗**](e5a48dfu.md)
+
+> Matching Line in Adjacent Hexagram: [20.2](e8a782guan.md#20.2)
 
 3.<a name="19.3"></a> The third SIX, divided, shows one well pleased (indeed) to advance, (but whose action) will be in no way advantageous. If he become anxious about it (however), there will be no error.
 
+> **䷒** changing to [**䷊**](e6b3b0tai.md)
+
+> Matching Line in Adjacent Hexagram: [20.3](e8a782guan.md#20.3)
+
 4.<a name="19.4"></a> The fourth SIX, divided, shows one advancing in the highest mode. There will be no error.
+
+> **䷒** changing to [**䷵**](e5bd92e5a6b9guimei.md)
+
+> Matching Line in Adjacent Hexagram: [20.4](e8a782guan.md#20.4)
 
 5.<a name="19.5"></a> The fifth SIX, divided, shows the advance of wisdom, such as befits the great ruler. There will be good fortune.
 
+> **䷒** changing to [**䷻**](e88a82jie.md)
+
+> Matching Line in Adjacent Hexagram: [20.5](e8a782guan.md#20.5)
+
 6.<a name="19.6"></a> The sixth SIX, divided, shows the advance of honesty and generosity. There will be good fortune, and no error.
+
+> **䷒** changing to [**䷨**](e68d9fsun.md)
+
+> Matching Line in Adjacent Hexagram: [20.6](e8a782guan.md#20.6)
 
 ## Notes
 
-In [Appendix VI](appendix06s1.md) **Lín ䷒** is explained as meaning 'great.' The writer, having misunderstood the meaning of the previous [**Gǔ ䷑**](e89b8agu.md), subjoins -- 'He who performs such services may become "great."' But **Lín ䷒** denotes the approach of authority, -- to inspect, to comfort, or to rule. When we look at the figure, we see two strong undivided lines advancing on the four weak lines above them, and thence follows the assurance that their action will be powerful and successful. That action must be governed by rectitude, however, and by caution grounded on the changing character of all conditions and events.
+In [Appendix VI](appendix06s1.md), **Lín ䷒** is explained as meaning 'great.' The writer, having misunderstood the meaning of the previous [**Gǔ ䷑**](e89b8agu.md), subjoins -- 'He who performs such services may become "great."' But **Lín ䷒** denotes the approach of authority, -- to inspect, to comfort, or to rule. When we look at the figure, we see two strong undivided lines advancing on the four weak lines above them, and thence follows the assurance that their action will be powerful and successful. That action must be governed by rectitude, however, and by caution grounded on the changing character of all conditions and events.
 
 The meaning of the concluding sentence is given in [Appendix I](appendix01s1.md#fn_143) as simply being -- that, 'the advancing power will decay in no long time.' Lû Kăn-khî (Míng dynasty) says: -- 'The sun (or the day) is the symbol of what is `Yáng`; and the moon is the symbol of what is `Yīn`. Eight is the number of the second of the four emblematic figures (the smaller `Yīn`), and seven is the number of the third of them (the smaller `Yáng`). Hence to indicate the period of the coming of what is `Yīn`, we use the phrase, "the eighth month"; and to indicate the period of the coming of what is <sub>[p. 99](e8a782guan.md#p-99)</sub> `Yáng`, we use the phrase, "the seventh day".'
 
