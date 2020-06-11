@@ -44,7 +44,7 @@ Line 1, at the commencement of the hexagram, tells us that the evil has not yet 
 
 > Matching Line in Adjacent Hexagram: [60.1](e88a82jie.md#60.1)
 
-Line 2 is strong, but in an even place. That place is, indeed, the central, but the attribute of the lower trigram **Kǎn ☵** is peril. These conditions indicate evil, and action will be dangerous; but the subject of 2 looks to 1 below him, and takes shelter in union with its subject. Since the commentary of [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), this has been the interpretation of the line.
+Line 2 is strong, but in an even place. That place is, indeed, the central, but the attribute of the lower trigram **Kǎn ☵** is peril. These conditions indicate evil, and action will be dangerous; but the subject of 2 looks to 1 below him, and takes shelter in union with its subject. Since the commentary of [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), this has been the interpretation of the line.
 
 > **䷺** changing to [**䷓**](e8a782guan.md)
 

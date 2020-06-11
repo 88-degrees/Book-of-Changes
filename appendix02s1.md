@@ -600,7 +600,7 @@ It is hardly possible to make what is said under line 5, on the royal huntings, 
 
 <a name="fn_198"></a>[279:IX](#fr_198) The suitability of the symbolism here is made all to turn on the wind. 'Wind,' says Kû, 'is simply the air, without solid substance; it can restrain, but not for long.' The wind moves in the sky for a time, and then ceases. The process of thought from the symbol to the lesson is not easily traced. Is it meant to say that virtue manifesting itself outwardly -- in the carriage and speech -- is, however good, but a small matter, admirable in an officer, or even a feudal lord, but that we look for more in a king, the Head of a nation?
 
-[Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) calls attention to the addition to the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s explanation in the notice on line 2, that 'it is in the central place,' adding that this explains how the subject of the line restrains himself, and does not go beyond what is due from him.
+[Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) calls attention to the addition to the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s explanation in the notice on line 2, that 'it is in the central place,' adding that this explains how the subject of the line restrains himself, and does not go beyond what is due from him.
 
 Only half of the symbolism in the Text of line 3 is taken up here. Line 1, it is said, is far from line 4, the mauvais sujet of the hexagram **䷈**, and little affected by it; line 2 is nearer, but, being in the centre, suffers little; line 3 is close on it, and, not being in the centre, comes under its evil influence; while line 6 gives no help.
 
@@ -614,13 +614,13 @@ Under line 6 we are told that the restraint is at its height, and the restrained
 
 > Good man! hold hard. Obstructions rule.'
 
-<a name="fn_199"></a>[281:X](#fr_199) 'The sky above and a marsh lying below it is true,' says [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'in nature and reason; and so should be the rules of propriety on which men tread.' This symbolism is far-fetched; and so is the application of it, if in any way drawn from it. But it is true that the members of a community or nation must keep their several places and duties in order to its being in a state of good order.
+<a name="fn_199"></a>[281:X](#fr_199) 'The sky above and a marsh lying below it is true,' says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'in nature and reason; and so should be the rules of propriety on which men tread.' This symbolism is far-fetched; and so is the application of it, if in any way drawn from it. But it is true that the members of a community or nation must keep their several places and duties in order to its being in a state of good order.
 
 For lines 1, 2, 3, and 4, see notes on the Text.
 
 If we might translate the conclusion of what is said on line 5, by -- 'in the position that is correctly appropriate to him,' the meaning would he more clear, though still the assumption which I have pointed out on the Text would underlie the statement; and as evidently as there, what is said under line 6 is but a truism.
 
-<a name="fn_200"></a>[282:XI](#fr_200) It is difficult to translate the application of 'the Great Symbolism' here, so that it shall be intelligible to a reader. [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'A ruler should frame his laws; and regulations so that the people may avail themselves of the seasons of heaven, and of the advantages afforded by the earth, assisting their transforming and nourishing services, and completing their abundant and admirable benefits. Thus the breath of spring, calling forth all vegetable life, gives the law for sowing and planting; the breath of autumn, completing and solidifying all things, gives the law for ingathering and storing,' &c.
+<a name="fn_200"></a>[282:XI](#fr_200) It is difficult to translate the application of 'the Great Symbolism' here, so that it shall be intelligible to a reader. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'A ruler should frame his laws; and regulations so that the people may avail themselves of the seasons of heaven, and of the advantages afforded by the earth, assisting their transforming and nourishing services, and completing their abundant and admirable benefits. Thus the breath of spring, calling forth all vegetable life, gives the law for sowing and planting; the breath of autumn, completing and solidifying all things, gives the law for ingathering and storing,' &c.
 
 The subject of line 1 has 'his will on what is external to himself:' -- he is bent on going forward.
 
@@ -678,7 +678,7 @@ In line 6 the action of the hexagram is over. If one puts off changing his evil 
 
 Paragraph 1 consists of two lines that rhyme; and paragraphs 4 (two lines), 5, and 6 do the same. According to [Gù Yánwǔ](https://en.wikipedia.org/wiki/Gu_Yanwu), paragraphs 2 and 3 also rhyme; but this appears to me doubtful. The symbolism of these paragraphs is sufficiently explained in the notes on the Text. Some peculiarities in their style (in Chinese) are owing to the bonds of the rhyme.
 
-<a name="fn_207"></a>[291:XVIII](#fr_207) 'When the wind,' says [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'encounters the mountain, it is driven back, and the things about are all scattered in disorder; such is the emblem of the state denoted by [**Gǔ ䷑**](e89b8agu.md).'
+<a name="fn_207"></a>[291:XVIII](#fr_207) 'When the wind,' says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'encounters the mountain, it is driven back, and the things about are all scattered in disorder; such is the emblem of the state denoted by [**Gǔ ䷑**](e89b8agu.md).'
 
 'The nourishing of virtue' appears especially in line 6; all the other lines belong to the 'helping of the people.'
 
@@ -698,15 +698,15 @@ Line 3. 'He will not err in the path to be pursued;' -- advancing or receding as
 
 Line 4. 'The glory of the kingdom' is the virtue of the sovereign and the character of his administration. With the sentiment compare [Mencius, VII, i, chap. 21. 2](https://www.sacred-texts.com/cfu/menc/menc07.htm).
 
-<a name="fn_210"></a>[294:XXI](#fr_210) [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says that thunder and lightning are always found together, and hence their trigrams go together to give the idea of union intended in [**Shì Kè ䷔**](e599ace59791shike.md). The one trigram symbolising majesty and the other brightness or intelligence, the application of the hexagram here is easier and more natural than in many other cases.
+<a name="fn_210"></a>[294:XXI](#fr_210) [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says that thunder and lightning are always found together, and hence their trigrams go together to give the idea of union intended in [**Shì Kè ䷔**](e599ace59791shike.md). The one trigram symbolising majesty and the other brightness or intelligence, the application of the hexagram here is easier and more natural than in many other cases.
 
 1. 'There is no walking:' -- that is, the subject of the line will not dare to offend any more.
 
-2. '"Being mounted on the strong first line" means,' says [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'punishing a strong and vehement man, when severity is required, as is denoted by the central position of the line.'
+2. '"Being mounted on the strong first line" means,' says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'punishing a strong and vehement man, when severity is required, as is denoted by the central position of the line.'
 
 4. 'His light has not been sufficiently displayed;' that is, there is still something for him to do: -- he has to realise the difficulty of his position and be firm.
 
-<a name="fn_211"></a>[295:XXII](#fr_211) 'A mountain,' says [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'is a place where we find grass, trees, and a hundred other things. A fire burning below it throws up its light, and brings them all Out in beauty; and this gives the idea of ornament, or being ornamented. The various processes of government are small matters, and elegance and ornament help their course; but great matters of judgment demand the simple, unornamented truth.'
+<a name="fn_211"></a>[295:XXII](#fr_211) 'A mountain,' says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'is a place where we find grass, trees, and a hundred other things. A fire burning below it throws up its light, and brings them all Out in beauty; and this gives the idea of ornament, or being ornamented. The various processes of government are small matters, and elegance and ornament help their course; but great matters of judgment demand the simple, unornamented truth.'
 
 The subject of line 1 does not care for and does not need ornament. He will walk in the way of righteousness without it.
 
@@ -722,7 +722,7 @@ The subject of line 6 has more of the spirit of the hexagram than in most hexagr
 
 It is hard to tell whether 'the lowest' in paragraph 1 should be supplemented as I have done. If not, then the explanation is a mere truism.
 
-[Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) is precise and decisive in supplementing the explanation of paragraph 2 as in the translation.
+[Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) is precise and decisive in supplementing the explanation of paragraph 2 as in the translation.
 
 See on the Text of lines 3 and 4.
 
@@ -750,7 +750,7 @@ Paragraph 5. Sickness ought not to happen to one who <sub>[p. 300](#p-300)</sub>
 
 Paragraph 6. 'When a thing is over and done, submission and acquiescence are what are required, and not renewed attempts at action.'
 
-<a name="fn_215"></a>[300:XXVI](#fr_215) I have quoted, in the Introduction, [p. 37](https://sacred-texts.com/ich/icintr03.htm#page_37), [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi)'s remark on the Great Symbolism here. [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'Heaven is the greatest of all things, and its being in the midst of a mountain gives us the idea of a very large accumulation. And so great [p. 301](#p-301) is the labour of the superior man in learning, acquiring, and remembering, to accumulate his virtue.'
+<a name="fn_215"></a>[300:XXVI](#fr_215) I have quoted, in the Introduction, [p. 37](https://sacred-texts.com/ich/icintr03.htm#page_37), [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi)'s remark on the Great Symbolism here. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'Heaven is the greatest of all things, and its being in the midst of a mountain gives us the idea of a very large accumulation. And so great [p. 301](#p-301) is the labour of the superior man in learning, acquiring, and remembering, to accumulate his virtue.'
 
 Paragraph 1. The 'calamity' is that of opposition from, or repression by, the subject of line 4.
 
@@ -766,7 +766,7 @@ Paragraph 2. Neither the subject of line 1, nor of line 6, is the proper associa
 
 The other paragraphs are sufficiently illustrated in the notes on the Text.
 
-<a name="fn_217"></a>[303:XXVIII](#fr_217) [Guǎnzǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says on the Great Symbolism: -- 'The waters of a marsh moisten and nourish the trees. When here it is said that they destroy and extinguish the trees, their action is very extraordinary.' This explanation is very far-fetched; and so is what the same scholar says on the application of it. I need not give it here, nor have I found, or myself made out, any other more easy and natural.
+<a name="fn_217"></a>[303:XXVIII](#fr_217) [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says on the Great Symbolism: -- 'The waters of a marsh moisten and nourish the trees. When here it is said that they destroy and extinguish the trees, their action is very extraordinary.' This explanation is very far-fetched; and so is what the same scholar says on the application of it. I need not give it here, nor have I found, or myself made out, any other more easy and natural.
 
 Paragraph 2. 'Such an association is extraordinary:' -- the characters also imply, perhaps, that it is successful.
 
