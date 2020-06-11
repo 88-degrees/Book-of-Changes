@@ -1,4 +1,4 @@
-# Guī mèi ䷵
+# Guī Mèi ䷵
 
 > Chinese: 归妹 ䷵ guī mèi
 
@@ -6,7 +6,7 @@
 
 ![Guimei](https://88o.io/wp-content/uploads/2018/09/54-e5bd92e5a6b9guimei.jpg)
 
-**Guī mèi ䷵** indicates that (under the conditions which it denotes) action will be evil, and in no wise advantageous.
+**Guī Mèi ䷵** indicates that (under the conditions which it denotes) action will be evil, and in no wise advantageous.
 
 ###### p. 181
 
@@ -28,7 +28,7 @@ one leg who yet manages to tramp along. Going forward will be fortunate.
 
 ## Notes
 
-**Guīmèi ䷵** is a common way of saying that a young lady is married, or, literally, 'is going home.' If the order of the characters be reversed, the verb kwei will be transitive, and the phrase will signify 'the marrying away of a daughter,' or 'the giving the young lady in marriage.' In the name of this hexagram, Kwei is used with this transitive force. But Mei means 'a younger sister,' and not merely a young lady or a daughter. **Guīmèi ䷵** might be equivalent to our 'giving in marriage;' but we shall find [p. 183](e4b8b0feng.md#p-183) that the special term has a special appropriateness. The [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) makes the hexagram give a bad auspice concerning its subject; and for this the following reasons are given: -- According to Win's symbolism of the trigrams, **Duì ☱**, the lower trigram here, denotes the youngest daughter, and **Zhèn ☳**, the upper trigram, the oldest son. And as the action of the hexagram begins with that of the lower trigram, we have in the figure two violations of propriety. First, the marriage represented is initiated by the lady and her friends. She goes to her future home instead of the bridegroom coming to fetch her. Second, the parties are unequally matched. There ought not to be such disparity of age between them. Another reason assigned for the bad auspice is that lines 2, 3, 4, and 5 are all in places not suited to them, quite different from the corresponding lines in the preceding hexagram.
+**Guī Mèi ䷵** is a common way of saying that a young lady is married, or, literally, 'is going home.' If the order of the characters be reversed, the verb kwei will be transitive, and the phrase will signify 'the marrying away of a daughter,' or 'the giving the young lady in marriage.' In the name of this hexagram, Kwei is used with this transitive force. But Mei means 'a younger sister,' and not merely a young lady or a daughter. **Guī Mèi ䷵** might be equivalent to our 'giving in marriage;' but we shall find <sub>[p. 183](e4b8b0feng.md#p-183)</sub> that the special term has a special appropriateness. The [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) makes the hexagram give a bad auspice concerning its subject; and for this the following reasons are given: -- According to Win's symbolism of the trigrams, **Duì ☱**, the lower trigram here, denotes the youngest daughter, and **Zhèn ☳**, the upper trigram, the oldest son. And as the action of the hexagram begins with that of the lower trigram, we have in the figure two violations of propriety. First, the marriage represented is initiated by the lady and her friends. She goes to her future home instead of the bridegroom coming to fetch her. Second, the parties are unequally matched. There ought not to be such disparity of age between them. Another reason assigned for the bad auspice is that lines 2, 3, 4, and 5 are all in places not suited to them, quite different from the corresponding lines in the preceding hexagram.
 
 Is then such a marriage as the above, or marriage in general, the theme of the hexagram? I think not. The marriage comes in, as in the preceding essay, by way of illustration. With all the abuses belonging to it as an institution of his country, as will immediately appear, the writer acknowledged it without saying a word in deprecation or correction of those abuses; but from the case he selected he wanted to set forth some principles which should obtain in the relation between a ruler and his ministers. This view is insisted on in Wan King's 'New Collection of Comments on the Yì (A. D. 1686).'
 
@@ -44,4 +44,4 @@ King [Dìyǐ](https://en.wikipedia.org/wiki/Di_Yi) has been already mentioned un
 
 Line 6 is weak, at the top of the hexagram, and without a proper correlate. Hence its auspice is evil. The marriage-contract is broken, according to [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), and does not take effect. The parties mentioned in the paragraph appear engaged in the temple, offering or sacrificing to the spirits of their ancestors. But the woman's basket which should contain her offerings (The Shih, I, ii, ode 4) is empty, and the man attempts to perform his part in slaying the victim ([The Shih, II, vi, ode 6. 5](https://www.sacred-texts.com/cfu/sbe03/sbe03075.htm)) without effect.
 
-# [归妹](e5bd92e5a6b9guimei_cn.md)
+# [归妹 ䷵](e5bd92e5a6b9guimei_cn.md)
