@@ -64,4 +64,4 @@ The symbolism of the lines is various. Paragraph 2 presents to us the earth itse
 
 See the note on the [sixth line of hexagram 1, ䷀](e4b9beqian.md#1.6). What is there said to be 'beyond the proper limits' takes place here 'in the wild.' The humble subject of the divided line is transformed into a <sub>[p. 62](e5b1afzhun.md#p-62)</sub> dragon, and fights with the true dragon, the subject of the undivided line. They fight and bleed, and their blood is of the colour proper to heaven or the sky, and the colour proper to the earth. Paragraph 7 supposes that the hexagram **Kūn ䷁** should become changed into [**Qián ䷀**](e4b9beqian.md) -- the result of which would be good.
 
-# [坤](e59da4kun_cn.md)
+# [坤 ䷁](e59da4kun_cn.md)
