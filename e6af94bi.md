@@ -1,56 +1,54 @@
 # Bǐ ䷇
 
+* Union, Attachment
+
 > Chinese: 比 ䷇ bǐ
 
 ###### p. 73
 
 ![Bi](https://88o.io/wp-content/uploads/2018/09/08-e6af94bi.jpg)
 
-**Bǐ ䷇** indicates that (under the conditions which it supposes) there is good fortune. But let (the principal party intended in it) re-examine himself, (as if) 
+**Bǐ ䷇** indicates that (under the conditions which it supposes) there is good fortune. But let (the principal party intended in it) re-examine himself, (as if) by divination, whether his virtue be great, unintermitting, and firm. If it be so, there will be no error. Those who have not rest will then come to him; and with those who are (too) late in coming it will be ill.
 
 ###### p. 74
-
-by divination, whether his virtue be great, unintermitting, and firm. If it be so, there will be no error. Those who have not rest will then come to him; and with those who are (too) late in coming it will be ill.
 
 1.<a name="8.1"></a> The first SIX, divided, shows its subject seeking by his sincerity to win the attachment of his object. There will be no error. Let (the breast) be full of sincerity as an earthenware vessel is of its contents, and it will in the end bring other advantages.
 
 > **䷇** changing to [**䷂**](e5b1afzhun.md)
 
-> Matching Line in Adjacent Hexagram: [7.1](e5b888shi.md#7.1)
+> Matching Line 1 in Adjacent Hexagram: [**䷆**](e5b888shi.md#7.1)
 
 2.<a name="8.2"></a> In the second SIX, divided, we see the movement towards union and attachment proceeding from the inward (mind). With firm correctness there will be good fortune.
 
 > **䷇** changing to [**䷜**](e59d8ekan.md)
 
-> Matching Line in Adjacent Hexagram: [7.2](e5b888shi.md#7.2)
+> Matching Line 2 in Adjacent Hexagram: [**䷆**](e5b888shi.md#7.2)
 
 3.<a name="8.3"></a> In the third SIX, divided, we see its subject seeking for union with such as ought not to be associated with.
 
 > **䷇** changing to [**䷦**](e8b987jian.md)
 
-> Matching Line in Adjacent Hexagram: [7.3](e5b888shi.md#7.3)
+> Matching Line 3 in Adjacent Hexagram: [**䷆**](e5b888shi.md#7.3)
 
-4.<a name="8.4"></a> In the fourth SIX, divided, we see its subject
+4.<a name="8.4"></a> In the fourth SIX, divided, we see its subject seeking for union with the one beyond himself. With firm correctness there will be good fortune.
 
 ###### p. 75
 
-seeking for union with the one beyond himself. With firm correctness there will be good fortune.
-
 > **䷇** changing to [**䷬**](e89083cui.md)
 
-> Matching Line in Adjacent Hexagram: [7.4](e5b888shi.md#7.4)
+> Matching Line 4 in Adjacent Hexagram: [**䷆**](e5b888shi.md#7.4)
 
 5.<a name="8.5"></a> The fifth NINE, undivided, affords the most illustrious instance of seeking union and attachment. (We seem to see in it) the king urging his pursuit of the game (only) in three directions, and allowing the escape of all the animals before him, while the people of his towns do not warn one another (to prevent it). There will be good fortune.
 
 > **䷇** changing to [**䷁**](e59da4kun.md)
 
-> Matching Line in Adjacent Hexagram: [7.5](e5b888shi.md#7.5)
+> Matching Line 5 in Adjacent Hexagram: [**䷆**](e5b888shi.md#7.5)
 
 6.<a name="8.6"></a> In the topmost SIX, divided, we see one seeking union and attachment without having taken the first step (to such an end). There will be evil.
 
 > **䷇** changing to [**䷓**](e8a782guan.md)
 
-> Matching Line in Adjacent Hexagram: [7.6](e5b888shi.md#7.6)
+> Matching Line 6 in Adjacent Hexagram: [**䷆**](e5b888shi.md#7.6)
 
 ## Notes
 
@@ -70,4 +68,4 @@ The subject of line 5 is the king, who must be the centre of union. The ancient 
 
 A weak line being in the 6th place, which is appropriate to it, its subject is supposed to be trying to promote union among and with the subjects of the lines below. It is too late. The time is past. Hence it is symbolised as 'without a head,' that is, as not having taken the first step, from which its action should begin, and go on to the end.
 
-# [比](e6af94bi_cn.md)
+# [比 ䷇](e6af94bi_cn.md)

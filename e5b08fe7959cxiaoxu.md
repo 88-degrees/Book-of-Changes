@@ -1,5 +1,7 @@
 # Xiǎo Xù ䷈
 
+* Small Restraint
+
 > Chinese: 小畜 ䷈ xiǎo xù
 
 ###### p. 76
@@ -12,13 +14,13 @@
 
 > **䷈** changing to [**䷸**](e5b7bdxun.md)
 
-> Matching Line in Adjacent Hexagram: [10.1](e5b1a5lv.md#10.1)
+> Matching Line 1 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.1)
 
 2.<a name="9.2"></a> The second NINE, undivided, shows its subject, by the attraction (of the former line), returning (to the proper course). There will be good fortune.
 
 > **䷈** changing to [**䷤**](e5aeb6e4babajiaren.md)
 
-> Matching Line in Adjacent Hexagram: [10.2](e5b1a5lv.md#10.2)
+> Matching Line 2 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.2)
 
 ###### p. 77
 
@@ -26,30 +28,30 @@
 
 > **䷈** changing to [**䷼**](e4b8ade5ad9azhongfu.md)
 
-> Matching Line in Adjacent Hexagram: [10.3](e5b1a5lv.md#10.3)
+> Matching Line 3 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.3)
 
 4.<a name="9.4"></a> The fourth SIX, divided, shows its subject possessed of sincerity. The danger of bloodshed is thereby averted, and his (ground for) apprehension dismissed. There will be no mistake.
 
 > **䷈** changing to [**䷀**](e4b9beqian.md)
 
-> Matching Line in Adjacent Hexagram: [10.4](e5b1a5lv.md#10.4)
+> Matching Line 4 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.4)
 
 5.<a name="9.5"></a> The fifth NINE, undivided, shows its subject possessed of sincerity, and drawing others to unite with him. Rich in resources, he employs his neighbours (in the same cause with himself).
 
 > **䷈** changing to [**䷙**](e5a4a7e89384daxu.md)
 
-> Matching Line in Adjacent Hexagram: [10.5](e5b1a5lv.md#10.5)
+> Matching Line 5 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.5)
 
 6.<a name="9.6"></a> The topmost NINE, undivided, shows how the rain has fallen, and the (onward progress) is stayed; -- (so) must we value the full accumulation of the virtue (represented by the upper trigram). But a wife (exercising restraint), however firm and correct she may be, is in a position of peril, (and like) the moon approaching to the full. If the superior man prosecute his measures (in such circumstances), there will be evil.
 
 > **䷈** changing to [**䷄**](e99c80xu.md)
 
-> Matching Line in Adjacent Hexagram: [10.6](e5b1a5lv.md#10.6)
+> Matching Line 6 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.6)
 
 ## Notes
 
 The name **Xiǎo Xù ䷈** is interpreted as meaning 'small restraint.' The idea of 'restraint' having once been determined on as that to be conveyed by the figure,
-it is easily made out that the restraint must be small, for its representative is the divided line in the fourth place; and the check given by that to all the undivided lines cannot be great. Even if we suppose, as many critics do, that all the virtue of that upper trigram Sun is concentrated in its first line, the attribute ascribed to Sun is that of docile flexibility, which cannot long be successful against the strength emblemed by the lower trigram Khien. The restraint therefore is small, and in the end there will be 'progress and success.'
+it is easily made out that the restraint must be small, for its representative is the divided line in the fourth place; and the check given by that to all the undivided lines cannot be great. Even if we suppose, as many critics do, that all the virtue of that upper trigram **Xùn ☴** is concentrated in its first line, the attribute ascribed to **Xùn ☴** is that of docile flexibility, which cannot long be successful against the strength emblemed by the lower trigram **Qián ☰**. The restraint therefore is small, and in the end there will be 'progress and success.'
 
 The second sentence of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) contains indications of the place, time, and personality of the writer which it seems possible to ascertain. The fief of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty) was the western portion of the <sub>[p. 78](e5b1a5lv.md#p-78)</sub> kingdom of [Yīn](https://en.wiktionary.org/wiki/殷代) or [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty), the China of the twelfth century B. C., the era of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou). Rain coming and moistening the ground is the cause of the beauty and luxuriance of the vegetable world, and the emblem of the blessings flowing from good training and good government. Here therefore in the west, the hereditary territory of the house of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty), are blessings which might enrich the whole kingdom; but they are somehow restrained. The dense clouds do not empty their stores.
 
@@ -67,4 +69,4 @@ Line 5 occupies the central place of **Xùn ☴**, and converts, by the sincerit
 
 In line 6, the idea of the hexagram has run its course. The harmony of nature is restored. The rain falls, and the onward march of the strong lines should now stop. But weakness that has achieved such a result, if it plume itself on it, will be in a position of peril; and like the full moon, which must henceforth wane. Let the superior man, when he has attained his end, remain in quiet.
 
-# [小畜](e5b08fe7959cxiaoxu_cn.md)
+# [小畜 ䷈](e5b08fe7959cxiaoxu_cn.md)
