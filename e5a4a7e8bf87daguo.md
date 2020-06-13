@@ -1,5 +1,7 @@
 # Dà Guò ䷛
 
+* Great Exceeding
+
 > Chinese: 大过 ䷛ dà guò
 
 ###### p. 116
@@ -10,19 +12,41 @@
 
 1. The first SIX, divided, shows one placing mats of the white [*máo*](https://ctext.org/dictionary.pl?if=en&char=茅) grass under things set on the ground. There will be no error.
 
-2. The second NINE, undivided, shows a decayed
+> **䷛** changing to [**䷪**](e5a4acguai.md)
+
+> Matching Line 1 in Adjacent Hexagram: [**䷚**](e9a290yi.md#27.1)
 
 ###### p. 117
 
-willow producing shoots, or an old husband in possession of his young wife. There will be advantage in every way.
+2. The second NINE, undivided, shows a decayed willow producing shoots, or an old husband in possession of his young wife. There will be advantage in every way.
+
+> **䷛** changing to [**䷞**](e592b8xian.md)
+
+> Matching Line 2 in Adjacent Hexagram: [**䷚**](e9a290yi.md#27.2)
 
 3. The third NINE, undivided, shows a beam that is weak. There will be evil.
 
+> **䷛** changing to [**䷮**](e59bb0kun.md)
+
+> Matching Line 3 in Adjacent Hexagram: [**䷚**](e9a290yi.md#27.3)
+
 4. The fourth NINE, undivided, shows a beam curving upwards. There will be good fortune. If (the subject of it) looks for other (help but that of line one), there will be cause for regret.
+
+> **䷛** changing to [**䷯**](e4ba95jing.md)
+
+> Matching Line 4 in Adjacent Hexagram: [**䷚**](e9a290yi.md#27.4)
 
 5. The fifth NINE, undivided, shows a decayed willow producing flowers, or an old wife in possession of her young husband. There will be occasion neither for blame nor for praise.
 
+> **䷛** changing to [**䷟**](e68192heng.md)
+
+> Matching Line 5 in Adjacent Hexagram: [**䷚**](e9a290yi.md#27.5)
+
 6. The topmost SIX, divided, shows its subject with extraordinary (boldness) wading through a stream, till the water hides the crown of his head. There will be evil, but no ground for blame.
+
+> **䷛** changing to [**䷫**](e5a7a4gou.md)
+
+> Matching Line 6 in Adjacent Hexagram: [**䷚**](e9a290yi.md#27.6)
 
 ## Notes
 
@@ -32,7 +56,7 @@ Looking at the figure we see two weak lines at the top and bottom, and four stro
 
 Line 1 being weak, and at the bottom of the figure, and of the trigram Sun, which denotes flexibility and humility, its subject is distinguished by his carefulness, as in the matter mentioned; and there is a good auspice.
 
-Line 2 has no proper correlate above. Hence he inclines to the weak 1 below him; and we have the symbolism of the line. An p. 118 old husband with a young wife will yet have children; the action of the subject of 2 will be successful.
+Line 2 has no proper correlate above. Hence he inclines to the weak 1 below him; and we have the symbolism of the line. An <sub>[p. 118](e59d8ekan.md#p-118)</sub> old husband with a young wife will yet have children; the action of the subject of 2 will be successful.
 
 Line 3 is strong, and in an odd place. Its subject is confident in his own strength, but his correlate in 6 is weak. Alone, he is unequal to the extraordinary strain on him, and has for his symbol the weak beam.
 
@@ -42,4 +66,4 @@ Line 5 is strong and central. Its subject should be equal to achieve extraordina
 
 The subject of 6 pursues his daring course, with a view to satisfy the extraordinary exigency of the time, and benefit all under the sky. He is unequal to the task, and sinks beneath it; but his motive modifies the judgment on his conduct.
 
-# [大过](e5a4a7e8bf87daguo_cn.md)
+# [大过 ䷛](e5a4a7e8bf87daguo_cn.md)
