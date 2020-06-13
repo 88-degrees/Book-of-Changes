@@ -14,41 +14,39 @@
 
 > **䷑** changing to [**䷙**](e5a4a7e89384daxu.md)
 
-> Matching Line in Adjacent Hexagram: [17.1](e99a8fsui.md#17.1)
+> Matching Line 1 in Adjacent Hexagram: [**䷐**](e99a8fsui.md#17.1)
 
 2.<a name="18.2"></a> The second NINE, undivided, shows (a son) dealing with the troubles caused by his mother. He should not (carry) his firm correctness (to the utmost).
 
 > **䷑** changing to [**䷳**](e889aegen.md)
 
-> Matching Line in Adjacent Hexagram: [17.2](e99a8fsui.md#17.2)
+> Matching Line 2 in Adjacent Hexagram: [**䷐**](e99a8fsui.md#17.2)
 
 3.<a name="18.3"></a> The third NINE, undivided, shows (a son) dealing with the troubles caused by his father. There may be some small occasion for repentance, but there will not be any great error.
 
 > **䷑** changing to [**䷃**](e89299meng.md)
 
-> Matching Line in Adjacent Hexagram: [17.3](e99a8fsui.md#17.3)
+> Matching Line 3 in Adjacent Hexagram: [**䷐**](e99a8fsui.md#17.3)
 
-4.<a name="18.4"></a> The fourth SIX, divided, shows (a son) viewing
+4.<a name="18.4"></a> The fourth SIX, divided, shows (a son) viewing indulgently the troubles caused by his father. If he go forward, he will find cause to regret it.
 
 ###### p. 96
 
-indulgently the troubles caused by his father. If he go forward, he will find cause to regret it.
-
 > **䷑** changing to [**䷱**](e9bc8eding.md)
 
-> Matching Line in Adjacent Hexagram: [17.4](e99a8fsui.md#17.4)
+> Matching Line 4 in Adjacent Hexagram: [**䷐**](e99a8fsui.md#17.4)
 
 5.<a name="18.5"></a> The fifth SIX, divided, shows (a son) dealing with the troubles caused by his father. He obtains the praise of using (the fit instrument for his work).
 
 > **䷑** changing to [**䷸**](e5b7bdxun.md)
 
-> Matching Line in Adjacent Hexagram: [17.5](e99a8fsui.md#17.5)
+> Matching Line 5 in Adjacent Hexagram: [**䷐**](e99a8fsui.md#17.5)
 
 6.<a name="18.6"></a> The sixth NINE, undivided, shows us one who does not serve either king or feudal lord, but in a lofty spirit prefers (to attend to) his own affairs.
 
 > **䷑** changing to [**䷭**](e58d87sheng.md)
 
-> Matching Line in Adjacent Hexagram: [17.6](e99a8fsui.md#17.6)
+> Matching Line 6 in Adjacent Hexagram: [**䷐**](e99a8fsui.md#17.6)
 
 ## Notes
 
