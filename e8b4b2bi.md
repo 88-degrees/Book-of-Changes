@@ -16,37 +16,37 @@
 
 > **䷕** changing to [**䷳**](e889aegen.md)
 
-> Matching Line in Adjacent Hexagram: [21.1](e599ace59791shike.md#21.1)
+> Matching Line 1 in Adjacent Hexagram: [**䷔**](e599ace59791shike.md#21.1)
 
 2.<a name="22.2"></a> The second SIX, divided, shows one adorning his beard.
 
 > **䷕** changing to [**䷙**](e5a4a7e89384daxu.md)
 
-> Matching Line in Adjacent Hexagram: [21.2](e599ace59791shike.md#21.2)
+> Matching Line 2 in Adjacent Hexagram: [**䷔**](e599ace59791shike.md#21.2)
 
 3.<a name="22.3"></a> The third NINE, undivided, shows its subject with the appearance of being adorned and bedewed (with rich favours). But let him ever maintain his firm correctness, and there will be good fortune.
 
 > **䷕** changing to [**䷚**](e9a290yi.md)
 
-> Matching Line in Adjacent Hexagram: [21.3](e599ace59791shike.md#21.3)
+> Matching Line 3 in Adjacent Hexagram: [**䷔**](e599ace59791shike.md#21.3)
 
 4.<a name="22.4"></a> The fourth SIX, divided, shows one looking as if adorned, but only in white. As if (mounted on) a white horse, and furnished with wings, (he seeks union with the subject of the first line), while (the intervening third pursues), not as a robber, but intent on a matrimonial alliance.
 
 > **䷕** changing to [**䷝**](e7a6bbli.md)
 
-> Matching Line in Adjacent Hexagram: [21.4](e599ace59791shike.md#21.4)
+> Matching Line 4 in Adjacent Hexagram: [**䷔**](e599ace59791shike.md#21.4)
 
 5.<a name="22.5"></a> The fifth SIX, divided, shows its subject adorned by (the occupants of) the heights and gardens. He bears his roll of silk, small and slight. He may appear stingy; but there will be good fortune in the end.
 
 > **䷕** changing to [**䷤**](e5aeb6e4babajiaren.md)
 
-> Matching Line in Adjacent Hexagram: [21.5](e599ace59791shike.md#21.5)
+> Matching Line 5 in Adjacent Hexagram: [**䷔**](e599ace59791shike.md#21.5)
 
 6.<a name="22.6"></a> The sixth NINE, undivided, shows one with white as his (only) ornament. There will be no error.
 
 > **䷕** changing to [**䷣**](e6988ee5a4b7mingyi.md)
 
-> Matching Line in Adjacent Hexagram: [21.6](e599ace59791shike.md#21.6)
+> Matching Line 6 in Adjacent Hexagram: [**䷔**](e599ace59791shike.md#21.6)
 
 ## Notes
 
