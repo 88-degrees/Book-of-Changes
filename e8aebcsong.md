@@ -1,5 +1,7 @@
 # Sòng ䷅
 
+* Contention
+
 > Chinese: 讼 ䷅ sòng
 
 ###### p. 69
@@ -14,41 +16,39 @@ there will be good fortune, while, if he must prosecute the contention to the (b
 
 > **䷅** changing to [**䷉**](e5b1a5lv.md)
 
-> Matching Line in Adjacent Hexagram: [5.1](e99c80xu.md#5.1)
+> Matching Line 1 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.1)
 
 2.<a name="6.2"></name> The second NINE, undivided, shows its subject unequal to the contention. If he retire and keep concealed (where) the inhabitants of his city are (only) three hundred families, he will fall into no mistake.
 
 > **䷅** changing to [**䷋**](e590a6pi.md)
 
-> Matching Line in Adjacent Hexagram: [5.2](e99c80xu.md#5.2)
+> Matching Line 2 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.2)
 
-3.<a name="6.3"></name> The third SIX, divided, shows its subject keeping in the old place assigned for his support, and firmly correct. Perilous as the position is, there will be good fortune in the end. Should he perchance
+3.<a name="6.3"></name> The third SIX, divided, shows its subject keeping in the old place assigned for his support, and firmly correct. Perilous as the position is, there will be good fortune in the end. Should he perchance engage in the king's business, he will not (claim the merit of) achievement.
 
 ###### p. 70
 
-engage in the king's business, he will not (claim the merit of) achievement.
-
 > **䷅** changing to [**䷫**](e5a7a4gou.md)
 
-> Matching Line in Adjacent Hexagram: [5.3](e99c80xu.md#5.3)
+> Matching Line 3 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.3)
 
 4.<a name="6.4"></name> The fourth NINE, undivided, shows its subject unequal to the contention. He returns to (the study of Heaven's) ordinances, changes (his wish to contend), and rests in being firm and correct. There will be good fortune.
 
 > **䷅** changing to [**䷺**](e6b6a3huan.md)
 
-> Matching Line in Adjacent Hexagram: [5.4](e99c80xu.md#5.4)
+> Matching Line 4 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.4)
 
 5.<a name="6.5"></name> The fifth NINE, undivided, shows its subject contending; -- and with great good fortune.
 
 > **䷅** changing to [**䷿**](e69caae6b58eweiji.md)
 
-> Matching Line in Adjacent Hexagram: [5.5](e99c80xu.md#5.5)
+> Matching Line 5 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.5)
 
 6.<a name="6.6"></name> The topmost NINE, undivided, shows how its subject may have the leathern belt conferred on him (by the sovereign), and thrice it shall be taken from him in a morning.
 
 > **䷅** changing to [**䷮**](e59bb0kun.md)
 
-> Matching Line in Adjacent Hexagram: [5.6](e99c80xu.md#5.6)
+> Matching Line 6 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.6)
 
 ## Notes
 
@@ -64,8 +64,8 @@ Line 4 is strong, and not in the centre; so that we are to conceive of its subje
 
 Line 5 has every circumstance in favour of its subject.
 
-Line 6 is strong and able to contend successfully; but is there to be no end of striving? Persistence in it is sure to end in defeat and disgrace. The contender here might receive a reward from the king for his success; but if he received it thrice in a morning, thrice it would be taken from him again. As to the nature of the reward here given, see on the [Lî Kî, X, ii, 32](https://www.sacred-texts.com/cfu/liki/liki10.htm) and the [original text](https://ctext.org/dictionary.pl?if=en&id=9961&remap=gb).
+Line 6 is strong and able to contend successfully; but is there to be no end of striving? Persistence in it is sure to end in defeat and disgrace. The contender here might receive a reward from the king for his success; but if he received it thrice in a morning, thrice it would be taken from him again. As to the nature of the reward here given, see on the [original text](https://ctext.org/dictionary.pl?if=en&id=9961&remap=gb).
 
 P. Regis explains several of the expressions in the Text, both in the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) and the [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols), from the history of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son [king Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou). Possibly his own circumstances may have suggested to [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) some of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings); and his course in avoiding a direct collision with the tyrant [Shào](https://en.wikipedia.org/wiki/Duke_of_Shao), and [Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou)'s subsequent exploits may have been in the mind of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou). Some of the sentiments, however, cannot be historically explained. They are general protests against all contention and strife.
 
-# [讼](e8aebcsong_cn.md)
+# [讼 ䷅](e8aebcsong_cn.md)
