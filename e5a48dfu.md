@@ -16,37 +16,37 @@
 
 > **䷗** changing to [**䷁**](e59da4kun.md)
 
-> Matching Line in Adjacent Hexagram: [23.1](e589a5bo.md#23.1)
+> Matching Line 1 in Adjacent Hexagram: [**䷖**](e589a5bo.md#23.1)
 
 2.<a name="24.2"></a> The second SIX, divided, shows the admirable return (of its subject). There will be good fortune.
 
 > **䷗** changing to [**䷒**](e4b8b4lin.md)
 
-> Matching Line in Adjacent Hexagram: [23.2](e589a5bo.md#23.2)
+> Matching Line 2 in Adjacent Hexagram: [**䷖**](e589a5bo.md#23.2)
 
 3.<a name="24.3"></a> The third SIX, divided, shows one who has made repeated returns. The position is perilous, but there will be no error.
 
 > **䷗** changing to [**䷣**](e6988ee5a4b7mingyi.md)
 
-> Matching Line in Adjacent Hexagram: [23.3](e589a5bo.md#23.3)
+> Matching Line 3 in Adjacent Hexagram: [**䷖**](e589a5bo.md#23.3)
 
 4.<a name="24.4"></a> The fourth SIX, divided, shows its subject moving right in the centre (among those represented by the other divided lines), and yet returning alone (to his proper path).
 
 > **䷗** changing to [**䷲**](e99c87zhen.md)
 
-> Matching Line in Adjacent Hexagram: [23.4](e589a5bo.md#23.4)
+> Matching Line 4 in Adjacent Hexagram: [**䷖**](e589a5bo.md#23.4)
 
 5.<a name="24.5"></a> The fifth SIX, divided, shows the noble return of its subject. There will be no ground for repentance.
 
 > **䷗** changing to [**䷂**](e5b1afzhun.md)
 
-> Matching Line in Adjacent Hexagram: [23.5](e589a5bo.md#23.5)
+> Matching Line 5 in Adjacent Hexagram: [**䷖**](e589a5bo.md#23.5)
 
 6.<a name="24.6"></a> The topmost SIX, divided, shows its subject all astray on the subject of returning. There will be evil. There will be calamities and errors. If with his views he put the hosts in motion, the end will be a great defeat, whose issues will extend to the ruler of the state. Even in ten years he will not be able to repair the disaster.
 
 > **䷗** changing to [**䷚**](e9a290yi.md)
 
-> Matching Line in Adjacent Hexagram: [23.6](e589a5bo.md#23.6)
+> Matching Line 6 in Adjacent Hexagram: [**䷖**](e589a5bo.md#23.6)
 
 ## Notes
 
@@ -72,6 +72,6 @@ Line 4 has its proper correlate in 1; different from all the other weak lines; a
 
 Line 5 is in the central place of honour, and the middle line of **Kūn ☷**, denoting docility. Hence its auspice.
 
-Line 6 is weak; and being at the top of the hexagram, when its action of returning is all concluded, action on the part of its subject will lead to evils such as are mentioned. 'Ten years' seems to be a round number, signifying a long time, as in [hexagram 3 **䷂**, line 2](e5b1afzhun.md#3.2).
+Line 6 is weak; and being at the top of the hexagram, when its action of returning is all concluded, action on the part of its subject will lead to evils such as are mentioned. 'Ten years' seems to be a round number, signifying a long time, as in [hexagram **䷂**, line 2](e5b1afzhun.md#3.2).
 
 # [复 ䷗](e5a48dfu_cn.md)
