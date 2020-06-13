@@ -9,47 +9,45 @@
 ![Guan](https://88o.io/wp-content/uploads/2018/09/20-e8a782guan.jpg)
 
 **Guān ䷓** shows (how he whom it represents should be like) the worshipper who has washed his hands,
-but not (yet) presented his offerings; -- with sincerity
+but not (yet) presented his offerings; -- with sincerity and an appearance of dignity (commanding reverent regard).
 
 ###### p. 100
-
-and an appearance of dignity (commanding reverent regard).
 
 1.<a name="20.1"></a> The first SIX, divided, shows the looking of a lad; -- not blamable in men of inferior rank, but matter for regret in superior men.
 
 > **䷓** changing to [**䷩**](e79b8ayi.md)
 
-> Matching Line in Adjacent Hexagram: [19.1](e4b8b4lin.md#19.1)
+> Matching Line 1 in Adjacent Hexagram: [**䷒**](e4b8b4lin.md#19.1)
 
 2.<a name="20.2"></a> The second SIX, divided, shows one peeping out from a door. It would be advantageous if it were (merely) the firm correctness of a female.
 
 > **䷓** changing to [**䷺**](e6b6a3huan.md)
 
-> Matching Line in Adjacent Hexagram: [19.2](e4b8b4lin.md#19.2)
+> Matching Line 2 in Adjacent Hexagram: [**䷒**](e4b8b4lin.md#19.2)
 
 3.<a name="20.3"></a> The third SIX, divided, shows one looking at (the course of) his own life, to advance or recede (accordingly).
 
 > **䷓** changing to [**䷴**](e6b890jian.md)
 
-> Matching Line in Adjacent Hexagram: [19.3](e4b8b4lin.md#19.3)
+> Matching Line 3 in Adjacent Hexagram: [**䷒**](e4b8b4lin.md#19.3)
 
 4.<a name="20.4"></a> The fourth SIX, divided, shows one contemplating the glory of the kingdom. It will be advantageous for him, being such as he is, (to seek) to be a guest of the king.
 
 > **䷓** changing to [**䷋**](e590a6pi.md)
 
-> Matching Line in Adjacent Hexagram: [19.4](e4b8b4lin.md#19.4)
+> Matching Line 4 in Adjacent Hexagram: [**䷒**](e4b8b4lin.md#19.4)
 
 5.<a name="20.5"></a> The fifth NINE, undivided, shows its subject contemplating his own life(-course). A superior man, he will (thus) fall into no error.
 
 > **䷓** changing to [**䷖**](e589a5bo.md)
 
-> Matching Line in Adjacent Hexagram: [19.5](e4b8b4lin.md#19.5)
+> Matching Line 5 in Adjacent Hexagram: [**䷒**](e4b8b4lin.md#19.5)
 
 6.<a name="20.6"></a> The sixth NINE, undivided, shows its subject contemplating his character to see if it be indeed that of a superior man. He will not fall into error.
 
 > **䷓** changing to [**䷇**](e6af94bi.md)
 
-> Matching Line in Adjacent Hexagram: [19.6](e4b8b4lin.md#19.6)
+> Matching Line 6 in Adjacent Hexagram: [**䷒**](e4b8b4lin.md#19.6)
 
 ###### p. 101
 
