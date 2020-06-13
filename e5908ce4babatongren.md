@@ -1,5 +1,7 @@
 # Tóng Rén ䷌
 
+* Union of Men
+
 > Chinese: 同人 ䷌ tóng rén
 
 ###### p. 86
@@ -12,41 +14,39 @@
 
 > **䷌** changing to [**䷠**](e981afdun.md)
 
-> Matching Line in Adjacent Hexagram: [14.1](e5a4a7e69c89dayou.md#14.1)
+> Matching Line 1 in Adjacent Hexagram: [**䷍**](e5a4a7e69c89dayou.md#14.1)
 
 2.<a name="13.2"></a> The second SIX, divided, (shows the representative of) the union of men in relation with his kindred. There will be occasion for regret.
 
 > **䷌** changing to [**䷀**](e4b9beqian.md)
 
-> Matching Line in Adjacent Hexagram: [14.2](e5a4a7e69c89dayou.md#14.2)
+> Matching Line 2 in Adjacent Hexagram: [**䷍**](e5a4a7e69c89dayou.md#14.2)
 
 3.<a name="13.3"></a> The third NINE, undivided, (shows its subject) with his arms hidden in the thick grass, and at the top of a high mound. (But) for three years he makes no demonstration.
 
 > **䷌** changing to [**䷘**](e697a0e5a684wuwang.md)
 
-> Matching Line in Adjacent Hexagram: [14.3](e5a4a7e69c89dayou.md#14.3)
+> Matching Line 3 in Adjacent Hexagram: [**䷍**](e5a4a7e69c89dayou.md#14.3)
 
 4.<a name="13.4"></a> The fourth NINE, undivided, (shows its subject) mounted on the city wall; but he does not proceed to make the attack (he contemplates). There will be good fortune.
 
 > **䷌** changing to [**䷤**](e5aeb6e4babajiaren.md)
 
-> Matching Line in Adjacent Hexagram: [14.4](e5a4a7e69c89dayou.md#14.4)
+> Matching Line 4 in Adjacent Hexagram: [**䷍**](e5a4a7e69c89dayou.md#14.4)
 
 5.<a name="13.5"></a> In the fifth NINE, undivided, (the representative of) the union of men first wails and cries out, and then laughs. His great host conquers, and he (and the subject of the second line) meet together.
 
 > **䷌** changing to [**䷝**](e7a6bbli.md)
 
-> Matching Line in Adjacent Hexagram: [14.5](e5a4a7e69c89dayou.md#14.5)
+> Matching Line 5 in Adjacent Hexagram: [**䷍**](e5a4a7e69c89dayou.md#14.5)
 
-6.<a name="13.6"></a> The topmost NINE, undivided, (shows the representative
+6.<a name="13.6"></a> The topmost NINE, undivided, (shows the representative of) the union of men in the suburbs. There will be no occasion for repentance.
 
 ###### p. 87
 
-of) the union of men in the suburbs. There will be no occasion for repentance.
-
 > **䷌** changing to [**䷰**](e99da9ge.md)
 
-> Matching Line in Adjacent Hexagram: [14.6](e5a4a7e69c89dayou.md#14.6)
+> Matching Line 6 in Adjacent Hexagram: [**䷍**](e5a4a7e69c89dayou.md#14.6)
 
 ## Notes
 

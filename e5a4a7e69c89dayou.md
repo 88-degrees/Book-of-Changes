@@ -1,5 +1,7 @@
 # Dà Yǒu ䷍
 
+* Great Havings
+
 > Chinese: 大有 ䷍ dà yǒu
 
 ###### p. 88
@@ -12,37 +14,37 @@
 
 > **䷍** changing to [**䷱**](e9bc8eding.md)
 
-> Matching Line in Adjacent Hexagram: [13.1](e5908ce4babatongren.md#13.1)
+> Matching Line 1 in Adjacent Hexagram: [**䷌**](e5908ce4babatongren.md#13.1)
 
 2.<a name="14.2"></a> In the second NINE, undivided, we have a large waggon with its load. In whatever direction advance is made, there will be no error.
 
 > **䷍** changing to [**䷝**](e7a6bbli.md)
 
-> Matching Line in Adjacent Hexagram: [13.2](e5908ce4babatongren.md#13.2)
+> Matching Line 2 in Adjacent Hexagram: [**䷌**](e5908ce4babatongren.md#13.2)
 
 3.<a name="14.3"></a> The third NINE, undivided, shows us a feudal prince presenting his offerings to the Son of Heaven. A small man would be unequal (to such a duty).
 
 > **䷍** changing to [**䷥**](e79dbdkui.md)
 
-> Matching Line in Adjacent Hexagram: [13.3](e5908ce4babatongren.md#13.3)
+> Matching Line 3 in Adjacent Hexagram: [**䷌**](e5908ce4babatongren.md#13.3)
 
 4.<a name="14.4"></a> The fourth NINE, undivided, shows its subject keeping his great resources under restraint. There will be no error.
 
 > **䷍** changing to [**䷙**](e5a4a7e89384daxu.md)
 
-> Matching Line in Adjacent Hexagram: [13.4](e5908ce4babatongren.md#13.4)
+> Matching Line 4 in Adjacent Hexagram: [**䷌**](e5908ce4babatongren.md#13.4)
 
 5.<a name="14.5"></a> The fifth SIX, divided, shows the sincerity of its subject reciprocated by that of all the others (represented in the hexagram). Let him display a proper majesty, and there will be good fortune.
 
 > **䷍** changing to [**䷀**](e4b9beqian.md)
 
-> Matching Line in Adjacent Hexagram: [13.5](e5908ce4babatongren.md#13.5)
+> Matching Line 5 in Adjacent Hexagram: [**䷌**](e5908ce4babatongren.md#13.5)
 
 6.<a name="14.6"></a> The topmost NINE, undivided, shows its subject with help accorded to him from Heaven. There will be good fortune, advantage in every respect.
 
 > **䷍** changing to [**䷡**](e5a4a7e5a3aedazhuang.md)
 
-> Matching Line in Adjacent Hexagram: [13.6](e5908ce4babatongren.md#13.6)
+> Matching Line 6 in Adjacent Hexagram: [**䷌**](e5908ce4babatongren.md#13.6)
 
 ## Notes
 
