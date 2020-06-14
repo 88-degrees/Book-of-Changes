@@ -1,5 +1,7 @@
 # Lí ䷝
 
+* Fire, Brightness
+
 > Chinese: 离 ䷝ lí
 
 ###### p. 120
@@ -12,19 +14,43 @@
 
 Let (its subject) also nourish (a docility like that of) the cow, and there will be good fortune.
 
-1. The first NINE, undivided, shows one ready to move with confused steps. But he treads at the same time reverently, and there will be no mistake.
+1.<a name="30.1"></a> The first NINE, undivided, shows one ready to move with confused steps. But he treads at the same time reverently, and there will be no mistake.
 
-2. The second SIX, divided, shows its subject in his place in yellow. There will be great good fortune.
+> **䷝** changing to [**䷷**](e69785lv.md)
 
-3. The third NINE, undivided, shows its subject in a position like that of the declining sun. Instead of playing on his instrument of earthenware, and singing to it, he utters the groans of an old man of eighty. There will be evil.
+> Matching Line 1 in Adjacent Hexagram: [**䷜**](e59d8ekan.md#29.1)
 
-4. The fourth NINE, undivided, shows the manner of its subject's coming. How abrupt it is, as with fire, with death, to be rejected (by all)!
+2.<a name="30.2"></a> The second SIX, divided, shows its subject in his place in yellow. There will be great good fortune.
 
-5. The fifth SIX, divided, shows its subject as one with tears flowing in torrents, and groaning in sorrow. There will be good fortune.
+> **䷝** changing to [**䷍**](e5a4a7e69c89dayou.md)
+
+> Matching Line 2 in Adjacent Hexagram: [**䷜**](e59d8ekan.md#29.2)
+
+3.<a name="30.3"></a> The third NINE, undivided, shows its subject in a position like that of the declining sun. Instead of playing on his instrument of earthenware, and singing to it, he utters the groans of an old man of eighty. There will be evil.
+
+> **䷝** changing to [**䷔**](e599ace59791shike.md)
+
+> Matching Line 3 in Adjacent Hexagram: [**䷜**](e59d8ekan.md#29.3)
+
+4.<a name="30.4"></a> The fourth NINE, undivided, shows the manner of its subject's coming. How abrupt it is, as with fire, with death, to be rejected (by all)!
+
+> **䷝** changing to [**䷕**](e8b4b2bi.md)
+
+> Matching Line 4 in Adjacent Hexagram: [**䷜**](e59d8ekan.md#29.4)
+
+5.<a name="30.5"></a> The fifth SIX, divided, shows its subject as one with tears flowing in torrents, and groaning in sorrow. There will be good fortune.
+
+> **䷝** changing to [**䷌**](e5908ce4babatongren.md)
+
+> Matching Line 5 in Adjacent Hexagram: [**䷜**](e59d8ekan.md#29.5)
 
 ###### p. 122
 
-6. The topmost NINE, undivided, shows the king employing its subject in his punitive expeditions. Achieving admirable (merit), he breaks (only) the chiefs (of the rebels). Where his prisoners were not their associates, he does not punish. There will be no error.
+6.<a name="30.6"></a> The topmost NINE, undivided, shows the king employing its subject in his punitive expeditions. Achieving admirable (merit), he breaks (only) the chiefs (of the rebels). Where his prisoners were not their associates, he does not punish. There will be no error.
+
+> **䷝** changing to [**䷶**](e4b8b0feng.md)
+
+> Matching Line 6 in Adjacent Hexagram: [**䷜**](e59d8ekan.md#29.6)
 
 ## Notes
 

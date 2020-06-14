@@ -1,5 +1,7 @@
 # Kǎn ䷜
 
+* Pit, Danger
+
 > Chinese: kǎn 坎 ䷜
 
 ###### p. 118
@@ -8,21 +10,43 @@
 
 **Kǎn ䷜**, here repeated, shows the possession of sincerity, through which the mind is. penetrating. Action (in accordance with this) will be of high value.
 
-1. The first SIX, divided, shows its subject in the double defile, and (yet) entering a cavern within it. There will be evil.
+1.<a name="29.1"></a> The first SIX, divided, shows its subject in the double defile, and (yet) entering a cavern within it. There will be evil.
 
-2. The second NINE, undivided, shows its subject
+> **䷜** changing to [**䷻**](e88a82jie.md)
+
+> Matching Line 1 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.1)
+
+2.<a name="29.2"></a> The second NINE, undivided, shows its subject in all the peril of the defile. He will, however, get a little (of the deliverance) that he seeks.
+
+> **䷜** changing to [**䷇**](e6af94bi.md)
+
+> Matching Line 2 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.2)
 
 ###### p. 119
 
-in all the peril of the defile. He will, however, get a little (of the deliverance) that he seeks.
+3.<a name="29.3"></a> The third SIX, divided, shows its subject, whether he comes or goes ( =descends or ascends), confronted by a defile. All is peril to him and unrest. (His endeavours) will lead him into the cavern of the pit. There should be no action (in such a case).
 
-3. The third SIX, divided, shows its subject, whether he comes or goes ( =descends or ascends), confronted by a defile. All is peril to him and unrest. (His endeavours) will lead him into the cavern of the pit. There should be no action (in such a case).
+> **䷜** changing to [**䷯**](e4ba95jing.md)
 
-4. The fourth SIX, divided, shows its subject (at a feast), with (simply) a bottle of spirits, and a subsidiary basket of rice, while (the cups and bowls) are (only) of earthenware. He introduces his important lessons (as his ruler's) intelligence admits. There will in the end be no error.
+> Matching Line 3 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.3)
 
-5. The fifth NINE, undivided, shows the water of the defile not yet full, (so that it might flow away); but order will (soon) be brought about. There will be no error.
+4.<a name="29.4"></a> The fourth SIX, divided, shows its subject (at a feast), with (simply) a bottle of spirits, and a subsidiary basket of rice, while (the cups and bowls) are (only) of earthenware. He introduces his important lessons (as his ruler's) intelligence admits. There will in the end be no error.
 
-6. The topmost SIX, divided, shows its subject bound with cords of three strands or two strands, and placed in the thicket of thorns. But in three years he does not learn the course for him to pursue. There will be evil.
+> **䷜** changing to [**䷮**](e59bb0kun.md)
+
+> Matching Line 4 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.4)
+
+5.<a name="29.5"></a> The fifth NINE, undivided, shows the water of the defile not yet full, (so that it might flow away); but order will (soon) be brought about. There will be no error.
+
+> **䷜** changing to [**䷆**](e5b888shi.md)
+
+> Matching Line 5 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.5)
+
+6.<a name="29.6"></a> The topmost SIX, divided, shows its subject bound with cords of three strands or two strands, and placed in the thicket of thorns. But in three years he does not learn the course for him to pursue. There will be evil.
+
+> **䷜** changing to [**䷺**](e6b6a3huan.md)
+
+> Matching Line 6 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.6)
 
 ## Notes
 
@@ -44,4 +68,4 @@ The subject of line 5 is on the eve of extrication and deliverance. The waters o
 
 The case of the subject of line 6 is hopeless. When danger has reached its highest point, there he is, represented by a weak line, and with no proper correlate below. The 'thicket of thorns' is taken as a metaphor for a prison; but if the expression has a history, I have been unable to find it.
 
-# [坎](e59d8ekan_cn.md)
+# [坎 ䷜](e59d8ekan_cn.md)
