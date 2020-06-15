@@ -60,7 +60,7 @@ Line 3 has no proper correlate in 6 and its subject allows himself to be entangl
 
 Line 4 has a correlate in 1, and is free to exercise the decision belonging to its subject. The line is the first in Khien, symbolic of strength.
 
-In the [Shàng Shū IV, v, Section 2](https://ctext.org/dictionary.pl?if=en&id=21181&remap=gb), the worthy [Yī Yǐn](https://en.wikipedia.org/wiki/Yi_Yin) is made to say, 'The minister will not for favour or gain continue in an office whose work is done;' and the [**Kāng Xī **](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors refer to his words as an illustration of what is said on line 5. It has its correlate in 2, and its subject carries out the purpose to retire 'in an admirable way.'
+In the [Shàng Shū IV, v, Section 2](https://ctext.org/dictionary.pl?if=en&id=21181&remap=gb), the worthy [Yī Yǐn](https://en.wikipedia.org/wiki/Yi_Yin) is made to say, 'The minister will not for favour or gain continue in an office whose work is done;' and the [**Kāng Xī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors refer to his words as an illustration of what is said on line 5. It has its correlate in 2, and its subject carries out the purpose to retire 'in an admirable way.'
 
 Line 6 is strong, and with no correlate to detain it in 3. Its subject vigorously and happily carries out the idea of the hexagram.
 
