@@ -98,11 +98,9 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 2. (It presents the symbols of) strength **☰** and flexibility **☴**. Strong lines are in the central places, and the will (of their subjects) will have free course. Thus it indicates that there will be progress and success.
 
-3. 'Dense clouds but no rain' indicate the movement (of the strong lines) still going forward. The
-
 ###### p. 222
 
-'Commencing at our western border' indicates that the (beneficial) influence has not yet been widely displayed.
+3. 'Dense clouds but no rain' indicate the movement (of the strong lines) still going forward. The 'Commencing at our western border' indicates that the (beneficial) influence has not yet been widely displayed.
 
 <a name="fr_134"></a>[X](#fn_134).
 
@@ -110,17 +108,13 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 2. (The lower trigram **☱**) indicates pleasure and satisfaction, and responds to (the upper **☰**) indicating strength. Hence (it is said), 'He treads on the tail of a tiger, which does not bite him; there will be progress and success.'
 
-3. (The fifth line is) strong, in the centre, and in
-
 ###### p. 223
 
-its correct place. (Its subject) occupies the God-(given) position, and falls into no distress or failure; -- (his) action will be brilliant.
+3. (The fifth line is) strong, in the centre, and in its correct place. (Its subject) occupies the God-(given) position, and falls into no distress or failure; -- (his) action will be brilliant.
 
-<a name="fr_135"></a>[XI](#fn_135). 'The little come and the great gone in [**Tài ䷊**](e6b3b0tai.md), and its indication that there will be good fortune with progress and success' show to us heaven **☰** and earth **☷** in communication with each other, and all things in consequence having free course, and (also) the high and the low, (superiors and inferiors), in communication with one another, and possessed by the same aim. The inner (trigram **☰**) is made up of the strong and undivided lines, and the outer of the weak and divided (trigram **☷**); the inner is (the symbol of) strength, and the outer of docility; the inner (represents) the superior man, and the outer the small man. (Thus) the way of
+<a name="fr_135"></a>[XI](#fn_135). 'The little come and the great gone in [**Tài ䷊**](e6b3b0tai.md), and its indication that there will be good fortune with progress and success' show to us heaven **☰** and earth **☷** in communication with each other, and all things in consequence having free course, and (also) the high and the low, (superiors and inferiors), in communication with one another, and possessed by the same aim. The inner (trigram **☰**) is made up of the strong and undivided lines, and the outer of the weak and divided (trigram **☷**); the inner is (the symbol of) strength, and the outer of docility; the inner (represents) the superior man, and the outer the small man. (Thus) the way of the superior man appears increasing, and that of the small man decreasing.
 
 ###### p. 224
-
-the superior man appears increasing, and that of the small man decreasing.
 
 <a name="fr_136"></a>[XII](#fn_136). 'The want of good understanding between the (different classes of) men in [**Pǐ ䷋**](e590a6pi.md), and its indication as unfavourable to the firm and correct course of the superior man; with the intimation that the great are gone and the little come:' -- all this springs from the fact that in it heaven and earth are not in communication with each other, and all things in consequence do not have free course; and that the high and the low (superiors and inferiors) are not in communication with one another, and there are no (well-regulated) states under the sky. The inner (trigram **☷**) is made up of the weak and divided lines, and the outer of the strong and undivided (trigram **☰**): the inner is (the symbol of) weakness, and the outer of strength; the inner (represents) the small man, and the outer the superior man. Thus the way of the small man appears increasing, and that of the superior man decreasing.
 
@@ -170,11 +164,9 @@ the superior man appears increasing, and that of the small man decreasing.
 
 1. In [**Gǔ ䷑**](e89b8agu.md) we have the strong (trigram) above, and the weak one below; we have (below) pliancy, and (above) stopping: -- these give the idea of [**Gǔ ䷑**](e89b8agu.md) (a Troublous Condition of affairs verging to ruin).
 
-2. '[**Gǔ ䷑**](e89b8agu.md) indicates great progress and success:' -- (through the course shown in it), all under heaven, there will be good order. 'There will be advantage in crossing the great stream:' -- he who advances will encounter the business to be done. '(He should
-
 ###### p. 229
 
-weigh well, however, the events of) three days before (the turning-point), and those (to be done) three days after it:' -- the end (of confusion) is the beginning (of order); such is the procedure of Heaven.
+2. '[**Gǔ ䷑**](e89b8agu.md) indicates great progress and success:' -- (through the course shown in it), all under heaven, there will be good order. 'There will be advantage in crossing the great stream:' -- he who advances will encounter the business to be done. '(He should weigh well, however, the events of) three days before (the turning-point), and those (to be done) three days after it:' -- the end (of confusion) is the beginning (of order); such is the procedure of Heaven.
 
 <a name="fr_143"></a>[XIX](#fn_143).
 
@@ -188,11 +180,9 @@ weigh well, however, the events of) three days before (the turning-point), and t
 
 <a name="fr_144"></a>[XX](#fn_144).
 
-1. The great Manifester occupies an upper place (in the figure), which consists of (the trigrams
+1. The great Manifester occupies an upper place (in the figure), which consists of (the trigrams whose attributes are) docility and flexibility. He is in the central position and his correct place, and thus exhibits (his lessons) to all under heaven.
 
 ###### p. 230
-
-whose attributes are) docility and flexibility. He is in the central position and his correct place, and thus exhibits (his lessons) to all under heaven.
 
 2. '[**Guān ䷓**](e8a782guan.md) shows its subject like a worshipper who has washed his hands, but not (yet) presented his offerings; -- with sincerity and an appearance of dignity (commanding reverent regard):' -- (all) beneath look to him and are transformed.
 
@@ -202,13 +192,9 @@ whose attributes are) docility and flexibility. He is in the central position an
 
 1. The existence of something between the jaws gives rise to the name [**Shì Kè ䷔**](e599ace59791shike.md) (Union by means of biting through the intervening article).
 
-2. The Union by means of biting through the intervening article indicates 'the successful progress (denoted by the hexagram).'
-
-The strong and weak (lines) are equally divided (in the figure). Movement is denoted (by the lower trigram **☳**), and bright intelligence (by the upper **☲**); thunder and lightning uniting in them, and having brilliant manifestation. The weak (fifth) line is in
-
 ###### p. 231
 
-the centre, and acts in its high position. Although it is not in its proper position, this is advantageous for the use of legal constraints.
+2. The Union by means of biting through the intervening article indicates 'the successful progress (denoted by the hexagram).' The strong and weak (lines) are equally divided (in the figure). Movement is denoted (by the lower trigram **☳**), and bright intelligence (by the upper **☲**); thunder and lightning uniting in them, and having brilliant manifestation. The weak (fifth) line is in the centre, and acts in its high position. Although it is not in its proper position, this is advantageous for the use of legal constraints.
 
 <a name="fr_146"></a>[XXII](#fn_146).
 
@@ -242,11 +228,9 @@ the centre, and acts in its high position. Although it is not in its proper posi
 
 5. Do we not see in [**Fù ䷗**](e5a48dfu.md) the mind of heaven and earth?
 
-<a name="fr_149"></a>[XXV](#fn_149). In [**Wú Wàng ䷘**](e697a0e5a684wuwang.md) we have the strong (first) line come from the outer (trigram), and become in the inner trigram lord (of the whole figure); we have (the attributes of) motive power and strength; we have the strong line (of the fifth place) in the
+<a name="fr_149"></a>[XXV](#fn_149). In [**Wú Wàng ䷘**](e697a0e5a684wuwang.md) we have the strong (first) line come from the outer (trigram), and become in the inner trigram lord (of the whole figure); we have (the attributes of) motive power and strength; we have the strong line (of the fifth place) in the central position, and responded to (by the weak second): -- there will be 'great progress proceeding from correctness; such is the appointment of Heaven.
 
 ###### p. 234
-
-central position, and responded to (by the weak second): -- there will be 'great progress proceeding from correctness; such is the appointment of Heaven.
 
 'If (its subject and his action) be not correct, he will fall into errors, and it will not be advantageous for him to move in any direction:' -- whither can he (who thinks he is) free from all insincerity, (and yet is as here described) proceed? Can anything be done (advantageously) by him whom the (will and) appointment of Heaven do not help?
 
@@ -288,11 +272,9 @@ central position, and responded to (by the weak second): -- there will be 'great
 
 3. That 'the mind is penetrating' is indicated by the strong (line) in the centre **☵**. That 'action (in accordance with this) will be of high value' tells us that advance will be followed by achievement.
 
-4. The dangerous (height) of heaven cannot be ascended; the difficult places of the earth are mountains,
-
 ###### p. 237
 
-rivers, hills, and mounds. Kings and princes arrange by means of such strengths, to maintain their territories. Great indeed is the use of (what is here) taught about seasons of peril.
+4. The dangerous (height) of heaven cannot be ascended; the difficult places of the earth are mountains, rivers, hills, and mounds. Kings and princes arrange by means of such strengths, to maintain their territories. Great indeed is the use of (what is here) taught about seasons of peril.
 
 <a name="fr_154"></a>[XXX](#fn_154).
 
@@ -396,7 +378,7 @@ Paragraph 3 is also tantalising. Why does the writer introduce the subject of pu
 
 <a name="fn_146"></a>[`231:XXII`](#fr_146) The first paragraph is either superfluous or incomplete.
 
-The language of paragraph 2 has naturally been pressed into the <sub>[p. 232](#p-232)</sub> service of the doctrine of changing the figures by divining manipulation; see [p. 219](#p-219), on paragraph 2 of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) of hexagram 6. But as the [**Kāng Xī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors point out, 'the weak line coming and ornamenting the two strong ones' simply indicates how substantiality should have the help of ornament, and 'the strong line above (or ascending) and ornamenting the two weak lines' indicates that ornament should be restrained by substantiality. Ornament has its use, but it must be kept in check. -- The closing sentence has no connexion with what precedes. Some characters are wanting, to show how the writer passes on to speak of 'the ornamental figures of the sky.' The whole should then be joined on to paragraph 3. The 'figures of the sky' are all the heavenly bodies in their relative positions and various movements, producing day and night, heat and cold, &c. The observances of society are the ceremonies and performances which regulate and beautify the intercourse of men, and constitute the transforming lessons of sagely wisdom.
+The language of paragraph 2 has naturally been pressed into the <sub>[p. 232](#p-232)</sub> service of the doctrine of changing the figures by divining manipulation; see [p. 219](#p-219), on paragraph 2 of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) of [**hexagram 6 ䷅**](e8aebcsong.md). But as the [**Kāng Xī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors point out, 'the weak line coming and ornamenting the two strong ones' simply indicates how substantiality should have the help of ornament, and 'the strong line above (or ascending) and ornamenting the two weak lines' indicates that ornament should be restrained by substantiality. Ornament has its use, but it must be kept in check. -- The closing sentence has no connexion with what precedes. Some characters are wanting, to show how the writer passes on to speak of 'the ornamental figures of the sky.' The whole should then be joined on to paragraph 3. The 'figures of the sky' are all the heavenly bodies in their relative positions and various movements, producing day and night, heat and cold, &c. The observances of society are the ceremonies and performances which regulate and beautify the intercourse of men, and constitute the transforming lessons of sagely wisdom.
 
 <a name="fn_147"></a>[`232:XXIII`](#fr_147) 'The symbolic figures in the hexagram' are **Kūn ☷**, below, the representative of docility, acting as circumstances require; and **Gèn ☶**, the representative of a mountain, which arrests the progress of the traveller. The superior man of the topmost line thus interprets them, and acts accordingly. Yet he is not left without hope. Winter is followed by spring; night is <sub>[p. 233](#p-233)</sub> succeeded by day; the moon wanes, and then begins to wax again. So will it be in political life. As we read in the Hebrew prophet Isaiah, 'In returning and rest shall ye be saved; in quietness and in confidence shall be your strength.'
 
