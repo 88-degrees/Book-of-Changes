@@ -1,5 +1,7 @@
 # Jìn ䷢
 
+* Advancing
+
 > Chinese: 晋 ䷢ jìn
 
 ###### p. 131
@@ -48,7 +50,7 @@ In **Jìn ䷢** we see a prince who secures the tranquillity (of the people) pre
 
 ## Notes
 
-The [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) of this hexagram expresses its subject more fully and plainly than that of any of the previous thirty-four. It is about a feudal prince whose services to the country have made him acceptable to his king. The king's favour has been shown to him by gifts and personal attentions such as form the theme of more than one ode in the [Shī Jīng; see especially III, iii, 7](https://ctext.org/dictionary.pl?if=en&id=16515). The symbolism of the lines dimly indicates the qualities of such a prince. **Jìn ䷢** means to advance.' Hexagrams 46 ䷭ and 53 ䷴ agree with this in being called by names that indicate progress and advance. The advance in **Jìn ䷢** is like that of the sun, 'the shining light, shining more and more to the perfect day.'
+The [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) of this hexagram expresses its subject more fully and plainly than that of any of the previous thirty-four. It is about a feudal prince whose services to the country have made him acceptable to his king. The king's favour has been shown to him by gifts and personal attentions such as form the theme of more than one ode in the [Shī Jīng; see especially III, iii, 7](https://ctext.org/dictionary.pl?if=en&id=16515). The symbolism of the lines dimly indicates the qualities of such a prince. **Jìn ䷢** means to advance.' Hexagrams [46 ䷭](e58d87sheng.md) and [53 ䷴](e6b890jian.md) agree with this in being called by names that indicate progress and advance. The advance in **Jìn ䷢** is like that of the sun, 'the shining light, shining more and more to the perfect day.'
 
 Line 1 is weak, and in the lowest place, and its correlate in 4 is neither central nor in its correct position. This indicates the small and obstructed beginnings of his subject. But by his firm correctness he pursues the way to good fortune; and though the king does not yet believe in him, he the more pursues his noble course.
 
