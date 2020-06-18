@@ -1,34 +1,54 @@
 # Jiǎn ䷦
 
+* Difficulty Walking
+
 > Chinese: 蹇 ䷦ jiǎn
 
 ###### p. 141
 
 ![Jian](https://88o.io/wp-content/uploads/2018/09/39-e8b987jian.jpg)
 
-In (the state indicated by) **Jiǎn ䷦** advantage will be found in the south-west, and the contrary in the north-east. It will be advantageous (also) to meet
+In (the state indicated by) **Jiǎn ䷦** advantage will be found in the south-west, and the contrary in the north-east. It will be advantageous (also) to meet with the great man. (In these circumstances), with firmness and correctness, there will be good fortune.
 
 ###### p. 142
 
-with the great man.
-(In these circumstances), with firmness and correctness, there will be good fortune.
+1.<a name="39.1"></a> From the first SIX, divided, we learn that advance (on the part of its subject) will lead to (greater) difficulties, while remaining stationary will afford ground for praise.
 
-1. From the first SIX, divided, we learn that advance (on the part of its subject) will lead to (greater) difficulties, while remaining stationary will afford ground for praise.
+> **䷦** changing to [**䷾**](e697a2e6b58ejiji.md)
 
-2. The second SIX, divided, shows the minister of the king struggling with difficulty on difficulty, and not with a view to his own advantage.
+> Matching Line 1 in Adjacent Hexagram: [**䷧**](e8a7a3xie.md#40.1)
 
-3. The third NINE, undivided, shows its subject advancing, (but only) to (greater) difficulties. He remains stationary, and returns (to his former associates).
+2.<a name="39.2"></a> The second SIX, divided, shows the minister of the king struggling with difficulty on difficulty, and not with a view to his own advantage.
 
-4. The fourth SIX, divided, shows its subject advancing, (but only) to (greater) difficulties. He remains stationary, and unites (with the subject of the line above).
+> **䷦** changing to [**䷯**](e4ba95jing.md)
 
-5. The fifth NINE, undivided, shows its subject struggling with the greatest difficulties, while friends are coming to help him.
+> Matching Line 2 in Adjacent Hexagram: [**䷧**](e8a7a3xie.md#40.2)
 
-6. The topmost SIX, divided, shows its subject going forward, (only to increase) the difficulties,
+3.<a name="39.3"></a> The third NINE, undivided, shows its subject advancing, (but only) to (greater) difficulties. He remains stationary, and returns (to his former associates).
+
+> **䷦** changing to [**䷇**](e6af94bi.md)
+
+> Matching Line 3 in Adjacent Hexagram: [**䷧**](e8a7a3xie.md#40.3)
+
+4.<a name="39.4"></a> The fourth SIX, divided, shows its subject advancing, (but only) to (greater) difficulties. He remains stationary, and unites (with the subject of the line above).
+
+> **䷦** changing to [**䷞**](e592b8xian.md)
+
+> Matching Line 4 in Adjacent Hexagram: [**䷧**](e8a7a3xie.md#40.4)
+
+5.<a name="39.5"></a> The fifth NINE, undivided, shows its subject struggling with the greatest difficulties, while friends are coming to help him.
+
+> **䷦** changing to [**䷎**](e8b0a6qian.md)
+
+> Matching Line 5 in Adjacent Hexagram: [**䷧**](e8a7a3xie.md#40.5)
 
 ###### p. 143
 
-while his remaining stationary will be (productive of) great (merit).
-There will be good fortune, and it will be advantageous to meet with the great man.
+6.<a name="39.6"></a> The topmost SIX, divided, shows its subject going forward, (only to increase) the difficulties, while his remaining stationary will be (productive of) great (merit). There will be good fortune, and it will be advantageous to meet with the great man.
+
+> **䷦** changing to [**䷴**](e6b890jian.md)
+
+> Matching Line 6 in Adjacent Hexagram: [**䷧**](e8a7a3xie.md#40.6)
 
 ## Notes
 
@@ -52,4 +72,4 @@ Line 5 is the king, the man great and strong. He can cope with the difficulties,
 
 The action of the hexagram is over; where can the weak 6 go forward to? Let him abide where he is, and serve the great man immediately below him. So shall he also be great; -- in meritorious action at least.
 
-# [蹇](e8b987jian_cn.md)
+# [蹇 ䷦](e8b987jian_cn.md)
