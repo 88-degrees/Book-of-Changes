@@ -1,28 +1,52 @@
 # Jiā Rén ䷤
 
+* Household
+
 > Chinese: 家人 ䷤ jiā rén
 
 ###### p. 136
 
 ![Jiaren](https://88o.io/wp-content/uploads/2018/09/37-e5aeb6e4babajiaren.jpg)
 
-For (the realisation of what is taught in) **Jiā Rén ䷤** , (or for the regulation of the family), what is
+For (the realisation of what is taught in) **Jiā Rén ䷤** , (or for the regulation of the family), what is most advantageous is that the wife be firm and correct.
 
 ###### p. 137
 
-most advantageous is that the wife be firm and correct.
-
 1.<a name="37.1"></a> The first NINE, undivided, shows its subject establishing restrictive regulations in his household Occasion for repentance will disappear.
+
+> **䷤** changing to [**䷴**](e6b890jian.md)
+
+> Matching Line 1 in Adjacent Hexagram: [**䷥**](e79dbdkui.md#38.1)
 
 2.<a name="37.2"></a> The second SIX, divided, shows its subject taking nothing on herself, but in her central place attending to the preparation of the food. Through her firm correctness there will be good fortune.
 
+> **䷤** changing to [**䷈**](e5b08fe7959cxiaoxu.md)
+
+> Matching Line 2 in Adjacent Hexagram: [**䷥**](e79dbdkui.md#38.2)
+
 3.<a name="37.3"></a> The third NINE, undivided, shows its subject (treating) the members of the household with stern severity. There will be occasion for repentance, there will be peril, (but) there will (also) be good fortune. If the wife and children were to be smirking and chattering, in the end there would be occasion for regret.
+
+> **䷤** changing to [**䷩**](e79b8ayi.md)
+
+> Matching Line 3 in Adjacent Hexagram: [**䷥**](e79dbdkui.md#38.3)
 
 4.<a name="37.4"></a> The fourth SIX, divided, shows its subject enriching the family. There will be great good fortune.
 
+> **䷤** changing to [**䷌**](e5908ce4babatongren.md)
+
+> Matching Line 4 in Adjacent Hexagram: [**䷥**](e79dbdkui.md#38.4)
+
 5.<a name="37.5"></a> The fifth NINE, undivided, shows the influence of the king extending to his family. There need be no anxiety; there will be good fortune.
 
+> **䷤** changing to [**䷕**](e8b4b2bi.md)
+
+> Matching Line 5 in Adjacent Hexagram: [**䷥**](e79dbdkui.md#38.5)
+
 6.<a name="37.6"></a> The topmost NINE, undivided, shows its subject possessed of sincerity and arrayed in majesty. In the end there will be good fortune.
+
+> **䷤** changing to [**䷾**](e697a2e6b58ejiji.md)
+
+> Matching Line 6 in Adjacent Hexagram: [**䷥**](e79dbdkui.md#38.6)
 
 ## Notes
 
