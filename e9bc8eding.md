@@ -40,7 +40,7 @@ Line 2 is strong. 'The enemy' is the first line, which solicits 1. One, however,
 See my foe with angry glare;
 But touch me he does not dare.'
 
-Line 3 is also strong, and in the proper place; and if its correlate were the divided 5, its auspice would be entirely good. But instead of 5, its correlate is the strong 6. The place of the ears at 5 has been changed. Things promise badly. The advance of 3 is stopped. The good meat in the caldron which it symbolises will not be eaten. But 3 keeping firm 5 will by and by seek its society! The `yīn` and the yang will mingle, and their union will be followed by genial rain. The issue will he good.
+Line 3 is also strong, and in the proper place; and if its correlate were the divided 5, its auspice would be entirely good. But instead of 5, its correlate is the strong 6. The place of the ears at 5 has been changed. Things promise badly. The advance of 3 is stopped. The good meat in the caldron which it symbolises will not be eaten. But 3 keeping firm 5 will by and by seek its society! The `yīn` and the `yáng` will mingle, and their union will be followed by genial rain. The issue will he good.
 
 Line 4 is in the place of a great minister, who is charged with the most difficult duties, which no single man can sustain. Then the strength of 4 is weakened by being in an even place, and its correlate is the weak 1 in the lowest place. Its subject is insufficient of himself for his work, and he has no sufficient help; and the result will be evil.
 

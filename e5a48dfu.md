@@ -56,7 +56,7 @@ The strong bottom line is the first of **Zhèn ☳**, the trigram of movement, a
 
 The sentence, 'In seven days comes his return,' occasions some perplexity. If the reader will refer to hexagrams 44 ䷫, 33 ䷠, 12 ䷋, 20 ䷓, 23 ䷖, and 2 ䷁, he will see that during the months denoted by those figures, the 5th, 6th, 7th, 8th, 9th, and 10th, the `yīn` lines have gradually been prevailing over the `yáng`, until in [**Kūn ䷁**](e59da4kun.md) (hexagrams 2) they have extruded them entirely from the lineal figure.
 
-Then comes our **Fù ䷗**, as a seventh figure, in which the yang line begins to reassert itself,
+Then comes our **Fù ䷗**, as a seventh figure, in which the `yáng` line begins to reassert itself,
 and from which it goes on to extrude the `yīn` lines in their turn. Explained therefore of the months of the year, we have to take a day for a month.
 And something analogous -- we cannot say exactly what -- must have place in society and the state.
 

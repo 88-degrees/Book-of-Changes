@@ -39,7 +39,7 @@ The name **Xiǎo Guò ䷽** is explained both by reference to the lines of the h
 and to the meaning of the characters. The explanation from the lines appears immediately on comparing them with those of [**Dà Guò ䷛**](e5a4a7e8bf87daguo.md), the 28th hexagram.
 There the first and sixth lines are divided, and between are four undivided lines;
 here the third and fourth lines are undivided, and outside each of them are two divided lines.
-The undivided or yang lines are great, the divided or `yīn` lines are called small.
+The undivided or `yáng` lines are great, the divided or `yīn` lines are called small.
 In **Xiǎo Guò ䷽** the divided or small lines predominate. But this peculiar structure of the figure could be of no interest to the student,
 if it were not for the meaning of the name, which is 'small excesses' or 'exceeding in what is small.'
 The author, accepted by us as [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou), had in his mind our distinction of essentials and non-essentials.

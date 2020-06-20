@@ -36,7 +36,7 @@ no ground for blame or for praise,' are in reality a lesson of caution.
 
 9. The superior man (emblemed here) by the yellow' and correct (colour), is possessed of comprehension and discrimination. He occupies the correct position (of supremacy), but (that emblem) is on (the lower part of) his person. His excellence is in the centre (of his being), but it diffuses a complacency over his four limbs, and is manifested in his (conduct of) affairs: -- this is the perfection of excellence.
 
-10. (The subject of) the `yīn` (or divided line) thinking himself equal to the (subject of the) yang, or undivided line, there is sure to be 'a contest.' As if indignant at there being no acknowledgment of the (superiority of the subject of the) yang line, (the text) uses the term 'dragons.' But still the (subject of neither line) can leave his class, and hence we have 'the blood' mentioned. The mention of that as being (both) 'azure and yellow' indicates the mixture of heaven and earth. Heaven's (colour) is azure and earth's is yellow.
+10. (The subject of) the `yīn` (or divided line) thinking himself equal to the (subject of the) `yáng`, or undivided line, there is sure to be 'a contest.' As if indignant at there being no acknowledgment of the (superiority of the subject of the) `yáng` line, (the text) uses the term 'dragons.' But still the (subject of neither line) can leave his class, and hence we have 'the blood' mentioned. The mention of that as being (both) 'azure and yellow' indicates the mixture of heaven and earth. Heaven's (colour) is azure and earth's is yellow.
 
 ### Footnotes
 

@@ -434,7 +434,7 @@ The lesson of paragraph 3 is not unity in diversity, but union with diversity.
 
 <a name="fn_163"></a>[244:XXXIX](#fr_163) The upper or front trigram is **Kǎn ☵**, the attribute of which is perilousness; the lower is **Gèn ☶**, of which the arresting, actively or passively, of movement or advance is the attribute. We can understand how the union of these attributes gives the ideas of difficulty and prudent caution.
 
-The explanations in paragraph 2 of the phraseology of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) p. 245 are not all easily followed. It is said that the advantageousness of the south-west is due to the central line in 5; but if we are to look for the meaning of south-west in **Kūn ☷**, as in the diagram of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s trigrams, there is no strong central line in it. May **Kǎn ☵**, as a yang trigram, be used for **Kūn ☷**?
+The explanations in paragraph 2 of the phraseology of the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) p. 245 are not all easily followed. It is said that the advantageousness of the south-west is due to the central line in 5; but if we are to look for the meaning of south-west in **Kūn ☷**, as in the diagram of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s trigrams, there is no strong central line in it. May **Kǎn ☵**, as a `yáng` trigram, be used for **Kūn ☷**?
 
 <a name="fn_164"></a>[245:XL](#fr_164)
 
