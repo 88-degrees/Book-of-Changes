@@ -1,5 +1,7 @@
 # Gòu ䷫
 
+* Encountering
+
 > Chinese: 姤 ䷫ gòu
 
 ###### p. 154
@@ -10,31 +12,49 @@
 
 ###### p. 155
 
-1. The first SIX, divided, shows how its subject should be kept (like a carriage) tied and fastened to a metal drag,
-in which case with firm correctness there will be good fortune. (But) if he move in any direction, evil will appear. He will be (like) a lean pig, which is sure to keep jumping about.
+1.<a name="44.1"></a> The first SIX, divided, shows how its subject should be kept (like a carriage) tied and fastened to a metal drag, in which case with firm correctness there will be good fortune. (But) if he move in any direction, evil will appear. He will be (like) a lean pig, which is sure to keep jumping about.
 
-2. The second NINE, undivided, shows its subject with a wallet of fish. There will be no error. But it will not be well to let (the subject of the first line) go forward to the guests.
+> **䷫** changing to [**䷀**](e4b9beqian.md)
 
-3. The third NINE, undivided, shows one from whose buttocks the skin has been stripped so that he walks with difficulty. The position is perilous, but there will be no great error.
+> Matching Line 1 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.1)
 
-4. The fourth NINE, undivided, shows its subject with his wallet, but no fish in it. This will give rise to evil.
+2.<a name="44.2"></a> The second NINE, undivided, shows its subject with a wallet of fish. There will be no error. But it will not be well to let (the subject of the first line) go forward to the guests.
 
-5. The fifth NINE, undivided, (shows its subject as) a medlar tree overspreading the gourd (beneath it). If he keep his brilliant qualities concealed, (a good issue) will descend (as) from Heaven.
+> **䷫** changing to [**䷠**](e981afdun.md)
 
-6. The sixth NINE, undivided, shows its subject receiving others on his horns. There will be occasion for regret, but there will be no error.
+> Matching Line 2 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.2)
+
+3.<a name="44.3"></a> The third NINE, undivided, shows one from whose buttocks the skin has been stripped so that he walks with difficulty. The position is perilous, but there will be no great error.
+
+> **䷫** changing to [**䷅**](e8aebcsong.md)
+
+> Matching Line 3 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.3)
+
+4.<a name="44.4"></a> The fourth NINE, undivided, shows its subject with his wallet, but no fish in it. This will give rise to evil.
+
+> **䷫** changing to [**䷸**](e5b7bdxun.md)
+
+> Matching Line 4 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.4)
+
+5.<a name="44.5"></a> The fifth NINE, undivided, (shows its subject as) a medlar tree overspreading the gourd (beneath it). If he keep his brilliant qualities concealed, (a good issue) will descend (as) from Heaven.
+
+> **䷫** changing to [**䷱**](e9bc8eding.md)
+
+> Matching Line 5 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.5)
+
+6.<a name="44.6"></a> The sixth NINE, undivided, shows its subject receiving others on his horns. There will be occasion for regret, but there will be no error.
+
+> **䷫** changing to [**䷛**](e5a4a7e8bf87daguo.md)
+
+> Matching Line 6 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.6)
 
 ## Notes
 
-The single, divided, line at the top of **Gòu ䷫**, the hexagram of the third month, has been displaced, and Khien has ruled over the fourth month of the year.
-But the innings of the divided line commence again; and here we have in **Gòu ䷫** the hexagram of the fifth month, when light and heat are supposed both to begin to be less.
+The single, divided, line at the top of **Gòu ䷫**, the hexagram of the third month, has been displaced, and **Qián ☰** has ruled over the fourth month of the year. But the innings of the divided line commence again; and here we have in **Gòu ䷫** the hexagram of the fifth month, when light and heat are supposed both to begin to be less.
 
-In that divided line [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) saw the symbol of the small or unworthy man, beginning to insinuate himself into the government of the country.
-His influence, if unchecked, would go on to grow, and he would displace one good man after another, and fill the vacant seats with others like-minded with himself.
-The object of [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) in his [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), therefore, was to enjoin resistance to the encroachment of this bad man.
+In that divided line [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) saw the symbol of the small or unworthy man, beginning to insinuate himself into the government of the country. His influence, if unchecked, would go on to grow, and he would displace one good man after another, and fill the vacant seats with others like-minded with himself. The object of [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) in his [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), therefore, was to enjoin resistance to the encroachment of this bad man.
 
-**Gòu ䷫** is defined as giving the idea of suddenly and casually encountering or meeting with. So does the divided line appear all at once in the figure.
-And this significance of the name rules in the interpretation of the lines, so as to set on one side the more common interpretation of them according to the correlation;
-showing how the meaning of the figures was put into them from the minds of [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and [Dàn](https://en.wikipedia.org/wiki/Duke_of_Zhou) in the first place. The sentiments of the Text are not learned from them; but they are forced and twisted, often fantastically, and made to appear to give those sentiments forth of themselves.
+**Gòu ䷫** is defined as giving the idea of suddenly and casually encountering or meeting with. So does the divided line appear all at once in the figure. And this significance of the name rules in the interpretation of the lines, so as to set on one side the more common interpretation of them according to the correlation; showing how the meaning of the figures was put into them from the minds of [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and [Dàn](https://en.wikipedia.org/wiki/Duke_of_Zhou) in the first place. The sentiments of the Text are not learned from them; but they are forced and twisted, often fantastically, and made to appear to give those sentiments forth of themselves.
 
 Here the first line, divided, where it ought to be the contrary, becomes the symbol of a bold, bad woman, who appears unexpectedly on the scene,
 and wishes to subdue or win all the five strong lines to herself. No one would contract a marriage with such a female; and every good servant of his country will try to repel the entrance into the government of every officer who can be so symbolised.
@@ -51,4 +71,4 @@ Line 5 is strong, and in the ruler's place. Its relation to 1 is like that of a 
 
 The symbolism of line 6 is difficult to understand, though the meaning of what is said is pretty clear. The [**Kāng Xī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe: -- 'The subject of this line is like an officer who has withdrawn from the world. He can accomplish no service for the time; but his person is removed from the workers of disorder.'
 
-# [姤](e5a7a4gou_cn.md)
+# [姤 ䷫](e5a7a4gou_cn.md)
