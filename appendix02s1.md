@@ -574,7 +574,7 @@ The subject of line 2, which is undivided and in the centre **☵**, is thereby 
 
 The recognition of the circumstances of the time, and hearkening to its requirements, explain, in paragraph 4, 'the retreat from the cavern,' which is not here repeated from the Text. The line being weak and divided, its subject knows his own incompetency, and takes this prudent step.
 
-Kû says that he does not understand what is said under line 6, -- that the occupant and the place are not suited to each other, for the yin line being in the sixth, an even place, seems to be where it ought to be. We are only surprised that cases of inconsistency in these explanations are not more numerous.
+Kû says that he does not understand what is said under line 6, -- that the occupant and the place are not suited to each other, for the `yīn` line being in the sixth, an even place, seems to be where it ought to be. We are only surprised that cases of inconsistency in these explanations are not more numerous.
 
 <a name="fn_195"></a>[275:VI](#fr_195) The symbolism here is different from that in the Text of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). We have the visible sky ascending and water or rain descending, which indicate, one hardly sees how, opposition and contention. The lesson as to the course of the superior man is a good one, but might with equal propriety be deduced from many other hexagrams.
 
