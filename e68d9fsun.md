@@ -1,30 +1,52 @@
 # Sǔn ䷨
 
+* Diminishing
+
 > Chinese: 损 ䷨ sǔn
 
 ###### p. 146
 
 ![Sun](https://88o.io/wp-content/uploads/2018/09/41-e68d9fsun.jpg)
 
-In (what is denoted by) **Sǔn ䷨**, if there be sincerity (in him who employs it), there will be great good fortune: -- freedom from error; firmness and correctness that can be maintained; and advantage in every
+In (what is denoted by) **Sǔn ䷨**, if there be sincerity (in him who employs it), there will be great good fortune: -- freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made. In what shall this (sincerity in the exercise of **Sǔn ䷨**) be employed? (Even) in sacrifice two baskets of grain, (though there be nothing else), may be presented.
 
 ###### p. 147
 
-movement that shall be made. In what shall this (sincerity in the exercise of **Sǔn ䷨**) be employed?
-(Even) in sacrifice two baskets of grain, (though there be nothing else), may be presented.
+1.<a name="41.1"></a> The first NINE, undivided, shows its subject suspending his own affairs, and hurrying away (to help the subject of the fourth line). He will commit no error, but let him consider how far he should contribute of what is his (for the other).
 
-1. The first NINE, undivided, shows its subject suspending his own affairs, and hurrying away (to help the subject of the fourth line).
-He will commit no error, but let him consider how far he should contribute of what is his (for the other).
+> **䷨** changing to [**䷃**](e89299meng.md)
 
-2. The second NINE, undivided, shows that it will be advantageous for its subject to maintain a firm correctness, and that action on his part will be evil. He can give increase (to his correlate) without taking from himself
+> Matching Line 1 in Adjacent Hexagram: [**䷩**](e79b8ayi.md#42.1)
 
-3. The third SIX, divided, shows how of three men walking together, the number is diminished by one; and how one, walking, finds his friend.
+2.<a name="41.2"></a> The second NINE, undivided, shows that it will be advantageous for its subject to maintain a firm correctness, and that action on his part will be evil. He can give increase (to his correlate) without taking from himself.
 
-4. The fourth SIX, divided, shows its subject diminishing the ailment under which he labours by making (the subject of the first line) hasten (to his help), and make him glad. There will be no error.
+> **䷨** changing to [**䷚**](e9a290yi.md)
 
-5. The fifth SIX, divided, shows parties adding to (the stores of) its subject ten pairs of tortoise shells, and accepting no refusal. There will be great good fortune.
+> Matching Line 2 in Adjacent Hexagram: [**䷩**](e79b8ayi.md#42.2)
 
-6. The topmost NINE, undivided, shows its subject giving increase to others without taking from himself. There will be no error. With firm correctness there will be good fortune. There will be advantage in every movement that shall be made. He will find ministers more than can be counted by their clans.
+3.<a name="41.3"></a> The third SIX, divided, shows how of three men walking together, the number is diminished by one; and how one, walking, finds his friend.
+
+> **䷨** changing to [**䷙**](e5a4a7e89384daxu.md)
+
+> Matching Line 3 in Adjacent Hexagram: [**䷩**](e79b8ayi.md#42.3)
+
+4.<a name="41.4"></a> The fourth SIX, divided, shows its subject diminishing the ailment under which he labours by making (the subject of the first line) hasten (to his help), and make him glad. There will be no error.
+
+> **䷨** changing to [**䷥**](e79dbdkui.md)
+
+> Matching Line 4 in Adjacent Hexagram: [**䷩**](e79b8ayi.md#42.4)
+
+5.<a name="41.5"></a> The fifth SIX, divided, shows parties adding to (the stores of) its subject ten pairs of tortoise shells, and accepting no refusal. There will be great good fortune.
+
+> **䷨** changing to [**䷼**](e4b8ade5ad9azhongfu.md)
+
+> Matching Line 5 in Adjacent Hexagram: [**䷩**](e79b8ayi.md#42.5)
+
+6.<a name="41.6"></a> The topmost NINE, undivided, shows its subject giving increase to others without taking from himself. There will be no error. With firm correctness there will be good fortune. There will be advantage in every movement that shall be made. He will find ministers more than can be counted by their clans.
+
+> **䷨** changing to [**䷒**](e4b8b4lin.md)
+
+> Matching Line 6 in Adjacent Hexagram: [**䷩**](e79b8ayi.md#42.6)
 
 ## Notes
 
@@ -44,4 +66,4 @@ Line 5 is the seat of the ruler, who is here humble, and welcomes the assistance
 
 Line 6 has been changed from a weak into a strong line from line 3; has received therefore the greatest increase, and will carry out the idea of the hexagram in the highest degree and style. But he can give increase to others without diminishing his own resources, and of course the benefit he will confer will be incalculable. Ministers will come to serve him; and not one from each clan merely, but many. Such is the substance of what is said on this last paragraph. I confess that I only discern the meaning darkly.
 
-# [损](e68d9fsun_cn.md)
+# [损 ䷨](e68d9fsun_cn.md)
