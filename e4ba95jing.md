@@ -1,30 +1,54 @@
 # Jǐng ䷯
 
+* The Well
+
 > Chinese: 井 ䷯ jǐng
 
 ###### p. 164
 
 ![Jing](https://88o.io/wp-content/uploads/2018/09/48-e4ba95jing.jpg)
 
-(Looking at) **Jǐng ䷯**, (we think of) how (the site of) a town may be changed, while (the fashion of) its
+(Looking at) **Jǐng ䷯**, (we think of) how (the site of) a town may be changed, while (the fashion of) its wells undergoes no change. (The water of a well) never disappears and never receives (any great) increase, and those who come and those who go can draw and enjoy the benefit. If (the drawing) have nearly been accomplished, but, before the rope has quite reached the water, the bucket is broken, this is evil.
 
 ###### p. 165
 
-wells undergoes no change. (The water of a well) never disappears and never receives (any great) increase, and those who come and those who go can draw and enjoy the benefit. If (the drawing) have nearly been accomplished, but, before the rope has quite reached the water, the bucket is broken, this is evil.
+1.<a name="48.1"></a> The first SIX, divided, shows a well so muddy that men will not drink of it; or an old well to which neither birds (nor other creatures) resort.
 
-1. The first SIX, divided, shows a well so muddy that men will not drink of it; or an old well to which neither birds (nor other creatures) resort.
+> **䷯** changing to [**䷄**](e99c80xu.md)
 
-2. The second NINE, undivided, shows a well from which by a hole the water escapes and flows away to the shrimps (and such small creatures among the grass), or one the water of which leaks away from a broken basket.
+> Matching Line 1 in Adjacent Hexagram: [**䷮**](e59bb0kun.md#47.1)
 
-3. The third NINE, undivided, shows a well, which has been cleared out, but is not used. Our hearts are sorry for this, for the water might be drawn out and used. If the king were (only) intelligent, both he and we might receive the benefit of it.
+2.<a name="48.2"></a> The second NINE, undivided, shows a well from which by a hole the water escapes and flows away to the shrimps (and such small creatures among the grass), or one the water of which leaks away from a broken basket.
+
+> **䷯** changing to [**䷦**](e8b987jian.md)
+
+> Matching Line 2 in Adjacent Hexagram: [**䷮**](e59bb0kun.md#47.2)
+
+3.<a name="48.3"></a> The third NINE, undivided, shows a well, which has been cleared out, but is not used. Our hearts are sorry for this, for the water might be drawn out and used. If the king were (only) intelligent, both he and we might receive the benefit of it.
+
+> **䷯** changing to [**䷜**](e59d8ekan.md)
+
+> Matching Line 3 in Adjacent Hexagram: [**䷮**](e59bb0kun.md#47.3)
 
 ###### p. 166
 
-4. The fourth SIX, divided, shows a well, the lining of which is well laid. There will be no error.
+4.<a name="48.4"></a> The fourth SIX, divided, shows a well, the lining of which is well laid. There will be no error.
 
-5. The fifth NINE, undivided, shows a clear, limpid well, (the waters from) whose cold spring are (freely) drunk.
+> **䷯** changing to [**䷛**](e5a4a7e8bf87daguo.md)
 
-6. The topmost SIX, divided, shows (the water from) the well brought to the top, which is not allowed to be covered. This suggests the idea of sincerity. There will be great good fortune.
+> Matching Line 4 in Adjacent Hexagram: [**䷮**](e59bb0kun.md#47.4)
+
+5.<a name="48.5"></a> The fifth NINE, undivided, shows a clear, limpid well, (the waters from) whose cold spring are (freely) drunk.
+
+> **䷯** changing to [**䷭**](e58d87sheng.md)
+
+> Matching Line 5 in Adjacent Hexagram: [**䷮**](e59bb0kun.md#47.5)
+
+6.<a name="48.6"></a> The topmost SIX, divided, shows (the water from) the well brought to the top, which is not allowed to be covered. This suggests the idea of sincerity. There will be great good fortune.
+
+> **䷯** changing to [**䷸**](e5b7bdxun.md)
+
+> Matching Line 6 in Adjacent Hexagram: [**䷮**](e59bb0kun.md#47.6)
 
 # Notes
 
@@ -46,4 +70,4 @@ Line 5 is strong, and in its right place. The place is that of the ruler, and su
 
 Line 6 is in its proper place, but weak. If the general idea of the figure was different, a bad auspice might be drawn from it. But here we see in it the symbol of the water drawn up, and the top uncovered so that the use of the well is free to all. Then the mention of 'sincerity' suggests the inexhaustibleness of the elemental supply.
 
-# [井](e4ba95jing_cn.md)
+# [井 ䷯](e4ba95jing_cn.md)
