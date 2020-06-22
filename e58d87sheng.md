@@ -1,22 +1,52 @@
 # Shēng ䷭
 
+* Ascending Upwards
+
 Chinese: shēng 升 ䷭
+
+###### p. 159
 
 ![Sheng](https://88o.io/wp-content/uploads/2018/09/46-e58d87sheng.jpg)
 
 **Shēng ䷭** indicates that (under its conditions) there will be great progress and success. Seeking by (the qualities implied in it) to meet with the great man, its subject need have no anxiety. Advance to the south will be fortunate.
 
-1. The first SIX, divided, shows its subject advancing upwards with the welcome (of those above him). There will be great good fortune.
+###### p. 160
 
-2. The second NINE, undivided, shows its subject with that sincerity which will make even the (small) offerings of the vernal sacrifice acceptable. There will be no error.
+1.<a name="46.1"></a> The first SIX, divided, shows its subject advancing upwards with the welcome (of those above him). There will be great good fortune.
 
-3. The third NINE, undivided, shows its subject ascending upwards (as into) an empty city.
+> **䷭** changing to [**䷊**](e6b3b0tai.md)
 
-4. The fourth SIX, divided, shows its subject employed by the king to present his offerings on [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County). There will be good fortune; there will be no mistake.
+> Matching Line 1 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.1)
 
-5. The fifth six, divided, shows its subject firmly correct, and therefore enjoying good fortune. He ascends the stairs (with all due ceremony).
+2.<a name="46.2"></a> The second NINE, undivided, shows its subject with that sincerity which will make even the (small) offerings of the vernal sacrifice acceptable. There will be no error.
 
-6. The sixth six, divided, shows its subject advancing upwards blindly. Advantage will be found in a ceaseless maintenance of firm correctness.
+> **䷭** changing to [**䷎**](e8b0a6qian.md)
+
+> Matching Line 2 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.2)
+
+3.<a name="46.3"></a> The third NINE, undivided, shows its subject ascending upwards (as into) an empty city.
+
+> **䷭** changing to [**䷆**](e5b888shi.md)
+
+> Matching Line 3 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.3)
+
+4.<a name="46.4"></a> The fourth SIX, divided, shows its subject employed by the king to present his offerings on [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County). There will be good fortune; there will be no mistake.
+
+> **䷭** changing to [**䷟**](e68192heng.md)
+
+> Matching Line 4 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.4)
+
+5.<a name="46.5"></a> The fifth six, divided, shows its subject firmly correct, and therefore enjoying good fortune. He ascends the stairs (with all due ceremony).
+
+> **䷭** changing to [**䷯**](e4ba95jing.md)
+
+> Matching Line 5 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.5)
+
+6.<a name="46.6"></a> The sixth six, divided, shows its subject advancing upwards blindly. Advantage will be found in a ceaseless maintenance of firm correctness.
+
+> **䷭** changing to [**䷑**](e89b8agu.md)
+
+> Matching Line 6 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.6)
 
 ## Notes
 
@@ -24,7 +54,7 @@ The character **Shēng ䷭** is used of advancing in an upward direction, 'advan
 
 It is said that after he has met with the ruler, 'the great man' in 5, 'advance to the south will be fortunate.' [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) and other critics say that 'advancing to the south' is equivalent simply to 'advancing forwards.' The south is the region of brightness and warmth; advance towards it will be a joyful progress. As P. Regis explains the phrase, the traveller will proceed 'via recta simillima illi qua itur ad austrates felicesque plagas.'
 
-Line 1 is weak, where it should be strong; its subject, that is, is humble and docile. Those above him, therefore, welcome his advance. Another interpretation of the line is suggested by [Appendix I](appendix01s2.md#fn_170); which deserves consideration. As the first line of **Xùn** ( **☴** ), moreover, it may be supposed to concentrate in itself its attribute of docility, and be the lord of the trigram.
+Line 1 is weak, where it should be strong; its subject, that is, is humble and docile. Those above him, therefore, welcome his advance. Another interpretation of the line is suggested by [Appendix I](appendix01s2.md#fn_170); which deserves consideration. As the first line of **Xùn** ( **☴**), moreover, it may be supposed to concentrate in itself its attribute of docility, and be the lord of the trigram.
 
 See on the second line of [**Cuì ䷬**](e89083cui.md). Line 2 is strong, and the weak 5 is its proper correlate. We have a strong officer serving a weak ruler; he could not do so unless he were penetrated with a sincere and devoted loyalty.
 
@@ -36,4 +66,4 @@ In line 5 the advance has reached the highest point of dignity, and firm correct
 
 What can the subject of the hexagram want more? He has gained all his wishes, and still he is for going onwards. His advance is blind and foolish; and only the most exact correctness will save him from the consequences.
 
-# [升](e58d87sheng_cn.md)
+# [升 ䷭](e58d87sheng_cn.md)
