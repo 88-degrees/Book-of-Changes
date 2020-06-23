@@ -470,7 +470,7 @@ line seek to overpass that similarity, there will be calamity.
 
 4. 'He is surrounded by a screen large and thick:' -- the position of the line is inappropriate.
 
-'At midday he sees the constellation of the Bushel:' -- there is darkness and no light.
+'At midday he sees the constellation of the [Bushel](https://everything2.com/title/Northern+Bushel):' -- there is darkness and no light.
 
 'He meets with the subject of the line, undivided like himself. There will be good fortune:' -- action may be taken.
 
