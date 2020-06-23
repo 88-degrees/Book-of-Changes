@@ -8,7 +8,7 @@
 
 ![Zhen](https://88o.io/wp-content/uploads/2018/09/51-e99c87zhen.jpg)
 
-**Zhèn ䷲** gives the intimation of ease and development. When (the time of) movement (which it indicates) comes, (the subject of the hexagram) will be found looking out with apprehension, and yet smiling and talking cheerfully. When the movement (like a crash of thunder) terrifies all within a hundred lî, he will be (like the sincere worshipper) who is not (startled into) letting go his ladle and (cup of) sacrificial spirits.
+**Zhèn ䷲** gives the intimation of ease and development. When (the time of) movement (which it indicates) comes, (the subject of the hexagram) will be found looking out with apprehension, and yet smiling and talking cheerfully. When the movement (like a crash of thunder) terrifies all within a hundred `lǐ` ([里](https://ctext.org/dictionary.pl?if=en&char=里)), he will be (like the sincere worshipper) who is not (startled into) letting go his ladle and (cup of) sacrificial spirits.
 
 ###### p. 173
 
