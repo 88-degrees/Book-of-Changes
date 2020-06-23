@@ -8,11 +8,9 @@
 
 ![Gen](https://88o.io/wp-content/uploads/2018/09/52-e889aegen.jpg)
 
-When one's resting is like that of the back, and he loses all consciousness of self; when he walks
+When one's resting is like that of the back, and he loses all consciousness of self; when he walks in his courtyard, and does not see any (of the persons) in it, -- there will be no error.
 
 ###### p. 176
-
-in his courtyard, and does not see any (of the persons) in it, -- there will be no error.
 
 1.<a name="52.1"></a> The first SIX, divided, shows its subject keeping his toes at rest. There will be no error; but it will be advantageous for him to be persistently firm and correct.
 
@@ -46,11 +44,11 @@ in his courtyard, and does not see any (of the persons) in it, -- there will be 
 
 6.<a name="52.6"></a> The sixth NINE, undivided, shows its subject devotedly maintaining his restfulness. There will be good fortune.
 
-###### p. 177
-
 > **䷳** changing to [**䷎**](e8b0a6qian.md#15.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷲**](e99c87zhen.md#51.6)
+
+###### p. 177
 
 ## Notes
 
