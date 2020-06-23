@@ -12,7 +12,7 @@
 
 ###### p. 181
 
-1.<a name="54.1></a> The first NINE, undivided, shows the younger sister married off in a position ancillary to the real wife. (It suggests the idea of) a person lame on one leg who yet manages to tramp along. Going forward will be fortunate.
+1.<a name="54.1"></a> The first NINE, undivided, shows the younger sister married off in a position ancillary to the real wife. (It suggests the idea of) a person lame on one leg who yet manages to tramp along. Going forward will be fortunate.
 
 > **䷵** changing to [**䷧**](e8a7a3xie.md#40.1)
 
@@ -20,31 +20,31 @@
 
 ###### p. 182
 
-2.<a name="54.2></a> The second NINE, undivided, shows her blind of one eye, and yet able to see. There will be advantage in her maintaining the firm correctness of a solitary widow.
+2.<a name="54.2"></a> The second NINE, undivided, shows her blind of one eye, and yet able to see. There will be advantage in her maintaining the firm correctness of a solitary widow.
 
 > **䷵** changing to [**䷲**](e99c87zhen.md#51.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷵**](e6b890jian.md#53.2)
 
-3.<a name="54.3></a> The third SIX, divided, shows the younger sister who was to be married off in a mean position. She returns and accepts an ancillary position.
+3.<a name="54.3"></a> The third SIX, divided, shows the younger sister who was to be married off in a mean position. She returns and accepts an ancillary position.
 
 > **䷵** changing to [**䷡**](e5a4a7e5a3aedazhuang.md#34.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷵**](e6b890jian.md#53.3)
 
-4.<a name="54.4></a> The fourth NINE, undivided, shows the younger sister who is to be married off protracting the time. She may be late in being married, but the time will come.
+4.<a name="54.4"></a> The fourth NINE, undivided, shows the younger sister who is to be married off protracting the time. She may be late in being married, but the time will come.
 
 > **䷵** changing to [**䷒**](e4b8b4lin.md#19.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷵**](e6b890jian.md#53.4)
 
-5.<a name="54.5></a> The fifth SIX, divided, reminds us of the marrying of the younger sister of (king) [Dì Yǐ](https://en.wikipedia.org/wiki/Di_Yi), when the sleeves of her the princess were not equal to those of the (still) younger sister who accompanied her in an inferior capacity. (The case suggests the thought of) the moon almost full. There will be good fortune.
+5.<a name="54.5"></a> The fifth SIX, divided, reminds us of the marrying of the younger sister of (king) [Dì Yǐ](https://en.wikipedia.org/wiki/Di_Yi), when the sleeves of her the princess were not equal to those of the (still) younger sister who accompanied her in an inferior capacity. (The case suggests the thought of) the moon almost full. There will be good fortune.
 
 > **䷵** changing to [**䷹**](e58591dui.md#58.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷵**](e6b890jian.md#53.5)
 
-6.<a name="54.6></a> The sixth SIX, divided, shows the young lady bearing the basket, but without anything in it, and the gentleman slaughtering the sheep, but without blood flowing from it. There will be no advantage in any way.
+6.<a name="54.6"></a> The sixth SIX, divided, shows the young lady bearing the basket, but without anything in it, and the gentleman slaughtering the sheep, but without blood flowing from it. There will be no advantage in any way.
 
 > **䷵** changing to [**䷥**](e79dbdkui.md#38.6)
 
@@ -66,6 +66,6 @@ Line 4 is strong, where it should be weak; but in the case of a female the indic
 
 King [Dì Yǐ](https://en.wikipedia.org/wiki/Di_Yi) has been already mentioned under the fifth line of hexagram 11, and in connexion with some regulation which he made about the marriage of daughters of the royal house. His sister here is honourably mentioned, so as to suggest that the adorning which she preferred was 'the ornament of the hidden man of the heart.' The comparison of her to 'the moon almost full' I am ready to hail as an instance where the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou) is for once poetical. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), however, did not see poetry, but a symbol in it. 'The moon is not full,' he says, 'but only nearly full. A wife ought not to eclipse her husband!' However, the sister of [Dì Yǐ](https://en.wikipedia.org/wiki/Di_Yi) gets happily married, as she deserved to do, being represented by the line in the place of honour, having its proper correlate in 2.
 
-Line 6 is weak, at the top of the hexagram, and without a proper correlate. Hence its auspice is evil. The marriage-contract is broken, according to [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), and does not take effect. The parties mentioned in the paragraph appear engaged in the temple, offering or sacrificing to the spirits of their ancestors. But the woman's basket which should contain her offerings ([The Shī Jīng, I, ii, ode 4]()) is empty, and the man attempts to perform his part in slaying the victim ([The Shī Jīng, II, vi, ode 6. 5](https://www.sacred-texts.com/cfu/sbe03/sbe03075.htm)) without effect.
+Line 6 is weak, at the top of the hexagram, and without a proper correlate. Hence its auspice is evil. The marriage-contract is broken, according to [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), and does not take effect. The parties mentioned in the paragraph appear engaged in the temple, offering or sacrificing to the spirits of their ancestors. But the woman's basket which should contain her offerings ([The Shī Jīng, I, ii, ode 4]()) is empty, and the man attempts to perform his part in slaying the victim ([The Shī Jīng, II, vi, ode 6. 5](https://ctext.org/dictionary.pl?if=en&id=15943)) without effect.
 
 # [归妹 ䷵](e5bd92e5a6b9guimei_cn.md)
