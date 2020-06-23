@@ -1,30 +1,54 @@
 # Zhèn ䷲
 
+* Thunder, Movement
+
 > Chinese: 震 ䷲ zhèn
 
 ###### p. 172
 
 ![Zhen](https://88o.io/wp-content/uploads/2018/09/51-e99c87zhen.jpg)
 
-**Zhèn ䷲** gives the intimation of ease and development. When (the time of) movement (which it indicates) comes, (the subject of the hexagram) will be found looking out with apprehension, and yet
+**Zhèn ䷲** gives the intimation of ease and development. When (the time of) movement (which it indicates) comes, (the subject of the hexagram) will be found looking out with apprehension, and yet smiling and talking cheerfully. When the movement (like a crash of thunder) terrifies all within a hundred lî, he will be (like the sincere worshipper) who is not (startled into) letting go his ladle and (cup of) sacrificial spirits.
 
 ###### p. 173
 
-smiling and talking cheerfully. When the movement (like a crash of thunder) terrifies all within a hundred lî, he will be (like the sincere worshipper) who is not (startled into) letting go his ladle and (cup of) sacrificial spirits.
+1.<a name="51.1"></a> The first `NINE`, undivided, shows its subject, when the movement approaches, looking out and around with apprehension, and afterwards smiling and talking cheerfully. There will be good fortune.
 
-1. The first `NINE`, undivided, shows its subject, when the movement approaches, looking out and around with apprehension, and afterwards smiling and talking cheerfully. There will be good fortune.
+> **䷲** changing to [**䷏**](e8b1abyu.md#16.1)
 
-2. The second `SIX`, divided, shows its subject, when the movement approaches, in a position of peril. He judges it better to let go the articles (in his possession), and to ascend a very lofty height. There is no occasion for him to pursue after (the things he has let go); in seven days he will find them.
+> Matching Line 1 in Adjacent Hexagram: [**䷳**](e889aegen.md#52.1)
 
-3. The third `SIX`, divided, shows its subject distraught amid the startling movements going on. If those movements excite him to (right) action, there will be no mistake.
+2.<a name="51.2"></a> The second `SIX`, divided, shows its subject, when the movement approaches, in a position of peril. He judges it better to let go the articles (in his possession), and to ascend a very lofty height. There is no occasion for him to pursue after (the things he has let go); in seven days he will find them.
+
+> **䷲** changing to [**䷵**](e5bd92e5a6b9guimei.md#54.2)
+
+> Matching Line 2 in Adjacent Hexagram: [**䷳**](e889aegen.md#52.2)
+
+3.<a name="51.3"></a> The third `SIX`, divided, shows its subject distraught amid the startling movements going on. If those movements excite him to (right) action, there will be no mistake.
+
+> **䷲** changing to [**䷶**](e4b8b0feng.md#55.3)
+
+> Matching Line 3 in Adjacent Hexagram: [**䷳**](e889aegen.md#52.3)
 
 ###### p. 174
 
-4. The fourth `NINE`, undivided, shows its subject, amid the startling movements, supinely sinking (deeper) in the mud.
+4.<a name="51.4"></a> The fourth `NINE`, undivided, shows its subject, amid the startling movements, supinely sinking (deeper) in the mud.
 
-5. The fifth `SIX`, divided, shows its subject going and coming amidst the startling movements (of the time), and always in peril; but perhaps he will not incur loss, and find business (which he can accomplish).
+> **䷲** changing to [**䷗**](e5a48dfu.md#24.4)
 
-6. The topmost `SIX`, divided, shows its subject, amidst the startling movements (of the time), in breathless dismay and looking round him with trembling apprehension. If he take action, there will be evil. If, while the startling movements have not reached his own person and his neighbourhood, (he were to take precautions), there would be no error, though his relatives might (still) speak against him.
+> Matching Line 4 in Adjacent Hexagram: [**䷳**](e889aegen.md#52.4)
+
+5.<a name="51.5"></a> The fifth `SIX`, divided, shows its subject going and coming amidst the startling movements (of the time), and always in peril; but perhaps he will not incur loss, and find business (which he can accomplish).
+
+> **䷲** changing to [**䷐**](e99a8fsui.md#17.5)
+
+> Matching Line 5 in Adjacent Hexagram: [**䷳**](e889aegen.md#52.5)
+
+6.<a name="51.6"></a> The topmost `SIX`, divided, shows its subject, amidst the startling movements (of the time), in breathless dismay and looking round him with trembling apprehension. If he take action, there will be evil. If, while the startling movements have not reached his own person and his neighbourhood, (he were to take precautions), there would be no error, though his relatives might (still) speak against him.
+
+> **䷲** changing to [**䷔**](e599ace59791shike.md#21.6)
+
+> Matching Line 6 in Adjacent Hexagram: [**䷳**](e889aegen.md#52.6)
 
 ## Notes
 
@@ -46,4 +70,4 @@ Line 5 is divided, in an odd place, and that in which the action of the hexagram
 
 Line 6 is weak, and has to abide the concluding terrors of the movement. Action on the part of its subject is sure to be evil. If, however, he were to take precautions, he might escape with only the censures of his relatives. But I do not see anything in the figure to indicate this final symbolism. The writer, probably, had a case in his mind, which it suited; but what that was we do not know.
 
-# [震](e99c87zhen_cn.md)
+# [震 ䷲](e99c87zhen_cn.md)
