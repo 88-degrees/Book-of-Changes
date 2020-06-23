@@ -12,31 +12,31 @@
 
 ###### p. 60
 
-1.<a name="2.1"></name> In the first SIX, divided, (we see its subject) treading on hoarfrost. The strong ice will come (by and by).
+1.<a name="2.1"></name> In the first `SIX`, divided, (we see its subject) treading on hoarfrost. The strong ice will come (by and by).
 
 > **䷁** Changing to [**䷗**](e5a48dfu.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷀**](e4b9beqian.md#1.1)
 
-2.<a name="2.2"></name> The second SIX, divided, (shows the attribute of) being straight, square, and great. (Its operation), without repeated efforts, will be in every respect advantageous.
+2.<a name="2.2"></name> The second `SIX`, divided, (shows the attribute of) being straight, square, and great. (Its operation), without repeated efforts, will be in every respect advantageous.
 
 > **䷁** Changing to [**䷆**](e5b888shi.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷀**](e4b9beqian.md#1.2)
 
-3.<a name="2.3"></name> The third SIX, divided, (shows its subject) keeping his excellence under restraint, but firmly maintaining it. If he should have occasion to engage in the king's service, though he will not claim the success (for himself), he will bring affairs to a good issue.
+3.<a name="2.3"></name> The third `SIX`, divided, (shows its subject) keeping his excellence under restraint, but firmly maintaining it. If he should have occasion to engage in the king's service, though he will not claim the success (for himself), he will bring affairs to a good issue.
 
 > **䷁** Changing to [**䷎**](e8b0a6qian.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷀**](e4b9beqian.md#1.3)
 
-4.<a name="2.3"></name> The fourth SIX, divided, (shows the symbol of) a sack tied up. There will be no ground for blame or for praise.
+4.<a name="2.3"></name> The fourth `SIX`, divided, (shows the symbol of) a sack tied up. There will be no ground for blame or for praise.
 
 > **䷁** Changing to [**䷏**](e8b1abyu.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷀**](e4b9beqian.md#1.4)
 
-5.<a name="2.5"></name> The fifth SIX, divided, (shows) the yellow lower garment. There will be great good fortune.
+5.<a name="2.5"></name> The fifth `SIX`, divided, (shows) the yellow lower garment. There will be great good fortune.
 
 > **䷁** Changing to [**䷇**](e6af94bi.md)
 
@@ -44,7 +44,7 @@
 
 ###### p. 61
 
-6.<a name="2.6"></name> The sixth SIX, divided (shows) dragons fighting in the wild. Their blood is purple and yellow.
+6.<a name="2.6"></name> The sixth `SIX`, divided (shows) dragons fighting in the wild. Their blood is purple and yellow.
 
 > **䷁** Changing to [**䷖**](e589a5bo.md)
 

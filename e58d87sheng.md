@@ -12,25 +12,25 @@ Chinese: shēng 升 ䷭
 
 ###### p. 160
 
-1.<a name="46.1"></a> The first SIX, divided, shows its subject advancing upwards with the welcome (of those above him). There will be great good fortune.
+1.<a name="46.1"></a> The first `SIX`, divided, shows its subject advancing upwards with the welcome (of those above him). There will be great good fortune.
 
 > **䷭** changing to [**䷊**](e6b3b0tai.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.1)
 
-2.<a name="46.2"></a> The second NINE, undivided, shows its subject with that sincerity which will make even the (small) offerings of the vernal sacrifice acceptable. There will be no error.
+2.<a name="46.2"></a> The second `NINE`, undivided, shows its subject with that sincerity which will make even the (small) offerings of the vernal sacrifice acceptable. There will be no error.
 
 > **䷭** changing to [**䷎**](e8b0a6qian.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.2)
 
-3.<a name="46.3"></a> The third NINE, undivided, shows its subject ascending upwards (as into) an empty city.
+3.<a name="46.3"></a> The third `NINE`, undivided, shows its subject ascending upwards (as into) an empty city.
 
 > **䷭** changing to [**䷆**](e5b888shi.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.3)
 
-4.<a name="46.4"></a> The fourth SIX, divided, shows its subject employed by the king to present his offerings on [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County). There will be good fortune; there will be no mistake.
+4.<a name="46.4"></a> The fourth `SIX`, divided, shows its subject employed by the king to present his offerings on [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County). There will be good fortune; there will be no mistake.
 
 > **䷭** changing to [**䷟**](e68192heng.md)
 

@@ -13,24 +13,24 @@
 But it will be advantageous to be firm and correct. (What the name denotes) may be done in small affairs, but not in great affairs.
 (It is like) the notes that come down from a bird on the wing; -- to descend is better than to ascend. There will (in this way) be great good fortune.
 
-1. The first SIX, divided, suggests (the idea of) a bird flying, (and ascending) till the issue is evil.
+1. The first `SIX`, divided, suggests (the idea of) a bird flying, (and ascending) till the issue is evil.
 
-2. The second SIX, divided, shows its subject passing by his grandfather, and meeting with his
+2. The second `SIX`, divided, shows its subject passing by his grandfather, and meeting with his
 
 ###### p. 203
 
 grandmother; not attempting anything against his ruler, but meeting him as his minister. There will be no error.
 
-3. The third NINE, undivided, shows its subject taking no extraordinary precautions against danger;
+3. The third `NINE`, undivided, shows its subject taking no extraordinary precautions against danger;
 and some in consequence finding opportunity to assail and injure him. There will be evil.
 
-4. The fourth NINE, undivided, shows its subject falling into no error, but meeting (the exigency of his situation), without exceeding (in his natural. course).
+4. The fourth `NINE`, undivided, shows its subject falling into no error, but meeting (the exigency of his situation), without exceeding (in his natural. course).
 If he go forward, there will be peril, and he must be cautious. There is no occasion to be using firmness perpetually.
 
-5. The fifth SIX, divided, (suggests the idea) of dense clouds, but no rain, coming from our borders in the west. It also (shows) the prince shooting his arrow,
+5. The fifth `SIX`, divided, (suggests the idea) of dense clouds, but no rain, coming from our borders in the west. It also (shows) the prince shooting his arrow,
 and taking the bird in a cave.
 
-6. The sixth SIX, divided, shows. its subject not meeting (the exigency of his situation), and exceeding (his proper course).
+6. The sixth `SIX`, divided, shows. its subject not meeting (the exigency of his situation), and exceeding (his proper course).
 (It suggests the idea of) a bird flying far aloft. There will be evil. The case is what is called one of calamity and self-produced injury.
 
 ## Notes

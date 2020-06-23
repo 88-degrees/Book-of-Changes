@@ -12,37 +12,37 @@
 
 ###### p. 108
 
-1.<a name="24.1"></a> The first NINE, undivided, shows its subject returning (from an error) of no great extent, which would not proceed to anything requiring repentance. There will be great good fortune.
+1.<a name="24.1"></a> The first `NINE`, undivided, shows its subject returning (from an error) of no great extent, which would not proceed to anything requiring repentance. There will be great good fortune.
 
 > **䷗** changing to [**䷁**](e59da4kun.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷖**](e589a5bo.md#23.1)
 
-2.<a name="24.2"></a> The second SIX, divided, shows the admirable return (of its subject). There will be good fortune.
+2.<a name="24.2"></a> The second `SIX`, divided, shows the admirable return (of its subject). There will be good fortune.
 
 > **䷗** changing to [**䷒**](e4b8b4lin.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷖**](e589a5bo.md#23.2)
 
-3.<a name="24.3"></a> The third SIX, divided, shows one who has made repeated returns. The position is perilous, but there will be no error.
+3.<a name="24.3"></a> The third `SIX`, divided, shows one who has made repeated returns. The position is perilous, but there will be no error.
 
 > **䷗** changing to [**䷣**](e6988ee5a4b7mingyi.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷖**](e589a5bo.md#23.3)
 
-4.<a name="24.4"></a> The fourth SIX, divided, shows its subject moving right in the centre (among those represented by the other divided lines), and yet returning alone (to his proper path).
+4.<a name="24.4"></a> The fourth `SIX`, divided, shows its subject moving right in the centre (among those represented by the other divided lines), and yet returning alone (to his proper path).
 
 > **䷗** changing to [**䷲**](e99c87zhen.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷖**](e589a5bo.md#23.4)
 
-5.<a name="24.5"></a> The fifth SIX, divided, shows the noble return of its subject. There will be no ground for repentance.
+5.<a name="24.5"></a> The fifth `SIX`, divided, shows the noble return of its subject. There will be no ground for repentance.
 
 > **䷗** changing to [**䷂**](e5b1afzhun.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷖**](e589a5bo.md#23.5)
 
-6.<a name="24.6"></a> The topmost SIX, divided, shows its subject all astray on the subject of returning. There will be evil. There will be calamities and errors. If with his views he put the hosts in motion, the end will be a great defeat, whose issues will extend to the ruler of the state. Even in ten years he will not be able to repair the disaster.
+6.<a name="24.6"></a> The topmost `SIX`, divided, shows its subject all astray on the subject of returning. There will be evil. There will be calamities and errors. If with his views he put the hosts in motion, the end will be a great defeat, whose issues will extend to the ruler of the state. Even in ten years he will not be able to repair the disaster.
 
 > **䷗** changing to [**䷚**](e9a290yi.md)
 

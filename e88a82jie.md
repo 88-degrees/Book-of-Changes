@@ -9,21 +9,21 @@
 **Jié ䷻** intimates that (under its conditions) there will be progress and attainment.
 (But) if the regulations (which it prescribes) be severe and difficult, they cannot be permanent.
 
-1.<a name="60.1"></a> The first NINE, undivided, shows its subject not
+1.<a name="60.1"></a> The first `NINE`, undivided, shows its subject not
 
 ###### p. 198
 
 quitting the courtyard outside his door. There will be no error.
 
-2.<a name="60.2"></a> The second NINE, undivided, shows its subject not quitting the courtyard inside his gate. There will be evil.
+2.<a name="60.2"></a> The second `NINE`, undivided, shows its subject not quitting the courtyard inside his gate. There will be evil.
 
-3.<a name="60.3"></a> The third SIX, divided, shows its subject with no appearance of observing the (proper) regulations, in which case we shall see him lamenting. But there will be no one to blame (but himself).
+3.<a name="60.3"></a> The third `SIX`, divided, shows its subject with no appearance of observing the (proper) regulations, in which case we shall see him lamenting. But there will be no one to blame (but himself).
 
-4.<a name="60.4"></a> The fourth SIX, divided, shows its subject quietly and naturally (attentive to all) regulations. There will be progress and success.
+4.<a name="60.4"></a> The fourth `SIX`, divided, shows its subject quietly and naturally (attentive to all) regulations. There will be progress and success.
 
-5.<a name="60.5"></a> The fifth NINE, undivided, shows its subject sweetly and acceptably enacting his regulations. There will be good fortune. The onward progress with them will afford ground for admiration.
+5.<a name="60.5"></a> The fifth `NINE`, undivided, shows its subject sweetly and acceptably enacting his regulations. There will be good fortune. The onward progress with them will afford ground for admiration.
 
-6.<a name="60.6"></a> The topmost SIX, divided, shows its subject enacting regulations severe and difficult. Even with firmness and correctness there will be evil.
+6.<a name="60.6"></a> The topmost `SIX`, divided, shows its subject enacting regulations severe and difficult. Even with firmness and correctness there will be evil.
 But though there will be cause for repentance, it will (by and by) disappear.
 
 ## Notes

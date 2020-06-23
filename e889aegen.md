@@ -12,37 +12,37 @@ When one's resting is like that of the back, and he loses all consciousness of s
 
 ###### p. 176
 
-1.<a name="52.1"></a> The first SIX, divided, shows its subject keeping his toes at rest. There will be no error; but it will be advantageous for him to be persistently firm and correct.
+1.<a name="52.1"></a> The first `SIX`, divided, shows its subject keeping his toes at rest. There will be no error; but it will be advantageous for him to be persistently firm and correct.
 
 > **䷳** changing to [**䷕**](e8b4b2bi.md#22.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷲**](e99c87zhen.md#51.1)
 
-2.<a name="52.2"></a> The second SIX, divided, shows its subject keeping the calves of his legs at rest. He cannot help (the subject of the line above) whom he follows, and is dissatisfied in his mind.
+2.<a name="52.2"></a> The second `SIX`, divided, shows its subject keeping the calves of his legs at rest. He cannot help (the subject of the line above) whom he follows, and is dissatisfied in his mind.
 
 > **䷳** changing to [**䷑**](e89b8agu.md#18.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷲**](e99c87zhen.md#51.2)
 
-3.<a name="52.3"></a> The third NINE, undivided, shows its subject keeping his loins at rest, and separating the ribs (from the body below). The situation is perilous, and the heart glows with suppressed excitement.
+3.<a name="52.3"></a> The third `NINE`, undivided, shows its subject keeping his loins at rest, and separating the ribs (from the body below). The situation is perilous, and the heart glows with suppressed excitement.
 
 > **䷳** changing to [**䷖**](e589a5bo.md#23.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷲**](e99c87zhen.md#51.3)
 
-4.<a name="52.4"></a> The fourth SIX, divided, shows its subject keeping his trunk at rest. There will be no error.
+4.<a name="52.4"></a> The fourth `SIX`, divided, shows its subject keeping his trunk at rest. There will be no error.
 
 > **䷳** changing to [**䷷**](e69785lv.md#56.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷲**](e99c87zhen.md#51.4)
 
-5.<a name="52.5"></a> The fifth SIX, divided, shows its subject keeping his jawbones at rest, so that his words are (all) orderly. Occasion for repentance will disappear.
+5.<a name="52.5"></a> The fifth `SIX`, divided, shows its subject keeping his jawbones at rest, so that his words are (all) orderly. Occasion for repentance will disappear.
 
 > **䷳** changing to [**䷴**](e6b890jian.md#53.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷲**](e99c87zhen.md#51.5)
 
-6.<a name="52.6"></a> The sixth NINE, undivided, shows its subject devotedly maintaining his restfulness. There will be good fortune.
+6.<a name="52.6"></a> The sixth `NINE`, undivided, shows its subject devotedly maintaining his restfulness. There will be good fortune.
 
 > **䷳** changing to [**䷎**](e8b0a6qian.md#15.6)
 

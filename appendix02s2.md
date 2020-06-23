@@ -24,7 +24,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 1. 'The evil attached to the deep desire for long continuance (in the subject of the first line)' arises from the deep seeking for it at the commencement (of things).
 
-2. 'All occasion for repentance on the part of the subject of the second NINE, (undivided,), disappears:' -- he can abide long in the due mean.
+2. 'All occasion for repentance on the part of the subject of the second `NINE`, (undivided,), disappears:' -- he can abide long in the due mean.
 
 3. 'He does not continuously maintain his virtue:' -- nowhere will he be borne with.
 
@@ -56,7 +56,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 1. 'He manifests his vigour in his toes:' -- this will certainly lead to exhaustion.
 
-2. 'The second NINE, (undivided), shows that with firm correctness there will be good fortune:' -- this is due to its being in the centre, (and its subject exemplifying the due mean).
+2. 'The second `NINE`, (undivided), shows that with firm correctness there will be good fortune:' -- this is due to its being in the centre, (and its subject exemplifying the due mean).
 
 3. 'The small man uses all his strength; in the case of the superior man it is his rule not to do so.'
 
@@ -88,7 +88,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 1. 'The superior man (is revolving his) going away:' -- (in such a case) he feels it right not to eat.
 
-2. 'The good fortune of (the subject of) the second SIX, divided,' is due to the proper fashion of his acting according to his circumstances.
+2. 'The good fortune of (the subject of) the second `SIX`, divided,' is due to the proper fashion of his acting according to his circumstances.
 
 3. With the aim represented by 'hunting in the south' a great achievement is accomplished.
 
@@ -162,7 +162,7 @@ good fortune:' -- this is due to the docility (belonging to the subject of the l
 
 1. The strong (fourth) line and the weak line here are in correlation:--we judge rightly in saying that 'its subject will commit no error.'
 
-2. 'The good fortune springing from the firm correctness of the second NINE, (undivided),' is due to its subject holding the due mean.
+2. 'The good fortune springing from the firm correctness of the second `NINE`, (undivided),' is due to its subject holding the due mean.
 
 3. For 'a porter with his burden to be riding in a carriage' is a thing to be ashamed of. 'It is he himself that tempts the robbers to come:' -- on whom besides can we lay the blame? (See [Appendix III, i, 48](appendix03s1.md#p-363).)
 
@@ -182,7 +182,7 @@ and of the third and first) are all inappropriate to them.
 
 ###### p. 318
 
-2. 'It will be advantageous for (the subject of) the second NINE, (undivided), to maintain his firm correctness:' -- his central position gives its character to his aim.
+2. 'It will be advantageous for (the subject of) the second `NINE`, (undivided), to maintain his firm correctness:' -- his central position gives its character to his aim.
 
 3. 'One man, walking,' (finds his friend): -- when three are together, doubts rise among them.
 
@@ -244,7 +244,7 @@ describes the arrest of) the weak (line) in its advancing course.
 
 4. 'The evil' indicated by there being 'no fish in the wallet' is owing to (the subject of the line) keeping himself aloof from the people.
 
-5. 'The subject of the fifth NINE, (undivided), keeps his brilliant qualities concealed:' -- as is indicated by his central and correct position.
+5. 'The subject of the fifth `NINE`, (undivided), keeps his brilliant qualities concealed:' -- as is indicated by his central and correct position.
 
 '(The good issue) descends (as) from Heaven:--'his aim does not neglect the ordinances (of Heaven).
 
@@ -272,7 +272,7 @@ describes the arrest of) the weak (line) in its advancing course.
 
 1. 'He is welcomed in his advance upwards, and there will be great good fortune:' -- (the subjects of) the upper (trigram) are of the same mind with him.
 
-2. 'The sincerity of the subject of the second NINE, undivided,' affords occasion for joy.
+2. 'The sincerity of the subject of the second `NINE`, undivided,' affords occasion for joy.
 
 3. 'He advances upwards (as into) an empty city:' -- he has no doubt or hesitation.
 
@@ -452,7 +452,7 @@ the line) has not changed from the constancy (proper to a wife).
 
 5. 'The sleeves of the younger sister of (king) [Dì Yǐ](https://en.wikipedia.org/wiki/Di_Yi), when she was married away, were not equal to those of her (half-)sister, who accompanied her:' -- such was her noble character, indicated by the central position of the line.
 
-6. '(What is said in) the sixth SIX, (divided),about there being nothing in the basket' shows that the subject of it is carrying an empty basket.
+6. '(What is said in) the sixth `SIX`, (divided),about there being nothing in the basket' shows that the subject of it is carrying an empty basket.
 
 <a name="fr_244"></a>[LV](#fn_244). (The trigrams **☳** representing) thunder and **☲** lightning combine to form [**Fēng ䷶**](e4b8b0feng.md). The superior man, in accordance with this, decides cases of litigation, and apportions punishments with exactness.
 
@@ -518,7 +518,7 @@ firmness of a brave soldier:' -- his mind would in that case be well governed.
 
 4. 'He takes game in his hunting, enough for the threefold use of it:' -- he achieves merit.
 
-5. 'The good fortune of (the subject of) the fifth NINE, undivided,' is owing to its correct position and its being in the centre.
+5. 'The good fortune of (the subject of) the fifth `NINE`, undivided,' is owing to its correct position and its being in the centre.
 
 6. 'The representative of penetration is beneath a couch:' -- though occupying the topmost place, his powers are exhausted.
 
@@ -534,11 +534,11 @@ firmness of a brave soldier:' -- his mind would in that case be well governed.
 
 3. 'The evil predicated of one's bringing around himself whatever can give pleasure' is shown by the inappropriateness of the place (of the line).
 
-4. 'The joy in connexion with (the subject of) the fourth NINE, (undivided): is due to the happiness (which he will produce).
+4. 'The joy in connexion with (the subject of) the fourth `NINE`, (undivided): is due to the happiness (which he will produce).
 
 5. 'He trusts in one who would injure him:' -- his place is that which is correct and appropriate.
 
-6. 'The topmost SIX, (divided), shows the pleasure (of its subject) in leading and attracting others:' -- his (virtue) is not yet brilliant.
+6. 'The topmost `SIX`, (divided), shows the pleasure (of its subject) in leading and attracting others:' -- his (virtue) is not yet brilliant.
 
 ###### p. 341
 
@@ -578,7 +578,7 @@ occupying the place (of authority) and being in the centre.
 
 <a name="fr_250"></a>[LXI](#fn_250). (The trigram **☱** representing the waters of) a marsh and **☴** that for wind above it form [**Zhōng Fú ䷼**](e4b8ade5ad9azhongfu.md. The superior man, in accordance with this, deliberates about cases of litigation and delays (the infliction of) death.
 
-1. 'The first NINE, (undivided), shows its subject resting (in himself). There will be good fortune:' -- no change has yet come over his purpose.
+1. 'The first `NINE`, (undivided), shows its subject resting (in himself). There will be good fortune:' -- no change has yet come over his purpose.
 
 2. 'Her young ones respond to her:' -- from the (common) wish of the inmost heart.
 
@@ -638,7 +638,7 @@ man, in accordance with this, thinks of evil (that may come), and beforehand gua
 
 ###### p. 347
 
-2. 'The second NINE, (undivided), shows good fortune arising from being firm and correct:' -- it is in the central place, and the action of its subject thereby becomes correct.
+2. 'The second `NINE`, (undivided), shows good fortune arising from being firm and correct:' -- it is in the central place, and the action of its subject thereby becomes correct.
 
 3. '(The state of things is) not yet remedied. Advancing will lead to evil:' -- the place (of the line) is not that appropriate for it.
 

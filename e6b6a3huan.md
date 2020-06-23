@@ -14,21 +14,21 @@ The king goes to his ancestral temple; and it will be advantageous to
 cross the great stream.
 It will be advantageous to be firm and correct.
 
-1.<a name="59.1"></a> The first SIX, divided, shows its subject engaged in rescuing (from the impending evil) and having (the assistance of) a strong horse. There will be good fortune.
+1.<a name="59.1"></a> The first `SIX`, divided, shows its subject engaged in rescuing (from the impending evil) and having (the assistance of) a strong horse. There will be good fortune.
 
-2.<a name="59.2"></a> The second NINE, undivided, shows its subject, amid the dispersion, hurrying to his contrivance (for security). All occasion for repentance will disappear.
+2.<a name="59.2"></a> The second `NINE`, undivided, shows its subject, amid the dispersion, hurrying to his contrivance (for security). All occasion for repentance will disappear.
 
-3.<a name="59.3"></a> The third SIX, divided, shows its subject discarding any regard to his own person. There will be no occasion for repentance.
+3.<a name="59.3"></a> The third `SIX`, divided, shows its subject discarding any regard to his own person. There will be no occasion for repentance.
 
-4.<a name="59.4"></a> The fourth SIX, divided, shows its subject scattering the (different) parties (in the state); which leads to great good fortune. From the dispersion (he collects again good men standing out, a crowd) like a mound, which is what ordinary men would not have thought of.
+4.<a name="59.4"></a> The fourth `SIX`, divided, shows its subject scattering the (different) parties (in the state); which leads to great good fortune. From the dispersion (he collects again good men standing out, a crowd) like a mound, which is what ordinary men would not have thought of.
 
-5.<a name="59.5"></a> The fifth NINE, undivided, shows its subject amidst the dispersion issuing his great announcements as the perspiration (flows from his body).
+5.<a name="59.5"></a> The fifth `NINE`, undivided, shows its subject amidst the dispersion issuing his great announcements as the perspiration (flows from his body).
 
 ###### p. 196
 
 <sub>[paragraph continues]</sub> He scatters abroad (also) the accumulations in the royal granaries. There will be no error.
 
-6.<a name="59.6"></a> The topmost NINE, undivided, shows its subject disposing of (what may be called) its bloody wounds, and going and separating himself from its anxious fears. There will be no error.
+6.<a name="59.6"></a> The topmost `NINE`, undivided, shows its subject disposing of (what may be called) its bloody wounds, and going and separating himself from its anxious fears. There will be no error.
 
 ## Notes
 

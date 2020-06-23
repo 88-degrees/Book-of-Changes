@@ -12,19 +12,19 @@
 
 ###### p. 135
 
-1.<a name="36.1"></a> The first NINE, undivided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, flying, but with drooping wings. When the superior man (is revolving) his going away, he may be for three days without eating. Wherever he goes, the people there may speak (derisively of him).
+1.<a name="36.1"></a> The first `NINE`, undivided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, flying, but with drooping wings. When the superior man (is revolving) his going away, he may be for three days without eating. Wherever he goes, the people there may speak (derisively of him).
 
 > **䷣** changing to [**䷎**](e8b0a6qian.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.1)
 
-2.<a name="36.2"></a> The second SIX, divided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, wounded in the left thigh. He saves himself by the strength of a (swift) horse; and is fortunate.
+2.<a name="36.2"></a> The second `SIX`, divided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, wounded in the left thigh. He saves himself by the strength of a (swift) horse; and is fortunate.
 
 > **䷣** changing to [**䷊**](e6b3b0tai.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.2)
 
-3.<a name="36.3"></a> The third NINE, undivided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, hunting in the south, and taking the great chief (of the darkness). He should not be eager to make (all) correct (at once).
+3.<a name="36.3"></a> The third `NINE`, undivided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, hunting in the south, and taking the great chief (of the darkness). He should not be eager to make (all) correct (at once).
 
 > **䷣** changing to [**䷗**](e5a48dfu.md)
 

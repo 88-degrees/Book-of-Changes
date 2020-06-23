@@ -10,19 +10,19 @@
 
 In **Tài ䷊** (we see) the little gone and the great come. (It indicates that) there will be good fortune, with progress and success.
 
-1.<a name="11.1"></a> The first NINE, undivided, suggests the idea of grass pulled up, and bringing with it other stalks with whose roots it is connected. Advance (on the part of its subject) will be fortunate.
+1.<a name="11.1"></a> The first `NINE`, undivided, suggests the idea of grass pulled up, and bringing with it other stalks with whose roots it is connected. Advance (on the part of its subject) will be fortunate.
 
 > **䷊** changing to [**䷭**](e58d87sheng.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷋**](e590a6pi.md#12.1)
 
-2.<a name="11.2"></a> The second NINE, undivided, shows one who can bear with the uncultivated, will cross the [Hé](https://zh.wikipedia.org/wiki/河) (河) without a boat, does not forget the distant, and has no (selfish) friendships. Thus does he prove himself acting in accordance with the course of the due Mean.
+2.<a name="11.2"></a> The second `NINE`, undivided, shows one who can bear with the uncultivated, will cross the [Hé](https://zh.wikipedia.org/wiki/河) (河) without a boat, does not forget the distant, and has no (selfish) friendships. Thus does he prove himself acting in accordance with the course of the due Mean.
 
 > **䷊** changing to [**䷣**](e6988ee5a4b7mingyi.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷋**](e590a6pi.md#12.2)
 
-3.<a name="11.3"></a> The third NINE, undivided, shows that, while there is no state of peace that is not liable to be disturbed, and no departure (of evil men) so that they shall not return, yet when one is firm and correct, as he realises the distresses that may arise, he will commit no error. There is no occasion for sadness at the certainty (of such recurring changes); and in this mood the happiness (of the present) may be (long) enjoyed.
+3.<a name="11.3"></a> The third `NINE`, undivided, shows that, while there is no state of peace that is not liable to be disturbed, and no departure (of evil men) so that they shall not return, yet when one is firm and correct, as he realises the distresses that may arise, he will commit no error. There is no occasion for sadness at the certainty (of such recurring changes); and in this mood the happiness (of the present) may be (long) enjoyed.
 
 > **䷊** changing to [**䷒**](e4b8b4lin.md)
 
@@ -30,7 +30,7 @@ In **Tài ䷊** (we see) the little gone and the great come. (It indicates that)
 
 ###### p. 82
 
-4.<a name="11.4"></a> The fourth SIX, divided, shows its subject fluttering (down); -- not relying on his own rich resources, but calling in his neighbours. (They all come) not as having received warning, but in the sincerity (of their hearts).
+4.<a name="11.4"></a> The fourth `SIX`, divided, shows its subject fluttering (down); -- not relying on his own rich resources, but calling in his neighbours. (They all come) not as having received warning, but in the sincerity (of their hearts).
 
 > **䷊** changing to [**䷡**](e5a4a7e5a3aedazhuang.md)
 

@@ -12,31 +12,31 @@ In (the state indicated by) **Jiǎn ䷦** advantage will be found in the south-w
 
 ###### p. 142
 
-1.<a name="39.1"></a> From the first SIX, divided, we learn that advance (on the part of its subject) will lead to (greater) difficulties, while remaining stationary will afford ground for praise.
+1.<a name="39.1"></a> From the first `SIX`, divided, we learn that advance (on the part of its subject) will lead to (greater) difficulties, while remaining stationary will afford ground for praise.
 
 > **䷦** changing to [**䷾**](e697a2e6b58ejiji.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷧**](e8a7a3xie.md#40.1)
 
-2.<a name="39.2"></a> The second SIX, divided, shows the minister of the king struggling with difficulty on difficulty, and not with a view to his own advantage.
+2.<a name="39.2"></a> The second `SIX`, divided, shows the minister of the king struggling with difficulty on difficulty, and not with a view to his own advantage.
 
 > **䷦** changing to [**䷯**](e4ba95jing.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷧**](e8a7a3xie.md#40.2)
 
-3.<a name="39.3"></a> The third NINE, undivided, shows its subject advancing, (but only) to (greater) difficulties. He remains stationary, and returns (to his former associates).
+3.<a name="39.3"></a> The third `NINE`, undivided, shows its subject advancing, (but only) to (greater) difficulties. He remains stationary, and returns (to his former associates).
 
 > **䷦** changing to [**䷇**](e6af94bi.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷧**](e8a7a3xie.md#40.3)
 
-4.<a name="39.4"></a> The fourth SIX, divided, shows its subject advancing, (but only) to (greater) difficulties. He remains stationary, and unites (with the subject of the line above).
+4.<a name="39.4"></a> The fourth `SIX`, divided, shows its subject advancing, (but only) to (greater) difficulties. He remains stationary, and unites (with the subject of the line above).
 
 > **䷦** changing to [**䷞**](e592b8xian.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷧**](e8a7a3xie.md#40.4)
 
-5.<a name="39.5"></a> The fifth NINE, undivided, shows its subject struggling with the greatest difficulties, while friends are coming to help him.
+5.<a name="39.5"></a> The fifth `NINE`, undivided, shows its subject struggling with the greatest difficulties, while friends are coming to help him.
 
 > **䷦** changing to [**䷎**](e8b0a6qian.md)
 
@@ -44,7 +44,7 @@ In (the state indicated by) **Jiǎn ䷦** advantage will be found in the south-w
 
 ###### p. 143
 
-6.<a name="39.6"></a> The topmost SIX, divided, shows its subject going forward, (only to increase) the difficulties, while his remaining stationary will be (productive of) great (merit). There will be good fortune, and it will be advantageous to meet with the great man.
+6.<a name="39.6"></a> The topmost `SIX`, divided, shows its subject going forward, (only to increase) the difficulties, while his remaining stationary will be (productive of) great (merit). There will be good fortune, and it will be advantageous to meet with the great man.
 
 > **䷦** changing to [**䷴**](e6b890jian.md)
 

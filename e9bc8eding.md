@@ -10,7 +10,7 @@
 
 **Dǐng ䷱** gives the intimation of great progress and success.
 
-1.<a name="50.1"></a> The first SIX, divided, shows the caldron overthrown and its feet turned up. (But) there will be advantage in its getting rid of what was bad in it. (Or it shows us) the concubine (whose position is improved) by means of her son. There will be no error.
+1.<a name="50.1"></a> The first `SIX`, divided, shows the caldron overthrown and its feet turned up. (But) there will be advantage in its getting rid of what was bad in it. (Or it shows us) the concubine (whose position is improved) by means of her son. There will be no error.
 
 > **䷱** changing to [**䷍**](e5a4a7e69c89dayou.md)
 
@@ -18,19 +18,19 @@
 
 ###### p. 170
 
-2.<a name="50.2"></a> The second NINE, undivided, shows the caldron with the things (to be cooked) in it. (If its subject can say), 'My enemy dislikes me, but he cannot approach me,' there will be good fortune.
+2.<a name="50.2"></a> The second `NINE`, undivided, shows the caldron with the things (to be cooked) in it. (If its subject can say), 'My enemy dislikes me, but he cannot approach me,' there will be good fortune.
 
 > **䷱** changing to [**䷷**](e69785lv.md#56.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷰**](e99da9ge.md#49.2)
 
-3.<a name="50.3"></a> The third NINE, undivided, shows the caldron with (the places of) its ears changed. The progress (of its subject) is (thus) stopped. The fat flesh of the pheasant (which is in the caldron) will not be eaten. But the (genial) rain will come, and the grounds for repentance will disappear. There will be good fortune in the end.
+3.<a name="50.3"></a> The third `NINE`, undivided, shows the caldron with (the places of) its ears changed. The progress (of its subject) is (thus) stopped. The fat flesh of the pheasant (which is in the caldron) will not be eaten. But the (genial) rain will come, and the grounds for repentance will disappear. There will be good fortune in the end.
 
 > **䷱** changing to [**䷿**](e69caae6b58eweiji.md#64.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷰**](e99da9ge.md#49.3)
 
-4.<a name="50.4"></a> The fourth NINE, undivided, shows the caldron with its feet broken; and its contents, designed for the ruler's use, overturned and spilt. Its Subject will be made to blush for shame. There will be evil.
+4.<a name="50.4"></a> The fourth `NINE`, undivided, shows the caldron with its feet broken; and its contents, designed for the ruler's use, overturned and spilt. Its Subject will be made to blush for shame. There will be evil.
 
 > **䷱** changing to [**䷑**](e89b8agu.md#18.4)
 
@@ -44,7 +44,7 @@
 
 > Matching Line 5 in Adjacent Hexagram: [**䷰**](e99da9ge.md#49.5)
 
-6.<a name="50.6"></a> The sixth NINE, undivided, shows the caldron with rings of jade. There will be great good fortune, and all action taken will be in every way advantageous.
+6.<a name="50.6"></a> The sixth `NINE`, undivided, shows the caldron with rings of jade. There will be great good fortune, and all action taken will be in every way advantageous.
 
 > **䷱** changing to [**䷟**]( e68192heng.md#32.6)
 

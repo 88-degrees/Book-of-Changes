@@ -13,21 +13,21 @@ There will be advantage in movement
 
 onward in whatever direction. It will be advantageous (also) to see the great man.
 
-1. The first SIX, divided, shows its subject (now) advancing, (now) receding. It would be advantageous for him to have the firm correctness of a brave soldier.
+1. The first `SIX`, divided, shows its subject (now) advancing, (now) receding. It would be advantageous for him to have the firm correctness of a brave soldier.
 
-2. The second NINE, undivided, shows the representative of Sun beneath a couch, and employing diviners and exorcists in a way bordering on confusion. There will be good fortune and no error.
+2. The second `NINE`, undivided, shows the representative of Sun beneath a couch, and employing diviners and exorcists in a way bordering on confusion. There will be good fortune and no error.
 
-3. The third NINE, undivided, shows its subject penetrating (only) by violent and repeated efforts. There will be occasion for regret.
+3. The third `NINE`, undivided, shows its subject penetrating (only) by violent and repeated efforts. There will be occasion for regret.
 
-4. The fourth SIX, divided, shows all occasion for repentance (in its subject) passed away. He takes game for its threefold use in his hunting.
+4. The fourth `SIX`, divided, shows all occasion for repentance (in its subject) passed away. He takes game for its threefold use in his hunting.
 
-5. The fifth NINE, undivided, shows that with firm correctness there will be good fortune (to its
+5. The fifth `NINE`, undivided, shows that with firm correctness there will be good fortune (to its
 
 ###### p. 191
 
 subject). All occasion for repentance will disappear, and all his movements will be advantageous. There may have been no (good) beginning, but there will be a (good) end. Three days before making any changes, (let him give notice of them); and three days after, (let him reconsider them). There will (thus) be good fortune.
 
-6. The sixth NINE, undivided, shows the representative of penetration beneath a couch, and having lost the axe with which he executed his decisions. However firm and correct he may (try to) be, there will be evil.
+6. The sixth `NINE`, undivided, shows the representative of penetration beneath a couch, and having lost the axe with which he executed his decisions. However firm and correct he may (try to) be, there will be evil.
 
 ## Notes
 

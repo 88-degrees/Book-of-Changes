@@ -11,19 +11,19 @@
 
 ###### p. 208
 
-1. The first SIX, divided, shows its subject (like a fox) whose tail gets immersed. There will be occasion for regret.
+1. The first `SIX`, divided, shows its subject (like a fox) whose tail gets immersed. There will be occasion for regret.
 
-2. The second NINE, undivided, shows its subject dragging back his (carriage-) wheel. With firmness and correctness there will be good fortune.
+2. The second `NINE`, undivided, shows its subject dragging back his (carriage-) wheel. With firmness and correctness there will be good fortune.
 
-3. The third SIX, divided, shows its subject, with (the state of things) not yet remedied, advancing on; which will lead to evil. But there will be advantage in (trying to) cross the great stream.
+3. The third `SIX`, divided, shows its subject, with (the state of things) not yet remedied, advancing on; which will lead to evil. But there will be advantage in (trying to) cross the great stream.
 
-4. The fourth NINE, undivided, shows its subject by firm correctness obtaining good fortune, so that all occasion for repentance disappears.
+4. The fourth `NINE`, undivided, shows its subject by firm correctness obtaining good fortune, so that all occasion for repentance disappears.
 Let him stir himself up, as if he were invading the [Demon region](https://en.wikipedia.org/wiki/Guifang), where for three years rewards will come to him (and his troops) from the great kingdom.
 
-5. The fifth SIX, divided, shows its subject by firm correctness obtaining good fortune, and having no occasion for repentance.
+5. The fifth `SIX`, divided, shows its subject by firm correctness obtaining good fortune, and having no occasion for repentance.
 (We see in him) the brightness of a superior man, and the possession of sincerity. There will be good fortune.
 
-6. The topmost NINE, undivided, shows its subject
+6. The topmost `NINE`, undivided, shows its subject
 
 ###### p. 209
 

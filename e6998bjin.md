@@ -12,37 +12,37 @@ In **Jìn ䷢** we see a prince who secures the tranquillity (of the people) pre
 
 ###### p. 132
 
-1.<a name="35.1"></a> The first SIX, divided, shows one wishing to advance, and (at the same time) kept back. Let him be firm and correct, and there will be good fortune. If trust be not reposed in him, let him maintain a large and generous mind, and there will be no error.
+1.<a name="35.1"></a> The first `SIX`, divided, shows one wishing to advance, and (at the same time) kept back. Let him be firm and correct, and there will be good fortune. If trust be not reposed in him, let him maintain a large and generous mind, and there will be no error.
 
 > **䷢** changing to [**䷔**](e599ace59791shike.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷣**](e6988ee5a4b7mingyi.md#36.1)
 
-2.<a name="35.2"></a> The second SIX, divided, shows its subject with the appearance of advancing, and yet of being sorrowful. If he be firm and correct, there will be good fortune. He will receive this great blessing from his grandmother.
+2.<a name="35.2"></a> The second `SIX`, divided, shows its subject with the appearance of advancing, and yet of being sorrowful. If he be firm and correct, there will be good fortune. He will receive this great blessing from his grandmother.
 
 > **䷢** changing to [**䷿**](e69caae6b58eweiji.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷣**](e6988ee5a4b7mingyi.md#36.2)
 
-3.<a name="35.3"></a> The third SIX, divided, shows its subject trusted by all (around him). All occasion for repentance will disappear.
+3.<a name="35.3"></a> The third `SIX`, divided, shows its subject trusted by all (around him). All occasion for repentance will disappear.
 
 > **䷢** changing to [**䷷**](e69785lv.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷣**](e6988ee5a4b7mingyi.md#36.3)
 
-4.<a name="35.4"></a> The fourth NINE, undivided, shows its subject with the appearance of advancing, but like a marmot. However firm and correct he may be, the position is one of peril.
+4.<a name="35.4"></a> The fourth `NINE`, undivided, shows its subject with the appearance of advancing, but like a marmot. However firm and correct he may be, the position is one of peril.
 
 > **䷢** changing to [**䷖**](e589a5bo.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷣**](e6988ee5a4b7mingyi.md#36.4)
 
-5.<a name="35.5"></a> The fifth SIX, divided, shows how all occasion for repentance disappears (from its subject). (But) let him not concern himself about whether he shall fail or succeed. To advance will be fortunate, and in every way advantageous.
+5.<a name="35.5"></a> The fifth `SIX`, divided, shows how all occasion for repentance disappears (from its subject). (But) let him not concern himself about whether he shall fail or succeed. To advance will be fortunate, and in every way advantageous.
 
 > **䷢** changing to [**䷋**](e590a6pi.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷣**](e6988ee5a4b7mingyi.md#36.5)
 
-6.<a name="35.6"></a> The topmost NINE, undivided, shows one advancing his horns. But he only uses them to punish the (rebellious people of his own) city. The position is perilous, but there will be good fortune. (Yet) however firm and correct he may be, there will be occasion for regret.
+6.<a name="35.6"></a> The topmost `NINE`, undivided, shows one advancing his horns. But he only uses them to punish the (rebellious people of his own) city. The position is perilous, but there will be good fortune. (Yet) however firm and correct he may be, there will be occasion for regret.
 
 > **䷢** changing to [**䷏**](e8b1abyu.md)
 

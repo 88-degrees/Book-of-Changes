@@ -13,17 +13,17 @@ There will be advantage in crossing
 
 the great stream. There will be advantage in being firm and correct.
 
-1. The first NINE, undivided, shows its subject resting (in himself). There will be good fortune. If he sought to any other, he would not find rest.
+1. The first `NINE`, undivided, shows its subject resting (in himself). There will be good fortune. If he sought to any other, he would not find rest.
 
-2. The second NINE, undivided, shows its subject (like) the crane crying out in her hidden retirement, and her young ones responding to her. (It is as if it were said), 'I have a cup of good spirits,' (and the response were), 'I will partake of it with you.'
+2. The second `NINE`, undivided, shows its subject (like) the crane crying out in her hidden retirement, and her young ones responding to her. (It is as if it were said), 'I have a cup of good spirits,' (and the response were), 'I will partake of it with you.'
 
-3. The third SIX, divided, shows its subject having met with his mate. Now he beats his drum, and now he leaves off. Now he weeps, and now he sings.
+3. The third `SIX`, divided, shows its subject having met with his mate. Now he beats his drum, and now he leaves off. Now he weeps, and now he sings.
 
-4. The fourth SIX, divided, shows its subject (like) the moon nearly full, and (like) a horse (in a chariot) whose fellow disappears. There will be no error.
+4. The fourth `SIX`, divided, shows its subject (like) the moon nearly full, and (like) a horse (in a chariot) whose fellow disappears. There will be no error.
 
-5. The fifth NINE, undivided, shows its subject perfectly sincere, and linking (others) to him in closest union. There will be no error.
+5. The fifth `NINE`, undivided, shows its subject perfectly sincere, and linking (others) to him in closest union. There will be no error.
 
-6. The topmost NINE, undivided, shows its subject in chanticleer (trying to) mount to heaven. Even with firm correctness there will be evil.
+6. The topmost `NINE`, undivided, shows its subject in chanticleer (trying to) mount to heaven. Even with firm correctness there will be evil.
 
 ## Notes
 

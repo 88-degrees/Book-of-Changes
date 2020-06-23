@@ -10,7 +10,7 @@
 
 **Dà Guò ䷛** suggests to us a beam that is weak. There will be advantage in moving (under its conditions) in any direction whatever; there will be success.
 
-1.<a name="28.1"></a> The first SIX, divided, shows one placing mats of the white [*máo*](https://ctext.org/dictionary.pl?if=en&char=茅) grass under things set on the ground. There will be no error.
+1.<a name="28.1"></a> The first `SIX`, divided, shows one placing mats of the white [*máo*](https://ctext.org/dictionary.pl?if=en&char=茅) grass under things set on the ground. There will be no error.
 
 > **䷛** changing to [**䷪**](e5a4acguai.md)
 
@@ -18,31 +18,31 @@
 
 ###### p. 117
 
-2.<a name="28.2"></a> The second NINE, undivided, shows a decayed willow producing shoots, or an old husband in possession of his young wife. There will be advantage in every way.
+2.<a name="28.2"></a> The second `NINE`, undivided, shows a decayed willow producing shoots, or an old husband in possession of his young wife. There will be advantage in every way.
 
 > **䷛** changing to [**䷞**](e592b8xian.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷚**](e9a290yi.md#27.2)
 
-3.<a name="28.3"></a> The third NINE, undivided, shows a beam that is weak. There will be evil.
+3.<a name="28.3"></a> The third `NINE`, undivided, shows a beam that is weak. There will be evil.
 
 > **䷛** changing to [**䷮**](e59bb0kun.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷚**](e9a290yi.md#27.3)
 
-4.<a name="28.4"></a> The fourth NINE, undivided, shows a beam curving upwards. There will be good fortune. If (the subject of it) looks for other (help but that of line one), there will be cause for regret.
+4.<a name="28.4"></a> The fourth `NINE`, undivided, shows a beam curving upwards. There will be good fortune. If (the subject of it) looks for other (help but that of line one), there will be cause for regret.
 
 > **䷛** changing to [**䷯**](e4ba95jing.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷚**](e9a290yi.md#27.4)
 
-5.<a name="28.5"></a> The fifth NINE, undivided, shows a decayed willow producing flowers, or an old wife in possession of her young husband. There will be occasion neither for blame nor for praise.
+5.<a name="28.5"></a> The fifth `NINE`, undivided, shows a decayed willow producing flowers, or an old wife in possession of her young husband. There will be occasion neither for blame nor for praise.
 
 > **䷛** changing to [**䷟**](e68192heng.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷚**](e9a290yi.md#27.5)
 
-6.<a name="28.6"></a> The topmost SIX, divided, shows its subject with extraordinary (boldness) wading through a stream, till the water hides the crown of his head. There will be evil, but no ground for blame.
+6.<a name="28.6"></a> The topmost `SIX`, divided, shows its subject with extraordinary (boldness) wading through a stream, till the water hides the crown of his head. There will be evil, but no ground for blame.
 
 > **䷛** changing to [**䷫**](e5a7a4gou.md)
 

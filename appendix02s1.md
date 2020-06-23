@@ -20,7 +20,7 @@ Treatise on the Symbolism of the Hexagrams, and of the [duke of Zhou](https://en
 
 6. 'The dragon exceeds the proper limits; -- there will be occasion for repentance:' -- a state of fulness, that is, should not be indulged in long.
 
-7. 'The same NINE (undivided) is used' (in all the places of this hexagram), but the attribute of heaven (thereby denoted) should not (always) take the foremost place.
+7. 'The same `NINE` (undivided) is used' (in all the places of this hexagram), but the attribute of heaven (thereby denoted) should not (always) take the foremost place.
 
 ###### p. 268
 
@@ -40,7 +40,7 @@ S. 'The Yellow lower-garment; -- there will be great good fortune:' -- this foll
 
 6. 'The dragons fight in the wild: -- the (onward) course (indicated by [**Kūn ䷁**](e59da4kun.md)) is pursued to extremity.
 
-7. '(The lines are all weak and divided, as appears from) the use of the number SIX: -- but (those who are thus represented) becoming perpetually correct and firm, there will thereby be a great consummation.
+7. '(The lines are all weak and divided, as appears from) the use of the number `SIX`: -- but (those who are thus represented) becoming perpetually correct and firm, there will thereby be a great consummation.
 
 ###### p. 270
 
@@ -134,7 +134,7 @@ to him of old:' -- (thus) following those above him, he will have good fortune.
 
 <a name="fr_197"></a>[VIII](#fn_197). (The trigram **☷** representing) the earth, and over it (**☵** that representing) water, form [**Bǐ ䷇**](e6af94bi.md). The ancient kings, in accordance with this, established the various states and maintained an affectionate relation to their princes.
 
-1. From 'the seeking union with its object' shown in the first SIX, (divided),there will be other advantages.
+1. From 'the seeking union with its object' shown in the first `SIX`, (divided),there will be other advantages.
 
 2. 'The movement towards union and attachment proceeds from the inward (mind):' -- (the party concerned) does not fail in what is proper to himself
 
@@ -242,7 +242,7 @@ his own rich resources:' -- both he and his neighbours are out of their real (pl
 
 <a name="fr_203"></a>[XIV](#fn_203). (The trigram **☰** for) heaven and (**☲** that of) fire above it form [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md) The superior man, in accordance with this, represses what is evil and gives distinction to what is good, in sympathy with the excellent Heaven-conferred (nature).
 
-1. This first NINE, (undivided),of [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md) shows no approach to what is injurious.
+1. This first `NINE`, (undivided),of [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md) shows no approach to what is injurious.
 
 2. 'A large waggon with its load' refers to the (virtue) accumulated (in the subject of the line), so that he will suffer no loss (in the conduct of affairs).
 
@@ -466,7 +466,7 @@ who has made many returns,' there will be no error through (his aiming after rig
 
 1. 'You look at me till your (lower) jaw hangs down:' -- (the subject of the line) is thus shown unfit to be thought noble.
 
-2. 'The evil of advance by the subject of the second SIX, (divided),' is owing to his leaving in his movements his proper associates.
+2. 'The evil of advance by the subject of the second `SIX`, (divided),' is owing to his leaving in his movements his proper associates.
 
 3. 'For ten years let him not take any action:' -- his course is greatly opposed (to what is right).
 
@@ -524,7 +524,7 @@ wife and a young husband:' -- this also is a thing to be ashamed of.
 
 4. 'How abrupt is the manner of his coming!' --none can bear with him.
 
-5. 'The good fortune attached to the fifth SIX,
+5. 'The good fortune attached to the fifth `SIX`,
 
 ###### p. 305
 

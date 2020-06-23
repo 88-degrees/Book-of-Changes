@@ -12,37 +12,37 @@
 
 ###### p. 79
 
-1.<a name="10.1"></a> The first NINE, undivided, shows its subject treading his accustomed path. If he go forward, there will be no error.
+1.<a name="10.1"></a> The first `NINE`, undivided, shows its subject treading his accustomed path. If he go forward, there will be no error.
 
 > **䷉** changing to [**䷅**](e8aebcsong.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷈**](e5b08fe7959cxiaoxu.md#9.1)
 
-2.<a name="10.2"></a> The second NINE, undivided, shows its subject treading the path that is level and easy; -- a quiet and solitary man, to whom, if he be firm and correct, there will be good fortune.
+2.<a name="10.2"></a> The second `NINE`, undivided, shows its subject treading the path that is level and easy; -- a quiet and solitary man, to whom, if he be firm and correct, there will be good fortune.
 
 > **䷉** changing to [**䷘**](e697a0e5a684wuwang.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷈**](e5b08fe7959cxiaoxu.md#9.2)
 
-3.<a name="10.3"></a> The third SIX, divided, shows a one-eyed man (who thinks he) can see; a lame man (who thinks he) can walk well; one who treads on the tail of a tiger and is bitten. (All this indicates) ill fortune. We have a (mere) bravo acting the part of a great ruler.
+3.<a name="10.3"></a> The third `SIX`, divided, shows a one-eyed man (who thinks he) can see; a lame man (who thinks he) can walk well; one who treads on the tail of a tiger and is bitten. (All this indicates) ill fortune. We have a (mere) bravo acting the part of a great ruler.
 
 > **䷉** changing to [**䷀**](e4b9beqian.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷈**](e5b08fe7959cxiaoxu.md#9.3)
 
-4.<a name="10.4"></a> The fourth NINE, undivided, shows its subject treading on the tail of a tiger. He becomes full of apprehensive caution, and in the end there will be good fortune.
+4.<a name="10.4"></a> The fourth `NINE`, undivided, shows its subject treading on the tail of a tiger. He becomes full of apprehensive caution, and in the end there will be good fortune.
 
 > **䷉** changing to [**䷼**](e4b8ade5ad9azhongfu.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷈**](e5b08fe7959cxiaoxu.md#9.4)
 
-5.<a name="10.5"></a> The fifth NINE, undivided, shows the resolute tread of its subject. Though he be firm and correct, there will be peril.
+5.<a name="10.5"></a> The fifth `NINE`, undivided, shows the resolute tread of its subject. Though he be firm and correct, there will be peril.
 
 > **䷉** changing to [**䷥**](e79dbdkui.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷈**](e5b08fe7959cxiaoxu.md#9.5)
 
-6.<a name="10.6"></a> The sixth NINE, undivided, tells us to look at (the whole course) that is trodden, and examine the presage which that gives. If it be complete and without failure, there will be great good fortune.
+6.<a name="10.6"></a> The sixth `NINE`, undivided, tells us to look at (the whole course) that is trodden, and examine the presage which that gives. If it be complete and without failure, there will be great good fortune.
 
 ###### p.80
 

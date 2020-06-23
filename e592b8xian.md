@@ -17,25 +17,25 @@ Its advantageousness will depend on the being firm and correct, (as) in marrying
 
 > Matching Line 1 in Adjacent Hexagram: [**䷟**](e68192heng.md#32.1)
 
-2.<a name="31.2"></a> The second SIX, divided, shows one moving the calves of his leg. There will be evil. If he abide (quiet in his place), there will be good fortune.
+2.<a name="31.2"></a> The second `SIX`, divided, shows one moving the calves of his leg. There will be evil. If he abide (quiet in his place), there will be good fortune.
 
 > **䷞** changing to [**䷛**](e5a4a7e8bf87daguo.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷟**](e68192heng.md#32.2)
 
-3.<a name="31.3"></a> The third NINE, undivided, shows one moving his thighs, and keeping close hold of those whom he follows. Going forward (in this way) will cause regret.
+3.<a name="31.3"></a> The third `NINE`, undivided, shows one moving his thighs, and keeping close hold of those whom he follows. Going forward (in this way) will cause regret.
 
 > **䷞** changing to [**䷬**](e89083cui.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷟**](e68192heng.md#32.3)
 
-4.<a name="31.4"></a> The fourth NINE, undivided, shows that firm correctness which will lead to good fortune, and prevent all occasion for repentance. If its subject be unsettled in his movements, (only) his friends will follow his purpose.
+4.<a name="31.4"></a> The fourth `NINE`, undivided, shows that firm correctness which will lead to good fortune, and prevent all occasion for repentance. If its subject be unsettled in his movements, (only) his friends will follow his purpose.
 
 > **䷞** changing to [**䷦**](e8b987jian.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷟**](e68192heng.md#32.4)
 
-5.<a name="31.5"></a> The fifth NINE, undivided, shows one moving the flesh along the spine above the heart. There will be no occasion for repentance.
+5.<a name="31.5"></a> The fifth `NINE`, undivided, shows one moving the flesh along the spine above the heart. There will be no occasion for repentance.
 
 ###### p. 124
 

@@ -12,19 +12,19 @@
 
 and correct. There has been good fortune in the beginning; there may be disorder in the end.
 
-1. The first NINE, undivided, (shows its subject as a driver) who drags back his wheel, (or as a fox) which has wet his tail. There will be no error.
+1. The first `NINE`, undivided, (shows its subject as a driver) who drags back his wheel, (or as a fox) which has wet his tail. There will be no error.
 
-2. The second SIX, divided, (shows its subject as) a wife who has lost her (carriage-)screen. There is no occasion to go in pursuit of it. In seven days she will find it.
+2. The second `SIX`, divided, (shows its subject as) a wife who has lost her (carriage-)screen. There is no occasion to go in pursuit of it. In seven days she will find it.
 
-3. The third NINE, undivided, (suggests the case of) [Gāo Zōng](https://zh.wikipedia.org/zh-cn/高宗), who attacked the [Demon region](https://en.wikipedia.org/wiki/Guifang), but was three years in subduing it. Small men should not be employed (in such enterprises).
+3. The third `NINE`, undivided, (suggests the case of) [Gāo Zōng](https://zh.wikipedia.org/zh-cn/高宗), who attacked the [Demon region](https://en.wikipedia.org/wiki/Guifang), but was three years in subduing it. Small men should not be employed (in such enterprises).
 
 ###### p. 206
 
-4. The fourth SIX, divided, shows its subject with rags provided against any leak (in his boat), and on his guard all day long.
+4. The fourth `SIX`, divided, shows its subject with rags provided against any leak (in his boat), and on his guard all day long.
 
-5. The fifth NINE, undivided, shows its subject (as) the neighbour in the east who slaughters an ox (for his sacrifice); but this is not equal to the (small) spring sacrifice of the neighbour in the west, whose sincerity receives the blessing.
+5. The fifth `NINE`, undivided, shows its subject (as) the neighbour in the east who slaughters an ox (for his sacrifice); but this is not equal to the (small) spring sacrifice of the neighbour in the west, whose sincerity receives the blessing.
 
-6. The topmost SIX, divided, shows its subject with (even) his head immersed. The position is perilous.
+6. The topmost `SIX`, divided, shows its subject with (even) his head immersed. The position is perilous.
 
 ## Notes
 

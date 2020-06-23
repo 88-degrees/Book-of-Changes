@@ -11,7 +11,7 @@
 **Lín ䷒** (indicates that under the conditions supposed in it) there will be great progress and success,
 while it will be advantageous to be firmly correct. In the eighth month there will be evil.
 
-1.<a name="19.1"></a> The first NINE, undivided, shows its subject advancing in company (with the subject of the second line). Through his firm correctness there will be good fortune.
+1.<a name="19.1"></a> The first `NINE`, undivided, shows its subject advancing in company (with the subject of the second line). Through his firm correctness there will be good fortune.
 
 ###### p. 98
 
@@ -19,31 +19,31 @@ while it will be advantageous to be firmly correct. In the eighth month there wi
 
 > Matching Line 1 in Adjacent Hexagram: [**䷓**](e8a782guan.md#20.1)
 
-2.<a name="19.2"></a> The second NINE, undivided, shows its subject advancing in company (with the subject of the first line). There will be good fortune; (advancing) will be in every way advantageous.
+2.<a name="19.2"></a> The second `NINE`, undivided, shows its subject advancing in company (with the subject of the first line). There will be good fortune; (advancing) will be in every way advantageous.
 
 > **䷒** changing to [**䷗**](e5a48dfu.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷓**](e8a782guan.md#20.2)
 
-3.<a name="19.3"></a> The third SIX, divided, shows one well pleased (indeed) to advance, (but whose action) will be in no way advantageous. If he become anxious about it (however), there will be no error.
+3.<a name="19.3"></a> The third `SIX`, divided, shows one well pleased (indeed) to advance, (but whose action) will be in no way advantageous. If he become anxious about it (however), there will be no error.
 
 > **䷒** changing to [**䷊**](e6b3b0tai.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷓**](e8a782guan.md#20.3)
 
-4.<a name="19.4"></a> The fourth SIX, divided, shows one advancing in the highest mode. There will be no error.
+4.<a name="19.4"></a> The fourth `SIX`, divided, shows one advancing in the highest mode. There will be no error.
 
 > **䷒** changing to [**䷵**](e5bd92e5a6b9guimei.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷓**](e8a782guan.md#20.4)
 
-5.<a name="19.5"></a> The fifth SIX, divided, shows the advance of wisdom, such as befits the great ruler. There will be good fortune.
+5.<a name="19.5"></a> The fifth `SIX`, divided, shows the advance of wisdom, such as befits the great ruler. There will be good fortune.
 
 > **䷒** changing to [**䷻**](e88a82jie.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷓**](e8a782guan.md#20.5)
 
-6.<a name="19.6"></a> The sixth SIX, divided, shows the advance of honesty and generosity. There will be good fortune, and no error.
+6.<a name="19.6"></a> The sixth `SIX`, divided, shows the advance of honesty and generosity. There will be good fortune, and no error.
 
 > **䷒** changing to [**䷨**](e68d9fsun.md)
 

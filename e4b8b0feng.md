@@ -10,19 +10,19 @@
 
 **Fēng ䷶** intimates progress and development. When a king has reached the point (which the name denotes) there is no occasion to be anxious (through fear of a change). Let him be as the sun at noon.
 
-1.<a name="55.1"></a> The first NINE, undivided, shows its subject meeting with his mate. Though they are both of the same character, there will be no error. Advance will call forth approval.
+1.<a name="55.1"></a> The first `NINE`, undivided, shows its subject meeting with his mate. Though they are both of the same character, there will be no error. Advance will call forth approval.
 
 > **䷶** changing to [**䷽**](e5b08fe8bf87xiaoguo.md#62.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷷**](e69785lv.md#56.1)
 
-2.<a name="55.2"></a> The second SIX, divided, shows its subject surrounded by screens so large and thick that at midday he can see from them the constellation of the [Bushel](https://everything2.com/title/Northern+Bushel). If he go (and try to enlighten his ruler who is thus emblemed), he will make himself to be viewed with suspicion and dislike. Let him cherish his feeling of sincere devotion that he may thereby move (his ruler's mind), and there will be good fortune.
+2.<a name="55.2"></a> The second `SIX`, divided, shows its subject surrounded by screens so large and thick that at midday he can see from them the constellation of the [Bushel](https://everything2.com/title/Northern+Bushel). If he go (and try to enlighten his ruler who is thus emblemed), he will make himself to be viewed with suspicion and dislike. Let him cherish his feeling of sincere devotion that he may thereby move (his ruler's mind), and there will be good fortune.
 
 > **䷶** changing to [**䷡**](e5a4a7e5a3aedazhuang.md#34.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷷**](e69785lv.md#56.2)
 
-3.<a name="55.3"></a> The third NINE, undivided, shows its subject with an (additional) screen of a large and thick banner, through which at midday he can see (the small) Mei star. (In the darkness) he breaks his right arm; but there will be no error.
+3.<a name="55.3"></a> The third `NINE`, undivided, shows its subject with an (additional) screen of a large and thick banner, through which at midday he can see (the small) Mei star. (In the darkness) he breaks his right arm; but there will be no error.
 
 > **䷶** changing to [**䷲**](e99c87zhen.md#51.3)
 
@@ -30,19 +30,19 @@
 
 ###### p. 184
 
-4.<a name="55.4"></a> The fourth NINE, undivided, shows its subject in a tent so large and thick that at midday he can see from it the constellation of the [Bushel](https://everything2.com/title/Northern+Bushel). But he meets with the subject of the (first) line, undivided like himself. There will be good fortune.
+4.<a name="55.4"></a> The fourth `NINE`, undivided, shows its subject in a tent so large and thick that at midday he can see from it the constellation of the [Bushel](https://everything2.com/title/Northern+Bushel). But he meets with the subject of the (first) line, undivided like himself. There will be good fortune.
 
 > **䷶** changing to [**䷣**](e6988ee5a4b7mingyi.md#36.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷷**](e69785lv.md#56.4)
 
-5.<a name="55.5"></a> The fifth SIX, divided, shows its subject bringing around him the men of brilliant ability. There will be occasion for congratulation and praise. There will be good fortune.
+5.<a name="55.5"></a> The fifth `SIX`, divided, shows its subject bringing around him the men of brilliant ability. There will be occasion for congratulation and praise. There will be good fortune.
 
 > **䷶** changing to [**䷰**](e99da9ge.md#49.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷷**](e69785lv.md#56.5)
 
-6.<a name="55.6"></a> The topmost SIX, divided, shows its subject with his house made large, but only serving as a screen to his household. When he looks at his door, it is still, and there is nobody about it. For three years no one is to be seen. There will be evil.
+6.<a name="55.6"></a> The topmost `SIX`, divided, shows its subject with his house made large, but only serving as a screen to his household. When he looks at his door, it is still, and there is nobody about it. For three years no one is to be seen. There will be evil.
 
 > **䷶** changing to [**䷝**](e7a6bbli.md#30.6)
 

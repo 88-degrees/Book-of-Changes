@@ -12,37 +12,37 @@
 
 ###### p. 72
 
-1.<a name="7.1"></a> The first SIX, divided, shows the host going forth according to the rules (for such a movement). If these be not good, there will be evil.
+1.<a name="7.1"></a> The first `SIX`, divided, shows the host going forth according to the rules (for such a movement). If these be not good, there will be evil.
 
 > **䷆** changing to [**䷒**](e4b8b4lin.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷇**](e6af94bi.md#8.1)
 
-2.<a name="7.2"></a> The second NINE, undivided, shows (the leader) in the midst of the host. There will be good fortune and no error. The king has thrice conveyed to him the orders (of his favour).
+2.<a name="7.2"></a> The second `NINE`, undivided, shows (the leader) in the midst of the host. There will be good fortune and no error. The king has thrice conveyed to him the orders (of his favour).
 
 > **䷆** changing to [**䷁**](e59da4kun.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷇**](e6af94bi.md#8.2)
 
-3.<a name="7.3"></a> The third SIX, divided, shows how the host may, possibly, have many inefficient leaders. There will be evil.
+3.<a name="7.3"></a> The third `SIX`, divided, shows how the host may, possibly, have many inefficient leaders. There will be evil.
 
 > **䷆** changing to [**䷭**](e58d87sheng.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷇**](e6af94bi.md#8.3)
 
-4.<a name="7.4"></a> The fourth SIX, divided, shows the host in retreat. There is no error.
+4.<a name="7.4"></a> The fourth `SIX`, divided, shows the host in retreat. There is no error.
 
 > **䷆** changing to [**䷧**](e8a7a3xie.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷇**](e6af94bi.md#8.4)
 
-5.<a name="7.5"></a> The fifth SIX, divided, shows birds in the fields, which it will be advantageous to seize (and destroy). In that case there will be no error. If the oldest son leads the host, and younger men (idly occupy offices assigned to them), however firm and correct he may be, there will be evil.
+5.<a name="7.5"></a> The fifth `SIX`, divided, shows birds in the fields, which it will be advantageous to seize (and destroy). In that case there will be no error. If the oldest son leads the host, and younger men (idly occupy offices assigned to them), however firm and correct he may be, there will be evil.
 
 > **䷆** changing to [**䷜**](e59d8ekan.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷇**](e6af94bi.md#8.5)
 
-6.<a name="7.6"></a> The topmost SIX, divided, shows the great ruler delivering his charges, (appointing some) to be rulers of states, and others to undertake the headship of clans; but small men should not be employed (in such positions).
+6.<a name="7.6"></a> The topmost `SIX`, divided, shows the great ruler delivering his charges, (appointing some) to be rulers of states, and others to undertake the headship of clans; but small men should not be employed (in such positions).
 
 > **䷆** changing to [**䷃**](e89299meng.md)
 
