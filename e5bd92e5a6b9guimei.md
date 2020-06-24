@@ -60,7 +60,7 @@ A feudal prince was said to marry nine ladies at once. The principal of them was
 
 Line 2 is strong, and in the centre. The proper correlate is 5, which, however, is weak, and in the place of a strong line. With such a correlate, the able lady in 2 cannot do much in the discharge of her proper work. But if she think only of her husband, like the widow who will die rather than marry again, such devotion will have its effect and its reward. Though blind of one eye, she yet manages to see. And so devoted loyalty in an officer will compensate for many disadvantages.
 
-Line 3 is weak, where it should be strong; and the attribute of pleased satisfaction belonging to Tui culminates in its subject. She turns out to be of so mean a character and such a slave of passion that no one will marry her. She returns and accepts the position of a concubine.
+Line 3 is weak, where it should be strong; and the attribute of pleased satisfaction belonging to **Duì ☱** culminates in its subject. She turns out to be of so mean a character and such a slave of passion that no one will marry her. She returns and accepts the position of a concubine.
 
 Line 4 is strong, where it should be weak; but in the case of a female the indication is not bad. The subject of the line, however, is in no haste. She waits, and the good time will come.
 
