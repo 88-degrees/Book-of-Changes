@@ -12,31 +12,31 @@
 
 1.<a name="1.1"></a> In the first (or lowest) `NINE`, undivided, (we see its subject as) the dragon lying hid (in the deep). It is not the time for active doing.
 
-> **䷀** changing to [**䷫**](e5a7a4gou.md)
+> **䷀** changing to [**䷫**](e5a7a4gou.md#44.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷁**](e59da4kun.md#2.1)
 
 2.<a name="1.2"></a> In the second `NINE`, undivided, (we see its subject as) the dragon appearing in the field. It will be advantageous to meet with the great man.
 
-> **䷀** changing to [**䷌**](e5908ce4babatongren.md)
+> **䷀** changing to [**䷌**](e5908ce4babatongren.md#13.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷁**](e59da4kun.md#2.2)
 
 3.<a name="1.3"></a> In the third `NINE`, undivided, (we see its subject as) the superior man active and vigilant all the day, and in the evening still careful and apprehensive. (The position is) dangerous, but there will be no mistake.
 
-> **䷀** changing to [**䷉**](e5b1a5lv.md)
+> **䷀** changing to [**䷉**](e5b1a5lv.md#10.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷁**](e59da4kun.md#2.3)
 
 4.<a name="1.4"></a> In the fourth `NINE`, undivided, (we see its subject as the dragon looking) as if he were leaping up, but still in the deep. There will be no mistake.
 
-> **䷀** changing to [**䷈**](e5b08fe7959cxiaoxu.md)
+> **䷀** changing to [**䷈**](e5b08fe7959cxiaoxu.md#9.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷁**](e59da4kun.md#2.4)
 
 5.<a name="1.5"></a> In the fifth `NINE`, undivided, (we see its subject as) the dragon on the wing in the sky. It will be advantageous to meet with the great man.
 
-> **䷀** changing to [**䷍**](e5a4a7e69c89dayou.md)
+> **䷀** changing to [**䷍**](e5a4a7e69c89dayou.md#14.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷁**](e59da4kun.md#2.5)
 
@@ -44,7 +44,7 @@
 
 6.<a name="1.6"></a> In the sixth (or topmost) `NINE`, undivided, (we see its subject as) the dragon exceeding the proper limits. There will be occasion for repentance.
 
-> **䷀** changing to [**䷪**](e5a4acguai.md)
+> **䷀** changing to [**䷪**](e5a4acguai.md#43.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷁**](e59da4kun.md#2.6)
 
