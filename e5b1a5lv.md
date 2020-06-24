@@ -14,31 +14,31 @@
 
 1.<a name="10.1"></a> The first `NINE`, undivided, shows its subject treading his accustomed path. If he go forward, there will be no error.
 
-> **䷉** changing to [**䷅**](e8aebcsong.md)
+> **䷉** changing to [**䷅**](e8aebcsong.md#6.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷈**](e5b08fe7959cxiaoxu.md#9.1)
 
 2.<a name="10.2"></a> The second `NINE`, undivided, shows its subject treading the path that is level and easy; -- a quiet and solitary man, to whom, if he be firm and correct, there will be good fortune.
 
-> **䷉** changing to [**䷘**](e697a0e5a684wuwang.md)
+> **䷉** changing to [**䷘**](e697a0e5a684wuwang.md#25.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷈**](e5b08fe7959cxiaoxu.md#9.2)
 
 3.<a name="10.3"></a> The third `SIX`, divided, shows a one-eyed man (who thinks he) can see; a lame man (who thinks he) can walk well; one who treads on the tail of a tiger and is bitten. (All this indicates) ill fortune. We have a (mere) bravo acting the part of a great ruler.
 
-> **䷉** changing to [**䷀**](e4b9beqian.md)
+> **䷉** changing to [**䷀**](e4b9beqian.md#1.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷈**](e5b08fe7959cxiaoxu.md#9.3)
 
 4.<a name="10.4"></a> The fourth `NINE`, undivided, shows its subject treading on the tail of a tiger. He becomes full of apprehensive caution, and in the end there will be good fortune.
 
-> **䷉** changing to [**䷼**](e4b8ade5ad9azhongfu.md)
+> **䷉** changing to [**䷼**](e4b8ade5ad9azhongfu.md#61.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷈**](e5b08fe7959cxiaoxu.md#9.4)
 
 5.<a name="10.5"></a> The fifth `NINE`, undivided, shows the resolute tread of its subject. Though he be firm and correct, there will be peril.
 
-> **䷉** changing to [**䷥**](e79dbdkui.md)
+> **䷉** changing to [**䷥**](e79dbdkui.md#38.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷈**](e5b08fe7959cxiaoxu.md#9.5)
 
@@ -46,7 +46,7 @@
 
 ###### p.80
 
-> **䷉** changing to [**䷹**](e58591dui.md)
+> **䷉** changing to [**䷹**](e58591dui.md#58.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷈**](e5b08fe7959cxiaoxu.md#9.6)
 

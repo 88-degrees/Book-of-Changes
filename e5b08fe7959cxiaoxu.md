@@ -12,13 +12,13 @@
 
 1.<a name="9.1"></a> The first `NINE`, undivided, shows its subject returning and pursuing his own course. What mistake should he fall into? There will be good fortune.
 
-> **䷈** changing to [**䷸**](e5b7bdxun.md)
+> **䷈** changing to [**䷸**](e5b7bdxun.md#57.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.1)
 
 2.<a name="9.2"></a> The second `NINE`, undivided, shows its subject, by the attraction (of the former line), returning (to the proper course). There will be good fortune.
 
-> **䷈** changing to [**䷤**](e5aeb6e4babajiaren.md)
+> **䷈** changing to [**䷤**](e5aeb6e4babajiaren.md#37.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.2)
 
@@ -26,25 +26,25 @@
 
 3.<a name="9.3"></a> The third `NINE`, undivided, suggests the idea of a carriage, the strap beneath which has been removed, or of a husband and wife looking on each other with averted eyes.
 
-> **䷈** changing to [**䷼**](e4b8ade5ad9azhongfu.md)
+> **䷈** changing to [**䷼**](e4b8ade5ad9azhongfu.md#61.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.3)
 
 4.<a name="9.4"></a> The fourth `SIX`, divided, shows its subject possessed of sincerity. The danger of bloodshed is thereby averted, and his (ground for) apprehension dismissed. There will be no mistake.
 
-> **䷈** changing to [**䷀**](e4b9beqian.md)
+> **䷈** changing to [**䷀**](e4b9beqian.md#1.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.4)
 
 5.<a name="9.5"></a> The fifth `NINE`, undivided, shows its subject possessed of sincerity, and drawing others to unite with him. Rich in resources, he employs his neighbours (in the same cause with himself).
 
-> **䷈** changing to [**䷙**](e5a4a7e89384daxu.md)
+> **䷈** changing to [**䷙**](e5a4a7e89384daxu.md#26.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.5)
 
 6.<a name="9.6"></a> The topmost `NINE`, undivided, shows how the rain has fallen, and the (onward progress) is stayed; -- (so) must we value the full accumulation of the virtue (represented by the upper trigram). But a wife (exercising restraint), however firm and correct she may be, is in a position of peril, (and like) the moon approaching to the full. If the superior man prosecute his measures (in such circumstances), there will be evil.
 
-> **䷈** changing to [**䷄**](e99c80xu.md)
+> **䷈** changing to [**䷄**](e99c80xu.md#5.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.6)
 

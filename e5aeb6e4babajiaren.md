@@ -14,7 +14,7 @@ For (the realisation of what is taught in) **Jiā Rén ䷤** , (or for the regul
 
 1.<a name="37.1"></a> The first `NINE`, undivided, shows its subject establishing restrictive regulations in his household Occasion for repentance will disappear.
 
-> **䷤** changing to [**䷴**](e6b890jian.md#.1)
+> **䷤** changing to [**䷴**](e6b890jian.md#53.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷥**](e79dbdkui.md#38.1)
 
