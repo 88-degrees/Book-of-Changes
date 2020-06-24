@@ -58,11 +58,11 @@ Line 1 is weak, where it should be strong; its subject, that is, is humble and d
 
 See on the second line of [**Cuì ䷬**](e89083cui.md). Line 2 is strong, and the weak 5 is its proper correlate. We have a strong officer serving a weak ruler; he could not do so unless he were penetrated with a sincere and devoted loyalty.
 
-Paragraph 3 describes the boldness and fearlessness of the advance of the third line. According to the [**Kāng Xī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, who, I think, are right, there is a shade of condemnation in the line. Its subject is too bold.
+Paragraph 3 describes the boldness and fearlessness of the advance of the third line. According to the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, who, I think, are right, there is a shade of condemnation in the line. Its subject is too bold.
 
 Line 4 occupies the place of a great minister, in immediate contiguity to his ruler, who confides in him, and raises him to the highest distinction as a feudal prince. The mention of [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County), at the foot of which was the capital of the lords of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty), seems to take the paragraph out of the sphere of symbolism into that of history. 'The king' in it is the last sovereign of Shang; the feudal prince in it is [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou).
 
-In line 5 the advance has reached the highest point of dignity, and firm correctness is specially called for. 'Ascending the steps of a stair' may intimate, as [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says, the ease of the advance; or according to others (the [**Kāng Xī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors among them), its ceremonious manner.
+In line 5 the advance has reached the highest point of dignity, and firm correctness is specially called for. 'Ascending the steps of a stair' may intimate, as [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says, the ease of the advance; or according to others (the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors among them), its ceremonious manner.
 
 What can the subject of the hexagram want more? He has gained all his wishes, and still he is for going onwards. His advance is blind and foolish; and only the most exact correctness will save him from the consequences.
 

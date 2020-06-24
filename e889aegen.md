@@ -62,7 +62,7 @@ Above the toes are the calves, represented by the second line, weak, but in its 
 
 When the calves are kept at rest, advance is stopped, but no other harm ensues. Not so when the loins are kept at rest, and unable to bend, for the connexion between the upper and lower parts of the body is then broken. The dissatisfaction increases to an angry heat. Paragraph 3 is unusually difficult. For 'loins' P. Regis has scapulae, and for ribs renes; Canon McClatchie says: -- 'Third Nine is stopping at a limit, and separating what is in continued succession (i. e. the backbone); thus the mind,' &c.
 
-Line 4 is a weak line resting in a proper place; hence it gives a good auspice. The [**Kāng Xī**](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, however, call attention to the resting of the trunk as being inferior to the resting of the back in the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings).
+Line 4 is a weak line resting in a proper place; hence it gives a good auspice. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, however, call attention to the resting of the trunk as being inferior to the resting of the back in the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings).
 
 The place of the weak fifth line is not proper for it; and this accounts for the mention of its subject 'repenting,' for which, however, there is not occasion.
 
