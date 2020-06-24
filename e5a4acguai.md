@@ -14,37 +14,37 @@
 
 1.<a name="43.1"></a> The first `NINE`, undivided, shows its subject in (the pride of) strength advancing with his toes. He goes forward, but will not succeed. There will be ground for blame.
 
-> **䷪** changing to [**䷛**](e5a4a7e8bf87daguo.md)
+> **䷪** changing to [**䷛**](e5a4a7e8bf87daguo.md#28.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷫**](e5a7a4gou.md#44.1)
 
 2.<a name="43.2"></a> The second `NINE`, undivided, shows its subject full of apprehension and appealing (for sympathy and help). Late at night hostile measures may be (taken against him), but he need not be anxious about them.
 
-> **䷪** changing to [**䷰**](e99da9ge.md)
+> **䷪** changing to [**䷰**](e99da9ge.md#49.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷫**](e5a7a4gou.md#44.2)
 
 3.<a name="43.3"></a> The third `NINE`, undivided, shows its subject (about to advance) with strong (and determined) looks. There will be evil. (But) the superior man, bent on cutting off (the criminal), will walk alone and encounter the rain, (till he be hated by his proper associates) as if he were contaminated (by the others). (In the end) there will be no blame against him.
 
-> **䷪** changing to [**䷹**](e58591dui.md)
+> **䷪** changing to [**䷹**](e58591dui.md#58.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷫**](e5a7a4gou.md#44.3)
 
 4.<a name="43.4"></a> The fourth `NINE`, undivided, shows one from whose buttocks the skin has been stripped, and who walks slowly and with difficulty. (If he could act) like. a sheep led (after its companions), occasion for repentance would disappear. But though he hear these words, he will not believe them.
 
-> **䷪** changing to [**䷄**](e99c80xu.md)
+> **䷪** changing to [**䷄**](e99c80xu.md#5.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷫**](e5a7a4gou.md#44.4)
 
 5.<a name="43.5"></a> The fifth `NINE`, undivided, shows (the small men like) a bed of purslain, which ought to be uprooted with the utmost determination. (The subject of the line having such determination), his action, in harmony with his central position, will lead to no error or blame.
 
-> **䷪** changing to [**䷡**](e5a4a7e5a3aedazhuang.md)
+> **䷪** changing to [**䷡**](e5a4a7e5a3aedazhuang.md#34.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷫**](e5a7a4gou.md#44.5)
 
 6.<a name="43.6"></a> The sixth `SIX`, divided, shows its subject without any (helpers) on whom to call. His end will be evil.
 
-> **䷪** changing to [**䷀**](e4b9beqian.md)
+> **䷪** changing to [**䷀**](e4b9beqian.md#1.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷫**](e5a7a4gou.md#44.6)
 

@@ -14,37 +14,37 @@
 
 1.<a name="44.1"></a> The first `SIX`, divided, shows how its subject should be kept (like a carriage) tied and fastened to a metal drag, in which case with firm correctness there will be good fortune. (But) if he move in any direction, evil will appear. He will be (like) a lean pig, which is sure to keep jumping about.
 
-> **䷫** changing to [**䷀**](e4b9beqian.md)
+> **䷫** changing to [**䷀**](e4b9beqian.md#1.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.1)
 
 2.<a name="44.2"></a> The second `NINE`, undivided, shows its subject with a wallet of fish. There will be no error. But it will not be well to let (the subject of the first line) go forward to the guests.
 
-> **䷫** changing to [**䷠**](e981afdun.md)
+> **䷫** changing to [**䷠**](e981afdun.md#33.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.2)
 
 3.<a name="44.3"></a> The third `NINE`, undivided, shows one from whose buttocks the skin has been stripped so that he walks with difficulty. The position is perilous, but there will be no great error.
 
-> **䷫** changing to [**䷅**](e8aebcsong.md)
+> **䷫** changing to [**䷅**](e8aebcsong.md#6.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.3)
 
 4.<a name="44.4"></a> The fourth `NINE`, undivided, shows its subject with his wallet, but no fish in it. This will give rise to evil.
 
-> **䷫** changing to [**䷸**](e5b7bdxun.md)
+> **䷫** changing to [**䷸**](e5b7bdxun.md#57.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.4)
 
 5.<a name="44.5"></a> The fifth `NINE`, undivided, (shows its subject as) a medlar tree overspreading the gourd (beneath it). If he keep his brilliant qualities concealed, (a good issue) will descend (as) from Heaven.
 
-> **䷫** changing to [**䷱**](e9bc8eding.md)
+> **䷫** changing to [**䷱**](e9bc8eding.md#50.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.5)
 
 6.<a name="44.6"></a> The sixth `NINE`, undivided, shows its subject receiving others on his horns. There will be occasion for regret, but there will be no error.
 
-> **䷫** changing to [**䷛**](e5a4a7e8bf87daguo.md)
+> **䷫** changing to [**䷛**](e5a4a7e8bf87daguo.md#28.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.6)
 
