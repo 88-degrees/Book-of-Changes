@@ -13,39 +13,39 @@ while it will be advantageous to be firmly correct. In the eighth month there wi
 
 1.<a name="19.1"></a> The first `NINE`, undivided, shows its subject advancing in company (with the subject of the second line). Through his firm correctness there will be good fortune.
 
-###### p. 98
-
-> **䷒** changing to [**䷆**](e5b888shi.md)
+> **䷒** changing to [**䷆**](e5b888shi.md#7.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷓**](e8a782guan.md#20.1)
 
+###### p. 98
+
 2.<a name="19.2"></a> The second `NINE`, undivided, shows its subject advancing in company (with the subject of the first line). There will be good fortune; (advancing) will be in every way advantageous.
 
-> **䷒** changing to [**䷗**](e5a48dfu.md)
+> **䷒** changing to [**䷗**](e5a48dfu.md#24.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷓**](e8a782guan.md#20.2)
 
 3.<a name="19.3"></a> The third `SIX`, divided, shows one well pleased (indeed) to advance, (but whose action) will be in no way advantageous. If he become anxious about it (however), there will be no error.
 
-> **䷒** changing to [**䷊**](e6b3b0tai.md)
+> **䷒** changing to [**䷊**](e6b3b0tai.md#11.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷓**](e8a782guan.md#20.3)
 
 4.<a name="19.4"></a> The fourth `SIX`, divided, shows one advancing in the highest mode. There will be no error.
 
-> **䷒** changing to [**䷵**](e5bd92e5a6b9guimei.md)
+> **䷒** changing to [**䷵**](e5bd92e5a6b9guimei.md#54.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷓**](e8a782guan.md#20.4)
 
 5.<a name="19.5"></a> The fifth `SIX`, divided, shows the advance of wisdom, such as befits the great ruler. There will be good fortune.
 
-> **䷒** changing to [**䷻**](e88a82jie.md)
+> **䷒** changing to [**䷻**](e88a82jie.md#60.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷓**](e8a782guan.md#20.5)
 
 6.<a name="19.6"></a> The sixth `SIX`, divided, shows the advance of honesty and generosity. There will be good fortune, and no error.
 
-> **䷒** changing to [**䷨**](e68d9fsun.md)
+> **䷒** changing to [**䷨**](e68d9fsun.md#41.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷓**](e8a782guan.md#20.6)
 

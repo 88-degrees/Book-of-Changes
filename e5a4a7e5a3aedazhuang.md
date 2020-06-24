@@ -14,37 +14,37 @@
 
 1.<a name="34.1"></a> The first `NINE`, undivided, shows its subject manifesting his strength in his toes. But advance will lead to evil, -- most certainly.
 
-> **䷡** changing to [**䷟**](e68192heng.md)
+> **䷡** changing to [**䷟**](e68192heng.md#32.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷠**](e981afdun.md#33.1)
 
 2.<a name="34.2"></a> The second `NINE`, undivided, shows that with firm correctness there will be good fortune.
 
-> **䷡** changing to [**䷶**](e4b8b0feng.md)
+> **䷡** changing to [**䷶**](e4b8b0feng.md#55.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷠**](e981afdun.md#33.2)
 
 3.<a name="34.3"></a> The third `NINE`, undivided, shows, in the case of a small man, one using all his strength; and in the case of a superior man, one whose rule is not to do so. Even with firm correctness the position would be perilous. (The exercise of strength in it might be compared to the case of) a ram butting against a fence, and getting his horns entangled.
 
-> **䷡** changing to [**䷵**](e5bd92e5a6b9guimei.md)
+> **䷡** changing to [**䷵**](e5bd92e5a6b9guimei.md#54.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷠**](e981afdun.md#33.3)
 
 4.<a name="34.4"></a> The fourth `NINE`, undivided, shows (a case in which) firm correctness leads to good fortune, and occasion for repentance disappears. (We see) the fence opened without the horns being entangled. The strength is like that in the wheel-spokes of a large waggon.
 
-> **䷡** changing to [**䷊**](e6b3b0tai.md)
+> **䷡** changing to [**䷊**](e6b3b0tai.md#11.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷠**](e981afdun.md#33.4)
 
 5.<a name="34.5"></a> The fifth `SIX`, divided, shows one who loses his ram(-like strength) in the ease of his position. (But) there will be no occasion for repentance.
 
-> **䷡** changing to [**䷪**](e5a4acguai.md)
+> **䷡** changing to [**䷪**](e5a4acguai.md#43.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷠**](e981afdun.md#33.5)
 
 6.<a name="34.6"></a> The sixth `SIX`, divided, shows (one who may be compared to) the ram butting against the fence, and unable either to retreat, or to advance as he would fain do. There will not be advantage in any respect; but if he realise the difficulty (of his position), there will be good fortune.
 
-> **䷡** changing to [**䷍**](e5a4a7e69c89dayou.md)
+> **䷡** changing to [**䷍**](e5a4a7e69c89dayou.md#14.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷠**](e981afdun.md#33.6)
 
@@ -54,7 +54,7 @@ The strong lines predominate in **Dà Zhuàng ䷡**. It suggested to [king Wén]
 
 ###### p. 131
 
-This is the lesson of the hexagram, as sententiously expressed in the **[**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings)**.
+This is the lesson of the hexagram, as sententiously expressed in the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings).
 
 Line 1 is strong, in its correct place, and also the first line in Khien, the hexagram of strength, and the first line in Tâ Kwang. The idea of the figure might seem to be concentrated in it; and hence we have it symbolised by 'strength in the toes,' or 'advancing.' But such a measure is too bold to be undertaken by one in the lowest place, and moreover there is no proper correlate in 4. Hence comes the evil auspice.
 
