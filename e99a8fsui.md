@@ -12,25 +12,25 @@
 
 1.<a name="17.1"></a> The first `NINE`, undivided, shows us one changing the object of his pursuit; but if he be firm and correct, there will he good fortune. Going beyond (his own) gate to find associates, he will achieve merit.
 
-> **䷐** changing to [**䷬**](e89083cui.md)
+> **䷐** changing to [**䷬**](e89083cui.md#45.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷑**](e89b8agu.md#18.1)
 
 2.<a name="17.2"></a> The second `SIX`, divided, shows us one who cleaves to the little boy, and lets go the man of age and experience.
 
-> **䷐** changing to [**䷹**](e58591dui.md)
+> **䷐** changing to [**䷹**](e58591dui.md#58.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷑**](e89b8agu.md#18.2)
 
 3.<a name="17.3"></a> The third `SIX`, divided, shows us one who cleaves to the man of age and experience, and lets go. the little boy. Such following will get what it seeks; but it will be advantageous to adhere to what is firm and correct.
 
-> **䷐** changing to [**䷰**](e99da9ge.md)
+> **䷐** changing to [**䷰**](e99da9ge.md#49.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷑**](e89b8agu.md#18.3)
 
 4.<a name="17.4"></a> The fourth `NINE`, undivided, shows us one followed and obtaining (adherents). Though he be firm and correct, there will be evil. If he be sincere (however) in his course, and make that evident, into what error will he fall?
 
-> **䷐** changing to [**䷂**](e5b1afzhun.md)
+> **䷐** changing to [**䷂**](e5b1afzhun.md#3.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷑**](e89b8agu.md#18.4)
 
@@ -38,13 +38,13 @@
 
 5.<a name="17.5"></a> The fifth `NINE`, undivided, shows us (the ruler) sincere in (fostering all) that is excellent. There will be good fortune.
 
-> **䷐** changing to [**䷲**](e99c87zhen.md)
+> **䷐** changing to [**䷲**](e99c87zhen.md#51.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷑**](e89b8agu.md#18.5)
 
 6.<a name="17.6"></a> The topmost `SIX`, divided, shows us (that sincerity) firmly held and clung to, yea, and bound fast. (We see) the king with it presenting his offerings on the western mountain.
 
-> **䷐** changing to [**䷘**](e697a0e5a684wuwang.md)
+> **䷐** changing to [**䷘**](e697a0e5a684wuwang.md#25.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷑**](e89b8agu.md#18.6)
 

@@ -12,25 +12,25 @@
 
 1.<a name="38.1"></a> The first `NINE`, undivided, shows that (to its subject) occasion for repentance will disappear. He has lost his horses, but let him not seek for them; -- they will return of themselves. Should he meet with bad men, he will not err (in communicating with them).
 
-> **䷥** changing to [**䷿**](e69caae6b58eweiji.md)
+> **䷥** changing to [**䷿**](e69caae6b58eweiji.md#64.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷤**](e5aeb6e4babajiaren.md#37.1)
 
 2.<a name="38.2"></a> The second `NINE`, undivided, shows its subject happening to meet with his lord in a bye-passage. There will be no error.
 
-> **䷥** changing to [**䷔**](e599ace59791shike.md)
+> **䷥** changing to [**䷔**](e599ace59791shike.md#21.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷤**](e5aeb6e4babajiaren.md#37.2)
 
 3.<a name="38.3"></a> In the third `SIX`, divided, we see one whose carriage is dragged back, while the oxen in it are pushed back, and he is himself subjected to the shaving of his head and the cutting off of his nose. There is no good beginning, but there will be a good end.
 
-> **䷥** changing to [**䷍**](e5a4a7e69c89dayou.md)
+> **䷥** changing to [**䷍**](e5a4a7e69c89dayou.md#14.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷤**](e5aeb6e4babajiaren.md#37.3)
 
 4.<a name="38.4"></a> The fourth `NINE`, undivided, shows its subject solitary amidst the (prevailing) disunion. (But) he meets with the good man (represented by the first line), and they blend their sincere desires together. The position is one of peril, but there will be no mistake.
 
-> **䷥** changing to [**䷨**](e68d9fsun.md)
+> **䷥** changing to [**䷨**](e68d9fsun.md#41.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷤**](e5aeb6e4babajiaren.md#37.4)
 
@@ -38,13 +38,13 @@
 
 5.<a name="38.5"></a> The fifth `SIX`, divided, shows that (to its subject) occasion for repentance will disappear. With his relative (and minister he unites closely and readily) as if he were biting through a piece of skin. When he goes forward (with this help), what error can there be?
 
-> **䷥** changing to [**䷉**](e5b1a5lv.md)
+> **䷥** changing to [**䷉**](e5b1a5lv.md#10.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷤**](e5aeb6e4babajiaren.md#37.5)
 
 6.<a name="38.6"></a> The topmost `NINE`, undivided, shows its subject solitary amidst the (prevailing) disunion. (In the subject of the third line, he seems to) see a pig bearing on its back a load of mud, (or fancies) there is a carriage full of ghosts. He first bends his bow against him, and afterwards unbends it, (for he discovers) that he is not an assailant to injure, but a near relative. Going forward, he shall meet with (genial) rain, and there will be good fortune.
 
-> **䷥** changing to [**䷵**](e5bd92e5a6b9guimei.md)
+> **䷥** changing to [**䷵**](e5bd92e5a6b9guimei.md#54.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷤**](e5aeb6e4babajiaren.md#37.6)
 

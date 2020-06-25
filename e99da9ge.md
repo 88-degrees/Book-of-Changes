@@ -12,7 +12,7 @@
 
 1.<a name="49.1"></a> The first `NINE`, undivided, shows its subject (as if he were) bound with the skin of a yellow ox.
 
-> **䷰** changing to [**䷞**](e592b8xian.md)
+> **䷰** changing to [**䷞**](e592b8xian.md#31.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷱**](e9bc8eding.md#50.1)
 
@@ -20,25 +20,25 @@
 
 2.<a name="49.2"></a> The second `SIX`, divided, shows its subject making his changes after some time has passed. Action taken will be fortunate. There will be no error.
 
-> **䷰** changing to [**䷪**](e5a4acguai.md)
+> **䷰** changing to [**䷪**](e5a4acguai.md#43.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷱**](e9bc8eding.md#50.2)
 
 3.<a name="49.3"></a> The third `NINE`, undivided, shows that action taken by its subject will be evil. Though he be firm and correct, his position is perilous. If the change (he contemplates) have been three times fully discussed, he will be believed in.
 
-> **䷰** changing to [**䷐**](e99a8fsui.md)
+> **䷰** changing to [**䷐**](e99a8fsui.md#17.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷱**](e9bc8eding.md#50.3)
 
 4.<a name="49.4"></a> The fourth `NINE`, undivided, shows occasion for repentance disappearing (from its subject). Let him be believed in; and though he change (existing) ordinances, there will be good fortune.
 
-> **䷰** changing to [**䷾**](e697a2e6b58ejiji.md)
+> **䷰** changing to [**䷾**](e697a2e6b58ejiji.md#63.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷱**](e9bc8eding.md#50.4)
 
 5.<a name="49.5"></a> The fifth `NINE`, undivided, shows the great man (producing his changes) as the tiger (does when he) changes (his stripes). Before he divines (and proceeds to action), faith has been reposed in him.
 
-> **䷰** changing to [**䷶**](e4b8b0feng.md)
+> **䷰** changing to [**䷶**](e4b8b0feng.md#55.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷱**](e9bc8eding.md#50.5)
 

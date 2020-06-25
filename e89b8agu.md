@@ -12,39 +12,39 @@
 
 1.<a name="18.1"></a> The first `SIX`, divided, shows (a son) dealing with the troubles caused by his father. If he be an (able) son, the father will escape the blame of having erred. The position is perilous, but there will be good fortune in the end.
 
-> **䷑** changing to [**䷙**](e5a4a7e89384daxu.md)
+> **䷑** changing to [**䷙**](e5a4a7e89384daxu.md#26.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷐**](e99a8fsui.md#17.1)
 
 2.<a name="18.2"></a> The second `NINE`, undivided, shows (a son) dealing with the troubles caused by his mother. He should not (carry) his firm correctness (to the utmost).
 
-> **䷑** changing to [**䷳**](e889aegen.md)
+> **䷑** changing to [**䷳**](e889aegen.md#52.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷐**](e99a8fsui.md#17.2)
 
 3.<a name="18.3"></a> The third `NINE`, undivided, shows (a son) dealing with the troubles caused by his father. There may be some small occasion for repentance, but there will not be any great error.
 
-> **䷑** changing to [**䷃**](e89299meng.md)
+> **䷑** changing to [**䷃**](e89299meng.md#4.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷐**](e99a8fsui.md#17.3)
 
 4.<a name="18.4"></a> The fourth `SIX`, divided, shows (a son) viewing indulgently the troubles caused by his father. If he go forward, he will find cause to regret it.
 
-###### p. 96
-
-> **䷑** changing to [**䷱**](e9bc8eding.md)
+> **䷑** changing to [**䷱**](e9bc8eding.md#50.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷐**](e99a8fsui.md#17.4)
 
+###### p. 96
+
 5.<a name="18.5"></a> The fifth `SIX`, divided, shows (a son) dealing with the troubles caused by his father. He obtains the praise of using (the fit instrument for his work).
 
-> **䷑** changing to [**䷸**](e5b7bdxun.md)
+> **䷑** changing to [**䷸**](e5b7bdxun.md#57.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷐**](e99a8fsui.md#17.5)
 
 6.<a name="18.6"></a> The sixth `NINE`, undivided, shows us one who does not serve either king or feudal lord, but in a lofty spirit prefers (to attend to) his own affairs.
 
-> **䷑** changing to [**䷭**](e58d87sheng.md)
+> **䷑** changing to [**䷭**](e58d87sheng.md#46.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷐**](e99a8fsui.md#17.6)
 
