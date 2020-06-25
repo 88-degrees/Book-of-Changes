@@ -12,19 +12,19 @@ In **Tài ䷊** (we see) the little gone and the great come. (It indicates that)
 
 1.<a name="11.1"></a> The first `NINE`, undivided, suggests the idea of grass pulled up, and bringing with it other stalks with whose roots it is connected. Advance (on the part of its subject) will be fortunate.
 
-> **䷊** changing to [**䷭**](e58d87sheng.md)
+> **䷊** changing to [**䷭**](e58d87sheng.md#46.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷋**](e590a6pi.md#12.1)
 
 2.<a name="11.2"></a> The second `NINE`, undivided, shows one who can bear with the uncultivated, will cross the [Hé](https://zh.wikipedia.org/wiki/河) (河) without a boat, does not forget the distant, and has no (selfish) friendships. Thus does he prove himself acting in accordance with the course of the due Mean.
 
-> **䷊** changing to [**䷣**](e6988ee5a4b7mingyi.md)
+> **䷊** changing to [**䷣**](e6988ee5a4b7mingyi.md#36.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷋**](e590a6pi.md#12.2)
 
 3.<a name="11.3"></a> The third `NINE`, undivided, shows that, while there is no state of peace that is not liable to be disturbed, and no departure (of evil men) so that they shall not return, yet when one is firm and correct, as he realises the distresses that may arise, he will commit no error. There is no occasion for sadness at the certainty (of such recurring changes); and in this mood the happiness (of the present) may be (long) enjoyed.
 
-> **䷊** changing to [**䷒**](e4b8b4lin.md)
+> **䷊** changing to [**䷒**](e4b8b4lin.md#19.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷋**](e590a6pi.md#12.3)
 
@@ -32,19 +32,19 @@ In **Tài ䷊** (we see) the little gone and the great come. (It indicates that)
 
 4.<a name="11.4"></a> The fourth `SIX`, divided, shows its subject fluttering (down); -- not relying on his own rich resources, but calling in his neighbours. (They all come) not as having received warning, but in the sincerity (of their hearts).
 
-> **䷊** changing to [**䷡**](e5a4a7e5a3aedazhuang.md)
+> **䷊** changing to [**䷡**](e5a4a7e5a3aedazhuang.md#34.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷋**](e590a6pi.md#12.4)
 
 5.<a name="11.5"></a> The fifth six, divided, reminds us of (king) [Dì Yǐ](https://en.wikipedia.org/wiki/Di_Yi)'s (rule about the) marriage of his younger sister. By such a course there is happiness and there will be great good fortune.
 
-> **䷊** changing to [**䷄**](e99c80xu.md)
+> **䷊** changing to [**䷄**](e99c80xu.md#5.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷋**](e590a6pi.md#12.5)
 
 6.<a name="11.6"></a> The sixth six, divided, shows us the city wall returned into the moat. It is not the time to use the army. (The subject of the line) may, indeed, announce his orders to the people of his own city; but however correct and firm he may be, he will have cause for regret.
 
-> **䷊** changing to [**䷙**](e5a4a7e89384daxu.md)
+> **䷊** changing to [**䷙**](e5a4a7e89384daxu.md#26.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷋**](e590a6pi.md#12.6)
 

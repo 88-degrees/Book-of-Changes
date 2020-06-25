@@ -14,39 +14,39 @@
 
 1.<a name="8.1"></a> The first `SIX`, divided, shows its subject seeking by his sincerity to win the attachment of his object. There will be no error. Let (the breast) be full of sincerity as an earthenware vessel is of its contents, and it will in the end bring other advantages.
 
-> **䷇** changing to [**䷂**](e5b1afzhun.md)
+> **䷇** changing to [**䷂**](e5b1afzhun.md#3.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷆**](e5b888shi.md#7.1)
 
 2.<a name="8.2"></a> In the second `SIX`, divided, we see the movement towards union and attachment proceeding from the inward (mind). With firm correctness there will be good fortune.
 
-> **䷇** changing to [**䷜**](e59d8ekan.md)
+> **䷇** changing to [**䷜**](e59d8ekan.md#29.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷆**](e5b888shi.md#7.2)
 
 3.<a name="8.3"></a> In the third `SIX`, divided, we see its subject seeking for union with such as ought not to be associated with.
 
-> **䷇** changing to [**䷦**](e8b987jian.md)
+> **䷇** changing to [**䷦**](e8b987jian.md#39.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷆**](e5b888shi.md#7.3)
 
 4.<a name="8.4"></a> In the fourth `SIX`, divided, we see its subject seeking for union with the one beyond himself. With firm correctness there will be good fortune.
 
-###### p. 75
-
-> **䷇** changing to [**䷬**](e89083cui.md)
+> **䷇** changing to [**䷬**](e89083cui.md#45.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷆**](e5b888shi.md#7.4)
 
+###### p. 75
+
 5.<a name="8.5"></a> The fifth `NINE`, undivided, affords the most illustrious instance of seeking union and attachment. (We seem to see in it) the king urging his pursuit of the game (only) in three directions, and allowing the escape of all the animals before him, while the people of his towns do not warn one another (to prevent it). There will be good fortune.
 
-> **䷇** changing to [**䷁**](e59da4kun.md)
+> **䷇** changing to [**䷁**](e59da4kun.md#2.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷆**](e5b888shi.md#7.5)
 
 6.<a name="8.6"></a> In the topmost `SIX`, divided, we see one seeking union and attachment without having taken the first step (to such an end). There will be evil.
 
-> **䷇** changing to [**䷓**](e8a782guan.md)
+> **䷇** changing to [**䷓**](e8a782guan.md#20.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷆**](e5b888shi.md#7.6)
 
