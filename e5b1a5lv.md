@@ -44,11 +44,11 @@
 
 6.<a name="10.6"></a> The sixth `NINE`, undivided, tells us to look at (the whole course) that is trodden, and examine the presage which that gives. If it be complete and without failure, there will be great good fortune.
 
-###### p.80
-
 > **䷉** changing to [**䷹**](e58591dui.md#58.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷈**](e5b08fe7959cxiaoxu.md#9.6)
+
+###### p.80
 
 ## Notes
 
