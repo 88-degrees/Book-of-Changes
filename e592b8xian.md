@@ -13,39 +13,39 @@ Its advantageousness will depend on the being firm and correct, (as) in marrying
 
 1.<a name="31.1"></a> The first six, divided, shows one moving his great toes.
 
-> **䷞** changing to [**䷰**](e99da9ge.md)
+> **䷞** changing to [**䷰**](e99da9ge.md#49.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷟**](e68192heng.md#32.1)
 
 2.<a name="31.2"></a> The second `SIX`, divided, shows one moving the calves of his leg. There will be evil. If he abide (quiet in his place), there will be good fortune.
 
-> **䷞** changing to [**䷛**](e5a4a7e8bf87daguo.md)
+> **䷞** changing to [**䷛**](e5a4a7e8bf87daguo.md#28.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷟**](e68192heng.md#32.2)
 
 3.<a name="31.3"></a> The third `NINE`, undivided, shows one moving his thighs, and keeping close hold of those whom he follows. Going forward (in this way) will cause regret.
 
-> **䷞** changing to [**䷬**](e89083cui.md)
+> **䷞** changing to [**䷬**](e89083cui.md#45.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷟**](e68192heng.md#32.3)
 
 4.<a name="31.4"></a> The fourth `NINE`, undivided, shows that firm correctness which will lead to good fortune, and prevent all occasion for repentance. If its subject be unsettled in his movements, (only) his friends will follow his purpose.
 
-> **䷞** changing to [**䷦**](e8b987jian.md)
+> **䷞** changing to [**䷦**](e8b987jian.md#39.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷟**](e68192heng.md#32.4)
 
 5.<a name="31.5"></a> The fifth `NINE`, undivided, shows one moving the flesh along the spine above the heart. There will be no occasion for repentance.
 
-###### p. 124
-
-> **䷞** changing to [**䷽**](e5b08fe8bf87xiaoguo.md)
+> **䷞** changing to [**䷽**](e5b08fe8bf87xiaoguo.md#62.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷟**](e68192heng.md#32.5)
 
+###### p. 124
+
 6.<a name="31.6"></a> The sixth six, divided, shows one moving his jaws and tongue.
 
-> **䷞** changing to [**䷠**](e981afdun.md)
+> **䷞** changing to [**䷠**](e981afdun.md#33.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷟**](e68192heng.md#32.6)
 

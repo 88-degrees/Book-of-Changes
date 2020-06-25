@@ -14,13 +14,13 @@
 
 1.<a name="25.1"></a> The first `NINE`, undivided, shows its subject free from all insincerity. His advance will be accompanied with good fortune.
 
-> **䷘** changing to [**䷋**](e590a6pi.md)
+> **䷘** changing to [**䷋**](e590a6pi.md#12.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷙**](e5a4a7e89384daxu.md#26.1)
 
 2.<a name="25.2"></a> The second `SIX`, divided, shows one who reaps without having ploughed (that he might reap), and gathers the produce of his third year's fields without having cultivated them the first year for that end. To such a one there will be advantage in whatever direction he may move.
 
-> **䷘** changing to [**䷉**](e5b1a5lv.md)
+> **䷘** changing to [**䷉**](e5b1a5lv.md#10.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷙**](e5a4a7e89384daxu.md#26.2)
 
@@ -28,25 +28,25 @@
 
 3.<a name="25.3"></a> The third `SIX`, divided, shows calamity happening to one who is free from insincerity; -- as in the case of an ox that has been tied up. A passer by finds it (and carries it off), while the people in the neighbourhood have the calamity (of being accused and. apprehended).
 
-> **䷘** changing to [**䷌**](e5908ce4babatongren.md)
+> **䷘** changing to [**䷌**](e5908ce4babatongren.md#13.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷙**](e5a4a7e89384daxu.md#26.3)
 
 4.<a name="25.4"></a> The fourth `NINE`, undivided, shows (a case) in which, if its subject can remain firm and correct, there will be no error.
 
-> **䷘** changing to [**䷩**](e79b8ayi.md)
+> **䷘** changing to [**䷩**](e79b8ayi.md#42.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷙**](e5a4a7e89384daxu.md#26.4)
 
 5.<a name="25.5"></a> The fifth `NINE`, undivided, shows one who is free from insincerity, and yet has fallen ill. Let him not use medicine, and he will have occasion for joy (in his recovery).
 
-> **䷘** changing to [**䷔**](e599ace59791shike.md)
+> **䷘** changing to [**䷔**](e599ace59791shike.md#21.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷙**](e5a4a7e89384daxu.md#26.5)
 
 6.<a name="25.6"></a> The topmost `NINE`, undivided, shows its subject free from insincerity, yet sure to fall into error, if he take action. (His action) will not be advantageous in any way.
 
-> **䷘** changing to [**䷐**](e99a8fsui.md)
+> **䷘** changing to [**䷐**](e99a8fsui.md#17.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷙**](e5a4a7e89384daxu.md#26.6)
 

@@ -12,39 +12,39 @@
 
 1.<a name="33.1"></a> The first `SIX`, divided, shows a retiring tail. The position is perilous. No movement in any direction should be made.
 
-###### p. 128
-
-> **䷠** changing to [**䷌**](e5908ce4babatongren.md)
+> **䷠** changing to [**䷌**](e5908ce4babatongren.md#13.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷡**](e5a4a7e5a3aedazhuang.md#34.1)
 
+###### p. 128
+
 2.<a name="33.2"></a> The second `SIX`, divided, shows its subject holding (his purpose) fast as if by a (thong made from the) hide of a yellow ox, which cannot be broken.
 
-> **䷠** changing to [**䷫**](e5a7a4gou.md)
+> **䷠** changing to [**䷫**](e5a7a4gou.md#44.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷡**](e5a4a7e5a3aedazhuang.md#34.2)
 
 3.<a name="33.3"></a> The third `NINE`, undivided, shows one retiring but bound, -- to his distress and peril. (If he were to deal with his binders as in) nourishing a servant or concubine, it would be fortunate for him.
 
-> **䷠** changing to [**䷋**](e590a6pi.md)
+> **䷠** changing to [**䷋**](e590a6pi.md#12.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷡**](e5a4a7e5a3aedazhuang.md#34.3)
 
 4.<a name="33.4"></a> The fourth `NINE`, undivided, shows its subject retiring notwithstanding his likings. In a superior man this will lead to good fortune; a small man cannot attain to this.
 
-> **䷠** changing to [**䷴**](e6b890jian.md)
+> **䷠** changing to [**䷴**](e6b890jian.md#53.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷡**](e5a4a7e5a3aedazhuang.md#34.4)
 
 5.<a name="33.5"></a> The fifth `NINE`, undivided, shows its subject retiring in an admirable way. With firm correctness there will be good fortune.
 
-> **䷠** changing to [**䷷**](e69785lv.md)
+> **䷠** changing to [**䷷**](e69785lv.md#56.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷡**](e5a4a7e5a3aedazhuang.md#34.5)
 
 6.<a name="33.6"></a> The sixth `NINE`, undivided, shows its subject retiring in a noble way. It will be advantageous in every respect.
 
-> **䷠** changing to [**䷞**](e592b8xian.md)
+> **䷠** changing to [**䷞**](e592b8xian.md#31.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷡**](e5a4a7e5a3aedazhuang.md#34.6)
 
