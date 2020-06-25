@@ -14,7 +14,7 @@ If some operations be called for, there will be good fortune in the early conduc
 
 1.<a name="40.1"></a> The first `SIX`, divided, shows that its subject will commit no error.
 
-> **䷧** changing to [**䷵**](e5bd92e5a6b9guimei.md)
+> **䷧** changing to [**䷵**](e5bd92e5a6b9guimei.md#54.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷦**](e8b987jian.md#39.1)
 
@@ -22,32 +22,32 @@ If some operations be called for, there will be good fortune in the early conduc
 
 2.<a name="40.2"></a> The second `NINE`, undivided, shows its subject catch, in hunting, three foxes, and obtain the yellow (= golden) arrows. With firm correctness there will be good fortune.
 
-> **䷧** changing to [**䷏**](e8b1abyu.md)
+> **䷧** changing to [**䷏**](e8b1abyu.md#16.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷦**](e8b987jian.md#39.2)
 
 3.<a name="40.3"></a> The third `SIX`, divided, shows a porter with his burden, (yet) riding in a carriage. He will (only) tempt robbers to attack him. However firm and correct he may (try to) be, there will be cause for regret.
 
-> **䷧** changing to [**䷟**](e68192heng.md)
+> **䷧** changing to [**䷟**](e68192heng.md#32.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷦**](e8b987jian.md#39.3)
 
 4.<a name="40.4"></a> (To the subject of) the fourth `NINE`, undivided, (it is said), 'Remove your toes. Friends will (then) come, between you and whom there will be mutual confidence.'
 
-> **䷧** changing to [**䷆**](e5b888shi.md)
+> **䷧** changing to [**䷆**](e5b888shi.md#7.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷦**](e8b987jian.md#39.4)
 
 5.<a name="40.5"></a> The fifth `SIX`, divided, shows (its subject), the superior man (= the ruler),
 executing his function of removing (whatever is injurious to the idea of the hexagram), in which case there will he good fortune, and confidence in him will be shown even by the small men.
 
-> **䷧** changing to [**䷮**](e59bb0kun.md)
+> **䷧** changing to [**䷮**](e59bb0kun.md#47.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷦**](e8b987jian.md#39.5)
 
 6.<a name="40.6"></a> In the sixth `SIX`, divided, we see a feudal prince (with his bow) shooting at a falcon on the top of a high wall, and hitting it. (The effect of his action) will be in every way advantageous.
 
-> **䷧** changing to [**䷿**](e69caae6b58eweiji.md)
+> **䷧** changing to [**䷿**](e69caae6b58eweiji.md#64.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷦**](e8b987jian.md#39.6)
 
