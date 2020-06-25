@@ -14,39 +14,39 @@ In (the condition denoted by) **Kùn ䷮** there may (yet be) progress and succe
 
 1.<a name="47.1"></a> The first `SIX`, divided, shows its subject with bare buttocks straitened under the stump of a tree. He enters a dark valley, and for three years has no prospect (of deliverance).
 
-> **䷮** changing to [**䷹**](e58591dui.md)
+> **䷮** changing to [**䷹**](e58591dui.md#58.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷯**](e4ba95jing.md#48.1)
 
 2.<a name="47.2"></a> The second `NINE`, undivided, shows its subject straitened amidst his wine and viands. There come to him anon the red knee-covers (of the ruler). It will be well for him (to maintain his sincerity as) in sacrificing. Active operations (on his part) will lead to evil, but he will be free from blame.
 
-> **䷮** changing to [**䷬**](e89083cui.md)
+> **䷮** changing to [**䷬**](e89083cui.md#45.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷯**](e4ba95jing.md#48.2)
 
 3.<a name="47.3"></a> The third `SIX`, divided, shows its subject straitened before a (frowning) rock. He lays hold of thorns. He enters his palace, and does not see his wife. There will be evil.
 
-> **䷮** changing to [**䷛**](e5a4a7e8bf87daguo.md)
+> **䷮** changing to [**䷛**](e5a4a7e8bf87daguo.md#28.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷯**](e4ba95jing.md#48.3)
 
 4.<a name="47.4"></a> The fourth `NINE`, undivided shows its subject proceeding very slowly (to help the subject of the first line), who is straitened by the carriage adorned with metal in front of him. There will be occasion for regret, but the end will be good.
 
-#### p. 163
-
-> **䷮** changing to [**䷜**](e59d8ekan.md)
+> **䷮** changing to [**䷜**](e59d8ekan.md#29.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷯**](e4ba95jing.md#48.4)
 
+#### p. 163
+
 5.<a name="47.5"></a> The fifth `NINE`, undivided, shows its subject with his nose and feet cut off. He is straitened by (his ministers in their) scarlet aprons. He is leisurely in his movements, however, and is satisfied. It will be well for him to be (as sincere) as in sacrificing (to spiritual beings).
 
-> **䷮** changing to [**䷧**](e8a7a3xie.md)
+> **䷮** changing to [**䷧**](e8a7a3xie.md#40.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷯**](e4ba95jing.md#48.5)
 
 6.<a name="47.6"></a> The sixth `SIX`, divided, shows its subject straitened, as if bound with creepers; or n a high and dangerous position, and saying (to himself), 'If I move, I shall repent it.' If he do repent of former errors, there will be good fortune in his going forward.
 
-> **䷮** changing to [**䷅**](e8aebcsong.md)
+> **䷮** changing to [**䷅**](e8aebcsong.md#6.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷯**](e4ba95jing.md#48.6)
 

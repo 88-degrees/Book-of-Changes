@@ -12,39 +12,39 @@
 
 1.<a name="42.1"></a> The first `NINE`, undivided, shows that it will be advantageous for its subject in his position to make a great movement. If it be greatly fortunate, no blame will be imputed to him.
 
-##### p. 150
-
-> **䷩** changing to [**䷓**](e8a782guan.md)
+> **䷩** changing to [**䷓**](e8a782guan.md#20.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷨**](e68d9fsun.md#41.1)
 
+##### p. 150
+
 2.<a name="42.2"></a> The second `SIX`, divided, shows parties adding to the stores of its subject ten pairs of tortoise shells whose oracles cannot be opposed. Let him persevere in being firm and correct, and there will be good fortune. Let the king, (having the virtues thus distinguished), employ them in presenting his offerings to God, and there will be good fortune.
 
-> **䷩** changing to [**䷼**](e4b8ade5ad9azhongfu.md)
+> **䷩** changing to [**䷼**](e4b8ade5ad9azhongfu.md#61.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷨**](e68d9fsun.md#41.2)
 
 3.<a name="42.3"></a> The third `SIX`, divided, shows increase given to its subject by means of what is evil, so that he shall (be led to good), and be without blame. Let him be sincere and pursue the path of the Mean, (so shall he secure the recognition of the ruler, like) an officer who announces himself to his prince by the symbol of his rank.
 
-> **䷩** changing to [**䷤**](e5aeb6e4babajiaren.md)
+> **䷩** changing to [**䷤**](e5aeb6e4babajiaren.md#37.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷨**](e68d9fsun.md#41.3)
 
 4.<a name="42.4"></a> The fourth `SIX`, divided, shows its subject pursuing the due course. His advice to his prince is followed. He can with advantage be relied on in such a movement as that of removing the capital.
 
-> **䷩** changing to [**䷘**](e697a0e5a684wuwang.md)
+> **䷩** changing to [**䷘**](e697a0e5a684wuwang.md#25.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷨**](e68d9fsun.md#41.4)
 
 5.<a name="42.5"></a> The fifth `NINE`, undivided, shows its subject with sincere heart seeking to benefit (all below). There need be no question about it; the result will be great good fortune. (All below) will with sincere heart acknowledge his goodness.
 
-> **䷩** changing to [**䷚**](e9a290yi.md)
+> **䷩** changing to [**䷚**](e9a290yi.md#27.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷨**](e68d9fsun.md#41.5)
 
 6.<a name="42.6"></a> In the sixth `NINE`, undivided, we see one to whose increase none will contribute, while many will seek to assail him. He observes no regular rule in the ordering of his heart. There will be evil.
 
-> **䷩** changing to [**䷂**](e5b1afzhun.md)
+> **䷩** changing to [**䷂**](e5b1afzhun.md#3.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷨**](e68d9fsun.md#41.6)
 

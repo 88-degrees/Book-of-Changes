@@ -12,7 +12,7 @@
 
 1.<a name="50.1"></a> The first `SIX`, divided, shows the caldron overthrown and its feet turned up. (But) there will be advantage in its getting rid of what was bad in it. (Or it shows us) the concubine (whose position is improved) by means of her son. There will be no error.
 
-> **䷱** changing to [**䷍**](e5a4a7e69c89dayou.md)
+> **䷱** changing to [**䷍**](e5a4a7e69c89dayou.md#14.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷰**](e99da9ge.md#49.1)
 

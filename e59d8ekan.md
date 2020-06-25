@@ -12,13 +12,13 @@
 
 1.<a name="29.1"></a> The first `SIX`, divided, shows its subject in the double defile, and (yet) entering a cavern within it. There will be evil.
 
-> **䷜** changing to [**䷻**](e88a82jie.md)
+> **䷜** changing to [**䷻**](e88a82jie.md#60.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.1)
 
 2.<a name="29.2"></a> The second `NINE`, undivided, shows its subject in all the peril of the defile. He will, however, get a little (of the deliverance) that he seeks.
 
-> **䷜** changing to [**䷇**](e6af94bi.md)
+> **䷜** changing to [**䷇**](e6af94bi.md#8.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.2)
 
@@ -26,25 +26,25 @@
 
 3.<a name="29.3"></a> The third `SIX`, divided, shows its subject, whether he comes or goes ( =descends or ascends), confronted by a defile. All is peril to him and unrest. (His endeavours) will lead him into the cavern of the pit. There should be no action (in such a case).
 
-> **䷜** changing to [**䷯**](e4ba95jing.md)
+> **䷜** changing to [**䷯**](e4ba95jing.md#48.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.3)
 
 4.<a name="29.4"></a> The fourth `SIX`, divided, shows its subject (at a feast), with (simply) a bottle of spirits, and a subsidiary basket of rice, while (the cups and bowls) are (only) of earthenware. He introduces his important lessons (as his ruler's) intelligence admits. There will in the end be no error.
 
-> **䷜** changing to [**䷮**](e59bb0kun.md)
+> **䷜** changing to [**䷮**](e59bb0kun.md#47.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.4)
 
 5.<a name="29.5"></a> The fifth `NINE`, undivided, shows the water of the defile not yet full, (so that it might flow away); but order will (soon) be brought about. There will be no error.
 
-> **䷜** changing to [**䷆**](e5b888shi.md)
+> **䷜** changing to [**䷆**](e5b888shi.md#7.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.5)
 
 6.<a name="29.6"></a> The topmost `SIX`, divided, shows its subject bound with cords of three strands or two strands, and placed in the thicket of thorns. But in three years he does not learn the course for him to pursue. There will be evil.
 
-> **䷜** changing to [**䷺**](e6b6a3huan.md)
+> **䷜** changing to [**䷺**](e6b6a3huan.md#59.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.6)
 

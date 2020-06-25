@@ -14,37 +14,37 @@ Chinese: shēng 升 ䷭
 
 1.<a name="46.1"></a> The first `SIX`, divided, shows its subject advancing upwards with the welcome (of those above him). There will be great good fortune.
 
-> **䷭** changing to [**䷊**](e6b3b0tai.md)
+> **䷭** changing to [**䷊**](e6b3b0tai.md#11.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.1)
 
 2.<a name="46.2"></a> The second `NINE`, undivided, shows its subject with that sincerity which will make even the (small) offerings of the vernal sacrifice acceptable. There will be no error.
 
-> **䷭** changing to [**䷎**](e8b0a6qian.md)
+> **䷭** changing to [**䷎**](e8b0a6qian.md#15.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.2)
 
 3.<a name="46.3"></a> The third `NINE`, undivided, shows its subject ascending upwards (as into) an empty city.
 
-> **䷭** changing to [**䷆**](e5b888shi.md)
+> **䷭** changing to [**䷆**](e5b888shi.md#7.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.3)
 
 4.<a name="46.4"></a> The fourth `SIX`, divided, shows its subject employed by the king to present his offerings on [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County). There will be good fortune; there will be no mistake.
 
-> **䷭** changing to [**䷟**](e68192heng.md)
+> **䷭** changing to [**䷟**](e68192heng.md#32.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.4)
 
 5.<a name="46.5"></a> The fifth six, divided, shows its subject firmly correct, and therefore enjoying good fortune. He ascends the stairs (with all due ceremony).
 
-> **䷭** changing to [**䷯**](e4ba95jing.md)
+> **䷭** changing to [**䷯**](e4ba95jing.md#48.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.5)
 
 6.<a name="46.6"></a> The sixth six, divided, shows its subject advancing upwards blindly. Advantage will be found in a ceaseless maintenance of firm correctness.
 
-> **䷭** changing to [**䷑**](e89b8agu.md)
+> **䷭** changing to [**䷑**](e89b8agu.md#18.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.6)
 
