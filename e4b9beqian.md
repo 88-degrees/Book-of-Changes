@@ -6,7 +6,7 @@
 
 ###### p. 57
 
-![Qian](https://88o.io/wp-content/uploads/2018/09/01-e4b9beqian.jpg)
+![Qian](shapes/01.jpg)
 
 **Qián ䷀** (represents) what is great and originating, penetrating, advantageous, correct and firm.
 

@@ -6,7 +6,7 @@
 
 ###### p. 183
 
-![Feng](https://88o.io/wp-content/uploads/2018/09/55-e4b8b0feng.jpg)
+![Feng](shapes/55.jpg)
 
 **Fēng ䷶** intimates progress and development. When a king has reached the point (which the name denotes) there is no occasion to be anxious (through fear of a change). Let him be as the sun at noon.
 

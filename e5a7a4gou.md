@@ -6,7 +6,7 @@
 
 ###### p. 154
 
-![Gou](https://88o.io/wp-content/uploads/2018/09/44-e5a7a4gou.jpg)
+![Gou](shapes/44.jpg)
 
 **Gòu ䷫** shows a female who is bold and strong. It will not be good to marry (such) a female.
 

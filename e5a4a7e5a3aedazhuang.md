@@ -6,7 +6,7 @@
 
 ###### p. 129
 
-![Dazhuang](https://88o.io/wp-content/uploads/2018/09/34-e5a4a7e5a3aedazhuang.jpg)
+![Dazhuang](shapes/34.jpg)
 
 **Dà Zhuàng ䷡** indicates that (under the conditions which it symbolises) it will be advantageous to be firm and correct.
 

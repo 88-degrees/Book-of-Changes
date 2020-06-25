@@ -6,7 +6,7 @@
 
 ###### p. 59
 
-![Kun](https://88o.io/wp-content/uploads/2018/09/02-e59da4kun.jpg)
+![Kun](shapes/02.jpg)
 
 **Kūn ䷁** (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare. When the superior man (here intended) has to make any movement, if he take the initiative, he will go astray; if he follow, he will find his (proper) lord. The advantageousness will be seen in his getting friends in the south-west, and losing friends in the north-east. If he rest in correctness and firmness, there will be good fortune.
 

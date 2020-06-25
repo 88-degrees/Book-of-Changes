@@ -6,7 +6,7 @@
 
 ###### p. 136
 
-![Jiaren](https://88o.io/wp-content/uploads/2018/09/37-e5aeb6e4babajiaren.jpg)
+![Jiaren](shapes/37.jpg)
 
 For (the realisation of what is taught in) **Jiā Rén ䷤** , (or for the regulation of the family), what is most advantageous is that the wife be firm and correct.
 

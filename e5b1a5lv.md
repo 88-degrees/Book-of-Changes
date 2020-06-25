@@ -6,7 +6,7 @@
 
 ###### p. 78
 
-![Lv](https://88o.io/wp-content/uploads/2018/09/10-e5b1a5lv.jpg)
+![Lv](shapes/10.jpg)
 
 (**Lǚ ䷉** suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success.
 
