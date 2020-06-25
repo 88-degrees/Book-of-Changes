@@ -6,7 +6,7 @@
 
 ###### p. 204
 
-![Jiji](https://88o.io/wp-content/uploads/2018/09/63-e697a2e6b58ejiji.jpg)
+![Jiji](shapes/63.jpg)
 
 **Jì Jì ䷾** intimates progress and success in small matters. There will be advantage in being firm and correct. There has been good fortune in the beginning; there may be disorder in the end.
 

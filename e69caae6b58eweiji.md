@@ -6,7 +6,7 @@
 
 ###### p. 207
 
-![Weiji](https://88o.io/wp-content/uploads/2018/09/64-e69caae6b58eweiji.jpg)
+![Weiji](shapes/64.jpg)
 
 **Wèi Jì ䷿** intimates progress and success (in the circumstances which it implies).
 (We see) a young fox that has nearly crossed (the stream), when its tail gets immersed. There will be no advantage in any way.

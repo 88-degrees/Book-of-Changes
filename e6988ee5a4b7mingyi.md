@@ -6,7 +6,7 @@
 
 ###### p. 134
 
-![Mingyi](https://88o.io/wp-content/uploads/2018/09/36-e6988ee5a4b7mingyi.jpg)
+![Mingyi](shapes/36.jpg)
 
 **Míng Yí ䷣** indicates that (in the circumstances which it denotes) it will be advantageous to realise the difficulty (of the position), and maintain firm correctness.
 

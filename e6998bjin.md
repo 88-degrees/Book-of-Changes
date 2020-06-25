@@ -6,7 +6,7 @@
 
 ###### p. 131
 
-![Jin](https://88o.io/wp-content/uploads/2018/09/35-e6998bjin.jpg)
+![Jin](shapes/35.jpg)
 
 In **Jìn ䷢** we see a prince who secures the tranquillity (of the people) presented on that account with numerous horses (by the king), and three times in a day received at interviews.
 

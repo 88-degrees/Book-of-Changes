@@ -6,7 +6,7 @@
 
 ###### p. 93
 
-![Sui](https://88o.io/wp-content/uploads/2018/09/17-e99a8fsui.jpg)
+![Sui](shapes/17.jpg)
 
 **Suí ䷐** indicates that (under its conditions) there will be great progress and success. But it will be advantageous to be firm and correct. There will (then) be no error.
 

@@ -6,7 +6,7 @@
 
 ###### p. 95
 
-![Gu](https://88o.io/wp-content/uploads/2018/09/18-e89b8agu.jpg)
+![Gu](shapes/18.jpg)
 
 **Gǔ ䷑** indicates great progress and success (to him who deals properly with the condition represented by it). There will be advantage in (efforts like that of) crossing the great stream. (He should weigh well, however, the events of) three days before the turning point, and those (to be done) three days after it.
 

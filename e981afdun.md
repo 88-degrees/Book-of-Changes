@@ -6,7 +6,7 @@
 
 ###### p. 127
 
-![Dun](https://88o.io/wp-content/uploads/2018/09/33-e981afdun.jpg)
+![Dun](shapes/33.jpg)
 
 **Dùn ䷠** indicates successful progress (in its circumstances). To a small extent it will (still) be advantageous to be firm and correct.
 
