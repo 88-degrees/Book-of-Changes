@@ -14,39 +14,39 @@ there will be good fortune, while, if he must prosecute the contention to the (b
 
 1.<a name="6.1"></name> The first `SIX`, divided, shows its subject not perpetuating the matter about which (the contention is). He will suffer the small (injury) of being spoken against, but the end will be fortunate.
 
-> **䷅** changing to [**䷉**](e5b1a5lv.md)
+> **䷅** changing to [**䷉**](e5b1a5lv.md#10.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.1)
 
 2.<a name="6.2"></name> The second `NINE`, undivided, shows its subject unequal to the contention. If he retire and keep concealed (where) the inhabitants of his city are (only) three hundred families, he will fall into no mistake.
 
-> **䷅** changing to [**䷋**](e590a6pi.md)
+> **䷅** changing to [**䷋**](e590a6pi.md#12.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.2)
 
 3.<a name="6.3"></name> The third `SIX`, divided, shows its subject keeping in the old place assigned for his support, and firmly correct. Perilous as the position is, there will be good fortune in the end. Should he perchance engage in the king's business, he will not (claim the merit of) achievement.
 
-###### p. 70
-
-> **䷅** changing to [**䷫**](e5a7a4gou.md)
+> **䷅** changing to [**䷫**](e5a7a4gou.md#44.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.3)
 
+###### p. 70
+
 4.<a name="6.4"></name> The fourth `NINE`, undivided, shows its subject unequal to the contention. He returns to (the study of Heaven's) ordinances, changes (his wish to contend), and rests in being firm and correct. There will be good fortune.
 
-> **䷅** changing to [**䷺**](e6b6a3huan.md)
+> **䷅** changing to [**䷺**](e6b6a3huan.md#59.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.4)
 
 5.<a name="6.5"></name> The fifth `NINE`, undivided, shows its subject contending; -- and with great good fortune.
 
-> **䷅** changing to [**䷿**](e69caae6b58eweiji.md)
+> **䷅** changing to [**䷿**](e69caae6b58eweiji.md#64.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.5)
 
 6.<a name="6.6"></name> The topmost `NINE`, undivided, shows how its subject may have the leathern belt conferred on him (by the sovereign), and thrice it shall be taken from him in a morning.
 
-> **䷅** changing to [**䷮**](e59bb0kun.md)
+> **䷅** changing to [**䷮**](e59bb0kun.md#47.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.6)
 

@@ -12,39 +12,39 @@
 
 1.<a name="16.1"></a> The first `SIX`, divided, shows its subject proclaiming his pleasure and satisfaction. There will be evil.
 
-> **䷏** changing to [**䷲**](e99c87zhen.md)
+> **䷏** changing to [**䷲**](e99c87zhen.md#51.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.1)
 
 2.<a name="16.2"></a> The second `SIX`, divided, shows one who is firm as a rock. (He sees a thing) without waiting till it has come to pass; with his firm correctness there will be good fortune.
 
-> **䷏** changing to [**䷧**](e8a7a3xie.md)
+> **䷏** changing to [**䷧**](e8a7a3xie.md#40.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.2)
 
 3.<a name="16.3"></a> The third `SIX`, divided, shows one looking up (for favours), while he indulges the feeling of pleasure and satisfaction. If he would understand! -- If he be late in doing so, there will indeed be occasion for repentance.
 
-> **䷏** changing to [**䷽**](e5b08fe8bf87xiaoguo.md)
+> **䷏** changing to [**䷽**](e5b08fe8bf87xiaoguo.md#62.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.3)
 
 4.<a name="16.4"></a> The fourth `NINE`, undivided, shows him from whom the harmony and satisfaction come. Great is the success which he obtains. Let him not allow suspicions to enter his mind, and thus friends will gather around him.
 
-###### p. 92
-
-> **䷏** changing to [**䷁**](e59da4kun.md)
+> **䷏** changing to [**䷁**](e59da4kun.md#2.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.4)
 
+###### p. 92
+
 5.<a name="16.5"></a> The fifth six, divided, shows one with a chronic complaint, but who lives on without dying.
 
-> **䷏** changing to [**䷬**](e89083cui.md)
+> **䷏** changing to [**䷬**](e89083cui.md#45.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.5)
 
 6.<a name="16.6"></a> The topmost six, divided, shows its subject with darkened mind devoted to the pleasure and satisfaction (of the time); but if he change his course even when (it may be considered as) completed, there will be no error.
 
-> **䷏** changing to [**䷢**](e6998bjin.md)
+> **䷏** changing to [**䷢**](e6998bjin.md#35.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.6)
 
