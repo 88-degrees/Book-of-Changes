@@ -12,41 +12,41 @@
 
 1.<a name="13.1"></a> The first `NINE`, undivided, (shows the representative of) the union of men just issuing from his gate. There will be no error.
 
-> **䷌** changing to [**䷠**](e981afdun.md)
+> **䷌** changing to [**䷠**](e981afdun.md#33.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷍**](e5a4a7e69c89dayou.md#14.1)
 
 2.<a name="13.2"></a> The second `SIX`, divided, (shows the representative of) the union of men in relation with his kindred. There will be occasion for regret.
 
-> **䷌** changing to [**䷀**](e4b9beqian.md)
+> **䷌** changing to [**䷀**](e4b9beqian.md#1.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷍**](e5a4a7e69c89dayou.md#14.2)
 
 3.<a name="13.3"></a> The third `NINE`, undivided, (shows its subject) with his arms hidden in the thick grass, and at the top of a high mound. (But) for three years he makes no demonstration.
 
-> **䷌** changing to [**䷘**](e697a0e5a684wuwang.md)
+> **䷌** changing to [**䷘**](e697a0e5a684wuwang.md#25.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷍**](e5a4a7e69c89dayou.md#14.3)
 
 4.<a name="13.4"></a> The fourth `NINE`, undivided, (shows its subject) mounted on the city wall; but he does not proceed to make the attack (he contemplates). There will be good fortune.
 
-> **䷌** changing to [**䷤**](e5aeb6e4babajiaren.md)
+> **䷌** changing to [**䷤**](e5aeb6e4babajiaren.md#37.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷍**](e5a4a7e69c89dayou.md#14.4)
 
 5.<a name="13.5"></a> In the fifth `NINE`, undivided, (the representative of) the union of men first wails and cries out, and then laughs. His great host conquers, and he (and the subject of the second line) meet together.
 
-> **䷌** changing to [**䷝**](e7a6bbli.md)
+> **䷌** changing to [**䷝**](e7a6bbli.md#30.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷍**](e5a4a7e69c89dayou.md#14.5)
 
 6.<a name="13.6"></a> The topmost `NINE`, undivided, (shows the representative of) the union of men in the suburbs. There will be no occasion for repentance.
 
-###### p. 87
-
-> **䷌** changing to [**䷰**](e99da9ge.md)
+> **䷌** changing to [**䷰**](e99da9ge.md#49.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷍**](e5a4a7e69c89dayou.md#14.6)
+
+###### p. 87
 
 ## Notes
 

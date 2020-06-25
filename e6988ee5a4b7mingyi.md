@@ -14,37 +14,37 @@
 
 1.<a name="36.1"></a> The first `NINE`, undivided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, flying, but with drooping wings. When the superior man (is revolving) his going away, he may be for three days without eating. Wherever he goes, the people there may speak (derisively of him).
 
-> **䷣** changing to [**䷎**](e8b0a6qian.md)
+> **䷣** changing to [**䷎**](e8b0a6qian.md#15.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.1)
 
 2.<a name="36.2"></a> The second `SIX`, divided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, wounded in the left thigh. He saves himself by the strength of a (swift) horse; and is fortunate.
 
-> **䷣** changing to [**䷊**](e6b3b0tai.md)
+> **䷣** changing to [**䷊**](e6b3b0tai.md#11.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.2)
 
 3.<a name="36.3"></a> The third `NINE`, undivided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, hunting in the south, and taking the great chief (of the darkness). He should not be eager to make (all) correct (at once).
 
-> **䷣** changing to [**䷗**](e5a48dfu.md)
+> **䷣** changing to [**䷗**](e5a48dfu.md#24.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.3)
 
 4.<a name="36.4"></a> The fourth six, divided, shows its subject (just) entered into the left side of the belly (of the dark land). (But) he is able to carry out the mind appropriate (in the condition indicated by) **Míng Yí ䷣**, quitting the gate and courtyard (of the lord of darkness).
 
-> **䷣** changing to [**䷶**](e4b8b0feng.md)
+> **䷣** changing to [**䷶**](e4b8b0feng.md#55.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.4)
 
 5.<a name="36.5"></a> The fifth six, divided, shows how the count of [Qì](https://en.wiktionary.org/wiki/气) fulfilled the condition indicated by **Míng Yí ䷣**. It will be advantageous to be firm and correct.
 
-> **䷣** changing to [**䷾**](e697a2e6b58ejiji.md)
+> **䷣** changing to [**䷾**](e697a2e6b58ejiji.md#63.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.5)
 
 6.<a name="36.6"></a> The sixth six, divided, shows the case where there is no light, but (only) obscurity. (Its subject) had at first ascended to (the top of) the sky; his future shall be to go into the earth.
 
-> **䷣** changing to [**䷕**](e8b4b2bi.md)
+> **䷣** changing to [**䷕**](e8b4b2bi.md#22.6)
 
 > Matching Line 6 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.6)
 
