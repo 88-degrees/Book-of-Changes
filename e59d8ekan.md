@@ -6,7 +6,7 @@
 
 ###### p. 118
 
-![Kan](shapes/29.jpg)
+![Kan](https://tenetai.com/88o/shapes/29.jpg)
 
 **Kǎn ䷜**, here repeated, shows the possession of sincerity, through which the mind is. penetrating. Action (in accordance with this) will be of high value.
 

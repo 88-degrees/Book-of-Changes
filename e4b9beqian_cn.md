@@ -1,6 +1,6 @@
 # 乾 ䷀
 
-<img src="shapes/01.10.jpg" width=160 alt="乾" align=left>
+<img src="https://tenetai.com/88o/shapes/01.10.jpg" width=160 alt="乾" align=left>
 
 乾（qián）卦代号是`7:7`，主卦和客卦都是`1`卦乾卦，
 三条爻当位，三条爻不当位，不存在有应关系。卦象是天，特性是强健。
@@ -986,7 +986,7 @@
 ③ 合，配合，一致。
 ```
 
-<img src="shapes/01.11.jpg">
+<img src="https://tenetai.com/88o/shapes/01.11.jpg">
 
 ### 《断易天机》解
 
@@ -1077,7 +1077,7 @@
 
 ### 初九变卦：乾为天 变卦 天风姤
 
-<img src="shapes/01.01.png" align=left>
+<img src="https://tenetai.com/88o/shapes/01.01.png" align=left>
 
 初九爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -1116,7 +1116,7 @@
 
 ### 九二变卦：乾为天 变卦 天火同人
 
-<img src="shapes/01.02.png" align=left>
+<img src="https://tenetai.com/88o/shapes/01.02.png" align=left>
 
 九二爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -1154,7 +1154,7 @@
 
 ### 九三变卦 乾为天 变卦 天泽履
 
-<img src="shapes/01.03.png" align=left>
+<img src="https://tenetai.com/88o/shapes/01.03.png" align=left>
 
 九三爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -1194,7 +1194,7 @@
 
 ### 九四变卦 乾为天 变卦 风天小畜
 
-<img src="shapes/01.04.png" align=left>
+<img src="https://tenetai.com/88o/shapes/01.04.png" align=left>
 
 九四爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -1230,7 +1230,7 @@
 
 ### 九五变卦：乾为天 变卦 火天大有
 
-<img src="shapes/01.05.png" align=left>
+<img src="https://tenetai.com/88o/shapes/01.05.png" align=left>
 
 九五爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -1266,7 +1266,7 @@
 
 ### 上九变卦：乾为天 变卦 泽天夬
 
-<img src="shapes/01.06.png" align=left>
+<img src="https://tenetai.com/88o/shapes/01.06.png" align=left>
 
 上九爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 

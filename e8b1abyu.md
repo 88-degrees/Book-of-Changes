@@ -6,7 +6,7 @@
 
 ###### p. 91
 
-![Yu](shapes/16.jpg)
+![Yu](https://tenetai.com/88o/shapes/16.jpg)
 
 **Yǜ ䷏** indicates that, (in the state which it implies), feudal princes may be set up, and the hosts put in motion, with advantage.
 

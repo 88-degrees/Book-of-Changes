@@ -1,6 +1,6 @@
 # 颐 ䷚
 
-<img src="shapes/27.10.jpg" alt="颐" width=160 align=left>
+<img src="https://tenetai.com/88o/shapes/27.10.jpg" alt="颐" width=160 align=left>
 
 颐（yí）卦展示在像“颐”的形势下各种变化的可能性。
 
@@ -472,7 +472,7 @@
 上九：遵循养生之道，先艰难后吉利。有利于渡过大江大河。
 ```
 
-<img src="shapes/27.11.png">
+<img src="https://tenetai.com/88o/shapes/27.11.png">
  
 ### 《断易天机》解
 
@@ -568,7 +568,7 @@
 
 ### 初九变卦：山雷颐 变卦 山地剥
 
-<img src="shapes/27.01.png" align=left>
+<img src="https://tenetai.com/88o/shapes/27.01.png" align=left>
 
 初九爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -606,7 +606,7 @@
 
 ### 六二变卦：山雷颐 变卦 山泽损
 
-<img src="shapes/27.02.png" align=left>
+<img src="https://tenetai.com/88o/shapes/27.02.png" align=left>
 
 六二爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -650,7 +650,7 @@
 
 ### 六三变卦：山雷颐 变卦 山火贲
 
-<img src="shapes/27.03.png" align=left>
+<img src="https://tenetai.com/88o/shapes/27.03.png" align=left>
 
 六三爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
@@ -689,7 +689,7 @@
 
 ### 六四变卦：山雷颐 变卦 火雷噬嗑
 
-<img src="shapes/27.04.png" align=left>
+<img src="https://tenetai.com/88o/shapes/27.04.png" align=left>
 
 六四爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -727,7 +727,7 @@
 
 ### 六五变卦：山雷颐 变卦 风雷益
 
-<img src="shapes/27.05.png" align=left>
+<img src="https://tenetai.com/88o/shapes/27.05.png" align=left>
 
 六五爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -767,7 +767,7 @@
 
 ### 上九变卦：山雷颐 变卦 地雷复
 
-<img src="shapes/27.06.png" align=left>
+<img src="https://tenetai.com/88o/shapes/27.06.png" align=left>
 
 上九爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 

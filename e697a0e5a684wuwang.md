@@ -6,7 +6,7 @@
 
 ###### p. 109
 
-![Wuwang](shapes/25.jpg)
+![Wuwang](https://tenetai.com/88o/shapes/25.jpg)
 
 **Wú Wàng ䷘** indicates great progress and success, while there will be advantage in being firm and correct. If (its subject and his action) be not correct, he will fall into errors, and it will not be advantageous for him to move in any direction.
 

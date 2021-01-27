@@ -6,7 +6,7 @@
 
 ###### p. 127
 
-![Dun](shapes/33.jpg)
+![Dun](https://tenetai.com/88o/shapes/33.jpg)
 
 **Dùn ䷠** indicates successful progress (in its circumstances). To a small extent it will (still) be advantageous to be firm and correct.
 

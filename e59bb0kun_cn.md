@@ -1,6 +1,6 @@
 # 困 ䷮
 
-<img src="shapes/47.10.jpg" width=160 alt="困" align=left>
+<img src="https://tenetai.com/88o/shapes/47.10.jpg" width=160 alt="困" align=left>
 
 本卦为异卦相番(坎下兑上)。上卦为兑，兑为阴，为泽；下卦为坎，坎为阳，为水，大泽漏水，水草鱼虾，处于穷困之境。
 阳处阴下，刚为柔掩，像君子才智难展，处于困乏之地。所以卦名曰困。
@@ -321,7 +321,7 @@
 5. “九五”爻辞的“劓刖，困于赤绂；乃徐徐有说，利用祭祀”，是说当 受到割掉鼻子和剁掉脚的困境，并且在这时更受困于迷信神灵保佑，整日困于祈祷祭祀之中，这也很危险；这里最好的办法就是徐徐的予以解脱，其解脱的办法还是利用祭祀这一种仪式。解释此一爻必须注意区分“困于赤绂” 与“利用祭祀”的不同含义。
 6. “上六”爻辞的“困于葛藟，于臲卼，曰动悔有悔；征吉”，是说如若 被葛藤缠绕，处于动荡不安之中，而且一动就有后悔，愈缠愈紧；那这时为了摆脱这种被困局面，只有出击征伐才能获得吉祥。最后这一爻看来只有这么解释，对于“征吉”一语，这里是否还有其它用义，也即是否还与当时某些政局或与策略有关，不祥。
 
-<img src="shapes/47.11.png">
+<img src="https://tenetai.com/88o/shapes/47.11.png">
 
 ### 《断易天机》解
 
@@ -415,7 +415,7 @@
 
 ### 初六变卦：泽水困 变卦 兑为泽
 
-<img src="shapes/47.01.png" align=left>
+<img src="https://tenetai.com/88o/shapes/47.01.png" align=left>
 
 初六爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -458,7 +458,7 @@
 
 ### 九二变卦：泽水困 变卦 泽地萃
 
-<img src="shapes/47.02.png" align=left>
+<img src="https://tenetai.com/88o/shapes/47.02.png" align=left>
 
 九二爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -499,7 +499,7 @@
 
 ### 六三变卦：泽水困 变卦 泽风大过
 
-<img src="shapes/47.03.png" align=left>
+<img src="https://tenetai.com/88o/shapes/47.03.png" align=left>
 
 六三爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
@@ -538,7 +538,7 @@
 
 ### 九四变卦：泽水困 变卦 坎为水
 
-<img src="shapes/47.04.png" align=left>
+<img src="https://tenetai.com/88o/shapes/47.04.png" align=left>
 
 九四爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
@@ -582,7 +582,7 @@
 
 ### 九五变卦：泽水困 变卦 雷水解
 
-<img src="shapes/47.05.png" align=left>
+<img src="https://tenetai.com/88o/shapes/47.05.png" align=left>
 
 九五爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -620,7 +620,7 @@
 
 ### 上六变卦：泽水困 变卦 天水讼
 
-<img src="shapes/47.06.png" align=left>
+<img src="https://tenetai.com/88o/shapes/47.06.png" align=left>
 
 上六爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 

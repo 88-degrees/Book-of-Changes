@@ -6,7 +6,7 @@ Chinese: shēng 升 ䷭
 
 ###### p. 159
 
-![Sheng](shapes/46.jpg)
+![Sheng](https://tenetai.com/88o/shapes/46.jpg)
 
 **Shēng ䷭** indicates that (under its conditions) there will be great progress and success. Seeking by (the qualities implied in it) to meet with the great man, its subject need have no anxiety. Advance to the south will be fortunate.
 

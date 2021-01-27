@@ -6,7 +6,7 @@
 
 ###### p. 154
 
-![Gou](shapes/44.jpg)
+![Gou](https://tenetai.com/88o/shapes/44.jpg)
 
 **Gòu ䷫** shows a female who is bold and strong. It will not be good to marry (such) a female.
 

@@ -6,7 +6,7 @@
 
 ###### p. 120
 
-![Li](shapes/30.jpg)
+![Li](https://tenetai.com/88o/shapes/30.jpg)
 
 **Lí ䷝** indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success.
 

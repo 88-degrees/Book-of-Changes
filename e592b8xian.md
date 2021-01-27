@@ -6,7 +6,7 @@
 
 ###### p. 123
 
-![Xian](shapes/31.jpg)
+![Xian](https://tenetai.com/88o/shapes/31.jpg)
 
 **Xián ䷞** indicates that, (on the fulfilment of the conditions implied in it), there will be free course and success.
 Its advantageousness will depend on the being firm and correct, (as) in marrying a young lady. There will be good fortune.

@@ -1,6 +1,6 @@
 # 讼 ䷅
 
-<img src="shapes/06.10.jpg" width=160 alt="讼" align=left>
+<img src="https://tenetai.com/88o/shapes/06.10.jpg" width=160 alt="讼" align=left>
 
 讼（sòng）卦是上卦为乾，下卦为坎的卦名。代号是`2:7`。
 “讼”（sòng），在法庭上争辨是非曲直，打官司：讼事。
@@ -643,7 +643,7 @@
 也许获得了一时的成功，得到了极大的赏识，但以讼受服有什么值得尊敬的呢。
 特别是嘴上功夫了得又有何用，没有实质性的进展是不值得称道的。因此我们需要实际行动去解决一切存在的问题，而不是相互显耀和吹捧，更不是争夺和拥有。
 
-<img src="shapes/06.11.jpg">
+<img src="https://tenetai.com/88o/shapes/06.11.jpg">
 
 ### 《断易天机》解
 
@@ -740,7 +740,7 @@
 
 ### 初六变卦：天水讼 变卦 天泽履
 
-<img src="shapes/06.01.png" align=left>
+<img src="https://tenetai.com/88o/shapes/06.01.png" align=left>
 
 初六爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -780,7 +780,7 @@
 
 ### 九二变卦：天水讼 变卦 天地否
 
-<img src="shapes/06.02.png" align=left>
+<img src="https://tenetai.com/88o/shapes/06.02.png" align=left>
 
 九二爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -816,7 +816,7 @@
 
 ### 六三变卦：天水讼 变卦 天风姤
 
-<img src="shapes/06.03.png" align=left>
+<img src="https://tenetai.com/88o/shapes/06.03.png" align=left>
 
 六三爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -856,7 +856,7 @@
 
 ### 九四变卦：天水讼 变卦 风水涣
 
-<img src="shapes/06.04.png" align=left>
+<img src="https://tenetai.com/88o/shapes/06.04.png" align=left>
 
 九四爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -894,7 +894,7 @@
 
 ### 九五变卦：天水讼 变卦 火水未济
 
-<img src="shapes/06.05.png" align=left>
+<img src="https://tenetai.com/88o/shapes/06.05.png" align=left>
 
 九五爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.mdop)。
 
@@ -932,7 +932,7 @@
 
 ### 上九变卦：天水讼 变卦 泽水困
 
-<img src="shapes/06.06.png" align=left>
+<img src="https://tenetai.com/88o/shapes/06.06.png" align=left>
 
 上九爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 

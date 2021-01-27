@@ -6,7 +6,7 @@
 
 ###### p. 97
 
-![Lin](shapes/19.jpg)
+![Lin](https://tenetai.com/88o/shapes/19.jpg)
 
 **Lín ䷒** (indicates that under the conditions supposed in it) there will be great progress and success,
 while it will be advantageous to be firmly correct. In the eighth month there will be evil.

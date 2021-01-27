@@ -6,7 +6,7 @@
 
 ###### p. 131
 
-![Jin](shapes/35.jpg)
+![Jin](https://tenetai.com/88o/shapes/35.jpg)
 
 In **Jìn ䷢** we see a prince who secures the tranquillity (of the people) presented on that account with numerous horses (by the king), and three times in a day received at interviews.
 

@@ -6,7 +6,7 @@
 
 ###### p. 175
 
-![Gen](shapes/52.jpg)
+![Gen](https://tenetai.com/88o/shapes/52.jpg)
 
 When one's resting is like that of the back, and he loses all consciousness of self; when he walks in his courtyard, and does not see any (of the persons) in it, -- there will be no error.
 

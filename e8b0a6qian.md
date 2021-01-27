@@ -6,7 +6,7 @@
 
 ###### p. 89
 
-![Qian](shapes/15.jpg)
+![Qian](https://tenetai.com/88o/shapes/15.jpg)
 
 **Qiān ䷎** indicates progress and success. The superior man, (being humble as it implies), will have a (good) issue (to his undertakings).
 

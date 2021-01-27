@@ -6,7 +6,7 @@
 
 ###### p. 167
 
-![Ge](shapes/49.jpg)
+![Ge](https://tenetai.com/88o/shapes/49.jpg)
 
 (What takes place as indicated by) **Gé ䷰** is believed in only after it has been accomplished. There will be great progress and success. Advantage will come from being firm and correct. (In that case) occasion for repentance will disappear.
 

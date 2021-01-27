@@ -6,7 +6,7 @@
 
 ###### p. 76
 
-![Xiaoxu](shapes/09.jpg)
+![Xiaoxu](https://tenetai.com/88o/shapes/09.jpg)
 
 **Xiǎo Xù ䷈** indicates that (under its conditions) there will be progress and success. (We see) dense clouds, but no rain coming from our borders in the west.
 

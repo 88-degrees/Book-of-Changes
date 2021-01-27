@@ -6,7 +6,7 @@
 
 ###### p. 69
 
-![Song](shapes/06.jpg)
+![Song](https://tenetai.com/88o/shapes/06.jpg)
 
 **Sòng ䷅** intimates how, though there is sincerity in one's contention,
 he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution,

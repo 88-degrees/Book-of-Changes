@@ -6,7 +6,7 @@
 
 ###### p. 180
 
-![Guimei](shapes/54.jpg)
+![Guimei](https://tenetai.com/88o/shapes/54.jpg)
 
 **Guī Mèi ䷵** indicates that (under the conditions which it denotes) action will be evil, and in no wise advantageous.
 

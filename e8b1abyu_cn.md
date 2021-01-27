@@ -1,6 +1,6 @@
 # 豫 ䷏
 
-<img src="shapes/16.10.jpg" width=160 alt="豫" align=left>
+<img src="https://tenetai.com/88o/shapes/16.10.jpg" width=160 alt="豫" align=left>
 
 豫卦代号是`0:4`，主卦是坤卦，卦象地，客卦为震卦，卦象雷。
 
@@ -527,7 +527,7 @@
 参与前反复思虑，想清楚后便投入。
 ```
 
-<img src="shapes/16.11.jpg">
+<img src="https://tenetai.com/88o/shapes/16.11.jpg">
 
 ### 《断易天机》解
 
@@ -624,7 +624,7 @@
 
 ### 初六变卦：雷地豫 变卦 震为雷
 
-<img src="shapes/16.01.png" align=left>
+<img src="https://tenetai.com/88o/shapes/16.01.png" align=left>
 
 初六爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -660,7 +660,7 @@
 
 ### 六二变卦：雷地豫 变卦 雷水解
 
-<img src="shapes/16.02.png" align=left>
+<img src="https://tenetai.com/88o/shapes/16.02.png" align=left>
 
 六二爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -700,7 +700,7 @@
 
 ### 六三变卦：雷地豫 变卦 雷山小过
 
-<img src="shapes/16.03.png" align=left>
+<img src="https://tenetai.com/88o/shapes/16.03.png" align=left>
 
 六三爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -738,7 +738,7 @@
 
 ### 九四变卦：雷地豫 变卦 坤为地
 
-<img src="shapes/16.04.png" align=left>
+<img src="https://tenetai.com/88o/shapes/16.04.png" align=left>
 
 九四爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -776,7 +776,7 @@
 
 ### 六五变卦：雷地豫 变卦 泽地萃
 
-<img src="shapes/16.05.png" align=left>
+<img src="https://tenetai.com/88o/shapes/16.05.png" align=left>
 
 六五爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -815,7 +815,7 @@
 
 ### 上六变卦：雷地豫 变卦 火地晋
 
-<img src="shapes/16.06.png" align=left>
+<img src="https://tenetai.com/88o/shapes/16.06.png" align=left>
 
 上六爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 

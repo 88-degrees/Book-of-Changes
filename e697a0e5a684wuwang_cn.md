@@ -1,6 +1,6 @@
 # 无妄 ䷘
 
-<img src="shapes/25.10.jpg" width=160 alt="无妄" align=left>
+<img src="https://tenetai.com/88o/shapes/25.10.jpg" width=160 alt="无妄" align=left>
 
 无妄（wú wàng）卦天雷无妄（无妄卦）无妄而得。
 
@@ -671,7 +671,7 @@
 5. 九五：无妄之疾，勿药有喜。《象》曰：无妄之药，不可试也。不妄自非为而招到变故的，是不用吃药而能治愈和改变的。原因是因为这不过是暂时的失利和小小的不幸，没有什么值得顾虑的和担心受怕的。如果为此而不知所以妄自非为的话就会适得其反无药可救了。
 6. 上九：无妄。行有眚，无攸利。《象》曰：无妄之行，穷之灾也。绝对不要妄自非为，否则必招灾难，所往很不利。发展需要符合进程的条件，盲目的不合时宜的就会发生突如其来的死如焚如的可悲后果。因此要用科学代替幻想，要用计算框正行为，要用联系切务实际。
 
-<img src="shapes/25.11.png">
+<img src="https://tenetai.com/88o/shapes/25.11.png">
 
 ### 《断易天机》解
 
@@ -766,7 +766,7 @@
 
 ### 初九变卦：天雷无妄 变卦 天地否
 
-<img src="shapes/25.01.png" align=left>
+<img src="https://tenetai.com/88o/shapes/25.01.png" align=left>
 
 初九爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -804,7 +804,7 @@
 
 ### 六二变卦：天雷无妄 变卦 天泽履
 
-<img src="shapes/25.02.png" align=left>
+<img src="https://tenetai.com/88o/shapes/25.02.png" align=left>
 
 六二爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -844,7 +844,7 @@
 
 ### 六三变卦：天雷无妄 变卦 天火同人
 
-<img src="shapes/25.03.png" align=left>
+<img src="https://tenetai.com/88o/shapes/25.03.png" align=left>
 
 六三爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -880,7 +880,7 @@
 
 ### 九四变卦：天雷无妄 变卦 风雷益
 
-<img src="shapes/25.04.png" align=left>
+<img src="https://tenetai.com/88o/shapes/25.04.png" align=left>
 
 九四爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -920,7 +920,7 @@
 
 ### 九五变卦：天雷无妄 变卦 火雷噬嗑
 
-<img src="shapes/25.05.png" align=left>
+<img src="https://tenetai.com/88o/shapes/25.05.png" align=left>
 
 九五爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -958,7 +958,7 @@
 
 ### 上九变卦：天雷无妄 变卦 泽雷随
 
-<img src="shapes/25.06.png" align=left>
+<img src="https://tenetai.com/88o/shapes/25.06.png" align=left>
 
 上九爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 

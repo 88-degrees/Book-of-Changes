@@ -1,6 +1,6 @@
 # 震 ䷲
 
-<img src="shapes/51.10.jpg" width=160 alt="震" align=left>
+<img src="https://tenetai.com/88o/shapes/51.10.jpg" width=160 alt="震" align=left>
 
 震（zhèn）卦，代号为`4:4`。
 
@@ -516,7 +516,7 @@
 不丧匕鬯，出可以守宗庙社稷，以为祭主也。
 ```
 
-<img src="shapes/51.11.png">
+<img src="https://tenetai.com/88o/shapes/51.11.png">
 
 ### 《断易天机》解
 
@@ -618,7 +618,7 @@
 
 ### 初九变卦：震为雷 变卦 雷地豫卦
 
-<img src="shapes/51.01.png" align=left>
+<img src="https://tenetai.com/88o/shapes/51.01.png" align=left>
 
 初九爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -656,7 +656,7 @@
 
 ### 六二变卦：震为雷 变卦 雷泽归妹
 
-<img src="shapes/51.02.png" align=left>
+<img src="https://tenetai.com/88o/shapes/51.02.png" align=left>
 
 六二爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -694,7 +694,7 @@
 
 ### 六三变卦：震为雷 变卦 雷火丰
 
-<img src="shapes/51.03.png" align=left>
+<img src="https://tenetai.com/88o/shapes/51.03.png" align=left>
 
 六三爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -730,7 +730,7 @@
 
 ### 九四变卦：震为雷 变卦 地雷复
 
-<img src="shapes/51.04.png" align=left>
+<img src="https://tenetai.com/88o/shapes/51.04.png" align=left>
 
 九四爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
@@ -768,7 +768,7 @@
 
 ### 六五变卦：震为雷 变卦 泽雷随
 
-<img src="shapes/51.05.png" align=left>
+<img src="https://tenetai.com/88o/shapes/51.05.png" align=left>
 
 六五爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
@@ -806,7 +806,7 @@
 
 ### 上六变卦：震为雷 变卦 火雷噬嗑
 
-<img src="shapes/51.06.png" align=left>
+<img src="https://tenetai.com/88o/shapes/51.06.png" align=left>
 
 上六爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 

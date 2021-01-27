@@ -1,6 +1,6 @@
 # 大壮 ䷡
 
-<img src="shapes/34.10.jpg" width=160 alt="大壮" align=left>
+<img src="https://tenetai.com/88o/shapes/34.10.jpg" width=160 alt="大壮" align=left>
 
 大壮（dà zhuàng）是 `7:4` 卦的卦名，`7:4` 是大壮卦的代号。
 
@@ -487,7 +487,7 @@
 今朝已变为现代化的钢筋水泥丛林和网络。
 ```
 
-<img src="shapes/34.11.png">
+<img src="https://tenetai.com/88o/shapes/34.11.png">
 
 ### 《断易天机》解
 
@@ -586,7 +586,7 @@
 
 ### 初九变卦：雷天大壮 变卦 雷风恒
 
-<img src="shapes/34.01.png" align=left>
+<img src="https://tenetai.com/88o/shapes/34.01.png" align=left>
 
 初九爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -625,7 +625,7 @@
 
 ### 九二变卦：雷天大壮 变卦 雷火丰
 
-<img src="shapes/34.02.png" align=left>
+<img src="https://tenetai.com/88o/shapes/34.02.png" align=left>
 
 九二爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -661,7 +661,7 @@
 
 ### 九三变卦：雷天大壮 变卦 雷泽归妹
 
-<img src="shapes/34.03.png" align=left>
+<img src="https://tenetai.com/88o/shapes/34.03.png" align=left>
 
 九三爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -698,7 +698,7 @@
 
 ### 九四变卦：雷天大壮 变卦 地天泰
 
-<img src="shapes/34.04.png" align=left>
+<img src="https://tenetai.com/88o/shapes/34.04.png" align=left>
 
 九四爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -736,7 +736,7 @@
 
 ### 六五变卦：雷天大壮 变卦 泽天夬
 
-<img src="shapes/34.05.png" align=left>
+<img src="https://tenetai.com/88o/shapes/34.05.png" align=left>
 
 六五爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -775,7 +775,7 @@
 
 ### 上六变卦：雷天大壮 变卦 火天大有
 
-<img src="shapes/34.06.png" align=left>
+<img src="https://tenetai.com/88o/shapes/34.06.png" align=left>
 
 上六爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 

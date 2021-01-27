@@ -6,7 +6,7 @@
 
 ###### p. 169
 
-![Ding](shapes/50.jpg)
+![Ding](https://tenetai.com/88o/shapes/50.jpg)
 
 **Dǐng ䷱** gives the intimation of great progress and success.
 

@@ -6,7 +6,7 @@
 
 ###### p. 151
 
-![Guai](shapes/43.jpg)
+![Guai](https://tenetai.com/88o/shapes/43.jpg)
 
 **Guài ䷪** requires (in him who would fulfil its meaning) the exhibition (of the culprit's guilt) in the royal court, and a sincere and earnest appeal (for sympathy and support), with a consciousness of the peril (involved in cutting off the criminal). He should (also) make announcement in his own city, and show that it will not be well to have recourse at once to arms. (In this way) there will be advantage in whatever he shall go forward to.
 

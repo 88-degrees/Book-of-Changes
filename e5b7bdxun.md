@@ -6,7 +6,7 @@
 
 ###### p. 189
 
-![Xun](shapes/57.jpg)
+![Xun](https://tenetai.com/88o/shapes/57.jpg)
 
 **Xùn ䷸** intimates that (under the conditions which it denotes) there will be some little attainment and progress.
 There will be advantage in movement onward in whatever direction. It will be advantageous (also) to see the great man.

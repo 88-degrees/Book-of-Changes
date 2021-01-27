@@ -4,7 +4,7 @@
 
 > Chinese: 困 ䷮ kùn
 
-![Kun](shapes/47.jpg)
+![Kun](https://tenetai.com/88o/shapes/47.jpg)
 
 #### p. 161
 

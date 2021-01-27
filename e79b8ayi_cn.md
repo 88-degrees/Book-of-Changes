@@ -1,6 +1,6 @@
 # 益 ䷩
 
-<img src="shapes/42.10.jpg" width=160 alt="益" align=left>
+<img src="https://tenetai.com/88o/shapes/42.10.jpg" width=160 alt="益" align=left>
 
 益（yì）卦是别卦，其代号是`4:3`，主卦是`4`卦震卦，客卦是`3`卦巽卦。
 益，表明这个卦所代表的状态对主方有益。震卦的卦象是雷，主方积极主动，雷厉风行。
@@ -508,7 +508,7 @@
 凡益之道，与时偕行。
 ```
 
-<img src="shapes/42.11.png">
+<img src="https://tenetai.com/88o/shapes/42.11.png">
 
 ### 《断易天机》解
 
@@ -604,7 +604,7 @@
 
 ### 初九变卦：风雷益 变卦 风地观
 
-<img src="shapes/42.01.png" align=left>
+<img src="https://tenetai.com/88o/shapes/42.01.png" align=left>
 
 初九爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -640,7 +640,7 @@
 
 ### 六二变卦：风雷益 变卦 风泽中孚
 
-<img src="shapes/42.02.png" align=left>
+<img src="https://tenetai.com/88o/shapes/42.02.png" align=left>
 
 六二爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -676,7 +676,7 @@
 
 ### 六三变卦：风雷益 变卦 风火家人
 
-<img src="shapes/42.03.png" align=left>
+<img src="https://tenetai.com/88o/shapes/42.03.png" align=left>
 
 六三爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -718,7 +718,7 @@
 
 ### 六四变卦：风雷益 变卦 天雷无妄
 
-<img src="shapes/42.04.png" align=left>
+<img src="https://tenetai.com/88o/shapes/42.04.png" align=left>
 
 六四爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
@@ -756,7 +756,7 @@
 
 ### 九五变卦：风雷益 变卦 山雷颐
 
-<img src="shapes/42.05.png" align=left>
+<img src="https://tenetai.com/88o/shapes/42.05.png" align=left>
 
 九五爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -796,7 +796,7 @@
 
 ### 上九变卦：风雷益 变卦 水雷屯
 
-<img src="shapes/42.06.png" align=left>
+<img src="https://tenetai.com/88o/shapes/42.06.png" align=left>
 
 上九爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
