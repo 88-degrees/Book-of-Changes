@@ -6,7 +6,7 @@
 
 ###### p. 107
 
-![Fu](https://tenetai.com/88o/shapes/24.jpg)
+![Fu](shapes/24.jpg)
 
 **Fù ䷗** indicates that there will be free course and progress (in what it denotes). (The subject of it) finds no one to distress him in his exits and entrances; friends come to him, and no error is committed . He will return and repeat his (proper) course. In seven days comes his return. There will be advantage in whatever direction movement is made.
 

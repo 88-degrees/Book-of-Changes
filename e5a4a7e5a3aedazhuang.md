@@ -6,7 +6,7 @@
 
 ###### p. 129
 
-![Dazhuang](https://tenetai.com/88o/shapes/34.jpg)
+![Dazhuang](shapes/34.jpg)
 
 **Dà Zhuàng ䷡** indicates that (under the conditions which it symbolises) it will be advantageous to be firm and correct.
 

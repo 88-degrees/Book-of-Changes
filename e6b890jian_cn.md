@@ -1,6 +1,6 @@
 # 渐 ䷴
 
-<img src="https://tenetai.com/88o/shapes/53.10.jpg" width=160 alt="渐" align=left>
+<img src="shapes/53.10.jpg" width=160 alt="渐" align=left>
 
 渐（jiàn）卦，由山下风上组成。
 
@@ -590,7 +590,7 @@
 4. 渐卦是男女婚姻的礼仪属性。渐为有次序的行进。古代女子出嫁，男方家要经过纳彩、问名、纳吉、纳征、请期、亲迎六个步骤循序渐进地进行。故《杂卦传》云：“渐，女归待男行也。”渐卦下艮上巽，先儒以为下艮为少男，不确。渐卦为古代贵族的正妻制，《周官》“令男三十而娶，女二十而嫁。”男子不可能是不足十五岁的未冠小子。渐卦上卦为外，巽长女为正妻，女子以夫家为家，内卦艮为止为归，正是长女之夫家也。渐卦也可以称为“女归”，上卦巽为女，下卦艮为归也。
 5. 归妹卦是古代婚嫁中的侄娣制度。《仪礼·士昏礼》记载：“古者嫁女，必娣侄从之，谓之媵。”《公羊传·庄公十九年》：“媵者何？诸侯娶一国，以侄娣从，侄者何？兄之子也。娣者何？弟也。”这是说女子出嫁，嫁到夫家作正妻，随嫁的有“侄和娣”（即“媵”），“侄”为出嫁女子兄长的女儿，“娣”为出嫁女子的妹妹。她们过去只能作为庶妻，年龄不够，结婚三个月后回母国等待几年，到十五岁，再送归夫家。归妹卦反映的这种侄娣制度为当时社会所认可。归妹卦下兑为少女，就是随嫁的“侄和娣”（“媵”），因为年龄尚小为少女，故称为“妹”，上震代表娶妻与媵的长男。归妹卦属于当时的婚姻制度，与渐卦女子在外等待男方婚前六礼的正妻制不同，归妹之少女是陪嫁媵妾制，不待六礼而嫁，直接随从正妻（相当于陪嫁）送至夫家，故兑卦在内，震卦在外。归妹卦名直接取自卦象，上卦震长男是娶妻之主，下卦兑为陪嫁之妹也。此所以归妹与渐为互覆卦。
 
-<img src="https://tenetai.com/88o/shapes/53.11.png">
+<img src="shapes/53.11.png">
 
 ### 《断易天机》解
 
@@ -684,7 +684,7 @@
 
 ### 初六变卦：风山渐 变卦 风火家人
 
-<img src="https://tenetai.com/88o/shapes/53.01.png" align=left>
+<img src="shapes/53.01.png" align=left>
 
 初六爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -724,7 +724,7 @@
 
 ### 六二变卦：风山渐 变卦 巽为风
 
-<img src="https://tenetai.com/88o/shapes/53.02.png" align=left>
+<img src="shapes/53.02.png" align=left>
 
 六二爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -760,7 +760,7 @@
 
 ### 九三变卦：风山渐 变卦 风地观
 
-<img src="https://tenetai.com/88o/shapes/53.03.png" align=left>
+<img src="shapes/53.03.png" align=left>
 
 九三爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -798,7 +798,7 @@
 
 ### 六四变卦：风山渐 变卦 天山遁
 
-<img src="https://tenetai.com/88o/shapes/53.04.png" align=left>
+<img src="shapes/53.04.png" align=left>
 
 六四爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 
@@ -836,7 +836,7 @@
 
 ### 九五变卦：风山渐 变卦 艮为山
 
-<img src="https://tenetai.com/88o/shapes/53.05.png" align=left>
+<img src="shapes/53.05.png" align=left>
 
 九五爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
@@ -878,7 +878,7 @@
 
 ### 上九变卦：风山渐 变卦 水山蹇
 
-<img src="https://tenetai.com/88o/shapes/53.06.png" align=left>
+<img src="shapes/53.06.png" align=left>
 
 上九爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 

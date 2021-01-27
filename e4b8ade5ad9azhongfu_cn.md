@@ -1,6 +1,6 @@
 # 中孚 ䷼
 
-<img src="https://tenetai.com/88o/shapes/61.10.jpg" width=160 alt="中孚" align=left>
+<img src="shapes/61.10.jpg" width=160 alt="中孚" align=left>
 
 中孚（zhōng fú）卦，风泽中孚，诚信立身。
 
@@ -355,7 +355,7 @@
 
 盖烈夫信奉“中孚”精神，他说：“中孚”表达内心诚信，《易经》认为，诚信是立身处世的根本，一切道德的根源。中孚卦的精神，后来被孔子和儒家发扬光大。《中庸》把“中孚” 视为思想体系的最高范畴，说：“诚者，天之道也；诚之者，人之道也。”认为：“诚”是宇宙大道；实行“诚”则是为人之天道。至诚，可以感天化物，感地化人。诸葛亮之所以领导成功，就得力于他的“开诚心，布公道，善待人”。松下幸之助集一生之经验，凝聚了四个字，就是“至诚如神”。因此，盖烈夫崇尚“中孚”，迷信“中孚”，奉行“中孚”，于是，盖烈夫把职业精神定义为“中孚精神”。
 
-<img src="https://tenetai.com/88o/shapes/61.11.png">
+<img src="shapes/61.11.png">
 
 ### 《断易天机》解
 
@@ -441,7 +441,7 @@
 
 ### 初九变卦：风泽中孚 变卦 风水涣
 
-<img src="https://tenetai.com/88o/shapes/61.01.png" align=left>
+<img src="shapes/61.01.png" align=left>
 
 初九爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -479,7 +479,7 @@
 
 ### 九二变卦：风泽中孚 变卦 风雷益
 
-<img src="https://tenetai.com/88o/shapes/61.02.png" align=left>
+<img src="shapes/61.02.png" align=left>
 
 九二爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -518,7 +518,7 @@
 
 ### 六三变卦：风泽中孚 变卦 风天小畜
 
-<img src="https://tenetai.com/88o/shapes/61.03.png" align=left>
+<img src="shapes/61.03.png" align=left>
 
 六三爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -556,7 +556,7 @@
 
 ### 六四变卦：风泽中孚 变卦 天泽履
 
-<img src="https://tenetai.com/88o/shapes/61.04.png" align=left>
+<img src="shapes/61.04.png" align=left>
 
 六四爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -596,7 +596,7 @@
 
 ### 九五变卦：风泽中孚 变卦 山泽损
 
-<img src="https://tenetai.com/88o/shapes/61.05.png" align=left>
+<img src="shapes/61.05.png" align=left>
 
 九五爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -636,7 +636,7 @@
 
 ### 上九变卦：风泽中孚 变卦 水泽节
 
-<img src="https://tenetai.com/88o/shapes/61.06.png" align=left>
+<img src="shapes/61.06.png" align=left>
 
 上九爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 

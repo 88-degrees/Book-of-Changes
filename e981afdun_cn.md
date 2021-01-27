@@ -1,6 +1,6 @@
 # 遯 ䷠
 
-<img src="https://tenetai.com/88o/shapes/33.10.jpg" width=160 alt="遯" align=left>
+<img src="shapes/33.10.jpg" width=160 alt="遯" align=left>
 
 遯（dùn）卦代号是`1:7`。“遯”（dùn），又写作**遁**，逃避，躲闪：遁去。
 
@@ -514,7 +514,7 @@
 寻循在尾，艰而无功，是以不利有攸往也。跟在别人的身后，走别人走过的路，虽觉得安祥，但有什么作为呢。
 因此我们必须放飞思想，创新理念，开辟自我发展的道路。固步自封只能走向消亡。
 
-<img src="https://tenetai.com/88o/shapes/33.11.png">
+<img src="shapes/33.11.png">
 
 ### 《断易天机》解
 
@@ -610,7 +610,7 @@
 
 ### 初六变卦：天山遁 变卦 天火同人
 
-<img src="https://tenetai.com/88o/shapes/33.01.png" align=left>
+<img src="shapes/33.01.png" align=left>
 
 初六爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -646,7 +646,7 @@
 
 ### 六二变卦：天山遁 变卦 天风姤
 
-<img src="https://tenetai.com/88o/shapes/33.02.png" align=left>
+<img src="shapes/33.02.png" align=left>
 
 六二爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -686,7 +686,7 @@
 
 ### 九三变卦：天山遁 变卦 天地否
 
-<img src="https://tenetai.com/88o/shapes/33.03.png" align=left>
+<img src="shapes/33.03.png" align=left>
 
 九三爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -724,7 +724,7 @@
 
 ### 九四变卦：天山遁 变卦 风山渐
 
-<img src="https://tenetai.com/88o/shapes/33.04.png" align=left>
+<img src="shapes/33.04.png" align=left>
 
 九四爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
@@ -762,7 +762,7 @@
 
 ### 九五变卦：天山遁 变卦 火山旅
 
-<img src="https://tenetai.com/88o/shapes/33.05.png" align=left>
+<img src="shapes/33.05.png" align=left>
 
 九五爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
@@ -800,7 +800,7 @@
 
 ### 上九变卦：天山遁 变卦 泽山咸
 
-<img src="https://tenetai.com/88o/shapes/33.06.png" align=left>
+<img src="shapes/33.06.png" align=left>
 
 上九爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 

@@ -1,6 +1,6 @@
 # 观 ䷓
 
-<img src="https://tenetai.com/88o/shapes/20.10.jpg" width=160 alt="观" align=left>
+<img src="shapes/20.10.jpg" width=160 alt="观" align=left>
 
 观（guān）卦代号是`0:3`，主卦是坤卦，卦象是地，阳数是`0`；客卦是巽卦，阳数是`3`，卦象是风。
 

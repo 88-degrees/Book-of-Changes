@@ -1,6 +1,6 @@
 # 临 ䷒
 
-<img src="https://tenetai.com/88o/shapes/19.10.jpg" width="160" alt="临" align=left>
+<img src="shapes/19.10.jpg" width="160" alt="临" align=left>
 
 **临（lín）卦** 展示“临”形势下各种变化的可能性，“临”指“面临”。
 
@@ -451,7 +451,7 @@
 因此，过高地评价传统的统治术，肯定是不妥的。
 ```
 
-<img src="https://tenetai.com/88o/shapes/19.11.png">
+<img src="shapes/19.11.png">
 
 ### 《断易天机》解
 
@@ -543,7 +543,7 @@
 
 ### 初九变卦：地泽临 变卦 地水师
 
-<img src="https://tenetai.com/88o/shapes/19.01.png" align=left>
+<img src="shapes/19.01.png" align=left>
 
 初九爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
@@ -580,7 +580,7 @@
 
 ### 九二变卦：地泽临 变卦 地雷复
 
-<img src="https://tenetai.com/88o/shapes/19.02.png" align=left>
+<img src="shapes/19.02.png" align=left>
 
 九二爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
@@ -616,7 +616,7 @@
 
 ### 六三变卦：地泽临 变卦 地天泰
 
-<img src="https://tenetai.com/88o/shapes/19.03.png" align=left>
+<img src="shapes/19.03.png" align=left>
 
 六三爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -652,7 +652,7 @@
 
 ### 六四变卦：地泽临 变卦 雷泽归妹
 
-<img src="https://tenetai.com/88o/shapes/19.04.png" align=left>
+<img src="shapes/19.04.png" align=left>
 
 六四爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -688,7 +688,7 @@
 
 ### 六五变卦：地泽临 变卦 水泽节
 
-<img src="https://tenetai.com/88o/shapes/19.05.png" align=left>
+<img src="shapes/19.05.png" align=left>
 
 六五爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
@@ -725,7 +725,7 @@
 
 ### 上六变卦：地泽临 变卦 山泽损
 
-<img src="https://tenetai.com/88o/shapes/19.06.png" align=left>
+<img src="shapes/19.06.png" align=left>
 
 上六爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 

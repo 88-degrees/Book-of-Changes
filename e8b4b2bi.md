@@ -6,7 +6,7 @@
 
 ###### p. 103
 
-![Bi](https://tenetai.com/88o/shapes/22.jpg)
+![Bi](shapes/22.jpg)
 
 **Bì ䷕** indicates that there should be free course (in what it denotes). There will be little advantage (however) if it be allowed to advance (and take the lead).
 

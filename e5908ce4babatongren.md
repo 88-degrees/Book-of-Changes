@@ -6,7 +6,7 @@
 
 ###### p. 86
 
-![Tongren](https://tenetai.com/88o/shapes/13.jpg)
+![Tongren](shapes/13.jpg)
 
 **Tóng Rén ䷌** (or 'Union of men') appears here (as we find it) in the (remote districts of the) country, indicating progress and success. It will be advantageous to cross the great stream. It will be advantageous to maintain the firm correctness of the superior man.
 

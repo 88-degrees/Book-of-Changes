@@ -1,6 +1,6 @@
 # 小过 ䷽
 
-<img src="https://tenetai.com/88o/shapes/62.10.jpg" width=160 alt="小过" align=left>
+<img src="shapes/62.10.jpg" width=160 alt="小过" align=left>
 
 小过（xiǎo guò）是震上艮下的卦名，代号是`1:4`。
 “过”（guò），从这儿到那儿，从此时到彼时：过江。
@@ -432,7 +432,7 @@
 ⑮ 眚，灾。与灾同义。
 ```
 
-<img src="https://tenetai.com/88o/shapes/62.11.png">
+<img src="shapes/62.11.png">
 
 ### 《断易天机》解
 
@@ -529,7 +529,7 @@
 
 ### 初六变卦：雷山小过 变卦 雷火丰
 
-<img src="https://tenetai.com/88o/shapes/62.01.png" align=left>
+<img src="shapes/62.01.png" align=left>
 
 初六爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -565,7 +565,7 @@
 
 ### 六二变卦：雷山小过 变卦 雷风恒
 
-<img src="https://tenetai.com/88o/shapes/62.02.png" align=left>
+<img src="shapes/62.02.png" align=left>
 
 六二爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -604,7 +604,7 @@
 
 ### 九三变卦：雷山小过 变卦 雷地豫
 
-<img src="https://tenetai.com/88o/shapes/62.03.png" align=left>
+<img src="shapes/62.03.png" align=left>
 
 九三爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -642,7 +642,7 @@
 
 ### 九四变卦：雷山小过 变卦 地山谦
 
-<img src="https://tenetai.com/88o/shapes/62.04.png" align=left>
+<img src="shapes/62.04.png" align=left>
 
 九四爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
@@ -680,7 +680,7 @@
 
 ### 六五变卦 雷山小过 变卦 泽山咸
 
-<img src="https://tenetai.com/88o/shapes/62.05.png" align=left>
+<img src="shapes/62.05.png" align=left>
 
 六五爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -718,7 +718,7 @@
 
 ### 上六变卦：雷山小过 变卦 火山旅
 
-<img src="https://tenetai.com/88o/shapes/62.06.png" align=left>
+<img src="shapes/62.06.png" align=left>
 
 上六爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 

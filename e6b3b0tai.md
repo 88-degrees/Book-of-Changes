@@ -6,7 +6,7 @@
 
 ###### p. 81
 
-![Tai](https://tenetai.com/88o/shapes/11.jpg)
+![Tai](shapes/11.jpg)
 
 In **Tài ䷊** (we see) the little gone and the great come. (It indicates that) there will be good fortune, with progress and success.
 

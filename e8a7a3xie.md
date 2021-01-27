@@ -6,7 +6,7 @@
 
 ###### p. 144
 
-![Xie](https://tenetai.com/88o/shapes/40.jpg)
+![Xie](shapes/40.jpg)
 
 In (the state indicated by) **Xiè ䷧** advantage will be found in the south-west.
 If no (further) operations be called for, there will be good fortune in coming back (to the old conditions).

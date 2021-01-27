@@ -1,6 +1,6 @@
 # 丰 ䷶
 
-<img src="https://tenetai.com/88o/shapes/55.10.jpg" width=160 alt="丰" align=left>
+<img src="shapes/55.10.jpg" width=160 alt="丰" align=left>
 
 丰（fēng）是`5:4`卦的卦名，`5:4`是丰卦的代号。
 
@@ -530,7 +530,7 @@
 结果恶霸逃了，人去楼空，悲催的恶霸吓得三年都不敢回家。
 ```
 
-<img src="https://tenetai.com/88o/shapes/55.11.png">
+<img src="shapes/55.11.png">
 
 ### 《断易天机》解
 
@@ -622,7 +622,7 @@
 
 ### 初九变卦：雷火丰 变卦 雷山小过
 
-<img src="https://tenetai.com/88o/shapes/55.01.png" align=left>
+<img src="shapes/55.01.png" align=left>
 
 初九爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -660,7 +660,7 @@
 
 ### 六二变卦：雷火丰 变卦 雷天大壮
 
-<img src="https://tenetai.com/88o/shapes/55.02.png" align= left>
+<img src="shapes/55.02.png" align= left>
 
 六二爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -698,7 +698,7 @@
 
 ### 九三变卦：雷火丰 变卦 震为雷
 
-<img src="https://tenetai.com/88o/shapes/55.03.png" align=left>
+<img src="shapes/55.03.png" align=left>
 
 九三爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -738,7 +738,7 @@
 
 ### 九四变卦：雷火丰 变卦 地火明夷
 
-<img src="https://tenetai.com/88o/shapes/55.04.png" align=left>
+<img src="shapes/55.04.png" align=left>
 
 九四爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
@@ -774,7 +774,7 @@
 
 ### 六五变卦：雷火丰 变卦 泽火革
 
-<img src="https://tenetai.com/88o/shapes/55.05.png" align=left>
+<img src="shapes/55.05.png" align=left>
 
 六五爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
@@ -815,7 +815,7 @@
 
 ### 上六变卦：雷火丰 变卦 离为火
 
-<img src="https://tenetai.com/88o/shapes/55.06.png" align=left>
+<img src="shapes/55.06.png" align=left>
 
 上六爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 

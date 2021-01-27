@@ -6,7 +6,7 @@
 
 ###### p. 71
 
-![Shi](https://tenetai.com/88o/shapes/07.jpg)
+![Shi](shapes/07.jpg)
 
 **Shī ䷆** indicates how, in the case which it supposes, with firmness and correctness, and (a leader of) age and experience, there will be good fortune and no error.
 

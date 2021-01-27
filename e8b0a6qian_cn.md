@@ -1,6 +1,6 @@
 # 谦 ䷎
 
-<img src="https://tenetai.com/88o/shapes/15.10.jpg" width=160 alt="谦" align=left>
+<img src="shapes/15.10.jpg" width=160 alt="谦" align=left>
 
 谦（qiān）卦卦体中上卦为坤为地，下卦为艮为山。谦卦艮下坤上，为地下有山之象。
 山本高大，但处于地下，高大显示不出来，此在人则象德行很高，但能自觉地不显扬。
@@ -386,7 +386,7 @@
 可用行师，征邑国也。
 ```
 
-<img src="https://tenetai.com/88o/shapes/15.11.jpg">
+<img src="shapes/15.11.jpg">
 
 ### 《断易天机》解
 
@@ -484,7 +484,7 @@
 
 ### 初六变卦：地山谦 变卦 地火明夷
 
-<img src="https://tenetai.com/88o/shapes/15.01.png" align=left>
+<img src="shapes/15.01.png" align=left>
 
 初六爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
@@ -522,7 +522,7 @@
 
 ### 六二变卦：地山谦 变卦 地风升
 
-<img src="https://tenetai.com/88o/shapes/15.02.png" align=left>
+<img src="shapes/15.02.png" align=left>
 
 六二爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
@@ -560,7 +560,7 @@
 
 ### 九三变卦：地山谦 变卦 坤为地
 
-<img src="https://tenetai.com/88o/shapes/15.03.png" align=left>
+<img src="shapes/15.03.png" align=left>
 
 九三爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -598,7 +598,7 @@
 
 ### 六四变卦：地山谦 变卦 雷山小过
 
-<img src="https://tenetai.com/88o/shapes/15.04.png" align=left>
+<img src="shapes/15.04.png" align=left>
 
 六四爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -636,7 +636,7 @@
 
 ### 六五变卦：地山谦 变卦 水山蹇
 
-<img src="https://tenetai.com/88o/shapes/15.05.png" align=left>
+<img src="shapes/15.05.png" align=left>
 
 六五爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
@@ -676,7 +676,7 @@
 
 ### 上六变卦：地山谦 变卦 艮为山
 
-<img src="https://tenetai.com/88o/shapes/15.06.png" align=left>
+<img src="shapes/15.06.png" align=left>
 
 上六爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 

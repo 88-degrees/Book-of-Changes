@@ -6,7 +6,7 @@
 
 ###### p. 88
 
-![Dayou](https://tenetai.com/88o/shapes/14.jpg)
+![Dayou](shapes/14.jpg)
 
 **Dà Yǒu ䷍** indicates that, (under the circumstances which it implies), there will be great progress and success.
 

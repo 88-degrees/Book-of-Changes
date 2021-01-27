@@ -6,7 +6,7 @@
 
 ###### p. 78
 
-![Lv](https://tenetai.com/88o/shapes/10.jpg)
+![Lv](shapes/10.jpg)
 
 (**Lǚ ䷉** suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success.
 

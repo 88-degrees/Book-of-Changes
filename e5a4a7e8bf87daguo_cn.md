@@ -1,6 +1,6 @@
 # 大过 ䷛
 
-<img src="https://tenetai.com/88o/shapes/28.10.jpg" width=160 alt="大过" align=left>
+<img src="shapes/28.10.jpg" width=160 alt="大过" align=left>
 
 大过（dà guò）卦，代号是`3:6`，
 主卦是巽卦，卦象是风、木，特征是顺，阳数是`3`；
@@ -446,7 +446,7 @@
 因此我们当适而有止，不自犯其咎。
 ```
 
-<img src="https://tenetai.com/88o/shapes/28.11.png">
+<img src="shapes/28.11.png">
 
 ### 《断易天机》解
 
@@ -538,7 +538,7 @@
 
 ### 初六变卦：泽风大过 变卦 泽天夬
 
-<img src="https://tenetai.com/88o/shapes/28.01.png" align=left>
+<img src="shapes/28.01.png" align=left>
 
 初六爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -576,7 +576,7 @@
 
 ### 九二变卦：泽风大过 变卦 泽山咸
 
-<img src="https://tenetai.com/88o/shapes/28.02.png" align=left>
+<img src="shapes/28.02.png" align=left>
 
 九二爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -614,7 +614,7 @@
 
 ### 九三变卦：泽风大过 变卦 泽水困
 
-<img src="https://tenetai.com/88o/shapes/28.03.png" align=left>
+<img src="shapes/28.03.png" align=left>
 
 九三爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -652,7 +652,7 @@
 
 ### 九四变卦：泽风大过 变卦 水风井
 
-<img src="https://tenetai.com/88o/shapes/28.04.png" align=left>
+<img src="shapes/28.04.png" align=left>
 
 九四爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
@@ -691,7 +691,7 @@
 
 ### 九五变卦：泽风大过 变卦 雷风恒
 
-<img src="https://tenetai.com/88o/shapes/28.05.png" align=left>
+<img src="shapes/28.05.png" align=left>
 
 九五爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -730,7 +730,7 @@
 
 ### 上六变卦：泽风大过 变卦 天风姤
 
-<img src="https://tenetai.com/88o/shapes/28.06.png" align=left>
+<img src="shapes/28.06.png" align=left>
 
 上六爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 

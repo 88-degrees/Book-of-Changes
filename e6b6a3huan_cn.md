@@ -1,6 +1,6 @@
 # 涣 ䷺
 
-<img src="https://tenetai.com/88o/shapes/59.10.jpg" width=160 alt="涣" align=left>
+<img src="shapes/59.10.jpg" width=160 alt="涣" align=left>
 
 涣是`2:3`卦的卦名，代号是`2:3`。“涣”（huàn）：散开，涣散。
 
@@ -444,7 +444,7 @@
 【讲解】这一卦可能是讲大禹治水的过程。
 ```
 
-<img src="https://tenetai.com/88o/shapes/59.11.png">
+<img src="shapes/59.11.png">
 
 ### 《断易天机》解
 
@@ -542,7 +542,7 @@
 
 ### 初六变卦：风水涣卦 变卦 风泽中孚
 
-<img src="https://tenetai.com/88o/shapes/59.01.png" align=left>
+<img src="shapes/59.01.png" align=left>
 
 初六爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -578,7 +578,7 @@
 
 ### 九二变卦：风水涣卦 变卦 风地观
 
-<img src="https://tenetai.com/88o/shapes/59.02.png" align=left> 
+<img src="shapes/59.02.png" align=left> 
 
 九二爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -614,7 +614,7 @@
 
 ### 六三变卦：风水涣卦 变卦 巽为风
 
-<img src="https://tenetai.com/88o/shapes/59.03.png" align=left>
+<img src="shapes/59.03.png" align=left>
 
 六三爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -650,7 +650,7 @@
 
 ### 六四变卦：风水涣卦 变卦 天水讼
 
-<img src="https://tenetai.com/88o/shapes/59.04.png" align=left>
+<img src="shapes/59.04.png" align=left>
 
 六四爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
@@ -690,7 +690,7 @@
 
 ### 九五变卦：风水涣 变卦 山水蒙
 
-<img src="https://tenetai.com/88o/shapes/59.05.png" align=left>
+<img src="shapes/59.05.png" align=left>
 
 九五爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
@@ -728,7 +728,7 @@
 
 ### 上九变卦：风水涣 变卦 坎为水
 
-<img src="https://tenetai.com/88o/shapes/59.06.png" align=left>
+<img src="shapes/59.06.png" align=left>
 
 上九爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 

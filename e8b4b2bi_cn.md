@@ -1,6 +1,6 @@
 # 贲 ䷕
 
-<img src="https://tenetai.com/88o/shapes/22.10.jpg" width=160 alt="贲" align=left>
+<img src="shapes/22.10.jpg" width=160 alt="贲" align=left>
 
 贲（bì）卦展示“贲”的形势下各种变化的可能性。
 “贲”的意思是装饰得很好。
@@ -427,7 +427,7 @@
 
 白贲，白色无纹没有掩饰性也。孔子说：“丹漆不文，白玉不雕，宝珠不饰，质有余者不受饰也。”正确的理论无需修饰，完善的政策何需粉饰，是以上得志也。
                   
-<img src="https://tenetai.com/88o/shapes/22.11.png">
+<img src="shapes/22.11.png">
 
 ### 《断易天机》解
 
@@ -525,7 +525,7 @@
 
 ### 初九变卦：山火贲 变卦 艮为山
 
-<img src="https://tenetai.com/88o/shapes/22.01.png" align=left>
+<img src="shapes/22.01.png" align=left>
 
 初九爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
@@ -567,7 +567,7 @@
 
 ### 六二变卦：山火贲 变卦 山天大畜
 
-<img src="https://tenetai.com/88o/shapes/22.02.png" align=left>
+<img src="shapes/22.02.png" align=left>
 
 六二爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
@@ -605,7 +605,7 @@
 
 ### 九三变卦：山火贲 变卦 山雷颐
 
-<img src="https://tenetai.com/88o/shapes/22.03.png" align=left>
+<img src="shapes/22.03.png" align=left>
 
 九三爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -645,7 +645,7 @@
 
 ### 六四变卦：山火贲 变卦 离为火
 
-<img src="https://tenetai.com/88o/shapes/22.04.png" align=left>
+<img src="shapes/22.04.png" align=left>
 
 六四爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
@@ -683,7 +683,7 @@
 
 ### 六五变卦：山火贲 变卦 风火家人
 
-<img src="https://tenetai.com/88o/shapes/22.05.png" align=left>
+<img src="shapes/22.05.png" align=left>
 
 六五爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -725,7 +725,7 @@
 
 ### 上九变卦：山火贲 变卦 地火明夷
 
-<img src="https://tenetai.com/88o/shapes/22.06.png" align=left>
+<img src="shapes/22.06.png" align=left>
 
 上九爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 

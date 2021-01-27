@@ -6,7 +6,7 @@
 
 ###### p. 197
 
-![Jie](https://tenetai.com/88o/shapes/60.jpg)
+![Jie](shapes/60.jpg)
 
 **Jié ䷻** intimates that (under its conditions) there will be progress and attainment.
 (But) if the regulations (which it prescribes) be severe and difficult, they cannot be permanent.

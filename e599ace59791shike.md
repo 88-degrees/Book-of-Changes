@@ -4,7 +4,7 @@
 
 > Chinese: 噬嗑 ䷔ shì kè
 
-![Shike](https://tenetai.com/88o/shapes/21.jpg)
+![Shike](shapes/21.jpg)
 
 **Shì Kè ䷔** indicates successful progress (in the condition of things which it supposes). It will be advantageous to use legal constraints.
 

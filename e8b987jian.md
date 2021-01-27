@@ -6,7 +6,7 @@
 
 ###### p. 141
 
-![Jian](https://tenetai.com/88o/shapes/39.jpg)
+![Jian](shapes/39.jpg)
 
 In (the state indicated by) **Jiǎn ䷦** advantage will be found in the south-west, and the contrary in the north-east. It will be advantageous (also) to meet with the great man. (In these circumstances), with firmness and correctness, there will be good fortune.
 

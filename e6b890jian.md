@@ -6,7 +6,7 @@
 
 ###### p. 178
 
-![Jian](https://tenetai.com/88o/shapes/53.jpg)
+![Jian](shapes/53.jpg)
 
 **Jiàn ䷴** suggests to us the marriage of a young lady, and the good fortune (attending it). There will be advantage in being firm and correct.
 

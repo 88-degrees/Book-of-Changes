@@ -1,6 +1,6 @@
 # 蒙 ䷃
 
-<img src="https://tenetai.com/88o/shapes/04.10.jpg" width=160 alt="蒙" align=left>
+<img src="shapes/04.10.jpg" width=160 alt="蒙" align=left>
 
 蒙（méng）卦展示“蒙”的形势下各种变化的可能性。
 
@@ -684,7 +684,7 @@
 
 《吕氏春秋-当赏篇》上说：“人无道知天，依四时之化而兴作，臣无道知主，依主之赏罚而行力，赏罚信乎民，何事而不成，岂独兵乎？”当然，我们这里的主应当是人民的意志民众的主权，如果没有刑法的约束也会各行其道恣意四起天下大乱了。故君子观天下熙熙当趋之以利动之以刑以示其教则民无不劝而天下可化矣。但过于的“以法为教，以吏为师”不重民意，也就成暴政了。
 
-<img src="https://tenetai.com/88o/shapes/04.11.jpg">
+<img src="shapes/04.11.jpg">
 
 ### 《断易天机》解
 
@@ -780,7 +780,7 @@
 
 ### 初六变卦：山水蒙 变卦 山泽损
 
-<img src="https://tenetai.com/88o/shapes/04.01.png" align=left>
+<img src="shapes/04.01.png" align=left>
 
 初六爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -822,7 +822,7 @@
 
 ### 九二变卦：山水蒙 变卦 山地剥
 
-<img src="https://tenetai.com/88o/shapes/04.02.png" align=left>
+<img src="shapes/04.02.png" align=left>
 
 九二爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -860,7 +860,7 @@
 
 ### 六三变卦：山水蒙 变卦 山风蛊
 
-<img src="https://tenetai.com/88o/shapes/04.03.png" align=left>
+<img src="shapes/04.03.png" align=left>
 
 六三爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
@@ -898,7 +898,7 @@
 
 ### 六四变卦：山水蒙 变卦 火水未济
 
-<img src="https://tenetai.com/88o/shapes/04.04.png" align=left>
+<img src="shapes/04.04.png" align=left>
 
 六四爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
@@ -936,7 +936,7 @@
 
 ### 六五变卦：山水蒙 变卦 风水涣
 
-<img src="https://tenetai.com/88o/shapes/04.05.png" align=left>
+<img src="shapes/04.05.png" align=left>
 
 六五爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -974,7 +974,7 @@
 
 ### 上九变卦：山水蒙 变卦 地水师
 
-<img src="https://tenetai.com/88o/shapes/04.06.png" align=left>
+<img src="shapes/04.06.png" align=left>
 
 上九爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 

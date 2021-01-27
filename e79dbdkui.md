@@ -6,7 +6,7 @@
 
 ###### p. 139
 
-![Kui](https://tenetai.com/88o/shapes/38.jpg)
+![Kui](shapes/38.jpg)
 
 **Kuí ䷥** indicates that, (notwithstanding the condition of things which it denotes), in small matters there will (still) be good success.
 
