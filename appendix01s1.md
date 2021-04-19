@@ -120,17 +120,19 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 ###### p. 225
 
-<a name="fr_137"></a>[XIII](#fn_137). 1. In [**Tóng Rén ䷌**](e5908ce4babatongren.md) the weak (line) has the place (of influence), the central place (**☲**), and responds to (the corresponding line in) **Qián ☰** (above); hence comes its name of [**Tóng Rén ䷌**](e5908ce4babatongren.md) (or 'Union of men').
+<a name="fr_137"></a>[XIII](#fn_137). 
+
+1. In [**Tóng Rén ䷌**](e5908ce4babatongren.md) the weak (line) has the place (of influence), the central place (**☲**), and responds to (the corresponding line in) **Qián ☰** (above); hence comes its name of [**Tóng Rén ䷌**](e5908ce4babatongren.md) (or 'Union of men').
 
 2. [**Tóng Rén ䷌**](e5908ce4babatongren.md) says: --
 
 3. The language, '[**Tóng Rén ䷌**](e5908ce4babatongren.md) appears here (as we find it) in (the remote districts of) the country, indicating progress and success, and that it will be advantageous to cross the great stream,' is moulded by its containing the strength (symbolled) in **Qián ☰**. (Then) we have (the trigram indicating) elegance and intelligence, supported by (that indicating) strength; with the line in the central, and its correct, position, and responding (to the corresponding line above): -- (all representing) the correct course of the superior man. It is only the superior man who can comprehend and affect the minds of all under the sky.
 
+###### p. 226
+
 <a name="fr_138"></a>[XIV](#fn_138).
 
 1. In [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md) the weak (line) has the place of honour, is grandly central, and (the strong lines) above and below respond to it. Hence comes its name of [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md) (Having what is Great).
-
-###### p. 226
 
 2. The attributes (of its component trigrams **☰ ☲**) are strength and vigour with elegance and brightness. (The ruling line in it) responds to (the ruling line in the symbol of) heaven, and (consequently) its action is (all) at the proper times. In this way (it is said to) indicate great progress and success.
 
