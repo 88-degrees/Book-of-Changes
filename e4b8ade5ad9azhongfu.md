@@ -6,7 +6,7 @@
 
 ###### p. 199
 
-![Zhongfu](https://88o.io/wp-content/uploads/2018/09/61-e4b8ade5ad9azhongfu.jpg)
+<img src="shapes/61.10.jpg" width=160 alt="中孚">
 
 **Zhōng Fú ䷼** (moves even) pigs and fish, and leads to good fortune. There will be advantage in crossing the great stream. There will be advantage in being firm and correct.
 
