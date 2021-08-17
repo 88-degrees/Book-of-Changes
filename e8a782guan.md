@@ -6,7 +6,7 @@
 
 ###### p. 99
 
-<img src="shapes/20.10.jpg" width=160 alt="观">
+<img src="shapes/20.10.jpg" width="160" alt="观">
 
 **Guān ䷓** shows (how he whom it represents should be like) the worshipper who has washed his hands,
 but not (yet) presented his offerings; -- with sincerity and an appearance of dignity (commanding reverent regard).

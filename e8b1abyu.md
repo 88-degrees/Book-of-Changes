@@ -6,7 +6,7 @@
 
 ###### p. 91
 
-![Yu](https://88o.io/wp-content/uploads/2018/09/16-e8b1abyu.jpg)
+<img src="shapes/16.10.jpg" width="160" alt="豫">
 
 **Yǜ ䷏** indicates that, (in the state which it implies), feudal princes may be set up, and the hosts put in motion, with advantage.
 
