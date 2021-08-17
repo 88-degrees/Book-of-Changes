@@ -6,7 +6,7 @@
 
 ###### p. 97
 
-![Lin](https://88o.io/wp-content/uploads/2018/09/19-e4b8b4lin.jpg)
+<img src="shapes/19.10.jpg" width="160" alt="临">
 
 **Lín ䷒** (indicates that under the conditions supposed in it) there will be great progress and success,
 while it will be advantageous to be firmly correct. In the eighth month there will be evil.
