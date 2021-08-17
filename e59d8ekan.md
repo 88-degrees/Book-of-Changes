@@ -6,7 +6,7 @@
 
 ###### p. 118
 
-![Kan](https://88o.io/wp-content/uploads/2018/09/29-e59d8ekan.jpg)
+<img src="shapes/29.10.jpg" width="160" alt="坎">
 
 **Kǎn ䷜**, here repeated, shows the possession of sincerity, through which the mind is. penetrating. Action (in accordance with this) will be of high value.
 

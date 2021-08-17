@@ -1,6 +1,6 @@
 # 未济 ䷿
 
-<img src="shapes/64.10.jpg" width=160 alt="未济" align=left>
+<img src="shapes/64.10.jpg" width="160" alt="未济" align="left">
 
 未济（wèi jì）卦，以未能渡过河为喻，阐明“物不可穷”的道理。
 

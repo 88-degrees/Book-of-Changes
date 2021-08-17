@@ -6,7 +6,7 @@
 
 ###### p. 59
 
-<img src="shapes/02.10.jpg" width=160 alt="坤">
+<img src="shapes/02.10.jpg" width="160" alt="坤">
 
 **Kūn ䷁** (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare. When the superior man (here intended) has to make any movement, if he take the initiative, he will go astray; if he follow, he will find his (proper) lord. The advantageousness will be seen in his getting friends in the south-west, and losing friends in the north-east. If he rest in correctness and firmness, there will be good fortune.
 
