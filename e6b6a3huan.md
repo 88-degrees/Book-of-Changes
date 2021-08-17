@@ -6,7 +6,7 @@
 
 ###### p. 194
 
-![Huan](https://88o.io/wp-content/uploads/2018/09/59-e6b6a3huan.jpg)
+<img src="shapes/59.10.jpg" width=160 alt="涣">
 
 **Huàn ䷺** intimates that (under its conditions) there will be progress and success. The king goes to his ancestral temple; and it will be advantageous to cross the great stream. It will be advantageous to be firm and correct.
 

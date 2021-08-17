@@ -6,7 +6,7 @@
 
 ###### p. 120
 
-![Li](https://88o.io/wp-content/uploads/2018/09/30-e7a6bbli.jpg)
+<img src="shapes/30.10.jpg" width=160 alt="离">
 
 **Lí ䷝** indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success.
 

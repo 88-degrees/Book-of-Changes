@@ -6,7 +6,7 @@
 
 ###### p. 178
 
-![Jian](https://88o.io/wp-content/uploads/2018/09/53-e6b890jian.jpg)
+<img src="shapes/53.10.jpg" width=160 alt="渐">
 
 **Jiàn ䷴** suggests to us the marriage of a young lady, and the good fortune (attending it). There will be advantage in being firm and correct.
 
