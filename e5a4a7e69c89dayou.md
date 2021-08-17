@@ -6,7 +6,7 @@
 
 ###### p. 88
 
-![Dayou](https://88o.io/wp-content/uploads/2018/09/14-e5a4a7e69c89dayou.jpg)
+<img src="shapes/14.10.jpg" width=160 alt="大有">
 
 **Dà Yǒu ䷍** indicates that, (under the circumstances which it implies), there will be great progress and success.
 

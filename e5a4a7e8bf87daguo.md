@@ -6,7 +6,7 @@
 
 ###### p. 116
 
-![Daguo](https://88o.io/wp-content/uploads/2018/09/28-e5a4a7e8bf87daguo.jpg)
+<img src="shapes/28.10.jpg" width=160 alt="大过">
 
 **Dà Guò ䷛** suggests to us a beam that is weak. There will be advantage in moving (under its conditions) in any direction whatever; there will be success.
 
