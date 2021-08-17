@@ -6,7 +6,7 @@
 
 ###### p. 169
 
-![Ding](https://88o.io/wp-content/uploads/2018/09/50-e9bc8eding.jpg)
+<img src="shapes/50.10.jpg" width="160" alt="鼎">
 
 **Dǐng ䷱** gives the intimation of great progress and success.
 

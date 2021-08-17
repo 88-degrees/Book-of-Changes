@@ -4,7 +4,7 @@
 
 > Chinese: 困 ䷮ kùn
 
-![Kun](https://88o.io/wp-content/uploads/2019/11/47-e59bb0kun.jpg)
+<img src="shapes/47.10.jpg" width="160" alt="困">
 
 #### p. 161
 

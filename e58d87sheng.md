@@ -6,7 +6,7 @@ Chinese: shēng 升 ䷭
 
 ###### p. 159
 
-![Sheng](https://88o.io/wp-content/uploads/2018/09/46-e58d87sheng.jpg)
+<img src="shapes/46.10.jpg" width="160" alt="升">
 
 **Shēng ䷭** indicates that (under its conditions) there will be great progress and success. Seeking by (the qualities implied in it) to meet with the great man, its subject need have no anxiety. Advance to the south will be fortunate.
 
