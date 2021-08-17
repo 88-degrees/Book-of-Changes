@@ -1,6 +1,6 @@
 # 节 ䷻
 
-<img src="shapes/60.10.jpg" width=160 alt="节" align=left>
+<img src="shapes/60.10.jpg" width="160" alt="节" align="left">
 
 节（jié）卦，水泽节，万物有节。
 

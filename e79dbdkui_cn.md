@@ -1,6 +1,6 @@
 # 暌 ䷥
 
-<img src="shapes/38.10.jpg" width=160 alt="暌" align=left>
+<img src="shapes/38.10.jpg" width="160" alt="暌" align="left">
 
 睽（kuí）卦是离上兑下的卦名。
 
