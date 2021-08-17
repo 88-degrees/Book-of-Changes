@@ -6,7 +6,7 @@
 
 ###### p. 76
 
-![Xiaoxu](https://88o.io/wp-content/uploads/2018/09/09-e5b08fe7959cxiaoxu.jpg)
+<img src="shapes/09.10.jpg" width=160 alt="小畜">
 
 **Xiǎo Xù ䷈** indicates that (under its conditions) there will be progress and success. (We see) dense clouds, but no rain coming from our borders in the west.
 

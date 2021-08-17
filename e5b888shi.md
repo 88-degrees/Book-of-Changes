@@ -6,7 +6,7 @@
 
 ###### p. 71
 
-![Shi](https://88o.io/wp-content/uploads/2018/09/07-e5b888shi.jpg)
+<img src="shapes/07.10.jpg" width=160 alt="师">
 
 **Shī ䷆** indicates how, in the case which it supposes, with firmness and correctness, and (a leader of) age and experience, there will be good fortune and no error.
 
