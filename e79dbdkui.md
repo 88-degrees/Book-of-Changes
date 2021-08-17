@@ -6,7 +6,7 @@
 
 ###### p. 139
 
-![Kui](https://88o.io/wp-content/uploads/2018/09/38-e79dbdkui.jpg)
+<img src="shapes/38.10.jpg" width="160" alt="暌">
 
 **Kuí ䷥** indicates that, (notwithstanding the condition of things which it denotes), in small matters there will (still) be good success.
 

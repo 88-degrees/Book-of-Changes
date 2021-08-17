@@ -6,7 +6,7 @@
 
 ###### p. 149
 
-![yi](https://88o.io/wp-content/uploads/2018/09/42-e79b8ayi.jpg)
+<img src="shapes/42.10.jpg" width="160" alt="益">
 
 **Yì ䷩** indicates that (in the state which it denotes) there will be advantage in every movement which shall be undertaken, that it will be advantageous (even) to cross the great stream.
 

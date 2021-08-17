@@ -6,7 +6,7 @@
 
 ###### p. 197
 
-![Jie](https://88o.io/wp-content/uploads/2018/09/60-e88a82jie.jpg)
+<img src="shapes/60.10.jpg" width="160" alt="节">
 
 **Jié ䷻** intimates that (under its conditions) there will be progress and attainment.
 (But) if the regulations (which it prescribes) be severe and difficult, they cannot be permanent.
