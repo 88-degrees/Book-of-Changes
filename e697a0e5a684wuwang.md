@@ -6,7 +6,7 @@
 
 ###### p. 109
 
-![Wuwang](https://88o.io/wp-content/uploads/2018/09/25-e697a0e5a684wuwang.jpg)
+<img src="shapes/25.10.jpg" width=160 alt="无妄">
 
 **Wú Wàng ䷘** indicates great progress and success, while there will be advantage in being firm and correct. If (its subject and his action) be not correct, he will fall into errors, and it will not be advantageous for him to move in any direction.
 

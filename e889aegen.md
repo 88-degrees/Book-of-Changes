@@ -6,7 +6,7 @@
 
 ###### p. 175
 
-![Gen](https://88o.io/wp-content/uploads/2018/09/52-e889aegen.jpg)
+<img src="shapes/52.10.jpg" width=160 alt="艮">
 
 When one's resting is like that of the back, and he loses all consciousness of self; when he walks in his courtyard, and does not see any (of the persons) in it, -- there will be no error.
 
