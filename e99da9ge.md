@@ -6,7 +6,7 @@
 
 ###### p. 167
 
-![Ge](https://88o.io/wp-content/uploads/2018/09/49-e99da9ge.jpg)
+<img src="shapes/49.10.jpg" width=160 alt="革">
 
 (What takes place as indicated by) **Gé ䷰** is believed in only after it has been accomplished. There will be great progress and success. Advantage will come from being firm and correct. (In that case) occasion for repentance will disappear.
 
