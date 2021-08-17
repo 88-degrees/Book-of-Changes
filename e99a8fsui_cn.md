@@ -1,6 +1,6 @@
 # 随 ䷐
 
-<img src="shapes/17.10.jpg" alt="随" width=160 align=left>
+<img src="shapes/17.10.jpg" width="160" alt="随" align="left">
 
 随是跟随的意思，用于“随便”、“随从”、“跟随”、“随后”、“随意”等等。
 
