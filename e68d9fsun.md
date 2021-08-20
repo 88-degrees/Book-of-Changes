@@ -4,13 +4,13 @@
 
 > Chinese: 损 ䷨ sǔn
 
-###### p. 146
+<a id="p-146"></a>
 
 <img src="shapes/41.10.jpg" width="160" alt="损">
 
 In (what is denoted by) **Sǔn ䷨**, if there be sincerity (in him who employs it), there will be great good fortune: -- freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made. In what shall this (sincerity in the exercise of **Sǔn ䷨**) be employed? (Even) in sacrifice two baskets of grain, (though there be nothing else), may be presented.
 
-###### p. 147
+<a id="p-147"></a>
 
 1.<a name="41.1"></a> The first `NINE`, undivided, shows its subject suspending his own affairs, and hurrying away (to help the subject of the fourth line). He will commit no error, but let him consider how far he should contribute of what is his (for the other).
 
