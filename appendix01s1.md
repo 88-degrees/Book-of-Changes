@@ -1,4 +1,4 @@
-###### p. 213
+<a id="p-213"></a>
 
 # APPENDIX I
 
@@ -18,7 +18,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 5. (The sage) appears aloft, high above all things, and the myriad states all enjoy repose.
 
-###### p. 214
+<a id="p-214"></a>
 
 <a name="fr_126"></a>[II](#fn_126).
 
@@ -28,7 +28,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 3. The mare is a creature of earthly kind. Its (power of) moving on the earth is without limit; it is mild and docile, advantageous and firm: -- such is the course of the superior man.
 
-###### p. 215
+<a id="p-215"></a>
 
 4. 'If he take the initiative, he goes astray:' -- he misses, that is, his proper course. 'If he follow,' he is docile, and gets into his regular (course). 'In the south-west he will get friends:' -- he will be walking with those of his own class. 'In the north-east he will lose friends:' -- but in the end there will be ground for congratulation.
 
@@ -40,7 +40,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 2. Movement in the midst of peril gives rise to 'great progress and success, (through) firm correctness.'
 
-###### p.216
+<a id="p-216"></a>
 
 3. By the action of the thunder and rain, (which are symbols of **Zhèn ☳** and **Kǎn ☵**, all (between heaven and earth) is filled up. But the condition of the time is full of irregularity and obscurity. Feudal princes should be established, but the feeling that rest and peace have been secured should not be indulged (even then).
 
@@ -48,13 +48,13 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 1. In [**Méng ䷃**](e89299meng.md) we have (the trigram ☶ for) a mountain, and below it ☵ that of a rugged defile with a stream in it. The conditions of peril and arrest of progress (suggested by these) give (the idea in) [**Méng ䷃**](e89299meng.md).
 
-###### p. 217
+<a id="p-217></a>
 
 2. '[**Méng ䷃**](e89299meng.md) indicates that there will be progress and success:' -- for there is development at work in it, and its time of action is exactly what is right. 'I do not seek the youthful and inexperienced; he seeks me:' -- so does will respond to will. 'When he shows (the sincerity that marks) the first recourse to divination, I instruct him:' -- for possessing the qualities of the undivided line and being in the central place, (the subject of the second line thus speaks). 'A second and third application create annoyance, and I do not instruct so as to create annoyance:' -- annoyance (he means) to the ignorant.
 
 (The method of dealing with) the young and ignorant is to nourish the correct (nature belonging to them); -- this accomplishes the service of the sage.
 
-###### p. 218
+<a id="p-218"></a>
 
 <a name="fr_129"></a>[V](#fn_129).
 
@@ -62,7 +62,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 2. When it is said that, 'with the sincerity declared in [**Xū ䷄**](e99c80xu.md), there will be brilliant success, and with firmness there will be good fortune,' this is shown by the position (of the fifth line) in the place assigned by Heaven, and its being the correct position for it, and in the centre. 'It will be advantageous to go through the great stream;' -- that is, going forward will be followed by meritorious achievement.
 
-###### p. 219
+<a id="p-219"></a>
 
 <a name="fr_130"></a>[VI](#fn_130).
 
@@ -76,7 +76,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 'It will not be advantageous to cross the great stream:' -- one (attempting to do so) would find himself in an abyss.
 
-###### p. 220
+<a id="p-220"></a>
 
 <a name="fr_131"></a>[VII](#fn_131).
 
@@ -88,7 +88,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 1. '[**Bǐ ䷇**](e6af94bi.md) indicates that there is good fortune:' -- (the name) [**Bǐ ䷇**](e6af94bi.md) denotes help; (and we see in the figure) inferiors docilely following (their superior).
 
-###### p. 221
+<a id="p-221"></a>
 
 2. 'Let (the principal party intended in it) reexamine himself, (as if) by divination, whether his virtue be great, unintermitting, and firm; -- if it be so, there will be no error: -- all this follows from the position of the strong line in the centre (of the upper trigram **☵**). 'Those who have not rest will come to him:' -- high and low will respond to its subject. 'With those who are (too) late in coming it will be ill:' -- (for them) the way (of good fortune here indicated) has been exhausted.
 
@@ -98,7 +98,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 2. (It presents the symbols of) strength **☰** and flexibility **☴**. Strong lines are in the central places, and the will (of their subjects) will have free course. Thus it indicates that there will be progress and success.
 
-###### p. 222
+<a id="p-222"></a>
 
 3. 'Dense clouds but no rain' indicate the movement (of the strong lines) still going forward. The 'Commencing at our western border' indicates that the (beneficial) influence has not yet been widely displayed.
 
@@ -108,17 +108,17 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 2. (The lower trigram **☱**) indicates pleasure and satisfaction, and responds to (the upper **☰**) indicating strength. Hence (it is said), 'He treads on the tail of a tiger, which does not bite him; there will be progress and success.'
 
-###### p. 223
+<a id="p-223"></a>
 
 3. (The fifth line is) strong, in the centre, and in its correct place. (Its subject) occupies the God-(given) position, and falls into no distress or failure; -- (his) action will be brilliant.
 
 <a name="fr_135"></a>[XI](#fn_135). 'The little come and the great gone in [**Tài ䷊**](e6b3b0tai.md), and its indication that there will be good fortune with progress and success' show to us heaven **☰** and earth **☷** in communication with each other, and all things in consequence having free course, and (also) the high and the low, (superiors and inferiors), in communication with one another, and possessed by the same aim. The inner (trigram **☰**) is made up of the strong and undivided lines, and the outer of the weak and divided (trigram **☷**); the inner is (the symbol of) strength, and the outer of docility; the inner (represents) the superior man, and the outer the small man. (Thus) the way of the superior man appears increasing, and that of the small man decreasing.
 
-###### p. 224
+<a id="p-224"></a>
 
 <a name="fr_136"></a>[XII](#fn_136). 'The want of good understanding between the (different classes of) men in [**Pǐ ䷋**](e590a6pi.md), and its indication as unfavourable to the firm and correct course of the superior man; with the intimation that the great are gone and the little come:' -- all this springs from the fact that in it heaven and earth are not in communication with each other, and all things in consequence do not have free course; and that the high and the low (superiors and inferiors) are not in communication with one another, and there are no (well-regulated) states under the sky. The inner (trigram **☷**) is made up of the weak and divided lines, and the outer of the strong and undivided (trigram **☰**): the inner is (the symbol of) weakness, and the outer of strength; the inner (represents) the small man, and the outer the superior man. Thus the way of the small man appears increasing, and that of the superior man decreasing.
 
-###### p. 225
+<a id="p-225"></a>
 
 <a name="fr_137"></a>[XIII](#fn_137). 
 
@@ -128,7 +128,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 3. The language, '[**Tóng Rén ䷌**](e5908ce4babatongren.md) appears here (as we find it) in (the remote districts of) the country, indicating progress and success, and that it will be advantageous to cross the great stream,' is moulded by its containing the strength (symbolled) in **Qián ☰**. (Then) we have (the trigram indicating) elegance and intelligence, supported by (that indicating) strength; with the line in the central, and its correct, position, and responding (to the corresponding line above): -- (all representing) the correct course of the superior man. It is only the superior man who can comprehend and affect the minds of all under the sky.
 
-###### p. 226
+<a id="p-226"></a>
 
 <a name="fr_138"></a>[XIV](#fn_138).
 
@@ -142,7 +142,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 2. It is the way of heaven to diminish the full and augment the humble. It is the way of earth to overthrow the full and replenish the humble. Spiritual Beings inflict calamity on the full and bless the humble. It is the way of men to hate the full and love the humble. Humility in a position of honour makes that still more brilliant; and in a low position men will not (seek to) pass beyond it. Thus it is that 'the superior man will have a (good) issue (to his undertakings).'
 
-###### p. 227
+<a id="p-227"></a>
 
 <a name="fr_140"></a>[XVI](#fn_140).
 
@@ -152,7 +152,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 3. Heaven and earth show that docile obedience in connexion with movement, and hence the sun and moon make no error (in time), and the four seasons do not deviate (from their order). The sages show such docile obedience in connexion with their movements, and hence their punishments and penalties are entirely just, and the people acknowledge it by their submission. Great indeed are the time and significance indicated in [**Yǜ ䷏**](e8b1abyu.md)!
 
-###### p. 228
+<a id="p-228"></a>
 
 <a name="fr_141"></a>[XVII](#fn_141).
 
@@ -166,7 +166,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 1. In [**Gǔ ䷑**](e89b8agu.md) we have the strong (trigram) above, and the weak one below; we have (below) pliancy, and (above) stopping: -- these give the idea of [**Gǔ ䷑**](e89b8agu.md) (a Troublous Condition of affairs verging to ruin).
 
-###### p. 229
+<a id="p-229"></a>
 
 2. '[**Gǔ ䷑**](e89b8agu.md) indicates great progress and success:' -- (through the course shown in it), all under heaven, there will be good order. 'There will be advantage in crossing the great stream:' -- he who advances will encounter the business to be done. '(He should weigh well, however, the events of) three days before (the turning-point), and those (to be done) three days after it:' -- the end (of confusion) is the beginning (of order); such is the procedure of Heaven.
 
@@ -184,7 +184,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 1. The great Manifester occupies an upper place (in the figure), which consists of (the trigrams whose attributes are) docility and flexibility. He is in the central position and his correct place, and thus exhibits (his lessons) to all under heaven.
 
-###### p. 230
+<a id="p-230"></a>
 
 2. '[**Guān ䷓**](e8a782guan.md) shows its subject like a worshipper who has washed his hands, but not (yet) presented his offerings; -- with sincerity and an appearance of dignity (commanding reverent regard):' -- (all) beneath look to him and are transformed.
 
@@ -194,7 +194,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 1. The existence of something between the jaws gives rise to the name [**Shì Kè ䷔**](e599ace59791shike.md) (Union by means of biting through the intervening article).
 
-###### p. 231
+<a id="p-231"></a>
 
 2. The Union by means of biting through the intervening article indicates 'the successful progress (denoted by the hexagram).' The strong and weak (lines) are equally divided (in the figure). Movement is denoted (by the lower trigram **☳**), and bright intelligence (by the upper **☲**); thunder and lightning uniting in them, and having brilliant manifestation. The weak (fifth) line is in the centre, and acts in its high position. Although it is not in its proper position, this is advantageous for the use of legal constraints.
 
@@ -208,7 +208,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 4. We look at the ornamental figures of the sky, and thereby ascertain the changes of the seasons. We look at the ornamental observances of society, and understand how the processes of transformation are accomplished all under heaven.
 
-###### p. 232
+<a id="p-232"></a>
 
 <a name="fr_147"></a>[XXIII](#fn_147).
 
@@ -216,7 +216,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 2. That 'it will not be advantageous to make a movement in any direction whatever' appears from the fact that the small men are (now) growing and increasing. The superior man acts according to (the exigency of the time), and stops all forward movement, looking at the (significance of the) symbolic figures (in the hexagram). He values the processes of decrease and increase, of fulness and decadence, (as seen) in the movements of the heavenly bodies.
 
-###### p. 233
+<a id="p-233"></a>
 
 <a name="fr_148"></a>[XXIV](#fn_148).
 
@@ -232,7 +232,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 <a name="fr_149"></a>[XXV](#fn_149). In [**Wú Wàng ䷘**](e697a0e5a684wuwang.md) we have the strong (first) line come from the outer (trigram), and become in the inner trigram lord (of the whole figure); we have (the attributes of) motive power and strength; we have the strong line (of the fifth place) in the central position, and responded to (by the weak second): -- there will be 'great progress proceeding from correctness; such is the appointment of Heaven.
 
-###### p. 234
+<a id="p-234"></a>
 
 'If (its subject and his action) be not correct, he will fall into errors, and it will not be advantageous for him to move in any direction:' -- whither can he (who thinks he is) free from all insincerity, (and yet is as here described) proceed? Can anything be done (advantageously) by him whom the (will and) appointment of Heaven do not help?
 
@@ -244,7 +244,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 3. 'The good fortune attached to the subject's not seeking to enjoy his revenues in his own family' shows how talents and virtue are nourished.
 
-###### p. 235
+<a id="p-235"></a>
 
 4. 'It will be advantageous to cross the great stream:' -- (the fifth line, representing the ruler,) is responded to by (the second, the central line of **Qián ☰**, representing) Heaven.
 
@@ -254,7 +254,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 2. Heaven and earth nourish all things. The sages nourish men of talents and virtue, by them to reach to the myriads of the people. Great is (the work intended by this) nourishing in its time!
 
-###### p. 236
+<a id="p-236"></a>
 
 <a name="fr_152"></a>[XXVIII](#fn_152).
 
@@ -274,7 +274,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 3. That 'the mind is penetrating' is indicated by the strong (line) in the centre **☵**. That 'action (in accordance with this) will be of high value' tells us that advance will be followed by achievement.
 
-###### p. 237
+<a id="p-237"></a>
 
 4. The dangerous (height) of heaven cannot be ascended; the difficult places of the earth are mountains, rivers, hills, and mounds. Kings and princes arrange by means of such strengths, to maintain their territories. Great indeed is the use of (what is here) taught about seasons of peril.
 
