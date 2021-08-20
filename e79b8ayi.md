@@ -4,7 +4,7 @@
 
 > Chinese: 益 ䷩ yì
 
-###### p. 149
+<a id="p-149"></a>
 
 <img src="shapes/42.10.jpg" width="160" alt="益">
 
@@ -12,7 +12,7 @@
 
 1.<a name="42.1"></a> The first `NINE`, undivided, shows that it will be advantageous for its subject in his position to make a great movement. If it be greatly fortunate, no blame will be imputed to him.
 
-##### p. 150
+<a id="p-150"></a>
 
 > **䷩** changing to [**䷓**](e8a782guan.md)
 
@@ -51,7 +51,7 @@
 ## Notes
 
 **Yì ䷩** has the opposite meaning to [**Sǔn ䷨**](e68d9fsun.md), and is the symbol of addition or increasing.
-What [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) had in his mind, in connexion with the hexagram, was a ruler or a government operating <sub>[p. 151](e5a4acguai.md#p-151)</sub> so as to dispense benefits to,
+What [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) had in his mind, in connexion with the [hexagram](e5a4acguai.md#p-151), was a ruler or a government operating so as to dispense benefits to,
 and increase the resources of all the people. Two indications are evident in the lines; -- the strong line in the ruler's seat, or the fifth line, and the weak line in the correlative place of 2. Whether there be other indications in the figure or its component trigrams will be considered in dealing with the Appendixes. The writer might well say, on general grounds,
 of the ruler whom he had in mind, that he would be successful in his enterprises and overcome the greatest difficulties.
 
@@ -65,7 +65,7 @@ Line 3 is weak, neither central, nor in its correct position. It would seem ther
 But it is the time for giving increase, and the idea of his receiving it by means of evil things is put into the line.
 That such things serve for reproof and correction is well known to Chinese moralists. But the paragraph goes on also to caution and admonish.
 
-Line 4 is the place for a minister, near to that of the ruler. Its subject is weak, but his place is appropriate, and as he follows the <sub>[p. 152](e5a4acguai.md#p-152)</sub> due course, his ruler will listen to him, and he will be a support in the most critical movements. Changing the capital from place to place was frequent in the feudal times of China. That of Shang, which preceded [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty), was changed five times.
+Line 4 is the place for a minister, near to that of the ruler. Its subject is weak, but his place is appropriate, and as he [follows the due course](e5a4acguai.md#p-152), his ruler will listen to him, and he will be a support in the most critical movements. Changing the capital from place to place was frequent in the feudal times of China. That of Shang, which preceded [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty), was changed five times.
 
 Line 5 is strong, in its fitting position, and central. It is the seat of the ruler, who has his proper correlate in 2. Everything good, according to the conditions of the hexagram, therefore, may be said of him; -- as is done.
 
