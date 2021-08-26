@@ -4,13 +4,13 @@
 
 > Chinese: 复 ䷗ fù
 
-###### p. 107
+<a id="p-107"></a>
 
 <img src="shapes/24.10.jpg" width=160 alt="复">
 
 **Fù ䷗** indicates that there will be free course and progress (in what it denotes). (The subject of it) finds no one to distress him in his exits and entrances; friends come to him, and no error is committed . He will return and repeat his (proper) course. In seven days comes his return. There will be advantage in whatever direction movement is made.
 
-###### p. 108
+<a id="p-108"></a>
 
 1.<a name="24.1"></a> The first `NINE`, undivided, shows its subject returning (from an error) of no great extent, which would not proceed to anything requiring repentance. There will be great good fortune.
 
