@@ -4,13 +4,13 @@
 
 > Chinese: 姤 ䷫ gòu
 
-###### p. 154
+<a id="p-154"></a>
 
 <img src="shapes/44.10.jpg" width=160 alt="姤">
 
 **Gòu ䷫** shows a female who is bold and strong. It will not be good to marry (such) a female.
 
-###### p. 155
+<a id="p-155"></a>
 
 1.<a name="44.1"></a> The first `SIX`, divided, shows how its subject should be kept (like a carriage) tied and fastened to a metal drag, in which case with firm correctness there will be good fortune. (But) if he move in any direction, evil will appear. He will be (like) a lean pig, which is sure to keep jumping about.
 
@@ -61,7 +61,7 @@ and wishes to subdue or win all the five strong lines to herself. No one would c
 
 Line 1 represents the bête noire of the figure. If its subject can be kept back, the method of firm government and order will proceed. If he cannot be restrained, he will become disgusting and dangerous. It is not enough for the carriage to be stopt by the metal drag; it is also tied or bound to some steadfast object. Internal and external restraints should be opposed to the bad man.
 
-The 'wallet of fish' under line 2 is supposed to symbolise the <sub>[p. 157](e89083cui.md#p-157)</sub> subject of line 1. It has come into the possession of the subject of 2, by virtue of the meaning of the name **Gòu ䷫**, which I have pointed out. With his strength therefore he can repress the advance of 1. He becomes in fact 'the lord of the hexagram,' and all the other strong lines are merely guests; and especially is it important that he should prevent 1 from approaching them. This is a common explanation of what is said under this second line. It seems farfetched; but I can neither find nor devise anything better.
+The 'wallet of fish' under line 2 is supposed to symbolise the [subject of line 1](e89083cui.md#p-157). It has come into the possession of the subject of 2, by virtue of the meaning of the name **Gòu ䷫**, which I have pointed out. With his strength therefore he can repress the advance of 1. He becomes in fact 'the lord of the hexagram,' and all the other strong lines are merely guests; and especially is it important that he should prevent 1 from approaching them. This is a common explanation of what is said under this second line. It seems farfetched; but I can neither find nor devise anything better.
 
 With what is said on line 3, compare the fourth paragraph of the duke's Text on the preceding hexagram. Line 3 is strong, but has gone beyond the central place; has no correlate above; and is cut off from 1 by the intervening 2. It cannot do much therefore against 1; but its aim being to repress that, there will be no great error.
 
