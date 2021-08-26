@@ -4,13 +4,13 @@
 
 > Chinese: 夬 ䷪ guài
 
-###### p. 151
+<a id="p-151"></a>
 
 <img src="shapes/43.10.jpg" width=160 alt="夬">
 
 **Guài ䷪** requires (in him who would fulfil its meaning) the exhibition (of the culprit's guilt) in the royal court, and a sincere and earnest appeal (for sympathy and support), with a consciousness of the peril (involved in cutting off the criminal). He should (also) make announcement in his own city, and show that it will not be well to have recourse at once to arms. (In this way) there will be advantage in whatever he shall go forward to.
 
-###### p. 152
+<a id="p-152"></a>
 
 1.<a name="43.1"></a> The first `NINE`, undivided, shows its subject in (the pride of) strength advancing with his toes. He goes forward, but will not succeed. There will be ground for blame.
 
