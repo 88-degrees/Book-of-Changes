@@ -54,7 +54,7 @@ In **Guài ䷪** we have the hexagram of the third month, when the last remnant,
 
 The [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) says that he must openly denounce the criminal in the court, seek to awaken general sympathy, and at the same time go about his enterprise, conscious of its difficulty and danger. Among his own adherents, moreover, as if it were in his own city, he must make it understood how unwillingly he takes up arms. Then let him go forward, and success will attend him.
 
-Line 1 is strong, the first line of that trigram, which expresses the idea of strength. But it is in the lowest place. The stage of <sub>[p. 154](e5a7a4gou.md#p-154)</sub> the enterprise is too early, and the preparation too small to make victory certain. Its subject had better not take the field.
+Line 1 is strong, the first line of that trigram, which expresses the idea of strength. But it is in the lowest place. [The stage of the enterprise](e5a7a4gou.md#p-154) is too early, and the preparation too small to make victory certain. Its subject had better not take the field.
 
 Line 2 is strong, and central, and its subject is possessed with the determination to do his part in the work of removal. But his eagerness is tempered by his occupancy of an even place; and he is cautious, and no attempts, however artful, to harm him will take effect.
 
