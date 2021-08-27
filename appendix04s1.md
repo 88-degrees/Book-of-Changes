@@ -1,4 +1,4 @@
-###### p. 408
+<a id="p-408"></a>
 
 # APPENDIX IV
 
@@ -14,35 +14,29 @@ Chapter <a name="fr_279"></a>[I](#fn_279).
 
 3. The fact that the superior man practises these four virtues justifies the application to him of the words -- '[**Qián ䷀**](e4b9beqian.md) represents what is great and originating, penetrating, advantageous, correct and firm.'
 
-###### p. 409
+<a id="p-409"></a>
 
 Chapter <a name="fr_280"></a>[II](#fn_280).
 
-4. What is the meaning of the words under the first `NINE`, (undivided), 'The dragon lies hid (in the deep); -- it is not the time for active doing?' The Master said: -- There he is, with the powers of the dragon, and yet lying hid. The influence of the world would make no change in him; he would do nothing (merely) to secure his fame. He can live, withdrawn from the world, without regret; he can experience disapproval without trouble of mind. Rejoicing (in opportunity), he carries his principles
+4. What is the meaning of the words under the first `NINE`, (undivided), 'The dragon lies hid (in the deep); -- it is not the time for active doing?' The Master said: -- There he is, with the powers of the dragon, and yet lying hid. The influence of the world would make no change in him; he would do nothing (merely) to secure his fame. He can live, withdrawn from the world, without regret; he can experience disapproval without trouble of mind. Rejoicing (in opportunity), he carries his principles into action; sorrowing (for want of opportunity), he keeps with them in retirement. Yes, he is not to be torn from his root (in himself).' This is 'the dragon lying hid.'
 
-###### p. 410
-
-into action; sorrowing (for want of opportunity), he keeps with them in retirement. Yes, he is not to be torn from his root (in himself).' This is 'the dragon lying hid.'
+<a id="p-410"></a>
 
 5. What is the meaning of the words under the second `NINE`, 'The dragon shows himself and is in the field; -- it will be advantageous to see the great man?' The Master said: -- 'There he is, with the dragon's powers, and occupying exactly the central place. He is sincere (even) in his ordinary words, and earnest in his ordinary conduct. Guarding against depravity, he preserves his sincerity. His goodness is recognised in the world, but he does not boast of it. His virtue is extensively displayed, and transformation ensues. The language of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), "The dragon shows himself and is in the field; -- it will be advantageous to see the great man." refers to a ruler's virtue.'
 
-6. What is the meaning of the words under the third `NINE`,' The superior man is active and vigilant all the day, and in the evening (still) careful and apprehensive; -- the position is dangerous, but there will be no mistake?' The Master said: -- 'The superior man advances in virtue, and cultivates all the sphere of his duty. His leal-heartedness and good faith are the way by which he advances in virtue. His attention to his words and establishing his sincerity are the way by which he occupies in his sphere. He knows the utmost point to be reached, and reaches it, thus showing himself in accord with the first springs (of things); he knows the end to be rested in, and rests in it, thus preserving his righteousness in accordance with that end. Therefore he occupies a high position without pride, and a low
+6. What is the meaning of the words under the third `NINE`,' The superior man is active and vigilant all the day, and in the evening (still) careful and apprehensive; -- the position is dangerous, but there will be no mistake?' The Master said: -- 'The superior man advances in virtue, and cultivates all the sphere of his duty. His leal-heartedness and good faith are the way by which he advances in virtue. His attention to his words and establishing his sincerity are the way by which he occupies in his sphere. He knows the utmost point to be reached, and reaches it, thus showing himself in accord with the first springs (of things); he knows the end to be rested in, and rests in it, thus preserving his righteousness in accordance with that end. Therefore he occupies a high position without pride, and a low position without anxiety. Thus it is that, being active and vigilant, and careful (also) and apprehensive as the time requires, though his position be perilous, he will make no mistake.'
 
-###### p. 411
-
-position without anxiety. Thus it is that, being active and vigilant, and careful (also) and apprehensive as the time requires, though his position be perilous, he will make no mistake.'
+<a id="p-411"></a>
 
 7. What is the meaning of the words under the fourth `NINE`, 'He is as if he were leaping up, (but still) is in the deep; -- there will be no mistake?' The Master said: -- 'He finds no permanent place either above or below, but he does not commit the error (of advancing). He may advance or recede; -- there is no permanent place for him: but he does not leave his fellows. The superior man, advancing in virtue and cultivating the sphere of his duty, yet wishes (to advance only) at the (proper) time, and therefore there is no mistake.'
 
 8. What is the meaning of the words under the fifth `NINE`, 'The dragon is on the wing in the sky; -- it will be advantageous to see the great man?' The Master said: -- 'Notes of the same key respond to one another; creatures of the same nature seek one another; water flows towards the place that is (low and) damp; fire rises up towards what is dry; clouds follow the dragon, and winds follow the tiger: (so) the sage makes his appearance, and all men look to him. Things that draw their origin from heaven move towards what is above; things that draw their origin from the earth cleave to what is below: -- so does everything follow its kind.'
 
-9. What is the meaning of the words under the topmost `NINE`, 'The dragon exceeds the proper limits; -- there will be occasion for repentance?' The Master said: -- 'The position is noble, but it is not that of office; (its occupant) dwells on high, but he has no people (to rule); and the men of talent
+<a id="p-412"></a>
 
-###### p. 412
+9. What is the meaning of the words under the topmost `NINE`, 'The dragon exceeds the proper limits; -- there will be occasion for repentance?' The Master said: -- 'The position is noble, but it is not that of office; (its occupant) dwells on high, but he has no people (to rule); and the men of talent and virtue in the positions below will give him no aid; -- should he move in such a case, there will be occasion for repentance.'
 
-and virtue in the positions below will give him no aid; -- should he move in such a case, there will be occasion for repentance.'
-
-###### p. 413
+<a id="p-413"></a>
 
 Chapter <a name="fr_281"></a>[III](#fn_281).
 
@@ -60,7 +54,7 @@ Chapter <a name="fr_281"></a>[III](#fn_281).
 
 16. Undivided lines appear in all these representations of the great and originating power denoted by [**Qián ䷀**](e4b9beqian.md): -- (what follows in the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) tells us how) all under the sky there will be good order.
 
-###### p. 414
+<a id="p-414"></a>
 
 Chapter <a name="fr_282"></a>[IV](#fn_282).
 
@@ -78,7 +72,7 @@ Chapter <a name="fr_282"></a>[IV](#fn_282).
 
 23. Undivided NINES appear in all these representations of the great and originating power denoted by [**Qián ䷀**](e4b9beqian.md): -- and (from what follows in the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻)) we see the model (of action) afforded by heaven.
 
-###### p. 415
+<a id="p-415"></a>
 
 Chapter <a name="fr_283"></a>[V](#fn_283).
 
@@ -94,7 +88,7 @@ Chapter <a name="fr_283"></a>[V](#fn_283).
 
 29. (The great man) at the proper time drives with these six dragons through the sky. The clouds move, and the rain is distributed; all under heaven enjoys repose.
 
-###### p. 416
+<a id="p-416"></a>
 
 Chapter <a name="fr_284"></a>[VI](#fn_284).
 
@@ -102,11 +96,9 @@ Chapter <a name="fr_284"></a>[VI](#fn_284).
 
 31. The superior man learns and accumulates the results of his learning; puts questions, and discriminates among those results; dwells magnanimously and unambitiously in what he has attained to; and carries it into practice with benevolence. What the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) says, 'The dragon appears in the field: -- it will be advantageous to meet with the great man,' has reference to the virtuous qualities of a ruler (as thus described).
 
-32. In the third `NINE`, there is a twofold symbol of) strength, but (the position) is not central. (Its
+32. In the third `NINE`, there is a twofold symbol of) strength, but (the position) is not central. (Its occupant) is not in heaven above, nor is he in the field beneath. Therefore there must be active vigilance and cautious apprehension as the time requires; and. though (the position be) perilous, there will be no mistake.
 
-###### p. 417
-
-occupant) is not in heaven above, nor is he in the field beneath. Therefore there must be active vigilance and cautious apprehension as the time requires; and. though (the position be) perilous, there will be no mistake.
+<a id="p-417"></a>
 
 33. In the fourth `NINE`, there is (the symbol of) strength, but (the position) is not central. (Its occupant) is not in heaven above, nor is he in the field beneath, nor is he in the place of man intermediate. Hence he is in perplexity; and being so, he has doubts about what. should be his movements, and so will give no occasion for blame.
 
@@ -142,7 +134,7 @@ Paragraph 17 tells us that time and circumstances are essential, as well as inwa
 
 Paragraph 19. Compare the language on paragraph 6, towards the end.
 
-Paragraph 20. The subject passes here from the lower trigram and enters into the upper. We are told not to lay stress on 'the method of [**Qián ䷀**](e4b9beqian.md).' In paragraph 21 we have the sage upon the <sub>[p. 415](#p-415)</sub> throne. Time and opportunity are both in progress in 19; here in 22, they are both passed, have reached their extremity or end.
+Paragraph 20. The subject passes here from the lower trigram and enters into the upper. We are told not to lay stress on 'the method of [**Qián ䷀**](e4b9beqian.md).' In paragraph 21 we have the [sage upon the throne](#p-415). Time and opportunity are both in progress in 19; here in 22, they are both passed, have reached their extremity or end.
 
 Paragraph 23: -- see on paragraph 16. 'The model of heaven,' says [Wú Chéng](https://en.wikipedia.org/wiki/Wu_Cheng_(philosopher)), 'is the due blending of the strong and active with the weak and passive, the regulation of movement in accordance with the highest reason, so that there shall be neither excess nor deficiency.'
 
