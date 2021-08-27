@@ -15,6 +15,8 @@ A line **⚋** is called `SIX`, divided.
 
 Read the HEXAGRAM from bottom to top.
 For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
+
+![Yì Gloabl](shapes/yi-global.gif)
  
 | * | * | * | * | * | * | * | * | * | * |
 | - | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | - |
