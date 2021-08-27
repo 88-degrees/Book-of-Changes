@@ -4,13 +4,13 @@
 
 > Chinese: 涣 ䷺ huàn
 
-###### p. 194
+<a id="p-194"></a>
 
 <img src="shapes/59.10.jpg" width=160 alt="涣">
 
 **Huàn ䷺** intimates that (under its conditions) there will be progress and success. The king goes to his ancestral temple; and it will be advantageous to cross the great stream. It will be advantageous to be firm and correct.
 
-###### p. 195
+<a id="p-195"></a>
 
 1.<a name="59.1"></a> The first `SIX`, divided, shows its subject engaged in rescuing (from the impending evil) and having (the assistance of) a strong horse. There will be good fortune.
 
@@ -42,7 +42,7 @@
 
 > Matching Line 5 in Adjacent Hexagram: [**䷻**](e88a82jie.md#60.5)
 
-###### p. 196
+<a id="p-196"></a>
 
 6.<a name="59.6"></a> The topmost `NINE`, undivided, shows its subject disposing of (what may be called) its bloody wounds, and going and separating himself from its anxious fears. There will be no error.
 
