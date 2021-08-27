@@ -4,13 +4,13 @@
 
 > Chinese: 履 ䷉ lǚ
 
-###### p. 78
+<a id="p-78"/>
 
-<img src="shapes/10.10.jpg" width=160 alt="履">
+<img src="shapes/10.10.jpg" width="160" alt="履">
 
 (**Lǚ ䷉** suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success.
 
-###### p. 79
+<a id="p-79"/>
 
 1.<a name="10.1"></a> The first `NINE`, undivided, shows its subject treading his accustomed path. If he go forward, there will be no error.
 
@@ -44,7 +44,7 @@
 
 6.<a name="10.6"></a> The sixth `NINE`, undivided, tells us to look at (the whole course) that is trodden, and examine the presage which that gives. If it be complete and without failure, there will be great good fortune.
 
-###### p.80
+<a id="p-80"/>
 
 > **䷉** changing to [**䷹**](e58591dui.md)
 
