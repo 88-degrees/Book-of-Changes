@@ -4,13 +4,13 @@
 
 > Chinese: 离 ䷝ lí
 
-###### p. 120
+<a id="p-120"></a>
 
-<img src="shapes/30.10.jpg" width=160 alt="离">
+<img src="shapes/30.10.jpg" width="160" alt="离"/>
 
 **Lí ䷝** indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success.
 
-###### p. 121
+<a id="p-121"></a>
 
 Let (its subject) also nourish (a docility like that of) the cow, and there will be good fortune.
 
@@ -44,7 +44,7 @@ Let (its subject) also nourish (a docility like that of) the cow, and there will
 
 > Matching Line 5 in Adjacent Hexagram: [**䷜**](e59d8ekan.md#29.5)
 
-###### p. 122
+<a id="p-122"></a>
 
 6.<a name="30.6"></a> The topmost `NINE`, undivided, shows the king employing its subject in his punitive expeditions. Achieving admirable (merit), he breaks (only) the chiefs (of the rebels). Where his prisoners were not their associates, he does not punish. There will be no error.
 
@@ -54,8 +54,8 @@ Let (its subject) also nourish (a docility like that of) the cow, and there will
 
 ## Notes
 
-<sub>[p. 121](#p-121)</sub> **Lí ䷝** is the name of the trigram representing fire and light, and the sun as the source of both of these. Its virtue or attribute is brightness,
-and by a natural metaphor intelligence. But **Lí ䷝** has also the meaning of inhering in, or adhering to, being attached to. Both these significations occur in connexion with the hexagram, and make it difficult to determine what was the subject of it in the minds of the authors. If we take the whole figure as expressing the subject, we have, as in the treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), 'a double brightness,' a phrase which is understood to denominate the ruler. If we take the two central lines as indicating the subject, we have weakness, dwelling with strength above and below. In either case there are required from the subject a strict adherence to what is correct, and a docile humility. On the second member of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'The nature of the ox is docile, and that of the cow is much more so. The subject of the hexagram adhering closely to <sub>[p. 122](#p-122)</sub> what is correct, he must be able to act in obedience to it, as docile as a cow, and then there will be good fortune.'
+**Lí ䷝** is the name of the trigram representing fire and light, and the sun as the source of both of these. Its virtue or attribute is brightness,
+and by a natural metaphor intelligence. But **Lí ䷝** has also the meaning of inhering in, or adhering to, being attached to. Both these significations occur in connexion with the hexagram, and make it difficult to determine what was the subject of it in the minds of the authors. If we take the whole figure as expressing the subject, we have, as in the treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), 'a double brightness,' a phrase which is understood to denominate the ruler. If we take the two central lines as indicating the subject, we have weakness, dwelling with strength above and below. In either case there are required from the subject a strict adherence to what is correct, and a docile humility. On the second member of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'The nature of the ox is docile, and that of the cow is much more so. The subject of the hexagram adhering closely to [what is correct](#p-122), he must be able to act in obedience to it, as docile as a cow, and then there will be good fortune.'
 
 Line 1 is strong, and at the bottom of the trigram for fire, the nature of which is to ascend. Its subject therefore will move upwards, and is in danger of doing so coarsely and vehemently. But the lowest line has hardly entered into the action of the figure, and this consideration operates to make him reverently careful of his movements; and there is no error.
 
