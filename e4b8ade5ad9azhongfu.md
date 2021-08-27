@@ -4,13 +4,13 @@
 
 > Chinese: 中孚 ䷼ zhōng fú
 
-###### p. 199
+<a id="p-199"/>
 
-<img src="shapes/61.10.jpg" width=160 alt="中孚">
+<img src="shapes/61.10.jpg" width="160" alt="中孚"/>
 
 **Zhōng Fú ䷼** (moves even) pigs and fish, and leads to good fortune. There will be advantage in crossing the great stream. There will be advantage in being firm and correct.
 
-###### p. 200
+<a id="p-200"/>
 
 1.<a name="61.1"></a> The first `NINE`, undivided, shows its subject resting (in himself). There will be good fortune. If he sought to any other, he would not find rest.
 
