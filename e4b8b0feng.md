@@ -4,9 +4,9 @@
 
 > Chinese: 丰 ䷶ fēng
 
-###### p. 183
+<a id="p-183"></a>
 
-<img src="shapes/55.10.jpg" width=160 alt="丰">
+<img src="shapes/55.10.jpg" width="160" alt="丰">
 
 **Fēng ䷶** intimates progress and development. When a king has reached the point (which the name denotes) there is no occasion to be anxious (through fear of a change). Let him be as the sun at noon.
 
@@ -28,7 +28,7 @@
 
 > Matching Line 3 in Adjacent Hexagram: [**䷷**](e69785lv.md#56.3)
 
-###### p. 184
+<a id="p-184"></a>
 
 4.<a name="55.4"></a> The fourth `NINE`, undivided, shows its subject in a tent so large and thick that at midday he can see from it the constellation of the [Bushel](https://everything2.com/title/Northern+Bushel). But he meets with the subject of the (first) line, undivided like himself. There will be good fortune.
 
@@ -48,7 +48,7 @@
 
 > Matching Line 6 in Adjacent Hexagram: [**䷷**](e69785lv.md#56.6)
 
-###### p. 185
+<a id="p-185"></a>
 
 ## Notes
 
