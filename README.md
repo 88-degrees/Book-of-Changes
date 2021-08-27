@@ -1,6 +1,6 @@
 # Book of Changes
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U5N28P765VRT4)
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/1PktBJq5kBuoUdrhBUc5DF9aygoVL1YfnE)](https://en.cryptobadges.io/donate/1PktBJq5kBuoUdrhBUc5DF9aygoVL1YfnE)
 
 As `Classic of Changes` or `Book of Changes`, is an ancient Chinese divination text and the oldest of the Chinese classics. Possessing a history of more than two and a half millennia of commentary and interpretation, the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) is an influential text read throughout the world.
 
