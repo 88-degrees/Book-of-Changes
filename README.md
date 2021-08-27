@@ -17,6 +17,28 @@ Read the HEXAGRAM from bottom to top.
 For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
 
 ![Yì Gloabl](shapes/yi-global.gif)
+
+| ☷ | ☶ | ☵ | ☴ | ☳ | ☲ | ☱ | ☰ | ∞ |
+|---|---|---|---|---|---|---|---|---|
+| [䷁](0.0.md) | [䷖](0.1.md) | [䷇](0.2.md) | [䷓](0.3.md) | [䷏](0.4.md) | [䷢](0.5.md) | [䷬](0.6.md) | [䷋](0.7.md) | ☷ |
+| [䷎](1.0.md) | [䷳](1.1.md) | [䷦](1.2.md) | [䷴](1.3.md) | [䷽](1.4.md) | [䷷](1.5.md) | [䷞](1.6.md) | [䷠](1.7.md) | ☶ |
+| [䷆](2.0.md) | [䷃](2.1.md) | [䷜](2.2.md) | [䷺](2.3.md) | [䷧](2.4.md) | [䷿](2.5.md) | [䷮](2.6.md) | [䷅](2.7.md) | ☵ |
+| [䷭](3.0.md) | [䷑](3.1.md) | [䷯](3.2.md) | [䷸](3.3.md) | [䷟](3.4.md) | [䷱](3.5.md) | [䷛](3.6.md) | [䷫](3.7.md) | ☴ |
+| [䷗](4.0.md) | [䷚](4.1.md) | [䷂](4.2.md) | [䷩](4.3.md) | [䷲](4.4.md) | [䷔](4.5.md) | [䷐](4.6.md) | [䷘](4.7.md) | ☳ |
+| [䷣](5.0.md) | [䷕](5.1.md) | [䷾](5.2.md) | [䷤](5.3.md) | [䷶](5.4.md) | [䷝](5.5.md) | [䷰](5.6.md) | [䷌](5.7.md) | ☲ |
+| [䷒](6.0.md) | [䷨](6.1.md) | [䷻](6.2.md) | [䷼](6.3.md) | [䷵](6.4.md) | [䷥](6.5.md) | [䷹](6.6.md) | [䷉](6.7.md) | ☱ |
+| [䷊](7.0.md) | [䷙](7.1.md) | [䷄](7.2.md) | [䷈](7.3.md) | [䷡](7.4.md) | [䷍](7.5.md) | [䷪](7.6.md) | [䷀](7.7.md) | ☰ |
+
+|  | Nature | Feature | Body | Animal |  | 
+|---| :-: | :--: | :--: | :--: | :-: | 
+| ☷ | Earth | Receptive | Belly | Bull | Earth |
+| ☶ | Mountain | Still | Hand | Dog | Earth |
+| ☵ | Water | Sinking | Ear | Cattle | Water |
+| ☴ | Wind | Pneumatic | Thigh | Rooster | Wood |
+| ☳ | Thunder | Arousing | Foot | Dragon | Wood |
+| ☲ | Fire | Clinging | Eye | Pheasant | Fire |
+| ☱ | Marsh | Pleasing | Mouth | Ram | Metal |
+| ☰ | Heaven | Bouncing | Head | Horse | Metal |
  
 | * | * | * | * | * | * | * | * | * | * |
 | - | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | - |
