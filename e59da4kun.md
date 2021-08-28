@@ -4,13 +4,13 @@
 
 > Chinese: kūn 坤 ䷁
 
-###### p. 59
+<a id="p-59"/>
 
 <img src="shapes/02.10.jpg" width="160" alt="坤">
 
 **Kūn ䷁** (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare. When the superior man (here intended) has to make any movement, if he take the initiative, he will go astray; if he follow, he will find his (proper) lord. The advantageousness will be seen in his getting friends in the south-west, and losing friends in the north-east. If he rest in correctness and firmness, there will be good fortune.
 
-###### p. 60
+<a id="p-60"/>
 
 1.<a name="2.1"></name> In the first `SIX`, divided, (we see its subject) treading on hoarfrost. The strong ice will come (by and by).
 
@@ -42,7 +42,7 @@
 
 > Matching Line 5 in Adjacent Hexagram: [**䷀**](e4b9beqian.md#1.5)
 
-###### p. 61
+<a id="p-61"/>
 
 6.<a name="2.6"></name> The sixth `SIX`, divided (shows) dragons fighting in the wild. Their blood is purple and yellow.
 
@@ -62,6 +62,6 @@ That superior man will seek to bring his friends along with himself to serve his
 
 The symbolism of the lines is various. Paragraph 2 presents to us the earth itself, according to the Chinese conception of it, as a great cube. To keep his excellence under restraint, as in paragraph 3, is the part of a minister or officer, seeking not his own glory, but that of his ruler. Paragraph 4 shows its subject exercising a still greater restraint on himself than in paragraph 3. There is an interpretation of the symbolism of paragraph 5 in a narrative of the [Zuǒ Zhuàn](https://en.wikipedia.org/wiki/Zuo_zhuan), under the 12th year of duke [Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou), B.C. 530. 'Yellow' is one of the five 'correct' colours, and the colour of the earth. 'The lower garment' is a symbol of humility. The fifth line is the seat of honour. If its occupant possess the qualities indicated, he will be greatly fortunate.
 
-See the note on the [sixth line of hexagram 1, ䷀](e4b9beqian.md#1.6). What is there said to be 'beyond the proper limits' takes place here 'in the wild.' The humble subject of the divided line is transformed into a <sub>[p. 62](e5b1afzhun.md#p-62)</sub> dragon, and fights with the true dragon, the subject of the undivided line. They fight and bleed, and their blood is of the colour proper to heaven or the sky, and the colour proper to the earth. Paragraph 7 supposes that the hexagram **Kūn ䷁** should become changed into [**Qián ䷀**](e4b9beqian.md) -- the result of which would be good.
+See the note on the [sixth line of hexagram 1, ䷀](e4b9beqian.md#1.6). What is there said to be 'beyond the proper limits' takes place here 'in the wild.' The humble subject of the divided line is [transformed into a dragon](e5b1afzhun.md#p-62), and fights with the true dragon, the subject of the undivided line. They fight and bleed, and their blood is of the colour proper to heaven or the sky, and the colour proper to the earth. Paragraph 7 supposes that the hexagram **Kūn ䷁** should become changed into [**Qián ䷀**](e4b9beqian.md) -- the result of which would be good.
 
 # [坤 ䷁](e59da4kun_cn.md)
