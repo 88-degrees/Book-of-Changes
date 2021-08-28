@@ -96,11 +96,9 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 5. 'With the firm correctness of the count of [Qì](https://en.wiktionary.org/wiki/气),' his brightness could not be (quite) extinguished.
 
-6. 'He had at first ascended to (the top of) the sky:' -- he might have enlightened the four quarters
-
 <a id="p-312"></a>
 
-of the kingdom. 'His future shall be to go into the earth:' -- he has failed to fulfil the model (of a ruler).
+6. 'He had at first ascended to (the top of) the sky:' -- he might have enlightened the four quarters of the kingdom. 'His future shall be to go into the earth:' -- he has failed to fulfil the model (of a ruler).
 
 <a name="fr_226"></a>[XXXVII](#fn_226). (The trigram **☲** representing) fire, and **☴** that for wind coming forth from it, form [**Jiā Rén ䷤**](e5aeb6e4babajiaren.md). The superior man, in accordance with this, orders his words according to (the truth of) things, and his conduct so that it is uniformly consistent.
 
@@ -652,7 +650,7 @@ Paragraph 3. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) ed
 
 From paragraph 5 it appears that what is right will vary in different cases. The lesson of the hexagram is perseverance in what is right in each particular case.
 
-<a name="fn_222"></a>[308:XXXIII](#fr_222) [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says:--'The sky is illimitable; a mountain is high, but has its limits; the union of these is an emblem of retiring.' I do not understand such embleming. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'Below the sky is a mountain. The mountain rises up below the sky, and its height is arrested, while the sky goes up higher and higher, till they come to be apart from each other. In this we have an emblem of retiring and avoiding.' We feel somewhat as <sub>[p. 309](#p-309)</sub> if there were a meaning in this; but, as in many other cases, both the symbolism and its application are but dimly apprehended.
+<a name="fn_222"></a>[308:XXXIII](#fr_222) [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says:--'The sky is illimitable; a mountain is high, but has its limits; the union of these is an emblem of retiring.' I do not understand such embleming. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'Below the sky is a mountain. The mountain rises up below the sky, and its height is arrested, while the sky goes up higher and higher, till they come to be apart from each other. In this we have an emblem of retiring and avoiding.' We feel somewhat as if there were a [meaning in this](#p-309); but, as in many other cases, both the symbolism and its application are but dimly apprehended.
 
 The symbolism of the various lines is sufficiently explained on the Text. Paragraph 5 is but a repetition of the Text without additional explanation.
 
@@ -760,7 +758,7 @@ Paragraph 1. My supplement, 'This describes the arrest of,' is a conclusion from
 
 In the 'Daily Lecture' it is said that the lesson of paragraph 2 is that 'the subject of the line should make the repression of 1 his own exclusive work, and not allow it to pass on to the subject of any of the other lines.' That view is rather different from the one indicated in my supplement.
 
-'His steps have not been drawn into the course of the first <sub>[p. 323](#p-323)</sub> line:' -- we have to supply, land therefore there will be no great error.'
+'His steps have not been drawn into the course of the [first line](#p-323):' -- we have to supply, land therefore there will be no great error.'
 
 Paragraph 4. See what is said on the Text. But that the subject of the line stands alone is owing, it is here implied, to his own impatience. If he could exercise forbearance, he would find a proper opportunity to check the advance of the subject of line 1.
 
@@ -832,9 +830,9 @@ There is no correlation between lines 2 and 3, and thence the subject of 3 will 
 
 [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) finds an unsatisfactory auspice in paragraph 4. Line 4 represents a great minister who should be able to guide all to rest where they ought to be; but he can only keep himself from agitation.
 
-[Yú Fān](https://en.wikipedia.org/wiki/Yu_Fan) (Míng dynasty) says on paragraph 5: -- 'Words should not be uttered rashly. Then, when uttered, they will be found <sub>[p. 333](#p-333)</sub> accordant with principle. But it is only the master of the virtue belonging to the due mean who can attain to this.'
+[Yú Fān](https://en.wikipedia.org/wiki/Yu_Fan) (Míng dynasty) says on paragraph 5: -- 'Words should not be uttered rashly. Then, when uttered, they will be [found accordant with principle](#p-333). But it is only the master of the virtue belonging to the due mean who can attain to this.'
 
-<a name="fn_242"></a>[333:LIII](#fr_242) The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, to bring out the suitability of the Great Symbolism and its application, say: -- 'A tree springing up on the ground is a tree as it begins to grow. A tree on a hill is high and large. Every tree when it begins to grow, shows its <sub>[p. 334](#p-334)</sub> branches and twigs gradually becoming long. Every morning and every evening show some difference; and when the tree is high and great, whether it be of an ordinary or extraordinary size, it has taken years to reach its dimensions. This illustrates the difference between the advance in [**Shēng ䷭**](e58d87sheng.md) (46) and that in [**Jiàn ䷴**](e6b890jian.md). Then the maintenance of extraordinary virtue in the application and the improvement of manners is a gradual process. The improvement of the manners, moreover, flows from the maintenance of the extraordinary virtue; which implies also a gradual operation and progress.'
+<a name="fn_242"></a>[333:LIII](#fr_242) The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, to bring out the suitability of the Great Symbolism and its application, say: -- 'A tree springing up on the ground is a tree as it begins to grow. A tree on a hill is high and large. Every tree when it begins to grow, shows its [branches and twigs](#p-334) gradually becoming long. Every morning and every evening show some difference; and when the tree is high and great, whether it be of an ordinary or extraordinary size, it has taken years to reach its dimensions. This illustrates the difference between the advance in [**Shēng ䷭**](e58d87sheng.md) (46) and that in [**Jiàn ䷴**](e6b890jian.md). Then the maintenance of extraordinary virtue in the application and the improvement of manners is a gradual process. The improvement of the manners, moreover, flows from the maintenance of the extraordinary virtue; which implies also a gradual operation and progress.'
 
 Paragraph 1. The danger is the result of circumstances; the small officer has not brought it on himself.
 
@@ -858,9 +856,7 @@ The addition to the Text of 1 the purpose' in paragraph 4 is to show that the pu
 
 I hardly understand the conclusion of paragraph 1. My translation of it is according to the view of [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), if I rightly understand that.
 
-Paragraph 2. It is by such sincerity that the mind is affected, -- that is, the mind of the ruler occupying line 5.
-
-###### p. 337
+[Paragraph 2](#p-337). It is by such sincerity that the mind is affected, -- that is, the mind of the ruler occupying line 5.
 
 Line 3 has a correlate in 6, which is weak, and as it were out of the game. The light in 3 moreover is hidden. Hence the symbolism; and through the blindness of its subject his hurt, which unfits him to be employed.
 
@@ -888,19 +884,15 @@ Paragraph 2 seems to say that the sincerity of purpose indicated by the central 
 
 'The will is exhausted' in paragraph 3 intimates that 'the repeated efforts' made by its subject have exhausted him. He can now only regret his failures.
 
-###### p. 340
-
-What is said in paragraph 6 proceeds on a different view of the Text from that which I have followed.
+[What is said in paragraph 6](#p-340) proceeds on a different view of the Text from that which I have followed.
 
 <a name="fn_247"></a>[340:LVIII](#fr_247) The application of the Great Symbolism here will recall to many readers the [Hebrew maxims in Proverbs xxvii. 17, 19](https://www.google.com/books/edition/Ancient_Jewish_Proverbs/i7JIAQAAMAAJ?hl=en&gbpv=1&pg=PA34). The sentiment of it, however, does not readily fit in to the teaching of the hexagram as set forth in the Text.
 
 There is nothing in the conduct of the subject of line 1 to awaken suspicion. He has as yet taken no action; but it was not necessary to say anything like this about the subject of line 2, his central position being an assurance that he would never do anything of a doubtful character.
 
-###### p. 314
-
 Line 3 should be strong, and the desire of pleasure which is the idea of the hexagram leads its weak subject to the course which is so emphatically condemned.
 
-Paragraph 5 is incomplete. Does the correctness and appropriateness of the position of the subject of the line afford any explanation of his trusting the subject of the weak line above, who would only injure him? It ought to keep him on the contrary from doing so. The commentators have seen this, and say that the paragraph is intended by way of caution.
+[Paragraph 5](#p-313) is incomplete. Does the correctness and appropriateness of the position of the subject of the line afford any explanation of his trusting the subject of the weak line above, who would only injure him? It ought to keep him on the contrary from doing so. The commentators have seen this, and say that the paragraph is intended by way of caution.
 
 The action of the hexagram should culminate and end in line 5. But the subject of it has not made brilliant attainment in the firmness and correctness by which the love of pleasure should be controlled.
 
