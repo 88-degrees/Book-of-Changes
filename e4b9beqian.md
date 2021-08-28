@@ -4,7 +4,7 @@
 
 > Chinese: 乾 ䷀ qián
 
-###### p. 57
+<a id="p-57"/>
 
 <img src="shapes/01.10.jpg" width=160 alt="乾">
 
@@ -40,7 +40,7 @@
 
 > Matching Line 5 in Adjacent Hexagram: [**䷁**](e59da4kun.md#2.5)
 
-###### p. 58
+<a id="p-58"/>
 
 6.<a name="1.6"></a> In the sixth (or topmost) `NINE`, undivided, (we see its subject as) the dragon exceeding the proper limits. There will be occasion for repentance.
 
@@ -64,7 +64,7 @@ Does [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) ascribe four at
 
 'The dragon' is the symbol employed by the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou) to represent 'the superior man' and especially 'the great man,' exhibiting the virtues or attributes characteristic of heaven. The creature's. proper home is in the water, but it can disport itself on the land, and also fly and soar aloft. It has been from the earliest time the emblem with the Chinese of the highest dignity and wisdom, of sovereignty and sagehood, the combination of which constitutes 'the great man.' One emblem runs through the lines of many of the hexagrams as here.
 
-But the dragon appears in the sixth line as going beyond the proper limits. The ruling-sage has gone through all the sphere in which he is called on to display his attributes; it is time for him to relax. The line should not be always pulled tight; the bow should not be always kept drawn. The unchanging use <sub>[p. 60](e59da4kun.md#p-60)</sub> of force will give occasion for repentance. The moral meaning found in the line is that 'the high shall be abased.'
+But the dragon appears in the sixth line as going beyond the proper limits. The ruling-sage has gone through all the sphere in which he is called on to display his attributes; it is time for him to relax. The line should not be always pulled tight; the bow should not be always kept drawn. The unchanging [use of force](e59da4kun.md#p-60) will give occasion for repentance. The moral meaning found in the line is that 'the high shall be abased.'
 
 The meaning given to the supernumerary paragraph is the opposite of that of paragraph 6. The 'host of dragons without their heads' would give us the next hexagram, or [**Kūn ䷁**](e59da4kun.md), made up of six divided lines. Force would have given place to submission, and haughtiness to humility; and the result would be good fortune. Such at least is the interpretation of the paragraph given in a narrative of the [Zuǒ Zhuàn](https://en.wikipedia.org/wiki/Zuo_zhuan) under B. C. 513. For further explanation of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s meaning, see [Appendixes II](appendix02s1.md) and [Appendixes IV](appendix04s1.md).
 
