@@ -1,6 +1,6 @@
 # 乾 ䷀
 
-<img src="shapes/01.10.jpg" width=160 alt="乾" align=left>
+<img src="shapes/01.10.jpg" width="160" alt="乾" align="left">
 
 乾（qián）卦代号是`7:7`，主卦和客卦都是`1`卦乾卦，
 三条爻当位，三条爻不当位，不存在有应关系。卦象是天，特性是强健。
@@ -265,7 +265,7 @@
 特别强调运用阳的强健性质的时候，
 不要忽略其“亢”缺点。
 用九，即首尾交接，天人合一。
-《易经》中，只有两卦是有七个卦辞——乾卦与坤卦。
+《易经》中，只有两卦是有七个卦辞 —— 乾卦与坤卦。
 周文王在乾卦的用九中写道：“见群龙无首，吉。”
 为什么呢？
 一般形容群龙无首，多是贬义词，
@@ -351,7 +351,7 @@
 客方态度是客观存在的条件，
 主方需要适应这个条件约束自己的行为。
 如果主方谨慎从事，为龙而不亢，则不致有悔。
-“亢”(kàng)，高，高傲：高亢。
+“亢”（kàng），高，高傲：高亢。
 
 〖结构分析〗第六爻位置是阴位，
 这条爻是阳爻，阳爻在阴位，
@@ -1085,7 +1085,7 @@
 
 ### 初九变卦：乾为天 变卦 天风姤
 
-<img src="shapes/01.01.png" align=left>
+<img src="shapes/01.01.png" align="left">
 
 初九爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -1124,7 +1124,7 @@
 
 ### 九二变卦：乾为天 变卦 天火同人
 
-<img src="shapes/01.02.png" align=left>
+<img src="shapes/01.02.png" align="left">
 
 九二爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -1162,7 +1162,7 @@
 
 ### 九三变卦 乾为天 变卦 天泽履
 
-<img src="shapes/01.03.png" align=left>
+<img src="shapes/01.03.png" align="left">
 
 九三爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -1202,7 +1202,7 @@
 
 ### 九四变卦 乾为天 变卦 风天小畜
 
-<img src="shapes/01.04.png" align=left>
+<img src="shapes/01.04.png" align="left">
 
 九四爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -1238,7 +1238,7 @@
 
 ### 九五变卦：乾为天 变卦 火天大有
 
-<img src="shapes/01.05.png" align=left>
+<img src="shapes/01.05.png" align="left">
 
 九五爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -1274,7 +1274,7 @@
 
 ### 上九变卦：乾为天 变卦 泽天夬
 
-<img src="shapes/01.06.png" align=left>
+<img src="shapes/01.06.png" align="left">
 
 上九爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 

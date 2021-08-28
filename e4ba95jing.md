@@ -4,13 +4,13 @@
 
 > Chinese: 井 ䷯ jǐng
 
-###### p. 164
+<a id="p-164"/>
 
 <img src="shapes/48.10.jpg" width=160 alt="井">
 
 (Looking at) **Jǐng ䷯**, (we think of) how (the site of) a town may be changed, while (the fashion of) its wells undergoes no change. (The water of a well) never disappears and never receives (any great) increase, and those who come and those who go can draw and enjoy the benefit. If (the drawing) have nearly been accomplished, but, before the rope has quite reached the water, the bucket is broken, this is evil.
 
-###### p. 165
+<a id="p-165"/>
 
 1.<a name="48.1"></a> The first `SIX`, divided, shows a well so muddy that men will not drink of it; or an old well to which neither birds (nor other creatures) resort.
 
@@ -30,7 +30,7 @@
 
 > Matching Line 3 in Adjacent Hexagram: [**䷮**](e59bb0kun.md#47.3)
 
-###### p. 166
+<a id="p-166"/>
 
 4.<a name="48.4"></a> The fourth `SIX`, divided, shows a well, the lining of which is well laid. There will be no error.
 
