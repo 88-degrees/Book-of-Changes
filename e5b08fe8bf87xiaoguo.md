@@ -4,13 +4,13 @@
 
 > Chinese: 小过 ䷽ xiǎo guò
 
-###### p. 201
+<a id="p-201"/>
 
 <img src="shapes/62.10.jpg" width=160 alt="小过">
 
 **Xiǎo Guò ䷽** indicates that (in the circumstances which it implies) there will be progress and attainment. But it will be advantageous to be firm and correct. (What the name denotes) may be done in small affairs, but not in great affairs. (It is like) the notes that come down from a bird on the wing; -- to descend is better than to ascend. There will (in this way) be great good fortune.
 
-###### p. 202
+<a id="p-202"/>
 
 1.<a name="62.1"></a> The first `SIX`, divided, suggests (the idea of) a bird flying, (and ascending) till the issue is evil.
 
@@ -24,7 +24,7 @@
 
 > Matching Line 2 in Adjacent Hexagram: [**䷼**](e4b8ade5ad9azhongfu.md#61.2)
 
-###### p. 203
+<a id="p-203"/>
 
 3.<a name="62.3"></a> The third `NINE`, undivided, shows its subject taking no extraordinary precautions against danger; and some in consequence finding opportunity to assail and injure him. There will be evil.
 
@@ -63,12 +63,14 @@ belonging to the trigram Kăn, the attribute of which is movement. There is noth
 rather it is stimulated; and hence the symbolism.
 
 Line 2 is weak, but in its proper place, and in the centre. Its correlate is 5, which is also a weak line.
+
 The lines 3 and 4 between them are both strong; and are supposed to represent the father and grandfather of the subject of 2;
 but he or she goes past them, and meets with the grandmother in 5. Again, 5 is the ruler's seat.
 The subject of 2 moves on to him, but not as an enemy; but humbly and loyally, as his minister according to the attributes of a weak line in the central place.
 It must be allowed that this view of the symbolism and its interpretation is obscure and strained.
 
 The subject of line 3 is too confident in his own strength, and too defiant of the weak and small enemies that seek his hurt.
+
 Line 4 is also strong, but the exercise of his strength by its subject is tempered by the position in an even place.
 He is warned, however, to continue quiet and restrain himself.
 

@@ -1,6 +1,6 @@
 # 小畜 ䷈
 
-<img src="shapes/09.10.jpg" width=160 alt="小畜" align=left>
+<img src="shapes/09.10.jpg" width="160" alt="小畜" align="left">
 
 小畜（xiǎo xù）是`7:3`卦的卦名，`7:3`是小畜卦的代号。
 
