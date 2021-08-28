@@ -4,7 +4,7 @@
 
 > Chinese: kǎn 坎 ䷜
 
-###### p. 118
+<a id="p-118"/>
 
 <img src="shapes/29.10.jpg" width="160" alt="坎">
 
@@ -22,7 +22,7 @@
 
 > Matching Line 2 in Adjacent Hexagram: [**䷝**](e7a6bbli.md#30.2)
 
-###### p. 119
+<a id="p-119"/>
 
 3.<a name="29.3"></a> The third `SIX`, divided, shows its subject, whether he comes or goes ( =descends or ascends), confronted by a defile. All is peril to him and unrest. (His endeavours) will lead him into the cavern of the pit. There should be no action (in such a case).
 
@@ -54,7 +54,7 @@ The trigram **Kǎn ䷜**, which is doubled to form this hexagram, is the lineal 
 and here and elsewhere in the [**Yì**](https://en.wikipedia.org/wiki/I_Ching) it leads the reader to think of a dangerous defile, with water flowing through it.
 It becomes symbolic of danger, and what the authors of the Text had in mind was to show how danger should be encountered, its effect on the mind, and how to get out of it.
 
-The trigram exhibits a strong central line, between two divided lines. The central represented to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) the sincere honesty and goodness of the subject of the hexagram, whose mind was sharpened and made penetrating by contact with danger, and who p. 120 acted in a manner worthy of his character. It is implied, though the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) does not say it, that he would get out of the danger,
+The trigram exhibits a strong central line, between two divided lines. The central represented to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) the sincere honesty and goodness of the subject of the hexagram, whose mind was sharpened and made penetrating by contact with danger, and [who](e7a6bbli.md#p-120) acted in a manner worthy of his character. It is implied, though the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) does not say it, that he would get out of the danger,
 
 Line 1 is weak, at the bottom of the figure, and has no correlate above, no helper, that is, beyond itself. All these things render the case of its subject hopeless. He will by his efforts only involve himself more deeply in danger.
 
