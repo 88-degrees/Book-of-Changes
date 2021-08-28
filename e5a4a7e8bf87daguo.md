@@ -4,7 +4,7 @@
 
 > Chinese: 大过 ䷛ dà guò
 
-###### p. 116
+<a id="p-116"/>
 
 <img src="shapes/28.10.jpg" width=160 alt="大过">
 
@@ -16,7 +16,7 @@
 
 > Matching Line 1 in Adjacent Hexagram: [**䷚**](e9a290yi.md#27.1)
 
-###### p. 117
+<a id="p-117"/>
 
 2.<a name="28.2"></a> The second `NINE`, undivided, shows a decayed willow producing shoots, or an old husband in possession of his young wife. There will be advantage in every way.
 
@@ -56,7 +56,7 @@ Looking at the figure we see two weak lines at the top and bottom, and four stro
 
 Line 1 being weak, and at the bottom of the figure, and of the trigram Sun, which denotes flexibility and humility, its subject is distinguished by his carefulness, as in the matter mentioned; and there is a good auspice.
 
-Line 2 has no proper correlate above. Hence he inclines to the weak 1 below him; and we have the symbolism of the line. An <sub>[p. 118](e59d8ekan.md#p-118)</sub> old husband with a young wife will yet have children; the action of the subject of 2 will be successful.
+Line 2 has no proper correlate above. Hence he inclines to the weak 1 below him; and we have the symbolism of the line. [An old husband with a young wife](e59d8ekan.md#p-118) will yet have children; the action of the subject of 2 will be successful.
 
 Line 3 is strong, and in an odd place. Its subject is confident in his own strength, but his correlate in 6 is weak. Alone, he is unequal to the extraordinary strain on him, and has for his symbol the weak beam.
 
