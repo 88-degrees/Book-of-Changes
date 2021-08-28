@@ -4,7 +4,7 @@
 
 > Chinese: 鼑 ䷱ dǐng
 
-###### p. 169
+<a id="p-169"/>
 
 <img src="shapes/50.10.jpg" width="160" alt="鼎">
 
@@ -16,7 +16,7 @@
 
 > Matching Line 1 in Adjacent Hexagram: [**䷰**](e99da9ge.md#49.1)
 
-###### p. 170
+<a id="p-170"/>
 
 2.<a name="50.2"></a> The second `NINE`, undivided, shows the caldron with the things (to be cooked) in it. (If its subject can say), 'My enemy dislikes me, but he cannot approach me,' there will be good fortune.
 
@@ -36,7 +36,7 @@
 
 > Matching Line 4 in Adjacent Hexagram: [**䷰**](e99da9ge.md#49.4)
 
-###### p. 171
+<a id="p-171"/>
 
 5.<a name="50.5"></a> The fifth six, divided, shows the caldron with yellow ears and rings of metal in them. There will be advantage through being firm and correct.
 
@@ -56,7 +56,7 @@
 
 **Dǐng ䷱** and [**Jǐng ䷯**](e4ba95jing.md) (hexagram 48) are the only two hexagrams named from things in ordinary use with men; and they are both descriptive of the government's work of nourishing. There are three hexagrams of which that is the theme, [**Yí ䷩**](e9a290yi.md) (hexagram 27), under which we are told in [Appendix I](appendix01s1.md#fn_151) that 'the sages nourished men of worth, by means of them to reach to the myriads of the people.' [**Jǐng ䷯**](e4ba95jing.md) treats of the nourishment of the people generally by the government through its agricultural and other methods; Ting treats of the nourishment of men of talents and virtue; and that being understood, it is said, without more ado, that it 'intimates great progress and success.' The Text that follows, however, is more difficult to interpret than that of [**Jǐng ䷯**](e4ba95jing.md).
 
-Line 1 is weak, and little or nothing can be expected from its subject. But it has a proper correlate in the strong 4; and the disastrous overthrow, causing the feet to be directed towards 4, is understood to be lucky, as accelerating the co-operation of their two lines! The overturned caldron is thereby emptied of bad stuff that had accumulated in it!! The writer uses another illustration, which comes to the same thing. A concubine is less honourable than a wife, -- like the overthrown caldron. But if she have a son, <sub>[p. 172](e99c87zhen.md#p-172)</sub> while the proper wife has none, he will be his father's heir, and the mother, the concubine, will share in the honour of his position. Thus the issue of what was so unpromising is good. At least 'there is no mistake.' The above is what is found in the best commentaries on the paragraph. I give it, but am myself dissatisfied with it.
+Line 1 is weak, and little or nothing can be expected from its subject. But it has a proper correlate in the strong 4; and the disastrous overthrow, causing the feet to be directed towards 4, is understood to be lucky, as accelerating the co-operation of their two lines! The overturned caldron is thereby emptied of bad stuff that had accumulated in it!! The writer uses another illustration, which comes to the same thing. A concubine is less honourable than a wife, -- like the overthrown caldron. But if she have a son, while [the proper wife has none](e99c87zhen.md#p-172), he will be his father's heir, and the mother, the concubine, will share in the honour of his position. Thus the issue of what was so unpromising is good. At least 'there is no mistake.' The above is what is found in the best commentaries on the paragraph. I give it, but am myself dissatisfied with it.
 
 Line 2 is strong. 'The enemy' is the first line, which solicits 1. One, however, is able to resist the solicitation; and the whole paragraph gives a good auspice. The personal pronoun seems to show that the whole was, or was intended to be, understood as an oracular response in divination. This paragraph is rhymed, moreover, as are also 1, 3, and 4.
 
