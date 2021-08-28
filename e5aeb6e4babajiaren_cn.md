@@ -1,6 +1,6 @@
 # 家人 ䷤
 
-<img src="shapes/37.10.jpg" width=160 alt="家人" align=left>
+<img src="shapes/37.10.jpg" width="160" alt="家人" align="left">
 
 家人（jiā rén）卦是别卦，其代号是`5:3`。
 家人卦的主卦是`5`卦离卦，客卦是`3`卦巽卦，主卦和客卦的阳数比是`5:3`。
