@@ -4,14 +4,14 @@
 
 > Chinese: 巽 ䷸ xùn
 
-###### p. 189
+<a id="p-189"/>
 
 <img src="shapes/57.10.jpg" width=160 alt="巽">
 
 **Xùn ䷸** intimates that (under the conditions which it denotes) there will be some little attainment and progress.
 There will be advantage in movement onward in whatever direction. It will be advantageous (also) to see the great man.
 
-###### p. 190
+<a id="p-190"/>
 
 1.<a name="57.1"></a> The first `SIX`, divided, shows its subject (now) advancing, (now) receding. It would be advantageous for him to have the firm correctness of a brave soldier.
 
@@ -43,7 +43,7 @@ There will be advantage in movement onward in whatever direction. It will be adv
 
 > Matching Line 5 in Adjacent Hexagram: [**䷹**](e58591dui.md#58.5)
 
-###### p. 191
+<a id="p-191"/>
 
 6.<a name="57.6"></a> The sixth `NINE`, undivided, shows the representative of penetration beneath a couch, and having lost the axe with which he executed his decisions. However firm and correct he may (try to) be, there will be evil.
 
@@ -57,7 +57,7 @@ With **Xùn ☴** as the fifth of the [Fú-xī](https://en.wikipedia.org/wiki/Fu
 
 Confucius once said ([Analects 12. 19](https://ctext.org/dictionary.pl?if=en&id=1400&remap=gb)): -- 'The relation between superiors and inferiors is like that between the wind and the grass. The grass must bend when the wind blows upon it.' In accordance with this, the subject of the hexagram must be understood as the influence and orders of government designed to remedy what is wrong in the people. The 'Daily Lecture' says that the upper trigram ☴ denotes the orders issuing from the ruler, and the lower ☴ the obedience rendered to them by the people; but this view is hardly borne out by the Text.
 
-But how is it that the figure represents merely 'some little attainment?' This is generally explained by taking the first line of the trigram as indicating what the subject of it can do. But over the weak first line are two strong lines, so that its subject can accomplish but little. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, rejecting this view, contend that, the idea of the whole figure being penetration, line 1, the symbol of weakness and what is bad, will not be able to offer much resistance to the subjects of the other lines, which will enter and dispel its influence. They illustrate this from processes of nature, education, and politics; the effect they say is described as small, because the process is not to revolutionise or renew, but only to <sub>[p. 192](e58591dui.md#p-192)</sub> correct and improve. Such as it is, however, it requires the operation of the strong and virtuous, 'the great man.' Even all this criticism is not entirely satisfactory.
+But how is it that the figure represents merely 'some little attainment?' This is generally explained by taking the first line of the trigram as indicating what the subject of it can do. But over the weak first line are two strong lines, so that its subject can accomplish but little. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, rejecting this view, contend that, the idea of the whole figure being penetration, line 1, the symbol of weakness and what is bad, will not be able to offer much resistance to the subjects of the other lines, which will enter and dispel its influence. They illustrate this from processes of nature, education, and politics; the effect they say is described as small, because the process is not to revolutionise or renew, but only to [correct and improve](e58591dui.md#p-192). Such as it is, however, it requires the operation of the strong and virtuous, 'the great man.' Even all this criticism is not entirely satisfactory.
 
 Line 1 is weak, where it should be strong. The movements of its subject are expressive of perplexity. He wants vigour and decision.
 
