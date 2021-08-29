@@ -4,7 +4,7 @@
 
 > Chinese: 革 ䷰ gé
 
-###### p. 167
+<a id="p-167"/>
 
 <img src="shapes/49.10.jpg" width=160 alt="革">
 
@@ -16,7 +16,7 @@
 
 > Matching Line 1 in Adjacent Hexagram: [**䷱**](e9bc8eding.md#50.1)
 
-###### p. 168
+<a id="p-168"/>
 
 2.<a name="49.2"></a> The second `SIX`, divided, shows its subject making his changes after some time has passed. Action taken will be fortunate. There will be no error.
 

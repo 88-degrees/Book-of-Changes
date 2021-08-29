@@ -4,13 +4,13 @@
 
 > Chinese: 贲 ䷕ bì
 
-###### p. 103
+<a id="p-103"/>
 
 <img src="shapes/22.10.jpg" width="160" alt="贲">
 
 **Bì ䷕** indicates that there should be free course (in what it denotes). There will be little advantage (however) if it be allowed to advance (and take the lead).
 
-###### p. 104
+<a id="p-104"/>
 
 1.<a name="22.1"></a> The first `NINE`, undivided, shows one adorning (the way of) his feet. He can discard a carriage and walk on foot.
 

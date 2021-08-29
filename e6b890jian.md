@@ -4,7 +4,7 @@
 
 > Chinese: 渐 ䷴ jiàn
 
-###### p. 178
+<a id="p-178"/>
 
 <img src="shapes/53.10.jpg" width=160 alt="渐">
 
@@ -16,7 +16,7 @@
 
 > Matching Line 1 in Adjacent Hexagram: [**䷵**](e5bd92e5a6b9guimei.md#54.1)
 
-###### p. 179
+<a id="p-179"/>
 
 2.<a name="53.2"></a> The second `SIX`, divided, shows the geese gradually approaching the large rocks, where they eat and drink joyfully and at ease. There will be good fortune.
 

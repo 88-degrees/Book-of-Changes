@@ -20,7 +20,7 @@
 
 > Matching Line 2 in Adjacent Hexagram: [**䷕**](e8b4b2bi.md#22.2)
 
-###### p. 102
+<a id="p-102"/>
 
 3.<a name="21.3"></a> The third `SIX`, divided, shows one gnawing dried flesh, and meeting with what is disagreeable. There will be occasion for some small regret, but no (great) error.
 

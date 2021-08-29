@@ -4,7 +4,7 @@
 
 > Chinese: 咸 ䷞ xián
 
-###### p. 123
+<a id="p-123"/>
 
 <img src="shapes/31.10.jpg" width=160 alt="咸">
 
@@ -37,7 +37,7 @@ Its advantageousness will depend on the being firm and correct, (as) in marrying
 
 5.<a name="31.5"></a> The fifth `NINE`, undivided, shows one moving the flesh along the spine above the heart. There will be no occasion for repentance.
 
-###### p. 124
+<a id="p-124"/>
 
 > **䷞** changing to [**䷽**](e5b08fe8bf87xiaoguo.md)
 

@@ -4,7 +4,7 @@
 
 > Chinese: 蛊 ䷑ gǔ
 
-###### p. 95
+<a id="p-95"/>
 
 <img src="shapes/18.10.jpg" width="160" alt="蛊">
 
@@ -30,7 +30,7 @@
 
 4.<a name="18.4"></a> The fourth `SIX`, divided, shows (a son) viewing indulgently the troubles caused by his father. If he go forward, he will find cause to regret it.
 
-###### p. 96
+<a id="p-96"/>
 
 > **䷑** changing to [**䷱**](e9bc8eding.md)
 

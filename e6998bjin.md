@@ -4,13 +4,13 @@
 
 > Chinese: 晋 ䷢ jìn
 
-###### p. 131
+<a id="p-131"/>
 
 <img src="shapes/35.10.jpg" width=160 alt="晋">
 
 In **Jìn ䷢** we see a prince who secures the tranquillity (of the people) presented on that account with numerous horses (by the king), and three times in a day received at interviews.
 
-###### p. 132
+<a id="p-132"/>
 
 1.<a name="35.1"></a> The first `SIX`, divided, shows one wishing to advance, and (at the same time) kept back. Let him be firm and correct, and there will be good fortune. If trust be not reposed in him, let him maintain a large and generous mind, and there will be no error.
 

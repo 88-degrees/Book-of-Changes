@@ -4,13 +4,13 @@
 
 > Chinese: 艮 ䷳ gèn
 
-###### p. 175
+<a id="p-175"/>
 
 <img src="shapes/52.10.jpg" width=160 alt="艮">
 
 When one's resting is like that of the back, and he loses all consciousness of self; when he walks in his courtyard, and does not see any (of the persons) in it, -- there will be no error.
 
-###### p. 176
+<a id="p-176"/>
 
 1.<a name="52.1"></a> The first `SIX`, divided, shows its subject keeping his toes at rest. There will be no error; but it will be advantageous for him to be persistently firm and correct.
 
@@ -48,7 +48,7 @@ When one's resting is like that of the back, and he loses all consciousness of s
 
 > Matching Line 6 in Adjacent Hexagram: [**䷲**](e99c87zhen.md#51.6)
 
-###### p. 177
+<a id="p-177"/>
 
 ## Notes
 

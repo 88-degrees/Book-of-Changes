@@ -4,14 +4,14 @@
 
 > Chinese: 观 ䷓ guān
 
-###### p. 99
+<a id="p-99"/>
 
 <img src="shapes/20.10.jpg" width="160" alt="观">
 
 **Guān ䷓** shows (how he whom it represents should be like) the worshipper who has washed his hands,
 but not (yet) presented his offerings; -- with sincerity and an appearance of dignity (commanding reverent regard).
 
-###### p. 100
+<a id="p-100"/>
 
 1.<a name="20.1"></a> The first `SIX`, divided, shows the looking of a lad; -- not blamable in men of inferior rank, but matter for regret in superior men.
 
@@ -49,7 +49,7 @@ but not (yet) presented his offerings; -- with sincerity and an appearance of di
 
 > Matching Line 6 in Adjacent Hexagram: [**䷒**](e4b8b4lin.md#19.6)
 
-###### p. 101
+<a id="p-101"/>
 
 ## Notes
 

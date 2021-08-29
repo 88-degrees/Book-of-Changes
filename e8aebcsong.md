@@ -4,7 +4,7 @@
 
 > Chinese: 讼 ䷅ sòng
 
-###### p. 69
+<a id="p-69"/>
 
 <img src="shapes/06.10.jpg" width="160" alt="讼">
 
@@ -26,7 +26,7 @@ there will be good fortune, while, if he must prosecute the contention to the (b
 
 3.<a name="6.3"></name> The third `SIX`, divided, shows its subject keeping in the old place assigned for his support, and firmly correct. Perilous as the position is, there will be good fortune in the end. Should he perchance engage in the king's business, he will not (claim the merit of) achievement.
 
-###### p. 70
+<a id="p-70"/>
 
 > **䷅** changing to [**䷫**](e5a7a4gou.md)
 

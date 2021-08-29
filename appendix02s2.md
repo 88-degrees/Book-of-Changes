@@ -30,11 +30,11 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 4. (Going) for long to what is not his proper place, how can he get game?
 
+<a id="p-308"></a>
+
 5. 'Such firm correctness in a wife will be fortunate:' -- it is hers to the end of life to follow with an unchanged mind. The husband must decide what is right, and lay down the rule accordingly: -- for him to follow (like) a wife is evil.
 
 6. 'The subject of the topmost line is exciting himself to long continuance:' -- far will he be from achieving merit.
-
-<a id="p-308"></a>
 
 <a name="fr_222"></a>[XXXIII](#fn_222). (The trigram **☰** representing) the sky and below it **☶** that for a mountain form [**Dùn ䷠**](e981afdun.md). The superior man, in accordance with this, keeps small men at a distance, not by showing that he hates them, but by his own. dignified gravity.
 
@@ -646,9 +646,7 @@ Paragraph 2. Line 2 is in the centre of its trigram, and that position, here as 
 
 Paragraph 3. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors make the application here = 'nowhere can he bear (to remain).'
 
-###### p. 308
-
-From paragraph 5 it appears that what is right will vary in different cases. The lesson of the hexagram is perseverance in what is right in each particular case.
+From [paragraph 5](#p-308) it appears that what is right will vary in different cases. The lesson of the hexagram is perseverance in what is right in each particular case.
 
 <a name="fn_222"></a>[308:XXXIII](#fr_222) [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says:--'The sky is illimitable; a mountain is high, but has its limits; the union of these is an emblem of retiring.' I do not understand such embleming. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'Below the sky is a mountain. The mountain rises up below the sky, and its height is arrested, while the sky goes up higher and higher, till they come to be apart from each other. In this we have an emblem of retiring and avoiding.' We feel somewhat as if there were a [meaning in this](#p-309); but, as in many other cases, both the symbolism and its application are but dimly apprehended.
 
@@ -656,9 +654,7 @@ The symbolism of the various lines is sufficiently explained on the Text. Paragr
 
 <a name="fn_223"></a>[309:XXXIV](#fr_223) In illustration of the symbolism of the trigrams here, [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says well: -- 'Thunder rolling above in the sky and making all things shake is the emblem of great power.' In passing on to its application he starts with a beautiful saying of antiquity, that 'the strong man is he who overcomes himself.' That this thought was in the mind of the writer of the paragraph on the Great Symbolism I can well believe; but the analogy between the natural and the moral and spiritual worlds in passing from the phenomenon of thunder to this truth is a thing to be felt, and that can hardly be described.
 
-###### p. 310
-
-Paragraph 1. 'This will lead to exhaustion;' and from that will follow distress and other evils.
+[Paragraph 1](#p-310). 'This will lead to exhaustion;' and from that will follow distress and other evils.
 
 The central position and the due moral mean in paragraph 2 is another instance of the felt analogy referred to above.
 
@@ -786,9 +782,7 @@ Paragraph 6. When one has reached the greatest height, he should think of retiri
 
 <a name="fn_236"></a>[326:XLVII](#fr_236) The first sentence of the Great Symbolism is constructed differently from any which has presented itself in the previous 46 hexagrams. Literally translated, it would be 'a marsh with no water is **Kūn ☷**'; and this might certainly suggest to us a condition of distress. But how does this come out of the trigrams? The upper one is **Duì ☱**, representing a marsh; and the lower is **Kǎn ☵**, representing water in a defile. The collocation of the two suggests the running of the water from the marsh or lake into the stream, which will soon empty the other. Such is the view which occurred to myself; and it is the same as that given by [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi): -- 'The water descending and leaking away, the marsh above will become dry.' The application is good in itself, but the concatenation between it and the Symbolism is hardly discernible.
 
-###### p. 327
-
-So stupid is the subject of line 1 that by his own act he increases his distress.
+So stupid is [the subject of line 1](#p-327) that by his own act he increases his distress.
 
 The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that the 'ground for congratulation in paragraph 2 is the banqueting and sacrificing.' I rather think it is the measure of help, which it is intimated the subject will give in removing the straitness and distress of the time.
 

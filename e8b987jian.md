@@ -4,13 +4,13 @@
 
 > Chinese: 蹇 ䷦ jiǎn
 
-###### p. 141
+<a id="p-141"/>
 
 <img src="shapes/39.10.jpg" width="160" alt="蹇">
 
 In (the state indicated by) **Jiǎn ䷦** advantage will be found in the south-west, and the contrary in the north-east. It will be advantageous (also) to meet with the great man. (In these circumstances), with firmness and correctness, there will be good fortune.
 
-###### p. 142
+<a id="p-142"/>
 
 1.<a name="39.1"></a> From the first `SIX`, divided, we learn that advance (on the part of its subject) will lead to (greater) difficulties, while remaining stationary will afford ground for praise.
 
@@ -42,7 +42,7 @@ In (the state indicated by) **Jiǎn ䷦** advantage will be found in the south-w
 
 > Matching Line 5 in Adjacent Hexagram: [**䷧**](e8a7a3xie.md#40.5)
 
-###### p. 143
+<a id="p-143"/>
 
 6.<a name="39.6"></a> The topmost `SIX`, divided, shows its subject going forward, (only to increase) the difficulties, while his remaining stationary will be (productive of) great (merit). There will be good fortune, and it will be advantageous to meet with the great man.
 

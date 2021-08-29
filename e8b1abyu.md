@@ -4,7 +4,7 @@
 
 > Chinese: 豫 ䷏ yǜ
 
-###### p. 91
+<a id="p-91"/>
 
 <img src="shapes/16.10.jpg" width="160" alt="豫">
 
@@ -30,7 +30,7 @@
 
 4.<a name="16.4"></a> The fourth `NINE`, undivided, shows him from whom the harmony and satisfaction come. Great is the success which he obtains. Let him not allow suspicions to enter his mind, and thus friends will gather around him.
 
-###### p. 92
+<a id="p-92"/>
 
 > **䷏** changing to [**䷁**](e59da4kun.md)
 

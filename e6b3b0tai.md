@@ -4,7 +4,7 @@
 
 > Chinese: 泰 ䷊ tài
 
-###### p. 81
+<a id="p-81"/>
 
 <img src="shapes/11.10.jpg" width=160 alt="泰">
 
@@ -28,7 +28,7 @@ In **Tài ䷊** (we see) the little gone and the great come. (It indicates that)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷋**](e590a6pi.md#12.3)
 
-###### p. 82
+<a id="p-82"/>
 
 4.<a name="11.4"></a> The fourth `SIX`, divided, shows its subject fluttering (down); -- not relying on his own rich resources, but calling in his neighbours. (They all come) not as having received warning, but in the sincerity (of their hearts).
 

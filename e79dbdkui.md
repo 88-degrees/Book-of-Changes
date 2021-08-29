@@ -4,7 +4,7 @@
 
 > Chinese: 睽 ䷥ kuí
 
-###### p. 139
+<a id="p-139"/>
 
 <img src="shapes/38.10.jpg" width="160" alt="暌">
 
@@ -34,7 +34,7 @@
 
 > Matching Line 4 in Adjacent Hexagram: [**䷤**](e5aeb6e4babajiaren.md#37.4)
 
-###### p. 140
+<a id="p-140"/>
 
 5.<a name="38.5"></a> The fifth `SIX`, divided, shows that (to its subject) occasion for repentance will disappear. With his relative (and minister he unites closely and readily) as if he were biting through a piece of skin. When he goes forward (with this help), what error can there be?
 

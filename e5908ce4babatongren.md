@@ -4,7 +4,7 @@
 
 > Chinese: 同人 ䷌ tóng rén
 
-###### p. 86
+<a id="p-86"/>
 
 <img src="shapes/13.10.jpg" width=160 alt="同人">
 
@@ -42,7 +42,7 @@
 
 6.<a name="13.6"></a> The topmost `NINE`, undivided, (shows the representative of) the union of men in the suburbs. There will be no occasion for repentance.
 
-###### p. 87
+<a id="p-87"/>
 
 > **䷌** changing to [**䷰**](e99da9ge.md)
 

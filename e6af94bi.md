@@ -4,13 +4,13 @@
 
 > Chinese: 比 ䷇ bǐ
 
-###### p. 73
+<a id="p-73"/>
 
 <img src="shapes/08.10.jpg" width=160 alt="比">
 
 **Bǐ ䷇** indicates that (under the conditions which it supposes) there is good fortune. But let (the principal party intended in it) re-examine himself, (as if) by divination, whether his virtue be great, unintermitting, and firm. If it be so, there will be no error. Those who have not rest will then come to him; and with those who are (too) late in coming it will be ill.
 
-###### p. 74
+<a id="p-74"/>
 
 1.<a name="8.1"></a> The first `SIX`, divided, shows its subject seeking by his sincerity to win the attachment of his object. There will be no error. Let (the breast) be full of sincerity as an earthenware vessel is of its contents, and it will in the end bring other advantages.
 
@@ -32,7 +32,7 @@
 
 4.<a name="8.4"></a> In the fourth `SIX`, divided, we see its subject seeking for union with the one beyond himself. With firm correctness there will be good fortune.
 
-###### p. 75
+<a id="p-75"/>
 
 > **䷇** changing to [**䷬**](e89083cui.md)
 

@@ -4,7 +4,7 @@
 
 > Chinese: 随 ䷐ suí
 
-###### p. 93
+<a id="p-93"/>
 
 <img src="shapes/17.10.jpg" width="160" alt="随">
 
@@ -34,7 +34,7 @@
 
 > Matching Line 4 in Adjacent Hexagram: [**䷑**](e89b8agu.md#18.4)
 
-###### p. 94
+<a id="p-94"/>
 
 5.<a name="17.5"></a> The fifth `NINE`, undivided, shows us (the ruler) sincere in (fostering all) that is excellent. There will be good fortune.
 

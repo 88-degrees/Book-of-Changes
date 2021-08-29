@@ -4,7 +4,7 @@
 
 > Chinese: 节 ䷻ jié
 
-###### p. 197
+<a id="p-197"/>
 
 <img src="shapes/60.10.jpg" width="160" alt="节">
 
@@ -17,7 +17,7 @@
 
 > Matching Line 1 in Adjacent Hexagram: [**䷺**](e6b6a3huan.md#59.1)
 
-###### p. 198
+<a id="p-198"/>
 
 2.<a name="60.2"></a> The second `NINE`, undivided, shows its subject not quitting the courtyard inside his gate. There will be evil.
 

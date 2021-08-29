@@ -4,13 +4,13 @@
 
 > Chinese: 既济 ䷾ jì jì
 
-###### p. 204
+<a id="p-204"/>
 
 <img src="shapes/63.10.jpg" width=160 alt="既济">
 
 **Jì Jì ䷾** intimates progress and success in small matters. There will be advantage in being firm and correct. There has been good fortune in the beginning; there may be disorder in the end.
 
-###### p. 205
+<a id="p-205"/>
 
 1.<a name="63.1"></a> The first `NINE`, undivided, (shows its subject as a driver) who drags back his wheel, (or as a fox) which has wet his tail. There will be no error.
 
@@ -30,7 +30,7 @@
 
 > Matching Line 3 in Adjacent Hexagram: [**䷿**](e69caae6b58eweiji.md#64.3)
 
-###### p. 206
+<a id="p-206"/>
 
 4.<a name="63.4"></a> The fourth `SIX`, divided, shows its subject with rags provided against any leak (in his boat), and on his guard all day long.
 

@@ -4,7 +4,7 @@
 
 > Chinese: 遯 ䷠ dùn
 
-###### p. 127
+<a id="p-127"/>
 
 <img src="shapes/33.10.jpg" width=160 alt="遯">
 
@@ -12,7 +12,7 @@
 
 1.<a name="33.1"></a> The first `SIX`, divided, shows a retiring tail. The position is perilous. No movement in any direction should be made.
 
-###### p. 128
+<a id="p-128"/>
 
 > **䷠** changing to [**䷌**](e5908ce4babatongren.md)
 

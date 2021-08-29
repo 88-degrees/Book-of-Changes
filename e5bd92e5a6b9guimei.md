@@ -4,13 +4,13 @@
 
 > Chinese: 归妹 ䷵ guī mèi
 
-###### p. 180
+<a id="p-180"/>
 
 <img src="shapes/54.10.jpg" width=160 alt="归妹">
 
 **Guī Mèi ䷵** indicates that (under the conditions which it denotes) action will be evil, and in no wise advantageous.
 
-###### p. 181
+<a id="p-181"/>
 
 1.<a name="54.1"></a> The first `NINE`, undivided, shows the younger sister married off in a position ancillary to the real wife. (It suggests the idea of) a person lame on one leg who yet manages to tramp along. Going forward will be fortunate.
 
@@ -18,7 +18,7 @@
 
 > Matching Line 1 in Adjacent Hexagram: [**䷵**](e6b890jian.md#53.1)
 
-###### p. 182
+<a id="p-182"/>
 
 2.<a name="54.2"></a> The second `NINE`, undivided, shows her blind of one eye, and yet able to see. There will be advantage in her maintaining the firm correctness of a solitary widow.
 

@@ -4,13 +4,13 @@
 
 > Chinese: 明夷 ䷣ míng yí
 
-###### p. 134
+<a id="p-134"/>
 
 <img src="shapes/36.10.jpg" width=160 alt="明夷">
 
 **Míng Yí ䷣** indicates that (in the circumstances which it denotes) it will be advantageous to realise the difficulty (of the position), and maintain firm correctness.
 
-###### p. 135
+<a id="p-135"/>
 
 1.<a name="36.1"></a> The first `NINE`, undivided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, flying, but with drooping wings. When the superior man (is revolving) his going away, he may be for three days without eating. Wherever he goes, the people there may speak (derisively of him).
 

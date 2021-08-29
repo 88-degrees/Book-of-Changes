@@ -4,13 +4,13 @@
 
 > Chinese: 震 ䷲ zhèn
 
-###### p. 172
+<a id="p-172"/>
 
 <img src="shapes/51.10.jpg" width=160 alt="震">
 
 **Zhèn ䷲** gives the intimation of ease and development. When (the time of) movement (which it indicates) comes, (the subject of the hexagram) will be found looking out with apprehension, and yet smiling and talking cheerfully. When the movement (like a crash of thunder) terrifies all within a hundred `lǐ` ([里](https://ctext.org/dictionary.pl?if=en&char=里)), he will be (like the sincere worshipper) who is not (startled into) letting go his ladle and (cup of) sacrificial spirits.
 
-###### p. 173
+<a id="p-173"/>
 
 1.<a name="51.1"></a> The first `NINE`, undivided, shows its subject, when the movement approaches, looking out and around with apprehension, and afterwards smiling and talking cheerfully. There will be good fortune.
 
@@ -30,7 +30,7 @@
 
 > Matching Line 3 in Adjacent Hexagram: [**䷳**](e889aegen.md#52.3)
 
-###### p. 174
+<a id="p-174"/>
 
 4.<a name="51.4"></a> The fourth `NINE`, undivided, shows its subject, amid the startling movements, supinely sinking (deeper) in the mud.
 

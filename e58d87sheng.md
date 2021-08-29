@@ -4,13 +4,13 @@
 
 Chinese: shēng 升 ䷭
 
-###### p. 159
+<a id="p-159"/>
 
 <img src="shapes/46.10.jpg" width="160" alt="升">
 
 **Shēng ䷭** indicates that (under its conditions) there will be great progress and success. Seeking by (the qualities implied in it) to meet with the great man, its subject need have no anxiety. Advance to the south will be fortunate.
 
-###### p. 160
+<a id="p-160"/>
 
 1.<a name="46.1"></a> The first `SIX`, divided, shows its subject advancing upwards with the welcome (of those above him). There will be great good fortune.
 

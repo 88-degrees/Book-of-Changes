@@ -4,14 +4,14 @@
 
 > Chinese: 未济 ䷿ wèi jì
 
-###### p. 207
+<a id="p-207"/>
 
 <img src="shapes/64.10.jpg" width="160" alt="未济">
 
 **Wèi Jì ䷿** intimates progress and success (in the circumstances which it implies).
 (We see) a young fox that has nearly crossed (the stream), when its tail gets immersed. There will be no advantage in any way.
 
-###### p. 208
+<a id="p-208"/>
 
 1.<a name="64.1"></a> The first `SIX`, divided, shows its subject (like a fox) whose tail gets immersed. There will be occasion for regret.
 
@@ -37,7 +37,7 @@
 
 > Matching Line 4 in Adjacent Hexagram: [**䷾**](e697a2e6b58ejiji.md#63.4)
 
-###### p. 209
+<a id="p-209"/>
 
 5.<a name="64.5"></a> The fifth `SIX`, divided, shows its subject by firm correctness obtaining good fortune, and having no occasion for repentance. (We see in him) the brightness of a superior man, and the possession of sincerity. There will be good fortune.
 
@@ -51,7 +51,7 @@
 
 > Matching Line 6 in Adjacent Hexagram: [**䷾**](e697a2e6b58ejiji.md#63.6)
 
-###### p. 210
+<a id="p-210"/>
 
 ## Notes
 

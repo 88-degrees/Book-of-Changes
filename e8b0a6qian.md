@@ -4,7 +4,7 @@
 
 > Chinese: 谦 ䷎ qiān
 
-###### p. 89
+<a id="p-89"/>
 
 <img src="shapes/15.10.jpg" width="160" alt="谦">
 
@@ -12,7 +12,7 @@
 
 1.<a name="15.1"></a> The first `SIX`, divided, shows us the superior man who adds humility to humility. (Even) the great stream may be crossed with this, and there will be good fortune.
 
-###### p. 90
+<a id="p-90"/>
 
 > **䷎** changing to [**䷣**](e6988ee5a4b7mingyi.md)
 
