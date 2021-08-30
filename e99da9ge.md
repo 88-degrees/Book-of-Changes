@@ -56,7 +56,7 @@ For the way in which the notion of change is brought out of the trigrams of the 
 
 Line 1, at the bottom of the figure, may be taken as denoting change made at too early a period. It has no proper correlate or helper, moreover, above. Hence its subject is represented as tied up, unable to take any action.
 
-Line 2, though weak, is in its correct place. It is in the centre also of the trigram **Lí ䷝**, signifying brightness and intelligence, and has a proper correlate in the strong 5. Let its subject take action in the way of change.
+Line 2, though weak, is in its correct place. It is in the centre also of the trigram **Lí ☲**, signifying brightness and intelligence, and has a proper correlate in the strong 5. Let its subject take action in the way of change.
 
 The symbolism of paragraph 3 is twofold. The line is strong, and in the correct position, but it has passed the centre of Sun and is on its outward verge. These conditions may dispose its subject to reckless and violent changing which would be bad. But if he act cautiously and with due deliberation, he may take action, and he will be believed in.
 
