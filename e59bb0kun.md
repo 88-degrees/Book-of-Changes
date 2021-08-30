@@ -6,11 +6,11 @@
 
 <img src="shapes/47.10.jpg" width="160" alt="困">
 
-#### p. 161
+<a id="p-161"/>
 
 In (the condition denoted by) **Kùn ䷮** there may (yet be) progress and success. For the firm and correct, the (really) great man, there will be good fortune. He will fall into no error. If he make speeches, his words cannot be made good.
 
-#### p. 162
+<a id="p-162"/>
 
 1.<a name="47.1"></a> The first `SIX`, divided, shows its subject with bare buttocks straitened under the stump of a tree. He enters a dark valley, and for three years has no prospect (of deliverance).
 
