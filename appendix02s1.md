@@ -2,7 +2,7 @@
 
 # APPENDIX II
 
-Treatise on the Symbolism of the Hexagrams, and of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s Explanations of the several Lines <a name="fr_189"></a><sub>[1](#fn_189)</sub>
+Treatise on the Symbolism of the Hexagrams, and of the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s Explanations of the several Lines <a name="fr_189"></a><sub>[1](#fn_189)</sub>
 
 ## SECTION I
 
@@ -578,7 +578,7 @@ Kû says that he does not understand what is said under line 6, -- that the occu
 
 <a name="fn_195"></a>[275:VI](#fr_195) The symbolism here is different from that in the Text of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). We have the visible sky ascending and water or rain descending, which indicate, one hardly sees how, opposition and contention. The lesson as to the course of the superior man is a good one, but might with equal propriety be deduced from many other hexagrams.
 
-[Xiàng Ānshì](https://ctext.org/library.pl?if=en&res=865&by_author=項安世&remap=gb) (Sòng dynasty) says that the first part of paragraph 2 is all to be taken as the language of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou), the characters being varied; the rest is the remark of the writer of this treatise.
+[Xiàng Ānshì](https://ctext.org/library.pl?if=en&res=865&by_author=項安世&remap=gb) (Sòng dynasty) says that the first part of paragraph 2 is all to be taken as the language of the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou), the characters being varied; the rest is the remark of the writer of this treatise.
 
 It is observed that the returning to (the study of Heaven's) ordinances, and changing the wish to contend, in paragraph 4, are not two things, but only one; 'the ordinances (ming) meaning what is right in principle.' The wish to contend was wrong in principle, and is now abandoned.
 
@@ -596,11 +596,11 @@ Other ways can be found to reward small men. They ought not to be placed in situ
 
 'The other advantages' under line 1 refer to all the benefits that will result from sincerity and union, which are in themselves good.
 
-It is hardly possible to make what is said under line 5, on the royal huntings, agree with the account of them given on the same line in the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s text. I suspect that there is some corruption of the text. The two verbs 'neglecting' and 'taking' seem to be used, the one for the other.
+It is hardly possible to make what is said under line 5, on the royal huntings, agree with the account of them given on the same line in the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s text. I suspect that there is some corruption of the text. The two verbs 'neglecting' and 'taking' seem to be used, the one for the other.
 
 <a name="fn_198"></a>[279:IX](#fr_198) The suitability of the symbolism here is made all to turn on the wind. 'Wind,' says Kû, 'is simply the air, without solid substance; it can restrain, but not for long.' The wind moves in the sky for a time, and then ceases. The process of thought from the symbol to the lesson is not easily traced. Is it meant to say that virtue manifesting itself outwardly -- in the carriage and speech -- is, however good, but a small matter, admirable in an officer, or even a feudal lord, but that we look for more in a king, the Head of a nation?
 
-[Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) calls attention to the addition to the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s explanation in the notice on line 2, that 'it is in the central place,' adding that this explains how the subject of the line restrains himself, and does not go beyond what is due from him.
+[Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) calls attention to the addition to the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s explanation in the notice on line 2, that 'it is in the central place,' adding that this explains how the subject of the line restrains himself, and does not go beyond what is due from him.
 
 Only half of the symbolism in the Text of line 3 is taken up here. Line 1, it is said, is far from line 4, the mauvais sujet of the hexagram **䷈**, and little affected by it; line 2 is nearer, but, being in the centre, suffers little; line 3 is close on it, and, not being in the centre, comes under its evil influence; while line 6 gives no help.
 
@@ -648,7 +648,7 @@ In line 4, stress should be laid on 'yielding to the right.'
 
 For line 5, see note on the Text.
 
-The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors append the following note to the last paragraph: -- 'Under line 1 it is said that "union in the open country indicates progress and success," while here it is only said that "with union in the suburbs there is no cause for repentance." Beyond the suburbs was the open country, and till the union reached so far, the object of the hexagram was not attained. We may truly say that Confucius was a skilful reader of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou).' Of course the editors did not doubt Confucius' authorship of all the Appendixes.
+The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors append the following note to the last paragraph: -- 'Under line 1 it is said that "union in the open country indicates progress and success," while here it is only said that "with union in the suburbs there is no cause for repentance." Beyond the suburbs was the open country, and till the union reached so far, the object of the hexagram was not attained. We may truly say that Confucius was a skilful reader of the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou).' Of course the editors did not doubt Confucius' authorship of all the Appendixes.
 
 <a name="fn_203"></a>[286:XIV](#fr_203) 'Fire above the sky' will shine far; and this is supposed to symbolise the vastness of the territory or of the wealth implied in the possession of what is great. The superior man, in governing men, especially in a time of prosperity and wealth, must set himself to develope what is good in them, and repress what is evil. And this will be in accordance with the will of Heaven, which has given to all men a nature fitted for goodness.
 
@@ -664,7 +664,7 @@ Under line 5, 'the refusal to submit' makes an appeal to force necessary. Even t
 
 [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) bases all that is said under line 6 on its being a weak line; so that the humble ruler is unable even at the close of the action described in the figure to accomplish all his objects, and must limit his field even in appealing to arms.
 
-<a name="fn_205"></a>[288:XVI](#fr_205) 'The Great Symbolism' here is more obscure than usual. A thunderstorm clears the air and removes the feeling of oppression, of which one is conscious before its occurrence. Is this all that is meant by making the trigrams of the earth and thunder form [**Yǜ ䷏**](e8b1abyu.md), the hexagram of harmony and satisfaction? What is meant, moreover, by making the thunder 'issue,' as the Chinese text says, from the earth? Then as to the application of this symbolism, I can trace the author's idea but imperfectly. To say that the thunder crash suggested the use of music, as some critics do, is <sub>[p. 289](#p-289)</sub> absurd. The use of music at sacrifices, however, as assisting the union produced by those services between God and his worshippers, and the present and past generations, agrees with the general idea of the figure. I must suppose that the writer had in mind the sacrifices instituted by the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou), as related in the Hsiâo King, chap. ix.
+<a name="fn_205"></a>[288:XVI](#fr_205) 'The Great Symbolism' here is more obscure than usual. A thunderstorm clears the air and removes the feeling of oppression, of which one is conscious before its occurrence. Is this all that is meant by making the trigrams of the earth and thunder form [**Yǜ ䷏**](e8b1abyu.md), the hexagram of harmony and satisfaction? What is meant, moreover, by making the thunder 'issue,' as the Chinese text says, from the earth? Then as to the application of this symbolism, I can trace the author's idea but imperfectly. To say that the thunder crash suggested the use of music, as some critics do, is <sub>[p. 289](#p-289)</sub> absurd. The use of music at sacrifices, however, as assisting the union produced by those services between God and his worshippers, and the present and past generations, agrees with the general idea of the figure. I must suppose that the writer had in mind the sacrifices instituted by the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou), as related in the Hsiâo King, chap. ix.
 
 Pleasure has operated injuriously on the subject of line 1. He calls attention to himself.
 
@@ -736,7 +736,7 @@ Canon McClatchie translates here: -- 'The ancient kings on this culminating day 
 
 The virtuous subject of the first line' is in paragraph 2 called **Zhèn ☳**, 'the benevolent' or loving.' It is the only case in all the symbolism of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) where we find that term used as an adjective. It is emphatic here for 'humanity,' man in his ideal.
 
-The other paragraphs present nothing for remark beyond what has been said on the Text of the [duke of Zhou](https://en.wikipedia.org/wiki/Duke_of_Zhou).
+The other paragraphs present nothing for remark beyond what has been said on the Text of the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou).
 
 <a name="fn_214"></a>[299:XXV](#fr_214) The composition of the hexagram **䷘** is given here in a manner different from what we have met with in the account of any of the preceding figures; and as the text is not called in question, I have made the best I could in the translation of the two commencing clauses. The application of the symbolism to what the ancient kings did is also hard to comprehend.
 
