@@ -48,7 +48,7 @@ Treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/I_Ching#cite_note-16) 
 
 1. In [**Méng ䷃**](e89299meng.md) we have (the trigram ☶ for) a mountain, and below it ☵ that of a rugged defile with a stream in it. The conditions of peril and arrest of progress (suggested by these) give (the idea in) [**Méng ䷃**](e89299meng.md).
 
-<a id="p-217></a>
+<a id="p-217“/>
 
 2. '[**Méng ䷃**](e89299meng.md) indicates that there will be progress and success:' -- for there is development at work in it, and its time of action is exactly what is right. 'I do not seek the youthful and inexperienced; he seeks me:' -- so does will respond to will. 'When he shows (the sincerity that marks) the first recourse to divination, I instruct him:' -- for possessing the qualities of the undivided line and being in the central place, (the subject of the second line thus speaks). 'A second and third application create annoyance, and I do not instruct so as to create annoyance:' -- annoyance (he means) to the ignorant.
 
