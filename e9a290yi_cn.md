@@ -1,6 +1,6 @@
 # 颐 ䷚
 
-<img src="shapes/27.10.jpg" alt="颐" width="160" align="left">
+<img src="shapes/27.10.jpg" alt="颐" width="121" align="left">
 
 颐（yí）卦展示在像“颐”的形势下各种变化的可能性。
 

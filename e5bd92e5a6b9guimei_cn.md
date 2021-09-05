@@ -1,6 +1,6 @@
 # 归妹 ䷵
 
-<img src="shapes/54.10.jpg" width="160" alt="归妹" align="left">
+<img src="shapes/54.10.jpg" width="121" alt="归妹" align="left">
 
 归妹（guī mèi）是震上兑下卦的卦名，代号`6:4`。
 “归”（guī），古代称女子出嫁。

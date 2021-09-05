@@ -6,7 +6,7 @@
 
 <a id="p-175"/>
 
-<img src="shapes/52.10.jpg" width=160 alt="艮">
+<img src="shapes/52.10.jpg" width="121" alt="艮">
 
 When one's resting is like that of the back, and he loses all consciousness of self; when he walks in his courtyard, and does not see any (of the persons) in it, -- there will be no error.
 

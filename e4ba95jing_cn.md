@@ -1,6 +1,6 @@
 # 井 ䷯
 
-<img src="shapes/48.10.jpg" width="160" alt="井" align="left">
+<img src="shapes/48.10.jpg" width="121" alt="井" align="left">
 
 井（jǐng）卦展示在像“井”的形势下各种变化的可能性。
 

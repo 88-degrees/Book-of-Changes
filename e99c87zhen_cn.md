@@ -1,6 +1,6 @@
 # 震 ䷲
 
-<img src="shapes/51.10.jpg" width=160 alt="震" align=left>
+<img src="shapes/51.10.jpg" width="121" alt="震" align=left>
 
 震（zhèn）卦，代号为`4:4`。
 

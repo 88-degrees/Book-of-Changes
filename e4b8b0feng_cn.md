@@ -1,6 +1,6 @@
 # 丰 ䷶
 
-<img src="shapes/55.10.jpg" width="160" alt="丰" align="left">
+<img src="shapes/55.10.jpg" width="121" alt="丰" align="left">
 
 丰（fēng）是`5:4`卦的卦名，`5:4`是丰卦的代号。
 

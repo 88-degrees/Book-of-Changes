@@ -1,6 +1,6 @@
 # 萃 ䷬
 
-<img src="shapes/45.10.jpg" width=160 alt="萃" align=left>
+<img src="shapes/45.10.jpg" width="121" alt="萃" align=left>
 
 萃（cuì）卦，上泽下地，泽地萃。象征荟萃聚集。
 

@@ -6,7 +6,7 @@
 
 <a id="p-199"/>
 
-<img src="shapes/61.10.jpg" width="160" alt="中孚"/>
+<img src="shapes/61.10.jpg" width="121" alt="中孚"/>
 
 **Zhōng Fú ䷼** (moves even) pigs and fish, and leads to good fortune. There will be advantage in crossing the great stream. There will be advantage in being firm and correct.
 

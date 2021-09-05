@@ -1,6 +1,6 @@
 # 中孚 ䷼
 
-<img src="shapes/61.10.jpg" width="160" alt="中孚" align="left"/>
+<img src="shapes/61.10.jpg" width="121" alt="中孚" align="left"/>
 
 中孚（zhōng fú）卦，风泽中孚，诚信立身。
 

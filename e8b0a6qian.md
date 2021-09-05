@@ -6,7 +6,7 @@
 
 <a id="p-89"/>
 
-<img src="shapes/15.10.jpg" width="160" alt="谦">
+<img src="shapes/15.10.jpg" width="121" alt="谦">
 
 **Qiān ䷎** indicates progress and success. The superior man, (being humble as it implies), will have a (good) issue (to his undertakings).
 

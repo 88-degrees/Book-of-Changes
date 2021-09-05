@@ -6,7 +6,7 @@
 
 <a id="p-131"/>
 
-<img src="shapes/35.10.jpg" width=160 alt="晋">
+<img src="shapes/35.10.jpg" width="121" alt="晋">
 
 In **Jìn ䷢** we see a prince who secures the tranquillity (of the people) presented on that account with numerous horses (by the king), and three times in a day received at interviews.
 

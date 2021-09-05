@@ -1,6 +1,6 @@
 # 剥 ䷖
 
-<img src="shapes/23.10.jpg" width=160 alt="剥" align=left>
+<img src="shapes/23.10.jpg" width="121" alt="剥" align=left>
 
 剥（bō）卦展示“剥”形势下各种变化的可能性。
 

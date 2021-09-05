@@ -6,7 +6,7 @@
 
 <a id="p-149"></a>
 
-<img src="shapes/42.10.jpg" width="160" alt="益">
+<img src="shapes/42.10.jpg" width="121" alt="益">
 
 **Yì ䷩** indicates that (in the state which it denotes) there will be advantage in every movement which shall be undertaken, that it will be advantageous (even) to cross the great stream.
 

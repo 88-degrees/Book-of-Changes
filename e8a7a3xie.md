@@ -6,7 +6,7 @@
 
 <a id="p-144"></a>
 
-<img src="shapes/40.10.jpg" width="160" alt="解">
+<img src="shapes/40.10.jpg" width="121" alt="解">
 
 In (the state indicated by) **Xiè ䷧** advantage will be found in the south-west.
 If no (further) operations be called for, there will be good fortune in coming back (to the old conditions).

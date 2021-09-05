@@ -1,6 +1,6 @@
 # 贲 ䷕
 
-<img src="shapes/22.10.jpg" width="160" alt="贲" align="left">
+<img src="shapes/22.10.jpg" width="121" alt="贲" align="left">
 
 贲（bì）卦展示“贲”的形势下各种变化的可能性。
 “贲”的意思是装饰得很好。

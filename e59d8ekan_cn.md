@@ -1,6 +1,6 @@
 # 坎 ䷜
 
-<img src="shapes/29.10.jpg" width="160" alt="坎" align="left">
+<img src="shapes/29.10.jpg" width="121" alt="坎" align="left">
 
 坎卦展示在“坎”的形势下各种变化的可能性。
 

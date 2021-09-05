@@ -1,6 +1,6 @@
 # 讼 ䷅
 
-<img src="shapes/06.10.jpg" width=160 alt="讼" align=left>
+<img src="shapes/06.10.jpg" width="121" alt="讼" align=left>
 
 讼（sòng）卦 是上卦为乾，下卦为坎的卦名。代号是`2:7`。
 

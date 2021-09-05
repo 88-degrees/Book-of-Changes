@@ -1,6 +1,6 @@
 # 涣 ䷺
 
-<img src="shapes/59.10.jpg" width="160" alt="涣" align="left">
+<img src="shapes/59.10.jpg" width="121" alt="涣" align="left">
 
 涣是`2:3`卦的卦名，代号是`2:3`。“涣”（huàn）：散开，涣散。
 

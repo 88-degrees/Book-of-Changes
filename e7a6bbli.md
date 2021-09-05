@@ -6,7 +6,7 @@
 
 <a id="p-120"></a>
 
-<img src="shapes/30.10.jpg" width="160" alt="离"/>
+<img src="shapes/30.10.jpg" width="121" alt="离"/>
 
 **Lí ䷝** indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success.
 

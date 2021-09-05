@@ -6,7 +6,7 @@
 
 <a id="p-78"/>
 
-<img src="shapes/10.10.jpg" width="160" alt="履">
+<img src="shapes/10.10.jpg" width="121" alt="履">
 
 (**Lǚ ䷉** suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success.
 

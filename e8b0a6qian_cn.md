@@ -1,6 +1,6 @@
 # 谦 ䷎
 
-<img src="shapes/15.10.jpg" width="160" alt="谦" align="left">
+<img src="shapes/15.10.jpg" width="121" alt="谦" align="left">
 
 谦（qiān）卦卦体中上卦为坤为地，下卦为艮为山。谦卦艮下坤上，为地下有山之象。
 山本高大，但处于地下，高大显示不出来，此在人则象德行很高，但能自觉地不显扬。

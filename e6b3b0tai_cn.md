@@ -1,6 +1,6 @@
 # 泰 ䷊
 
-<img src="shapes/11.10.jpg" width=160 alt="泰" align=left>
+<img src="shapes/11.10.jpg" width="121" alt="泰" align=left>
 
 泰（tài）卦展示“泰”形势下各种变化的可能性。
 

@@ -1,6 +1,6 @@
 # 鼑 ䷱
 
-<img src="shapes/50.10.jpg" width="160" alt="鼎" align="left">
+<img src="shapes/50.10.jpg" width="121" alt="鼎" align="left">
 
 鼎（dǐng）卦的含义是稳定图变。
 

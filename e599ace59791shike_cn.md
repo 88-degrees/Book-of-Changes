@@ -1,6 +1,6 @@
 # 噬嗑 ䷔
 
-<img src="shapes/21.10.jpg" width=160 alt="噬嗑" align=left>
+<img src="shapes/21.10.jpg" width="121" alt="噬嗑" align=left>
 
 噬嗑（shì kè）为上下颚咬合，咀嚼。火雷噬嗑（噬嗑卦）刚柔相济。
 这个卦是异卦（下震上离）相叠。离为阴卦；震为阳卦。

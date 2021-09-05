@@ -1,6 +1,6 @@
 # 姤 ䷫
 
-<img src="shapes/44.10.jpg" width="160" alt="姤" align="left">
+<img src="shapes/44.10.jpg" width="121" alt="姤" align="left">
 
 姤（gòu）卦的代号是`3:7`，主卦是巽卦，卦象是风，阳数是`3`；客卦是乾卦，卦象是天，阳数是`7`。
 

@@ -1,6 +1,6 @@
 # 豫 ䷏
 
-<img src="shapes/16.10.jpg" width="160" alt="豫" align="left">
+<img src="shapes/16.10.jpg" width="121" alt="豫" align="left">
 
 豫卦代号是`0:4`，主卦是坤卦，卦象地，客卦为震卦，卦象雷。
 

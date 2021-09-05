@@ -1,6 +1,6 @@
 # 师 ䷆
 
-<img src="shapes/07.10.jpg" width="160" alt="师" align="left">
+<img src="shapes/07.10.jpg" width="121" alt="师" align="left">
 
 《师》：贞，丈人吉，无咎。
 

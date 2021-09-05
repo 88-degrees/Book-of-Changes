@@ -1,6 +1,6 @@
 # 解 ䷧
 
-<img src="shapes/40.10.jpg" width=160 alt="解" align=left>
+<img src="shapes/40.10.jpg" width="121" alt="解" align=left>
 
 解卦的代号是`2:4`。主卦是`2`卦坎卦，客卦是`4`卦震卦。
 

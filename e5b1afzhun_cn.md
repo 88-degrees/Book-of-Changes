@@ -1,6 +1,6 @@
 # 屯 ䷂
 
-<img src="shapes/03.10.jpg" width="160" alt="屯" align="left">
+<img src="shapes/03.10.jpg" width="121" alt="屯" align="left">
 
 屯（zhūn）卦，代号是`4:2`。
 “屯”，囤聚。屯卦的主卦是震卦，客卦是坎卦 。

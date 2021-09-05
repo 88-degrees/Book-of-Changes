@@ -1,6 +1,6 @@
 # 明夷 ䷣
 
-<img src="shapes/36.10.jpg" width=160 alt="明夷" align=left>
+<img src="shapes/36.10.jpg" width="121" alt="明夷" align=left>
 
 明夷（míng yí）卦展示明夷形势下各种变化的可能性，“明夷”是失意的意思。
 

@@ -1,6 +1,6 @@
 # 革 ䷰
 
-<img src="shapes/49.10.jpg" width=160 alt="革" align=left>
+<img src="shapes/49.10.jpg" width="121" alt="革" align=left>
 
 革（gé）是`5:6`卦的卦名，`5:6`是革卦的代号。
 

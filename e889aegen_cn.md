@@ -1,6 +1,6 @@
 # 艮 ䷳
 
-<img src="shapes/52.10.jpg" width=160 alt="艮" align=left>
+<img src="shapes/52.10.jpg" width="121" alt="艮" align=left>
 
 艮（gèn）卦展示“艮”形势下各种变化的可能性。艮（gèn），代表山。
 

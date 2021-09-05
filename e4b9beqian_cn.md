@@ -1,6 +1,6 @@
 # 乾 ䷀
 
-<img src="shapes/01.10.jpg" width="160" alt="乾" align="left">
+<img src="shapes/01.10.jpg" width="121" alt="乾" align="left">
 
 乾（qián）卦代号是`7:7`，主卦和客卦都是`1`卦乾卦，
 三条爻当位，三条爻不当位，不存在有应关系。

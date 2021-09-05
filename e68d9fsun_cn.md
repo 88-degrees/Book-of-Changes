@@ -1,6 +1,6 @@
 # 损 ䷨
 
-<img src="shapes/41.10.jpg" width="160" alt="损" align="left">
+<img src="shapes/41.10.jpg" width="121" alt="损" align="left">
 
 损（sǔn）卦展示“损”的形势下各种变化的可能性。
 

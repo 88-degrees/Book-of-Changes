@@ -1,6 +1,6 @@
 # 坤 ䷁
 
-<img src="shapes/02.10.jpg" width="160" alt="坤" align="left">
+<img src="shapes/02.10.jpg" width="121" alt="坤" align="left">
 
 坤（kūn）卦， 坤为地，柔顺伸展。代号是`0:0`。
 坤卦展示像“坤”的形势下各种变化的可能性。

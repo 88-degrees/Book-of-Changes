@@ -6,7 +6,7 @@
 
 <a id="p-116"/>
 
-<img src="shapes/28.10.jpg" width=160 alt="大过">
+<img src="shapes/28.10.jpg" width="121" alt="大过">
 
 **Dà Guò ䷛** suggests to us a beam that is weak. There will be advantage in moving (under its conditions) in any direction whatever; there will be success.
 
