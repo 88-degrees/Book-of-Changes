@@ -1,6 +1,6 @@
 # 大壮 ䷡
 
-<img src="shapes/34.10.jpg" width="121" alt="大壮" align="left">
+<img src="shapes/34.10.jpg" width="101" alt="大壮" align="left">
 
 大壮（dà zhuàng）是 `7:4` 卦的卦名，`7:4` 是大壮卦的代号。
 

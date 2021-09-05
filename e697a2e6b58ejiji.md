@@ -6,7 +6,7 @@
 
 <a id="p-204"/>
 
-<img src="shapes/63.10.jpg" width="121" alt="既济">
+<img src="shapes/63.10.jpg" width="101" alt="既济">
 
 **Jì Jì ䷾** intimates progress and success in small matters. There will be advantage in being firm and correct. There has been good fortune in the beginning; there may be disorder in the end.
 

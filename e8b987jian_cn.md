@@ -1,6 +1,6 @@
 # 蹇 ䷦
 
-<img src="shapes/39.10.jpg" width="121" alt="蹇" align="left">
+<img src="shapes/39.10.jpg" width="101" alt="蹇" align="left">
 
 蹇（jiǎn）卦展示“蹇”形势下各种变化的可能性。
 

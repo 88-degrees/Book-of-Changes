@@ -1,6 +1,6 @@
 # 蛊 ䷑
 
-<img src="shapes/18.10.jpg" width="121" alt="蛊" align=left>
+<img src="shapes/18.10.jpg" width="101" alt="蛊" align=left>
 
 蛊（gǔ）卦展示“蛊”的形势下各种变化的可能性，“蛊”的意思是祸乱。
 

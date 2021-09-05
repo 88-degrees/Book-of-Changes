@@ -1,6 +1,6 @@
 # 兑 ䷹
 
-<img src="shapes/58.10.jpg" width="121" alt="兑" align=left>
+<img src="shapes/58.10.jpg" width="101" alt="兑" align=left>
 
 兑（duì）卦是《周易》第58卦，代号是`6:6`。
 

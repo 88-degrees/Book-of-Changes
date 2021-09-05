@@ -1,6 +1,6 @@
 # 同人 ䷌
 
-<img src="shapes/13.10.jpg" width="121" alt="同人" align=left>
+<img src="shapes/13.10.jpg" width="101" alt="同人" align=left>
 
 同人卦，阐释和同的原则。
 

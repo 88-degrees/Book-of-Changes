@@ -1,6 +1,6 @@
 # 既济 ䷾
 
-<img src="shapes/63.10.jpg" width="121" alt="既济" align=left>
+<img src="shapes/63.10.jpg" width="101" alt="既济" align=left>
 
 既济（jì jì）卦，水火既济盛极将衰。
 

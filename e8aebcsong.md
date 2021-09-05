@@ -6,7 +6,7 @@
 
 <a id="p-69"/>
 
-<img src="shapes/06.10.jpg" width="121" alt="讼">
+<img src="shapes/06.10.jpg" width="101" alt="讼">
 
 **Sòng ䷅** intimates how, though there is sincerity in one's contention,
 he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution,

@@ -6,7 +6,7 @@
 
 <a id="p-167"/>
 
-<img src="shapes/49.10.jpg" width="121" alt="革">
+<img src="shapes/49.10.jpg" width="101" alt="革">
 
 (What takes place as indicated by) **Gé ䷰** is believed in only after it has been accomplished. There will be great progress and success. Advantage will come from being firm and correct. (In that case) occasion for repentance will disappear.
 

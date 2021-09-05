@@ -1,6 +1,6 @@
 # 无妄 ䷘
 
-<img src="shapes/25.10.jpg" width="121" alt="无妄" align="left">
+<img src="shapes/25.10.jpg" width="101" alt="无妄" align="left">
 
 无妄（wú wàng）卦，天雷无妄，无妄而得。
 

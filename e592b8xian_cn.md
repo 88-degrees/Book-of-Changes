@@ -1,6 +1,6 @@
 # 咸 ䷞
 
-<img src="shapes/31.10.jpg" width="121" alt="咸" align=left>
+<img src="shapes/31.10.jpg" width="101" alt="咸" align=left>
 
 咸（xián）卦的代号是`1:6`，主卦是艮卦，卦象是山，阳数是`1`；客卦是兑卦，卦象是泽，阳数是`6`。
 

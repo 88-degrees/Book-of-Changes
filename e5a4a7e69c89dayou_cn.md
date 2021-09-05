@@ -1,6 +1,6 @@
 # 大有 ䷍
 
-<img src="shapes/14.10.jpg" width="121" alt="大有" align="left">
+<img src="shapes/14.10.jpg" width="101" alt="大有" align="left">
 
 大有（dà yǒu）是`7:5`卦的卦名，`7:5`是大有卦的代号。
 

@@ -1,6 +1,6 @@
 # 否 ䷋
 
-<img src="shapes/12.10.jpg" width="121" alt="否" align=left>
+<img src="shapes/12.10.jpg" width="101" alt="否" align=left>
 
 否卦是一个别卦，代号是`0:7`。
 

@@ -6,7 +6,7 @@
 
 <a id="p-129"/>
 
-<img src="shapes/34.10.jpg" width="121" alt="大壮">
+<img src="shapes/34.10.jpg" width="101" alt="大壮">
 
 **Dà Zhuàng ䷡** indicates that (under the conditions which it symbolises) it will be advantageous to be firm and correct.
 

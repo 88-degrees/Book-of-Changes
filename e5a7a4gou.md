@@ -6,7 +6,7 @@
 
 <a id="p-154"></a>
 
-<img src="shapes/44.10.jpg" width="121" alt="姤">
+<img src="shapes/44.10.jpg" width="101" alt="姤">
 
 **Gòu ䷫** shows a female who is bold and strong. It will not be good to marry (such) a female.
 

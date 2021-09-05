@@ -1,6 +1,6 @@
 # 渐 ䷴
 
-<img src="shapes/53.10.jpg" width="121" alt="渐" align=left>
+<img src="shapes/53.10.jpg" width="101" alt="渐" align=left>
 
 渐（jiàn）卦，由山下风上组成。
 

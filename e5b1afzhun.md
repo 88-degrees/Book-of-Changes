@@ -6,7 +6,7 @@
 
 <a id="p-62"></a>
 
-<img src="shapes/03.10.jpg" width="121" alt="屯">
+<img src="shapes/03.10.jpg" width="101" alt="屯">
 
 **Zhūn ䷂** (indicates that in the case which it presupposes) there will be great progress and success, and the advantage will come from being correct and firm. (But) any movement in advance should not be (lightly) undertaken. There will be advantage in appointing feudal princes.
 

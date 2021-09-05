@@ -6,7 +6,7 @@
 
 <a id="p-141"/>
 
-<img src="shapes/39.10.jpg" width="121" alt="蹇">
+<img src="shapes/39.10.jpg" width="101" alt="蹇">
 
 In (the state indicated by) **Jiǎn ䷦** advantage will be found in the south-west, and the contrary in the north-east. It will be advantageous (also) to meet with the great man. (In these circumstances), with firmness and correctness, there will be good fortune.
 

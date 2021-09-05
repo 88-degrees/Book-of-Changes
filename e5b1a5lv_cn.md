@@ -1,6 +1,6 @@
 # 履 ䷉
 
-<img src="shapes/10.10.jpg" width="121" alt="履" align="left">
+<img src="shapes/10.10.jpg" width="101" alt="履" align="left">
 
 履（lǚ）卦的代号是`6:7` ，主卦是兑卦，卦象是泽，阳数是`6`；客卦是乾卦，卦象是天，阳数是`7`。
 

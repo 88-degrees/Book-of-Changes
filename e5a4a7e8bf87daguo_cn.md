@@ -1,6 +1,6 @@
 # 大过 ䷛
 
-<img src="shapes/28.10.jpg" width="121" alt="大过" align="left">
+<img src="shapes/28.10.jpg" width="101" alt="大过" align="left">
 
 大过（dà guò）卦，代号是`3:6`，
 主卦是巽卦，卦象是风、木，特征是顺，阳数是`3`；

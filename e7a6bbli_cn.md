@@ -1,6 +1,6 @@
 # 离 ䷝
 
-<img src="shapes/30.10.jpg" width="121" alt="离" align="left"/>
+<img src="shapes/30.10.jpg" width="101" alt="离" align="left"/>
 
 离（lí）卦是上离下离的卦名，代号是`5:5`。
 

@@ -1,6 +1,6 @@
 # 升 ䷭
 
-<img src="shapes/46.10.jpg" width="121" alt="升" align="left">
+<img src="shapes/46.10.jpg" width="101" alt="升" align="left">
 
 升（shēng）卦展示“升”形势下各种变化的可能性。
 

@@ -6,7 +6,7 @@
 
 <a id="p-118"/>
 
-<img src="shapes/29.10.jpg" width="121" alt="坎">
+<img src="shapes/29.10.jpg" width="101" alt="坎">
 
 **Kǎn ䷜**, here repeated, shows the possession of sincerity, through which the mind is. penetrating. Action (in accordance with this) will be of high value.
 

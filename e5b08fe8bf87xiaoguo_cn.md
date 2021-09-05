@@ -1,6 +1,6 @@
 # 小过 ䷽
 
-<img src="shapes/62.10.jpg" width="121" alt="小过" align="left">
+<img src="shapes/62.10.jpg" width="101" alt="小过" align="left">
 
 小过（xiǎo guò）是震上艮下的卦名，代号是`1:4`。
 “过”（guò），从这儿到那儿，从此时到彼时：过江。

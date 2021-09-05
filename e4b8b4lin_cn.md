@@ -1,6 +1,6 @@
 # 临 ䷒
 
-<img src="shapes/19.10.jpg" width="121" alt="临" align="left">
+<img src="shapes/19.10.jpg" width="101" alt="临" align="left">
 
 **临（lín）卦** 展示“临”形势下各种变化的可能性，“临”指“面临”。
 

@@ -1,6 +1,6 @@
 # 益 ䷩
 
-<img src="shapes/42.10.jpg" width="121" alt="益" align="left">
+<img src="shapes/42.10.jpg" width="101" alt="益" align="left">
 
 益（yì）卦是别卦，其代号是`4:3`，主卦是`4`卦震卦，客卦是`3`卦巽卦。
 益，表明这个卦所代表的状态对主方有益。震卦的卦象是雷，主方积极主动，雷厉风行。

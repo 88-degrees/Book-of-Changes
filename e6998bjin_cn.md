@@ -1,6 +1,6 @@
 # 晋 ䷢
 
-<img src="shapes/35.10.jpg" width="121" alt="晋" align=left>
+<img src="shapes/35.10.jpg" width="101" alt="晋" align=left>
 
 晋（jìn）是`0:5`卦的卦名，`0:5`是晋卦的代号。
 

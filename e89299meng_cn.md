@@ -1,6 +1,6 @@
 # 蒙 ䷃
 
-<img src="shapes/04.10.jpg" width="121" alt="蒙" align="left"/>
+<img src="shapes/04.10.jpg" width="101" alt="蒙" align="left"/>
 
 蒙（méng）卦展示“蒙”的形势下各种变化的可能性。
 

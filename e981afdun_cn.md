@@ -1,6 +1,6 @@
 # 遯 ䷠
 
-<img src="shapes/33.10.jpg" width="121" alt="遯" align=left>
+<img src="shapes/33.10.jpg" width="101" alt="遯" align=left>
 
 遯（dùn）卦代号是`1:7`。“遯”（dùn），又写作**遁**，逃避，躲闪：遁去。
 

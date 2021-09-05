@@ -1,6 +1,6 @@
 # 比 ䷇
 
-<img src="shapes/08.10.jpg" width="121" alt="比" align=left>
+<img src="shapes/08.10.jpg" width="101" alt="比" align=left>
 
 “比”指比较。
 
