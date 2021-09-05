@@ -556,7 +556,7 @@
 
 ### 初九变卦：山泽损 变卦 山水蒙
 
-<img src="shapes/41.01.png" align=left>
+<img src="shapes/41.01.png" align="left">
 
 初九爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
@@ -594,7 +594,7 @@
 
 ### 九二变卦：山泽损 变卦 山雷颐
 
-<img src="shapes/41.02.png" align=left>
+<img src="shapes/41.02.png" align="left">
 
 九二爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -634,7 +634,7 @@
 
 ### 六三变卦：山泽损 变卦 山天大畜
 
-<img src="shapes/41.03.png" align=left>
+<img src="shapes/41.03.png" align="left">
 
 六三爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
@@ -672,7 +672,7 @@
 
 ### 六四变卦：山泽损 变卦 火泽睽
 
-<img src="shapes/41.04.png" align=left>
+<img src="shapes/41.04.png" align="left">
 
 六四爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
@@ -712,7 +712,7 @@
 
 ### 六五变卦：山泽损 变卦 风泽中孚
 
-<img src="shapes/41.05.png" align=left>
+<img src="shapes/41.05.png" align="left">
 
 六五爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -748,7 +748,7 @@
 
 ### 上九变卦：山泽损 变卦 地泽临
 
-<img src="shapes/41.06.png" align=left>
+<img src="shapes/41.06.png" align="left">
 
 上九爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 

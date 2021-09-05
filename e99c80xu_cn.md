@@ -1,6 +1,6 @@
 # 需 ䷄
 
-<img src="shapes/05.10.jpg" alt="需" width="101" align=left>
+<img src="shapes/05.10.jpg" alt="需" width="101" align="left">
 
 需（xū）卦是别卦。“需”的意思是等待。需卦的代号是`7:2`。
 

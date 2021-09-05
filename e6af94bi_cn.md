@@ -1,6 +1,6 @@
 # 比 ䷇
 
-<img src="shapes/08.10.jpg" width="101" alt="比" align=left>
+<img src="shapes/08.10.jpg" width="101" alt="比" align="left">
 
 “比”指比较。
 
@@ -443,7 +443,7 @@
 
 ### 初六变卦：水地比 变卦 水雷屯
 
-<img src="shapes/08.01.png" align=left>
+<img src="shapes/08.01.png" align="left">
 
 初六爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -481,7 +481,7 @@
 
 ### 六二变卦：水地比 变卦 坎为水
 
-<img src="shapes/08.02.png" align=left>
+<img src="shapes/08.02.png" align="left">
 
 六二爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
@@ -521,7 +521,7 @@
 
 ### 六三变卦：水地比 变卦 水山蹇
 
-<img src="shapes/08.03.png" align=left>
+<img src="shapes/08.03.png" align="left">
 
 六三爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
@@ -560,7 +560,7 @@
 
 ### 六四变卦：水地比 变卦 泽地萃
 
-<img src="shapes/08.04.png" align=left>
+<img src="shapes/08.04.png" align="left">
 
 六四爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -598,7 +598,7 @@
 
 ### 九五变卦：水地比 变卦 坤为地
 
-<img src="shapes/08.05.png" align=left>
+<img src="shapes/08.05.png" align="left">
 
 九五爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -636,7 +636,7 @@
 
 ### 上六变卦：水地比 变卦 风地观
 
-<img src="shapes/08.06.png" align=left>
+<img src="shapes/08.06.png" align="left">
 
 上六爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 

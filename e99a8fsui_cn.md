@@ -517,7 +517,7 @@
 
 ### 初九变卦：泽雷随 变卦 泽地萃
 
-<img src="shapes/17.01.png" align=left>
+<img src="shapes/17.01.png" align="left">
 
 初九爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -556,7 +556,7 @@
 
 ### 六二变卦：泽雷随 变卦 兑为泽
 
-<img src="shapes/17.02.png" align=left>
+<img src="shapes/17.02.png" align="left">
 
 六二爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -594,7 +594,7 @@
 
 ### 六三变卦：泽雷随 变卦 泽火革
 
-<img src="shapes/17.03.png" align=left>
+<img src="shapes/17.03.png" align="left">
 
 六三爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
@@ -634,7 +634,7 @@
 
 ### 九四变卦：泽雷随 变卦 水雷屯
 
-<img src="shapes/17.04.png" align=left>
+<img src="shapes/17.04.png" align="left">
 
 九四爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -674,7 +674,7 @@
 
 ### 九五变卦：泽雷随 变卦 震为雷
 
-<img src="shapes/17.05.png" align=left>
+<img src="shapes/17.05.png" align="left">
 
 九五爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -712,7 +712,7 @@
 
 ### 上六变卦：泽雷随 变卦 天雷无妄
 
-<img src="shapes/17.06.png" align=left>
+<img src="shapes/17.06.png" align="left">
 
 上六爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 

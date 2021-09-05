@@ -1,6 +1,6 @@
 # 噬嗑 ䷔
 
-<img src="shapes/21.10.jpg" width="101" alt="噬嗑" align=left>
+<img src="shapes/21.10.jpg" width="101" alt="噬嗑" align="left">
 
 噬嗑（shì kè）为上下颚咬合，咀嚼。火雷噬嗑（噬嗑卦）刚柔相济。
 这个卦是异卦，下震上离，相叠。离为阴卦；震为阳卦。
@@ -727,7 +727,7 @@
 
 ### 初九变卦：火雷噬嗑 变卦 火地晋
 
-<img src="shapes/21.01.png" align=left>
+<img src="shapes/21.01.png" align="left">
 
 初九爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 
@@ -766,7 +766,7 @@
 
 ### 六二变卦：火雷噬嗑 变卦 火泽睽
 
-<img src="shapes/21.02.png" align=left>
+<img src="shapes/21.02.png" align="left">
 
 六二爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
@@ -807,7 +807,7 @@
 
 ### 六三变卦：火雷噬嗑 变卦 离为火
 
-<img src="shapes/21.03.png" align=left>
+<img src="shapes/21.03.png" align="left">
 
 六三爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
@@ -847,7 +847,7 @@
 
 ### 九四变卦：火雷噬嗑 变卦 山雷颐
 
-<img src="shapes/21.04.png" align=left>
+<img src="shapes/21.04.png" align="left">
 
 九四爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -887,7 +887,7 @@
 
 ### 六五变卦：火雷噬嗑 变卦 天雷无妄
 
-<img src="shapes/21.05.png" align=left>
+<img src="shapes/21.05.png" align="left">
 
 六五爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
@@ -928,7 +928,7 @@
 
 ### 上九变卦：火雷噬嗑 变卦 震为雷
 
-<img src="shapes/21.06.png" align=left>
+<img src="shapes/21.06.png" align="left">
 
 上九爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 

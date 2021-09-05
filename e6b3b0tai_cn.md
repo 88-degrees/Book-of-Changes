@@ -1,6 +1,6 @@
 # 泰 ䷊
 
-<img src="shapes/11.10.jpg" width="101" alt="泰" align=left>
+<img src="shapes/11.10.jpg" width="101" alt="泰" align="left">
 
 泰（tài）卦展示“泰”形势下各种变化的可能性。
 
@@ -600,7 +600,7 @@
 
 ### 初九变卦：地天泰 变卦 地风升
 
-<img src="shapes/11.01.png" align=left>
+<img src="shapes/11.01.png" align="left">
 
 初九爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
@@ -636,7 +636,7 @@
 
 ### 九二变卦：地天泰 变卦 地火明夷
 
-<img src="shapes/11.02.png" align=left>
+<img src="shapes/11.02.png" align="left">
 
 九二爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
@@ -674,7 +674,7 @@
 
 ### 九三变卦：地天泰 变卦 地泽临
 
-<img src="shapes/11.03.png" align=left>
+<img src="shapes/11.03.png" align="left">
 
 九三爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -710,7 +710,7 @@
 
 ### 六四变卦：地天泰 变卦 雷天大壮
 
-<img src="shapes/11.04.png" align=left>
+<img src="shapes/11.04.png" align="left">
 
 六四爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -750,7 +750,7 @@
 
 ### 六五变卦：地天泰 变卦 水天需
 
-<img src="shapes/11.05.png" align=left>
+<img src="shapes/11.05.png" align="left">
 
 六五爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -785,7 +785,7 @@
 
 ### 上六变卦：地天泰 变卦 山天大畜
 
-<img src="shapes/11.06.png" align=left>
+<img src="shapes/11.06.png" align="left">
 
 上六爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 

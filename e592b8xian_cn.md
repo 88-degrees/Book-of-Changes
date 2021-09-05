@@ -1,6 +1,6 @@
 # 咸 ䷞
 
-<img src="shapes/31.10.jpg" width="101" alt="咸" align=left>
+<img src="shapes/31.10.jpg" width="101" alt="咸" align="left">
 
 咸（xián）卦的代号是`1:6`，主卦是艮卦，卦象是山，阳数是`1`；客卦是兑卦，卦象是泽，阳数是`6`。
 
@@ -605,7 +605,7 @@
 
 ### 初六变卦：泽山咸 变卦 泽火革
 
-<img src="shapes/31.01.png" align=left>
+<img src="shapes/31.01.png" align="left">
 
 初六爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
@@ -646,7 +646,7 @@
 
 ### 六二变卦：泽山咸 变卦 泽风大过
 
-<img src="shapes/31.02.png" align=left>
+<img src="shapes/31.02.png" align="left">
 
 六二爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
@@ -685,7 +685,7 @@
 
 ### 九三变卦：泽山咸 变卦 泽地萃
 
-<img src="shapes/31.03.png" align=left>
+<img src="shapes/31.03.png" align="left">
 
 九三爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -725,7 +725,7 @@
 
 ### 九四变卦：泽山咸 变卦 水山蹇
 
-<img src="shapes/31.04.png" align=left>
+<img src="shapes/31.04.png" align="left">
 
 九四爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
@@ -765,7 +765,7 @@
 
 ### 九五变卦 泽山咸 变卦 雷山小过
 
-<img src="shapes/31.05.png" align=left>
+<img src="shapes/31.05.png" align="left">
 
 九五爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -804,7 +804,7 @@
 
 ### 上六变卦：泽山咸 变卦 天山遁
 
-<img src="shapes/31.06.png" align=left>
+<img src="shapes/31.06.png" align="left">
 
 上六爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 

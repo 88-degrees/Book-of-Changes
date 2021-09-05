@@ -1,6 +1,6 @@
 # 蛊 ䷑
 
-<img src="shapes/18.10.jpg" width="101" alt="蛊" align=left>
+<img src="shapes/18.10.jpg" width="101" alt="蛊" align="left">
 
 蛊（gǔ）卦展示“蛊”的形势下各种变化的可能性，“蛊”的意思是祸乱。
 
@@ -786,7 +786,7 @@
 
 ### 初六变卦：山风蛊 变卦 山天大畜
 
-<img src="shapes/18.01.png" align=left>
+<img src="shapes/18.01.png" align="left">
 
 初六爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
@@ -824,7 +824,7 @@
 
 ### 九二变卦：山风蛊 变卦 艮为山
 
-<img src="shapes/18.02.png" align=left>
+<img src="shapes/18.02.png" align="left">
 
 九二爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
@@ -864,7 +864,7 @@
 
 ### 九三变卦：山风蛊 变卦 山水蒙
 
-<img src="shapes/18.03.png" align=left>
+<img src="shapes/18.03.png" align="left">
 
 九三爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
@@ -902,7 +902,7 @@
 
 ### 六四变卦：山风蛊 变卦 火风鼎
 
-<img src="shapes/18.04.png" align=left>
+<img src="shapes/18.04.png" align="left">
 
 六四爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
@@ -940,7 +940,7 @@
 
 ### 六五变卦：山风蛊 变卦 巽为风
 
-<img src="shapes/18.05.png" align=left>
+<img src="shapes/18.05.png" align="left">
 
 六五爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -976,7 +976,7 @@
 
 ### 上九变卦：山风蛊 变卦 地风升
 
-<img src="shapes/18.06.png" align=left>
+<img src="shapes/18.06.png" align="left">
 
 上九爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 

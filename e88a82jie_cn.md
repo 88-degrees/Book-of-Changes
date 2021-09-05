@@ -448,7 +448,7 @@
 
 ### 初九变卦：水泽节 变卦 坎为水
 
- <img src="shapes/60.01.png" align=left>
+ <img src="shapes/60.01.png" align="left">
 
 初九爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
@@ -486,7 +486,7 @@
 
 ### 九二变卦：水泽节 变卦 水雷屯
 
- <img src="shapes/60.02.png" align=left>
+ <img src="shapes/60.02.png" align="left">
 
 九二爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -524,7 +524,7 @@
 
 ### 六三变卦：水泽节 变卦 水天需
 
- <img src="shapes/60.03.png" align=left>
+ <img src="shapes/60.03.png" align="left">
 
 六三爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -560,7 +560,7 @@
 
 ### 六四变卦：水泽节 变卦 兑为泽
 
- <img src="shapes/60.04.png" align=left>
+ <img src="shapes/60.04.png" align="left">
 
 六四爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -598,7 +598,7 @@
 
 ### 九五变卦：水泽节 变卦 地泽临
 
- <img src="shapes/60.05.png" align=left>
+ <img src="shapes/60.05.png" align="left">
 
 九五爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -634,7 +634,7 @@
 
 ### 上六变卦：水泽节 变卦 风泽中孚
 
- <img src="shapes/60.06.png" align=left>
+ <img src="shapes/60.06.png" align="left">
 
 上六爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 

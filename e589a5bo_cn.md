@@ -1,6 +1,6 @@
 # 剥 ䷖
 
-<img src="shapes/23.10.jpg" width="101" alt="剥" align=left>
+<img src="shapes/23.10.jpg" width="101" alt="剥" align="left">
 
 剥（bō）卦展示“剥”形势下各种变化的可能性。
 
@@ -841,7 +841,7 @@
 
 ### 初六变卦：山地剥 变卦 山雷颐
 
-<img src="shapes/23.01.png" align=left>
+<img src="shapes/23.01.png" align="left">
 
 初六爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -878,7 +878,7 @@
 
 ### 六二变卦：山地剥 变卦 山水蒙
 
-<img src="shapes/23.02.png" align=left>
+<img src="shapes/23.02.png" align="left">
 
 六二爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
@@ -915,7 +915,7 @@
 
 ### 六三变卦：山地剥 变卦 艮为山
 
-<img src="shapes/23.03.png" align=left>
+<img src="shapes/23.03.png" align="left">
 
 六三爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
@@ -953,7 +953,7 @@
 
 ### 六四变卦：山地剥 变卦 火地晋
 
-<img src="shapes/23.04.png" align=left>
+<img src="shapes/23.04.png" align="left">
 
 六四爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 
@@ -990,7 +990,7 @@
 
 ### 六五变卦：山地剥 变卦 风地观
 
-<img src="shapes/23.05.png" align=left>
+<img src="shapes/23.05.png" align="left">
 
 六五爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -1027,7 +1027,7 @@
 
 ### 上九变卦：山地剥 变卦 坤为地
 
-<img src="shapes/23.06.png" align=left>
+<img src="shapes/23.06.png" align="left">
 
 上九爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
