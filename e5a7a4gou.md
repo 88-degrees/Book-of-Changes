@@ -50,7 +50,7 @@
 
 ## Notes
 
-The single, divided, line at the top of **Guài ䷪**, the hexagram of the third month, has been displaced, and **Qián ☰** has ruled over the fourth month of the year. But the innings of the divided line commence again; and here we have in **Gòu ䷫** the hexagram of the fifth month, when light and heat are supposed both to begin to be less.
+The single, divided, line at the top of **Guài ䷪**, the hexagram of the third month, has been displaced, and **Qián ䷀** has ruled over the fourth month of the year. But the innings of the divided line commence again; and here we have in **Gòu ䷫** the hexagram of the fifth month, when light and heat are supposed both to begin to be less.
 
 In that divided line [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) saw the symbol of the small or unworthy man, beginning to insinuate himself into the government of the country. His influence, if unchecked, would go on to grow, and he would displace one good man after another, and fill the vacant seats with others like-minded with himself. The object of [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) in his [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), therefore, was to enjoin resistance to the encroachment of this bad man.
 
