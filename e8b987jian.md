@@ -58,7 +58,7 @@ The [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) seems to require three 
 
 This is the generally accepted view of this difficult passage. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors have a view of their own. I have been myself inclined to find less symbolism in it, and to take the southwest as the regions in the south and west of the kingdom, which we know from the [Shī Jīng](https://en.wikipedia.org/wiki/Classic_of_Poetry) were more especially devoted to [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his house, while the strength of the kings of [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty) lay in the north and east.
 
-'The idea of "the great man," Mencius's "minister of Heaven,"' is illustrated by the strong line in the fifth place, having for its correlate the weak line in 2. But favourableness of circumstances and place, and the presence of the great man do not dispense from the observance of firm correctness. Throughout these essays of the [**Yì**](https://en.wikipedia.org/wiki/I_Ching) this is always insisted on.
+'The idea of "the great man," Mencius's "minister of Heaven,"' is illustrated by the strong line in the fifth place, having for its correlate the weak line in 2. But favourableness of circumstances and place, and the presence of the great man do not dispense from the observance of firm correctness. Throughout these essays of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) this is always insisted on.
 
 Line 1 is weak, whereas it ought to be strong as being in an odd place. If its subject advance, he will not be able to cope with the difficulties of the situation, but be overwhelmed by them. Let him wait for a more favourable time.
 
