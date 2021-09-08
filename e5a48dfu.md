@@ -54,7 +54,7 @@
 
 The strong bottom line is the first of **☳ Zhèn**, the trigram of movement, and the upper trigram is **☷ Kūn**, denoting docility and capacity. The strong returning line will meet with no distressing obstacle, and the weak lines will change before it into strong, and be as friends. The bright quality will be developed brighter and brighter from day to day, and month to month.
 
-The sentence, `In seven days comes his return`, occasions some perplexity. If the reader will refer to hexagrams [44 ䷫](), [33 ䷠](), [12 ䷋](), [20 ䷓](), [23 ䷖](), and [2 ䷁](), he will see that during [the months denoted by those figures](month.jpg), the 5th, 6th, 7th, 8th, 9th, and 10th, the `yīn` lines have gradually been prevailing over the `yáng`, until in [**䷁ Kūn**](e59da4kun.md) (hexagrams 2) they have extruded them entirely from the lineal figure.
+The sentence, `In seven days comes his return`, occasions some perplexity. If the reader will refer to hexagrams [44 ䷫](e5a7a4gou.md), [33 ䷠](e589a5bo.md), [12 ䷋](e8a782guan.md), [20 ䷓](e590a6pi.md), [23 ䷖](e981afdun.md), and [2 ䷁](e59da4kun.md), he will see that during [the months denoted by those figures](month.jpg), the 5th, 6th, 7th, 8th, 9th, and 10th, the `yīn` lines have gradually been prevailing over the `yáng`, until in [**䷁ Kūn**](e59da4kun.md) (hexagrams 2) they have extruded them entirely from the lineal figure.
 
 Then comes our **䷗ Fù**, as a seventh figure, in which the `yáng` line begins to reassert itself,
 and from which it goes on to extrude the `yīn` lines in their turn. Explained therefore of the months of the year, we have to take a day for a month.
@@ -62,7 +62,7 @@ And something analogous -- we cannot say exactly what -- must have place in soci
 
 The concluding auspice or oracle to him who finds this **䷗ Fù** by divination is what we might expect.
 
-The subject of line 1 is of course the undivided line, meaning here, says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), `the way of the superior man`. There must have been some deviation from that, or 'returning' could not be spoken of.
+The subject of line 1 is of course the undivided line, meaning here, says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), `the way of the superior man`. There must have been some deviation from that, or `returning` could not be spoken of.
 
 Line 2 is in its proper place, and central; but it is weak. This is more than compensated for, however, by its adherence to line 1, the fifth line not being a proper correlate. Hence the return of its subject is called excellent or admirable.
 
