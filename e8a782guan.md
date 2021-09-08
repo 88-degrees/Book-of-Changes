@@ -1,14 +1,14 @@
-# Guān ䷓
+# ䷓ Guān
 
 * Looking, Contemplating
 
-> Chinese: 观 ䷓ guān
+> Chinese: guān 观 ䷓
 
 <a id="p-99"/>
 
 <img src="shapes/20.10.jpg" width="101" alt="观">
 
-**Guān ䷓** shows (how he whom it represents should be like) the worshipper who has washed his hands,
+**䷓ Guān** shows (how he whom it represents should be like) the worshipper who has washed his hands,
 but not (yet) presented his offerings; -- with sincerity and an appearance of dignity (commanding reverent regard).
 
 <a id="p-100"/>
@@ -53,15 +53,15 @@ but not (yet) presented his offerings; -- with sincerity and an appearance of di
 
 ## Notes
 
-The Chinese character **观** (Guān), from which this hexagram is named, is used in it in two senses. In the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan), the first paragraph of the treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan), and the paragraph on the Great Symbolism, it denotes showing, manifesting; in all other places it denotes contemplating, looking at. The subject of the hexagram is the sovereign and his subjects, how he manifests himself to them, and how they contemplate him. The two upper, undivided, lines belong to the sovereign; the four weak lines below them are his subjects, -- ministers and others who look up at him. **Guān ䷓** is the hexagram of the eighth month.
+The Chinese character [**观**](https://ctext.org/dictionary.pl?if=en&char=观) **Guān** , from which this hexagram is named, is used in it in two senses. In the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan), the first paragraph of the treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan), and the paragraph on the [Great Symbolism](https://ctext.org/book-of-changes/xiang-zhuan), it denotes showing, manifesting; in all other places it denotes contemplating, looking at. The subject of the hexagram is the sovereign and his subjects, how he manifests himself to them, and how they contemplate him. The two upper, undivided, lines belong to the sovereign; the four weak lines below them are his subjects, -- ministers and others who look up at him. **䷓ Guān** is the hexagram of the eighth month.
 
 In the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan), [King Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) symbolises the sovereign by a worshipper when he is most solemn in his religious service, at the commencement of it, full of sincerity and with a dignified carriage.
 
-Line 1 is weak, and in the lowest place, improper also for it; -- <sub>[p. 101](#p-101)</sub> the symbol of a thoughtless lad, who cannot see far, and takes only superficial views.
+Line 1 is weak, and in the lowest place, improper also for it; -- the symbol of a thoughtless lad, who cannot see far, and takes only superficial views.
 
 Line 2 is also weak, but in its proper place, showing a woman, living retired, and only able to peep as from her door at the subject of the fifth line. But ignorance and retirement are proper in a woman.
 
-Line 3, at the top of the lower trigram **Kūn ☷**, and weak, must belong to a subject of the utmost docility, and will wish to act only according to the exigency of time and circumstances.
+Line 3, at the top of the lower trigram **☷ Kūn**, and weak, must belong to a subject of the utmost docility, and will wish to act only according to the exigency of time and circumstances.
 
 Line 4, in the place proper to its weakness, is yet in immediate proximity to 5, representing the sovereign. Its subject is moved accordingly, and stirred to ambition.
 
