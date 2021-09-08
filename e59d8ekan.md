@@ -50,7 +50,7 @@
 
 ## Notes
 
-The trigram **Kǎn ䷜**, which is doubled to form this hexagram, is the lineal symbol of water. Its meaning, as a character, is 'a pit,' 'a perilous cavity, or defile;'
+The trigram **☵**, which is doubled to form this hexagram, is the lineal symbol of water. Its meaning, as a character, is 'a pit,' 'a perilous cavity, or defile;'
 and here and elsewhere in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) it leads the reader to think of a dangerous defile, with water flowing through it.
 It becomes symbolic of danger, and what the authors of the Text had in mind was to show how danger should be encountered, its effect on the mind, and how to get out of it.
 
