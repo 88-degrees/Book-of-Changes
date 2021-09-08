@@ -22,7 +22,7 @@
 
 > Matching Line 2 in Adjacent Hexagram: [**䷷**](e69785lv.md#56.2)
 
-3.<a name="55.3"></a> The third `NINE`, undivided, shows its subject with an (additional) screen of a large and thick banner, through which at midday he can see (the small) Mei star. (In the darkness) he breaks his right arm; but there will be no error.
+3.<a name="55.3"></a> The third `NINE`, undivided, shows its subject with an (additional) screen of a large and thick banner, through which at midday he can see (the small) Mèi star. (In the darkness) he breaks his right arm; but there will be no error.
 
 > **䷶** changing to [**䷲**](e99c87zhen.md#51.3)
 
@@ -58,7 +58,7 @@ The explanation of the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan)
 
 Line 1 is strong, and in an odd place. Its correlate is 4, which would in other figures be deemed unfortunate. But here even the Text calls 4 (for the reference must be to it) the mate of 1, and makes their belonging to different categories of no account. The lesson taught is that mutual helpfulness is the great instrument for the maintenance of prosperity. The subject of line 1 is encouraged to go forward.
 
-Line 2 is divided, and in its proper place. Occupying the centre of the trigram of brightness, the intelligence of it should be concentrated in its subject; but his correlate is the weak 5, weak and in an improper place, so that he becomes the benighted ruler, and darkness is shed from him down on 2, which is strangely symbolised. <sub>[p. 187](e69785lv.md#p-187)</sub> The subject of 2 therefore, if he advance, will not be acceptable to his ruler, and will not be employed. The only way in which he. can be useful by developing the light that is in him is pointed out in the conclusion. The constellation of the [Bushel](https://everything2.com/title/Northern+Bushel) corresponds to our Ursa Major, or perhaps part of Sagittarius.
+Line 2 is divided, and in its proper place. Occupying the centre of the trigram of brightness, the intelligence of it should be concentrated in its subject; but his correlate is the weak 5, weak and in an improper place, so that he becomes the benighted ruler, and darkness is shed from him down on 2, which is strangely symbolised. [The subject of 2 therefore](e69785lv.md#p-187), if he advance, will not be acceptable to his ruler, and will not be employed. The only way in which he. can be useful by developing the light that is in him is pointed out in the conclusion. The constellation of the [Bushel](https://everything2.com/title/Northern+Bushel) corresponds to our Ursa Major, or perhaps part of Sagittarius.
 
 Line 3 is strong, in its proper place. It is the last line moreover of the trigram of Brightness. All these conditions are favourable to the employment of its subject; but its correlate is the weak 6, which is at the extremity of the trigram of movement. There is no more power therefore in 6, and the subject of 3 has no one to co-operate with him. His symbolism and auspice are worse than those of 2; but his own proper goodness and capacity will save him from error. **Mèi** is a small star in or near the [Bushel](https://everything2.com/title/Northern+Bushel).
 
