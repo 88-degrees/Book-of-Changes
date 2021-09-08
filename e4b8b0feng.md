@@ -22,7 +22,7 @@
 
 > Matching Line 2 in Adjacent Hexagram: [**䷷**](e69785lv.md#56.2)
 
-3.<a name="55.3"></a> The third `NINE`, undivided, shows its subject with an (additional) screen of a large and thick banner, through which at midday he can see (the small) Mei star. (In the darkness) he breaks his right arm; but there will be no error.
+3.<a name="55.3"></a> The third `NINE`, undivided, shows its subject with an (additional) screen of a large and thick banner, through which at midday he can see (the small) Mèi star. (In the darkness) he breaks his right arm; but there will be no error.
 
 > **䷶** changing to [**䷲**](e99c87zhen.md#51.3)
 
