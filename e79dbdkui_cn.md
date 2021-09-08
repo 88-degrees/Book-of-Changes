@@ -456,7 +456,7 @@
 
 ### 初九变卦：火泽睽 变卦 火水未济
 
-<img src="shapes/38.01.png" align="left">
+<img src="shapes/38.01.png" width="121"align="left">
 
 初九爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
@@ -493,7 +493,7 @@
 
 ### 九二变卦：火泽睽 变卦 火雷噬嗑
 
-<img src="shapes/38.02.png" align="left">
+<img src="shapes/38.02.png" width="121"align="left">
 
 九二爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -530,7 +530,7 @@
 
 ### 六三变卦：火泽睽 变卦 火天大有
 
-<img src="shapes/38.03.png" align="left">
+<img src="shapes/38.03.png" width="121"align="left">
 
 六三爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -565,7 +565,7 @@
 
 ### 九四变卦：火泽睽 变卦 山泽损
 
-<img src="shapes/38.04.png" align="left">
+<img src="shapes/38.04.png" width="121"align="left">
 
 九四爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -606,7 +606,7 @@
 
 ### 六五变卦：火泽睽 变卦 天泽履
 
-<img src="shapes/38.05.png" align="left">
+<img src="shapes/38.05.png" width="121"align="left">
 
 六五爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -645,7 +645,7 @@
 
 ### 上九变卦：火泽睽 变卦 雷泽归妹
 
-<img src="shapes/38.06.png" align="left">
+<img src="shapes/38.06.png" width="121"align="left">
 
 上九爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 

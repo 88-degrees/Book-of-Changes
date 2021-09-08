@@ -547,7 +547,7 @@
 
 ### 初六变卦：火风鼎 变卦 火天大有
 
-<img src="shapes/50.01.png" align="left">
+<img src="shapes/50.01.png" width="121"align="left">
 
 初六爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -582,7 +582,7 @@
 
 ### 九二变卦：火风鼎 变卦 火山旅
 
-<img src="shapes/50.02.png" align="left">
+<img src="shapes/50.02.png" width="121"align="left">
 
 九二爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
@@ -619,7 +619,7 @@
 
 ### 九三变卦：火风鼎 变卦 火水未济
 
-<img src="shapes/50.03.png" align="left">
+<img src="shapes/50.03.png" width="121"align="left">
 
 九三爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
@@ -656,7 +656,7 @@
 
 ### 九四变卦：火风鼎 变卦 山风蛊
 
-<img src="shapes/50.04.png" align="left">
+<img src="shapes/50.04.png" width="121"align="left">
 
 九四爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
@@ -693,7 +693,7 @@
 
 ### 六五变卦：风火鼎 变卦 天风姤
 
-<img src="shapes/50.05.png" align="left">
+<img src="shapes/50.05.png" width="121"align="left">
 
 六五爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -732,7 +732,7 @@
 
 ### 上九变卦：火风鼎 变卦 雷风恒
 
-<img src="shapes/50.06.png" align="left">
+<img src="shapes/50.06.png" width="121"align="left">
 
 上九爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 

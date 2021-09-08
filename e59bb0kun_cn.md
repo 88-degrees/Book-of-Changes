@@ -415,7 +415,7 @@
 
 ### 初六变卦：泽水困 变卦 兑为泽
 
-<img src="shapes/47.01.png" align="left">
+<img src="shapes/47.01.png" width="121"align="left">
 
 初六爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -456,7 +456,7 @@
 
 ### 九二变卦：泽水困 变卦 泽地萃
 
-<img src="shapes/47.02.png" align="left">
+<img src="shapes/47.02.png" width="121"align="left">
 
 九二爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -496,7 +496,7 @@
 
 ### 六三变卦：泽水困 变卦 泽风大过
 
-<img src="shapes/47.03.png" align="left">
+<img src="shapes/47.03.png" width="121"align="left">
 
 六三爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
@@ -534,7 +534,7 @@
 
 ### 九四变卦：泽水困 变卦 坎为水
 
-<img src="shapes/47.04.png" align="left">
+<img src="shapes/47.04.png" width="121"align="left">
 
 九四爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
@@ -577,7 +577,7 @@
 
 ### 九五变卦：泽水困 变卦 雷水解
 
-<img src="shapes/47.05.png" align="left">
+<img src="shapes/47.05.png" width="121"align="left">
 
 九五爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -614,7 +614,7 @@
 
 ### 上六变卦：泽水困 变卦 天水讼
 
-<img src="shapes/47.06.png" align="left">
+<img src="shapes/47.06.png" width="121"align="left">
 
 上六爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 

@@ -719,7 +719,7 @@
 
 ### 初九变卦：兑为泽 变卦 泽水困卦
 
-<img src="shapes/58.01.png" align="left">
+<img src="shapes/58.01.png" width="121"align="left">
 
 初九爻动变得周易[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -755,7 +755,7 @@
 
 ### 九二变卦：兑为泽 变卦 泽雷随
 
-<img src="shapes/58.02.png" align="left">
+<img src="shapes/58.02.png" width="121"align="left">
 
 九二爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
@@ -791,7 +791,7 @@
 
 ### 六三变卦：兑为泽 变卦 泽天夬
 
-<img src="shapes/58.03.png" align="left">
+<img src="shapes/58.03.png" width="121"align="left">
 
 六三爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -827,7 +827,7 @@
 
 ### 九四变卦：兑为泽 变卦 水泽节
 
-<img src="shapes/58.04.png" align="left">
+<img src="shapes/58.04.png" width="121"align="left">
 
 九四爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
@@ -865,7 +865,7 @@
 
 ### 九五变卦：兑为泽 变卦 雷泽归妹
 
-<img src="shapes/58.05.png" align="left">
+<img src="shapes/58.05.png" width="121"align="left">
 
 九五爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -901,7 +901,7 @@
 
 ### 上六变卦：兑为泽 变卦 天泽履
 
-<img src="shapes/58.06.png" align="left">
+<img src="shapes/58.06.png" width="121"align="left">
 
  上六爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 

@@ -607,7 +607,7 @@
 
 ### 初九变卦：泽天夬 变卦 泽风大过
 
-<img src="shapes/43.01.png" align="left">
+<img src="shapes/43.01.png" width="121"align="left">
 
 初九爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
@@ -644,7 +644,7 @@
 
 ### 九二变卦：泽天夬 变卦 泽火革
 
-<img src="shapes/43.02.png" align="left">
+<img src="shapes/43.02.png" width="121"align="left">
 
 九二爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
@@ -684,7 +684,7 @@
 
 ### 九三变卦：泽天夬 变卦兑为泽
 
-<img src="shapes/43.03.png" align="left">
+<img src="shapes/43.03.png" width="121"align="left">
 
 九三爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -723,7 +723,7 @@
 
 ### 九四变卦：泽天夬 变卦 水天需
 
-<img src="shapes/43.04.png" align="left">
+<img src="shapes/43.04.png" width="121"align="left">
 
 九四爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -758,7 +758,7 @@
 
 ### 九五变卦：泽天夬 变卦 雷天大壮
 
-<img src="shapes/43.05.png" align="left">
+<img src="shapes/43.05.png" width="121"align="left">
 
 九五爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -796,7 +796,7 @@
 
 ### 上六变卦：泽天夬 变卦 乾为天
 
-<img src="shapes/43.06.png" align="left">
+<img src="shapes/43.06.png" width="121"align="left">
 
 上六爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 

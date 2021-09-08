@@ -819,7 +819,7 @@
 
 ### 初九变卦：地雷复 变卦 坤为地
 
-<img src="shapes/24.01.png" align="left">
+<img src="shapes/24.01.png" width="121"align="left">
 
 初九爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -861,7 +861,7 @@
 
 ### 六二变卦：地雷复 变卦 地泽临
 
-<img src="shapes/24.02.png" align="left">
+<img src="shapes/24.02.png" width="121"align="left">
 
 六二爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -898,7 +898,7 @@
 
 ### 六三变卦：地雷复 变卦 地火明夷
 
-<img src="shapes/24.03.png" align="left">
+<img src="shapes/24.03.png" width="121"align="left">
 
 六三爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
@@ -935,7 +935,7 @@
 
 ### 六四变卦：地雷复 变卦 震为雷
 
-<img src="shapes/24.04.png" align="left">
+<img src="shapes/24.04.png" width="121"align="left">
 
 六四爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -973,7 +973,7 @@
 
 ### 六五变卦：地雷复 变卦 水雷屯
 
-<img src="shapes/24.05.png" align="left">
+<img src="shapes/24.05.png" width="121"align="left">
 
 六五爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -1011,7 +1011,7 @@
 
 ### 上六变卦：地雷复 变卦 山雷颐
 
-<img src="shapes/24.06.png" align="left">
+<img src="shapes/24.06.png" width="121"align="left">
 
 上六爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 

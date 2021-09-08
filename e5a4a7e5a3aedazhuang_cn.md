@@ -546,7 +546,7 @@
 
 ### 初九变卦：雷天大壮 变卦 雷风恒
 
-<img src="shapes/34.01.png" align="left">
+<img src="shapes/34.01.png" width="121"align="left">
 
 初九爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -584,7 +584,7 @@
 
 ### 九二变卦：雷天大壮 变卦 雷火丰
 
-<img src="shapes/34.02.png" align="left">
+<img src="shapes/34.02.png" width="121"align="left">
 
 九二爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -619,7 +619,7 @@
 
 ### 九三变卦：雷天大壮 变卦 雷泽归妹
 
-<img src="shapes/34.03.png" align="left">
+<img src="shapes/34.03.png" width="121"align="left">
 
 九三爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -655,7 +655,7 @@
 
 ### 九四变卦：雷天大壮 变卦 地天泰
 
-<img src="shapes/34.04.png" align="left">
+<img src="shapes/34.04.png" width="121"align="left">
 
 九四爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -692,7 +692,7 @@
 
 ### 六五变卦：雷天大壮 变卦 泽天夬
 
-<img src="shapes/34.05.png" align="left">
+<img src="shapes/34.05.png" width="121"align="left">
 
 六五爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -730,7 +730,7 @@
 
 ### 上六变卦：雷天大壮 变卦 火天大有
 
-<img src="shapes/34.06.png" align="left">
+<img src="shapes/34.06.png" width="121"align="left">
 
 上六爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 

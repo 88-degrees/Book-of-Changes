@@ -734,7 +734,7 @@
 
 ### 初九变卦：天火同人 变卦 天山遁
 
-<img src="shapes/13.01.png" align="left">
+<img src="shapes/13.01.png" width="121"align="left">
 
 初九爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 
@@ -769,7 +769,7 @@
 
 ### 六二变卦：天火同人 变卦 乾为天
 
-<img src="shapes/13.02.png" align="left">
+<img src="shapes/13.02.png" width="121"align="left">
 
 六二爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
@@ -804,7 +804,7 @@
 
 ### 九三变卦：天火同人 变卦 天雷无妄
 
-<img src="shapes/13.03.png" align="left">
+<img src="shapes/13.03.png" width="121"align="left">
 
 九三爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
@@ -840,7 +840,7 @@
 
 ### 九四变卦：天火同人 变卦 风火家人
 
-<img src="shapes/13.04.png" align="left">
+<img src="shapes/13.04.png" width="121"align="left">
 
 九四爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -878,7 +878,7 @@
 
 ### 九五变卦：天火同人 变卦 离为火
 
-<img src="shapes/13.05.png" align="left">
+<img src="shapes/13.05.png" width="121"align="left">
 
 九五爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
@@ -913,7 +913,7 @@
 
 ### 上九变卦：天火同人 变卦 泽火革
 
-<img src="shapes/13.06.png" align="left">
+<img src="shapes/13.06.png" width="121"align="left">
 
 上九爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 

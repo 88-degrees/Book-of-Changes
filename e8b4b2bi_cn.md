@@ -524,7 +524,7 @@
 
 ### 初九变卦：山火贲 变卦 艮为山
 
-<img src="shapes/22.01.png" align="left">
+<img src="shapes/22.01.png" width="121"align="left">
 
 初九爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
@@ -565,7 +565,7 @@
 
 ### 六二变卦：山火贲 变卦 山天大畜
 
-<img src="shapes/22.02.png" align="left">
+<img src="shapes/22.02.png" width="121"align="left">
 
 六二爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
@@ -602,7 +602,7 @@
 
 ### 九三变卦：山火贲 变卦 山雷颐
 
-<img src="shapes/22.03.png" align="left">
+<img src="shapes/22.03.png" width="121"align="left">
 
 九三爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -641,7 +641,7 @@
 
 ### 六四变卦：山火贲 变卦 离为火
 
-<img src="shapes/22.04.png" align="left">
+<img src="shapes/22.04.png" width="121"align="left">
 
 六四爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
@@ -678,7 +678,7 @@
 
 ### 六五变卦：山火贲 变卦 风火家人
 
-<img src="shapes/22.05.png" align="left">
+<img src="shapes/22.05.png" width="121"align="left">
 
 六五爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -719,7 +719,7 @@
 
 ### 上九变卦：山火贲 变卦 地火明夷
 
-<img src="shapes/22.06.png" align="left">
+<img src="shapes/22.06.png" width="121"align="left">
 
 上九爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 

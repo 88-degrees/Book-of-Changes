@@ -561,7 +561,7 @@
 
 ### 初九变卦：风雷益 变卦 风地观
 
-<img src="shapes/42.01.png" align="left">
+<img src="shapes/42.01.png" width="121"align="left">
 
 初九爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -598,7 +598,7 @@
 
 ### 六二变卦：风雷益 变卦 风泽中孚
 
-<img src="shapes/42.02.png" align="left">
+<img src="shapes/42.02.png" width="121"align="left">
 
 六二爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -633,7 +633,7 @@
 
 ### 六三变卦：风雷益 变卦 风火家人
 
-<img src="shapes/42.03.png" align="left">
+<img src="shapes/42.03.png" width="121"align="left">
 
 六三爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -674,7 +674,7 @@
 
 ### 六四变卦：风雷益 变卦 天雷无妄
 
-<img src="shapes/42.04.png" align="left">
+<img src="shapes/42.04.png" width="121"align="left">
 
 六四爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
@@ -711,7 +711,7 @@
 
 ### 九五变卦：风雷益 变卦 山雷颐
 
-<img src="shapes/42.05.png" align="left">
+<img src="shapes/42.05.png" width="121"align="left">
 
 九五爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -750,7 +750,7 @@
 
 ### 上九变卦：风雷益 变卦 水雷屯
 
-<img src="shapes/42.06.png" align="left">
+<img src="shapes/42.06.png" width="121"align="left">
 
 上九爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 

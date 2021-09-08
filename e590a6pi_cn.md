@@ -634,7 +634,7 @@
 
 ### 初六变卦：天地否 变卦 天雷无妄
 
-<img src="shapes/12.01.png" align="left">
+<img src="shapes/12.01.png" width="121"align="left">
 
 初六爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
@@ -671,7 +671,7 @@
 
 ### 六二变卦：天地否 变卦 天水讼
 
-<img src="shapes/12.02.png" align="left">
+<img src="shapes/12.02.png" width="121"align="left">
 
 六二爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
@@ -709,7 +709,7 @@
 
 ### 六三变卦：天地否 变卦 天山遁
 
-<img src="shapes/12.03.png" align="left">
+<img src="shapes/12.03.png" width="121"align="left">
 
 六三爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 
@@ -747,7 +747,7 @@
 
 ### 九四变卦：天地否 变卦 风地观
 
-<img src="shapes/12.04.png" align="left">
+<img src="shapes/12.04.png" width="121"align="left">
 
 九四爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -785,7 +785,7 @@
 
 ### 九五变卦：天地否 变卦 火地晋
 
-<img src="shapes/12.05.png" align="left">
+<img src="shapes/12.05.png" width="121"align="left">
 
 九五爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 
@@ -822,7 +822,7 @@
 
 ### 上九变卦：天地否 变卦 泽地萃
 
-<img src="shapes/12.06.png" align="left">
+<img src="shapes/12.06.png" width="121"align="left">
 
 上九爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 

@@ -419,7 +419,7 @@
 
 ### 初九变卦：风泽中孚 变卦 风水涣
 
-<img src="shapes/61.01.png" align="left"/>
+<img src="shapes/61.01.png" width="121"align="left"/>
 
 初九爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -455,7 +455,7 @@
 
 ### 九二变卦：风泽中孚 变卦 风雷益
 
-<img src="shapes/61.02.png" align="left"/>
+<img src="shapes/61.02.png" width="121"align="left"/>
 
 九二爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -492,7 +492,7 @@
 
 ### 六三变卦：风泽中孚 变卦 风天小畜
 
-<img src="shapes/61.03.png" align="left"/>
+<img src="shapes/61.03.png" width="121"align="left"/>
 
 六三爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -528,7 +528,7 @@
 
 ### 六四变卦：风泽中孚 变卦 天泽履
 
-<img src="shapes/61.04.png" align="left"/>
+<img src="shapes/61.04.png" width="121"align="left"/>
 
 六四爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -566,7 +566,7 @@
 
 ### 九五变卦：风泽中孚 变卦 山泽损
 
-<img src="shapes/61.05.png" align="left"/>
+<img src="shapes/61.05.png" width="121"align="left"/>
 
 九五爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -604,7 +604,7 @@
 
 ### 上九变卦：风泽中孚 变卦 水泽节
 
-<img src="shapes/61.06.png" align="left"/>
+<img src="shapes/61.06.png" width="121"align="left"/>
 
 上九爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 

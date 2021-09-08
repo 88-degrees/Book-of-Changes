@@ -455,7 +455,7 @@
 
 ### 初六变卦：地山谦 变卦 地火明夷
 
-<img src="shapes/15.01.png" align="left">
+<img src="shapes/15.01.png" width="121"align="left">
 
 初六爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
@@ -492,7 +492,7 @@
 
 ### 六二变卦：地山谦 变卦 地风升
 
-<img src="shapes/15.02.png" align="left">
+<img src="shapes/15.02.png" width="121"align="left">
 
 六二爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
@@ -529,7 +529,7 @@
 
 ### 九三变卦：地山谦 变卦 坤为地
 
-<img src="shapes/15.03.png" align="left">
+<img src="shapes/15.03.png" width="121"align="left">
 
 九三爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -566,7 +566,7 @@
 
 ### 六四变卦：地山谦 变卦 雷山小过
 
-<img src="shapes/15.04.png" align="left">
+<img src="shapes/15.04.png" width="121"align="left">
 
 六四爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -603,7 +603,7 @@
 
 ### 六五变卦：地山谦 变卦 水山蹇
 
-<img src="shapes/15.05.png" align="left">
+<img src="shapes/15.05.png" width="121"align="left">
 
 六五爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
@@ -642,7 +642,7 @@
 
 ### 上六变卦：地山谦 变卦 艮为山
 
-<img src="shapes/15.06.png" align="left">
+<img src="shapes/15.06.png" width="121"align="left">
 
 上六爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 

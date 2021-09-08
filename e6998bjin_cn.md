@@ -571,7 +571,7 @@
 
 ### 初六变卦：火地晋 变卦 火雷噬嗑
 
-<img src="shapes/35.01.png" align="left">
+<img src="shapes/35.01.png" width="121"align="left">
 
 初六爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -607,7 +607,7 @@
 
 ### 六二变卦：火地晋 变卦 火水未济
 
-<img src="shapes/35.02.png" align="left">
+<img src="shapes/35.02.png" width="121"align="left">
 
 六二爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
@@ -644,7 +644,7 @@
 
 ### 六三变卦：火地晋 变卦 火山旅
 
-<img src="shapes/35.03.png" align="left">
+<img src="shapes/35.03.png" width="121"align="left">
 
 六三爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
@@ -679,7 +679,7 @@
 
 ### 九四变卦：火地晋 变卦 山地剥
 
-<img src="shapes/35.04.png" align="left">
+<img src="shapes/35.04.png" width="121"align="left">
 
 九四爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -716,7 +716,7 @@
 
 ### 六五变卦：火地晋 变卦 天地否
 
-<img src="shapes/35.05.png" align="left">
+<img src="shapes/35.05.png" width="121"align="left">
 
 六五爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -753,7 +753,7 @@
 
 ### 上九变卦：火地晋 变卦 雷地豫
 
-<img src="shapes/35.06.png" align="left">
+<img src="shapes/35.06.png" width="121"align="left">
 
 上九爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 

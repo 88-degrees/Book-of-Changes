@@ -462,7 +462,7 @@
 
 ### 初六变卦：艮为山 变卦 火山贲
 
-<img src="shapes/52.01.png" align="left">
+<img src="shapes/52.01.png" width="121"align="left">
 
 初六爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
@@ -497,7 +497,7 @@
 
 ### 六二变卦：艮为山 变卦 山风蛊
 
-<img src="shapes/52.02.png" align="left">
+<img src="shapes/52.02.png" width="121"align="left">
 
 六二爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
@@ -534,7 +534,7 @@
 
 ### 九三变卦：艮为山 变卦 山地剥
 
-<img src="shapes/52.03.png" align="left">
+<img src="shapes/52.03.png" width="121"align="left">
 
 九三爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -571,7 +571,7 @@
 
 ### 六四变卦：艮为山 变卦 火山旅
 
-<img src="shapes/52.04.png" align="left">
+<img src="shapes/52.04.png" width="121"align="left">
 
 六四爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
@@ -608,7 +608,7 @@
 
 ### 六五变卦：艮为山 变卦 风山渐
 
-<img src="shapes/52.05.png" align="left">
+<img src="shapes/52.05.png" width="121"align="left">
 
 六五爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
@@ -645,7 +645,7 @@
 
 ### 上九变卦：艮为山 变卦 地山谦
 
-<img src="shapes/52.06.png" align="left">
+<img src="shapes/52.06.png" width="121"align="left">
 
 上九爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 

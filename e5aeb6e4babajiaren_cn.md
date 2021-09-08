@@ -579,7 +579,7 @@
 
 ### 初九变卦：风火家人 变卦 风山渐
 
-<img src="shapes/37.01.png" align="left">
+<img src="shapes/37.01.png" width="121"align="left">
 
 初九爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
@@ -616,7 +616,7 @@
 
 ### 六二变卦：风火家人 变卦 风天小畜
 
-<img src="shapes/37.02.png" align="left">
+<img src="shapes/37.02.png" width="121"align="left">
 
 六二爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -653,7 +653,7 @@
 
 ### 九三变卦：风火家人 变卦 风雷益
 
-<img src="shapes/37.03.png" align="left">
+<img src="shapes/37.03.png" width="121"align="left">
 
 九三爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -690,7 +690,7 @@
 
 ### 六四变卦：风火家人 变卦 天火同人
 
-<img src="shapes/37.04.png" align="left">
+<img src="shapes/37.04.png" width="121"align="left">
 
 六四爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -727,7 +727,7 @@
 
 ### 九五变卦：风火家人 变卦 山火贲
 
-<img src="shapes/37.05.png" align="left">
+<img src="shapes/37.05.png" width="121"align="left">
 
 九五爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
@@ -765,7 +765,7 @@
 
 ### 上九变卦：风火家人 变卦 水火既济
 
-<img src="shapes/37.06.png" align="left">
+<img src="shapes/37.06.png" width="121"align="left">
 
 上九爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 

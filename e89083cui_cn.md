@@ -575,7 +575,7 @@
 
 ### 初六变卦：泽地萃 变卦 泽雷随
 
-<img src="shapes/45.01.png" align="left">
+<img src="shapes/45.01.png" width="121"align="left">
 
 初六爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
@@ -610,7 +610,7 @@
 
 ### 六二变卦：泽地萃 变卦 泽水困
 
-<img src="shapes/45.02.png" align="left">
+<img src="shapes/45.02.png" width="121"align="left">
 
 六二爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -645,7 +645,7 @@
 
 ### 六三变卦：泽地萃 变卦 泽山咸
 
-<img src="shapes/45.03.png" align="left">
+<img src="shapes/45.03.png" width="121"align="left">
 
 六三爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -680,7 +680,7 @@
 
 ### 九四变卦：泽地萃 变卦 水地比
 
-<img src="shapes/45.04.png" align="left">
+<img src="shapes/45.04.png" width="121"align="left">
 
 九四爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
@@ -719,7 +719,7 @@
 
 ### 九五变卦：泽地萃 变卦 雷地豫
 
-<img src="shapes/45.05.png" align="left">
+<img src="shapes/45.05.png" width="121"align="left">
 
 九五爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -758,7 +758,7 @@
 
 ### 上六变卦：泽地萃 变卦 天地否
 
-<img src="shapes/45.06.png" align="left">
+<img src="shapes/45.06.png" width="121"align="left">
 
 上六爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 

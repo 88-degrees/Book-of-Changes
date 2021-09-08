@@ -438,7 +438,7 @@
 
 ### 初六变卦：地风升 变卦 地天泰
 
-<img src="shapes/46.01.png" align="left">
+<img src="shapes/46.01.png" width="121"align="left">
 
 初六爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -476,7 +476,7 @@
 
 ### 九二变卦：地风升 变卦 地山谦
 
-<img src="shapes/46.02.png" align="left">
+<img src="shapes/46.02.png" width="121"align="left">
 
 九二爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
@@ -513,7 +513,7 @@
 
 ### 九三变卦：地风升 变卦 地水师
 
-<img src="shapes/46.03.png" align="left">
+<img src="shapes/46.03.png" width="121"align="left">
 
 九三爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
@@ -551,7 +551,7 @@
 
 ### 六四变卦：地风升 变卦 雷风恒
 
-<img src="shapes/46.04.png" align="left">
+<img src="shapes/46.04.png" width="121"align="left">
 
 六四爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -589,7 +589,7 @@
 
 ### 六五变卦：地风升 变卦 水风井
 
-<img src="shapes/46.05.png" align="left">
+<img src="shapes/46.05.png" width="121"align="left">
 
 六五爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
@@ -627,7 +627,7 @@
 
 ### 上六变卦：地风升 变卦 山风蛊
 
-<img src="shapes/46.06.png" align="left">
+<img src="shapes/46.06.png" width="121"align="left">
 
 上六爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 

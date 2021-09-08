@@ -796,7 +796,7 @@
 
 ### 初六变卦：地水师 变卦 地泽临
 
-<img src="shapes/07.01.png" align="left">
+<img src="shapes/07.01.png" width="121"align="left">
 
 初六爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -831,7 +831,7 @@
 
 ### 九二变卦：地水师 变卦 坤为地
 
-<img src="shapes/07.02.png" align="left">
+<img src="shapes/07.02.png" width="121"align="left">
 
 九二爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -868,7 +868,7 @@
 
 ### 六三变卦：地水师 变卦 地风升
 
-<img src="shapes/07.03.png" align="left">
+<img src="shapes/07.03.png" width="121"align="left">
 
 六三爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
@@ -905,7 +905,7 @@
 
 ### 六四变卦：地水师 变卦 雷水解
 
-<img src="shapes/07.04.png" align="left">
+<img src="shapes/07.04.png" width="121"align="left">
 
 六四爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -942,7 +942,7 @@
 
 ### 六五变卦：地水师 变卦 坎为水
 
-<img src="shapes/07.05.png" align="left">
+<img src="shapes/07.05.png" width="121"align="left">
 
 六五爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
@@ -979,7 +979,7 @@
 
 ### 上六变卦：地水师 变卦 山水蒙
 
-<img src="shapes/07.06.png" align="left">
+<img src="shapes/07.06.png" width="121"align="left">
 
 上六爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 

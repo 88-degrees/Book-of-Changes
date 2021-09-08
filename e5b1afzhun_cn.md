@@ -701,7 +701,7 @@
 
 ### 初九变卦：水雷屯 变卦 水地比
 
-<img src="shapes/03.01.png" align="left"/>
+<img src="shapes/03.01.png" width="121"align="left"/>
 
 初九爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
@@ -739,7 +739,7 @@
 
 ### 六二变卦：水雷屯 变卦 水泽节
 
-<img src="shapes/03.02.png" align="left"/>
+<img src="shapes/03.02.png" width="121"align="left"/>
 
 六二爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
@@ -780,7 +780,7 @@
 
 ### 六三变卦：水雷屯 变卦 水火既济
 
-<img src="shapes/03.03.png" align="left"/>
+<img src="shapes/03.03.png" width="121"align="left"/>
 
 六三爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -818,7 +818,7 @@
 
 ### 六四变卦：水雷屯 变卦 泽雷随
 
-<img src="shapes/03.04.png" align="left"/>
+<img src="shapes/03.04.png" width="121"align="left"/>
 
 六四爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
@@ -855,7 +855,7 @@
 
 ### 九五变卦：水雷屯 变卦 地雷复
 
-<img src="shapes/03.05.png" align="left"/>
+<img src="shapes/03.05.png" width="121"align="left"/>
 
 九五爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
@@ -890,7 +890,7 @@
 
 ### 上六变卦：水雷屯 变卦 风雷益
 
-<img src="shapes/03.06.png" align="left"/>
+<img src="shapes/03.06.png" width="121"align="left"/>
 
 上六爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 

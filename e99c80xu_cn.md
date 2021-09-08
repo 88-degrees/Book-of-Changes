@@ -606,7 +606,7 @@
 
 ### 初九变卦：水天需 变卦 水风井
 
-<img src="shapes/05.01.png" align="left">
+<img src="shapes/05.01.png" width="121"align="left">
 
 初九爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
@@ -645,7 +645,7 @@
 
 ### 九二变卦：水天需 变卦 水火既济
 
-<img src="shapes/05.02.png" align="left">
+<img src="shapes/05.02.png" width="121"align="left">
 
 九二爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -682,7 +682,7 @@
 
 ### 九三变卦：水天需 变卦 水泽节
 
-<img src="shapes/05.03.png" align="left">
+<img src="shapes/05.03.png" width="121"align="left">
 
 九三爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
@@ -723,7 +723,7 @@
 
 ### 六四变卦：水天需 变卦 泽天夬
 
-<img src="shapes/05.04.png" align="left">
+<img src="shapes/05.04.png" width="121"align="left">
 
 六四爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -760,7 +760,7 @@
 
 ### 九五变卦：水天需 变卦 地天泰
 
-<img src="shapes/05.05.png" align="left">
+<img src="shapes/05.05.png" width="121"align="left">
 
 九五爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -797,7 +797,7 @@
 
 ### 上六变卦：水天需 变卦 风天小畜
 
-<img src="shapes/05.06.png" align="left">
+<img src="shapes/05.06.png" width="121"align="left">
 
 上六爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
