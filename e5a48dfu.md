@@ -1,14 +1,14 @@
-# Fù ䷗
+# ䷗ Fù
 
 * Returning
 
-> Chinese: 复 ䷗ fù
+> Chinese: fù 复 ䷗
 
 <a id="p-107"/>
 
 <img src="shapes/24.10.jpg" width="101" alt="复">
 
-**Fù ䷗** indicates that there will be free course and progress (in what it denotes). (The subject of it) finds no one to distress him in his exits and entrances; friends come to him, and no error is committed . He will return and repeat his (proper) course. In seven days comes his return. There will be advantage in whatever direction movement is made.
+**䷗ Fù** indicates that there will be free course and progress (in what it denotes). (The subject of it) finds no one to distress him in his exits and entrances; friends come to him, and no error is committed . He will return and repeat his (proper) course. In seven days comes his return. There will be advantage in whatever direction movement is made.
 
 <a id="p-108"/>
 
@@ -50,19 +50,19 @@
 
 ## Notes
 
-**Fù ䷗** symbolises the idea of returning, coming back or over again. The last hexagram showed us inferior prevailing over superior men, all that is good in nature and society yielding before what is bad. But change is the law of nature and society. When decay has reached its climax, recovery will begin to take place. In Po we had one strong topmost line, and five weak lines below it; here we have one strong line, and five weak lines above it. To illustrate the subject from what we see in nature, -- [**Bō ䷖**](e589a5bo.md) is the hexagram of the [ninth month](month.jpg), in which the triumph of cold and decay in the year is nearly complete. It is complete in the tenth month, whose hexagram is [**Kūn ䷁**](e59da4kun.md); then follows our hexagram **Fù ䷗**, belonging to the eleventh month, in which was the winter solstice when the sun turned back in his course, and moved with a constant regular progress towards the summer solstice. In harmony with these changes of nature are the changes in the political and social state of a nation. There is nothing in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) to suggest the hope of a perfect society or kingdom that cannot be moved.
+**䷗ Fù** symbolises the idea of returning, coming back or over again. The last hexagram showed us inferior prevailing over superior men, all that is good in nature and society yielding before what is bad. But change is the law of nature and society. When decay has reached its climax, recovery will begin to take place. In Po we had one strong topmost line, and five weak lines below it; here we have one strong line, and five weak lines above it. To illustrate the subject from what we see in nature, -- [**䷖ Bō**](e589a5bo.md) is the hexagram of the [ninth month](month.jpg), in which the triumph of cold and decay in the year is nearly complete. It is complete in the tenth month, whose hexagram is [**䷁ Kūn**](e59da4kun.md); then follows our hexagram **䷗ Fù**, belonging to the [eleventh month](month.jpg), in which was the winter solstice when the sun turned back in his course, and moved with a constant regular progress towards the summer solstice. In harmony with these changes of nature are the changes in the political and social state of a nation. There is nothing in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) to suggest the hope of a perfect society or kingdom that cannot be moved.
 
-The strong bottom line is the first of **☳**, the trigram of movement, and the upper trigram is **☷**, denoting docility and capacity. The strong returning line will meet with no distressing obstacle, and the weak lines will change before it into strong, and be as friends. The bright quality will be developed brighter and brighter from day to day, and month to month.
+The strong bottom line is the first of **☳ Zhèn**, the trigram of movement, and the upper trigram is **☷ Kūn**, denoting docility and capacity. The strong returning line will meet with no distressing obstacle, and the weak lines will change before it into strong, and be as friends. The bright quality will be developed brighter and brighter from day to day, and month to month.
 
-The sentence, 'In seven days comes his return,' occasions some perplexity. If the reader will refer to hexagrams 44 ䷫, 33 ䷠, 12 ䷋, 20 ䷓, 23 ䷖, and 2 ䷁, he will see that during [the months denoted by those figures](month.jpg), the 5th, 6th, 7th, 8th, 9th, and 10th, the `yīn` lines have gradually been prevailing over the `yáng`, until in [**Kūn ䷁**](e59da4kun.md) (hexagrams 2) they have extruded them entirely from the lineal figure.
+The sentence, `In seven days comes his return`, occasions some perplexity. If the reader will refer to hexagrams [44 ䷫](), [33 ䷠](), [12 ䷋](), [20 ䷓](), [23 ䷖](), and [2 ䷁](), he will see that during [the months denoted by those figures](month.jpg), the 5th, 6th, 7th, 8th, 9th, and 10th, the `yīn` lines have gradually been prevailing over the `yáng`, until in [**䷁ Kūn**](e59da4kun.md) (hexagrams 2) they have extruded them entirely from the lineal figure.
 
-Then comes our **Fù ䷗**, as a seventh figure, in which the `yáng` line begins to reassert itself,
+Then comes our **䷗ Fù**, as a seventh figure, in which the `yáng` line begins to reassert itself,
 and from which it goes on to extrude the `yīn` lines in their turn. Explained therefore of the months of the year, we have to take a day for a month.
 And something analogous -- we cannot say exactly what -- must have place in society and the state.
 
-The concluding auspice or oracle to him who finds this **Fù ䷗** by divination is what we might expect.
+The concluding auspice or oracle to him who finds this **䷗ Fù** by divination is what we might expect.
 
-The subject of line 1 is of course the undivided line, meaning here, says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'the way of the superior man.' There must have been some deviation from that, or 'returning' could not be spoken of.
+The subject of line 1 is of course the undivided line, meaning here, says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), `the way of the superior man`. There must have been some deviation from that, or 'returning' could not be spoken of.
 
 Line 2 is in its proper place, and central; but it is weak. This is more than compensated for, however, by its adherence to line 1, the fifth line not being a proper correlate. Hence the return of its subject is called excellent or admirable.
 
@@ -70,8 +70,8 @@ Line 3 is weak, and in the uneven place of a strong line. It is the top line, mo
 
 Line 4 has its proper correlate in 1; different from all the other weak lines; and its course is different accordingly.
 
-Line 5 is in the central place of honour, and the middle line of **☷**, denoting docility. Hence its auspice.
+Line 5 is in the central place of honour, and the middle line of **☷ Kūn**, denoting docility. Hence its auspice.
 
-Line 6 is weak; and being at the top of the hexagram, when its action of returning is all concluded, action on the part of its subject will lead to evils such as are mentioned. 'Ten years' seems to be a round number, signifying a long time, as in [hexagram **䷂**, line 2](e5b1afzhun.md#3.2).
+Line 6 is weak; and being at the top of the hexagram **䷗**, when its action of returning is all concluded, action on the part of its subject will lead to evils such as are mentioned. `Ten years` seems to be a round number, signifying a long time, as in [hexagram **䷂**, line 2](e5b1afzhun.md#3.2).
 
 # [复 ䷗](e5a48dfu_cn.md)
