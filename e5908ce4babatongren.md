@@ -1,14 +1,14 @@
-# Tóng Rén ䷌
+# ䷌ Tóng Rén
 
 * Union of Men
 
-> Chinese: 同人 ䷌ tóng rén
+> Chinese: tóng rén 同人 ䷌
 
 <a id="p-86"/>
 
 <img src="shapes/13.10.jpg" width="101" alt="同人">
 
-**Tóng Rén ䷌** (or 'Union of men') appears here (as we find it) in the (remote districts of the) country, indicating progress and success. It will be advantageous to cross the great stream. It will be advantageous to maintain the firm correctness of the superior man.
+**䷌ Tóng Rén** (or `Union of men`) appears here (as we find it) in the (remote districts of the) country, indicating progress and success. It will be advantageous to cross the great stream. It will be advantageous to maintain the firm correctness of the superior man.
 
 1.<a id="13.1"/> The first `NINE`, undivided, (shows the representative of) the union of men just issuing from his gate. There will be no error.
 
@@ -50,10 +50,10 @@
 
 ## Notes
 
-**Tóng Rén ䷌** describes a condition of nature and of the state opposite to that of [**Pǐ ䷋**](e590a6pi.md).
+**䷌ Tóng Rén** describes a condition of nature and of the state opposite to that of [**䷋ Pǐ**](e590a6pi.md).
 There was distress and obstruction; here is union. But the union must be based entirely on public considerations, without taint of selfishness.
 
-The strong line in the fifth, its correct, place, occupies the most important position, and has for its correlate the weak second line, also in its correct place. The one divided line is naturally sought after by all the strong lines. The upper trigram is that of heaven, which is above; the lower is that of fire, whose tendency is to mount upwards. All these things are in harmony with the idea of union. But the union must be free from all selfish motives, and this is indicated by its being in the remote districts of the country, where people are unsophisticated, and free from the depraving effects incident to large societies. A union from such motives will cope with the greatest difficulties; and yet a word of caution is added.
+The strong line in the fifth, its correct, place, occupies the most important position, and has for its correlate the weak second line, also in its correct place. The one divided line is naturally sought after by all the strong lines. The upper trigram **☰** is that of heaven, which is above; the lower **☲** is that of fire, whose tendency is to mount upwards. All these things are in harmony with the idea of union. But the union must be free from all selfish motives, and this is indicated by its being in the remote districts of the country, where people are unsophisticated, and free from the depraving effects incident to large societies. A union from such motives will cope with the greatest difficulties; and yet a word of caution is added.
 
 Line 1 emblems the first attempts at union. It is strong, but in the lowest place; and it has no proper correlate above. There is, however, no intermixture of selfishness in it.
 
