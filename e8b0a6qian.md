@@ -1,14 +1,14 @@
-# Qiān ䷎
+# ䷎ Qiān
 
 * Humility
 
-> Chinese: 谦 ䷎ qiān
+> Chinese: qiān 谦 ䷎
 
 <a id="p-89"/>
 
 <img src="shapes/15.10.jpg" width="101" alt="谦">
 
-**Qiān ䷎** indicates progress and success. The superior man, (being humble as it implies), will have a (good) issue (to his undertakings).
+**䷎ Qiān** indicates progress and success. The superior man, (being humble as it implies), will have a (good) issue (to his undertakings).
 
 1.<a id="15.1"/> The first `SIX`, divided, shows us the superior man who adds humility to humility. (Even) the great stream may be crossed with this, and there will be good fortune.
 
@@ -50,15 +50,15 @@
 
 ## Notes
 
-An essay on humility rightly follows that on abundant possessions. The third line, which is a whole line amid five others divided, occupying the topmost place in the lower trigram, is held by the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors and many others to be 'the lord of the hexagram,' the representative of humility, strong, but abasing itself. There is nothing here in the text to make us enter farther on the symbolism of the figure. Humility is the way to permanent success.
+An essay on humility rightly follows that on abundant possessions. The third line, which is a whole line amid five others divided, occupying the topmost place in the lower trigram **☶**, is held by the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors and many others to be `the lord of the hexagram`, the representative of humility, strong, but abasing itself. There is nothing here in the text to make us enter farther on the symbolism **䷎** of the figure. Humility is the way to permanent success.
 
 A weak line, at the lowest place of the figure, is the fitting symbol of the superior man adding humility to humility.
 
-Line 2 is weak, central, and in its proper place, representing a humility that has 'crowed;' that is, has proclaimed itself.
+Line 2 is weak, central, and in its proper place, representing a humility that has `crowed`; that is, has proclaimed itself.
 
 Line 3 is strong, and occupies an odd (its proper) place. It is 'the lord of the hexagram,' to whom all represented by the lines above and below turn.
 
-Line 4 is weak and in its proper position. Its subject is sure to <sub>[p. 91](e8b1abyu.md#p-91)</sub> be successful and prosperous, but being so near the fifth line, he should still use the greatest precaution.
+Line 4 is weak and in its proper position. Its subject is sure to [be successful and prosperous](e8b1abyu.md#p-91), but being so near the fifth line, he should still use the greatest precaution.
 
 All men love and honour humility, in itself and without the adjuncts which usually command obedience and respect. Hence his neighbours follow the ruler in the fifth line, though he may not be very rich or powerful. His humility need not keep him from asserting the right, even by force of arms.
 
