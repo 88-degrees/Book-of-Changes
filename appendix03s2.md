@@ -22,7 +22,7 @@ Chapter <a id="fr_266"/>[I](#fn_266).
 
 7. **Qián ☰**, (the symbol of heaven, and) conveying the idea of strength, shows to men its easy (and natural) action. **Kūn ☷**, (the symbol of earth, and) conveying the idea of docility, shows to men its compendious (receptivity and operation).
 
-8. The [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) (or lines) are imitative representations of this. The [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols), or emblematic figures, are pictorial representations of the same.
+8. The [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) (or lines) are imitative representations of this. The [Xiàng](https://en.wikipedia.org/wiki/Four_Symbols), or emblematic figures, are pictorial representations of the same.
 
 9. The movements of the lines and figures take place (at the hand of the operator), and are unseen; the good fortune or ill is seen openly and is beyond. The work to be done appears by the changes; the sympathies of the sages are seen in their explanations.
 
@@ -70,7 +70,7 @@ Chapter <a id="fr_268"/>[III](#fn_268).
 
 24. Therefore what we call the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) (易) is (a collection of) emblematic lines. They are styled emblematic as being resemblances.
 
-25. What we call the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan) (or [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s explanations) are based on the significance (of each hexagram as a whole).
+25. What we call the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) (or [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s explanations) are based on the significance (of each hexagram as a whole).
 
 <a id="p-387"/>
 
@@ -228,7 +228,7 @@ Chapter <a id="fr_277"/>[XII](#fn_277).
 
 <a id="fn_266"/>[381:I](#fr_266) Chapter I, paragraphs 1-10, is an amplification, according to [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda) and the editors of the imperial edition of the present dynasty, of the second chapter of Section I. The latter say that as all the chapters of Section I from the third onwards serve to elucidate chapter 2, so it is with this chapter and all that follow in this Section. The formation of the diagrams, and of their several lines, their indication of good fortune and bad, and the analogy between the processes of nature and the operations of divination, and other kindred subjects, are all touched on.
 
-The order of the eight trigrams in paragraph 1, is *Qián ☰*, *Duì ☱*, <sub>[p. 381](#p-381)</sub> *Lí ☲*, *Zhèn ☳*, *Xùn ☴*, *Kǎn ☵*, *Gèn ☶*, *Kūn ☷*. The three lines of each are emblematic, -- the first of heaven, the second of man, the third of earth. This is the most likely explanation of [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols), 'the emblems' or 'similitudes' here. Why the maker -- 'sages' -- stop at sixty-four figures, of six lines each, is a question that cannot be answered.
+The order of the eight trigrams in paragraph 1, is *Qián ☰*, *Duì ☱*, <sub>[p. 381](#p-381)</sub> *Lí ☲*, *Zhèn ☳*, *Xùn ☴*, *Kǎn ☵*, *Gèn ☶*, *Kūn ☷*. The three lines of each are emblematic, -- the first of heaven, the second of man, the third of earth. This is the most likely explanation of [Xiàng](https://en.wikipedia.org/wiki/Four_Symbols), 'the emblems' or 'similitudes' here. Why the maker -- 'sages' -- stop at sixty-four figures, of six lines each, is a question that cannot be answered.
 
 Paragraph 2. Of course it was a great delusion to suppose that the changes of lines consequent on divination could be so connected with the movements of life as to justify the characterising them as good or evil, or afford any guidance in the ordering of conduct.
 

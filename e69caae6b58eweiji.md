@@ -61,7 +61,7 @@ How the figure sets forth the state of things by its constituent trigrams will a
 
 The symbolism of the young fox suggests a want of caution on the part of those, in the time and condition denoted by the hexagram, who try to remedy prevailing disorders. Their attempt is not successful, and they get themselves into trouble and danger. Whatever can be done must be undertaken in another way.
 
-I suppose a fox to be intended by the symbolism of line 1, bringing that animal on from the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan). Some of the commentators understand it of any animal. The line is weak, at the bottom of the trigram of peril, and responds to the strong 4, which is not in its correct place. Its subject attempts to be doing, but finds cause to regret his course.
+I suppose a fox to be intended by the symbolism of line 1, bringing that animal on from the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan). Some of the commentators understand it of any animal. The line is weak, at the bottom of the trigram of peril, and responds to the strong 4, which is not in its correct place. Its subject attempts to be doing, but finds cause to regret his course.
 
 The subject of line 2, strong, and in the centre, is able to repress himself, and keep back his carriage from advancing and there is good fortune.
 

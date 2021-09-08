@@ -54,7 +54,7 @@
 Where there are these conditions men are sure to follow; nor will they follow those in whom they have no complacency.
 The hexagram includes the cases where one follows others, and where others follow him;
 and the auspice of great progress and success is due to this flexibility and applicability of it.
-But in both cases the following must be guided by a reference to what is proper and correct. See the notes on the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan) and the Great Symbolism.
+But in both cases the following must be guided by a reference to what is proper and correct. See the notes on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) and the Great Symbolism.
 
 Line 1 is strong, and lord of the lower trigram ☳. The weak lines ought to follow it; but here it is below them, in the lowest place of the figure. This gives rise to the representation of one changing his pursuit. Still through the native vigour indicated by the line being strong, and in its correct place, its subject will be fortunate. Going beyond his gate to find associates indicates his public spirit, and superiority to selfish considerations.
 

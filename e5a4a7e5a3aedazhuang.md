@@ -54,7 +54,7 @@ The strong lines predominate in **Dà Zhuàng ䷡**. It suggested to [king Wén]
 
 <a id="p-131"/>
 
-This is the lesson of the hexagram, as sententiously expressed in the **[**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan)**.
+This is the lesson of the hexagram, as sententiously expressed in the **[Tuàn](https://ctext.org/book-of-changes/tuan-zhuan)**.
 
 Line 1 is strong, in its correct place, and also the first line in Khien, the hexagram of strength, and the first line in Tâ Kwang. The idea of the figure might seem to be concentrated in it; and hence we have it symbolised by 'strength in the toes,' or 'advancing.' But such a measure is too bold to be undertaken by one in the lowest place, and moreover there is no proper correlate in 4. Hence comes the evil auspice.
 

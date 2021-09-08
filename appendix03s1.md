@@ -56,7 +56,7 @@ Chapter <a id="fr_255"/>[II](#fn_255).
 
 Chapter <a id="fr_256"/>[III](#fn_256).
 
-15. The [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan) speak of the emblematic figures (of the complete diagrams). The [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) speak of the changes (taking place: in the several lines).
+15. The [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) speak of the emblematic figures (of the complete diagrams). The [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) speak of the changes (taking place: in the several lines).
 
 16. The expressions about good fortune or bad are used with reference to (the figures and lines, as) being right or wrong (according to the conditions of time and place); those about repentance or regret refer to small faults (in the satisfying those conditions); when it is said 'there will be no error,' or 'no blame,' there is reference to (the subject) repairing an error by what is good.
 
@@ -128,7 +128,7 @@ Chapter <a id="fr_260"/>[VII](#fn_260).
 
 Chapter <a id="fr_261"/>[VIII](#fn_261).
 
-38. The sage was able to survey all the complex phenomena under the sky. He then considered in his mind how they could be figured, and (by means of the diagrams) represented their material forms and their character. Hence these (diagrams) are denominated Semblances (or emblematic figures, the [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols)).
+38. The sage was able to survey all the complex phenomena under the sky. He then considered in his mind how they could be figured, and (by means of the diagrams) represented their material forms and their character. Hence these (diagrams) are denominated Semblances (or emblematic figures, the [Xiàng](https://en.wikipedia.org/wiki/Four_Symbols)).
 
 39. A (later) sage was able to survey the motive influences working all under the sky. He contemplated them in. their common action and special nature, in order to bring out the standard and proper tendency of each. He then appended his explanation (to each line of the diagrams), to determine the good or evil indicated by it. Hence those (lines with their explanations) are denominated Imitations (the [**Yáo**](https://zh.wikipedia.org/zh-cn/爻)).
 
@@ -375,7 +375,7 @@ We may grant what is affirmed in paragraph 58, but does the [Yì Jīng](https://
 
 <a id="fn_263"/>[370:X](#fr_263) Chapter X, paragraphs 59-65, enlarges on the service rendered to men by the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), owing to the way in which it was made by the sages to express their views and carry into effect their wishes.
 
-Paragraph 59 mentions the four things in which its usefulness appears. 'The emblematic figures' are the four [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols), which are produced by the manipulation of the [undivided and divided lines](#p-371), and whose representative numbers are 9, 8, 7, 6. 'Divination' appears in the paragraph as [*bǔshì*](https://en.wiktionary.org/wiki/卜筮), which means 'divination by the [tortoise-shell](shi.jpg) and by the [stalks](shi.jpg).' But the tortoise-shell had nothing to do with the use of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). Before the composition of these Appendixes the two terms must have been combined to express the practice of divination, without reference to its mode.
+Paragraph 59 mentions the four things in which its usefulness appears. 'The emblematic figures' are the four [Xiàng](https://en.wikipedia.org/wiki/Four_Symbols), which are produced by the manipulation of the [undivided and divided lines](#p-371), and whose representative numbers are 9, 8, 7, 6. 'Divination' appears in the paragraph as [*bǔshì*](https://en.wiktionary.org/wiki/卜筮), which means 'divination by the [tortoise-shell](shi.jpg) and by the [stalks](shi.jpg).' But the tortoise-shell had nothing to do with the use of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). Before the composition of these Appendixes the two terms must have been combined to express the practice of divination, without reference to its mode.
 
 Paragraph 60 speaks of the explanations and prognostications of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). The 'exquisiteness' ascribed to it would be due to the sages who had devised it, and appended their explanations to it; but the whole thing has no existence save in cloud-land.
 
