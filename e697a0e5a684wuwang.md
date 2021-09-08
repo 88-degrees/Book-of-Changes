@@ -1,14 +1,14 @@
-# Wú Wàng ䷘
+# ䷘ Wú Wàng
 
 * No Falsehood
 
-> Chinese: 无妄 ䷘ wú wàng
+> Chinese: wú wàng 无妄 ䷘
 
 <a id="p-109"/>
 
 <img src="shapes/25.10.jpg" width="101" alt="无妄">
 
-**Wú Wàng ䷘** indicates great progress and success, while there will be advantage in being firm and correct. If (its subject and his action) be not correct, he will fall into errors, and it will not be advantageous for him to move in any direction.
+**䷘ Wú Wàng** indicates great progress and success, while there will be advantage in being firm and correct. If (its subject and his action) be not correct, he will fall into errors, and it will not be advantageous for him to move in any direction.
 
 <a id="p-110"/>
 
@@ -52,18 +52,18 @@
 
 ## Notes
 
-**Wú Wàng ䷘** is the symbol of being reckless, and often of being insincere; **Wú Wàng ䷘** is descriptive of a state of entire freedom from such a condition; its subject is one who is entirely simple and sincere. The quality is characteristic of the action of Heaven, and of the highest style of humanity. In this hexagram we have an essay on this noble attribute. An absolute rectitude is essential to it. The nearer one comes to the ideal of the quality, the more powerful will be his influence, the greater his success. But let him see to it that he never swerve from being correct.
+**䷘ Wú Wàng** is the symbol of being reckless, and often of being insincere; **䷘ Wú Wàng** is descriptive of a state of entire freedom from such a condition; its subject is one who is entirely simple and sincere. The quality is characteristic of the action of Heaven, and of the highest style of humanity. In this hexagram we have an essay on this noble attribute. An absolute rectitude is essential to it. The nearer one comes to the ideal of the quality, the more powerful will be his influence, the greater his success. But let him see to it that he never swerve from being correct.
 
-The first line is strong; at the commencement of the inner trigram ☳ denoting movement, the action of its subject will very much characterise all the action set forth, and will itself be fortunate.
+The first line is strong; at the commencement of the inner trigram **☳ Zhèn** denoting movement, the action of its subject will very much characterise all the action set forth, and will itself be fortunate.
 
 Line 2 is weak, central, and in its correct place. The quality may be predicated of it in its highest degree. There is an entire freedom in its subject from selfish or mercenary motive. He is good simply for goodness' sake. And things are so constituted that his action will be successful.
 
-But calamity may also sometimes befal the best, and where there is this freedom from insincerity; and line 3 being weak, and in the place of an even line, lays its subject open to this misfortune. 'The people of the neighbourhood' are of course entirely innocent.
+But calamity may also sometimes befal the best, and where there is this freedom from insincerity; and line 3 being weak, and in the place of an even line, lays its subject open to this misfortune. `The people of the neighbourhood` are of course entirely innocent.
 
-Line 4 is the lowest in the trigram ☰ of strength, and 1 is not a [proper correlate](e5a4a7e89384daxu.md#p-112), nor is the fourth the place for a strong line. Hence the paragraph must be understood as a caution.
+Line 4 is the lowest in the trigram **☰ Qián** of strength, and 1 is not a [proper correlate](e5a4a7e89384daxu.md#p-112), nor is the fourth the place for a strong line. Hence the paragraph must be understood as a caution.
 
 Line 5 is strong, in the central place of honour, and has its proper correlate in 2. Hence its subject must possess the quality of the hexagram in perfection. And yet he shall he sick or in distress. But he need not be anxious. Without his efforts a way of escape for him will be opened.
 
-Line 6 is at the top of the hexagram, and comes into the field when the action has run its course. He should be still, and not initiate any fresh movement.
+Line 6 is at the top of the hexagram **䷘**, and comes into the field when the action has run its course. He should be still, and not initiate any fresh movement.
 
 # [无妄 ䷘](e697a0e5a684wuwang_cn.md)

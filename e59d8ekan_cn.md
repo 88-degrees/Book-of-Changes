@@ -817,7 +817,7 @@
 
 ### 上六变卦：坎为水 变卦 风水涣
 
-<img src="shapes/29.06.png" width="121"align="left">
+<img src="shapes/29.06.png" width="121" align="left">
 
 上六爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
