@@ -12,19 +12,19 @@
 
 <a id="p-205"/>
 
-1.<a name="63.1"></a> The first `NINE`, undivided, (shows its subject as a driver) who drags back his wheel, (or as a fox) which has wet his tail. There will be no error.
+1.<a id="63.1"/> The first `NINE`, undivided, (shows its subject as a driver) who drags back his wheel, (or as a fox) which has wet his tail. There will be no error.
 
 > **䷾** changing to [**䷦**](e8b987jian.md#39.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷿**](e69caae6b58eweiji.md#64.1)
 
-2.<a name="63.2"></a> The second `SIX`, divided, (shows its subject as) a wife who has lost her (carriage-)screen. There is no occasion to go in pursuit of it. In seven days she will find it.
+2.<a id="63.2"/> The second `SIX`, divided, (shows its subject as) a wife who has lost her (carriage-)screen. There is no occasion to go in pursuit of it. In seven days she will find it.
 
 > **䷾** changing to [**䷄**](e99c80xu.md#5.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷿**](e69caae6b58eweiji.md#64.2)
 
-3.<a name="63.3"></a> The third `NINE`, undivided, (suggests the case of) [Gāo Zōng](https://zh.wikipedia.org/zh-cn/高宗), who attacked the [Demon region](https://en.wikipedia.org/wiki/Guifang), but was three years in subduing it. Small men should not be employed (in such enterprises).
+3.<a id="63.3"/> The third `NINE`, undivided, (suggests the case of) [Gāo Zōng](https://zh.wikipedia.org/zh-cn/高宗), who attacked the [Demon region](https://en.wikipedia.org/wiki/Guifang), but was three years in subduing it. Small men should not be employed (in such enterprises).
 
 > **䷾** changing to [**䷂**](e5b1afzhun.md#3.3)
 
@@ -32,19 +32,19 @@
 
 <a id="p-206"/>
 
-4.<a name="63.4"></a> The fourth `SIX`, divided, shows its subject with rags provided against any leak (in his boat), and on his guard all day long.
+4.<a id="63.4"/> The fourth `SIX`, divided, shows its subject with rags provided against any leak (in his boat), and on his guard all day long.
 
 > **䷾** changing to [**䷰**](e99da9ge.md#49.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷿**](e69caae6b58eweiji.md#64.4)
 
-5.<a name="63.5"></a> The fifth `NINE`, undivided, shows its subject (as) the neighbour in the east who slaughters an ox (for his sacrifice); but this is not equal to the (small) spring sacrifice of the neighbour in the west, whose sincerity receives the blessing.
+5.<a id="63.5"/> The fifth `NINE`, undivided, shows its subject (as) the neighbour in the east who slaughters an ox (for his sacrifice); but this is not equal to the (small) spring sacrifice of the neighbour in the west, whose sincerity receives the blessing.
 
 > **䷾** changing to [**䷣**](e6988ee5a4b7mingyi.md#36.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷿**](e69caae6b58eweiji.md#64.5)
 
-6.<a name="63.6"></a> The topmost `SIX`, divided, shows its subject with (even) his head immersed. The position is perilous.
+6.<a id="63.6"/> The topmost `SIX`, divided, shows its subject with (even) his head immersed. The position is perilous.
 
 > **䷾** changing to [**䷤**](e5aeb6e4babajiaren.md#37.6)
 

@@ -10,13 +10,13 @@
 
 **Xiǎo Xù ䷈** indicates that (under its conditions) there will be progress and success. (We see) dense clouds, but no rain coming from our borders in the west.
 
-1.<a name="9.1"></a> The first `NINE`, undivided, shows its subject returning and pursuing his own course. What mistake should he fall into? There will be good fortune.
+1.<a id="9.1"/> The first `NINE`, undivided, shows its subject returning and pursuing his own course. What mistake should he fall into? There will be good fortune.
 
 > **䷈** changing to [**䷸**](e5b7bdxun.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.1)
 
-2.<a name="9.2"></a> The second `NINE`, undivided, shows its subject, by the attraction (of the former line), returning (to the proper course). There will be good fortune.
+2.<a id="9.2"/> The second `NINE`, undivided, shows its subject, by the attraction (of the former line), returning (to the proper course). There will be good fortune.
 
 > **䷈** changing to [**䷤**](e5aeb6e4babajiaren.md)
 
@@ -24,25 +24,25 @@
 
 <a id="p-77"/>
 
-3.<a name="9.3"></a> The third `NINE`, undivided, suggests the idea of a carriage, the strap beneath which has been removed, or of a husband and wife looking on each other with averted eyes.
+3.<a id="9.3"/> The third `NINE`, undivided, suggests the idea of a carriage, the strap beneath which has been removed, or of a husband and wife looking on each other with averted eyes.
 
 > **䷈** changing to [**䷼**](e4b8ade5ad9azhongfu.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.3)
 
-4.<a name="9.4"></a> The fourth `SIX`, divided, shows its subject possessed of sincerity. The danger of bloodshed is thereby averted, and his (ground for) apprehension dismissed. There will be no mistake.
+4.<a id="9.4"/> The fourth `SIX`, divided, shows its subject possessed of sincerity. The danger of bloodshed is thereby averted, and his (ground for) apprehension dismissed. There will be no mistake.
 
 > **䷈** changing to [**䷀**](e4b9beqian.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.4)
 
-5.<a name="9.5"></a> The fifth `NINE`, undivided, shows its subject possessed of sincerity, and drawing others to unite with him. Rich in resources, he employs his neighbours (in the same cause with himself).
+5.<a id="9.5"/> The fifth `NINE`, undivided, shows its subject possessed of sincerity, and drawing others to unite with him. Rich in resources, he employs his neighbours (in the same cause with himself).
 
 > **䷈** changing to [**䷙**](e5a4a7e89384daxu.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷉**](e5b1a5lv.md#10.5)
 
-6.<a name="9.6"></a> The topmost `NINE`, undivided, shows how the rain has fallen, and the (onward progress) is stayed; -- (so) must we value the full accumulation of the virtue (represented by the upper trigram). But a wife (exercising restraint), however firm and correct she may be, is in a position of peril, (and like) the moon approaching to the full. If the superior man prosecute his measures (in such circumstances), there will be evil.
+6.<a id="9.6"/> The topmost `NINE`, undivided, shows how the rain has fallen, and the (onward progress) is stayed; -- (so) must we value the full accumulation of the virtue (represented by the upper trigram). But a wife (exercising restraint), however firm and correct she may be, is in a position of peril, (and like) the moon approaching to the full. If the superior man prosecute his measures (in such circumstances), there will be evil.
 
 > **䷈** changing to [**䷄**](e99c80xu.md)
 

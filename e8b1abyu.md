@@ -10,25 +10,25 @@
 
 **Yǜ ䷏** indicates that, (in the state which it implies), feudal princes may be set up, and the hosts put in motion, with advantage.
 
-1.<a name="16.1"></a> The first `SIX`, divided, shows its subject proclaiming his pleasure and satisfaction. There will be evil.
+1.<a id="16.1"/> The first `SIX`, divided, shows its subject proclaiming his pleasure and satisfaction. There will be evil.
 
 > **䷏** changing to [**䷲**](e99c87zhen.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.1)
 
-2.<a name="16.2"></a> The second `SIX`, divided, shows one who is firm as a rock. (He sees a thing) without waiting till it has come to pass; with his firm correctness there will be good fortune.
+2.<a id="16.2"/> The second `SIX`, divided, shows one who is firm as a rock. (He sees a thing) without waiting till it has come to pass; with his firm correctness there will be good fortune.
 
 > **䷏** changing to [**䷧**](e8a7a3xie.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.2)
 
-3.<a name="16.3"></a> The third `SIX`, divided, shows one looking up (for favours), while he indulges the feeling of pleasure and satisfaction. If he would understand! -- If he be late in doing so, there will indeed be occasion for repentance.
+3.<a id="16.3"/> The third `SIX`, divided, shows one looking up (for favours), while he indulges the feeling of pleasure and satisfaction. If he would understand! -- If he be late in doing so, there will indeed be occasion for repentance.
 
 > **䷏** changing to [**䷽**](e5b08fe8bf87xiaoguo.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.3)
 
-4.<a name="16.4"></a> The fourth `NINE`, undivided, shows him from whom the harmony and satisfaction come. Great is the success which he obtains. Let him not allow suspicions to enter his mind, and thus friends will gather around him.
+4.<a id="16.4"/> The fourth `NINE`, undivided, shows him from whom the harmony and satisfaction come. Great is the success which he obtains. Let him not allow suspicions to enter his mind, and thus friends will gather around him.
 
 <a id="p-92"/>
 
@@ -36,13 +36,13 @@
 
 > Matching Line 4 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.4)
 
-5.<a name="16.5"></a> The fifth six, divided, shows one with a chronic complaint, but who lives on without dying.
+5.<a id="16.5"/> The fifth six, divided, shows one with a chronic complaint, but who lives on without dying.
 
 > **䷏** changing to [**䷬**](e89083cui.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.5)
 
-6.<a name="16.6"></a> The topmost six, divided, shows its subject with darkened mind devoted to the pleasure and satisfaction (of the time); but if he change his course even when (it may be considered as) completed, there will be no error.
+6.<a id="16.6"/> The topmost six, divided, shows its subject with darkened mind devoted to the pleasure and satisfaction (of the time); but if he change his course even when (it may be considered as) completed, there will be no error.
 
 > **䷏** changing to [**䷢**](e6998bjin.md)
 

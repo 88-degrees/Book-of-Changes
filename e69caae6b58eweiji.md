@@ -13,25 +13,25 @@
 
 <a id="p-208"/>
 
-1.<a name="64.1"></a> The first `SIX`, divided, shows its subject (like a fox) whose tail gets immersed. There will be occasion for regret.
+1.<a id="64.1"/> The first `SIX`, divided, shows its subject (like a fox) whose tail gets immersed. There will be occasion for regret.
 
 > **䷿** changing to [**䷥**](e79dbdkui.md#38.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷾**](e697a2e6b58ejiji.md#63.1)
 
-2.<a name="64.2"></a> The second `NINE`, undivided, shows its subject dragging back his (carriage-) wheel. With firmness and correctness there will be good fortune.
+2.<a id="64.2"/> The second `NINE`, undivided, shows its subject dragging back his (carriage-) wheel. With firmness and correctness there will be good fortune.
 
 > **䷿** changing to [**䷢**](e6998bjin.md#35.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷾**](e697a2e6b58ejiji.md#63.2)
 
-3.<a name="64.3"></a> The third `SIX`, divided, shows its subject, with (the state of things) not yet remedied, advancing on; which will lead to evil. But there will be advantage in (trying to) cross the great stream.
+3.<a id="64.3"/> The third `SIX`, divided, shows its subject, with (the state of things) not yet remedied, advancing on; which will lead to evil. But there will be advantage in (trying to) cross the great stream.
 
 > **䷿** changing to [**䷱**](e9bc8eding.md#50.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷾**](e697a2e6b58ejiji.md#63.3)
 
-4.<a name="64.4"></a> The fourth `NINE`, undivided, shows its subject by firm correctness obtaining good fortune, so that all occasion for repentance disappears. Let him stir himself up, as if he were invading the [Demon region](https://en.wikipedia.org/wiki/Guifang), where for three years rewards will come to him (and his troops) from the great kingdom.
+4.<a id="64.4"/> The fourth `NINE`, undivided, shows its subject by firm correctness obtaining good fortune, so that all occasion for repentance disappears. Let him stir himself up, as if he were invading the [Demon region](https://en.wikipedia.org/wiki/Guifang), where for three years rewards will come to him (and his troops) from the great kingdom.
 
 > **䷿** changing to [**䷃**](e89299meng.md#4.4)
 
@@ -39,13 +39,13 @@
 
 <a id="p-209"/>
 
-5.<a name="64.5"></a> The fifth `SIX`, divided, shows its subject by firm correctness obtaining good fortune, and having no occasion for repentance. (We see in him) the brightness of a superior man, and the possession of sincerity. There will be good fortune.
+5.<a id="64.5"/> The fifth `SIX`, divided, shows its subject by firm correctness obtaining good fortune, and having no occasion for repentance. (We see in him) the brightness of a superior man, and the possession of sincerity. There will be good fortune.
 
 > **䷿** changing to [**䷅**](e8aebcsong.md#6.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷾**](e697a2e6b58ejiji.md#63.5)
 
-6.<a name="64.6"></a> The topmost `NINE`, undivided, shows its subject full of confidence and therefore feasting (quietly). There will be no error. (If he) cherish this confidence, till he (is like the fox who) gets his head immersed, it will fail of what is right.
+6.<a id="64.6"/> The topmost `NINE`, undivided, shows its subject full of confidence and therefore feasting (quietly). There will be no error. (If he) cherish this confidence, till he (is like the fox who) gets his head immersed, it will fail of what is right.
 
 > **䷿** changing to [**䷧**](e8a7a3xie.md#40.6)
 

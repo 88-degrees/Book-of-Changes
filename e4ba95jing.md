@@ -12,19 +12,19 @@
 
 <a id="p-165"/>
 
-1.<a name="48.1"></a> The first `SIX`, divided, shows a well so muddy that men will not drink of it; or an old well to which neither birds (nor other creatures) resort.
+1.<a id="48.1"/> The first `SIX`, divided, shows a well so muddy that men will not drink of it; or an old well to which neither birds (nor other creatures) resort.
 
 > **䷯** changing to [**䷄**](e99c80xu.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷮**](e59bb0kun.md#47.1)
 
-2.<a name="48.2"></a> The second `NINE`, undivided, shows a well from which by a hole the water escapes and flows away to the shrimps (and such small creatures among the grass), or one the water of which leaks away from a broken basket.
+2.<a id="48.2"/> The second `NINE`, undivided, shows a well from which by a hole the water escapes and flows away to the shrimps (and such small creatures among the grass), or one the water of which leaks away from a broken basket.
 
 > **䷯** changing to [**䷦**](e8b987jian.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷮**](e59bb0kun.md#47.2)
 
-3.<a name="48.3"></a> The third `NINE`, undivided, shows a well, which has been cleared out, but is not used. Our hearts are sorry for this, for the water might be drawn out and used. If the king were (only) intelligent, both he and we might receive the benefit of it.
+3.<a id="48.3"/> The third `NINE`, undivided, shows a well, which has been cleared out, but is not used. Our hearts are sorry for this, for the water might be drawn out and used. If the king were (only) intelligent, both he and we might receive the benefit of it.
 
 > **䷯** changing to [**䷜**](e59d8ekan.md)
 
@@ -32,19 +32,19 @@
 
 <a id="p-166"/>
 
-4.<a name="48.4"></a> The fourth `SIX`, divided, shows a well, the lining of which is well laid. There will be no error.
+4.<a id="48.4"/> The fourth `SIX`, divided, shows a well, the lining of which is well laid. There will be no error.
 
 > **䷯** changing to [**䷛**](e5a4a7e8bf87daguo.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷮**](e59bb0kun.md#47.4)
 
-5.<a name="48.5"></a> The fifth `NINE`, undivided, shows a clear, limpid well, (the waters from) whose cold spring are (freely) drunk.
+5.<a id="48.5"/> The fifth `NINE`, undivided, shows a clear, limpid well, (the waters from) whose cold spring are (freely) drunk.
 
 > **䷯** changing to [**䷭**](e58d87sheng.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷮**](e59bb0kun.md#47.5)
 
-6.<a name="48.6"></a> The topmost `SIX`, divided, shows (the water from) the well brought to the top, which is not allowed to be covered. This suggests the idea of sincerity. There will be great good fortune.
+6.<a id="48.6"/> The topmost `SIX`, divided, shows (the water from) the well brought to the top, which is not allowed to be covered. This suggests the idea of sincerity. There will be great good fortune.
 
 > **䷯** changing to [**䷸**](e5b7bdxun.md)
 

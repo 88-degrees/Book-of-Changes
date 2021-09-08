@@ -11,7 +11,7 @@
 **Jié ䷻** intimates that (under its conditions) there will be progress and attainment.
 (But) if the regulations (which it prescribes) be severe and difficult, they cannot be permanent.
 
-1.<a name="60.1"></a> The first `NINE`, undivided, shows its subject not quitting the courtyard outside his door. There will be no error.
+1.<a id="60.1"/> The first `NINE`, undivided, shows its subject not quitting the courtyard outside his door. There will be no error.
 
 > **䷻** changing to [**䷜**](e59d8ekan.md#29.1)
 
@@ -19,31 +19,31 @@
 
 <a id="p-198"/>
 
-2.<a name="60.2"></a> The second `NINE`, undivided, shows its subject not quitting the courtyard inside his gate. There will be evil.
+2.<a id="60.2"/> The second `NINE`, undivided, shows its subject not quitting the courtyard inside his gate. There will be evil.
 
 > **䷻** changing to [**䷂**](e5b1afzhun.md#3.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷺**](e6b6a3huan.md#59.2)
 
-3.<a name="60.3"></a> The third `SIX`, divided, shows its subject with no appearance of observing the (proper) regulations, in which case we shall see him lamenting. But there will be no one to blame (but himself).
+3.<a id="60.3"/> The third `SIX`, divided, shows its subject with no appearance of observing the (proper) regulations, in which case we shall see him lamenting. But there will be no one to blame (but himself).
 
 > **䷻** changing to [**䷄**](e99c80xu.md#5.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷺**](e6b6a3huan.md#59.3)
 
-4.<a name="60.4"></a> The fourth `SIX`, divided, shows its subject quietly and naturally (attentive to all) regulations. There will be progress and success.
+4.<a id="60.4"/> The fourth `SIX`, divided, shows its subject quietly and naturally (attentive to all) regulations. There will be progress and success.
 
 > **䷻** changing to [**䷹**](e58591dui.md#58.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷺**](e6b6a3huan.md#59.4)
 
-5.<a name="60.5"></a> The fifth `NINE`, undivided, shows its subject sweetly and acceptably enacting his regulations. There will be good fortune. The onward progress with them will afford ground for admiration.
+5.<a id="60.5"/> The fifth `NINE`, undivided, shows its subject sweetly and acceptably enacting his regulations. There will be good fortune. The onward progress with them will afford ground for admiration.
 
 > **䷻** changing to [**䷒**](e4b8b4lin.md#19.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷺**](e6b6a3huan.md#59.5)
 
-6.<a name="60.6"></a> The topmost `SIX`, divided, shows its subject enacting regulations severe and difficult. Even with firmness and correctness there will be evil. But though there will be cause for repentance, it will (by and by) disappear.
+6.<a id="60.6"/> The topmost `SIX`, divided, shows its subject enacting regulations severe and difficult. Even with firmness and correctness there will be evil. But though there will be cause for repentance, it will (by and by) disappear.
 
 > **䷻** changing to [**䷼**](e4b8ade5ad9azhongfu.md#61.6)
 

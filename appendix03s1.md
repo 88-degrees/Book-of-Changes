@@ -6,7 +6,7 @@
 
 ### SECTION I
 
-Chapter <a name="fr_254"/>[I](#fn_254).
+Chapter <a id="fr_254"/>[I](#fn_254).
 
 1. Heaven is lofty and honourable; earth is low. (Their symbols), **Qián ☰** and **Kūn ☷**, (with their respective meanings), were determined (in accordance with this).
 
@@ -36,7 +36,7 @@ In the heavens there are the (different) figures there completed, and on the ear
 
 <a id="p-350"/>
 
-Chapter <a name="fr_255"/>[II](#fn_255).
+Chapter <a id="fr_255"/>[II](#fn_255).
 
 9. The sages set forth the diagrams, inspected the emblems contained in them, and appended their explanations; -- in this way the good fortune and bad (indicated by them) were made clear.
 
@@ -54,7 +54,7 @@ Chapter <a name="fr_255"/>[II](#fn_255).
 
 <a id="p-352"/>
 
-Chapter <a name="fr_256"/>[III](#fn_256).
+Chapter <a id="fr_256"/>[III](#fn_256).
 
 15. The [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan) speak of the emblematic figures (of the complete diagrams). The [**Yáo**](https://zh.wikipedia.org/zh-cn/爻) speak of the changes (taking place: in the several lines).
 
@@ -68,7 +68,7 @@ Chapter <a name="fr_256"/>[III](#fn_256).
 
 19. Thus of the diagrams some are small, and some are great; and of the explanations some are startling, and some are unexciting. Every one of those explanations has reference to the tendencies (indicated by the symbols).
 
-Chapter <a name="fr_257"/>[IV](#fn_257).
+Chapter <a id="fr_257"/>[IV](#fn_257).
 
 20. The [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) was made on a principle of accordance with heaven and earth, and shows us therefore, without rent or confusion, the course (of things) in heaven and earth.
 
@@ -82,7 +82,7 @@ Chapter <a name="fr_257"/>[IV](#fn_257).
 
 <a id="p-355"/>
 
-Chapter <a name="fr_258"/>[V](#fn_258).
+Chapter <a id="fr_258"/>[V](#fn_258).
 
 24. The successive movement of the inactive and active operations constitutes what is called the course (of things).
 
@@ -108,7 +108,7 @@ Chapter <a name="fr_258"/>[V](#fn_258).
 
 <a id="p-358"/>
 
-Chapter <a name="fr_259"/>[VI](#fn_259).
+Chapter <a id="fr_259"/>[VI](#fn_259).
 
 33. Yes, wide is the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) and great! If we speak of it in its farthest reaching, no limit can be set to it; if we speak of it with reference to what is near at hand, (its lessons are) still and correct; if we speak of it in connexion with all between heaven and earth, it embraces all.
 
@@ -118,7 +118,7 @@ Chapter <a name="fr_259"/>[VI](#fn_259).
 
 <a id="p-359"/>
 
-Chapter <a name="fr_260"/>[VII](#fn_260).
+Chapter <a id="fr_260"/>[VII](#fn_260).
 
 36. The Master said: -- 'Is not the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) a perfect book?' It was by the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) that the sages exalted their virtue, and enlarged their sphere of occupation. Their wisdom was high, and their rules of conduct were solid. That loftiness was after the pattern of heaven; that solidity, after the pattern of earth.
 
@@ -126,7 +126,7 @@ Chapter <a name="fr_260"/>[VII](#fn_260).
 
 37. Heaven and earth having their positions as assigned to them, the changes (of nature) take place between them. The nature (of man) having been completed, and being continually preserved, it is the gate of all good courses and righteousness.
 
-Chapter <a name="fr_261"/>[VIII](#fn_261).
+Chapter <a id="fr_261"/>[VIII](#fn_261).
 
 38. The sage was able to survey all the complex phenomena under the sky. He then considered in his mind how they could be figured, and (by means of the diagrams) represented their material forms and their character. Hence these (diagrams) are denominated Semblances (or emblematic figures, the [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols)).
 
@@ -181,7 +181,7 @@ Fragrance like orchid plants diffuse.'
 
 <a id="p-365"/>
 
-Chapter <a name="fr_262"/>[IX](#fn_262).
+Chapter <a id="fr_262"/>[IX](#fn_262).
 
 49. To heaven belongs (the number) 1; to earth, 2; to heaven, 3; to earth, 4; to heaven, 5; to earth, 6; to heaven, 7; to earth, 8; to heaven, 9; to earth, 10.
 
@@ -207,7 +207,7 @@ Chapter <a name="fr_262"/>[IX](#fn_262).
 
 <a id="p-367"/>
 
-Chapter <a name="fr_263"/>[X](#fn_263).
+Chapter <a id="fr_263"/>[X](#fn_263).
 
 59. In the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) there are four things characteristic of the way of the sages. We should set the highest value on its explanations to guide us in speaking; on its changes for (the initiation of) our movements; on its emblematic figures for (definite action as in) the construction of implements; and on its prognostications for our practice of divination.
 
@@ -231,7 +231,7 @@ Chapter <a name="fr_263"/>[X](#fn_263).
 
 <a id="p-371"/>
 
-Chapter <a name="fr_264"/>[XI](#fn_264).
+Chapter <a id="fr_264"/>[XI](#fn_264).
 
 66. The Master said: -- 'What is it that the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) does? The [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) opens up (the knowledge of the issues of) things, accomplishes the undertakings (of men), and embraces under it (the way of) all things under the sky. This and nothing more is what the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) does. Thereby the sages, through (divination by) it, would give their proper course to the aims of all under the sky, would give stability to their undertakings, and determine their doubts.'
 
@@ -263,7 +263,7 @@ The (first) appearance of anything (as a bud) is what we call a semblance; when 
 
 <a id="p-375"/>
 
-Chapter <a name="fr_265"/>[XII](#fn_265).
+Chapter <a id="fr_265"/>[XII](#fn_265).
 
 75. It is said in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), 'Help is given to him from Heaven. There will be good fortune; advantage in every respect.' The Master said: -- '[Yòu](https://ctext.org/dictionary.pl?if=en&char=祐) (祐) is the symbol of assisting. He whom Heaven assists is observant (of what is right); he whom men assist is sincere. The individual here indicated treads the path of sincerity and desires to be observant (of what is right), and studies to exalt the worthy. Hence "Help is given to him from Heaven. There will be good fortune, advantage in every respect."'
 
@@ -289,23 +289,23 @@ Transformation and shaping is what we call change; carrying this out and operati
 
 ### Footnotes
 
-<a name="fn_254"/>[349:I](#fr_254) Chapter I is an attempt to show the correspondency between the phenomena of external nature ever changing, and the figures of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) ever varying. The first four paragraphs, it is said, show, from the phenomena of production and transformation in external p. 350 nature, the principles on which the figures of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) were made. The fifth and sixth paragraphs show, particularly, how the attributes represented by the figures **Qián ☰** and **Kūn ☷** are to be found in (the operations of) heaven and earth. The last two paragraphs show both those attributes embodied or realised in man. The realisation takes place, indeed, fully only in the sage or the ideal man, who thus becomes the pattern for all men.
+<a id="fn_254"/>[349:I](#fr_254) Chapter I is an attempt to show the correspondency between the phenomena of external nature ever changing, and the figures of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) ever varying. The first four paragraphs, it is said, show, from the phenomena of production and transformation in external p. 350 nature, the principles on which the figures of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) were made. The fifth and sixth paragraphs show, particularly, how the attributes represented by the figures **Qián ☰** and **Kūn ☷** are to be found in (the operations of) heaven and earth. The last two paragraphs show both those attributes embodied or realised in man. The realisation takes place, indeed, fully only in the sage or the ideal man, who thus becomes the pattern for all men.
 
 In paragraph 3 we have five of the six derivative trigrams; -- the six children,' according to the nomenclature of the [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) arrangement. 'Thunder' stands for *Zhèn* (☳), 'lightning' for *Lí* (☲), 'wind' for *Xùn* (☴), and 'rain' for *Kǎn* (☵). 'The sun,' however, is also an emblem of *Lí*, and 'the moon' one of *Gèn* (☶), generally said to represent 'mountains,' while *Duì* (☱) representing 'collections of water,' has no place in the enumeration. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says that in paragraph 3 we have the natural changes seen in the phenomena of the sky, while in 4 we have such changes as find body and figure on the earth.
 
 Paragraphs 5 and 6 have both been misunderstood from neglect of the peculiar meaning of the character [Zhī](https://ctext.org/dictionary.pl?if=en&char=知) (知), and from taking it in its common acceptation of 'knowing.' Both commentaries and dictionaries point out that it is here used in the sense of 'directing,' 'presiding over.' In paragraph 7, however, it resumes its ordinary significancy.
 
-<a name="fn_255"/>[351:II](#fr_255) Chapter II, paragraphs 9-14, is divided into two parts. The former contains paragraphs 9-12, and tells us how the sages, [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou), proceeded in making the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), so that the good fortune and bad of men's courses should be indicated by it in harmony with right and wrong, and the processes of nature. Paragraphs 13, 14 form the second part, and speak of the study of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) by the superior man, desirous of doing what is right and increasing his knowledge, and the advantages flowing from it.
+<a id="fn_255"/>[351:II](#fr_255) Chapter II, paragraphs 9-14, is divided into two parts. The former contains paragraphs 9-12, and tells us how the sages, [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou), proceeded in making the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), so that the good fortune and bad of men's courses should be indicated by it in harmony with right and wrong, and the processes of nature. Paragraphs 13, 14 form the second part, and speak of the study of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) by the superior man, desirous of doing what is right and increasing his knowledge, and the advantages flowing from it.
 
 I can follow to some extent the first two statements of paragraph 12, so far as the ideas of the writer are concerned, though asserting any correspondence between the changes of the lines of the diagrams, and the operations of external nature, as in the succession of day and night, is merely an amusement of the fancy. I all but fail, however, to grasp the idea in the last statement. In the trigram, the first line represents earth; the second, man; and the [third, heaven](#p-352); in the hexagram, the first and second lines are assigned to earth; the third and fourth, to man; and the fifth and sixth, to heaven. These are the three Powers, and each Power has 'a Grand Extreme,' where its nature and operation are seen in their highest ideal. This is to some extent conceivable; but when I try to follow our author, and find an analogy between the course of these extremes and the movements in the places of the diagrams, I have no clue by which to trace my way. For the concluding sentence of paragraph 14 see the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou) on the last line of hexagram 14.
 
-<a name="fn_256"/>[353:III](#fr_256) Chapter III, paragraphs 15-19, gives additional information about the constituent parts of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), that is, the Text of the classic as we have it from [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son. The imperial editors say that it expands the meaning of the fourth paragraph, the third of chapter 2. It does do so, but this account hardly covers all its contents.
+<a id="fn_256"/>[353:III](#fr_256) Chapter III, paragraphs 15-19, gives additional information about the constituent parts of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), that is, the Text of the classic as we have it from [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son. The imperial editors say that it expands the meaning of the fourth paragraph, the third of chapter 2. It does do so, but this account hardly covers all its contents.
 
 To understand the names 'small and great,' as used of the diagrams in paragraphs 17 and 19, it should be noted that hexagrams to which the divided or `yīn` line gives their character are termed 'small,' and those where the undivided or `yáng` line rules are called 'great.' *Gòu* (44, [䷫](e5a7a4gou.md)), *Dùn* (33, [䷠](e981afdun.md)), and *Pǐ* (12, [䷋](e590a6pi.md)) are instances of the former class; *Fù* (24, [䷗](e5a48dfu.md)), *Lín* (19, [䷒](e4b8b4lin.md)) and *Tài* (11, [䷊](e6b3b0tai.md)), of the other.
 
 It is observed by [Cài Qīng](https://ctext.org/searchbooks.pl?if=en&author=蔡清) (early in the Míng dynasty) that the terms 'diagrams' and 'explanations' must be understood not only of the whole figures but also as embracing the several lines.
 
-<a name="fn_257"/>[354:IV](#fr_257) Chapter IV, paragraphs 20-23, is intended still more to exalt the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), and seems to say that the sage by means of it can make an exhaustive study of all principles and of human nature, till he attains to the knowledge of the ordinances of Heaven. Such is the account of the chapter given by [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi); but the second character in paragraph 21 must be understood in the signification which it has in all the sixty-four sentences which explain the emblematic structure of the hexagrams, as = 'in accordance with' and not 'by means of.' The [imperial editors](#p-355) append to their statement of [Zhū](https://en.wikipedia.org/wiki/Zhu_Xi)'s account, that it must be borne in mind that the sages had not to wait till the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) was made to conduct their exhaustive study. They had done that before, and the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) may be considered as a talk on the results, drawn out in its own peculiar style. It holds the mirror up to nature; but its authors knew nature before they made it.
+<a id="fn_257"/>[354:IV](#fr_257) Chapter IV, paragraphs 20-23, is intended still more to exalt the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), and seems to say that the sage by means of it can make an exhaustive study of all principles and of human nature, till he attains to the knowledge of the ordinances of Heaven. Such is the account of the chapter given by [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi); but the second character in paragraph 21 must be understood in the signification which it has in all the sixty-four sentences which explain the emblematic structure of the hexagrams, as = 'in accordance with' and not 'by means of.' The [imperial editors](#p-355) append to their statement of [Zhū](https://en.wikipedia.org/wiki/Zhu_Xi)'s account, that it must be borne in mind that the sages had not to wait till the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) was made to conduct their exhaustive study. They had done that before, and the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) may be considered as a talk on the results, drawn out in its own peculiar style. It holds the mirror up to nature; but its authors knew nature before they made it.
 
 In paragraph 21, 'the brilliant phenomena of the heavens' are the various shining bodies of the sky, with their rising and setting; 'the definite arrangements of the earth' are the different situations of its parts according to the points of the compass, and its surface as diversified by mountain and valley; and by the study of these the causes of day and night are known as being the expansion and contraction of the elementary ether. The same thing produces the facts of birth or life and death.
 
@@ -315,7 +315,7 @@ For my 'characteristics of the anima and animus,' Dr. Medhurst rendered 'the cir
 
 We must understand that the subject of the predicates in this and the next two paragraphs is 'the sage,' who has endeavoured to give a transcript of his views and doings in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). The [character](#p-356), which I have translated by 'spirit-like' in paragraph 23, is different from [*qì*](https://ctext.org/dictionary.pl?if=en&char=气) in paragraph 21. It is [*shén*](https://ctext.org/dictionary.pl?if=en&char=神), a character of the phonetic class, while its primary material signification has not been satisfactorily ascertained. 'The Chinese,' says P. Regis ([vol. ii. p. 445](https://books.google.com.tw/books?id=6PQ0q8H2NxkC&pg=RA1-PA447&redir_esc=y#v=onepage&q&f=false)), 'use it in naming the soul, true angels, and the genii of idolaters; and the Christian Chinese use it when they speak of God, of the Holy Spirit, of angels, and of the soul of man. For what else could they do?'
 
-<a name="fn_258"/>[357:V](#fr_258) Chapter V, paragraphs 24-32, Still shows us the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) fashioned so as to give a picture of the phenomena of the external universe; but the writer dwells more on the latter, and the different paragraphs give an interesting view of his ideas on the subject. He supposes a constant change from rest to movement and from movement to rest, through which all things are formed, now still, now in motion, now expanding, now contracting. It is customary to speak of two forms of an original ether as the two elementary principles, but they are really one and the same ether, in a twofold condition, with a twofold action. By their successive movement the phenomena of existence are produced, -- what I have called 'the course (of things)' in paragraph 24. It is attempted, however, by many native scholars and by some sinologists, to give to [*dào*](https://en.wiktionary.org/wiki/道), the last character in that paragraph, the meaning of 'reason,' that which intelligently guides and directs the movements of the two elements. But this view is not in harmony with the scope of the chapter, nor can the characters be fairly construed so as to justify such an interpretation.
+<a id="fn_258"/>[357:V](#fr_258) Chapter V, paragraphs 24-32, Still shows us the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) fashioned so as to give a picture of the phenomena of the external universe; but the writer dwells more on the latter, and the different paragraphs give an interesting view of his ideas on the subject. He supposes a constant change from rest to movement and from movement to rest, through which all things are formed, now still, now in motion, now expanding, now contracting. It is customary to speak of two forms of an original ether as the two elementary principles, but they are really one and the same ether, in a twofold condition, with a twofold action. By their successive movement the phenomena of existence are produced, -- what I have called 'the course (of things)' in paragraph 24. It is attempted, however, by many native scholars and by some sinologists, to give to [*dào*](https://en.wiktionary.org/wiki/道), the last character in that paragraph, the meaning of 'reason,' that which intelligently guides and directs the movements of the two elements. But this view is not in harmony with the scope of the chapter, nor can the characters be fairly construed so as to justify such an interpretation.
 
 The imperial editors say that the germ of the [Mencian](https://en.wikipedia.org/wiki/Mencius) doctrine about the goodness of human nature is in paragraph 25; but it says more widely, that 'every creature is good,' according to its ideal as from the plastic `yīn` and `yáng`. But few, the next paragraph tells us, can understand the measure of this goodness.
 
@@ -329,19 +329,19 @@ The 'numbers,' mentioned in paragraph 31, are not all or any numbers generally, 
 
 The best commentary on paragraph 32 is supplied by paragraphs 8-10 of [Appendix VI](appendix04s1.md#p-411). The 'Spirit' is that of 'God;' and this settles the meaning of [*dào*](https://en.wiktionary.org/wiki/道) in paragraph 24, as being the course of nature, in which, according to the author, 'God worketh all in all.'
 
-<a name="fn_259"/>[359:VI](#fr_259) Chapter VI, paragraphs 33-35, goes on further to celebrate the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) as holding up the mirror to nature in all its operations and in its widest extent. The grandiloquent language, however, amounts only to this, that, when we have made ourselves acquainted with the phenomena of nature, we can, with a heated fancy, see some analogy to them in the changes of the diagrams and lines of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) book.
+<a id="fn_259"/>[359:VI](#fr_259) Chapter VI, paragraphs 33-35, goes on further to celebrate the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) as holding up the mirror to nature in all its operations and in its widest extent. The grandiloquent language, however, amounts only to this, that, when we have made ourselves acquainted with the phenomena of nature, we can, with a heated fancy, see some analogy to them in the changes of the diagrams and lines of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) book.
 
 **Qián ☰** and **Kūn ☷** must be taken as the same names are understood in paragraph 30 above.
 
 'The [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching),' with which paragraph 33 begins, must be understood also at the commencement of paragraph 35. The character which I have translated by 'corresponds' throughout this last chapter, should not, it is observed, have stress laid upon it. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says that it is simply equal to the 'there is a similarity' of paragraph 22. 'The bright or active element' and 'the dark or inactive' are in the original, 'the `yáng` and the `yīn`.' The correspondence predicated between them and the sun and moon, the brightness and warmth of the one, and the paleness and coldness of the other, shows us how those names arose, and that it is foreign to the original concept of them to call them 'the male and female principles:' -- with the last clause compare paragraphs 6-8.
 
-<a name="fn_260"/>[360:VII](#fr_260) Chapter VII, paragraphs 36, 37, is understood to set forth how the sages embodied the teachings of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) in their character and conduct. But when it is said that 'it was by the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) that they exalted their virtue and enlarged their sphere of occupation,' the meaning can only he that what they did in these directions was in harmony with the principles which they endeavoured to set forth in the symbols of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching).
+<a id="fn_260"/>[360:VII](#fr_260) Chapter VII, paragraphs 36, 37, is understood to set forth how the sages embodied the teachings of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) in their character and conduct. But when it is said that 'it was by the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) that they exalted their virtue and enlarged their sphere of occupation,' the meaning can only he that what they did in these directions was in harmony with the principles which they endeavoured to set forth in the symbols of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching).
 
 'Their rules of conduct were solid,' in paragraph 36, is, literally, 'their rules were low.' To the height of heaven reached by the wisdom of the sages, the author opposes the low-lying earth, between which and their substantial practices and virtues he discovered some analogy.
 
 It will be seen that the chapter commences with 'The Master said.' [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) observes that 'as the [Ten Appendixes](https://en.wikipedia.org/wiki/Ten_Wings) were all made by the Master, these words are out of place, and that he conjectures that wherever they occur here and elsewhere, they were added after the sage's time.' Their occurrence very seriously affects the question of the authorship of the Appendixes, which I have discussed in the Introduction, [pages 28-31](https://sacred-texts.com/ich/icintr03.htm#page_28).
 
-<a name="fn_261"/>[364:VIII](#fr_261) Chapter VIII, paragraphs 38-48. In the first two paragraphs here we have an account of the formation of the diagrams, and of the explanation of the whole hexagrams and of the individual lines. 'The sage' in paragraph 38 is intended presumably of [Fú-xī](https://en.wikipedia.org/wiki/Fuxi); but we cannot say, from it, whether the writer thought of him as having formed only the eight trigrams, or all the sixty-four hexagrams. In the diagrams, however, we have semblances, or representations, of the phenomena of nature, even the most complex, and hard to be disentangled. Paragraph 39 goes on to speak of the explanation more especially of the individual lines, by the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou), as symbolical of good luck or evil, as they turned up in the processes of divination.
+<a id="fn_261"/>[364:VIII](#fr_261) Chapter VIII, paragraphs 38-48. In the first two paragraphs here we have an account of the formation of the diagrams, and of the explanation of the whole hexagrams and of the individual lines. 'The sage' in paragraph 38 is intended presumably of [Fú-xī](https://en.wikipedia.org/wiki/Fuxi); but we cannot say, from it, whether the writer thought of him as having formed only the eight trigrams, or all the sixty-four hexagrams. In the diagrams, however, we have semblances, or representations, of the phenomena of nature, even the most complex, and hard to be disentangled. Paragraph 39 goes on to speak of the explanation more especially of the individual lines, by the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou), as symbolical of good luck or evil, as they turned up in the processes of divination.
 
 Paragraph 40 declares the usableness (so to speak) of the diagrams and the explanations of them; and 41 shows us how a learner or consulter of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) would actually proceed in using it.
 
@@ -349,7 +349,7 @@ In paragraphs 42-48 we have the words of [Confucius](https://en.wikipedia.org/wi
 
 I have spoken in the preceding chapter of the difficulty which the phrase 'The Master said' presents to our accepting the Appendix as from the hand of Confucius himself. But his words in paragraph 43 are in rhyme. He did not speak so. If he rhymed his explanation of the symbolism of the line that is the groundwork of that paragraph, why did he not rhyme his explanations of the other lines? To answer these questions categorically is beyond our power. The facts that suggest them increase the difficulty in ascribing this and the other additions to the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) to the later sage.
 
-<a name="fn_262"/>[366:IX](#fr_262) Chapter IX, paragraphs 49-58, is of a different character from any of the preceding, and treats, unsatisfactorily, of the use of numbers in connexion with the figure of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) and the practice of divination.
+<a id="fn_262"/>[366:IX](#fr_262) Chapter IX, paragraphs 49-58, is of a different character from any of the preceding, and treats, unsatisfactorily, of the use of numbers in connexion with the figure of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) and the practice of divination.
 
 In the [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty) edition of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), published in the seventh century, paragraph 49 is the first of the eleventh chapter according to the arrangement now followed. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) restored it to its present place, which it occupied, as has been proved, during the [Hàn](https://en.wikipedia.org/wiki/Han_dynasty) dynasty, and to [which it properly belongs](#p-367). It and the next paragraph should be taken together, and are distinct from what follows, though the [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty) edition is further confused in placing 51 before 50.
 
@@ -373,7 +373,7 @@ It is difficult to believe the first statement in paragraph 57 and to understand
 
 We may grant what is affirmed in paragraph 58, but does the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) really give us any knowledge of the processes of change and transformation in nature? What wiser are we after all the affirmations about numbers? 'Change' = changings, understood actively: -- the work of Heaven; 'transformations' = evolution: -- the finish given by earth to the changing caused by Heaven.
 
-<a name="fn_263"/>[370:X](#fr_263) Chapter X, paragraphs 59-65, enlarges on the service rendered to men by the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), owing to the way in which it was made by the sages to express their views and carry into effect their wishes.
+<a id="fn_263"/>[370:X](#fr_263) Chapter X, paragraphs 59-65, enlarges on the service rendered to men by the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), owing to the way in which it was made by the sages to express their views and carry into effect their wishes.
 
 Paragraph 59 mentions the four things in which its usefulness appears. 'The emblematic figures' are the four [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols), which are produced by the manipulation of the [undivided and divided lines](#p-371), and whose representative numbers are 9, 8, 7, 6. 'Divination' appears in the paragraph as [*bǔshì*](https://en.wiktionary.org/wiki/卜筮), which means 'divination by the [tortoise-shell](shi.jpg) and by the [stalks](shi.jpg).' But the tortoise-shell had nothing to do with the use of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). Before the composition of these Appendixes the two terms must have been combined to express the practice of divination, without reference to its mode.
 
@@ -385,7 +385,7 @@ Paragraph 62. How could the writer speak of the [Yì Jīng](https://en.wikipedia
 
 Paragraphs 63 and 64 ought not to be taken as saying that the sages did the things described for themselves by the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). They knew them of themselves, and made the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) that others might come by it to do the same. So the writer imagined. No words could indicate more clearly than those of paragraph 65 that the paragraphs between it and 59 did not come from Confucius, but from the compiler of the Great Appendix, whoever he was.
 
-<a name="fn_264"/>[374:XI](#fr_264) Chapter XI, paragraphs 66-74, treats of divination, and the scheme of it supplied in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). That scheme must be referred first to Heaven, which produced the spirit-like things, -- the divining-plant and the tortoise; and next to the sages, who knew the mind of Heaven, and made the plant and shell subservient to the purpose for which they were intended.
+<a id="fn_264"/>[374:XI](#fr_264) Chapter XI, paragraphs 66-74, treats of divination, and the scheme of it supplied in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). That scheme must be referred first to Heaven, which produced the spirit-like things, -- the divining-plant and the tortoise; and next to the sages, who knew the mind of Heaven, and made the plant and shell subservient to the purpose for which they were intended.
 
 Paragraph 66 answers the question of what the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) does; and if there were truth or reason in it, the book and its use would be most important. I have closed the quotation of "the Master's" words at the end of the paragraph; but really - we do not know if they extend so far, or farther.
 
@@ -403,7 +403,7 @@ Paragraph 71 speaks of divination in practice, and paragraph 72 celebrates the s
 
 The last two paragraphs resume the theme of the making of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) by the sages, and their teaching the practice of divination. Of the [Hé Tú](https://en.wikipedia.org/wiki/Yellow_River_Map) and the [Luò Shū](https://en.wikipedia.org/wiki/Lo_Shu_Square), I have spoken in the introduction, pages 14-18. But if we accept the statement that the [Luò Shū](https://en.wikipedia.org/wiki/Lo_Shu_Square) had anything to do with the making of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), we must except [Fú-xī](https://en.wikipedia.org/wiki/Fuxi) from the sages to whom we are indebted for it. It was to the Great [Yǔ](https://en.wikipedia.org/wiki/Yu_the_Great), more than a thousand years later than [Fú-xī](https://en.wikipedia.org/wiki/Fuxi), that the [Luò](https://en.wikipedia.org/wiki/Lo_Shu_Square) disclosed its writing; and [Yǔ](https://en.wikipedia.org/wiki/Yu_the_Great) is never said to have had anything to do with the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). Nor is either of these things mentioned in Section ii, paragraph 11, where the work of [Fú-xī](https://en.wikipedia.org/wiki/Fuxi) is described more in detail.
 
-<a name="fn_265"/>[378:XII](#fr_265) Chapter XII, paragraphs 75-81, endeavours to show how we have in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) a representation of the changing phenomena of nature, and such a representation as words or speech could not convey.
+<a id="fn_265"/>[378:XII](#fr_265) Chapter XII, paragraphs 75-81, endeavours to show how we have in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) a representation of the changing phenomena of nature, and such a representation as words or speech could not convey.
 
 Paragraph 75 has a good meaning, taken by itself; but it has no apparent connexion with the rest of the chapter. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) though [it was misplaced in its present position](#p-379), and should be at the end of chapter 8. Compare paragraph 14.
 

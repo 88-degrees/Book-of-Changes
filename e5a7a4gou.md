@@ -4,45 +4,45 @@
 
 > Chinese: 姤 ䷫ gòu
 
-<a id="p-154"></a>
+<a id="p-154"/>
 
 <img src="shapes/44.10.jpg" width="101" alt="姤">
 
 **Gòu ䷫** shows a female who is bold and strong. It will not be good to marry (such) a female.
 
-<a id="p-155"></a>
+<a id="p-155"/>
 
-1.<a name="44.1"></a> The first `SIX`, divided, shows how its subject should be kept (like a carriage) tied and fastened to a metal drag, in which case with firm correctness there will be good fortune. (But) if he move in any direction, evil will appear. He will be (like) a lean pig, which is sure to keep jumping about.
+1.<a id="44.1"/> The first `SIX`, divided, shows how its subject should be kept (like a carriage) tied and fastened to a metal drag, in which case with firm correctness there will be good fortune. (But) if he move in any direction, evil will appear. He will be (like) a lean pig, which is sure to keep jumping about.
 
 > **䷫** changing to [**䷀**](e4b9beqian.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.1)
 
-2.<a name="44.2"></a> The second `NINE`, undivided, shows its subject with a wallet of fish. There will be no error. But it will not be well to let (the subject of the first line) go forward to the guests.
+2.<a id="44.2"/> The second `NINE`, undivided, shows its subject with a wallet of fish. There will be no error. But it will not be well to let (the subject of the first line) go forward to the guests.
 
 > **䷫** changing to [**䷠**](e981afdun.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.2)
 
-3.<a name="44.3"></a> The third `NINE`, undivided, shows one from whose buttocks the skin has been stripped so that he walks with difficulty. The position is perilous, but there will be no great error.
+3.<a id="44.3"/> The third `NINE`, undivided, shows one from whose buttocks the skin has been stripped so that he walks with difficulty. The position is perilous, but there will be no great error.
 
 > **䷫** changing to [**䷅**](e8aebcsong.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.3)
 
-4.<a name="44.4"></a> The fourth `NINE`, undivided, shows its subject with his wallet, but no fish in it. This will give rise to evil.
+4.<a id="44.4"/> The fourth `NINE`, undivided, shows its subject with his wallet, but no fish in it. This will give rise to evil.
 
 > **䷫** changing to [**䷸**](e5b7bdxun.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.4)
 
-5.<a name="44.5"></a> The fifth `NINE`, undivided, (shows its subject as) a medlar tree overspreading the gourd (beneath it). If he keep his brilliant qualities concealed, (a good issue) will descend (as) from Heaven.
+5.<a id="44.5"/> The fifth `NINE`, undivided, (shows its subject as) a medlar tree overspreading the gourd (beneath it). If he keep his brilliant qualities concealed, (a good issue) will descend (as) from Heaven.
 
 > **䷫** changing to [**䷱**](e9bc8eding.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷪**](e5a4acguai.md#43.5)
 
-6.<a name="44.6"></a> The sixth `NINE`, undivided, shows its subject receiving others on his horns. There will be occasion for regret, but there will be no error.
+6.<a id="44.6"/> The sixth `NINE`, undivided, shows its subject receiving others on his horns. There will be occasion for regret, but there will be no error.
 
 > **䷫** changing to [**䷛**](e5a4a7e8bf87daguo.md)
 

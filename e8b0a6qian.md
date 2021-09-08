@@ -10,7 +10,7 @@
 
 **Qiān ䷎** indicates progress and success. The superior man, (being humble as it implies), will have a (good) issue (to his undertakings).
 
-1.<a name="15.1"></a> The first `SIX`, divided, shows us the superior man who adds humility to humility. (Even) the great stream may be crossed with this, and there will be good fortune.
+1.<a id="15.1"/> The first `SIX`, divided, shows us the superior man who adds humility to humility. (Even) the great stream may be crossed with this, and there will be good fortune.
 
 <a id="p-90"/>
 
@@ -18,31 +18,31 @@
 
 > Matching Line 1 in Adjacent Hexagram: [**䷏**](e8b1abyu.md#16.1)
 
-2.<a name="15.2"></a> The second `SIX`, divided, shows us humility that has made itself recognised. With firm correctness there will be good fortune.
+2.<a id="15.2"/> The second `SIX`, divided, shows us humility that has made itself recognised. With firm correctness there will be good fortune.
 
 > **䷎** changing to [**䷭**](e58d87sheng.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷏**](e8b1abyu.md#16.2)
 
-3.<a name="15.3"></a> The third `NINE`, undivided, shows the superior man of (acknowledged) merit. He will maintain his success to the end, and have good fortune.
+3.<a id="15.3"/> The third `NINE`, undivided, shows the superior man of (acknowledged) merit. He will maintain his success to the end, and have good fortune.
 
 > **䷎** changing to [**䷁**](e59da4kun.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷏**](e8b1abyu.md#16.3)
 
-4.<a name="15.4"></a> The fourth `SIX`, divided, shows one, whose action would be in every way advantageous, stirring up (the more) his humility.
+4.<a id="15.4"/> The fourth `SIX`, divided, shows one, whose action would be in every way advantageous, stirring up (the more) his humility.
 
 > **䷎** changing to [**䷽**](e5b08fe8bf87xiaoguo.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷏**](e8b1abyu.md#16.4)
 
-5.<a name="15.5"></a> The fifth `SIX`, divided, shows one who, without being rich, is able to employ his neighbours. He may advantageously use the force of arms. All his movements will be advantageous.
+5.<a id="15.5"/> The fifth `SIX`, divided, shows one who, without being rich, is able to employ his neighbours. He may advantageously use the force of arms. All his movements will be advantageous.
 
 > **䷎** changing to [**䷦**](e8b987jian.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷏**](e8b1abyu.md#16.5)
 
-6.<a name="15.6"></a> The sixth `SIX`, divided, shows us humility that has made itself recognised. The subject of it will with advantage put his hosts in motion; but (he will only) punish his own towns and state.
+6.<a id="15.6"/> The sixth `SIX`, divided, shows us humility that has made itself recognised. The subject of it will with advantage put his hosts in motion; but (he will only) punish his own towns and state.
 
 > **䷎** changing to [**䷳**](e889aegen.md)
 

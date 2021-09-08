@@ -4,45 +4,45 @@
 
 > Chinese: 夬 ䷪ guài
 
-<a id="p-151"></a>
+<a id="p-151"/>
 
 <img src="shapes/43.10.jpg" width="101" alt="夬">
 
 **Guài ䷪** requires (in him who would fulfil its meaning) the exhibition (of the culprit's guilt) in the royal court, and a sincere and earnest appeal (for sympathy and support), with a consciousness of the peril (involved in cutting off the criminal). He should (also) make announcement in his own city, and show that it will not be well to have recourse at once to arms. (In this way) there will be advantage in whatever he shall go forward to.
 
-<a id="p-152"></a>
+<a id="p-152"/>
 
-1.<a name="43.1"></a> The first `NINE`, undivided, shows its subject in (the pride of) strength advancing with his toes. He goes forward, but will not succeed. There will be ground for blame.
+1.<a id="43.1"/> The first `NINE`, undivided, shows its subject in (the pride of) strength advancing with his toes. He goes forward, but will not succeed. There will be ground for blame.
 
 > **䷪** changing to [**䷛**](e5a4a7e8bf87daguo.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷫**](e5a7a4gou.md#44.1)
 
-2.<a name="43.2"></a> The second `NINE`, undivided, shows its subject full of apprehension and appealing (for sympathy and help). Late at night hostile measures may be (taken against him), but he need not be anxious about them.
+2.<a id="43.2"/> The second `NINE`, undivided, shows its subject full of apprehension and appealing (for sympathy and help). Late at night hostile measures may be (taken against him), but he need not be anxious about them.
 
 > **䷪** changing to [**䷰**](e99da9ge.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷫**](e5a7a4gou.md#44.2)
 
-3.<a name="43.3"></a> The third `NINE`, undivided, shows its subject (about to advance) with strong (and determined) looks. There will be evil. (But) the superior man, bent on cutting off (the criminal), will walk alone and encounter the rain, (till he be hated by his proper associates) as if he were contaminated (by the others). (In the end) there will be no blame against him.
+3.<a id="43.3"/> The third `NINE`, undivided, shows its subject (about to advance) with strong (and determined) looks. There will be evil. (But) the superior man, bent on cutting off (the criminal), will walk alone and encounter the rain, (till he be hated by his proper associates) as if he were contaminated (by the others). (In the end) there will be no blame against him.
 
 > **䷪** changing to [**䷹**](e58591dui.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷫**](e5a7a4gou.md#44.3)
 
-4.<a name="43.4"></a> The fourth `NINE`, undivided, shows one from whose buttocks the skin has been stripped, and who walks slowly and with difficulty. (If he could act) like. a sheep led (after its companions), occasion for repentance would disappear. But though he hear these words, he will not believe them.
+4.<a id="43.4"/> The fourth `NINE`, undivided, shows one from whose buttocks the skin has been stripped, and who walks slowly and with difficulty. (If he could act) like. a sheep led (after its companions), occasion for repentance would disappear. But though he hear these words, he will not believe them.
 
 > **䷪** changing to [**䷄**](e99c80xu.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷫**](e5a7a4gou.md#44.4)
 
-5.<a name="43.5"></a> The fifth `NINE`, undivided, shows (the small men like) a bed of purslain, which ought to be uprooted with the utmost determination. (The subject of the line having such determination), his action, in harmony with his central position, will lead to no error or blame.
+5.<a id="43.5"/> The fifth `NINE`, undivided, shows (the small men like) a bed of purslain, which ought to be uprooted with the utmost determination. (The subject of the line having such determination), his action, in harmony with his central position, will lead to no error or blame.
 
 > **䷪** changing to [**䷡**](e5a4a7e5a3aedazhuang.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷫**](e5a7a4gou.md#44.5)
 
-6.<a name="43.6"></a> The sixth `SIX`, divided, shows its subject without any (helpers) on whom to call. His end will be evil.
+6.<a id="43.6"/> The sixth `SIX`, divided, shows its subject without any (helpers) on whom to call. His end will be evil.
 
 > **䷪** changing to [**䷀**](e4b9beqian.md)
 

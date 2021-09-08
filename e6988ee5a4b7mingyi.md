@@ -12,37 +12,37 @@
 
 <a id="p-135"/>
 
-1.<a name="36.1"></a> The first `NINE`, undivided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, flying, but with drooping wings. When the superior man (is revolving) his going away, he may be for three days without eating. Wherever he goes, the people there may speak (derisively of him).
+1.<a id="36.1"/> The first `NINE`, undivided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, flying, but with drooping wings. When the superior man (is revolving) his going away, he may be for three days without eating. Wherever he goes, the people there may speak (derisively of him).
 
 > **䷣** changing to [**䷎**](e8b0a6qian.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.1)
 
-2.<a name="36.2"></a> The second `SIX`, divided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, wounded in the left thigh. He saves himself by the strength of a (swift) horse; and is fortunate.
+2.<a id="36.2"/> The second `SIX`, divided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, wounded in the left thigh. He saves himself by the strength of a (swift) horse; and is fortunate.
 
 > **䷣** changing to [**䷊**](e6b3b0tai.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.2)
 
-3.<a name="36.3"></a> The third `NINE`, undivided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, hunting in the south, and taking the great chief (of the darkness). He should not be eager to make (all) correct (at once).
+3.<a id="36.3"/> The third `NINE`, undivided, shows its subject, (in the condition indicated by) **Míng Yí ䷣**, hunting in the south, and taking the great chief (of the darkness). He should not be eager to make (all) correct (at once).
 
 > **䷣** changing to [**䷗**](e5a48dfu.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.3)
 
-4.<a name="36.4"></a> The fourth six, divided, shows its subject (just) entered into the left side of the belly (of the dark land). (But) he is able to carry out the mind appropriate (in the condition indicated by) **Míng Yí ䷣**, quitting the gate and courtyard (of the lord of darkness).
+4.<a id="36.4"/> The fourth six, divided, shows its subject (just) entered into the left side of the belly (of the dark land). (But) he is able to carry out the mind appropriate (in the condition indicated by) **Míng Yí ䷣**, quitting the gate and courtyard (of the lord of darkness).
 
 > **䷣** changing to [**䷶**](e4b8b0feng.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.4)
 
-5.<a name="36.5"></a> The fifth six, divided, shows how the count of [Qì](https://en.wiktionary.org/wiki/气) fulfilled the condition indicated by **Míng Yí ䷣**. It will be advantageous to be firm and correct.
+5.<a id="36.5"/> The fifth six, divided, shows how the count of [Qì](https://en.wiktionary.org/wiki/气) fulfilled the condition indicated by **Míng Yí ䷣**. It will be advantageous to be firm and correct.
 
 > **䷣** changing to [**䷾**](e697a2e6b58ejiji.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷢**](e6998bjin.md#35.5)
 
-6.<a name="36.6"></a> The sixth six, divided, shows the case where there is no light, but (only) obscurity. (Its subject) had at first ascended to (the top of) the sky; his future shall be to go into the earth.
+6.<a id="36.6"/> The sixth six, divided, shows the case where there is no light, but (only) obscurity. (Its subject) had at first ascended to (the top of) the sky; his future shall be to go into the earth.
 
 > **䷣** changing to [**䷕**](e8b4b2bi.md)
 

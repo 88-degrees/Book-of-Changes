@@ -4,47 +4,47 @@
 
 > Chinese: 涣 ䷺ huàn
 
-<a id="p-194"></a>
+<a id="p-194"/>
 
 <img src="shapes/59.10.jpg" width="101" alt="涣">
 
 **Huàn ䷺** intimates that (under its conditions) there will be progress and success. The king goes to his ancestral temple; and it will be advantageous to cross the great stream. It will be advantageous to be firm and correct.
 
-<a id="p-195"></a>
+<a id="p-195"/>
 
-1.<a name="59.1"></a> The first `SIX`, divided, shows its subject engaged in rescuing (from the impending evil) and having (the assistance of) a strong horse. There will be good fortune.
+1.<a id="59.1"/> The first `SIX`, divided, shows its subject engaged in rescuing (from the impending evil) and having (the assistance of) a strong horse. There will be good fortune.
 
 > **䷺** changing to [**䷼**](e4b8ade5ad9azhongfu.md#60.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷻**](e88a82jie.md#60.1)
 
-2.<a name="59.2"></a> The second `NINE`, undivided, shows its subject, amid the dispersion, hurrying to his contrivance (for security). All occasion for repentance will disappear.
+2.<a id="59.2"/> The second `NINE`, undivided, shows its subject, amid the dispersion, hurrying to his contrivance (for security). All occasion for repentance will disappear.
 
 > **䷺** changing to [**䷓**](e8a782guan.md#20.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷻**](e88a82jie.md#60.2)
 
-3.<a name="59.3"></a> The third `SIX`, divided, shows its subject discarding any regard to his own person. There will be no occasion for repentance.
+3.<a id="59.3"/> The third `SIX`, divided, shows its subject discarding any regard to his own person. There will be no occasion for repentance.
 
 > **䷺** changing to [**䷸**](e5b7bdxun.md#57.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷻**](e88a82jie.md#60.3)
 
-4.<a name="59.4"></a> The fourth `SIX`, divided, shows its subject scattering the (different) parties (in the state); which leads to great good fortune. From the dispersion (he collects again good men standing out, a crowd) like a mound, which is what ordinary men would not have thought of.
+4.<a id="59.4"/> The fourth `SIX`, divided, shows its subject scattering the (different) parties (in the state); which leads to great good fortune. From the dispersion (he collects again good men standing out, a crowd) like a mound, which is what ordinary men would not have thought of.
 
 > **䷺** changing to [**䷅**](e8aebcsong.md#6.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷻**](e88a82jie.md#60.4)
 
-5.<a name="59.5"></a> The fifth `NINE`, undivided, shows its subject amidst the dispersion issuing his great announcements as the perspiration (flows from his body). He scatters abroad (also) the accumulations in the royal granaries. There will be no error.
+5.<a id="59.5"/> The fifth `NINE`, undivided, shows its subject amidst the dispersion issuing his great announcements as the perspiration (flows from his body). He scatters abroad (also) the accumulations in the royal granaries. There will be no error.
 
 > **䷺** changing to [**䷃**](e89299meng.md#4.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷻**](e88a82jie.md#60.5)
 
-<a id="p-196"></a>
+<a id="p-196"/>
 
-6.<a name="59.6"></a> The topmost `NINE`, undivided, shows its subject disposing of (what may be called) its bloody wounds, and going and separating himself from its anxious fears. There will be no error.
+6.<a id="59.6"/> The topmost `NINE`, undivided, shows its subject disposing of (what may be called) its bloody wounds, and going and separating himself from its anxious fears. There will be no error.
 
 > **䷺** changing to [**䷜**](e59d8ekan.md#29.6)
 

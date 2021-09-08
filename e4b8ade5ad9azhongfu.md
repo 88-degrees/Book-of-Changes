@@ -12,37 +12,37 @@
 
 <a id="p-200"/>
 
-1.<a name="61.1"></a> The first `NINE`, undivided, shows its subject resting (in himself). There will be good fortune. If he sought to any other, he would not find rest.
+1.<a id="61.1"/> The first `NINE`, undivided, shows its subject resting (in himself). There will be good fortune. If he sought to any other, he would not find rest.
 
 > **䷼** changing to [**䷺**](e6b6a3huan.md#59.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷽**](e5b08fe8bf87xiaoguo.md#62.1)
 
-2.<a name="61.2"></a> The second `NINE`, undivided, shows its subject (like) the crane crying out in her hidden retirement, and her young ones responding to her. (It is as if it were said), 'I have a cup of good spirits,' (and the response were), 'I will partake of it with you.'
+2.<a id="61.2"/> The second `NINE`, undivided, shows its subject (like) the crane crying out in her hidden retirement, and her young ones responding to her. (It is as if it were said), 'I have a cup of good spirits,' (and the response were), 'I will partake of it with you.'
 
 > **䷼** changing to [**䷩**](e79b8ayi.md#42.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷽**](e5b08fe8bf87xiaoguo.md#62.2)
 
-3.<a name="61.3"></a> The third `SIX`, divided, shows its subject having met with his mate. Now he beats his drum, and now he leaves off. Now he weeps, and now he sings.
+3.<a id="61.3"/> The third `SIX`, divided, shows its subject having met with his mate. Now he beats his drum, and now he leaves off. Now he weeps, and now he sings.
 
 > **䷼** changing to [**䷈**](e5b08fe7959cxiaoxu.md#9.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷽**](e5b08fe8bf87xiaoguo.md#62.3)
 
-4.<a name="61.4"></a> The fourth `SIX`, divided, shows its subject (like) the moon nearly full, and (like) a horse (in a chariot) whose fellow disappears. There will be no error.
+4.<a id="61.4"/> The fourth `SIX`, divided, shows its subject (like) the moon nearly full, and (like) a horse (in a chariot) whose fellow disappears. There will be no error.
 
 > **䷼** changing to [**䷉**](e5b1a5lv.md#10.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷽**](e5b08fe8bf87xiaoguo.md#62.4)
 
-5.<a name="61.5"></a> The fifth `NINE`, undivided, shows its subject perfectly sincere, and linking (others) to him in closest union. There will be no error.
+5.<a id="61.5"/> The fifth `NINE`, undivided, shows its subject perfectly sincere, and linking (others) to him in closest union. There will be no error.
 
 > **䷼** changing to [**䷨**](e68d9fsun.md#41.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷽**](e5b08fe8bf87xiaoguo.md#62.5)
 
-6.<a name="61.6"></a> The topmost `NINE`, undivided, shows its subject in chanticleer (trying to) mount to heaven. Even with firm correctness there will be evil.
+6.<a id="61.6"/> The topmost `NINE`, undivided, shows its subject in chanticleer (trying to) mount to heaven. Even with firm correctness there will be evil.
 
 > **䷼** changing to [**䷻**](e88a82jie.md#60.6)
 

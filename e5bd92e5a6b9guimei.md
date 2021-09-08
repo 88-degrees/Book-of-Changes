@@ -12,7 +12,7 @@
 
 <a id="p-181"/>
 
-1.<a name="54.1"></a> The first `NINE`, undivided, shows the younger sister married off in a position ancillary to the real wife. (It suggests the idea of) a person lame on one leg who yet manages to tramp along. Going forward will be fortunate.
+1.<a id="54.1"/> The first `NINE`, undivided, shows the younger sister married off in a position ancillary to the real wife. (It suggests the idea of) a person lame on one leg who yet manages to tramp along. Going forward will be fortunate.
 
 > **䷵** changing to [**䷧**](e8a7a3xie.md#40.1)
 
@@ -20,31 +20,31 @@
 
 <a id="p-182"/>
 
-2.<a name="54.2"></a> The second `NINE`, undivided, shows her blind of one eye, and yet able to see. There will be advantage in her maintaining the firm correctness of a solitary widow.
+2.<a id="54.2"/> The second `NINE`, undivided, shows her blind of one eye, and yet able to see. There will be advantage in her maintaining the firm correctness of a solitary widow.
 
 > **䷵** changing to [**䷲**](e99c87zhen.md#51.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷵**](e6b890jian.md#53.2)
 
-3.<a name="54.3"></a> The third `SIX`, divided, shows the younger sister who was to be married off in a mean position. She returns and accepts an ancillary position.
+3.<a id="54.3"/> The third `SIX`, divided, shows the younger sister who was to be married off in a mean position. She returns and accepts an ancillary position.
 
 > **䷵** changing to [**䷡**](e5a4a7e5a3aedazhuang.md#34.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷵**](e6b890jian.md#53.3)
 
-4.<a name="54.4"></a> The fourth `NINE`, undivided, shows the younger sister who is to be married off protracting the time. She may be late in being married, but the time will come.
+4.<a id="54.4"/> The fourth `NINE`, undivided, shows the younger sister who is to be married off protracting the time. She may be late in being married, but the time will come.
 
 > **䷵** changing to [**䷒**](e4b8b4lin.md#19.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷵**](e6b890jian.md#53.4)
 
-5.<a name="54.5"></a> The fifth `SIX`, divided, reminds us of the marrying of the younger sister of (king) [Dì Yǐ](https://en.wikipedia.org/wiki/Di_Yi), when the sleeves of her the princess were not equal to those of the (still) younger sister who accompanied her in an inferior capacity. (The case suggests the thought of) the moon almost full. There will be good fortune.
+5.<a id="54.5"/> The fifth `SIX`, divided, reminds us of the marrying of the younger sister of (king) [Dì Yǐ](https://en.wikipedia.org/wiki/Di_Yi), when the sleeves of her the princess were not equal to those of the (still) younger sister who accompanied her in an inferior capacity. (The case suggests the thought of) the moon almost full. There will be good fortune.
 
 > **䷵** changing to [**䷹**](e58591dui.md#58.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷵**](e6b890jian.md#53.5)
 
-6.<a name="54.6"></a> The sixth `SIX`, divided, shows the young lady bearing the basket, but without anything in it, and the gentleman slaughtering the sheep, but without blood flowing from it. There will be no advantage in any way.
+6.<a id="54.6"/> The sixth `SIX`, divided, shows the young lady bearing the basket, but without anything in it, and the gentleman slaughtering the sheep, but without blood flowing from it. There will be no advantage in any way.
 
 > **䷵** changing to [**䷥**](e79dbdkui.md#38.6)
 

@@ -12,19 +12,19 @@
 he will yet meet with opposition and obstruction; but if he cherish an apprehensive caution,
 there will be good fortune, while, if he must prosecute the contention to the (bitter) end, there will be evil. It will be advantageous to see the great man; it will not be advantageous to cross the great stream.
 
-1.<a name="6.1"></name> The first `SIX`, divided, shows its subject not perpetuating the matter about which (the contention is). He will suffer the small (injury) of being spoken against, but the end will be fortunate.
+1.<a id="6.1"/> The first `SIX`, divided, shows its subject not perpetuating the matter about which (the contention is). He will suffer the small (injury) of being spoken against, but the end will be fortunate.
 
 > **䷅** changing to [**䷉**](e5b1a5lv.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.1)
 
-2.<a name="6.2"></name> The second `NINE`, undivided, shows its subject unequal to the contention. If he retire and keep concealed (where) the inhabitants of his city are (only) three hundred families, he will fall into no mistake.
+2.<a id="6.2"/> The second `NINE`, undivided, shows its subject unequal to the contention. If he retire and keep concealed (where) the inhabitants of his city are (only) three hundred families, he will fall into no mistake.
 
 > **䷅** changing to [**䷋**](e590a6pi.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.2)
 
-3.<a name="6.3"></name> The third `SIX`, divided, shows its subject keeping in the old place assigned for his support, and firmly correct. Perilous as the position is, there will be good fortune in the end. Should he perchance engage in the king's business, he will not (claim the merit of) achievement.
+3.<a id="6.3"/> The third `SIX`, divided, shows its subject keeping in the old place assigned for his support, and firmly correct. Perilous as the position is, there will be good fortune in the end. Should he perchance engage in the king's business, he will not (claim the merit of) achievement.
 
 <a id="p-70"/>
 
@@ -32,19 +32,19 @@ there will be good fortune, while, if he must prosecute the contention to the (b
 
 > Matching Line 3 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.3)
 
-4.<a name="6.4"></name> The fourth `NINE`, undivided, shows its subject unequal to the contention. He returns to (the study of Heaven's) ordinances, changes (his wish to contend), and rests in being firm and correct. There will be good fortune.
+4.<a id="6.4"/> The fourth `NINE`, undivided, shows its subject unequal to the contention. He returns to (the study of Heaven's) ordinances, changes (his wish to contend), and rests in being firm and correct. There will be good fortune.
 
 > **䷅** changing to [**䷺**](e6b6a3huan.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.4)
 
-5.<a name="6.5"></name> The fifth `NINE`, undivided, shows its subject contending; -- and with great good fortune.
+5.<a id="6.5"/> The fifth `NINE`, undivided, shows its subject contending; -- and with great good fortune.
 
 > **䷅** changing to [**䷿**](e69caae6b58eweiji.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷄**](e99c80xu.md#5.5)
 
-6.<a name="6.6"></name> The topmost `NINE`, undivided, shows how its subject may have the leathern belt conferred on him (by the sovereign), and thrice it shall be taken from him in a morning.
+6.<a id="6.6"/> The topmost `NINE`, undivided, shows how its subject may have the leathern belt conferred on him (by the sovereign), and thrice it shall be taken from him in a morning.
 
 > **䷅** changing to [**䷮**](e59bb0kun.md)
 

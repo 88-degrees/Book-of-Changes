@@ -13,31 +13,31 @@ There will be advantage in movement onward in whatever direction. It will be adv
 
 <a id="p-190"/>
 
-1.<a name="57.1"></a> The first `SIX`, divided, shows its subject (now) advancing, (now) receding. It would be advantageous for him to have the firm correctness of a brave soldier.
+1.<a id="57.1"/> The first `SIX`, divided, shows its subject (now) advancing, (now) receding. It would be advantageous for him to have the firm correctness of a brave soldier.
 
 > **䷸** changing to [**䷈**](e5b08fe7959cxiaoxu.md#9.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷹**](e58591dui.md#58.1)
 
-2.<a name="57.2"></a> The second `NINE`, undivided, shows the representative of Sun beneath a couch, and employing diviners and exorcists in a way bordering on confusion. There will be good fortune and no error.
+2.<a id="57.2"/> The second `NINE`, undivided, shows the representative of Sun beneath a couch, and employing diviners and exorcists in a way bordering on confusion. There will be good fortune and no error.
 
 > **䷸** changing to [**䷴**](e6b890jian.md#53.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷹**](e58591dui.md#58.2)
 
-3.<a name="57.3"></a> The third `NINE`, undivided, shows its subject penetrating (only) by violent and repeated efforts. There will be occasion for regret.
+3.<a id="57.3"/> The third `NINE`, undivided, shows its subject penetrating (only) by violent and repeated efforts. There will be occasion for regret.
 
 > **䷸** changing to [**䷺**](e6b6a3huan.md#59.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷹**](e58591dui.md#58.3)
 
-4.<a name="57.4"></a> The fourth `SIX`, divided, shows all occasion for repentance (in its subject) passed away. He takes game for its threefold use in his hunting.
+4.<a id="57.4"/> The fourth `SIX`, divided, shows all occasion for repentance (in its subject) passed away. He takes game for its threefold use in his hunting.
 
 > **䷸** changing to [**䷫**](e5a7a4gou.md#44.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷹**](e58591dui.md#58.4)
 
-5.<a name="57.5"></a> The fifth `NINE`, undivided, shows that with firm correctness there will be good fortune (to its subject). All occasion for repentance will disappear, and all his movements will be advantageous. There may have been no (good) beginning, but there will be a (good) end. Three days before making any changes, (let him give notice of them); and three days after, (let him reconsider them). There will (thus) be good fortune.
+5.<a id="57.5"/> The fifth `NINE`, undivided, shows that with firm correctness there will be good fortune (to its subject). All occasion for repentance will disappear, and all his movements will be advantageous. There may have been no (good) beginning, but there will be a (good) end. Three days before making any changes, (let him give notice of them); and three days after, (let him reconsider them). There will (thus) be good fortune.
 
 > **䷸** changing to [**䷑**](e89b8agu.md#18.5)
 
@@ -45,7 +45,7 @@ There will be advantage in movement onward in whatever direction. It will be adv
 
 <a id="p-191"/>
 
-6.<a name="57.6"></a> The sixth `NINE`, undivided, shows the representative of penetration beneath a couch, and having lost the axe with which he executed his decisions. However firm and correct he may (try to) be, there will be evil.
+6.<a id="57.6"/> The sixth `NINE`, undivided, shows the representative of penetration beneath a couch, and having lost the axe with which he executed his decisions. However firm and correct he may (try to) be, there will be evil.
 
 > **䷸** changing to [**䷯**](e4ba95jing.md#48.6)
 

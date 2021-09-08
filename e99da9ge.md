@@ -10,7 +10,7 @@
 
 (What takes place as indicated by) **Gé ䷰** is believed in only after it has been accomplished. There will be great progress and success. Advantage will come from being firm and correct. (In that case) occasion for repentance will disappear.
 
-1.<a name="49.1"></a> The first `NINE`, undivided, shows its subject (as if he were) bound with the skin of a yellow ox.
+1.<a id="49.1"/> The first `NINE`, undivided, shows its subject (as if he were) bound with the skin of a yellow ox.
 
 > **䷰** changing to [**䷞**](e592b8xian.md)
 
@@ -18,31 +18,31 @@
 
 <a id="p-168"/>
 
-2.<a name="49.2"></a> The second `SIX`, divided, shows its subject making his changes after some time has passed. Action taken will be fortunate. There will be no error.
+2.<a id="49.2"/> The second `SIX`, divided, shows its subject making his changes after some time has passed. Action taken will be fortunate. There will be no error.
 
 > **䷰** changing to [**䷪**](e5a4acguai.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷱**](e9bc8eding.md#50.2)
 
-3.<a name="49.3"></a> The third `NINE`, undivided, shows that action taken by its subject will be evil. Though he be firm and correct, his position is perilous. If the change (he contemplates) have been three times fully discussed, he will be believed in.
+3.<a id="49.3"/> The third `NINE`, undivided, shows that action taken by its subject will be evil. Though he be firm and correct, his position is perilous. If the change (he contemplates) have been three times fully discussed, he will be believed in.
 
 > **䷰** changing to [**䷐**](e99a8fsui.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷱**](e9bc8eding.md#50.3)
 
-4.<a name="49.4"></a> The fourth `NINE`, undivided, shows occasion for repentance disappearing (from its subject). Let him be believed in; and though he change (existing) ordinances, there will be good fortune.
+4.<a id="49.4"/> The fourth `NINE`, undivided, shows occasion for repentance disappearing (from its subject). Let him be believed in; and though he change (existing) ordinances, there will be good fortune.
 
 > **䷰** changing to [**䷾**](e697a2e6b58ejiji.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷱**](e9bc8eding.md#50.4)
 
-5.<a name="49.5"></a> The fifth `NINE`, undivided, shows the great man (producing his changes) as the tiger (does when he) changes (his stripes). Before he divines (and proceeds to action), faith has been reposed in him.
+5.<a id="49.5"/> The fifth `NINE`, undivided, shows the great man (producing his changes) as the tiger (does when he) changes (his stripes). Before he divines (and proceeds to action), faith has been reposed in him.
 
 > **䷰** changing to [**䷶**](e4b8b0feng.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷱**](e9bc8eding.md#50.5)
 
-6.<a name="49.6"></a> The sixth `SIX`, divided, shows the superior man producing his changes as the leopard (does when he) changes (his spots), while small men change their faces (and show their obedience). To go forward (now) would lead to evil, but there will be good fortune in abiding firm and correct.
+6.<a id="49.6"/> The sixth `SIX`, divided, shows the superior man producing his changes as the leopard (does when he) changes (his spots), while small men change their faces (and show their obedience). To go forward (now) would lead to evil, but there will be good fortune in abiding firm and correct.
 
 > **䷰** changing to [**䷌**](e5908ce4babatongren.md#13.6)
 

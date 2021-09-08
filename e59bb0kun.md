@@ -12,25 +12,25 @@ In (the condition denoted by) **Kùn ䷮** there may (yet be) progress and succe
 
 <a id="p-162"/>
 
-1.<a name="47.1"></a> The first `SIX`, divided, shows its subject with bare buttocks straitened under the stump of a tree. He enters a dark valley, and for three years has no prospect (of deliverance).
+1.<a id="47.1"/> The first `SIX`, divided, shows its subject with bare buttocks straitened under the stump of a tree. He enters a dark valley, and for three years has no prospect (of deliverance).
 
 > **䷮** changing to [**䷹**](e58591dui.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷯**](e4ba95jing.md#48.1)
 
-2.<a name="47.2"></a> The second `NINE`, undivided, shows its subject straitened amidst his wine and viands. There come to him anon the red knee-covers (of the ruler). It will be well for him (to maintain his sincerity as) in sacrificing. Active operations (on his part) will lead to evil, but he will be free from blame.
+2.<a id="47.2"/> The second `NINE`, undivided, shows its subject straitened amidst his wine and viands. There come to him anon the red knee-covers (of the ruler). It will be well for him (to maintain his sincerity as) in sacrificing. Active operations (on his part) will lead to evil, but he will be free from blame.
 
 > **䷮** changing to [**䷬**](e89083cui.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷯**](e4ba95jing.md#48.2)
 
-3.<a name="47.3"></a> The third `SIX`, divided, shows its subject straitened before a (frowning) rock. He lays hold of thorns. He enters his palace, and does not see his wife. There will be evil.
+3.<a id="47.3"/> The third `SIX`, divided, shows its subject straitened before a (frowning) rock. He lays hold of thorns. He enters his palace, and does not see his wife. There will be evil.
 
 > **䷮** changing to [**䷛**](e5a4a7e8bf87daguo.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷯**](e4ba95jing.md#48.3)
 
-4.<a name="47.4"></a> The fourth `NINE`, undivided shows its subject proceeding very slowly (to help the subject of the first line), who is straitened by the carriage adorned with metal in front of him. There will be occasion for regret, but the end will be good.
+4.<a id="47.4"/> The fourth `NINE`, undivided shows its subject proceeding very slowly (to help the subject of the first line), who is straitened by the carriage adorned with metal in front of him. There will be occasion for regret, but the end will be good.
 
 #### p. 163
 
@@ -38,13 +38,13 @@ In (the condition denoted by) **Kùn ䷮** there may (yet be) progress and succe
 
 > Matching Line 4 in Adjacent Hexagram: [**䷯**](e4ba95jing.md#48.4)
 
-5.<a name="47.5"></a> The fifth `NINE`, undivided, shows its subject with his nose and feet cut off. He is straitened by (his ministers in their) scarlet aprons. He is leisurely in his movements, however, and is satisfied. It will be well for him to be (as sincere) as in sacrificing (to spiritual beings).
+5.<a id="47.5"/> The fifth `NINE`, undivided, shows its subject with his nose and feet cut off. He is straitened by (his ministers in their) scarlet aprons. He is leisurely in his movements, however, and is satisfied. It will be well for him to be (as sincere) as in sacrificing (to spiritual beings).
 
 > **䷮** changing to [**䷧**](e8a7a3xie.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷯**](e4ba95jing.md#48.5)
 
-6.<a name="47.6"></a> The sixth `SIX`, divided, shows its subject straitened, as if bound with creepers; or n a high and dangerous position, and saying (to himself), 'If I move, I shall repent it.' If he do repent of former errors, there will be good fortune in his going forward.
+6.<a id="47.6"/> The sixth `SIX`, divided, shows its subject straitened, as if bound with creepers; or n a high and dangerous position, and saying (to himself), 'If I move, I shall repent it.' If he do repent of former errors, there will be good fortune in his going forward.
 
 > **䷮** changing to [**䷅**](e8aebcsong.md)
 

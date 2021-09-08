@@ -10,7 +10,7 @@
 
 **Jiàn ䷴** suggests to us the marriage of a young lady, and the good fortune (attending it). There will be advantage in being firm and correct.
 
-1.<a name="53.1"></a> The first `SIX`, divided, shows the wild geese gradually approaching the shore. A young officer (in similar circumstances) will be in a position of danger, and be spoken against; but there will be no error.
+1.<a id="53.1"/> The first `SIX`, divided, shows the wild geese gradually approaching the shore. A young officer (in similar circumstances) will be in a position of danger, and be spoken against; but there will be no error.
 
 > **䷴** changing to [**䷤**](e5aeb6e4babajiaren.md#37.1)
 
@@ -18,31 +18,31 @@
 
 <a id="p-179"/>
 
-2.<a name="53.2"></a> The second `SIX`, divided, shows the geese gradually approaching the large rocks, where they eat and drink joyfully and at ease. There will be good fortune.
+2.<a id="53.2"/> The second `SIX`, divided, shows the geese gradually approaching the large rocks, where they eat and drink joyfully and at ease. There will be good fortune.
 
 > **䷴** changing to [**䷸**](e5b7bdxun.md#57.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷵**](e5bd92e5a6b9guimei.md#54.2)
 
-3.<a name="53.3"></a> The third `NINE`, undivided, shows them gradually advanced to the dry plains. (It suggests also the idea of) a husband who goes on an expedition from which he does not return, and of a wife who is pregnant, but will not nourish her child. There will be evil. (The case symbolised) might be advantageous in resisting plunderers.
+3.<a id="53.3"/> The third `NINE`, undivided, shows them gradually advanced to the dry plains. (It suggests also the idea of) a husband who goes on an expedition from which he does not return, and of a wife who is pregnant, but will not nourish her child. There will be evil. (The case symbolised) might be advantageous in resisting plunderers.
 
 > **䷴** changing to [**䷓**](e8a782guan.md#20.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷵**](e5bd92e5a6b9guimei.md#54.3)
 
-4.<a name="53.4"></a> The fourth `SIX`, divided, shows the geese gradually advanced to the trees. They may light on the flat branches. There will be no error.
+4.<a id="53.4"/> The fourth `SIX`, divided, shows the geese gradually advanced to the trees. They may light on the flat branches. There will be no error.
 
 > **䷴** changing to [**䷠**](e981afdun.md#33.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷵**](e5bd92e5a6b9guimei.md#54.4)
 
-5.<a name="53.5"></a> The fifth `NINE`, undivided, shows the geese gradually advanced to the high mound. (It suggests the idea of) a wife who for three years does not become pregnant; but in the end the natural issue cannot be prevented. There will be good fortune.
+5.<a id="53.5"/> The fifth `NINE`, undivided, shows the geese gradually advanced to the high mound. (It suggests the idea of) a wife who for three years does not become pregnant; but in the end the natural issue cannot be prevented. There will be good fortune.
 
 > **䷴** changing to [**䷳**](e889aegen.md#52.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷵**](e5bd92e5a6b9guimei.md#54.5)
 
-6.<a name="53.6"></a> The sixth `NINE`, undivided, shows the geese gradually advanced to the large heights (beyond). Their feathers can be used as ornaments. There will be good fortune.
+6.<a id="53.6"/> The sixth `NINE`, undivided, shows the geese gradually advanced to the large heights (beyond). Their feathers can be used as ornaments. There will be good fortune.
 
 > **䷴** changing to [**䷦**](e8b987jian.md#39.6)
 

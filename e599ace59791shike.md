@@ -8,13 +8,13 @@
 
 **Shì Kè ䷔** indicates successful progress (in the condition of things which it supposes). It will be advantageous to use legal constraints.
 
-1.<a name="21.1"></a> The first `NINE`, undivided, shows one with his feet in the stocks and deprived of his toes. There will be no error.
+1.<a id="21.1"/> The first `NINE`, undivided, shows one with his feet in the stocks and deprived of his toes. There will be no error.
 
 > **䷔** changing to [**䷢**](e6998bjin.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷕**](e8b4b2bi.md#22.1)
 
-2.<a name="21.2"></a> The second `SIX`, divided, shows one biting through the soft flesh, and (going on to) bite off the nose. There will be no error.
+2.<a id="21.2"/> The second `SIX`, divided, shows one biting through the soft flesh, and (going on to) bite off the nose. There will be no error.
 
 > **䷔** changing to [**䷥**](e79dbdkui.md)
 
@@ -22,25 +22,25 @@
 
 <a id="p-102"/>
 
-3.<a name="21.3"></a> The third `SIX`, divided, shows one gnawing dried flesh, and meeting with what is disagreeable. There will be occasion for some small regret, but no (great) error.
+3.<a id="21.3"/> The third `SIX`, divided, shows one gnawing dried flesh, and meeting with what is disagreeable. There will be occasion for some small regret, but no (great) error.
 
 > **䷔** changing to [**䷝**](e7a6bbli.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷕**](e8b4b2bi.md#22.3)
 
-4.<a name="21.4"></a> The fourth `NINE`, undivided, shows one gnawing the flesh dried on the bone, and getting the pledges of money and arrows. It will be advantageous to him to realise the difficulty of his task and be firm, -- in which case there will be good fortune.
+4.<a id="21.4"/> The fourth `NINE`, undivided, shows one gnawing the flesh dried on the bone, and getting the pledges of money and arrows. It will be advantageous to him to realise the difficulty of his task and be firm, -- in which case there will be good fortune.
 
 > **䷔** changing to [**䷚**](e9a290yi.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷕**](e8b4b2bi.md#22.4)
 
-5.<a name="21.5"></a> The fifth `SIX`, divided, shows one gnawing at dried flesh, and finding the yellow gold. Let him be firm and correct, realising the peril (of his position). There will be no error.
+5.<a id="21.5"/> The fifth `SIX`, divided, shows one gnawing at dried flesh, and finding the yellow gold. Let him be firm and correct, realising the peril (of his position). There will be no error.
 
 > **䷔** changing to [**䷘**](e697a0e5a684wuwang.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷕**](e8b4b2bi.md#22.5)
 
-6.<a name="21.6"></a> The sixth `NINE`, undivided, shows one wearing the cangue, and deprived of his cars. There will be evil.
+6.<a id="21.6"/> The sixth `NINE`, undivided, shows one wearing the cangue, and deprived of his cars. There will be evil.
 
 > **䷔** changing to [**䷲**](e99c87zhen.md)
 

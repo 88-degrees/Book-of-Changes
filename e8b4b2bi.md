@@ -12,37 +12,37 @@
 
 <a id="p-104"/>
 
-1.<a name="22.1"></a> The first `NINE`, undivided, shows one adorning (the way of) his feet. He can discard a carriage and walk on foot.
+1.<a id="22.1"/> The first `NINE`, undivided, shows one adorning (the way of) his feet. He can discard a carriage and walk on foot.
 
 > **䷕** changing to [**䷳**](e889aegen.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷔**](e599ace59791shike.md#21.1)
 
-2.<a name="22.2"></a> The second `SIX`, divided, shows one adorning his beard.
+2.<a id="22.2"/> The second `SIX`, divided, shows one adorning his beard.
 
 > **䷕** changing to [**䷙**](e5a4a7e89384daxu.md)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷔**](e599ace59791shike.md#21.2)
 
-3.<a name="22.3"></a> The third `NINE`, undivided, shows its subject with the appearance of being adorned and bedewed (with rich favours). But let him ever maintain his firm correctness, and there will be good fortune.
+3.<a id="22.3"/> The third `NINE`, undivided, shows its subject with the appearance of being adorned and bedewed (with rich favours). But let him ever maintain his firm correctness, and there will be good fortune.
 
 > **䷕** changing to [**䷚**](e9a290yi.md)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷔**](e599ace59791shike.md#21.3)
 
-4.<a name="22.4"></a> The fourth `SIX`, divided, shows one looking as if adorned, but only in white. As if (mounted on) a white horse, and furnished with wings, (he seeks union with the subject of the first line), while (the intervening third pursues), not as a robber, but intent on a matrimonial alliance.
+4.<a id="22.4"/> The fourth `SIX`, divided, shows one looking as if adorned, but only in white. As if (mounted on) a white horse, and furnished with wings, (he seeks union with the subject of the first line), while (the intervening third pursues), not as a robber, but intent on a matrimonial alliance.
 
 > **䷕** changing to [**䷝**](e7a6bbli.md)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷔**](e599ace59791shike.md#21.4)
 
-5.<a name="22.5"></a> The fifth `SIX`, divided, shows its subject adorned by (the occupants of) the heights and gardens. He bears his roll of silk, small and slight. He may appear stingy; but there will be good fortune in the end.
+5.<a id="22.5"/> The fifth `SIX`, divided, shows its subject adorned by (the occupants of) the heights and gardens. He bears his roll of silk, small and slight. He may appear stingy; but there will be good fortune in the end.
 
 > **䷕** changing to [**䷤**](e5aeb6e4babajiaren.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷔**](e599ace59791shike.md#21.5)
 
-6.<a name="22.6"></a> The sixth `NINE`, undivided, shows one with white as his (only) ornament. There will be no error.
+6.<a id="22.6"/> The sixth `NINE`, undivided, shows one with white as his (only) ornament. There will be no error.
 
 > **䷕** changing to [**䷣**](e6988ee5a4b7mingyi.md)
 

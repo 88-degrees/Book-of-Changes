@@ -12,13 +12,13 @@
 
 <a id="p-202"/>
 
-1.<a name="62.1"></a> The first `SIX`, divided, suggests (the idea of) a bird flying, (and ascending) till the issue is evil.
+1.<a id="62.1"/> The first `SIX`, divided, suggests (the idea of) a bird flying, (and ascending) till the issue is evil.
 
 > **䷽** changing to [**䷶**](e4b8b0feng.md#55.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷼**](e4b8ade5ad9azhongfu.md#61.1)
 
-2.<a name="62.2"></a> The second `SIX`, divided, shows its subject passing by his grandfather, and meeting with his grandmother; not attempting anything against his ruler, but meeting him as his minister. There will be no error.
+2.<a id="62.2"/> The second `SIX`, divided, shows its subject passing by his grandfather, and meeting with his grandmother; not attempting anything against his ruler, but meeting him as his minister. There will be no error.
 
 > **䷽** changing to [**䷟**](e68192heng.md#32.2)
 
@@ -26,25 +26,25 @@
 
 <a id="p-203"/>
 
-3.<a name="62.3"></a> The third `NINE`, undivided, shows its subject taking no extraordinary precautions against danger; and some in consequence finding opportunity to assail and injure him. There will be evil.
+3.<a id="62.3"/> The third `NINE`, undivided, shows its subject taking no extraordinary precautions against danger; and some in consequence finding opportunity to assail and injure him. There will be evil.
 
 > **䷽** changing to [**䷏**](e8b1abyu.md#16.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷼**](e4b8ade5ad9azhongfu.md#61.3)
 
-4.<a name="62.4"></a> The fourth `NINE`, undivided, shows its subject falling into no error, but meeting (the exigency of his situation), without exceeding (in his natural. course). If he go forward, there will be peril, and he must be cautious. There is no occasion to be using firmness perpetually.
+4.<a id="62.4"/> The fourth `NINE`, undivided, shows its subject falling into no error, but meeting (the exigency of his situation), without exceeding (in his natural. course). If he go forward, there will be peril, and he must be cautious. There is no occasion to be using firmness perpetually.
 
 > **䷽** changing to [**䷎**](e8b0a6qian.md#15.4)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷼**](e4b8ade5ad9azhongfu.md#61.4)
 
-5.<a name="62.5"></a> The fifth `SIX`, divided, (suggests the idea) of dense clouds, but no rain, coming from our borders in the west. It also (shows) the prince shooting his arrow, and taking the bird in a cave.
+5.<a id="62.5"/> The fifth `SIX`, divided, (suggests the idea) of dense clouds, but no rain, coming from our borders in the west. It also (shows) the prince shooting his arrow, and taking the bird in a cave.
 
 > **䷽** changing to [**䷞**](e592b8xian.md#31.5)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷼**](e4b8ade5ad9azhongfu.md#61.5)
 
-6.<a name="62.6"></a> The sixth `SIX`, divided, shows. its subject not meeting (the exigency of his situation), and exceeding (his proper course). (It suggests the idea of) a bird flying far aloft. There will be evil. The case is what is called one of calamity and self-produced injury.
+6.<a id="62.6"/> The sixth `SIX`, divided, shows. its subject not meeting (the exigency of his situation), and exceeding (his proper course). (It suggests the idea of) a bird flying far aloft. There will be evil. The case is what is called one of calamity and self-produced injury.
 
 > **䷽** changing to [**䷷**](e69785lv.md#56.6)
 
