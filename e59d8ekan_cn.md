@@ -740,7 +740,7 @@
 
 ### 六四变卦：坎为水 变卦 泽水困
 
-<img src="shapes/29.04.png" width="121"align="left">
+<img src="shapes/29.04.png" width="121" align="left">
 
 六四爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -778,7 +778,7 @@
 
 ### 九五变卦：坎为水 变卦 地水师
 
-<img src="shapes/29.05.png" width="121"align="left">
+<img src="shapes/29.05.png" width="121" align="left">
 
 九五爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
