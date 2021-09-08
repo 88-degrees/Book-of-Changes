@@ -60,6 +60,6 @@ Line 4 is strong, but the strength is tempered by the position, which is that of
 
 Line 5 symbolises the ruler. Mild sincerity is good in him, and affects his ministers and others. But a ruler must not be without an awe-inspiring majesty.
 
-Even the topmost line takes its character from 5. The strength of its subject is still tempered, and Heaven gives its approval.
+Even the topmost line takes its character from 5. The strength of its subject is still tempered, and [Heaven gives its approval](https://ctext.org/dictionary.pl?if=en&id=25260).
 
 # [大有 ䷍](e5a4a7e69c89dayou_cn.md)
