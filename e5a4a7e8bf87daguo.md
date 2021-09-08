@@ -1,14 +1,14 @@
-# Dà Guò ䷛
+# ䷛ Dà Guò
 
 * Great Exceeding
 
-> Chinese: 大过 ䷛ dà guò
+> Chinese: dà guò 大过 ䷛
 
 <a id="p-116"/>
 
 <img src="shapes/28.10.jpg" width="101" alt="大过">
 
-**Dà Guò ䷛** suggests to us a beam that is weak. There will be advantage in moving (under its conditions) in any direction whatever; there will be success.
+**䷛ Dà Guò** suggests to us a beam that is weak. There will be advantage in moving (under its conditions) in any direction whatever; there will be success.
 
 1.<a id="28.1"/> The first `SIX`, divided, shows one placing mats of the white [*máo*](https://ctext.org/dictionary.pl?if=en&char=茅) grass under things set on the ground. There will be no error.
 
@@ -54,7 +54,7 @@ Very extraordinary times require very extraordinary gifts in the conduct of affa
 
 Looking at the figure we see two weak lines at the top and bottom, and four strong lines between them, giving us the idea of a great beam unable to sustain its own weight. But the second and fifth lines are both strong and in the centre; and from this and the attributes of the component trigrams a good auspice is obtained.
 
-Line 1 being weak, and at the bottom of the figure, and of the trigram Sun, which denotes flexibility and humility, its subject is distinguished by his carefulness, as in the matter mentioned; and there is a good auspice.
+Line 1 being weak, and at the bottom of the figure, and of the trigram **☴ Xùn**, which denotes flexibility and humility, its subject is distinguished by his carefulness, as in the matter mentioned; and there is a good auspice.
 
 Line 2 has no proper correlate above. Hence he inclines to the weak 1 below him; and we have the symbolism of the line. [An old husband with a young wife](e59d8ekan.md#p-118) will yet have children; the action of the subject of 2 will be successful.
 
