@@ -1,8 +1,8 @@
-# Dà Yǒu ䷍
+# ䷍ Dà Yǒu
 
 * Great Havings
 
-> Chinese: 大有 ䷍ dà yǒu
+> Chinese: dà yǒu 大有 ䷍
 
 <a id="p-88"/>
 
@@ -48,7 +48,7 @@
 
 ## Notes
 
-**Dà Yǒu ䷍** means 'Great Havings;' denoting in a kingdom a state of prosperity and abundance, and in a, family or individual, a [state of opulence](e8b0a6qian.md#p-89). The danger threatening such a condition arises from the pride which it is likely to engender. But everything here is against that issue. Apart from the symbolism of the trigrams, we have the place of honour occupied by a weak line, so that its subject will be humble; and all the other lines, strong as they are, will act in obedient sympathy. There will be great progress and success.
+**䷍ Dà Yǒu** means `Great Havings`; denoting in a kingdom a state of prosperity and abundance, and in a, family or individual, [a state of opulence](e8b0a6qian.md#p-89). The danger threatening such a condition arises from the pride which it is likely to engender. But everything here is against that issue. Apart from the symbolism of the trigrams **☰ ☲**, we have the place of honour occupied by a weak line, so that its subject will be humble; and all the other lines, strong as they are, will act in obedient sympathy. There will be great progress and success.
 
 Line 2, though strong, is at the lowest part of the figure, and has no correlate above. No external influences have as yet acted injuriously on its subject. Let him do as directed, and no hurtful influence will ever affect him.
 
