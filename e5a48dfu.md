@@ -54,7 +54,7 @@
 
 The strong bottom line is the first of **☳ Zhèn**, the trigram of movement, and the upper trigram is **☷ Kūn**, denoting docility and capacity. The strong returning line will meet with no distressing obstacle, and the weak lines will change before it into strong, and be as friends. The bright quality will be developed brighter and brighter from day to day, and [month to month](month.jpg).
 
-The sentence, `In seven days comes his return`, occasions some perplexity. If the reader will refer to hexagrams [44 ䷫](e5a7a4gou.md), [33 ䷠](e589a5bo.md), [12 ䷋](e590a6pi.md), [20 ䷓](e8a782guan.md), [23 ䷖](e981afdun.md), and [2 ䷁](e59da4kun.md), he will see that during [the months denoted by those figures](month.jpg), the 5th, 6th, 7th, 8th, 9th, and 10th, the `yīn` lines have gradually been prevailing over the `yáng`, until in [**䷁ Kūn**](e59da4kun.md) (hexagrams 2) they have extruded them entirely from the lineal figure.
+The sentence, `In seven days comes his return`, occasions some perplexity. If the reader will refer to hexagrams [44 ䷫](e5a7a4gou.md), [33 ䷠](e981afdun.md), [12 ䷋](e590a6pi.md), [20 ䷓](e8a782guan.md), [23 ䷖](e589a5bo.md), and [2 ䷁](e59da4kun.md), he will see that during [the months denoted by those figures](month.jpg), the 5th, 6th, 7th, 8th, 9th, and 10th, the `yīn` lines have gradually been prevailing over the `yáng`, until in [**䷁ Kūn**](e59da4kun.md) (hexagrams 2) they have extruded them entirely from the lineal figure.
 
 Then comes our **䷗ Fù**, as a seventh figure, in which the `yáng` line begins to reassert itself,
 and from which it goes on to extrude the `yīn` lines in their turn. Explained therefore of the months of the year, we have to take a day for a month.
