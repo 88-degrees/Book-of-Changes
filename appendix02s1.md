@@ -266,11 +266,9 @@ to him of old:' -- (thus) following those above him, he will have good fortune.
 
 6. 'His humility has made itself recognised:' -- (but) all his aims have not yet been attained. He may employ the force of arms, (but only) in correcting (his own) towns and state.'
 
-<a id="fr_205"/>[XVI](#fn_205). (The trigrams **☷** **☳** for) the earth and thunder issuing from it with its crashing noise form [**Yǜ ䷏**](e8b1abyu.md). The ancient kings, in accordance with this, composed their music and did honour to virtue, presenting it especially and most grandly to God,
+<a id="fr_205"/>[XVI](#fn_205). (The trigrams **☷** **☳** for) the earth and thunder issuing from it with its crashing noise form [**Yǜ ䷏**](e8b1abyu.md). The ancient kings, in accordance with this, composed their music and did honour to virtue, presenting it especially and most grandly to God, when they associated with Him (at the service) their highest ancestor and their father.
 
 <a id="p-288"/>
-
-when they associated with Him (at the service) their highest ancestor and their father.
 
 1. 'The (subject of the) first six proclaims his pleasure and satisfaction:' -- there will be evil; his wishes have been satisfied to overflowing.
 
@@ -326,11 +324,9 @@ when they associated with Him (at the service) their highest ancestor and their 
 
 3. 'He (shows himself) well pleased to advance:' -- his position is not that appropriate to him. 'If he become anxious, however, about his action,' his error will not be continued.
 
-4. 'The freedom from error consequent on the
-
 <a id="p-292"/>
 
-advance in the highest mode' is due to the (various) appropriateness of the position.
+4. 'The freedom from error consequent on the advance in the highest mode' is due to the (various) appropriateness of the position.
 
 5. 'What befits the great ruler' means the pursuing the course of the due mean.
 
@@ -356,11 +352,9 @@ advance in the highest mode' is due to the (various) appropriateness of the posi
 
 1. 'His feet are in the stocks, and he is deprived of his toes:' -- there is no walking (to do evil).
 
-2. 'He bites through the soft flesh, and (goes on)
-
 <a id="p-294"/>
 
-to bite off the nose:' -- (the subject of the line) is mounted on the strong (first line).
+2. 'He bites through the soft flesh, and (goes on) to bite off the nose:' -- (the subject of the line) is mounted on the strong (first line).
 
 3. 'He meets with what is disagreeable and hurtful:' -- his position is not the proper one for him.
 
@@ -388,7 +382,7 @@ to bite off the nose:' -- (the subject of the line) is mounted on the strong (fi
 
 <a id="p-296"/>
 
-<a id="fr_212></a>[XXIII](#fn_212). (The trigram **☷** representing) the earth, and (above it) **☶** that for a mountain, which adheres to the earth, form [**Bō ䷖**](e589a5bo.md). Superiors, in accordance with this, seek to strengthen those below them, to secure the peace and stability of their own position.
+<a id="fr_212"/>[XXIII](#fn_212). (The trigram **☷** representing) the earth, and (above it) **☶** that for a mountain, which adheres to the earth, form [**Bō ䷖**](e589a5bo.md). Superiors, in accordance with this, seek to strengthen those below them, to secure the peace and stability of their own position.
 
 1. 'He overthrows the couch by injuring its legs:' -- thus (he commences) his work of ruin with what is lowest (in the superior man).
 
@@ -410,11 +404,9 @@ to bite off the nose:' -- (the subject of the line) is mounted on the strong (fi
 
 2. 'The good fortune attendant on the admirable return (of the subject of the second line)' is due to his condescension to the virtuous (subject of the line) below.
 
-3. Notwithstanding 'the perilous position of him
-
 <a id="p-298"/>
 
-who has made many returns,' there will be no error through (his aiming after righteousness).
+3. Notwithstanding 'the perilous position of him who has made many returns,' there will be no error through (his aiming after righteousness).
 
 4. 'He moves right in the centre (among those represented by the other divided lines), and yet returns alone:' -- his object is to pursue the (proper) path.
 
@@ -468,11 +460,9 @@ who has made many returns,' there will be no error through (his aiming after rig
 
 5. 'The good fortune from abiding in firmness' is due to the docility (of the subject of the line) in following (the subject of the line) above.
 
-6. 'The good fortune, notwithstanding the peril
-
 <a id="p-302"/>
 
-of his position, of him from whom comes the nourishing,' affords great cause for congratulation.
+6. 'The good fortune, notwithstanding the peril of his position, of him from whom comes the nourishing,' affords great cause for congratulation.
 
 <a id="fr_217"/>[XXVIII](#fn_217). (The trigram **☴** representing) trees hidden beneath **☱** that for the waters of a marsh forms [**Dà Guò ䷛**](e5a4a7e8bf87daguo.md). The superior man, in accordance with this, stands up alone and has no fear, and keeps retired from the world without regret.
 
@@ -484,11 +474,9 @@ of his position, of him from whom comes the nourishing,' affords great cause for
 
 4. 'The good fortune connected with the beam curving upwards' arises from this, that it does not bend towards what is below.
 
-5. 'A decayed willow produces flowers:' -- but how can this secure its long continuance? 'An old
-
 <a id="p-303"/>
 
-wife and a young husband:' -- this also is a thing to be ashamed of.
+5. 'A decayed willow produces flowers:' -- but how can this secure its long continuance? 'An old wife and a young husband:' -- this also is a thing to be ashamed of.
 
 6. 'Evil follows wading with (extraordinary) boldness (through the stream):' -- but (the act) affords no ground for blame.
 
@@ -518,11 +506,9 @@ wife and a young husband:' -- this also is a thing to be ashamed of.
 
 4. 'How abrupt is the manner of his coming!' --none can bear with him.
 
-5. 'The good fortune attached to the fifth `SIX`,
+5. 'The good fortune attached to the fifth `SIX`, divided),' is due to its occupying the place of a king or a prince.
 
 <a id="p-305"/>
-
-divided),' is due to its occupying the place of a king or a prince.
 
 6. 'The king employs him in his punitive expeditions:' -- the object is to bring the regions to a correct state.
 
