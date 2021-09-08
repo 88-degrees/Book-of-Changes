@@ -314,7 +314,7 @@ Then finally in the young and ignorant there is 'a correct nature,' a moral stat
 
 <a name="fn_129"/>[`218:V`](#fr_129) [**Xū ䷄**](e99c80xu.md) is composed of [**Qián ䷀**](e4b9beqian.md), having the quality of strength, and of [**Kǎn ䷜**](e59d8ekan.md), having the quality of perilousness. Thc strong one might readily dare the peril, but he restrains himself and waits. This is the lesson of the hexagram, -- the benefit of action well considered, of plans well matured.
 
-The fifth line, as we have observed more than once already, is the place of honour, that due to the ruler or king. It is here called 'the Heavenly or Heaven-given seat, 'the meaning of which expression is clear from its occurrence in the [Shih, III, i, ode 2. 1](https://www.sacred-texts.com/cfu/sbe03/sbe03128.htm). Five is an odd number, and the fifth is therefore the 'correct' place for an undivided line; it is also the central place of the trigram, indicating. how its occupant is sure to walk in the due mean. See further the notes on the Text, [p. 68](e99c80xu.md#p-68).
+The fifth line, as we have observed more than once already, is the place of honour, that due to the ruler or king. It is here called 'the Heavenly or Heaven-given seat, 'the meaning of which expression is clear from its occurrence in the [Shih, III, i, ode 2. 1](https://www.sacred-texts.com/cfu/sbe03/sbe03128.htm). Five is an odd number, and the fifth is therefore the 'correct' place for an undivided line; it is also the central place of the trigram, indicating. how its occupant is sure to walk in the due mean. See further [the notes on the Text](e99c80xu.md#p-68).
 
 <a name="fn_130"/>[`219:VI`](#fr_130) Paragraph 1 here is much to the same effect as the first sentence in the notes on the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan) of the Text. It is said, 'Strength without peril would not produce contention; peril without strength would not be able to contend.'
 
@@ -348,7 +348,7 @@ Paragraph 3 has also been explained; but there remains something to be said on t
 
 <a name="fn_137"/>[`225:XIII`](#fr_137) To understand the various points in this commentary, it is only necessary to refer to the Text of the hexagram. The proper correlate of line 2 is line 5, and I have said therefore that it 'responds to (the corresponding line in) [**Qián ䷀**](e4b9beqian.md).' The editors of the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) edition, however, would make the correlate to it all the lines of [**Qián ䷀**](e4b9beqian.md), as being more agreeable to the idea of union.
 
-I do not think that a second paragraph has been lost. The <sub>[p. 226](#p-226)</sub> '[**Tóng Rén ䷌**](e5908ce4babatongren.md) says' is merely a careless repetition of the three concluding characters of paragraph 1.
+I do not think that a second paragraph has been lost. The '[**Tóng Rén ䷌**](e5908ce4babatongren.md) says' is merely a careless repetition of the three concluding characters of [paragraph 1](#p-226).
 
 <a name="fn_138"/>[`226:XIV`](#fr_138) The position in the fifth place indicates the dignity, and its being central, in the centre of the upper trigram, indicates the virtue, of the lord of the figure.
 
