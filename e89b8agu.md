@@ -62,7 +62,7 @@ The ruler in line 5 is represented by a weak line, while 2 is strong. Thus the s
 
 I have searched, but in vain, for the slightest Chinese sanction of it, and it would give to **Gǔ ䷑** the meaning of misfortunes endured, instead of troubles caused.
 
-Line 3 is strong, and not central, so that its subject might well go to excess in his efforts. But this tendency is counteracted by the line's place in the trigram **Xùn ☴**, often denoting lowly submission.
+Line 3 is strong, and not central, so that its subject might well go to excess in his efforts. But this tendency is counteracted by the line's place in the trigram **☴**, often denoting lowly submission.
 
 Line 4 is weak, and in an even place, which intensifies that weakness. Hence comes the caution against going forward.
 
