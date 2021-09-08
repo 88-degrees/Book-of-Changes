@@ -565,7 +565,7 @@
 
 ### 初九变卦：泽火革 变卦 泽山咸
 
-<img src="shapes/49.01.png" width="121"align="left">
+<img src="shapes/49.01.png" width="121" align="left">
 
 初九爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -602,7 +602,7 @@
 
 ### 六二变卦：泽火革 变卦 泽天夬
 
-<img src="shapes/49.02.png" width="121"align="left">
+<img src="shapes/49.02.png" width="121" align="left">
 
 六二爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -639,7 +639,7 @@
 
 ### 九三变卦：泽火革 变卦 泽雷随
 
-<img src="shapes/49.03.png" width="121"align="left">
+<img src="shapes/49.03.png" width="121" align="left">
 
 九三爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
@@ -676,7 +676,7 @@
 
 ### 九四变卦：泽火革 变卦 水火既济
 
-<img src="shapes/49.04.png" width="121"align="left">
+<img src="shapes/49.04.png" width="121" align="left">
 
 九四爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -715,7 +715,7 @@
 
 ### 九五变卦：泽火革 变卦 雷火丰
 
-<img src="shapes/49.05.png" width="121"align="left">
+<img src="shapes/49.05.png" width="121" align="left">
 
 九五爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -752,7 +752,7 @@
 
 ### 上六变卦：泽火革 变卦 天火同人
 
-<img src="shapes/49.06.png" width="121"align="left">
+<img src="shapes/49.06.png" width="121" align="left">
 
 上六爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 

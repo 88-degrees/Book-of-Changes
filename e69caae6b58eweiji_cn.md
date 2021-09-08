@@ -350,7 +350,7 @@
 
 ### 初六变卦：火水未济 变卦 火泽睽
 
-<img src="shapes/64.01.png" width="121"align="left">
+<img src="shapes/64.01.png" width="121" align="left">
 
 初六爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
@@ -389,7 +389,7 @@
 
 ### 九二变卦：火水未济 变卦
 
-<img src="shapes/64.02.png" width="121"align="left">
+<img src="shapes/64.02.png" width="121" align="left">
 
 九二爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 
@@ -426,7 +426,7 @@
 
 ### 六三变卦：火水未济 变卦
 
-<img src="shapes/64.03.png" width="121"align="left">
+<img src="shapes/64.03.png" width="121" align="left">
 
 六三爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
@@ -463,7 +463,7 @@
 
 ### 九四变卦：火水未济 变卦
 
-<img src="shapes/64.04.png" width="121"align="left">
+<img src="shapes/64.04.png" width="121" align="left">
 
 九四爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
@@ -500,7 +500,7 @@
 
 ### 六五变卦：火水未济 变卦
 
-<img src="shapes/64.05.png" width="121"align="left">
+<img src="shapes/64.05.png" width="121" align="left">
  
 六五爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
@@ -537,7 +537,7 @@
 
 ### 上九变卦：火水未济 变卦
 
-<img src="shapes/64.06.png" width="121"align="left">
+<img src="shapes/64.06.png" width="121" align="left">
  
 上九爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 

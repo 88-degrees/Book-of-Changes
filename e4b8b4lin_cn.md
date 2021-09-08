@@ -518,7 +518,7 @@
 
 ### 初九变卦：地泽临 变卦 地水师
 
-<img src="shapes/19.01.png" width="121"align="left">
+<img src="shapes/19.01.png" width="121" align="left">
 
 初九爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
@@ -554,7 +554,7 @@
 
 ### 九二变卦：地泽临 变卦 地雷复
 
-<img src="shapes/19.02.png" width="121"align="left">
+<img src="shapes/19.02.png" width="121" align="left">
 
 九二爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
@@ -589,7 +589,7 @@
 
 ### 六三变卦：地泽临 变卦 地天泰
 
-<img src="shapes/19.03.png" width="121"align="left">
+<img src="shapes/19.03.png" width="121" align="left">
 
 六三爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -624,7 +624,7 @@
 
 ### 六四变卦：地泽临 变卦 雷泽归妹
 
-<img src="shapes/19.04.png" width="121"align="left">
+<img src="shapes/19.04.png" width="121" align="left">
 
 六四爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -659,7 +659,7 @@
 
 ### 六五变卦：地泽临 变卦 水泽节
 
-<img src="shapes/19.05.png" width="121"align="left">
+<img src="shapes/19.05.png" width="121" align="left">
 
 六五爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
@@ -695,7 +695,7 @@
 
 ### 上六变卦：地泽临 变卦 山泽损
 
-<img src="shapes/19.06.png" width="121"align="left">
+<img src="shapes/19.06.png" width="121" align="left">
 
 上六爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 

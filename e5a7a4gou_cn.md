@@ -579,7 +579,7 @@
 
 ### 初六变卦：天风姤 变卦 乾为天
 
-<img src="shapes/44.01.png" width="121"align="left">
+<img src="shapes/44.01.png" width="121" align="left">
 
 初六爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
@@ -614,7 +614,7 @@
 
 ### 九二变卦：天风姤 变卦 天山遁
 
-<img src="shapes/44.02.png" width="121"align="left">
+<img src="shapes/44.02.png" width="121" align="left">
 
 九二爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 
@@ -651,7 +651,7 @@
 
 ### 九三变卦：天风姤 变卦 天水讼
 
-<img src="shapes/44.03.png" width="121"align="left">
+<img src="shapes/44.03.png" width="121" align="left">
 
 九三爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
@@ -689,7 +689,7 @@
 
 ### 九四变卦：天风姤 变卦 巽为风
 
-<img src="shapes/44.04.png" width="121"align="left">
+<img src="shapes/44.04.png" width="121" align="left">
 
 九四爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -724,7 +724,7 @@
 
 ### 九五变卦：天风姤 变卦 火风鼎
 
-<img src="shapes/44.05.png" width="121"align="left">
+<img src="shapes/44.05.png" width="121" align="left">
 
 九五爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
@@ -762,7 +762,7 @@
 
 ### 上九变卦：天风姤 变卦 泽风大过
 
-<img src="shapes/44.06.png" width="121"align="left">
+<img src="shapes/44.06.png" width="121" align="left">
 
 上九爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 

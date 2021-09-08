@@ -341,7 +341,7 @@
 
 ### 初六变卦：水山蹇 变卦 水火既济
 
-<img src="shapes/39.01.png" width="121"align="left">
+<img src="shapes/39.01.png" width="121" align="left">
 
 初六爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -380,7 +380,7 @@
 
 ### 六二变卦：水山蹇 变卦 水风井
 
-<img src="shapes/39.02.png" width="121"align="left">
+<img src="shapes/39.02.png" width="121" align="left">
 
 六二爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
@@ -419,7 +419,7 @@
 
 ### 九三变卦：水山蹇 变卦 水地比
 
-<img src="shapes/39.03.png" width="121"align="left">
+<img src="shapes/39.03.png" width="121" align="left">
 
 九三爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
@@ -458,7 +458,7 @@
 
 ### 六四变卦：水山蹇 变卦 泽山咸
 
-<img src="shapes/39.04.png" width="121"align="left">
+<img src="shapes/39.04.png" width="121" align="left">
 
 六四爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -495,7 +495,7 @@
 
 ### 九五变卦：水山蹇 变卦 地山谦
 
-<img src="shapes/39.05.png" width="121"align="left">
+<img src="shapes/39.05.png" width="121" align="left">
 
 九五爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
@@ -532,7 +532,7 @@
 
 ### 上六变卦：水山蹇 变卦 风山渐
 
-<img src="shapes/39.06.png" width="121"align="left">
+<img src="shapes/39.06.png" width="121" align="left">
 
 上六爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 

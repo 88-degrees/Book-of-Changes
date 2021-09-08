@@ -654,7 +654,7 @@
 
 ### 初六变卦：风山渐 变卦 风火家人
 
-<img src="shapes/53.01.png" width="121"align="left">
+<img src="shapes/53.01.png" width="121" align="left">
 
 初六爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -693,7 +693,7 @@
 
 ### 六二变卦：风山渐 变卦 巽为风
 
-<img src="shapes/53.02.png" width="121"align="left">
+<img src="shapes/53.02.png" width="121" align="left">
 
 六二爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -728,7 +728,7 @@
 
 ### 九三变卦：风山渐 变卦 风地观
 
-<img src="shapes/53.03.png" width="121"align="left">
+<img src="shapes/53.03.png" width="121" align="left">
 
 九三爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -765,7 +765,7 @@
 
 ### 六四变卦：风山渐 变卦 天山遁
 
-<img src="shapes/53.04.png" width="121"align="left">
+<img src="shapes/53.04.png" width="121" align="left">
 
 六四爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 
@@ -802,7 +802,7 @@
 
 ### 九五变卦：风山渐 变卦 艮为山
 
-<img src="shapes/53.05.png" width="121"align="left">
+<img src="shapes/53.05.png" width="121" align="left">
 
 九五爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
@@ -843,7 +843,7 @@
 
 ### 上九变卦：风山渐 变卦 水山蹇
 
-<img src="shapes/53.06.png" width="121"align="left">
+<img src="shapes/53.06.png" width="121" align="left">
 
 上九爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 

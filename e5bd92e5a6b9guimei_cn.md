@@ -507,7 +507,7 @@
 
 ### 初九变卦：雷泽归妹 变卦 雷水解卦
 
-<img src="shapes/54.01.png" width="121"align="left">
+<img src="shapes/54.01.png" width="121" align="left">
 
 初九爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -544,7 +544,7 @@
 
 ### 九二变卦：雷泽归妹 变卦 震为雷
 
-<img src="shapes/54.02.png" width="121"align="left">
+<img src="shapes/54.02.png" width="121" align="left">
 
 九二爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -579,7 +579,7 @@
 
 ### 六三变卦：雷泽归妹 变卦 雷天大壮
 
-<img src="shapes/54.03.png" width="121"align="left">
+<img src="shapes/54.03.png" width="121" align="left">
 
 六三爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -616,7 +616,7 @@
 
 ### 九四变卦：雷泽归妹 变卦 地泽临
 
-<img src="shapes/54.04.png" width="121"align="left">
+<img src="shapes/54.04.png" width="121" align="left">
 
 九四爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -651,7 +651,7 @@
 
 ### 六五变卦：雷泽归妹 变卦 兑为泽
 
-<img src="shapes/54.05.png" width="121"align="left">
+<img src="shapes/54.05.png" width="121" align="left">
 
 六五爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -688,7 +688,7 @@
 
 ### 上六变卦；雷泽归妹 变卦 火泽睽
 
-<img src="shapes/54.06.png" width="121"align="left">
+<img src="shapes/54.06.png" width="121" align="left">
 
 上六爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 

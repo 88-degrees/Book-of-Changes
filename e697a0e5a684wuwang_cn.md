@@ -650,7 +650,7 @@
 
 ### 初九变卦：天雷无妄 变卦 天地否
 
-<img src="shapes/25.01.png" width="121"align="left">
+<img src="shapes/25.01.png" width="121" align="left">
 
 初九爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -687,7 +687,7 @@
 
 ### 六二变卦：天雷无妄 变卦 天泽履
 
-<img src="shapes/25.02.png" width="121"align="left">
+<img src="shapes/25.02.png" width="121" align="left">
 
 六二爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -726,7 +726,7 @@
 
 ### 六三变卦：天雷无妄 变卦 天火同人
 
-<img src="shapes/25.03.png" width="121"align="left">
+<img src="shapes/25.03.png" width="121" align="left">
 
 六三爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -761,7 +761,7 @@
 
 ### 九四变卦：天雷无妄 变卦 风雷益
 
-<img src="shapes/25.04.png" width="121"align="left">
+<img src="shapes/25.04.png" width="121" align="left">
 
 九四爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -800,7 +800,7 @@
 
 ### 九五变卦：天雷无妄 变卦 火雷噬嗑
 
-<img src="shapes/25.05.png" width="121"align="left">
+<img src="shapes/25.05.png" width="121" align="left">
 
 九五爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -837,7 +837,7 @@
 
 ### 上九变卦：天雷无妄 变卦 泽雷随
 
-<img src="shapes/25.06.png" width="121"align="left">
+<img src="shapes/25.06.png" width="121" align="left">
 
 上九爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 

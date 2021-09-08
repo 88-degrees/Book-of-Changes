@@ -704,7 +704,7 @@
 
 ### 初九变卦：地火明夷 变卦 地山谦
 
-<img src="shapes/36.01.png" width="121"align="left">
+<img src="shapes/36.01.png" width="121" align="left">
 
 初九爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
@@ -741,7 +741,7 @@
 
 ### 六二变卦：地火明夷 变卦 地天泰
 
-<img src="shapes/36.02.png" width="121"align="left">
+<img src="shapes/36.02.png" width="121" align="left">
 
 六二爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -778,7 +778,7 @@
 
 ### 九三变卦：地火明夷 变卦 地雷复
 
-<img src="shapes/36.03.png" width="121"align="left">
+<img src="shapes/36.03.png" width="121" align="left">
 
 九三爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
@@ -813,7 +813,7 @@
 
 ### 六四变卦：地火明夷 变卦 雷火丰
 
-<img src="shapes/36.04.png" width="121"align="left">
+<img src="shapes/36.04.png" width="121" align="left">
 
 六四爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -848,7 +848,7 @@
 
 ### 六五变卦：地火明夷 变卦 水火既济
 
-<img src="shapes/36.05.png" width="121"align="left">
+<img src="shapes/36.05.png" width="121" align="left">
 
 六五爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -885,7 +885,7 @@
 
 ### 上六变卦：地火明夷 变卦 山火贲
 
-<img src="shapes/36.06.png" width="121"align="left">
+<img src="shapes/36.06.png" width="121" align="left">
 
 上六爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 

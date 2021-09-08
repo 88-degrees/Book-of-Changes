@@ -837,7 +837,7 @@
 
 ### 初六变卦：风地观 变卦 风雷益
 
-<img src="shapes/20.01.png" width="121"align="left">
+<img src="shapes/20.01.png" width="121" align="left">
 
 初六爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -874,7 +874,7 @@
 
 ### 六二变卦：风地观 变卦 风水涣
 
-<img src="shapes/20.02.png" width="121"align="left">
+<img src="shapes/20.02.png" width="121" align="left">
 
 六二爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -911,7 +911,7 @@
 
 ### 六三变卦：风地观 变卦 风山渐
 
-<img src="shapes/20.03.png" width="121"align="left">
+<img src="shapes/20.03.png" width="121" align="left">
 
 六三爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
@@ -948,7 +948,7 @@
 
 ### 六四变卦：风地观 变卦 天地否
 
-<img src="shapes/20.04.png" width="121"align="left">
+<img src="shapes/20.04.png" width="121" align="left">
 
 六四爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -983,7 +983,7 @@
 
 ### 九五变卦：风地观 变卦 山地剥
 
-<img src="shapes/20.05.png" width="121"align="left">
+<img src="shapes/20.05.png" width="121" align="left">
 
 九五爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -1020,7 +1020,7 @@
 
 ### 上九变卦：风地观 变卦 水地比
 
-<img src="shapes/20.06.png" width="121"align="left">
+<img src="shapes/20.06.png" width="121" align="left">
 
 上九爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 

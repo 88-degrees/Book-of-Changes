@@ -858,7 +858,7 @@
 
 ### 初六变卦：坤为地 变卦 地雷复
 
-<img src="shapes/02.01.png" width="121"align="left">
+<img src="shapes/02.01.png" width="121" align="left">
 
 初六爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
@@ -898,7 +898,7 @@
 
 ### 六二变卦：坤为地 变卦 地水师
 
-<img src="shapes/02.02.png" width="121"align="left">
+<img src="shapes/02.02.png" width="121" align="left">
 
 六二爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
@@ -937,7 +937,7 @@
 
 ### 六三变卦：坤为地 变卦 地山谦
 
-<img src="shapes/02.03.png" width="121"align="left">
+<img src="shapes/02.03.png" width="121" align="left">
 
 六三爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
@@ -975,7 +975,7 @@
 
 ### 六四变卦：坤为地 变卦 雷地豫
 
-<img src="shapes/02.04.png" width="121"align="left">
+<img src="shapes/02.04.png" width="121" align="left">
 
 六四爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -1014,7 +1014,7 @@
 
 ### 六五变卦：坤为地 变卦 水地比
 
-<img src="shapes/02.05.png" width="121"align="left">
+<img src="shapes/02.05.png" width="121" align="left">
 
 六五爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
@@ -1055,7 +1055,7 @@
 
 ### 上六变卦：坤为地 变卦 山地剥
 
-<img src="shapes/02.06.png" width="121"align="left">
+<img src="shapes/02.06.png" width="121" align="left">
 
 上六爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 

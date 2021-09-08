@@ -621,7 +621,7 @@
 
 ### 初六变卦：坎为水 变卦 水泽节
 
-<img src="shapes/29.01.png" width="121"align="left">
+<img src="shapes/29.01.png" width="121" align="left">
 
 初六爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
@@ -662,7 +662,7 @@
 
 ### 九二变卦：坎为水 变卦 水地比
 
-<img src="shapes/29.02.png" width="121"align="left">
+<img src="shapes/29.02.png" width="121" align="left">
 
 九二爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
@@ -701,7 +701,7 @@
 
 ### 六三变卦：坎为水 变卦 水风井
 
-<img src="shapes/29.03.png" width="121"align="left">
+<img src="shapes/29.03.png" width="121" align="left">
 
 六三爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 

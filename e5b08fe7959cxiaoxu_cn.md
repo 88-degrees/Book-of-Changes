@@ -646,7 +646,7 @@
 
 ### 初九变卦：风天小畜 变卦 巽为风
 
-<img src="shapes/09.01.png" width="121"align="left">
+<img src="shapes/09.01.png" width="121" align="left">
 
 初九爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -683,7 +683,7 @@
 
 ### 九二变卦：风天小畜 变卦 风火家人
 
-<img src="shapes/09.02.png" width="121"align="left">
+<img src="shapes/09.02.png" width="121" align="left">
 
 九二爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -722,7 +722,7 @@
 
 ### 九三变卦：风天小畜 变卦 风泽中孚
 
-<img src="shapes/09.03.png" width="121"align="left">
+<img src="shapes/09.03.png" width="121" align="left">
 
 九三爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -757,7 +757,7 @@
 
 ### 六四变卦：风天小畜 变卦 乾为天
 
-<img src="shapes/09.04.png" width="121"align="left">
+<img src="shapes/09.04.png" width="121" align="left">
 
 六四爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
@@ -794,7 +794,7 @@
 
 ### 九五变卦：风天小畜 变卦 山天大畜
 
-<img src="shapes/09.05.png" width="121"align="left">
+<img src="shapes/09.05.png" width="121" align="left">
 
 九五爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
@@ -831,7 +831,7 @@
 
 ### 上九变卦：风天小畜 变卦 水天需
 
-<img src="shapes/09.06.png" width="121"align="left">
+<img src="shapes/09.06.png" width="121" align="left">
 
 上九爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 

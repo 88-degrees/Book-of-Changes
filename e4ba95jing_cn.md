@@ -565,7 +565,7 @@
 
 ### 初六变卦：水风井 变卦 水天需
 
-<img src="shapes/48.01.png" width="121"align="left">
+<img src="shapes/48.01.png" width="121" align="left">
 
 初六爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -600,7 +600,7 @@
 
 ### 九二变卦：水风井 变卦 水山蹇
 
-<img src="shapes/48.02.png" width="121"align="left">
+<img src="shapes/48.02.png" width="121" align="left">
 
 九二爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
@@ -637,7 +637,7 @@
 
 ### 九三变卦：水风井 变卦 坎为水
 
-<img src="shapes/48.03.png" width="121"align="left">
+<img src="shapes/48.03.png" width="121" align="left">
 
 九三爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
@@ -673,7 +673,7 @@
 
 ### 六四变卦：水风井 变卦 泽风大过
 
-<img src="shapes/48.04.png" width="121"align="left">
+<img src="shapes/48.04.png" width="121" align="left">
 
 六四爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
@@ -708,7 +708,7 @@
 
 ### 九五变卦：水风井 变卦 地风升
 
-<img src="shapes/48.05.png" width="121"align="left">
+<img src="shapes/48.05.png" width="121" align="left">
 
 九五爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
@@ -744,7 +744,7 @@
 
 ### 上六变卦：水风井 变卦 巽为风
 
-<img src="shapes/48.06.png" width="121"align="left">
+<img src="shapes/48.06.png" width="121" align="left">
 
 上六爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 

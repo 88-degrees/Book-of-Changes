@@ -792,7 +792,7 @@
 
 ### 初九变卦：天泽履 变卦 天水讼
 
-<img src="shapes/10.01.png" width="121"align="left">
+<img src="shapes/10.01.png" width="121" align="left">
 
 初九爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
@@ -830,7 +830,7 @@
 
 ### 九二变卦：天泽履 变卦 天雷无妄
 
-<img src="shapes/10.02.png" width="121"align="left">
+<img src="shapes/10.02.png" width="121" align="left">
 
 九二爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
@@ -868,7 +868,7 @@
 
 ### 六三变卦：天泽履 变卦 乾为天
 
-<img src="shapes/10.03.png" width="121"align="left">
+<img src="shapes/10.03.png" width="121" align="left">
 
 六三爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
@@ -903,7 +903,7 @@
 
 ### 九四变卦：天泽履 变卦 风泽中孚
 
-<img src="shapes/10.04.png" width="121"align="left">
+<img src="shapes/10.04.png" width="121" align="left">
 
 九四爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -938,7 +938,7 @@
 
 ### 九五变卦：天泽履 变卦 火泽睽
 
-<img src="shapes/10.05.png" width="121"align="left">
+<img src="shapes/10.05.png" width="121" align="left">
 
 九五爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
@@ -978,7 +978,7 @@
 
 ### 上九变卦：天泽履 变卦 兑为泽
 
-<img src="shapes/10.06.png" width="121"align="left">
+<img src="shapes/10.06.png" width="121" align="left">
 
 上九爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 

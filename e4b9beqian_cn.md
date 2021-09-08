@@ -1022,7 +1022,7 @@
 
 ### 初九变卦：乾为天 变卦 天风姤
 
-<img src="shapes/01.01.png" width="121"align="left">
+<img src="shapes/01.01.png" width="121" align="left">
 
 初九爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -1060,7 +1060,7 @@
 
 ### 九二变卦：乾为天 变卦 天火同人
 
-<img src="shapes/01.02.png" width="121"align="left">
+<img src="shapes/01.02.png" width="121" align="left">
 
 九二爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -1097,7 +1097,7 @@
 
 ### 九三变卦 乾为天 变卦 天泽履
 
-<img src="shapes/01.03.png" width="121"align="left">
+<img src="shapes/01.03.png" width="121" align="left">
 
 九三爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -1136,7 +1136,7 @@
 
 ### 九四变卦 乾为天 变卦 风天小畜
 
-<img src="shapes/01.04.png" width="121"align="left">
+<img src="shapes/01.04.png" width="121" align="left">
 
 九四爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -1171,7 +1171,7 @@
 
 ### 九五变卦：乾为天 变卦 火天大有
 
-<img src="shapes/01.05.png" width="121"align="left">
+<img src="shapes/01.05.png" width="121" align="left">
 
 九五爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -1206,7 +1206,7 @@
 
 ### 上九变卦：乾为天 变卦 泽天夬
 
-<img src="shapes/01.06.png" width="121"align="left">
+<img src="shapes/01.06.png" width="121" align="left">
 
 上九爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 

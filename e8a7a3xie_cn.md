@@ -608,7 +608,7 @@
 
 ### 初六变卦：雷水解 变卦 雷泽归妹
 
-<img src="shapes/40.01.png" width="121"align="left">
+<img src="shapes/40.01.png" width="121" align="left">
 
 初六爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -643,7 +643,7 @@
 
 ### 九二变卦：雷水解 变卦 雷地豫
 
-<img src="shapes/40.02.png" width="121"align="left">
+<img src="shapes/40.02.png" width="121" align="left">
 
 九二爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -680,7 +680,7 @@
 
 ### 六三变卦：雷水解 变卦 雷风恒
 
-<img src="shapes/40.03.png" width="121"align="left">
+<img src="shapes/40.03.png" width="121" align="left">
 
 六三爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -717,7 +717,7 @@
 
 ### 九四变卦：雷水解 变卦 地水师
 
-<img src="shapes/40.04.png" width="121"align="left">
+<img src="shapes/40.04.png" width="121" align="left">
 
 九四爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
@@ -754,7 +754,7 @@
 
 ### 六五变卦：雷水解之泽水困
 
-<img src="shapes/40.05.png" width="121"align="left">
+<img src="shapes/40.05.png" width="121" align="left">
 
 六五爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -789,7 +789,7 @@
 
 ### 上六变卦：雷水解 变卦 火水未济
 
-<img src="shapes/40.06.png" width="121"align="left">
+<img src="shapes/40.06.png" width="121" align="left">
 
 上六爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
