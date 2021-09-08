@@ -54,7 +54,7 @@ The trigram **Kǎn ䷜**, which is doubled to form this hexagram, is the lineal 
 and here and elsewhere in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) it leads the reader to think of a dangerous defile, with water flowing through it.
 It becomes symbolic of danger, and what the authors of the Text had in mind was to show how danger should be encountered, its effect on the mind, and how to get out of it.
 
-The trigram exhibits a strong central line, between two divided lines. The central represented to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) the sincere honesty and goodness of the subject of the hexagram, whose mind was sharpened and made penetrating by contact with danger, and [who](e7a6bbli.md#p-120) acted in a manner worthy of his character. It is implied, though the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan) does not say it, that he would get out of the danger,
+The trigram exhibits a strong central line, between two divided lines. The central represented to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) the sincere honesty and goodness of the subject of the hexagram, whose mind was sharpened and made penetrating by contact with danger, and [who acted in a manner worthy of his character](e7a6bbli.md#p-120). It is implied, though the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan) does not say it, that he would get out of the danger,
 
 Line 1 is weak, at the bottom of the figure, and has no correlate above, no helper, that is, beyond itself. All these things render the case of its subject hopeless. He will by his efforts only involve himself more deeply in danger.
 
