@@ -348,7 +348,7 @@ Paragraph 3 has also been explained; but there remains something to be said on t
 
 <a name="fn_137"/>[`225:XIII`](#fr_137) To understand the various points in this commentary, it is only necessary to refer to the Text of the hexagram. The proper correlate of line 2 is line 5, and I have said therefore that it 'responds to (the corresponding line in) [**Qián ䷀**](e4b9beqian.md).' The editors of the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) edition, however, would make the correlate to it all the lines of [**Qián ䷀**](e4b9beqian.md), as being more agreeable to the idea of union.
 
-I do not think that a second paragraph has been lost. The '[**Tóng Rén ䷌**](e5908ce4babatongren.md) says' is merely a careless repetition of the three concluding characters of [paragraph 1](#p-226).
+I do not think that a second paragraph has been lost. The '[**Tóng Rén ䷌**](e5908ce4babatongren.md) says' is merely a careless repetition of the three concluding characters of [paragraph 1](#p-225).
 
 <a name="fn_138"/>[`226:XIV`](#fr_138) The position in the fifth place indicates the dignity, and its being central, in the centre of the upper trigram, indicates the virtue, of the lord of the figure.
 
