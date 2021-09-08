@@ -8,7 +8,7 @@
 
 <img src="shapes/10.10.jpg" width="101" alt="履">
 
-** ䷉Lǚ ** suggests the idea of one treading on the tail of a tiger, which does not bite him. There will be progress and success.
+**䷉ Lǚ** suggests the idea of one treading on the tail of a tiger, which does not bite him. There will be progress and success.
 
 <a id="p-79"/>
 
