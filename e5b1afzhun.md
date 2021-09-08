@@ -1,14 +1,14 @@
-# Zhūn ䷂
+# ䷂ Zhūn
 
 * Difficulty at the Beginning
 
-> Chinese: 屯 ䷂ zhūn
+> Chinese: zhūn 屯 ䷂
 
 <a id="p-62"/>
 
 <img src="shapes/03.10.jpg" width="101" alt="屯">
 
-**Zhūn ䷂** (indicates that in the case which it presupposes) there will be great progress and success, and the advantage will come from being correct and firm. (But) any movement in advance should not be (lightly) undertaken. There will be advantage in appointing feudal princes.
+**䷂ Zhūn** (indicates that in the case which it presupposes) there will be great progress and success, and the advantage will come from being correct and firm. (But) any movement in advance should not be (lightly) undertaken. There will be advantage in appointing feudal princes.
 
 1.<a id="3.1"/> The first `NINE`, undivided, shows the difficulty (its subject has) in advancing. It will be advantageous for him to abide correct and firm; advantageous (also) to be made a feudal ruler.
 
@@ -51,18 +51,18 @@ She seeks, however, (the help of) him who seeks her to be his wife. Advance will
 
 ## Notes
 
-The character called **Zhūn ䷂** is pictorial, and was intended to show us how a plant struggles with difficulty out of the earth, rising gradually above the surface.
+The character called **䷂ Zhūn** is pictorial, and was intended to show us how a plant struggles with difficulty out of the earth, rising gradually above the surface.
 This difficulty, marking the first stages in the growth of a plant, is used to symbolise the struggles that mark the rise of a state out of a condition of disorder, consequent on a great revolution. The same thing is denoted by the combination of the trigrams that form the figure; -- as will be seen in the notes on it under [Appendix II](appendix02s1.md).
 
 I have introduced within parentheses, in the translation, the words 'in the case which the hexagram presupposes.' It is necessary to introduce them. [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son wrote, as they did in every hexagram, with reference to a particular state of affairs which they had in mind. This was the unspoken text which controlled and directed all their writing; and the student must try to get hold of this, if he would make his way with comfort and success through the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) saw the social and political world around him in great disorder, hard to be remedied. But he had faith in himself and the destinies of his House. Let there be prudence and caution, with unswerving adherence to the right; let the government of the different states be entrusted to good and able men: -- then all would be well.
 
-The first line is undivided, showing the strength of its subject. He will be capable of action, and his place in the trigram of mobility ☳ will the more dispose him to it. But above him is the [trigram of peril](e89299meng.md#p-64); and the lowest line of that, to which especially he must look for response and co-operation, is divided and weak. Hence arise the ideas of difficulty in advancing, the necessity of caution, and the advantage of his being clothed with authority.
+The first line is undivided, showing the strength of its subject. He will be capable of action, and his place in the trigram of mobility **☳** will the more dispose him to it. But above him is the [trigram of peril](e89299meng.md#p-64); and the lowest line of that, to which especially he must look for response and co-operation, is divided and weak. Hence arise the ideas of difficulty in advancing, the necessity of caution, and the advantage of his being clothed with authority.
 
 To the subject of the second line, divided, advance is still more difficult. He is weak in himself; he is pressed by the subject of the strong line below him. But happily that subject, though strong, is correct; and above in the fifth line, in the place of authority, is the strong one, union with whom and the service of whom should be the objects pursued. All these circumstances suggested to the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou) the idea of a young lady, sought in marriage by a strong wooer, when marriage was unsuitable, rejecting him, and finally, after ten years, marrying a more suitable, the only suitable, match for her.
 
 The third line is divided, not central, and the number of its place is appropriate to the occupancy of a strong line. All these things should affect the symbolism of the line. But the outcome of the whole hexagram being good, the superior man sees the immediate danger and avoids it.
 
-The subject of the fourth line, the first of the upper trigram **☵**, has recourse to the strong suitor of line 1, the first of the lower trigram **☳**; and with his help is able to cope with the difficulties of the position, and go forward.
+The subject of the fourth line, the first of the upper trigram **☵ Kǎn**, has recourse to the strong suitor of line 1, the first of the lower trigram **☳ Zhèn**; and with his help is able to cope with the difficulties of the position, and go forward.
 
 The subject of the fifth line is in the place of authority, and should show himself a ruler, dispensing benefits on a great scale. But he is in the very centre of the trigram denoting perilousness, and line 2, which responds to 5, is weak. Hence arises the symbolism, and great things should not be attempted.
 
