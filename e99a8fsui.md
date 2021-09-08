@@ -1,14 +1,14 @@
-# Suí ䷐
+# ䷐ Suí
 
 * Following
 
-> Chinese: 随 ䷐ suí
+> Chinese: suí 随 ䷐
 
 <a id="p-93"/>
 
 <img src="shapes/17.10.jpg" width="101" alt="随">
 
-**Suí ䷐** indicates that (under its conditions) there will be great progress and success. But it will be advantageous to be firm and correct. There will (then) be no error.
+**䷐ Suí** indicates that (under its conditions) there will be great progress and success. But it will be advantageous to be firm and correct. There will (then) be no error.
 
 1.<a id="17.1"/> The first `NINE`, undivided, shows us one changing the object of his pursuit; but if he be firm and correct, there will he good fortune. Going beyond (his own) gate to find associates, he will achieve merit.
 
@@ -50,11 +50,11 @@
 
 ## Notes
 
-**Suí ䷐** symbolises the idea of following. It is said to follow [**Yǜ ䷏**](e8b1abyu.md), the symbol of harmony and satisfaction.
+**䷐ Suí** symbolises the idea of following. It is said to follow [**䷏ Yǜ**](e8b1abyu.md), the symbol of harmony and satisfaction.
 Where there are these conditions men are sure to follow; nor will they follow those in whom they have no complacency.
 The hexagram includes the cases where one follows others, and where others follow him;
 and the auspice of great progress and success is due to this flexibility and applicability of it.
-But in both cases the following must be guided by a reference to what is proper and correct. See the notes on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) and the Great Symbolism.
+But in both cases the following must be guided by a reference to what is proper and correct. See the notes on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) and the [Great Symbolism](https://ctext.org/book-of-changes/xiang-zhuan).
 
 Line 1 is strong, and lord of the lower trigram ☳. The weak lines ought to follow it; but here it is below them, in the lowest place of the figure. This gives rise to the representation of one changing his pursuit. Still through the native vigour indicated by the line being strong, and in its correct place, its subject will be fortunate. Going beyond his gate to find associates indicates his public spirit, and superiority to selfish considerations.
 
@@ -66,6 +66,6 @@ Line 4 is strong, and in the place of a great minister next the ruler in 5. But 
 
 Line 5 is strong, and in its correct place, with 2 as its proper correlate; thus producing the auspicious symbolism.
 
-The issue of the hexagram is seen in line 6; which represents the ideal of following, directed by the most sincere adherence to what is right. This influence not only extends to men, but also to spiritual beings. 'The western hill' is [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County), at the foot of which was the original settlement of the house of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty), in B. C. 1325. The use of the name 'king' here brings us down from [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) into the time of [king Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou) at least.
+The issue of the hexagram is seen in line 6; which represents the ideal of following, directed by the most sincere adherence to what is right. This influence not only extends to men, but also to spiritual beings. 'The western hill' is [mountain Qí](https://en.wikipedia.org/wiki/Qishan_County), at the foot of which was the original settlement of the house of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty), in B. C. 1325. The use of the name `king` here brings us down from [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) into the time of [king Wǔ](https://en.wikipedia.org/wiki/King_Wu_of_Zhou) at least.
 
 # [随 ䷐](e99a8fsui_cn.md)
