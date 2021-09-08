@@ -56,7 +56,7 @@ We have strength in the upper trigram, as if to regulate and control the lower, 
 
 The subject of line 1 is weak and at the bottom of the figure. He may suffer a little in the nascent strife, but will let it drop; and the effect will be good.
 
-Line 2 represents one who is strong, and has the rule of the lower trigram **☵**; -- he has the mind for strife, and might be expected to engage in it. But his strength is weakened by, being in an even place, and he is no match for his correlate in line 5, and therefore retreats. A town or city with only three hundred families is said <sub>[p. 71](e5b888shi.md#p-71)</sub> to be very small. That the subject of the line should retire to so insignificant a place is further proof of his humility.
+Line 2 represents one who is strong, and has the rule of the lower trigram **☵**; -- he has the mind for strife, and might be expected to engage in it. But his strength is weakened by, being in an even place, and he is no match for his correlate in line 5, and therefore retreats. A town or city with only three hundred families is [said to be very small](e5b888shi.md#p-71). That the subject of the line should retire to so insignificant a place is further proof of his humility.
 
 Line 3 is weak and in an odd place. Its subject therefore is not equal to strive, but withdraws from the arena. Even if forced into it, he will keep himself in the background; -- and be safe. 'He keeps in the old place assigned for his support' is, literally, 'He eats his old virtue;' meaning that he lives in and on the appanage assigned to him for his services.
 
