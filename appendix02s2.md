@@ -800,7 +800,7 @@ Rather in opposition to what I have said on the Text of line 4, the 'Daily Lectu
 
 What is said on the several lines is sufficiently illustrated in the notes on the Text.
 
-<a name="fn_239"></a>[330:L](#fr_239) The Great Symbolism here has come before us in the treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). Of the application of that symbolism I can only say that, as has been seen in many other hexagrams, while good enough in itself, it is far-fetched.
+<a name="fn_239"></a>[330:L](#fr_239) The Great Symbolism here has come before us in the treatise on the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan). Of the application of that symbolism I can only say that, as has been seen in many other hexagrams, while good enough in itself, it is far-fetched.
 
 The same remark may be made on the explanation of the Text of the first line. I can myself do little more than guess at its meaning. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe that nothing is said about the case of the 'concubine' in the Text; but that it is covered by the following the more noble,' 'so condensed and complete are the words of the sage!'
 
@@ -858,7 +858,7 @@ The line undivided like 4 is 1; perhaps we might translate -- 'He meets with the
 
 No one but himself has any confidence in the subject of line 6. He holds himself aloof from others, and they leave him to himself.
 
-<a name="fn_245"></a>[338:LVI](#fr_245) Different attempts are made to bring the idea of a travelling stranger out of the trigrams **Gèn ☶** and **Lí ☲**; but none of them is satisfactory. Let [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda)'s view serve as a specimen of them: -- 'A fire on a mountain lays hold of the grass, and runs with it over the whole space, not stopping anywhere long, and soon disappearing; -- such is the emblem of the traveller.' The application may be derived well enough from the attributes of the trigrams; but does not fit in with the lessons of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) and [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols).
+<a name="fn_245"></a>[338:LVI](#fr_245) Different attempts are made to bring the idea of a travelling stranger out of the trigrams **Gèn ☶** and **Lí ☲**; but none of them is satisfactory. Let [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda)'s view serve as a specimen of them: -- 'A fire on a mountain lays hold of the grass, and runs with it over the whole space, not stopping anywhere long, and soon disappearing; -- such is the emblem of the traveller.' The application may be derived well enough from the attributes of the trigrams; but does not fit in with the lessons of the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan) and [**Xiàng**](https://en.wikipedia.org/wiki/Four_Symbols).
 
 The meanness of the subject of line 1 does not arise from the nature of his occupation; but from his mind and aim being emptied of all that is good and ennobling.
 
@@ -872,7 +872,7 @@ It is difficult to say what 'he has reached a high place' means. The fifth line 
 
 The spirit that possesses the subject of line 6 is one of haughty arrogance, with which the humility that ought to characterise him cannot co-exist. His careless self-sufficiency has shut his mind against all lessons of wisdom.
 
-<a name="fn_246"></a>[339:LVII](#fr_246) I have said on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) that some commentators make the upper trigram **☴** symbolical of the ordinances of the ruler and the lower symbolical of the obedience of the people. E. g., [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'Superiors, in harmony with the duty of inferiors, issue their commands; inferiors, in harmony with the wishes of their superiors, follow them. Above and below there are that harmony and deference; and this is the significance of the redoubled Sun. When governmental commands and business are in accordance with what is right, they agree with the tendencies of the minds of the people who follow them.'
+<a name="fn_246"></a>[339:LVII](#fr_246) I have said on the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan) that some commentators make the upper trigram **☴** symbolical of the ordinances of the ruler and the lower symbolical of the obedience of the people. E. g., [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'Superiors, in harmony with the duty of inferiors, issue their commands; inferiors, in harmony with the wishes of their superiors, follow them. Above and below there are that harmony and deference; and this is the significance of the redoubled Sun. When governmental commands and business are in accordance with what is right, they agree with the tendencies of the minds of the people who follow them.'
 
 Paragraph 2 seems to say that the sincerity of purpose indicated by the central position of the second line conducts its subject to the right course, despite the many considerations that might distract him.
 

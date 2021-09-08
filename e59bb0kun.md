@@ -56,7 +56,7 @@ The character **Kùn ䷮** presents us with the picture of a tree within an encl
 
 Looking at the figure we see that the two central places are occupied by strong lines; but 2 is confined between 1 and 3, both of which are weak, and 5 (the ruler), as well as 4 (his minister), is covered by the weak 6; all which peculiarities are held to indicate the repression or straitening of good men by bad. For the way in which the same view is derived from the great symbolism, see [Appendix II, in loc](appendix02s1.md).
 
-The concluding sentence of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) is literally, 'If he speak, he will not be believed;' but the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors give sufficient reasons for changing one character so as to give the meaning in the translation. 'Actions,' not words, are what are required in the case.
+The concluding sentence of the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan) is literally, 'If he speak, he will not be believed;' but the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors give sufficient reasons for changing one character so as to give the meaning in the translation. 'Actions,' not words, are what are required in the case.
 
 The symbolism of 'buttocks' is rather a favourite with the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou); -- 'everyone has their taste.' The poor subject of line 1 sitting on a mere stump, which affords him no shelter, is indeed badly off. The line is at the bottom of the trigram indicating peril, and 4, which is its proper correlate, is so circumstanced as not to be [able](e4ba95jing.md#p-164) to render it help; hence comes the unfavourable auspice. 'Three years' is used, as often, for a long time.
 

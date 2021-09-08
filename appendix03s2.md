@@ -70,7 +70,7 @@ Chapter <a name="fr_268"></a>[III](#fn_268).
 
 24. Therefore what we call the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) (易) is (a collection of) emblematic lines. They are styled emblematic as being resemblances.
 
-25. What we call the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings) (or [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s explanations) are based on the significance (of each hexagram as a whole).
+25. What we call the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan) (or [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s explanations) are based on the significance (of each hexagram as a whole).
 
 <a id="p-387"></a>
 

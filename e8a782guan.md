@@ -53,9 +53,9 @@ but not (yet) presented his offerings; -- with sincerity and an appearance of di
 
 ## Notes
 
-The Chinese character **观** (Guān), from which this hexagram is named, is used in it in two senses. In the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), the first paragraph of the treatise on the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), and the paragraph on the Great Symbolism, it denotes showing, manifesting; in all other places it denotes contemplating, looking at. The subject of the hexagram is the sovereign and his subjects, how he manifests himself to them, and how they contemplate him. The two upper, undivided, lines belong to the sovereign; the four weak lines below them are his subjects, -- ministers and others who look up at him. **Guān ䷓** is the hexagram of the eighth month.
+The Chinese character **观** (Guān), from which this hexagram is named, is used in it in two senses. In the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan), the first paragraph of the treatise on the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan), and the paragraph on the Great Symbolism, it denotes showing, manifesting; in all other places it denotes contemplating, looking at. The subject of the hexagram is the sovereign and his subjects, how he manifests himself to them, and how they contemplate him. The two upper, undivided, lines belong to the sovereign; the four weak lines below them are his subjects, -- ministers and others who look up at him. **Guān ䷓** is the hexagram of the eighth month.
 
-In the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings), [King Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) symbolises the sovereign by a worshipper when he is most solemn in his religious service, at the commencement of it, full of sincerity and with a dignified carriage.
+In the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan), [King Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) symbolises the sovereign by a worshipper when he is most solemn in his religious service, at the commencement of it, full of sincerity and with a dignified carriage.
 
 Line 1 is weak, and in the lowest place, improper also for it; -- <sub>[p. 101](#p-101)</sub> the symbol of a thoughtless lad, who cannot see far, and takes only superficial views.
 

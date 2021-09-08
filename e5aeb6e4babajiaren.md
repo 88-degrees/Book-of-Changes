@@ -50,7 +50,7 @@ For (the realisation of what is taught in) **Jiā Rén ䷤** , (or for the regul
 
 ## Notes
 
-**Jiā Rén ䷤**, the name of the hexagram, simply means 'a household,' or 'the members of a family.' The subject of the essay based on the figure, however, is the regulation of the family, effected mainly by the co-operation of husband and wife in their several spheres, and only needing to become universal to secure the good order of the kingdom. The important place occupied by the wife in the family is seen in the short sentence of the [**Tuàn**](https://en.wikipedia.org/wiki/Ten_Wings). That she be firm and correct, and do her part well, is the first thing necessary to its regulation.
+**Jiā Rén ䷤**, the name of the hexagram, simply means 'a household,' or 'the members of a family.' The subject of the essay based on the figure, however, is the regulation of the family, effected mainly by the co-operation of husband and wife in their several spheres, and only needing to become universal to secure the good order of the kingdom. The important place occupied by the wife in the family is seen in the short sentence of the [**Tuàn**](https://ctext.org/book-of-changes/tuan-zhuan). That she be firm and correct, and do her part well, is the first thing necessary to its regulation.
 
 Line 1 is strong, and in a strong place. It suggests the necessity of strict rule in governing the family. Regulations must be established, and their observance strictly insisted on.
 
