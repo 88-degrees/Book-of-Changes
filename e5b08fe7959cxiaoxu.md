@@ -63,7 +63,7 @@ Line 2 is also strong, and though an even place is not appropriate to it, that p
 
 Line 3, though strong, and in a proper place, yet not being in the centre, is supposed to be less able to resist the restraint of line 4; and hence it has the ill omens that are given.
 
-The subject of line 4, one weak line against all the strong lines of the hexagram, might well expect wounds, and feel apprehension in trying to restrain the others; but it is in its proper place; it is the first line also of **☴ Xùn**, whose attribute is docile flexibility. The [strong lines are moved to sympathy and help](e5b1a5lv.md#p-79), and 'there is no mistake.'
+The subject of line 4, one weak line against all the strong lines of the hexagram, might well expect wounds, and feel apprehension in trying to restrain the others; but it is in its proper place; it is the first line also of **☴ Xùn**, whose attribute is docile flexibility. The [strong lines are moved to sympathy and help](e5b1a5lv.md#p-79), and `there is no mistake`.
 
 Line 5 occupies the central place of **☴ Xùn**, and converts, by the sincerity, of its subject, 4 and 6 into its neighbours, who suffer themselves to be used by it, and effect their common object.
 
