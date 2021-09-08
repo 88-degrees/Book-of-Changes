@@ -65,6 +65,6 @@ Line 4 is strong, but in an even place, which weakens its subject, He also would
 
 Line 5 is strong, in an odd, and the central place; and would fain unite with 2, which indeed is the proper correlate of its subject. But 3 and 4 are powerful foes that oppose the union, Their opposition makes him weep; but he collects his forces, defeats them, and effects his purpose.
 
-The union reaches to all within the suburbs, and is riot yet universal; but still there is no cause for repentance.
+The union reaches to all within the suburbs ([郊](https://ctext.org/dictionary.pl?if=en&char=郊)), and is riot yet universal; but still there is no cause for repentance.
 
 # [同人 ䷌](e5908ce4babatongren_cn.md)
