@@ -144,11 +144,9 @@ to him of old:' -- (thus) following those above him, he will have good fortune.
 
 5. 'The good fortune belonging to the most illustrious instance of seeking union and attachment' appears in the correct and central position (of the fifth line, undivided).
 
-(The king's) neglecting (the animals) confronting him (and then fleeing), and (only) taking those who present themselves as it were obediently, is seen in
-
 <a id="p-278"/>
 
-[paragraph continues] 'his allowing the escape of those in front of him.' 'That the people of his towns do not warn one another (to prevent such escape),' shows how he, in his high eminence, has made them pursue the due course.
+(The king's) neglecting (the animals) confronting him (and then fleeing), and (only) taking those who present themselves as it were obediently, is seen in 'his allowing the escape of those in front of him.' 'That the people of his towns do not warn one another (to prevent such escape),' shows how he, in his high eminence, has made them pursue the due course.
 
 6. 'He seeks union and attachment without taking the first (step to such an end):' -- there is no possibility of a (good) issue.
 

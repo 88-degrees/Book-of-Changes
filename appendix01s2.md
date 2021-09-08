@@ -236,11 +236,9 @@ When change thus takes place in the proper way, 'occasion for repentance disappe
 
 <a name="fr_174"/>[L](#fn_174).
 
-1. In [**Dǐng ䷱**](e9bc8eding.md) we have (symbolically) the figure of a caldron. (We see) the (symbol of) wood entering into that of fire, which suggests the idea of cooking.
-
 <a id="p-255"/>
 
-[paragraph continues] The sages cooked their offerings in order to present them to God, and made great feasts to nourish their wise and able (ministers).
+1. In [**Dǐng ䷱**](e9bc8eding.md) we have (symbolically) the figure of a caldron. (We see) the (symbol of) wood entering into that of fire, which suggests the idea of cooking. The sages cooked their offerings in order to present them to God, and made great feasts to nourish their wise and able (ministers).
 
 2. We have the symbol of) flexible obedience, and that (which denotes) ears quick of hearing and eyes clear-sighted. (We have also) the weak (line) advanced and acting above, in the central place, and responded to by the strong (line below). All these things give the idea of 'great progress and success.'
 
@@ -250,11 +248,9 @@ When change thus takes place in the proper way, 'occasion for repentance disappe
 
 2. 'When the (time of) movement (which it indicates) comes, (its subject) will be found looking out with apprehension:' -- that feeling of dread leads to happiness. 'And yet smiling and talking cheerfully:' -- the issue (of his dread) is that he adopts (proper) laws (for his course).
 
-'The movement (like a crash of thunder) terrifies
+'The movement (like a crash of thunder) terrifies all within a hundred lî:' -- it startles the distant and frightens the near.
 
 <a id="p-256"/>
-
-all within a hundred lî:' -- it startles the distant and frightens the near.
 
 '**He will be like the sincere worshipper, who is not startled into letting go his ladle and cup of sacrificial spirits:**' -- he makes his appearance, and maintains his ancestral temple and the altars of the spirits of the land and grain, as presiding at all sacrifices.
 
