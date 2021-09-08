@@ -62,7 +62,7 @@ Line 3 is weak, and in an odd place. Immediately below line 4, its subject keeps
 
 The strong subject of line 4 is the agent to whom the happy condition is owing; and it is only necessary to caution him to maintain his confidence in himself and his purpose, and his adherents and success will continue.
 
-Line 5 is in the ruler's place; but it is weak, and he is in danger of being carried away by the lust of pleasure. Moreover, proximity to the powerful minister represented by 4 is a source of danger. Hence he is represented as [suffering from a chronic complaint](e99a8fsui.md#p-93), but nevertheless he does not die. See [Appendix II](appendix02s1.md#p-288) on the line.
+Line 5 is in the ruler's place; but it is weak, and he is in danger of being carried away by the lust of pleasure. Moreover, proximity to the powerful minister represented by 4 is a source of danger. Hence he is represented as [suffering from a chronic complaint](e99a8fsui.md#p-93), but nevertheless he does not die. See [Appendix II](appendix02s1.md#p-287) on the line.
 
 Line 6, at the very top or end of the hexagram, is weak, and its subject is all but lost. Still even for him there is a chance of safety, if he will but change.
 
