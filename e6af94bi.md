@@ -62,7 +62,7 @@ Line 2 is the proper correlate of 5. Its position in the centre of the inner or 
 
 Line 3 is weak, not in the centre, nor in its correct place. The lines above and below it are both weak. All these things are supposed to account for what is said on it.
 
-'The one beyond himself' in line 4 is the ruler or king, who is <sub>[p. 76](e5b08fe7959cxiaoxu.md#p-76)</sub> the subject of 5, and with whom union ought to be sought. The divided line, moreover, is in a place proper to it. If its subject be firm and correct, there will be good fortune.
+'The one beyond himself' in line 4 is the ruler or king, who is [the subject of 5](e5b08fe7959cxiaoxu.md#p-76), and with whom union ought to be sought. The divided line, moreover, is in a place proper to it. If its subject be firm and correct, there will be good fortune.
 
 The subject of line 5 is the king, who must be the centre of union. The ancient kings had their great hunting expeditions in the different seasons; and that of each season had its peculiar rules. But what is stated here was common to all. When the beating was completed, and the shooting was ready to commence, one side of the enclosure into which the game had been driven was left open and unguarded; -- a proof of the royal benevolence, which did not want to make an end of all the game. So well known and understood is this benevolence of the model king of the hexagram, that all his people try to give it effect. Thus the union contemplated is shown to be characterised by mutual confidence and appreciation in virtue and benevolence.
 
