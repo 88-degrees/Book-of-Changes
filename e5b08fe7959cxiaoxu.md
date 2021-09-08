@@ -1,14 +1,14 @@
-# Xiǎo Xù ䷈
+# ䷈ Xiǎo Xù
 
 * Small Restraint
 
-> Chinese: 小畜 ䷈ xiǎo xù
+> Chinese: xiǎo xù 小畜 ䷈
 
 <a id="p-76"/>
 
 <img src="shapes/09.10.jpg" width="101" alt="小畜">
 
-**Xiǎo Xù ䷈** indicates that (under its conditions) there will be progress and success. (We see) dense clouds, but no rain coming from our borders in the west.
+**䷈ Xiǎo Xù** indicates that (under its conditions) there will be progress and success. (We see) dense clouds, but no rain coming from our borders in the west.
 
 1.<a id="9.1"/> The first `NINE`, undivided, shows its subject returning and pursuing his own course. What mistake should he fall into? There will be good fortune.
 
@@ -50,8 +50,8 @@
 
 ## Notes
 
-The name **Xiǎo Xù ䷈** is interpreted as meaning 'small restraint.' The idea of 'restraint' having once been determined on as that to be conveyed by the figure,
-it is easily made out that the restraint must be small, for its representative is the divided line in the fourth place; and the check given by that to all the undivided lines cannot be great. Even if we suppose, as many critics do, that all the virtue of that upper trigram **Xùn ☴** is concentrated in its first line, the attribute ascribed to **Xùn ☴** is that of docile flexibility, which cannot long be successful against the strength emblemed by the lower trigram **Qián ☰**. The restraint therefore is small, and in the end there will be 'progress and success.'
+The name **䷈ Xiǎo Xù** is interpreted as meaning `small restraint`. The idea of `restraint` having once been determined on as that to be conveyed by the figure,
+it is easily made out that the restraint must be small, for its representative is the divided line in the fourth place; and the check given by that to all the undivided lines cannot be great. Even if we suppose, as many critics do, that all the virtue of that upper trigram **☴ Xùn** is concentrated in its first line, the attribute ascribed to **☴ Xùn** is that of docile flexibility, which cannot long be successful against the strength emblemed by the lower trigram **☰ Qián**. The restraint therefore is small, and in the end there will be 'progress and success.'
 
 The second sentence of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) contains indications of the place, time, and personality of the writer which it seems possible to ascertain. The fief of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty) was the [western portion of the kingdom](e5b1a5lv.md#p-78) of [Yīn](https://en.wiktionary.org/wiki/殷代) or [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty), the China of the twelfth century B. C., the era of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou). Rain coming and moistening the ground is the cause of the beauty and luxuriance of the vegetable world, and the emblem of the blessings flowing from good training and good government. Here therefore in the west, the hereditary territory of the house of [Zhōu](https://en.wikipedia.org/wiki/Zhou_dynasty), are blessings which might enrich the whole kingdom; but they are somehow restrained. The dense clouds do not empty their stores.
 
