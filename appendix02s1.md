@@ -158,11 +158,9 @@ to him of old:' -- (thus) following those above him, he will have good fortune.
 
 2. 'By the attraction (of the subject of the former line) he returns (to its own course),' and is in the central place:--neither will he err in what is due from him.
 
-3. 'Husband and wife look on each other with averted eyes:' -- (the subject of line three is like a
-
 <a id="p-279"/>
 
-husband who) cannot maintain correctly his relations with his wife.
+3. 'Husband and wife look on each other with averted eyes:' -- (the subject of line three is like a husband who) cannot maintain correctly his relations with his wife.
 
 4. 'He is possessed of sincerity; his (ground for) apprehension is dismissed:' -- (the subjects of the lines) above agree in aim with him.
 
@@ -196,11 +194,9 @@ husband who) cannot maintain correctly his relations with his wife.
 
 3. 'There is no going away so that there shall not be a return' refers to this as the point where the interaction of heaven and earth takes place.
 
-4. 'He comes fluttering (down), not relying on
-
 <a id="p-282"/>
 
-his own rich resources:' -- both he and his neighbours are out of their real (place where they are). 'They have not received warning, but (come) in the sincerity (of their hearts):' -- this is what they have desired in the core of their hearts.
+4. 'He comes fluttering (down), not relying on his own rich resources:' -- both he and his neighbours are out of their real (place where they are). 'They have not received warning, but (come) in the sincerity (of their hearts):' -- this is what they have desired in the core of their hearts.
 
 5. 'By such a course there is happiness, and there will be great good fortune:' -- (the subject of the line) employs the virtue proper to his central position to carry his wishes into effect.
 
