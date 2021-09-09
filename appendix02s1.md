@@ -48,7 +48,7 @@ S. '*The Yellow lower-garment; -- there will be great good fortune*:' -- this fo
 
 1. Although '*there is a difficulty in advancing*,' the mind (of the subject of the line) is set on doing what is correct. While noble, he humbles himself to the mean, and grandly gains the people.
 
-2. The difficulty (to the subject of) the second six, (divided), arises from, its place over the undivided line below it. 'The union and children after ten years' shows things resuming their regular course.
+2. The difficulty (to the subject of) the second six, (divided), arises from, its place over the undivided line below it. '*The union and children after ten years*' shows things resuming their regular course.
 
 3. '*One pursues the deer without the (guidance of the) forester*:' -- (he does so) in (his eagerness to) follow the game. 'The superior man gives up the chase, (knowing that) if he go forward he will regret it:' -- he would be reduced to extremity.
 
@@ -132,91 +132,89 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 <a id="fr_197"/>[VIII](#fn_197). (The trigram **☷** representing) the earth, and over it (**☵** that representing) water, form [**䷇ Bǐ**](e6af94bi.md). The ancient kings, in accordance with this, established the various states and maintained an affectionate relation to their princes.
 
-1. From 'the seeking union with its object' shown in the first `SIX`, (divided),there will be other advantages.
+1. From '*the seeking union with its object*' shown in the first `SIX`, (divided),there will be other advantages.
 
-2. 'The movement towards union and attachment proceeds from the inward (mind):' -- (the party concerned) does not fail in what is proper to himself
+2. '*The movement towards union and attachment proceeds from the inward (mind)*:' -- (the party concerned) does not fail in what is proper to himself
 
-3. 'Union is sought with such as ought not to be associated with:' -- but will not injury be the result?
+3. '*Union is sought with such as ought not to be associated with*:' -- but will not injury be the result?
 
-4. 'Union is sought (by the party intended here) with one beyond himself, and (in this case) with a worthy object:' -- he is following (the ruler) above him.
-
-5. 'The good fortune belonging to the most illustrious instance of seeking union and attachment' appears in the correct and central position (of the fifth line, undivided).
+4. '*Union is sought (by the party intended here) with one beyond himself, and (in this case) with a worthy object*:' -- he is following (the ruler) above him.
 
 <a id="p-278"/>
 
-(The king's) neglecting (the animals) confronting him (and then fleeing), and (only) taking those who present themselves as it were obediently, is seen in 'his allowing the escape of those in front of him.' 'That the people of his towns do not warn one another (to prevent such escape),' shows how he, in his high eminence, has made them pursue the due course.
+5. '*The good fortune belonging to the most illustrious instance of seeking union and attachment*' appears in the correct and central position (of the fifth line, undivided). (The king's) neglecting (the animals) confronting him (and then fleeing), and (only) taking those who present themselves as it were obediently, is seen in '*his allowing the escape of those in front of him*.' '*That the people of his towns do not warn one another (to prevent such escape)*,' shows how he, in his high eminence, has made them pursue the due course.
 
-6. 'He seeks union and attachment without taking the first (step to such an end):' -- there is no possibility of a (good) issue.
+6. '*He seeks union and attachment without taking the first (step to such an end)*:' -- there is no possibility of a (good) issue.
 
-<a id="fr_198"/>[IX](#fn_198). (The trigram **☰** representing) the sky, and **☴** that representing wind moving above it, form [**Xiǎo Xù ䷈**](e5b08fe7959cxiaoxu.md) The superior man, in accordance with this, adorns the outward manifestation of his virtue.
+<a id="fr_198"/>[IX](#fn_198). (The trigram **☰** representing) the sky, and **☴** that representing wind moving above it, form [**䷈ Xiǎo Xù**](e5b08fe7959cxiaoxu.md) The superior man, in accordance with this, adorns the outward manifestation of his virtue.
 
-1. 'He returns and pursues his own path:' -- it is right that there should be good fortune.
+1. '*He returns and pursues his own path*:' -- it is right that there should be good fortune.
 
-2. 'By the attraction (of the subject of the former line) he returns (to its own course),' and is in the central place:--neither will he err in what is due from him.
+2. '*By the attraction (of the subject of the former line) he returns (to its own course)*,' and is in the central place:--neither will he err in what is due from him.
 
 <a id="p-279"/>
 
-3. 'Husband and wife look on each other with averted eyes:' -- (the subject of line three is like a husband who) cannot maintain correctly his relations with his wife.
+3. '*Husband and wife look on each other with averted eyes*:' -- (the subject of line three is like a husband who) cannot maintain correctly his relations with his wife.
 
-4. 'He is possessed of sincerity; his (ground for) apprehension is dismissed:' -- (the subjects of the lines) above agree in aim with him.
+4. '*He is possessed of sincerity; his (ground for) apprehension is dismissed*:' -- (the subjects of the lines) above agree in aim with him.
 
-5. 'He is possessed of sincerity, and draws others to unite with him:' -- he does not use only his own rich resources.
+5. '*He is possessed of sincerity, and draws others to unite with him*:' -- he does not use only his own rich resources.
 
-6. 'The rain has fallen and (the onward progress) is stayed:' -- the power (denoted in the figure) has accumulated to the full. 'If the superior man prosecute his measures, there will be evil:' -- he will find himself obstructed.
+6. '*The rain has fallen and (the onward progress) is stayed*:' -- the power (denoted in the figure) has accumulated to the full. 'If the superior man prosecute his measures, there will be evil:' -- he will find himself obstructed.
 
 <a id="p-280"/>
 
-<a id="fr_199"/>[X](#fn_199). (The trigramm **☰** representing) the sky above, and below it (**☱** that representing the waters of) a marsh, form [**Lǚ ䷉**](e5b1a5lv.md). The superior man, in accordance with this, discriminates between high and low, and gives settlement to the aims of the people.
+<a id="fr_199"/>[X](#fn_199). (The trigramm **☰** representing) the sky above, and below it (**☱** that representing the waters of) a marsh, form [**䷉ Lǚ**](e5b1a5lv.md). The superior man, in accordance with this, discriminates between high and low, and gives settlement to the aims of the people.
 
-1. 'He treads his accustomed path and goes forward:' -- singly and exclusively he carries out his (long-cherished) wishes.
+1. '*He treads his accustomed path and goes forward*:' -- singly and exclusively he carries out his (long-cherished) wishes.
 
-2. 'A quiet and solitary man, to whom, being firm and correct, there will be good fortune:' -- holding the due mean, he will not allow himself to be thrown into disorder.
+2. '*A quiet and solitary man, to whom, being firm and correct, there will be good fortune*:' -- holding the due mean, he will not allow himself to be thrown into disorder.
 
-3. 'A one-eyed man (who thinks that he) can see:' -- he is not fit to see clearly. 'A lame man (who thinks that he can) tread well:' -- one cannot walk along with him. 'The ill fortune of being bitten' arises from the place not being the proper one for him. 'A (mere) bravo acting the part of a great ruler:' -- this is owing to his aims being (too) violent.
+3. '*A one-eyed man (who thinks that he) can see*:' -- he is not fit to see clearly. '*A lame man (who thinks that he can) tread well*:' -- one cannot walk along with him. '*The ill fortune of being bitten*' arises from the place not being the proper one for him. '*A (mere) bravo acting the part of a great ruler*:' -- this is owing to his aims being (too) violent.
 
-4. 'He becomes full of apprehensive caution, and in the end there will be good fortune:' -- his aim takes effect.
+4. '*He becomes full of apprehensive caution, and in the end there will be good fortune*:' -- his aim takes effect.
 
-5. 'He treads resolutely; and though he be firm and correct, there is peril:' -- this is due to his being in the position that is correct and appropriate to him.
+5. '*He treads resolutely; and though he be firm and correct, there is peril*:' -- this is due to his being in the position that is correct and appropriate to him.
 
 <a id="p-281"/>
 
-6. 'There will be great good fortune,' and that in the occupancy of the topmost line: -- this is great matter for congratulation.
+6. '*There will be great good fortune*,' and that in the occupancy of the topmost line: -- this is great matter for congratulation.
 
-<a id="fr_200"/>[XI](#fn_200). (The trigrams **☰** for) heaven and **☷** earth in communication together form [**Tài ䷊**](e6b3b0tai.md). The (sage) sovereign, in harmony with this, fashions and completes (his regulations) after the courses of heaven and earth, and assists the application of the adaptations furnished by them, -- in order to benefit the people.
+<a id="fr_200"/>[XI](#fn_200). (The trigrams **☰** for) heaven and **☷** earth in communication together form [**䷊ Tài**](e6b3b0tai.md). The (sage) sovereign, in harmony with this, fashions and completes (his regulations) after the courses of heaven and earth, and assists the application of the adaptations furnished by them, -- in order to benefit the people.
 
-1. 'The good fortune of advance, (as suggested by the emblem of) the grass pulled up,' arises from the will (of the party intended) being set on what is external to himself.
+1. '*The good fortune of advance, (as suggested by the emblem of) the grass pulled up*,' arises from the will (of the party intended) being set on what is external to himself.
 
-2. 'He bears with the uncultivated, and proves himself acting in accordance with the due mean:' -- for (his intelligence is) bright and (his capacity is) great.
+2. '*He bears with the uncultivated, and proves himself acting in accordance with the due mean*:' -- for (his intelligence is) bright and (his capacity is) great.
 
-3. 'There is no going away so that there shall not be a return' refers to this as the point where the interaction of heaven and earth takes place.
+3. '*There is no going away so that there shall not be a return*' refers to this as the point where the interaction of heaven and earth takes place.
 
 <a id="p-282"/>
 
-4. 'He comes fluttering (down), not relying on his own rich resources:' -- both he and his neighbours are out of their real (place where they are). 'They have not received warning, but (come) in the sincerity (of their hearts):' -- this is what they have desired in the core of their hearts.
+4. '*He comes fluttering (down), not relying on his own rich resources*:' -- both he and his neighbours are out of their real (place where they are). '*They have not received warning, but (come) in the sincerity (of their hearts)*:' -- this is what they have desired in the core of their hearts.
 
-5. 'By such a course there is happiness, and there will be great good fortune:' -- (the subject of the line) employs the virtue proper to his central position to carry his wishes into effect.
+5. '*By such a course there is happiness, and there will be great good fortune*:' -- (the subject of the line) employs the virtue proper to his central position to carry his wishes into effect.
 
-6. 'The city wall returned back into the moat' shows how the (governmental) orders have (long) been in disorder.
+6. '*The city wall returned back into the moat*' shows how the (governmental) orders have (long) been in disorder.
 
-<a id="fr_201"/>[XII](#fn_201). (The trigrams **☰** **☷** of) heaven and earth, not in intercommunication, form [**Pǐ ䷋**](e590a6pi.md). The superior man, in accordance with this, restrains (the manifestation) of) his virtue, and avoids the calamities (that threaten him). There is no opportunity of conferring on him the glory of emolument.
+<a id="fr_201"/>[XII](#fn_201). (The trigrams **☰** **☷** of) heaven and earth, not in intercommunication, form [**䷋ Pǐ**](e590a6pi.md). The superior man, in accordance with this, restrains (the manifestation) of) his virtue, and avoids the calamities (that threaten him). There is no opportunity of conferring on him the glory of emolument.
 
 <a id="p-283"/>
 
-1. 'The good fortune through firm goodness, (suggested by) the pulling up of the grass,' arises from the will (of the parties intended) being bent on (serving) the ruler.
+1. '*The good fortune through firm goodness, (suggested by) the pulling up of the grass*,' arises from the will (of the parties intended) being bent on (serving) the ruler.
 
-2. 'The great man, comporting himself as the distress and obstruction require, will have success: -- 'he does not allow himself to be disordered by the herd (of small men).
+2. '*The great man, comporting himself as the distress and obstruction require, will have success*:' -- he does not allow himself to be disordered by the herd (of small men).
 
-3. That 'his shame is folded in his breast' is owing to the inappropriateness of his position.
+3. That '*his shame is folded in his breast*' is owing to the inappropriateness of his position.
 
-4. 'He acts in accordance with the ordination (of Heaven), and commits no error:' -- the purpose of his mind can be carried into effect.
+4. '*He acts in accordance with the ordination (of Heaven), and commits no error*:' -- the purpose of his mind can be carried into effect.
 
-5. The good fortune of the great man' arises from the correctness of his position.
+5. '*The good fortune of the great man*' arises from the correctness of his position.
 
-6. 'The distress and obstruction having reached its end, it is overthrown and removed:' -- how could it be prolonged?
+6. '*The distress and obstruction having reached its end, it is overthrown and removed*:' -- how could it be prolonged?
 
 <a id="p-284"/>
 
-<a id="fr_202"/>[XIII](#fn_202). (The trigrams **☰** **☲** for) heaven and fire form [**Tóng Rén ䷌**](e5908ce4babatongren.md). The superior man, in accordance with this), distinguishes things according to their kinds and classes.
+<a id="fr_202"/>[XIII](#fn_202). (The trigrams **☰** **☲** for) heaven and fire form [**䷌ Tóng Rén**](e5908ce4babatongren.md). The superior man, in accordance with this), distinguishes things according to their kinds and classes.
 
 1. '(The representative of) the union of men is just issuing from his gate:' -- who will blame him?
 
