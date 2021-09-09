@@ -2,7 +2,7 @@
 
 # APPENDIX VI
 
-The Orderly Sequence of the Hexagrams <a id="fr_297"/><sub>[a](#fn_297)</sub>
+The Orderly Sequence of the Hexagrams <a id="fr_297"/>[<sub>a</sub>](#fn_297)
 
 ## SECTION I
 
