@@ -2,19 +2,19 @@
 
 # APPENDIX I
 
-Treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) <a id="fr_124"/><sub>[1](#fn_124)</sub>, or king Wén's Explanations of the entire Hexagrams
+Treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) <a id="fr_124"/>[<sub>1</sub>](#fn_124), or king Wén's Explanations of the entire Hexagrams
 
 ## SECTION I
 
 <a id="fr_125"/>[I](#fn_125).
 
-1. Vast is the 'great and originating (power)' indicated by [**Qián ䷀**](e4b9beqian.md)! All things owe to it their beginning: -- it contains all the meaning belonging to (the name) heaven.
+1. Vast is the 'great and originating (power)' indicated by [**䷀ Qián**](e4b9beqian.md)! All things owe to it their beginning: -- it contains all the meaning belonging to (the name) heaven.
 
 2. The clouds move and the rain is distributed; the various things appear in their developed forms.
 
 3. (The sages) grandly understand (the connexion between) the end and the beginning, and how (the indications of) the six lines (in the hexagram) are accomplished, (each) in its season. (Accordingly) they mount (the carriage) drawn by those six dragons at the proper times, and drive through the sky.
 
-4. The method of [**Qián ䷀**](e4b9beqian.md) is to change and transform, so that everything obtains its correct nature as appointed (by the mind of Heaven); and (thereafter the conditions of) great harmony are preserved in union. The result is 'what is advantageous, and correct and firm.
+4. The method of [**䷀ Qián**](e4b9beqian.md) is to change and transform, so that everything obtains its correct nature as appointed (by the mind of Heaven); and (thereafter the conditions of) great harmony are preserved in union. The result is 'what is advantageous, and correct and firm.'
 
 5. (The sage) appears aloft, high above all things, and the myriad states all enjoy repose.
 
@@ -22,9 +22,9 @@ Treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) <a id="fr_
 
 <a id="fr_126"/>[II](#fn_126).
 
-1. Complete is the 'great and originating (capacity)' indicated by [**Kūn ䷁**](e59da4kun.md)! All things owe to it their birth;--it receives obediently the influences of Heaven.
+1. Complete is the 'great and originating (capacity)' indicated by [**䷁ Kūn**](e59da4kun.md)! All things owe to it their birth;--it receives obediently the influences of Heaven.
 
-2. [**Kūn ䷁**](e59da4kun.md), in its largeness, supports and contains all things. Its excellent capacity matches the unlimited power (of [**Qián ䷀**](e4b9beqian.md)). Its comprehension is wide, and its brightness great. The various things obtain (by it) their full development.
+2. [**䷁ Kūn**](e59da4kun.md), in its largeness, supports and contains all things. Its excellent capacity matches the unlimited power (of [**䷀ Qián**](e4b9beqian.md)). Its comprehension is wide, and its brightness great. The various things obtain (by it) their full development.
 
 3. The mare is a creature of earthly kind. Its (power of) moving on the earth is without limit; it is mild and docile, advantageous and firm: -- such is the course of the superior man.
 
@@ -36,7 +36,7 @@ Treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) <a id="fr_
 
 <a id="fr_127"/>[III](#fn_127).
 
-1. In [**Zhūn ䷂**](e5b1afzhun.md) we have the strong (**Qián ☰**) and the weak (**Kūn ☷**) commencing their intercourse, and difficulties arising.
+1. In [**䷂ Zhūn**](e5b1afzhun.md) we have the strong (**☰ Qián**) and the weak (**☷ Kūn**) commencing their intercourse, and difficulties arising.
 
 2. Movement in the midst of peril gives rise to 'great progress and success, (through) firm correctness.'
 
@@ -288,11 +288,11 @@ Treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) <a id="fr_
 
 <a id="fn_124"/>[`213:1`](#fr_124) The name **Tuàn** (Chinese: [彖](https://en.wikipedia.org/wiki/I_Ching#cite_note-16)), and the meaning of the character so-called, are sufficiently established. The [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) are [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s explanations of the entire hexagrams. It seems impossible now to <sub>[p. 214](#p-214)</sub> ascertain how the character arose, and how it was named [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan). The treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) is ascribed to Confucius.
 
-<a id="fn_125"/>[`214:I`](#fr_125) The hexagram [**Qián ䷀**](e4b9beqian.md) is made up of six undivided lines, or of the trigram **Qián ☰**, [Fú-xī](https://en.wikipedia.org/wiki/Fuxi)'s symbol for heaven, repeated. The [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) does not dwell upon this, but starts, in its exposition, from the word 'heaven,' supposing that the hexagram represented all the meaning which had ever been intended by that term. In paragraphs 1, 2, 4 the four attributes in Wén's Text (2 being occupied with the second, though it is not expressly named) are illustrated by the phenomena taking place in the physical world.
+<a id="fn_125"/>[`214:I`](#fr_125) The hexagram [**䷀ Qián**](e4b9beqian.md) is made up of six undivided lines, or of the trigram **Qián ☰**, [Fú-xī](https://en.wikipedia.org/wiki/Fuxi)'s symbol for heaven, repeated. The [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) does not dwell upon this, but starts, in its exposition, from the word 'heaven,' supposing that the hexagram represented all the meaning which had ever been intended by that term. In paragraphs 1, 2, 4 the four attributes in Wén's Text (2 being occupied with the second, though it is not expressly named) are illustrated by the phenomena taking place in the physical world.
 
 In paragraphs 3 and 5, the subject is the sage. He is not named indeed; and [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda) (A. D. 574-648) does not introduce him till paragraph 5, when the meaning necessitates the presence of a human agent, who rules in the world of men as heaven does in that of nature. The 'connexion between the end and the beginning,' which he sees, is that of cause and effect in the operations of nature and the course of human affairs. The various steps in that course are symbolised by the lines of the hexagram; and the ideal sage, conducting his ideal government, taking his measures accordingly, is represented as driving through the sky in a carriage drawn by six dragons. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) extravagantly says that 'the sage is Heaven, and Heaven is the sage;' but there is nothing like this in the text.
 
-<a id="fn_126"/>[`215:II`](#fr_126) As the writer in expounding the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) of hexagram 1 starts from the word 'heaven,' so here he does so from the symbolic meaning attached to 'earth.' What I have said on the Text about the difference with which the same attributes are ascribed to [**Qián ䷀**](e4b9beqian.md) and [**Kūn ䷁**](e59da4kun.md), appears clearly in paragraph 1. It is the difference expressed by the words that I have supplied, -- 'power' and 'capacity.' [**Qián ䷀**](e4b9beqian.md) originates; [**Kūn ䷁**](e59da4kun.md) produces, or gives birth to what has been originated.
+<a id="fn_126"/>[`215:II`](#fr_126) As the writer in expounding the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) of hexagram 1 starts from the word 'heaven,' so here he does so from the symbolic meaning attached to 'earth.' What I have said on the Text about the difference with which the same attributes are ascribed to [**䷀ Qián**](e4b9beqian.md) and [**Kūn ䷁**](e59da4kun.md), appears clearly in paragraph 1. It is the difference expressed by the words that I have supplied, -- 'power' and 'capacity.' [**䷀ Qián**](e4b9beqian.md) originates; [**Kūn ䷁**](e59da4kun.md) produces, or gives birth to what has been originated.
 
 The 'penetrating,' or developing ability of [**Kūn ䷁**](e59da4kun.md), as displayed in the processes of growth, is the subject of paragraph 2. 'The brightness' refers to the beauty that shines forth in the vegetable and animal worlds.
 
@@ -312,7 +312,7 @@ Down to the last sentence of paragraph 2, all that is said is intended to show h
 
 Then finally in the young and ignorant there is 'a correct nature,' a moral state made for goodness. The efficient teacher directing his efforts to bring out and nourish that, the progress and success will be 'great;' the service done will be worthy of 'a sage.'
 
-<a id="fn_129"/>[`218:V`](#fr_129) [**Xū ䷄**](e99c80xu.md) is composed of [**Qián ䷀**](e4b9beqian.md), having the quality of strength, and of [**Kǎn ䷜**](e59d8ekan.md), having the quality of perilousness. Thc strong one might readily dare the peril, but he restrains himself and waits. This is the lesson of the hexagram, -- the benefit of action well considered, of plans well matured.
+<a id="fn_129"/>[`218:V`](#fr_129) [**Xū ䷄**](e99c80xu.md) is composed of [**䷀ Qián**](e4b9beqian.md), having the quality of strength, and of [**Kǎn ䷜**](e59d8ekan.md), having the quality of perilousness. Thc strong one might readily dare the peril, but he restrains himself and waits. This is the lesson of the hexagram, -- the benefit of action well considered, of plans well matured.
 
 The fifth line, as we have observed more than once already, is the place of honour, that due to the ruler or king. It is here called 'the Heavenly or Heaven-given seat, 'the meaning of which expression is clear from its occurrence in the [Shih, III, i, ode 2. 1](https://www.sacred-texts.com/cfu/sbe03/sbe03128.htm). Five is an odd number, and the fifth is therefore the 'correct' place for an undivided line; it is also the central place of the trigram, indicating. how its occupant is sure to walk in the due mean. See further [the notes on the Text](e99c80xu.md#p-68).
 
@@ -346,7 +346,7 @@ Paragraph 3 has also been explained; but there remains something to be said on t
 
 <a id="fn_136"/>[`224:XII`](#fr_136) All the symbolism here springs from the trigram **Kūn ☷** occupying in the figure the inner or lower place, and **Qián ☰** the outer or upper. It is for the inner trigram to take the initiative; <sub>[p. 225](#p-225)</sub> but how can earth (symbolised by **Kūn ☷**) take the place of heaven (symbolised by **Qián ☰**)? As in nature it is heaven that originates and not earth, so in a state the upper classes must take the initiative, and not the lower.
 
-<a id="fn_137"/>[`225:XIII`](#fr_137) To understand the various points in this commentary, it is only necessary to refer to the Text of the hexagram. The proper correlate of line 2 is line 5, and I have said therefore that it 'responds to (the corresponding line in) [**Qián ䷀**](e4b9beqian.md).' The editors of the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) edition, however, would make the correlate to it all the lines of [**Qián ䷀**](e4b9beqian.md), as being more agreeable to the idea of union.
+<a id="fn_137"/>[`225:XIII`](#fr_137) To understand the various points in this commentary, it is only necessary to refer to the Text of the hexagram. The proper correlate of line 2 is line 5, and I have said therefore that it 'responds to (the corresponding line in) [**䷀ Qián**](e4b9beqian.md).' The editors of the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) edition, however, would make the correlate to it all the lines of [**䷀ Qián**](e4b9beqian.md), as being more agreeable to the idea of union.
 
 I do not think that a second paragraph has been lost. The '[**Tóng Rén ䷌**](e5908ce4babatongren.md) says' is merely a careless repetition of the three concluding characters of [paragraph 1](#p-225).
 
