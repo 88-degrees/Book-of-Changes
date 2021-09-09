@@ -1,22 +1,23 @@
-# Guài ䷪
+# ䷪ Guài
 
 * Displacing
 
-> Chinese: 夬 ䷪ guài
+> Chinese: guài 夬 ䷪
 
 <a id="p-151"/>
 
 <img src="shapes/43.10.jpg" width="101" alt="夬">
 
-**Guài ䷪** requires (in him who would fulfil its meaning) the exhibition (of the culprit's guilt) in the royal court, and a sincere and earnest appeal (for sympathy and support), with a consciousness of the peril (involved in cutting off the criminal). He should (also) make announcement in his own city, and show that it will not be well to have recourse at once to arms. (In this way) there will be advantage in whatever he shall go forward to.
+**䷪ Guài** requires (in him who would fulfil its meaning) the exhibition (of the culprit's guilt) in the royal court, and a sincere and earnest appeal (for sympathy and support), with a consciousness of the peril (involved in cutting off the criminal). He should (also) make announcement in his own city, and show that it will not be well to have recourse at once to arms. (In this way) there will be advantage in whatever he shall go forward to.
 
-<a id="p-152"/>
 
 1.<a id="43.1"/> The first `NINE`, undivided, shows its subject in (the pride of) strength advancing with his toes. He goes forward, but will not succeed. There will be ground for blame.
 
 > **䷪** changing to [**䷛**](e5a4a7e8bf87daguo.md)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷫**](e5a7a4gou.md#44.1)
+
+<a id="p-152"/>
 
 2.<a id="43.2"/> The second `NINE`, undivided, shows its subject full of apprehension and appealing (for sympathy and help). Late at night hostile measures may be (taken against him), but he need not be anxious about them.
 
@@ -50,11 +51,11 @@
 
 ## Notes
 
-In **Guài ䷪** we have the hexagram of the third month, when the last remnant, cold and dark, of winter, represented by the sixth line, is about to disappear before the advance of the warm and bright days of the approaching summer. In the `yīn` line at the top [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) saw the symbol of a small or bad man, a feudal prince or high minister, lending his power to maintain a corrupt government, or, it might be, a dynasty that was waxen old and ready to vanish away; and in the five undivided lines he saw the representatives of good order, or, it might be, the dynasty which was to supersede the other. This then is the subject of the hexagram, -- how bad men, statesmen corrupt and yet powerful, are to be put out of the way. And he who would accomplish the task must do so by the force of his character more than by force of arms, and by producing a general sympathy on his side.
+In **䷪ Guài** we have the hexagram of the [third month](month.jpg), when the last remnant, cold and dark, of winter, represented by the sixth line, is about to disappear before the advance of the warm and bright days of the approaching summer. In the `yīn` line at the top [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) saw the symbol of a small or bad man, a feudal prince or high minister, lending his power to maintain a corrupt government, or, it might be, a dynasty that was waxen old and ready to vanish away; and in the five undivided lines he saw the representatives of good order, or, it might be, the dynasty which was to supersede the other. This then is the subject of the hexagram, -- how bad men, statesmen corrupt and yet powerful, are to be put out of the way. And he who would accomplish the task must do so by the force of his character more than by force of arms, and by producing a general sympathy on his side.
 
 The [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) says that he must openly denounce the criminal in the court, seek to awaken general sympathy, and at the same time go about his enterprise, conscious of its difficulty and danger. Among his own adherents, moreover, as if it were in his own city, he must make it understood how unwillingly he takes up arms. Then let him go forward, and success will attend him.
 
-Line 1 is strong, the first line of that trigram, which expresses the idea of strength. But it is in the lowest place. [The stage of the enterprise](e5a7a4gou.md#p-154) is too early, and the preparation too small to make victory certain. Its subject had better not take the field.
+Line 1 is strong, the first line of that trigram, which expresses the idea of strength. But it is in the lowest place. [The stage of the enterprise is too early](e5a7a4gou.md#p-154), and the preparation too small to make victory certain. Its subject had better not take the field.
 
 Line 2 is strong, and central, and its subject is possessed with the determination to do his part in the work of removal. But his eagerness is tempered by his occupancy of an even place; and he is cautious, and no attempts, however artful, to harm him will take effect.
 
