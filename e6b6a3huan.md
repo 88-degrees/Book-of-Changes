@@ -1,16 +1,14 @@
-# Huàn ䷺
+# ䷺ Huàn
 
 * Dispersion
 
-> Chinese: 涣 ䷺ huàn
+> Chinese: huàn 涣 ䷺
 
 <a id="p-194"/>
 
 <img src="shapes/59.10.jpg" width="101" alt="涣">
 
-**Huàn ䷺** intimates that (under its conditions) there will be progress and success. The king goes to his ancestral temple; and it will be advantageous to cross the great stream. It will be advantageous to be firm and correct.
-
-<a id="p-195"/>
+**䷺ Huàn** intimates that (under its conditions) there will be progress and success. The king goes to his ancestral temple; and it will be advantageous to cross the great stream. It will be advantageous to be firm and correct.
 
 1.<a id="59.1"/> The first `SIX`, divided, shows its subject engaged in rescuing (from the impending evil) and having (the assistance of) a strong horse. There will be good fortune.
 
@@ -23,6 +21,8 @@
 > **䷺** changing to [**䷓**](e8a782guan.md#20.2)
 
 > Matching Line 2 in Adjacent Hexagram: [**䷻**](e88a82jie.md#60.2)
+
+<a id="p-195"/>
 
 3.<a id="59.3"/> The third `SIX`, divided, shows its subject discarding any regard to his own person. There will be no occasion for repentance.
 
@@ -52,7 +52,7 @@
 
 ## Notes
 
-**Huàn ䷺**, the name of this hexagram, denotes a state of dissipation or dispersion. It is descriptive primarily of men's minds alienated from what is right and good. This alienation is sure to go on to disorder in the commonwealth; and an attempt is made to show how it should be dealt with and remedied.
+**䷺ Huàn**, the name of this hexagram, denotes a state of dissipation or dispersion. It is descriptive primarily of men's minds alienated from what is right and good. This alienation is sure to go on to disorder in the commonwealth; and an attempt is made to show how it should be dealt with and remedied.
 
 The figure is made up of one of the trigrams for water and over it that for wind. Wind moving over water seems to disperse it, and awakes naturally in the beholder the idea of dissipation.
 
@@ -60,7 +60,7 @@ The intimation of progress and success is supposed to be given by the strong lin
 
 Line 1, at the commencement of the hexagram, tells us that the evil has not yet made great progress, and that dealing with it will be easy. But the subject of the line is weak, and in an odd place. He cannot cope with the evil himself. He must have help, and he finds that in a strong horse, which description is understood to be symbolical of the subject of the strong second line.
 
-Line 2 is strong, but in an even place. That place is, indeed, the central, but the attribute of the lower trigram **Kǎn ☵** is peril. These conditions indicate evil, and action will be dangerous; but the subject of 2 looks to 1 below him, and takes shelter in union with its subject. Since the commentary of [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), this has been the interpretation of the line.
+Line 2 is strong, but in an even place. That place is, indeed, the central, but the attribute of the lower trigram **☵ Kǎn** is peril. These conditions indicate evil, and action will be dangerous; but the subject of 2 looks to 1 below him, and takes shelter in union with its subject. Since the commentary of [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), this has been the interpretation of the line.
 
 Line 3 is weak, and in an odd place. A regard for himself that would unfit its subject for contributing any service to the work of the hexagram might be feared; but he discards that regard, and will do nothing to be repented of. There is a change of style in the Chinese text at this point. As [Wáng Shēn-zǐ](https://ctext.org/searchbooks.pl?if=gb&author=王申子&remap=gb) (Yuán dynasty) says: -- 'Here and henceforth the scattering is of what should be scattered, that what should not be scattered may be collected.'
 
