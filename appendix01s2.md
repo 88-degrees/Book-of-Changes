@@ -4,21 +4,19 @@
 
 <a id="fr_155"/>[XXXI](#fn_155).
 
-1. [**Xián ䷞**](e592b8xian.md) (咸) is here used in the sense of **Gǎn** (感), meaning (mutually) influencing.
+1. [**䷞ Xián**](e592b8xian.md) (咸) is here used in the sense of `Gǎn`([感](https://ctext.org/dictionary.pl?if=en&char=感)), meaning (mutually) influencing.
 
-2. The weak (trigram) above, and the strong one below; their two influences moving and responding to each other, and thereby forming a union; the repression (of the one) and the satisfaction (of the other); (with their relative position), where the male is placed below the female: -- all these things convey the notion of 'a free and successful course (on the fulfilment of the conditions), while the advantage will depend on being firm and correct, as in marrying a young lady, and there will be good fortune.'
+2. The weak (trigram **☱**) above, and the strong one below; their two influences moving and responding to each other, and thereby forming a union; the repression (of the one) and the satisfaction (of the other); (with their relative position), where the male is placed below the female: -- all these things convey the notion of 'a free and successful course (on the fulfilment of the conditions), while the advantage will depend on being firm and correct, as in marrying a young lady, and there will be good fortune.'
 
 3. Heaven and earth exert their influences, and there ensue the transformation and production of all things. The sages influence the minds of men, and the result is harmony and peace all under the sky. If we look at (the method and issues) of those influences, the true character of heaven and earth and of all things can be seen.
 
 <a id="fr_156"/>[XXXII](#fn_156).
 
-1. [**Héng ䷟**](e68192heng.md) denotes long continuance. The strong (trigram) is above, and the weak one below; (they are the symbols of) thunder and wind,
+1. [**䷟ Héng**](e68192heng.md) denotes long continuance. The strong (trigram) is above, and the weak one below; (they are the symbols of) thunder and wind, which are in mutual communication; (they have the qualities of) docility and motive force; their strong and weak (lines) all respond, each to the other: -- these things are all found in [**䷟ Héng**](e68192heng.md).
 
 <a id="p-239"/>
 
-which are in mutual communication; (they have the qualities of) docility and motive force; their strong and weak (lines) all respond, each to the other: -- these things are all found in [**Héng ䷟**](e68192heng.md).
-
-2. (When it is said that) '[**Héng ䷟**](e68192heng.md) indicates successful progress and no error (in what it denotes); but the advantage will come from being firm and correct,' this indicates that there must be long continuance in its way of operation. The way of heaven and earth is to be long continued in their operation without stopping.
+2. (When it is said that) '[**䷟ Héng**](e68192heng.md) indicates successful progress and no error (in what it denotes); but the advantage will come from being firm and correct,' this indicates that there must be long continuance in its way of operation. The way of heaven and earth is to be long continued in their operation without stopping.
 
 3. (When it is said that) 'Movement in any direction whatever will be advantageous,' this implies that when (the moving power) is spent, it will begin again.
 
@@ -28,7 +26,7 @@ which are in mutual communication; (they have the qualities of) docility and mot
 
 <a id="fr_157"/>[XXXIII](#fn_157).
 
-1. '[**Dùn ䷠**](e981afdun.md) indicates successful progress:' -- that is, in the very retiring which [**Dùn ䷠**](e981afdun.md) denotes there is such progress. The strong (line) is in the ruling place, (the fifth), and is properly responded to (by the second line). The action takes place according to (the requirement of) the time.
+1. '[**䷠ Dùn**](e981afdun.md) indicates successful progress:' -- that is, in the very retiring which [**䷠ Dùn**](e981afdun.md) denotes there is such progress. The strong (line) is in the ruling place, (the fifth), and is properly responded to (by the second line). The action takes place according to (the requirement of) the time.
 
 2. 'To a small extent it will (still) be advantageous to be firm and correct:' -- (the small men) are gradually encroaching and advancing.
 
@@ -36,46 +34,44 @@ which are in mutual communication; (they have the qualities of) docility and mot
 
 <a id="fr_158"/>[XXXIV](#fn_158).
 
-1. In [**Dà Zhuàng ䷡**](e5a4a7e5a3aedazhuang.md) we see that which is great becoming strong. We have the (trigram) denoting strength directing that which denotes movement, and hence (the whole) is expressive of vigour.
+1. In [**䷡ Dà Zhuàng**](e5a4a7e5a3aedazhuang.md) we see that which is great becoming strong. We have the (trigram **☳**) denoting strength directing that which denotes movement, and hence (the whole) is expressive of vigour.
 
-2. '[**Dà Zhuàng ䷡**](e5a4a7e5a3aedazhuang.md) indicates that it will be advantageous to be firm and correct:' -- that which is great (should be) correct. Given correctness and greatness (in their highest degree), and the character and tendencies of heaven and earth can be seen.
+2. '[**䷡ Dà Zhuàng**](e5a4a7e5a3aedazhuang.md) indicates that it will be advantageous to be firm and correct:' -- that which is great (should be) correct. Given correctness and greatness (in their highest degree), and the character and tendencies of heaven and earth can be seen.
 
 <a id="p-241"/>
 
 <a id="fr_159"/>[XXXV](#fn_159).
 
-1. [**Jìn ䷢**](e6998bjin.md) denotes advancing.
+1. [**䷢ Jìn**](e6998bjin.md) denotes advancing.
 
-2. (In [**Jìn ䷢**](e6998bjin.md) we have) the bright (sun) appearing above the earth; (the symbol of) docile submission cleaving to that of the Great brightness; and the weak line advanced and moving above: -- all these things give us the idea of 'a prince who secures the tranquillity (of the people), presented on that account with numerous horses (by the king), and three times in a day received at interviews.'
+2. (In [**䷢ Jìn**](e6998bjin.md) we have) the bright (sun) appearing above the earth; (the symbol of) docile submission cleaving to that of the Great brightness; and the weak line advanced and moving above: -- all these things give us the idea of 'a prince who secures the tranquillity (of the people), presented on that account with numerous horses (by the king), and three times in a day received at interviews.'
 
 <a id="fr_160"/>[XXXVI](#fn_160).
 
-1. (The symbol of) the Earth and that of Brightness entering into the midst of it give the idea of [**Míng Yí ䷣**](e6988ee5a4b7mingyi.md) (Brightness wounded or obscured).
+1. (The symbol of) the Earth and that of Brightness entering into the midst of it give the idea of [**䷣ Míng Yí**](e6988ee5a4b7mingyi.md) (Brightness wounded or obscured).
 
 2. The inner (trigram) denotes being accomplished and bright; the outer, being pliant and submissive.
-The case of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was that of one
+The case of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was that of one who with these qualities was yet involved in great difficulties.
 
 <a id="p-242"/>
-
-who with these qualities was yet involved in great difficulties.
 
 3. 'It will be advantageous to realise the difficulty (of the position), and maintain firm correctness: -- that is, (the individual concerned) should obscure his brightness. The case of the count of Kî was that of one who, amidst the difficulties of his House, was able (thus) to maintain his aim and mind correct.
 
 <a id="fr_161"/>[XXXVII](#fn_161).
 
-1. In [**Jiā Rén ䷤**](e5aeb6e4babajiaren.md) the wife has her correct place in the inner (trigram), and the man his correct place in the outer. That man and woman occupy their correct places is the great righteousness shown (in the relation and positions of) heaven and earth.
+1. In [**䷤ Jiā Rén**](e5aeb6e4babajiaren.md) the wife has her correct place in the inner (trigram **☲**), and the man his correct place in the outer **☴**. That man and woman occupy their correct places is the great righteousness shown (in the relation and positions of) heaven and earth.
 
-2. In [**Jiā Rén ䷤**](e5aeb6e4babajiaren.md) we have the idea of an authoritative ruler; -- that, namely, represented by the parental authority.
+2. In [**䷤ Jiā Rén**](e5aeb6e4babajiaren.md) we have the idea of an authoritative ruler; -- that, namely, represented by the parental authority.
 
-3. Let the father be indeed father, and the son son; let the elder brother be indeed elder brother, and the younger brother younger brother, let the husband be indeed husband, and the wife wife: -- then will the family be in its normal state. Bring the family to that state, and all under heaven will be established.
+3. Let the father be indeed father, and `the son` son; let `the elder brother` be `indeed elder brother`, and `the younger brother` younger brother, let the husband be `indeed husband`, and `the wife` wife: -- then will the family be in its normal state. Bring the family to that state, and all under heaven will be established.
 
 <a id="p-243"/>
 
 <a id="fr_162"/>[XXXVIII](#fn_162).
 
-1. In [**Kuí ䷥**](e79dbdkui.md) we have (the symbol of) Fire, which, when moved, tends upwards, and that of a Marsh, whose waters, when moved, tend downwards. We have (also the symbols of) two sisters living together, but whose wills do not move in the same direction.
+1. In [**䷥ Kuí**](e79dbdkui.md) we have (the symbol of) Fire **☲**, which, when moved, tends upwards, and that of a Marsh **☱**, whose waters, when moved, tend downwards. We have (also the symbols of) two sisters living together, but whose wills do not move in the same direction.
 
-2. (We see how the inner trigram expressive of) harmonious satisfaction is attached to (the outer expressive of) bright intelligence; (we see) the weak line advanced and acting above, and how it occupies the central place, and is responded to by the strong (line below). These indications show that 'in small matters there will (still) be good fortune.'
+2. (We see how the inner trigram **☱** expressive of) harmonious satisfaction is attached to (the outer **☲** expressive of) bright intelligence; (we see) the weak line advanced and acting above, and how it occupies the central place, and is responded to by the strong (line below). These indications show that 'in small matters there will (still) be good fortune.'
 
 3. Heaven and earth are separate and apart, but the work which they do is the same. Male and female are separate and apart, but with a common will they seek the same object. There is diversity between the myriad classes of beings, but there is an analogy between their several operations. Great indeed are the phenomena and the results of this condition of disunion and separation.
 
