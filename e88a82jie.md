@@ -1,14 +1,14 @@
-# Jié ䷻
+# ䷻ Jié
 
 * Regulating
 
-> Chinese: 节 ䷻ jié
+> Chinese: jié 节 ䷻
 
 <a id="p-197"/>
 
 <img src="shapes/60.10.jpg" width="101" alt="节">
 
-**Jié ䷻** intimates that (under its conditions) there will be progress and attainment.
+**䷻ Jié** intimates that (under its conditions) there will be progress and attainment.
 (But) if the regulations (which it prescribes) be severe and difficult, they cannot be permanent.
 
 1.<a id="60.1"/> The first `NINE`, undivided, shows its subject not quitting the courtyard outside his door. There will be no error.
@@ -16,8 +16,6 @@
 > **䷻** changing to [**䷜**](e59d8ekan.md#29.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷺**](e6b6a3huan.md#59.1)
-
-<a id="p-198"/>
 
 2.<a id="60.2"/> The second `NINE`, undivided, shows its subject not quitting the courtyard inside his gate. There will be evil.
 
@@ -30,6 +28,8 @@
 > **䷻** changing to [**䷄**](e99c80xu.md#5.3)
 
 > Matching Line 3 in Adjacent Hexagram: [**䷺**](e6b6a3huan.md#59.3)
+
+<a id="p-198"/>
 
 4.<a id="60.4"/> The fourth `SIX`, divided, shows its subject quietly and naturally (attentive to all) regulations. There will be progress and success.
 
@@ -51,11 +51,11 @@
 
 ## Notes
 
-The primary application of the character **Jié ䷻** was to denote the joints of the bamboo; it is used also for the joints of the human frame; and for the solar and other terms of the year. Whatever makes regular division may be denominated a **Jié ䷻**; there enter into it the ideas of regulating and restraining; and the subject of this hexagram is the regulations of government enacted for the guidance and control of the people. How the constituent trigrams are supposed to suggest or indicate this meaning will be seen in [Appendix II](appendix02s1.md).
+The primary application of the character **䷻ Jié**([节](https://ctext.org/dictionary.pl?if=en&char=节)) was to denote `the joints of the bamboo`; it is used also for the joints of the human frame; and for the solar and other terms of the year. Whatever makes regular division may be denominated a **䷻ Jié**; there enter into it the ideas of regulating and restraining; and the subject of this hexagram is the regulations of government enacted for the guidance and control of the people. How the constituent trigrams are supposed to suggest or indicate this meaning will be seen in [Appendix II](appendix02s1.md).
 
-[Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) anticipates that symbolism in trying to account for the statement that the figure gives the promise of success and attainment; but the ground of this is generally made out by referring to the equal division of the undivided and divided lines and our having in 2 and 5, the central places, two undivided lines. An important point concerning 'regulations' is brought out in the conclusion of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan), -- that they must be adapted to circumstances, and not made too strict and severe.
+[Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) anticipates that symbolism in trying to account for the statement that the figure gives the promise of success and attainment; but the ground of this is generally made out by referring to the equal division of the undivided and divided lines and our having in 2 and 5, the central places, two undivided lines. An important point concerning `regulations` is brought out in the conclusion of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan), -- that they must be adapted to circumstances, and not made too strict and severe.
 
-Line 1 is strong, and in its correct place. Its subject therefore would not be wanting in power to make his way. But he is supposed to be kept in check by the strong 2, and the correlate 4 is the first line in the trigram of peril. The course of wisdom therefore is to keep still. The character here rendered door is that belonging to the inner apartments, leading from the hall into which entrance is found by the outer gate, mentioned under line 2. The courtyard outside the door and that inside the gate is one and the same. The 'Daily Lecture' says that the paragraph tells an officer not to take office rashly, but to exercise a cautious judgment in his measures.
+Line 1 is strong, and in its correct place. Its subject therefore would not be wanting in power to make his way. But he is supposed to be kept in check by the strong 2, and the correlate 4 is the first line in the trigram of peril. The course of wisdom therefore is to keep still. The character here rendered door is that belonging to the inner apartments, leading from the hall into which entrance is found by the outer gate, mentioned under line 2. The courtyard outside the door and that inside the gate is one and the same. The '[Daily Lecture](https://ctext.org/analects)' says that the paragraph tells an officer not to take office rashly, but to exercise a cautious judgment in his measures.
 
 Line 2 is strong, in the wrong place; nor has it a proper correlate. Its subject keeps still, when he ought to be up and doing. There will be evil.
 
