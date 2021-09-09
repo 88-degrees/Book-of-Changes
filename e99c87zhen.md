@@ -1,22 +1,22 @@
-# Zhèn ䷲
+# ䷲ Zhèn
 
 * Thunder, Movement
 
-> Chinese: 震 ䷲ zhèn
+> Chinese: zhèn 震 ䷲
 
 <a id="p-172"/>
 
 <img src="shapes/51.10.jpg" width="101" alt="震">
 
-**Zhèn ䷲** gives the intimation of ease and development. When (the time of) movement (which it indicates) comes, (the subject of the hexagram) will be found looking out with apprehension, and yet smiling and talking cheerfully. When the movement (like a crash of thunder) terrifies all within a hundred `lǐ` ([里](https://ctext.org/dictionary.pl?if=en&char=里)), he will be (like the sincere worshipper) who is not (startled into) letting go his ladle and (cup of) sacrificial spirits.
-
-<a id="p-173"/>
+**䷲ Zhèn** gives the intimation of ease and development. When (the time of) movement (which it indicates) comes, (the subject of the hexagram) will be found looking out with apprehension, and yet smiling and talking cheerfully. When the movement (like a crash of thunder) terrifies all within a hundred `lǐ`([里](https://ctext.org/dictionary.pl?if=en&char=里)), he will be (like the sincere worshipper) who is not (startled into) letting go his ladle and (cup of) sacrificial spirits.
 
 1.<a id="51.1"/> The first `NINE`, undivided, shows its subject, when the movement approaches, looking out and around with apprehension, and afterwards smiling and talking cheerfully. There will be good fortune.
 
 > **䷲** changing to [**䷏**](e8b1abyu.md#16.1)
 
 > Matching Line 1 in Adjacent Hexagram: [**䷳**](e889aegen.md#52.1)
+
+<a id="p-173"/>
 
 2.<a id="51.2"/> The second `SIX`, divided, shows its subject, when the movement approaches, in a position of peril. He judges it better to let go the articles (in his possession), and to ascend a very lofty height. There is no occasion for him to pursue after (the things he has let go); in seven days he will find them.
 
@@ -52,15 +52,15 @@
 
 ## Notes
 
-**Zhèn ䷲** among the trigrams represents thunder, and, according to [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s arrangement and significance of them, 'the oldest son.' It is a phonetic character in which the significant constituent is [yǔ](https://zh.m.wikipedia.org/wiki/%E9%9B%A8) (雨), meaning rain, and with which are formed most characters that denote atmospherical phenomena. The hexagram is formed of the trigram ☳ redoubled, and may be taken as representing the crash or peal of thunder; but we have seen that the attribute or virtue of the trigram is 'moving, exciting power;' and thence, symbolically, the character is indicative of movement taking place in society or in the kingdom. This is the meaning of the hexagram; and the subject is the conduct to be pursued in a time of movement -- such as insurrection or revolution -- by the party promoting, and most interested in, the situation. It is shown how he ought to be aware of the dangers of the time, and how by precaution and the regulation of himself he may overcome them.
+**䷲ Zhèn**, among the trigrams represents thunder, and, according to [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s arrangement and significance of them, `the oldest son`. It is a phonetic character in which the significant constituent is `yǔ`([雨](https://ctext.org/dictionary.pl?if=en&char=雨)), meaning rain, and with which are formed most characters that denote atmospherical phenomena. The hexagram is formed of the trigram **☳** redoubled, and may be taken as representing the crash or peal of thunder; but we have seen that the attribute or virtue of the trigram is `moving, exciting power`; and thence, symbolically, the character is indicative of movement taking place in society or in the kingdom. This is the meaning of the hexagram; and the subject is the conduct to be pursued in a time of movement -- such as insurrection or revolution -- by the party promoting, and most interested in, the situation. It is shown how he ought to be aware of the dangers of the time, and how by precaution and the regulation of himself he may overcome them.
 
-The indication of a successful issue given by the figure is supposed to be given by the undivided line at the bottom of the trigram. The subject of it must be superior to the subjects of the two divided lines above. It is in the idea of the hexagram that he should be moving and advancing; -- and what can his movement be but successful?
+The indication of a successful issue given by the figure is supposed to be given by the undivided line at the bottom of the trigram **☳**. The subject of it must be superior to the subjects of the two divided lines above. It is in the idea of the hexagram that he should be moving and advancing; -- and what can his movement be but successful?
 
-The next sentence shows him sensible of the danger of the occasion, but confident and self-possessed. The concluding sentence shows him rapt in his own important affairs, like a sincere worshipper, thinking only of the service in which he is engaged. Such a symbol is said to be suggested by [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s significance of **Zhèn ䷲** as 'the oldest son.' It is his to succeed to his father, and the hexagram, as following [**Dǐng ䷱**](e9bc8eding.md), shows him presiding over the sacrifices that have been prepared in the caldron. This is too fanciful.
+The next sentence shows him sensible of the danger of the occasion, but confident and self-possessed. The concluding sentence shows him rapt in his own important affairs, like a sincere worshipper, thinking only of the service in which he is engaged. Such a symbol is said to be suggested by [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s significance of **䷲ Zhèn** as `the oldest son`. It is his to succeed to his father, and the hexagram, as following [**䷱ Dǐng**](e9bc8eding.md), shows him presiding over the sacrifices that have been prepared in the caldron. This is too fanciful.
 
 What is said on line 1 is little more than a repetition of the principal part of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan). The line is undivided, and gives the auspice of good fortune.
 
-'The position of peril' to the subject of line 2 is suggested, as [Appendix II](appendix02s1.md) says, by its position, immediately above 1. But the rest of the symbolism is obscure, and [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says he does not understand it. The common interpretation appears in the version. The subject of the line does what he can to get out of danger; and finally, as is signified by the central position of the line, the issue is better than could have been expected. On the specification of 'seven days,' see what is said in the treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) of [hexagram 24 ䷗](e5a48dfu.md). On its use here [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'The places of a diagram amount to 6. The number 7 is the first of another. When the movement symbolised by **Zhèn ䷲** is gone by, things will be as they were before.'
+`The position of peril` to the subject of line 2 is suggested, as [Appendix II](appendix02s1.md#fn_239) says, by its position, immediately above 1. But the rest of the symbolism is obscure, and [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says he does not understand it. The common interpretation appears in the version. The subject of the line does what he can to get out of danger; and finally, as is signified by the central position of the line, the issue is better than could have been expected. On the specification of 'seven days,' see what is said in the treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) of [hexagram 24 ䷗](e5a48dfu.md). On its use here [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'The places of a diagram amount to 6. The number 7 is the first of another. When the movement symbolised by **䷲ Zhèn** is gone by, things will be as they were before.'
 
 Line 3 is divided, and where an undivided line should be; but if its subject move on to the fourth place, which would be right for him, the issue will not be bad.
 
