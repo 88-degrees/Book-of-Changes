@@ -1,14 +1,14 @@
-# Jiā Rén ䷤
+# ䷤ Jiā Rén
 
 * Household
 
-> Chinese: 家人 ䷤ jiā rén
+> Chinese: jiā rén 家人 ䷤
 
 <a id="p-136"/>
 
 <img src="shapes/37.10.jpg" width="101" alt="家人">
 
-For (the realisation of what is taught in) **Jiā Rén ䷤** , (or for the regulation of the family), what is most advantageous is that the wife be firm and correct.
+For (the realisation of what is taught in) **䷤ Jiā Rén** , (or for the regulation of the family), what is most advantageous is that the wife be firm and correct.
 
 <a id="p-137"/>
 
@@ -50,11 +50,11 @@ For (the realisation of what is taught in) **Jiā Rén ䷤** , (or for the regul
 
 ## Notes
 
-**Jiā Rén ䷤**, the name of the hexagram, simply means 'a household,' or 'the members of a family.' The subject of the essay based on the figure, however, is the regulation of the family, effected mainly by the co-operation of husband and wife in their several spheres, and only needing to become universal to secure the good order of the kingdom. The important place occupied by the wife in the family is seen in the short sentence of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan). That she be firm and correct, and do her part well, is the first thing necessary to its regulation.
+**䷤ Jiā Rén**, the name of the hexagram, simply means `a household`, or `the members of a family`. The subject of the essay based on the figure, however, is the regulation of the family, effected mainly by the co-operation of husband and wife in their several spheres, and only needing to become universal to secure the good order of the kingdom. The important place occupied by the wife in the family is seen in the short sentence of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan). That she be firm and correct, and do her part well, is the first thing necessary to its regulation.
 
 Line 1 is strong, and in a strong place. It suggests the necessity of strict rule in governing the family. Regulations must be established, and their observance strictly insisted on.
 
-Line 2 is weak, and in the proper place for it, -- the centre, moreover, of the lower trigram ☲. It fitly represents the wife, and what is said on it tells us of her special sphere and duty; and that she should be unassuming in regard to all beyond her sphere; always being firm and correct. See the [**Shì Kè ䷔**](e599ace59791shike.md#21.3), III.
+Line 2 is weak, and in the proper place for it, -- the centre, moreover, of the lower trigram **☲ Lí**. It fitly represents the wife, and what is said on it tells us of her special sphere and duty; and that she should be unassuming in regard to all beyond her sphere; always being firm and correct. See the [**䷔ Shì Kè**](e599ace59791shike.md#21.3), III.
 
 Line 3 is strong, and in an odd place. If the place were central, the strength would be tempered; but the subject of the line, in the topmost place of the trigram, may be expected to exceed in severity. But severity is not a bad thing in regulating a family; -- it is better than laxity and indulgence.
 
