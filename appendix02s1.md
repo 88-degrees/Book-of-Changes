@@ -2,7 +2,7 @@
 
 # APPENDIX II
 
-Treatise on the Symbolism of the Hexagrams, and of the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s Explanations of the several Lines <a id="fr_189"/>[<sub>1</sub>](#fn_189)
+Treatise on the [Symbolism of the Hexagrams](https://ctext.org/book-of-changes/xiang-zhuan), and of the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s Explanations of the several Lines <a id="fr_189"/>[<sub>1</sub>](#fn_189)
 
 ## SECTION I
 
@@ -98,41 +98,39 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 <a id="fr_195"/>[VI](#fn_195). (The trigram **☰** representing) heaven and (**☵** that representing) water, moving away from each other, form [**䷅ Sòng**](e8aebcsong.md). The superior man, in accordance with this, in the transaction of affairs takes good counsel about his first steps.
 
-1. 'He does not perpetuate the matter about which (the contention is):' -- contention should not be prolonged. Although 'he may suffer the small (injury) of being spoken against,' his argument is clear.
+1. '*He does not perpetuate the matter about which (the contention is)*:' -- contention should not be prolonged. Although 'he may suffer the small (injury) of being spoken against,' his argument is clear.
 
-2. 'He is unequal to the contention; he retires and keeps concealed, stealthily withdrawing from it:' -- for him from his lower place to contend with (the stronger one) above, would be to (invite) calamity, as if he brought it with his hand to himself.
+2. '*He is unequal to the contention; he retires and keeps concealed, stealthily withdrawing from it*:' -- for him from his lower place to contend with (the stronger one) above, would be to (invite) calamity, as if he brought it with his hand to himself.
 
-3. 'He confines himself to the support assigned
+3. '*He confines himself to the support assigned to him of old*:' -- (thus) following those above him, he will have good fortune.
 
 <a id="p-275"/>
 
-to him of old:' -- (thus) following those above him, he will have good fortune.
+4. '*He returns to (the study of Heaven's) ordinances, changes (his wish to contend), and rests in being firm and correct*:' -- he does not fail (in doing what is right).
 
-4. 'He returns to (the study of Heaven's) ordinances, changes (his wish to contend), and rests in being firm and correct:' -- he does not fail (in doing what is right).
+5. '*He contends; -- and with great fortune*:' -- this is shown by his holding the due mean and being in the correct place.
 
-5. 'He contends; -- and 'with great fortune: -- this is shown by his holding the due mean and being in the correct place.
+6. '*He receives the robe through his contention*:' -- but still be is not deserving of respect.
 
-6. 'He receives the robe through his contention:' -- but still be is not deserving of respect.
+<a id="fr_196"/>[VII](#fn_196). (The trigram **☷** representing) the earth and in the midst of it **☵** that representing water, form [**䷆ Shī**](e5b888shi.md). The superior man, in accordance with this, nourishes and educates the people, and collects (from among them) the multitudes (of the hosts).
 
-<a id="fr_196"/>[VII](#fn_196). (The trigram **☷** representing) the earth and in the midst of it **☵** that representing water, form [**Shī ䷆**](e5b888shi.md). The superior man, in accordance with this, nourishes and educates the people, and collects (from among them) the multitudes (of the hosts).
-
-1. 'The host goes forth according to the rules (for) such a movement:' -- if those rules be not observed, there will be evil.
+1. '*The host goes forth according to the rules (for) such a movement*:' -- if those rules be not observed, there will be evil.
 
 <a id="p-276"/>
 
-2. 'He is in the midst of the host, and there will be good fortune:' -- he has received the favour of Heaven. 'The king has thrice conveyed to him the orders (of) his favour:' -- (the king) cherishes the myriad regions in his heart.
+2. '*He is in the midst of the host, and there will be good fortune*:' -- he has received the favour of Heaven. 'The king has thrice conveyed to him the orders (of) his favour:' -- (the king) cherishes the myriad regions in his heart.
 
-3. 'The host with the possibility of its having many idle leaders:' -- great will be its want of success.
+3. '*The host with the possibility of its having many idle leaders*:' -- great will be its want of success.
 
-4. 'The host is in retreat; but there is no error:' -- there has been no failure in the regular course.
+4. '*The host is in retreat; but there is no error*:' -- there has been no failure in the regular course.
 
-5. 'The oldest son leads the host:' -- its movements are directed by him in accordance with his position in the centre. 'Younger men idly occupy their positions:' -- the employment of such men is improper.
+5. '*The oldest son leads the host*:' -- its movements are directed by him in accordance with his position in the centre. 'Younger men idly occupy their positions:' -- the employment of such men is improper.
 
-6. 'The great ruler delivers his charges:' -- thereby he rightly apportions merit. 'Small men should not be employed:' -- they are sure to throw the states into confusion.
+6. '*The great ruler delivers his charges*:' -- thereby he rightly apportions merit. 'Small men should not be employed:' -- they are sure to throw the states into confusion.
 
 <a id="p-277"/>
 
-<a id="fr_197"/>[VIII](#fn_197). (The trigram **☷** representing) the earth, and over it (**☵** that representing) water, form [**Bǐ ䷇**](e6af94bi.md). The ancient kings, in accordance with this, established the various states and maintained an affectionate relation to their princes.
+<a id="fr_197"/>[VIII](#fn_197). (The trigram **☷** representing) the earth, and over it (**☵** that representing) water, form [**䷇ Bǐ**](e6af94bi.md). The ancient kings, in accordance with this, established the various states and maintained an affectionate relation to their princes.
 
 1. From 'the seeking union with its object' shown in the first `SIX`, (divided),there will be other advantages.
 
