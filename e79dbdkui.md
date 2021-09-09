@@ -1,14 +1,14 @@
-# Kuí ䷥
+# ䷥ Kuí
 
 * Division
 
-> Chinese: 睽 ䷥ kuí
+> Chinese: kuí 睽 ䷥
 
 <a id="p-139"/>
 
 <img src="shapes/38.10.jpg" width="101" alt="暌">
 
-**Kuí ䷥** indicates that, (notwithstanding the condition of things which it denotes), in small matters there will (still) be good success.
+**䷥ Kuí** indicates that, (notwithstanding the condition of things which it denotes), in small matters there will (still) be good success.
 
 1.<a id="38.1"/> The first `NINE`, undivided, shows that (to its subject) occasion for repentance will disappear. He has lost his horses, but let him not seek for them; -- they will return of themselves. Should he meet with bad men, he will not err (in communicating with them).
 
@@ -50,9 +50,9 @@
 
 ## Notes
 
-**Kuí ䷥** denotes a social state in which division and mutual alienation prevail, and the hexagram teaches how in small matters this condition may be healed, and the way prepared for the cure of the whole system. The writer or writers of Appendixes I and II point out the indication in the figure of division and disunion according to their views. In Appendix VI those things appear as a necessary sequel to the regulation of the family; while it is impossible to discover any allusion to the family in the Text.
+**䷥ Kuí** denotes a social state in which division and mutual alienation prevail, and the hexagram teaches how in small matters this condition may be healed, and the way prepared for the cure of the whole system. The writer or writers of Appendixes I and II point out the indication in the figure of division and disunion according to their views. In [Appendix VI](appendix06s1.md) those things appear as a necessary sequel to the regulation of the family; while it is impossible to discover any allusion to the family in the Text.
 
-Line 1 is strong, and in an odd place. A successful course might be auspiced for its subject; but the correlate in line 4 is also strong; and therefore disappointment and repentance are likely to ensue. In the condition, however, indicated by Khwei, where people have a common virtue, they will help one another. Through the good services of 4, the other will not have to repent. His condition may be emblemed by a traveller's loss of his horses, which return to him of themselves.
+Line 1 is strong, and in an odd place. A successful course might be auspiced for its subject; but the correlate in line 4 is also strong; and therefore disappointment and repentance are likely to ensue. In the condition, however, indicated by **䷥ Kuí**, where people have a common virtue, they will help one another. Through the good services of 4, the other will not have to repent. His condition may be emblemed by a traveller's loss of his horses, which return to him of themselves.
 
 Should he meet with bad men, however, let him not shrink from them. Communication with them will be of benefit. His good p. 141 may overcome their evil, and at least it will help to silence their slanderous tongues.
 
@@ -62,7 +62,7 @@ Line 3 is weak, where it ought to be strong. Its correlate, however, in 6 is str
 
 Line 4 has no proper correlate, and might seem to be solitary. But, as we saw on line 1, in this hexagram, correlates of the same class help each other. Hence the subjects of 4 and 1, meeting together, work with good will and success.
 
-The place of 5 is odd, but the line itself is weak, so that there might arise occasion for repentance. But the strong 2 is a proper correlate to the weak 5. Five being the sovereign's place, the subject of 2 is styled the sovereign's relative, of the same surname <sub>[p. 142](e8b987jian.md#p-142)</sub> with him, and head of some branch of the descendants of the royal house. It is as easy for 5, so supported, to deal with the disunion of the time, as to bite through a piece of skin.
+The place of 5 is odd, but the line itself is weak, so that there might arise occasion for repentance. But the strong 2 is a proper correlate to the weak 5. Five being the sovereign's place, the subject of 2 is styled the sovereign's relative, of [the same surname with him](e8b987jian.md#p-142), and head of some branch of the descendants of the royal house. It is as easy for 5, so supported, to deal with the disunion of the time, as to bite through a piece of skin.
 
 Line 6 is an even place, and yet the line is strong; -- what can its subject effect? He looks at 3, which, as weak, is a proper correlate; but he looks with the evil eye of disunion. The subject of 3 appears no better than a filthy pig, nor more real than an impossible carriage-load of ghosts. He bends his bow against him, but he unbends it, discovering a friend in 3, as x did in 4, and 5 in 2. He acts and with good luck, comparable to the falling rain, which results from the happy union of the `yáng` and `yīn` in nature.
 
