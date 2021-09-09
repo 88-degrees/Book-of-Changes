@@ -1,14 +1,14 @@
-# Sǔn ䷨
+# ䷨ Sǔn
 
 * Diminishing
 
-> Chinese: 损 ䷨ sǔn
+> Chinese: sǔn 损 ䷨
 
 <a id="p-146"/>
 
 <img src="shapes/41.10.jpg" width="101" alt="损">
 
-In (what is denoted by) **Sǔn ䷨**, if there be sincerity (in him who employs it), there will be great good fortune: -- freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made. In what shall this (sincerity in the exercise of **Sǔn ䷨**) be employed? (Even) in sacrifice two baskets of grain, (though there be nothing else), may be presented.
+In (what is denoted by) **䷨ Sǔn**, if there be sincerity (in him who employs it), there will be great good fortune: -- freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made. In what shall this (sincerity in the exercise of **䷨ Sǔn**) be employed? (Even) in sacrifice two baskets of grain, (though there be nothing else), may be presented.
 
 <a id="p-147"/>
 
@@ -50,17 +50,17 @@ In (what is denoted by) **Sǔn ䷨**, if there be sincerity (in him who employs 
 
 ## Notes
 
-The interpretation of this hexagram is encompassed with great difficulties. **Sǔn ䷨** is the symbol for the idea of diminishing or diminution; and what is said in [Appendix I](appendix01s2.md#p-246) has made it to be accepted as teaching the duty of the subject to take of what is his and contribute to his ruler, or the expenses of the government under which he lives; in other words, readily and cheerfully to pay his taxes. P. Regis says, **Sǔn ䷨** seu (vectigalis causa) minuere . . . est valde utile;' and Canon McClatchie in translating [Appendix I](appendix01s2.md#p-246) has: -- 'Diminishing (by taxation for instance) .... is very lucky.' Possibly, [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) may have seen in the figures the subject of taxation; but the symbolism of his son takes a much wider range. My own reading of the figure and Text comes near to the view of [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), that 'every diminution and repression of what we have in excess to bring it into accordance with right and reason is comprehended under **Sǔn ䷨**.'
+The interpretation of this hexagram is encompassed with great difficulties. **䷨ Sǔn** is the symbol for the idea of diminishing or diminution; and what is said in [Appendix I](appendix01s2.md#p-246) has made it to be accepted as teaching the duty of the subject to take of what is his and contribute to his ruler, or the expenses of the government under which he lives; in other words, readily and cheerfully to pay his taxes. P. Regis says, **䷨ Sǔn** seu (vectigalis causa) minuere ... est valde utile;' and Canon McClatchie in translating [Appendix I](appendix01s2.md#p-246) has: -- 'Diminishing (by taxation for instance) .... is very lucky.' Possibly, [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) may have seen in the figures the subject of taxation; but the symbolism of his son takes a much wider range. My own reading of the figure and Text comes near to the view of [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), that 'every diminution and repression of what we have in excess to bring it into accordance with right and reason is comprehended under **䷨ Sǔn**.'
 
 Let there be sincerity in doing this, and it will lead to the happiest results. It will lead to great success in great things; and if the correction, or it may be a contribution towards it, appear to be very small, yet it will be accepted; -- as in the most solemn religious service. This is substantially the view of the hexagram approved by the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors.
 
-Line 1 is strong, and its correlate in 4 is weak. Its subject will wish to help the subject of 4; but will not leave anything of his own undone in (loin. so. Nor will he diminish of his own for the other without due deliberation.
+Line 1 is strong, and its correlate in 4 is weak. Its subject will wish to help the subject of 4; but will not leave anything of his own undone in loin. So nor will he diminish of his own for the other without due deliberation.
 
 Line 2 is strong, and in the central place. But it is in the place of a weak line, and its subject should maintain his position without moving to help his correlate in 5. Maintaining his own firm correctness is the best way to help him.
 
-Paragraph 3 is to my mind full of obscurity. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), adopting the view in [Appendix I](appendix01s2.md#p-246), says that the lower trigram was originally **Qián ☰**, three undivided lines, like 'three men walking together,' and that [the third line](e79b8ayi.md#p-149), taken away and made to be the topmost line, or the third, in what was originally **Kūn ☷**, three divided lines, was 'the putting away of one man;' and that then the change of place by 3 and 6, while they continued their proper correlation, was, one going away, and finding his friend. I cannot lay hold of any thread of reason in this.
+Paragraph 3 is to my mind full of obscurity. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), adopting the view in [Appendix I](appendix01s2.md#p-246), says that the lower trigram **☱** was originally **☰ Qián**, three undivided lines, like `three men walking together`, and that [the third line](e79b8ayi.md#p-149), taken away and made to be the topmost line, or the third, in what was originally **☷ Kūn**, three divided lines, was `the putting away of one man`; and that then the change of place by 3 and 6, while they continued their proper correlation, was, one going away, and finding his friend. I cannot lay hold of any thread of reason in this.
 
-Line 4 is weak, and in an even place; like an individual ailing and unable to perform his proper work. But the correlate in 1 is strong; and is made to hasten to its relief. The 'joy' of the line shows the desire of its subject to do his part in the work of the hexagram.
+Line 4 is weak, and in an even place; like an individual ailing and unable to perform his proper work. But the correlate in 1 is strong; and is made to hasten to its relief. The `joy` of the line shows the desire of its subject to do his part in the work of the hexagram.
 
 Line 5 is the seat of the ruler, who is here humble, and welcomes the assistance of his correlate, the subject of 2. He is a ruler whom all his subjects of ability will rejoice to serve in every possible way; and the result will be great good fortune.
 
