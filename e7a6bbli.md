@@ -1,14 +1,14 @@
-# Lí ䷝
+# ䷝ Lí
 
 * Fire, Brightness
 
-> Chinese: 离 ䷝ lí
+> Chinese: lí 离 ䷝
 
 <a id="p-120"/>
 
 <img src="shapes/30.10.jpg" width="101" alt="离"/>
 
-**Lí ䷝** indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success.
+**䷝ Lí** indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success.
 
 <a id="p-121"/>
 
@@ -54,16 +54,16 @@ Let (its subject) also nourish (a docility like that of) the cow, and there will
 
 ## Notes
 
-**Lí ䷝** is the name of the trigram representing fire and light, and the sun as the source of both of these. Its virtue or attribute is brightness,
-and by a natural metaphor intelligence. But **Lí ䷝** has also the meaning of inhering in, or adhering to, being attached to. Both these significations occur in connexion with the hexagram, and make it difficult to determine what was the subject of it in the minds of the authors. If we take the whole figure as expressing the subject, we have, as in the treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan), 'a double brightness,' a phrase which is understood to denominate the ruler. If we take the two central lines as indicating the subject, we have weakness, dwelling with strength above and below. In either case there are required from the subject a strict adherence to what is correct, and a docile humility. On the second member of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'The nature of the ox is docile, and that of the cow is much more so. The subject of the hexagram adhering closely to [what is correct](#p-122), he must be able to act in obedience to it, as docile as a cow, and then there will be good fortune.'
+**䷝ Lí** is the name of the trigram **☲** representing `fire` and `light`, and the sun as the source of both of these. Its virtue or attribute is brightness,
+and by a natural metaphor intelligence. But **䷝ Lí** has also the meaning of inhering in, or adhering to, being attached to. Both these significations occur in connexion with the hexagram, and make it difficult to determine what was the subject of it in the minds of the authors. If we take the whole figure as expressing the subject, we have, as in the treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan), `a double brightness`, a phrase which is understood to denominate the ruler. If we take the two central lines as indicating the subject, we have weakness, dwelling with strength above and below. In either case there are required from the subject a strict adherence to what is correct, and a docile humility. On the second member of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'The nature of the ox is docile, and that of the cow is much more so. The subject of the hexagram adhering closely to [what is correct](#p-122), he must be able to act in obedience to it, as docile as a cow, and then there will be good fortune.'
 
-Line 1 is strong, and at the bottom of the trigram for fire, the nature of which is to ascend. Its subject therefore will move upwards, and is in danger of doing so coarsely and vehemently. But the lowest line has hardly entered into the action of the figure, and this consideration operates to make him reverently careful of his movements; and there is no error.
+Line 1 is strong, and at the bottom of the trigram **☲** for fire, the nature of which is to ascend. Its subject therefore will move upwards, and is in danger of doing so coarsely and vehemently. But the lowest line has hardly entered into the action of the figure, and this consideration operates to make him reverently careful of his movements; and there is no error.
 
 Line 2 is weak, and occupies the centre. Yellow is one of the five correct colours, and here symbolises the correct course to which the subject of the line adheres.
 
-Line 3 is at the top of the lower trigram, whose light may be considered exhausted, and suggests the symbol of the declining sun. The subject of the line should accept the position, and resign himself to the ordinary amusements which are mentioned, but he groans and mourns instead. His strength interferes with the lowly contentment which he should cherish.
+Line 3 is at the top of the lower trigram **☲**, whose light may be considered exhausted, and suggests the symbol of the declining sun. The subject of the line should accept the position, and resign himself to the ordinary amusements which are mentioned, but he groans and mourns instead. His strength interferes with the lowly contentment which he should cherish.
 
-The. strength of line 4, and its being in an even place, make its subject appear in this unseemly manner, disastrous to himself.
+The strength of line 4, and its being in an even place, make its subject appear in this unseemly manner, disastrous to himself.
 
 Line 5 is in the place of honour, and central. But it is weak; as is its correlate. Its position between the strong 4 and 6 fills its subject with anxiety and apprehension, that express themselves as is described. But such demonstrations are a proof of his inward adherence to right and his humility. There will be good fortune.
 
