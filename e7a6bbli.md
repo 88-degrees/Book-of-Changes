@@ -59,7 +59,7 @@ and by a natural metaphor intelligence. But **䷝ Lí** has also the meaning of 
 
 Line 1 is strong, and at the bottom of the trigram **☲** for fire, the nature of which is to ascend. Its subject therefore will move upwards, and is in danger of doing so coarsely and vehemently. But the lowest line has hardly entered into the action of the figure, and this consideration operates to make him reverently careful of his movements; and there is no error.
 
-Line 2 is weak, and occupies the centre. Yellow is one of the five correct colours, and here symbolises the correct course to which the subject of the line adheres.
+Line 2 is weak, and occupies the centre. `Yellow` is one of the five correct colours, and here symbolises the correct course to which the subject of the line adheres.
 
 Line 3 is at the top of the lower trigram **☲**, whose light may be considered exhausted, and suggests [the symbol of the declining sun](https://ctext.org/dictionary.pl?if=en&id=25542). The subject of the line should accept the position, and resign himself to the ordinary amusements which are mentioned, but he groans and mourns instead. His strength interferes with the lowly contentment which he should cherish.
 
