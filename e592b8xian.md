@@ -65,7 +65,7 @@ Line 1 is weak, and at the bottom of the hexagram. Though 4 be a proper correlat
 
 The calves cannot move of themselves. They follow the moving of the feet. The moving of them indicates too much anxiety to move. Line 2, moreover, is weak. But it is also the central line, and if its subject abide quiet, till he is acted on from above, there will be good fortune.
 
-Neither can the thighs move of themselves. The attempt to [move them is inauspicious](e68192heng.md#p-126). Its subject, however, the line being strong, and in an odd place, will wish to move, and follows the subject of 4, which is understood to be the seat of the mind. He exercises his influence therefore with a mind and purpose, which is not good.
+Neither can the thighs move of themselves. [The attempt to move them is inauspicious](e68192heng.md#p-126). Its subject, however, the line being strong, and in an odd place, will wish to move, and follows the subject of 4, which is understood to be the seat of the mind. He exercises his influence therefore with a mind and purpose, which is not good.
 
 Line 4 is strong, but in an even place. It is the seat of the mind. Its subject therefore is warned to be firm and correct in order to a good issue. If he be wavering and uncertain, his influence will not extend beyond the circle of his friends.
 
