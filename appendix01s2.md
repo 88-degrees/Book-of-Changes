@@ -55,7 +55,7 @@ The case of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was that
 
 <a id="p-242"/>
 
-3. 'It will be advantageous to realise the difficulty (of the position), and maintain firm correctness: -- that is, (the individual concerned) should obscure his brightness. The case of the count of Kî was that of one who, amidst the difficulties of his House, was able (thus) to maintain his aim and mind correct.
+3. 'It will be advantageous to realise the difficulty (of the position), and maintain firm correctness: -- that is, (the individual concerned) should obscure his brightness. The case of the [count of Jī](https://ctext.org/dictionary.pl?if=gb&char=姬&remap=gb) was that of one who, amidst the difficulties of his House, was able (thus) to maintain his aim and mind correct.
 
 <a id="fr_161"/>[XXXVII](#fn_161).
 
@@ -138,13 +138,7 @@ Each season's gifts quick to requite.'
 
 1. [**䷪ Guài**](e5a4acguai.md) is the symbol of displacing or removing. We see (in the figure) the strong (lines) displacing the weak. (We have in it the attributes of) strength and complacency. There is displacement, but harmony (continues).
 
-2. '*The exhibition (of the criminal's guilt) in the royal courtyard*' is suggested by the (one) weak (line) mounted on the five strong lines.
-
-There '*is an earnest and sincere appeal (for sympathy and support), and a consciousness of the peril (involved in the undertaking):*' -- it is the realisation of this danger, which makes the method (of compassing the object) brilliant.
-
-*He should make an announcement in his own city, and show that it will not be well to have recourse at once to arms*:' -- (if he have recourse to arms), what he prefers will (soon) be exhausted.
-
-'*There will be advantage in whatever he shall go forward to*:' -- when the growth of the strong (lines) has been completed, there will be an end (of the displacement).
+2. '*The exhibition (of the criminal's guilt) in the royal courtyard*' is suggested by the (one) weak (line) mounted on the five strong lines. There '*is an earnest and sincere appeal (for sympathy and support), and a consciousness of the peril (involved in the undertaking):*' -- it is the realisation of this danger, which makes the method (of compassing the object) brilliant. '*He should make an announcement in his own city, and show that it will not be well to have recourse at once to arms*:' -- (if he have recourse to arms), what he prefers will (soon) be exhausted. '*There will be advantage in whatever he shall go forward to*:' -- when the growth of the strong (lines) has been completed, there will be an end (of the displacement).
 
 <a id="p-250"/>
 
@@ -190,7 +184,7 @@ There '*is an earnest and sincere appeal (for sympathy and support), and a consc
 
 <a id="fr_172"/>[XLVIII](#fn_172).
 
-1. In [**Jǐng ䷯**](e4ba95jing.md) (We have the symbol of) wood in the water and the raising of the water; which (gives us the idea of) a well. A well supplies nourishment and is not (itself) exhausted.
+1. In [**䷯ Jǐng**](e4ba95jing.md) (We have the symbol of) wood in the water and the raising of the water; which (gives us the idea of) a well. A well supplies nourishment and is not (itself) exhausted.
 
 2. 'The site of a town may be changed, while the fashion of its wells undergoes no change:' -- this is indicated by the central position of the strong lines (in the second and fifth places). '*The drawing is nearly accomplished, but the rope has not yet reached the water of the well:*' -- its service has not yet been accomplished. '*The bucket is broken*:' -- it is this that occasions evil.
 
@@ -222,93 +216,79 @@ There '*is an earnest and sincere appeal (for sympathy and support), and a consc
 
 <a id="fr_176"/>[LII](#fn_176).
 
-1. [**Gèn ䷳**](e889aegen.md) denotes stopping or resting; -- resting when it is the time to rest, and acting when it is the time to act. When one's movements and restings all take place at the proper time for them, his way (of proceeding) is brilliant and intelligent.
+1. [**䷳ Gèn**](e889aegen.md) denotes stopping or resting; -- resting when it is the time to rest, and acting when it is the time to act. When one's movements and restings all take place at the proper time for them, his way (of proceeding) is brilliant and intelligent.
 
-2. Resting in one's resting-point is resting in one's proper place. The upper and lower (lines of the hexagram) exactly correspond to each other, but are without any interaction; hence it is said that '(the subject of the hexagram) has no consciousness of self; that when he walks in his courtyard, he does not see (any of) the persons in it; and that there will be no error.'
+2. Resting in one's resting-point is resting in one's proper place. The upper **☶** and lower **☶** (lines of the hexagram) exactly correspond to each other, but are without any interaction; hence it is said that '(the subject of the hexagram) has no consciousness of self; that when he walks in his courtyard, he does not see (any of) the persons in it; and that there will be no error.'
 
 <a id="p-257"/>
 
 <a id="fr_177"/>[LIII](#fn_177).
 
-1. The advance indicated by [**Jiàn ䷴**](e6b890jian.md) is (like) the marrying of a young lady which is attended by good fortune.
+1. The advance indicated by [**䷴ Jiàn**](e6b890jian.md) is (like) the marrying of a young lady which is attended by good fortune.
 
-2. (The lines) as they advance get into their correct places: -- this indicates the achievements of a successful progress.
-
-The advance is made according to correctness: -- (the subject of the hexagram) might rectify his country.
+2. (The lines) as they advance get into their correct places: -- this indicates the achievements of a successful progress. The advance is made according to correctness: -- (the subject of the hexagram) might rectify his country.
 
 3. Among the places (of the hexagram) we see the strong undivided line in the centre.
 
-4. 'In (the attributes of) restfulness and flexible penetration we have (the assurance of) an (onward) movement that is inexhaustible.
-
-<a id="fr_178"/>[LIV](#fn_178).
-
-1. By [**Guī mèi ䷵**](e5bd92e5a6b9guimei.md) (the marrying away of a younger sister) the great and righteous relation between heaven and earth (is suggested to us). If heaven and earth were to have no intercommunication, things would not grow and flourish as they do. The marriage of a younger sister is the end (of her maidenhood) and the beginning (of her motherhood).
-
-2. We have (in the hexagram the desire of)
+4. In (the attributes of) restfulness and flexible penetration we have (the assurance of) an (onward) movement that is inexhaustible.
 
 <a id="p-258"/>
 
-pleasure and, on the ground of that, movement following. The marrying away is of a younger sister.
+<a id="fr_178"/>[LIV](#fn_178).
 
-3. 'Any action will be evil:' -- the places (of the lines) are not those appropriate to them.
+1. By [**䷵ Guī Mèi**](e5bd92e5a6b9guimei.md) (the marrying away of a younger sister) the great and righteous relation between heaven and earth (is suggested to us). If heaven and earth were to have no intercommunication, things would not grow and flourish as they do. The marriage of a younger sister is the end (of her maidenhood) and the beginning (of her motherhood).
 
-'It will be in no wise advantageous:' -- the weak (third and fifth lines) are mounted on strong lines.
+2. We have (in the hexagram the desire of) pleasure and, on the ground of that, movement following. The marrying away is of a younger sister.
 
-<a id="fr_179"/>[LV](#fn_179).
-
-1. [**Fēng ䷶**](e4b8b0feng.md) has the signification of being great. It is made up of the trigrams (representing)
+3. '*Any action will be evil*:' -- the places (of the lines) are not those appropriate to them. '*It will be in no wise advantageous*:' -- the weak (third and fifth lines) are mounted on strong lines.
 
 <a id="p-259"/>
 
-intelligence and movement directed by that intelligence. It is thus that it has that signification.
+<a id="fr_179"/>[LV](#fn_179).
 
-2. 'The king has reached the condition (denoted by [**Fēng ䷶**](e4b8b0feng.md)):' -- he has still to make it greater.
+1. [**䷶ Fēng**](e4b8b0feng.md) has the signification of being great. It is made up of the trigrams (representing) intelligence and movement directed by that intelligence. It is thus that it has that signification.
 
-'There is no occasion to be anxious. Let him be as the sun at noon:' -- it is for him to cause his light to shine on all under the sky.
+2. 'The king has reached the condition (denoted by [**䷶ Fēng**](e4b8b0feng.md)):' -- he has still to make it greater. '*There is no occasion to be anxious. Let him be as the sun at noon*:' -- it is for him to cause his light to shine on all under the sky.
 
 3. When the sun has reached the meridian height, it begins to decline. When the moon has become full, it begins to wane. The (interaction of) heaven and earth is now vigorous and abundant, now dull and scanty, growing and diminishing according to the seasons. How much more must it be so with (the operations of) men! How much more also with the spiritual agency!
 
-<a id="fr_180"/>[LVI](#fn_180).
-
-1. '[**Lǚ ䷷**](e69785lv.md) indicates that there may be some small attainment and progress:' -- the weak (line) occupies the central place in the outer (trigram), and is obedient to the strong (lines on either side of it). (We have also the attributes of quiet) resting closely attached to intelligence (in the component
-
 <a id="p-260"/>
 
-trigrams). Hence it is said, 'There may be some small attainment and progress. If the stranger or traveller be firm and correct as he ought to be, there will be good fortune.'
+<a id="fr_180"/>[LVI](#fn_180).
 
-2. Great is the time and great is the right course to be taken as intimated in [**Lǚ ䷷**](e69785lv.md)!
+1. '[**䷷ Lǚ**](e69785lv.md) indicates that there may be some small attainment and progress:' -- the weak (line) occupies the central place in the outer (trigram), and is obedient to the strong (lines on either side of it). (We have also the attributes of quiet) resting closely attached to intelligence (in the component trigrams **☶** **☲**). Hence it is said, '*There may be some small attainment and progress. If the stranger or traveller be firm and correct as he ought to be, there will be good fortune.*'
+
+2. Great is the time and great is the right course to be taken as intimated in [**䷷ Lǚ**](e69785lv.md)!
 
 <a id="fr_181"/>[LVII](#fn_181).
 
-1. The double [**Xùn ䷸**](e5b7bdxun.md) shows how, in accordance with it, (governmental) orders are reiterated.
+1. The double [**䷸ Xùn**](e5b7bdxun.md) shows how, in accordance with it, (governmental) orders are reiterated.
 
-2. (We see that) the strong (fifth line) has penetrated into the central and correct place, and the will (of its subject) is being carried into effect; (we see also) the weak (first and fourth lines) both obedient to the strong lines (above them). It is hence said, 'There will be some little attainment and progress. There will be advantage in movement onward in whatever direction. It will be advantageous also to see the great man.'
+2. (We see that) the strong (fifth line) has penetrated into the central and correct place, and the will (of its subject) is being carried into effect; (we see also) the weak (first and fourth lines) both obedient to the strong lines (above them). It is hence said, '*There will be some little attainment and progress. There will be advantage in movement onward in whatever direction. It will be advantageous also to see the great man.*'
 
 <a id="p-261"/>
 
 <a id="fr_182"/>[LVIII](#fn_182).
 
-1. [**Duì ䷹**](e58591dui.md) has the meaning of pleased satisfaction.
+1. [**䷹ Duì**](e58591dui.md) has the meaning of pleased satisfaction.
 
-2. (We have) the strong (lines) in the centre, and the weak (lines) on the outer edge (of the two trigrams), (indicating that) in pleasure what is most advantageous is the maintenance of firm correctness. Through this there will be found an accordance with (the will of) heaven, and a correspondence with (the feelings of) men. When (such) pleasure goes before the people, (and leads them on), they forget their toils; when it animates them in encountering difficulties, they forget (the risk of) death. How great is (the power of) this pleased satisfaction, stimulating in such a way the people!
+2. (We have) the strong (lines) in the centre, and the weak (lines) on the outer edge (of the two trigrams **☱** **☱**), (indicating that) in pleasure what is most advantageous is the maintenance of firm correctness. Through this there will be found an accordance with (the will of) heaven, and a correspondence with (the feelings of) men. When (such) pleasure goes before the people, (and leads them on), they forget their toils; when it animates them in encountering difficulties, they forget (the risk of) death. How great is (the power of) this pleased satisfaction, stimulating in such a way the people!
 
 <a id="fr_183"/>[LIX](#fn_183).
 
-1. '[**Huàn ䷺**](e6b6a3huan.md) intimates that there will be progress and success:' -- (we see) the strong line (in the second place) of the lower trigram, and not suffering any extinction there; and (also) the weak line occupying its place in the outer trigram, and uniting (its action) with that of the line above.
+1. '[**䷺ Huàn**](e6b6a3huan.md) intimates that there will be progress and success:' -- (we see) the strong line (in the second place) of the lower trigram, and not suffering any extinction there; and (also) the weak line occupying its place in the outer trigram, and uniting (its action) with that of the line above.
 
-2. 'The king goes to his ancestral temple:' -- the king's (mind) is without any deflection.
+2. '*The king goes to his ancestral temple*:' -- the king's (mind) is without any deflection.
 
-3. 'It will be advantageous to cross the great stream:' -- (the subject of the hexagram) rides in
+3. '*It will be advantageous to cross the great stream*:' -- (the subject of the hexagram) rides in (a vessel of) wood (over water), and will do so with success.
 
 <a id="p-262"/>
 
-(a vessel of) wood (over water), and will do so with success.
-
 <a id="fr_184"/>[LX](#fn_184).
 
-1. '[**Jié ䷻**](e88a82jie.md) intimates progress and attainment:' -- the strong and weak (lines) are equally divided, and the strong lines occupy the central places.
+1. '[**䷻ Jié**](e88a82jie.md) intimates progress and attainment:' -- the strong and weak (lines) are equally divided, and the strong lines occupy the central places.
 
-2. 'If the regulations (which [**Jié ䷻**](e88a82jie.md) prescribes) be severe and difficult, they cannot be permanent:'--its course (of action) will in that case come to an end.
+2. 'If the regulations (which [**䷻ Jié**](e88a82jie.md) prescribes) be severe and difficult, they cannot be permanent:'--its course (of action) will in that case come to an end.
 
 3. (We have the feeling of) pleasure and satisfaction directing the course amidst peril. (We have) all regulations controlled (by authority) in its proper place. (We have) free action proceeding from the central and correct position.
 
@@ -318,109 +298,103 @@ trigrams). Hence it is said, 'There may be some small attainment and progress. I
 
 <a id="fr_185"/>[LXI](#fn_185).
 
-1. In [**Zhōng Fú ䷼**](e4b8ade5ad9azhongfu.md) we have the (two) weak lines in the innermost part (of the figure), and strong lines occupying the central places (in the trigrams). (We have the attributes) of pleased satisfaction and flexible penetration. Sincerity (thus symbolled) will transform a country.
+1. In [**䷼ Zhōng Fú**](e4b8ade5ad9azhongfu.md) we have the (two) weak lines in the innermost part (of the figure), and strong lines occupying the central places (in the trigrams **☱** **☴**). (We have the attributes) of pleased satisfaction and flexible penetration. Sincerity (thus symbolled) will transform a country.
 
-2. 'Pigs and fish (are moved), and there will be good fortune:' -- sincerity reaches to (and affects even) pigs and fishes.
+2. '*Pigs and fish (are moved), and there will be good fortune*:' -- sincerity reaches to (and affects even) pigs and fishes. '*There will be advantage in crossing the great stream*:' -- (we see in the figure) one riding on (the emblem of) wood, which forms an empty boat.
 
-'There will be advantage in crossing the great stream:' -- (we see in the figure) one riding on (the emblem of) wood, which forms an empty boat.
-
-3. In (the exercise of the virtue denoted by) [**Zhōng Fú ䷼**](e4b8ade5ad9azhongfu.md), (it is said that) 'there will be advantage in being firm and correct:' -- in that virtue indeed we have the response (of man) to Heaven.
+3. In (the exercise of the virtue denoted by) [**䷼ Zhōng Fú**](e4b8ade5ad9azhongfu.md), (it is said that) '*there will be advantage in being firm and correct*:' -- in that virtue indeed we have the response (of man) to Heaven.
 
 <a id="p-264"/>
 
 <a id="fr_186"/>[LXII](#fn_186).
 
-1. In [**Xiǎo Guò ䷽**](e5b08fe8bf87xiaoguo.md) (we see) the small (lines) exceeding the others, and (giving the intimation of) progress and attainment.
+1. In [**䷽ Xiǎo Guò**](e5b08fe8bf87xiaoguo.md) (we see) the small (lines) exceeding the others, and (giving the intimation of) progress and attainment.
 
-2. Such 'exceeding, in order to its being advantageous, must be associated with firmness and correctness:' -- that is, it must take place (only) according to (the requirements of) the time.
+2. Such '*exceeding, in order to its being advantageous, must be associated with firmness and correctness*:' -- that is, it must take place (only) according to (the requirements of) the time.
 
 3. The weak (lines) are in the central places, and hence (it is said that what the name denotes) may be done in small affairs, and there will be good fortune.
 
-4. Of the strong (lines one) is not in its proper place, and (the other) is not central, hence it is said that (what the name denotes) 'should not be done in great affairs.'
+4. Of the strong (lines one) is not in its proper place, and (the other) is not central, hence it is said that (what the name denotes) '*should not be done in great affairs*.'
 
-5. (In the hexagram) we have 'the symbol of a bird on the wing, and of the notes that come down from such a bird, for which it is better to descend than to ascend, thereby leading to great good fortune:' -- to ascend is contrary to what is reasonable in the case, while to descend is natural and right.
+5. (In the hexagram) we have '*the symbol of a bird on the wing, and of the notes that come down from such a bird, for which it is better to descend than to ascend, thereby leading to great good fortune*:' -- to ascend is contrary to what is reasonable in the case, while to descend is natural and right.
 
 <a id="p-265"/>
 
 <a id="fr_187"/>[LXIII](#fn_187).
 
-1. '[**Jì Jì ䷾**](e697a2e6b58ejiji.md) intimates progress and success:' -- in small matters, that is, there will be that progress and success.
+1. '[**䷾ Jì Jì**](e697a2e6b58ejiji.md) intimates progress and success:' -- in small matters, that is, there will be that progress and success.
 
-2. 'There will be advantage in being firm and correct:' -- the strong and weak (lines) are correctly arranged, each in its appropriate place.
+2. '*There will be advantage in being firm and correct*:' -- the strong and weak (lines) are correctly arranged, each in its appropriate place.
 
-3. 'There has been good fortune in the beginning: -- the weak (second line) is in the centre.
+3. '*There has been good fortune in the beginning*:' -- the weak (second line) is in the centre.
 
-4. 'In the end' there is a cessation (of effort), and 'disorder arises:' -- the course (that led to rule and order) is (now) exhausted.
+4. `In the end` there is a cessation (of effort), and `disorder arises`: -- the course (that led to rule and order) is (now) exhausted.
 
 <a id="fr_188"/>[LXIV](#fn_188).
 
-1. '[**Wèi Jì ䷿**](e69caae6b58eweiji.md) intimates progress and success (in the circumstances which it implies):'--the weak (fifth) line is in the centre.
+1. '[**䷿ Wèi Jì**](e69caae6b58eweiji.md) intimates progress and success (in the circumstances which it implies):'--the weak (fifth) line is in the centre.
 
-2. 'The young fox has nearly crossed the stream:' -- but he has not yet escaped from the midst (of the danger and calamity).
+2. '*The young fox has nearly crossed the stream*:' -- but he has not yet escaped from the midst (of the danger and calamity). 'Its tail gets immersed. There will be no advantage in any way:'--there is not at the end a continuance (of the purpose) at the beginning. Although the places (of the different lines) are not those appropriate to them, yet a strong (line) and a weak (line always) respond to each other.
 
 <a id="p-266"/>
 
-'Its tail gets immersed. There will be no advantage in any way:'--there is not at the end a continuance (of the purpose) at the beginning. Although the places (of the different lines) are not those appropriate to them, yet a strong (line) and a weak (line always) respond to each other.
-
 ## Footnotes
 
-<a id="fn_155"/>[238:XXXI](#fr_155) Paragraph 2. **Duì ☱**, the upper trigram, is weak and `yīn`; and **Gèn ☶**, the lower, is strong and `yáng`; see Appendixes [III, ii, 4](/appendix03s2.md#p-380), and [V, 10](appendix05s1.md#p-427). **Gèn ☶** is below **Duì ☱**; whereas the subject of the lower trigram should always take the initiative in these figures.
+<a id="fn_155"/>[238:XXXI](#fr_155) Paragraph 2. **☱ Duì**, the upper trigram, is weak and `yīn`; and **☶ Gèn**, the lower, is strong and `yáng`; see [Appendixes III, ii, 4](/appendix03s2.md#p-380), and [V, 10](appendix05s1.md#p-427). **☶ Gèn** is below **☱ Duì**; whereas the subject of the lower trigram should always take the initiative in these figures.
 
-<a id="fn_156"/>[239:XXXII](#fr_156) All the conditions in paragraph 1 must be understood as leading to the indication of progress and success, which is explained in paragraph 2, and illustrated by the analogy of the course of heaven and earth.
-
-'Movement in any direction,' as explained in paragraph 3, indicates the ever-occurring new modes and spheres of activity, to which he who is firm and correct is called.
+<a id="fn_156"/>[239:XXXII](#fr_156) All the conditions in paragraph 1 must be understood as leading to the indication of progress and success, which is explained in paragraph 2, and illustrated by the analogy of the course of heaven and earth. `Movement in any direction`, as explained in paragraph 3, indicates the ever-occurring new modes and spheres of activity, to which he who is firm and correct is called.
 
 Paragraph 4, and especially its concluding sentence, are of a meditative and reflective character not uncommon in the treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan).
 
-<a id="fn_157"/>[240:XXXIII](#fr_157) 'The superior man,' it is said, 'advances or withdraws according to the character of the time. The strength and correct position of the fifth line show that he is able to maintain himself; and as it is responded to by the weak second line, no opposition to what is correct in him would come from any others. He might therefore keep his place; but looking at the two weak lines, 1 and 2, he recognises in them the advance and irrepressible progress of small men, and that for a time it is better for him to give way and withdraw from the field. Thus there is successful progress even in his retiring.'
+<a id="fn_157"/>[240:XXXIII](#fr_157) `The superior man`, it is said, 'advances or withdraws according to the character of the time. The strength and correct position of the fifth line show that he is able to maintain himself; and as it is responded to by the weak second line, no opposition to what is correct in him would come from any others. He might therefore keep his place; but looking at the two weak lines, 1 and 2, he recognises in them the advance and irrepressible progress of small men, and that for a time it is better for him to give way and withdraw from the field. Thus there is successful progress even in his retiring.'
 
-<a id="fn_158"/>[240:XXXIV](#fr_158) Paragraph 1. 'That which is great' denotes, in the first place, the group of four strong lines which strikes us on [p. 241](#p-241) looking at the figure, and then the superior man, or the strong men in positions of power, of whom these are the representatives. **Qián ☰** is the trigram of strength, and **Zhèn ☳** that of movement.
+<a id="fn_158"/>[240:XXXIV](#fr_158) Paragraph 1. `That which is great` denotes, in the first place, the group of four strong lines which strikes us on [p. 241](#p-241) looking at the figure, and then the superior man, or the strong men in positions of power, of whom these are the representatives. **☰ Qián** is the trigram of strength, and **☳ Zhèn** that of movement.
 
-Paragraph 2. That which is great (should be) correct: -- that the 'should be' must be supplied in the translation appears from this, that the paragraph is intended to illustrate the text that 'it will be advantageous to be firm and correct.' The power of man becomes then a reflexion of the great power which we see working in nature, 'impartially,' 'unselfishly.'
+Paragraph 2. That which is great (should be) correct: -- that the `should be` must be supplied in the translation appears from this, that the paragraph is intended to illustrate the text that '*it will be advantageous to be firm and correct*.' The power of man becomes then a reflexion of the great power which we see working in nature, `impartially`, `unselfishly`.
 
-<a id="fn_159"/>[241:XXXV](#fr_159) To those who advocate the view that the hexagrams of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) have been formed by changes of the lines in manipulating with the divining stalks, the words of paragraph 2, that we have in the figure 'the weak line advanced and moving above,' suggest the derivation of [**Jìn ䷢**](e6998bjin.md) from [**Guān ䷓**](e8a782guan.md), whose 4th and 5th lines are made to change places ( **䷓ -> ䷢** ). But we have seen that that view is inadmissible in the interpretation of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). And a simple explanation of the language at once presents itself. As [Xiàng Ānshì](https://ctext.org/library.pl?if=en&res=865&by_author=項安世&remap=gb) (Sòng dynasty) says, 'Of the three "daughter" trigrams it is only **Lí ☲** which has its divided line occupying the central place of honour, when it is the upper trigram in a hexagram.'
+<a id="fn_159"/>[241:XXXV](#fr_159) To those who advocate the view that the hexagrams of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) have been formed by changes of the lines in manipulating with the divining stalks, the words of paragraph 2, that we have in the figure 'the weak line advanced and moving above,' suggest the derivation of [**䷢ Jìn**](e6998bjin.md) from [**䷓ Guān**](e8a782guan.md), whose 4th and 5th lines are made to change places ( **䷓ -> ䷢** ). But we have seen that that view is inadmissible in the interpretation of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). And a simple explanation of the language at once presents itself. As [Xiàng Ān Shì](https://ctext.org/library.pl?if=en&res=865&by_author=項安世&remap=gb) (Sòng dynasty) says, 'Of the three `daughter` trigrams (**☱**, **☲**, and **☴**) it is only **☲** which has its divided line occupying the central place of honour, when it is the upper trigram **☲** in a hexagram **䷢**.'
 
-<a id="fn_160"/>[242:XXXVI](#fr_160) The sun disappearing, as we say, 'below the earth,' or, as the Chinese writer conceives it, I into the midst of, or within the earth,' sufficiently indicates the obscuration or wounding of brightness, -- the repression and resistance of the good and bright.
+<a id="fn_160"/>[242:XXXVI](#fr_160) The sun disappearing, as we say, `below the earth`, or, as the Chinese writer conceives it, '*into the midst of, or within the earth*,' sufficiently indicates the obscuration or wounding of brightness, -- the repression and resistance of the good and bright.
 
-[king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was not of the line of Shang. Though opposed and persecuted by its sovereign, he could pursue his own course, till his line came in the end to supersede the other. It could not be so with the count of Kî, who was a member of the House of Shang. He could do nothing that would help on its downfall.
+[King Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was not of the line of [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty). Though opposed and persecuted by its sovereign, he could pursue his own course, till his line came in the end to supersede the other. It could not be so with the [count of Jī](https://ctext.org/dictionary.pl?if=gb&char=姬&remap=gb), who was a member of the House of [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty). He could do nothing that would help on its downfall.
 
-<a id="fn_161"/>[242:XXXVII](#fr_161) Paragraph 1 first explains the statement of the [p. 243](#p-243) [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan), about the wife, represented by line 2; and then proceeds to the husband, represented by line 5. The two trigrams become representative of the family circle, and the wide world without it. In the reference to heaven and earth it is not supposed that they are really husband and wife; but in their relation and positions they symbolise that social relation and the individuals in it.
+<a id="fn_161"/>[242:XXXVII](#fr_161) Paragraph 1 first [explains the statement](#p-243) of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan), about the wife, represented by line 2; and then proceeds to the husband, represented by line 5. The two trigrams become representative of the family circle, and the wide world without it. In the reference to heaven and earth it is not supposed that they are really husband and wife; but in their relation and positions they symbolise that social relation and the individuals in it.
 
-Paragraph 2, more closely rendered, would be -- 'That in [**Jiā Rén ䷤**](e5aeb6e4babajiaren.md) there is an authoritative ruler is a way of naming father and mother.' Does the writer mean to say that while the assertion of authority was indispensable in a family, that authority must have combined in it both force and gentleness?
+Paragraph 2, more closely rendered, would be -- 'That in [**䷤ Jiā Rén**](e5aeb6e4babajiaren.md) there is an authoritative ruler is a way of naming father and mother.' Does the writer mean to say that while the assertion of authority was indispensable in a family, that authority must have combined in it both force and gentleness?
 
-<a id="fn_162"/>[243:XXXVIII](#fr_162) In paragraph 1 we have first an explanation of the meaning of [**Kuí ䷥**](e79dbdkui.md) from the symbolism of [Fú-xī](https://en.wikipedia.org/wiki/Fuxi). Then follows [an explanation](#p-244) from that ascribed to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou), where **Duì ☱** represents the youngest daughter and **Lí ☲** the second. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe that in many hexagrams we have two daughters dwelling together, but that only in this and 49 ([**䷰**](e99da9ge.md)) is attention called to it. The reason, they say, is that in those two diagrams the sisters are the second and third daughters, while in the others one of them is the eldest, whose place and superiority are fixed, so that between her and either of the others there can be no division or collision.
+<a id="fn_162"/>[243:XXXVIII](#fr_162) In paragraph 1 we have first an explanation of the meaning of [**䷥ Kuí**](e79dbdkui.md) from the symbolism of [Fú Xī](https://en.wikipedia.org/wiki/Fuxi). Then follows [an explanation](#p-244) from that ascribed to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou), where **☱ Duì** represents the youngest daughter and **☲ Lí** the second. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe that in many hexagrams we have two daughters dwelling together, but that only in this and [49 ䷰](e99da9ge.md)) is attention called to it. The reason, they say, is that in those two diagrams the sisters are the second and third daughters, while in the others one of them is the eldest, whose place and superiority are fixed, so that between her and either of the others there can be no division or collision.
 
-About what is said, in paragraph 2, on the weak line, as advanced and acting above, see the note on hexagram 35.
+About what is said, in paragraph 2, on the weak line, as advanced and acting above, see the note on [hexagram 35 ䷢](e6998bjin.md).
 
 The lesson of paragraph 3 is not unity in diversity, but union with diversity.
 
-<a id="fn_163"/>[244:XXXIX](#fr_163) The upper or front trigram is **Kǎn ☵**, the attribute of which is perilousness; the lower is **Gèn ☶**, of which the arresting, actively or passively, of movement or advance is the attribute. We can understand how the union of these attributes gives the ideas of difficulty and prudent caution.
+<a id="fn_163"/>[244:XXXIX](#fr_163) The upper or front trigram is **☵ Kǎn**, the attribute of which is perilousness; the lower is **☶ Gèn**, of which the arresting, actively or passively, of movement or advance is the attribute. We can understand how the union of these attributes gives the ideas of difficulty and prudent caution.
 
-The explanations in paragraph 2 of the phraseology of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) p. 245 are not all easily followed. It is said that the advantageousness of the south-west is due to the central line in 5; but if we are to look for the meaning of south-west in **Kūn ☷**, as in the diagram of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s trigrams, there is no strong central line in it. May **Kǎn ☵**, as a `yáng` trigram, be used for **Kūn ☷**?
+The explanations in paragraph 2 of the phraseology of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) [are not all easily followed](#p-245). It is said that the advantageousness of the south-west is due to the central line in 5; but if we are to look for the meaning of south-west in **☷ Kūn**, as in the diagram of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s trigrams, there is no strong central line in it. May **☵ Kǎn**, as a `yáng` trigram, be used for **☷ Kūn**?
 
 <a id="fn_164"/>[245:XL](#fr_164)
 
-1. The meaning of the hexagram is brought out sufficiently well in paragraph 1 by means of the attributes of the constituent trigrams.
+1. The meaning of the hexagram is brought out sufficiently well in paragraph 1 by means of the attributes of the constituent trigrams (**☵** **☳**).
 
-2. How it is that the movement indicated in the first condition will, win' all does not immediately appear. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that 'moving to the south and west' is the same as 'returning back to the old conditions,' and that 'winning all' and acting 'according to the due medium' are descriptive of the effect and method without reference to the symbolism. Another explanation might be devised; but I prefer to leave the matter in doubt.
+2. How it is that the movement indicated in the first condition will, win' all does not immediately appear. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say that '*moving to the south and west*' is the same as '*returning back to the old conditions*,' and that '*winning all*' and acting '*according to the due medium*' are descriptive of the effect and method without reference to the symbolism. Another explanation might be devised; but I prefer to leave the matter in doubt.
 
 3. Paragraph 3 shows the analogy of what takes place in nature to the beneficent social and political changes described in the text, as is done very frequently in this Appendix.
 
 <a id="fn_165"/>[246:XLI](#fr_165)
 
-1. All that we see is two undivided lines in the lower trigram, and then a divided one, and exactly the opposite in the upper. But the whole figure could not but have this form from the process of its formation, whether by the gradual addition of the two primitive lines, or by the imposition of the whole trigrams on one another. To say that the upper lines of **Qián ☰** and **Kūn ☷** changed places to express the idea of subjects contributing in taxes to the maintenance of their ruler is absurd; and if that thought were in the mind of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (which I very much doubt), it would only show how he projected his own idea, formed independently of the figure, into its lines.
+1. All that we see is two undivided lines in the lower trigram, and then a divided one, and exactly the opposite in the upper. But the whole figure could not but have this form from the process of its formation, whether by the gradual addition of the two primitive lines, or by the imposition of the whole trigrams on one another. To say that the upper lines of **☰ Qián** and **☷ Kūn** changed places to express the idea of subjects contributing in taxes to the maintenance of their ruler is absurd; and if that thought were in the mind of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (which I very much doubt), it would only show how he projected his own idea, formed independently of the figure, into its lines.
 
-2. On the second sentence, the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say: -- 'When a minister devotes his life in the service of his lord, or the people undertake their various labours in behalf of their government, these are instances of the ministering of those below to increase those above. But in this way the intercourse of the two becomes close and their aims become the same; -- does not the method of action of those below communicate itself to those above?'
+2. On the second sentence, the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say: -- '*When a minister devotes his life in the service of his lord, or the people undertake their various labours in behalf of their government, these are instances of the ministering of those below to increase those above. But in this way the intercourse of the two becomes close and their aims become the same; -- does not the method of action of those below communicate itself to those above?*'
 
-3. In paragraph 2 the subject of contribution, such as the payment of [p. 247](#p-247) taxes, passes into the background. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say: 'What is meant by diminishing in this hexagram is the regulation of expenditure or contribution according to the time. This would vary in a family according to its poverty or wealth; and in a state according to the abundance or scantiness of its resources. When it is said that there must be sincerity along with a diminution, it means that though such a diminution cannot be helped, yet what is given should be given sincerely. A small sacrifice sincerely offered is accepted. In the language, "There is a time when the strong should be diminished and the weak be strengthened," we are not to find the two baskets in the diminution of the strong. "The strong" is what is essential, -- in this case sincerity; "The weak" is what is unimportant, -- the amount and manner of the offering. If one supplement the insufficiency of his offering with the abundance of his sincerity, the insignificance of his two baskets will not be despised.'
+3. In paragraph 2 the subject of contribution, such as the [payment of taxes](#p-247), passes into the background. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say: 'What is meant by diminishing in this hexagram is the regulation of expenditure or contribution according to the time. This would vary in a family according to its poverty or wealth; and in a state according to the abundance or scantiness of its resources. When it is said that there must be sincerity along with a diminution, it means that though such a diminution cannot be helped, yet what is given should be given sincerely. A small sacrifice sincerely offered is accepted. In the language, "There is a time when the strong should be diminished and the weak be strengthened," we are not to find the two baskets in the diminution of the strong. "The strong" is what is essential, -- in this case sincerity; "The weak" is what is unimportant, -- the amount and manner of the offering. If one supplement the insufficiency of his offering with the abundance of his sincerity, the insignificance of his two baskets will not be despised.'
 
 <a id="fn_166"/>[248:XLII](#fr_166)
 
 1. The process of the formation of the trigrams here is the reverse of that in the preceding hexagram; and is open to the remarks I have made on that. Of course the people are full of complacency and pleasure in the labours of their ruler for their good.
 
-2. The mention of 'the action of wood' has reference to the upper trigram **Xùn ☴**, which is the symbol both of wind and wood. From wood boats and ships are made, on which the great stream may be crossed. In three hexagrams, this, 59, and 61, of which **Xùn ☴** is a part, we find mention made of crossing the great stream. It is generally said that the lower trigram Kăn also symbolises wood; but that is obtained by a roundabout process. **Zhèn ☳** occupies the place of the east in [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s arrangement of the trigrams; but the east symbolises spring, when the growth of vegetation begins; and therefore **Zhèn ☳** may symbolise wood! It was stated on [Bā Guà Figure](bagua.png), that the doctrine of 'the five elements' does not appear in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) takes wood (木 `mù`), 'as a misprint for increase (益 `yì`).'
+2. The mention of 'the action of wood' has reference to the upper trigram **☴ Xùn**, which is the symbol both of wind and wood. From wood boats and ships are made, on which the great stream may be crossed. In three hexagrams, [this ䷩](e79b8ayi.md), [59 ䷺](e6b6a3huan.md), and [61 ䷼](e4b8ade5ad9azhongfu.md), of which **☴ Xùn** is a part, we find mention made of crossing the great stream. It is generally said that the lower trigram **☳ Zhèn** also symbolises wood; but that is obtained by a roundabout process. **☳ Zhèn** occupies the place of the east in [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou)'s [arrangement of the trigrams](later_heaven.jpg); but the east symbolises spring, when the growth of vegetation begins; and therefore **Zhèn ☳** may symbolise wood! It was stated on [Bā Guà Figure](bagua.png), that the doctrine of '[the five elements](wuxing.png)' does not appear in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) takes wood `mù`([木](https://ctext.org/dictionary.pl?if=en&char=木), 'as a misprint for increase `yì`([益](https://ctext.org/dictionary.pl?if=en&char=益)).'
 
-3. The words 'heaven dispensing and earth producing' are based on the fancied genesis of the figure from **Qián ☰** and **Kūn ☷** (image hex111000).
+3. The words `heaven dispensing and earth producing` are based on the fancied genesis of the figure from **☰** and **☷** (**䷋**).
 
 <a id="fn_167"/>[249:XLIII](#fr_167)
 
