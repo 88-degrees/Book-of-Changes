@@ -61,7 +61,7 @@ Line 1 is strong, and at the bottom of the trigram **☲** for fire, the nature 
 
 Line 2 is weak, and occupies the centre. Yellow is one of the five correct colours, and here symbolises the correct course to which the subject of the line adheres.
 
-Line 3 is at the top of the lower trigram **☲**, whose light may be considered exhausted, and suggests the symbol of the declining sun. The subject of the line should accept the position, and resign himself to the ordinary amusements which are mentioned, but he groans and mourns instead. His strength interferes with the lowly contentment which he should cherish.
+Line 3 is at the top of the lower trigram **☲**, whose light may be considered exhausted, and suggests [the symbol of the declining sun](https://ctext.org/dictionary.pl?if=en&id=25542). The subject of the line should accept the position, and resign himself to the ordinary amusements which are mentioned, but he groans and mourns instead. His strength interferes with the lowly contentment which he should cherish.
 
 The strength of line 4, and its being in an even place, make its subject appear in this unseemly manner, disastrous to himself.
 
