@@ -4,7 +4,7 @@
 
 <a id="fr_155"/>[XXXI](#fn_155).
 
-1. [**䷞ Xián**](e592b8xian.md) (咸) is here used in the sense of `Gǎn`([感](https://ctext.org/dictionary.pl?if=en&char=感)), meaning (mutually) influencing.
+1. [**䷞ Xián**](e592b8xian.md) (咸) is here used in the sense of `gǎn`([感](https://ctext.org/dictionary.pl?if=en&char=感)), meaning (mutually) influencing.
 
 2. The weak (trigram **☱**) above, and the strong one below; their two influences moving and responding to each other, and thereby forming a union; the repression (of the one) and the satisfaction (of the other); (with their relative position), where the male is placed below the female: -- all these things convey the notion of 'a free and successful course (on the fulfilment of the conditions), while the advantage will depend on being firm and correct, as in marrying a young lady, and there will be good fortune.'
 
@@ -63,7 +63,7 @@ The case of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was that
 
 2. In [**䷤ Jiā Rén**](e5aeb6e4babajiaren.md) we have the idea of an authoritative ruler; -- that, namely, represented by the parental authority.
 
-3. Let the father be indeed father, and `the son` son; let `the elder brother` be `indeed elder brother`, and `the younger brother` younger brother, let the husband be `indeed husband`, and `the wife` wife: -- then will the family be in its normal state. Bring the family to that state, and all under heaven will be established.
+3. Let the father be indeed father, and the son `son`; let the elder brother be indeed `elder brother`, and the younger brother `younger brother`, let the husband be indeed `husband`, and the wife `wife`: -- then will the family be in its normal state. Bring the family to that state, and all under heaven will be established.
 
 <a id="p-243"/>
 
@@ -79,49 +79,45 @@ The case of [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was that
 
 <a id="fr_163"/>[XXXIX](#fn_163).
 
-1. [**Jiǎn ䷦**](e8b987jian.md) denotes difficulty. There is (the trigram expressive of) perilousness in front. When one, seeing the peril, can arrest his steps (in accordance with the significance of the lower tri. gram), is he not wise?
+1. [**䷦ Jiǎn**](e8b987jian.md) denotes difficulty. There is (the trigram expressive of) perilousness in front. When one, seeing the peril, can arrest his steps (in accordance with the significance of the lower trigram **☶**), is he not wise?
 
-2. (The language of) [**Jiǎn ䷦**](e8b987jian.md), that 'advantage will be found in the south-west,' refers to the (strong fifth line) advanced and in the central place. That 'there will be no advantage in the north-east,' intimates that the way (of dealing with the [**Jiǎn ䷦**](e8b987jian.md) state) is exhausted. That 'it will be advantageous to see the great man,' intimates that advance will lead to achievement. That the places (of the different lines after the first) are those appropriate to them indicates firm correctness and good fortune, with which the regions (of the kingdom) are brought to their normal state. Great indeed is the work to be done in the time of [**Jiǎn ䷦**](e8b987jian.md)!
+2. (The language of) [**䷦ Jiǎn**](e8b987jian.md), that '*advantage will be found in the south-west*,' refers to the (strong fifth line) advanced and in the central place. That '*there will be no advantage in the north-east*,' intimates that the way (of dealing with the [**䷦ Jiǎn**](e8b987jian.md) state) is exhausted. That '*it will be advantageous to see the great man*,' intimates that advance will lead to achievement. That the places (of the different lines after the first) are those appropriate to them indicates firm correctness and good fortune, with which the regions (of the kingdom) are brought to their normal state. Great indeed is the work to be done in the time of [**䷦ Jiǎn**](e8b987jian.md)!
 
 <a id="p-245"/>
 
 <a id="fr_164"/>[XL](#fn_164).
 
-1. In [**Xiè ䷧**](e8a7a3xie.md) we have (the trigram expressive of) peril going on to that expressive of movement. By movement there is an escape from the peril:--(this is the meaning of) Kieh.
+1. In [**䷧ Xiè**](e8a7a3xie.md) we have (the trigram expressive of) peril going on to that expressive of movement. By movement there is an escape from the peril: -- (this is the meaning of) Kieh.
 
-2. 'In (the state indicated by) [**Xiè ䷧**](e8a7a3xie.md), advantage will be found in the south-west:'--the movement (thus) intimated will win all. That 'there will be good fortune in coming back (to the old conditions)' shows that such action is that of the due medium. That 'if some operations be necessary, there will be good fortune in the early conducting of them' shows that such operations will be successful.
+2. 'In (the state indicated by) [**䷧ Xiè**](e8a7a3xie.md), *advantage will be found in the south-west*:' -- the movement (thus) intimated will win all. That '*there will be good fortune in coming back (to the old conditions)*' shows that such action is that of the due medium. That '*if some operations be necessary, there will be good fortune in the early conducting of them*' shows that such operations will be successful.
 
-3. When heaven and earth are freed (from the grasp of winter), we have thunder and rain. When these come, the buds of the plants and trees that produce the various fruits begin to burst. Great indeed are the phenomena in the time intimated by [**Xiè ䷧**](e8a7a3xie.md).
+3. When heaven and earth are freed (from the grasp of winter), we have thunder and rain. When these come, the buds of the plants and trees that produce the various fruits begin to burst. Great indeed are the phenomena in the time intimated by [**䷧ Xiè**](e8a7a3xie.md).
 
 <a id="p-246"/>
 
 <a id="fr_165"/>[XLI](#fn_165).
 
-1. In [**Sǔn ䷨**](e68d9fsun.md) (we see) the lower (trigram) diminished, and the upper added to. (But) the method (of action) implied in this operates also above (or, mounts upwards (also) and operates).
+1. In [**䷨ Sǔn**](e68d9fsun.md) (we see) the lower (trigram **☱**) diminished, and the upper **☶** added to. (But) the method (of action) implied in this operates also above (or, mounts upwards (also) and operates).
 
-2. 'If there be sincerity in this method of diminution, there will be great good fortune; freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made. In what shall this (sincerity in the exercise of [**Sǔn ䷨**](e68d9fsun.md)) be employed? (Even) in sacrifice, two baskets of grain, (though there be nothing else), may be presented:' -- for these two baskets there ought to be the fitting time. There is a time when the strong should be diminished, and the weak should be strengthened. Diminution and increase, overflowing and emptiness: -these take place in harmony with the conditions of the time.
+2. 'If there be sincerity in this method of diminution, there will be great good fortune; freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made. In what shall this (sincerity in the exercise of [**䷨ Sǔn**](e68d9fsun.md)) be employed? (Even) in sacrifice, two baskets of grain, (though there be nothing else), may be presented:' -- for these two baskets there ought to be the fitting time. There is a time when the strong should be diminished, and the weak should be strengthened. Diminution and increase, overflowing and emptiness: -these take place in harmony with the conditions of the time.
 
 <a id="fr_166"/>[XLII](#fn_166).
 
 <a id="p-247"/>
 
-1. In [**Yì ䷩**](e79b8ayi.md) we see the upper (trigram) diminished, and the lower added to. The satisfaction of the people (in consequence of this) is without limit. What descends from above reaches to all below, so great and brilliant is the course (of its operation).
+1. In [**䷩ Yì**](e79b8ayi.md) we see the upper (trigram) diminished, and the lower added to. The satisfaction of the people (in consequence of this) is without limit. What descends from above reaches to all below, so great and brilliant is the course (of its operation).
 
-2. That 'there will be advantage in every movement which shall be undertaken' appears from the central and correct (positions of the second and fifth lines), and the (general) blessing (the dispensing of which they imply).
+2. That '*there will be advantage in every movement which shall be undertaken*' appears from the central and correct (positions of the second and fifth lines), and the (general) blessing (the dispensing of which they imply).
 
-That 'it will be advantageous (even) to cross the great stream' appears from the action of wood (shown in the figure).
+That '*it will be advantageous (even) to cross the great stream*' appears from the action of wood (shown in the figure).
 
-3. [**Yì ䷩**](e79b8ayi.md) is made up of (the trigrams expressive of) movement and docility, (through which) there is daily advancement to an unlimited extent. We have (also) in it heaven dispensing and earth producing, leading to an increase without restriction
+3. [**䷩ Yì**](e79b8ayi.md) is made up of (the trigrams **☳** **☴** expressive of) movement and docility, (through which) there is daily advancement to an unlimited extent. We have (also) in it heaven dispensing and earth producing, leading to an increase without restriction of place. Everything in the method of this increase proceeds according to the requirements of the time. the first lines in each changing places. It was the author of this Appendix, probably, who first introduced that absurd notion in connexion with the formation of [**䷨ Sǔn**](e68d9fsun.md) and [**Yì ䷩**](e79b8ayi.md).
 
 <a id="p-248"/>
 
-of place. Everything in the method of this increase proceeds according to the requirements of the time.
-
-the first lines in each changing places. It was the author of this Appendix, probably, who first introduced that absurd notion in connexion with the formation of [**Sǔn ䷨**](e68d9fsun.md) and [**Yì ䷩**](e79b8ayi.md).
-
 One rhyme runs through and connects these three paragraphs thus: --
 
-'**Yì ䷩** spoils the high, gives to the low;
+'**䷩ Yì** spoils the high, gives to the low;
 The people feel intense delight.
 Down from above to all below,
 The blessing goes, so large and bright.
@@ -129,7 +125,7 @@ Success will every movement mark,
 Central its source, its course aright.
 The great stream even may be crossed,
 When planks of wood their strength unite.
-**Yì ䷩** movement shows and docile feet,
+**䷩ Yì** movement shows and docile feet,
 Which progress day by day invite.
 Heaven gives; productive earth responds;
 Increase crowns every vale and height;
