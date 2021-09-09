@@ -602,9 +602,7 @@ It would be advantageous for him to have the firmness of a brave soldier:' -- hi
 
 4. 'He is on his guard all the day:' -- he is in doubt about something.
 
-5. 'The slaughtering of an ox by the neighbour in the east is not equal to (the small sacrifice of) the neighbour in the west:' -- because the time (in the latter case is more important and fit).
-
-'His sincerity receives the blessing:' -- good fortune comes on a great scale.
+5. 'The slaughtering of an ox by the neighbour in the east is not equal to (the small sacrifice of) the neighbour in the west:' -- because the time (in the latter case is more important and fit). 'His sincerity receives the blessing:' -- good fortune comes on a great scale.
 
 6. 'His head is immersed; the position is perilous:' -- how could such a state continue long?
 
