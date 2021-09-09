@@ -34,7 +34,7 @@ The Orderly Sequence of the Hexagrams <a id="fr_297"/><sub>[a](#fn_297)</sub>
 
 <a id="p-436"/>
 
-The rule for the relation of husband and wife is that it should be long-enduring. Hence [**Xián ䷞**](e592b8xian.md) is followed by [**Héng ䷟**](e68192heng.md). [**Héng ䷟**](e68192heng.md) denotes long enduring.<a id="fr_307"/><sub>[7](#fn_304)</sub>
+The rule for the relation of husband and wife is that it should be long-enduring. Hence [**Xián ䷞**](e592b8xian.md) is followed by [**Héng ䷟**](e68192heng.md). [**Héng ䷟**](e68192heng.md) denotes long enduring. <a id="fr_307"/><sub>[7](#fn_304)</sub>
 
 `32-37` Things cannot long abide in the same place; and hence [**Héng ䷟**](e68192heng.md) is followed by [**Dùn ䷠**](e981afdun.md). [**Dùn ䷠**](e981afdun.md) denotes withdrawing. Things cannot be for ever withdrawn; and hence Thun is succeeded by [**Dà Zhuàng ䷡**](e5a4a7e5a3aedazhuang.md). Things cannot remain forever (simply) in the state of vigour; and hence [**Dà Zhuàng ䷡**](e5a4a7e5a3aedazhuang.md) is succeeded by [**Jìn ䷢**](e6998bjin.md). [**Jìn ䷢**](e6998bjin.md) denotes advancing. (But) advancing is sure to lead to being wounded; and hence [**Jìn ䷢**](e6998bjin.md) is succeeded by [**Míng Yí ䷣**](e6988ee5a4b7mingyi.md). [**Míng Yí ䷣**](e6988ee5a4b7mingyi.md) denotes being wounded. He who is wounded abroad will return to his home; and hence [**Míng Yí ䷣**](e6988ee5a4b7mingyi.md) is followed by [**Jiā Rén ䷤**](e5aeb6e4babajiaren.md).
 
