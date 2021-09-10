@@ -2,7 +2,7 @@
 
 # APPENDIX II
 
-Treatise on the [Symbolism of the Hexagrams](https://ctext.org/book-of-changes/xiang-zhuan), and of the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s Explanations of the several Lines <a id="fr_189"/>[<sub>1</sub>](#fn_189)
+[Treatise on the Symbolism of the Hexagrams](https://ctext.org/book-of-changes/xiang-zhuan), and of the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s Explanations of the several Lines <a id="fr_189"/>[<sub>1</sub>](#fn_189)
 
 ## SECTION I
 
@@ -510,11 +510,11 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 ## Footnotes
 
-<a id="fn_189"/>[267:1](#fr_189) Like the Text under each hexagram, what is said under each in this treatise on its symbolism is divided into two portions. The <sub>[p. 267](#p-267)</sub> first is called 'the Great Symbolism,' and is occupied with the trigrammatic composition of the hexagram, to the statement of which is always subjoined an exhibition of the use which should be, or has been, made of the lesson suggested by the meaning of the whole figure in the administration of affairs, or in self-government. If the treatise be rightly ascribed to Confucius, this practical application of the teaching of the symbols is eminently characteristic of his method in inculcating truth and duty; though we often find it difficult to trace the connexion between his premiss and conclusion. This portion of the treatise will be separated by a double space from what follows, -- 'the Lesser Symbolism,' in the explanations of the several lines.
+<a id="fn_189"/>[267:1](#fr_189) Like the Text under each hexagram, what is said under each in this treatise on its symbolism is divided into two portions. [The first](#p-267) is called '[the Great Symbolism](https://ctext.org/dictionary.pl?if=en&id=25011),' and is occupied with the trigrammatic composition of the hexagram, to the statement of which is always subjoined an exhibition of the use which should be, or has been, made of the lesson suggested by the meaning of the whole figure in the administration of affairs, or in self-government. If the treatise be rightly ascribed to Confucius, this practical application of the teaching of the symbols is eminently characteristic of his method in inculcating truth and duty; though we often find it difficult to trace the connexion between his premiss and conclusion. This portion of the treatise will be separated by a double space from what follows, -- '[the Lesser Symbolism](https://ctext.org/dictionary.pl?if=en&id=25013),' in the explanations of the several lines.
 
 <a id="fn_190"/>[268:I](#fr_190) [**䷀ Qián**](e4b9beqian.md) is formed by redoubling the trigram **☰** of the same name. In the case of other hexagrams of similar formation, the repetition of the trigram is pointed out. That is not done here, according to [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), 'because there is but one heaven.' But the motion of heaven is a complete revolution every day, resumed again the next; so moves 'the unwearied sun from day to day,' making it a good symbol of renewed, untiring effort.
 
-<a id="fn_191"/>[269:II](#fr_191) [**䷁ Kūn**](e59da4kun.md) is formed by redoubling the trigram **☷** of the same name and having 'the earth for its symbol.' As in the former hexagram, the repetition is emphatic, not otherwise affecting the meaning of the hexagram. 'As there is but one heaven,' says [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), 'so there is but one earth.' The first part of 'the Great Symbolism' appears in Canon McClatchie's version as -- '**☷ Kūn** is the generative part of earth.' By 'generative part' he probably means 'the productive or prolific faculty.' If he mean anything else, there comes out a conclusion antagonistic to his own view of the 'mythology' of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). The character Shî, which he translates by 'generative part,' is defined in Dr. Williams' dictionary as 'the virility of males.' Such is the special significance of it. If it were so used here, the earth would be masculine.
+<a id="fn_191"/>[269:II](#fr_191) [**䷁ Kūn**](e59da4kun.md) is formed by redoubling the trigram **☷** of the same name and having 'the earth for its symbol.' As in the former hexagram, the repetition is emphatic, not otherwise affecting the meaning of the hexagram. 'As there is but one heaven,' says [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), 'so there is but one earth.' The first part of '[the Great Symbolism](https://ctext.org/dictionary.pl?if=en&id=25031)' appears in Canon McClatchie's version as -- '**☷ Kūn** *is the generative part of earth*.' By 'generative part' he probably means 'the productive or prolific faculty.' If he mean anything else, there comes out a conclusion antagonistic to his own view of the 'mythology' of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). The character Shî, which he translates by 'generative part,' is defined in Dr. Williams' dictionary as 'the virility of males.' Such is the special significance of it. If it were so used here, the earth would be masculine.
 
 It is difficult to say exactly what the writer meant by -- 'The superior man, in accordance with this, and with his large nature, supports (men and) things.' [Lín Xīyuán](https://ctext.org/searchbooks.pl?if=en&author=林希元) (Míng dynasty) says: -- 'The superior man, in his single person, sustains the burden of all under the sky. The common people depend on him for their rest and enjoyment. Birds and beasts and creeping things, and the tribes of the vegetable kingdom, depend on him for the fulfilment or their destined being. If he be of a narrow mind and cold virtue, how can he help them? Their hope in him would be in vain.'
 
@@ -558,9 +558,9 @@ Kû says that he does not understand what is said under line 6, -- that the occu
 
 It is observed that the returning to (the study of Heaven's) ordinances, and changing the wish to contend, in paragraph 4, are not two things, but only one; '*the ordinances (ming) meaning what is right in principle*.' The wish to contend was wrong in principle, and is now abandoned.
 
-'The robe' takes the place of 'the leathern sash' in paragraph 6; but the sash was merely an appendage of the robe.
+`The robe` takes the place of `the leathern sash` in paragraph 6; but the sash was merely an appendage of the robe.
 
-<a id="fn_196"/>[276:VII](#fr_196) 'The Great Symbolism' here is not more satisfactory than in other paragraphs of it which have already come before us. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says: -- 'As the water is not outside the earth, so soldiers are not outside the people. Therefore if (a ruler) be able to nourish the people, he can get the multitudes (of his hosts).' Is the meaning this, -- that originally the people and soldiers are one body; that a portion of the people are taken out from among the mass, as occasion requires, to do the duty of soldiers; and that the nourishment and education of the people is the best way to have good soldiers ready for use on any emergency? Compare the saying of Confucius in [Analects XIII, xxx](https://ctext.org/dictionary.pl?if=en&id=1435&remap=gb).
+<a id="fn_196"/>[276:VII](#fr_196) '[The Great Symbolism](https://ctext.org/dictionary.pl?if=en&id=25123)' here is not more satisfactory than in other paragraphs of it which have already come before us. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says: -- 'As the water is not outside the earth, so soldiers are not outside the people. Therefore if (a ruler) be able to nourish the people, he can get the multitudes (of his hosts).' Is the meaning this, -- that originally the people and soldiers are one body; that a portion of the people are taken out from among the mass, as occasion requires, to do the duty of soldiers; and that the nourishment and education of the people is the best way to have good soldiers ready for use on any emergency? Compare the saying of Confucius in [Analects XIII, xxx](https://ctext.org/dictionary.pl?if=en&id=1435&remap=gb).
 
 What is said on the second line, that the general 'has received the favour of Heaven,' refers of course to the entire confidence reposed in him by the ruler or king, the subject of line 5. In this way `tiān`([天](https://en.wikipedia.org/wiki/Tian)) here is equal to `tiān wáng`([天王](https://en.wiktionary.org/wiki/天王)), so frequent in the `Spring and Autumn`, and meaning -- '[King by the grace of Heaven.](#p-277)' But the great powers given to the general are from the king's wish through him to promote the good of all the nation.
 
@@ -568,7 +568,7 @@ In military operations there must be one ruling will and mind. A divided authori
 
 Other ways can be found to reward small men. They ought not to be placed in situations where the condition of others will depend on them.
 
-<a id="fn_197"/>[278:VIII](#fr_197) `Water upon the face of the earth` is supposed to be an emblem of close union. Of the mere fact of close union this may be accepted as a fair illustration, and of its completeness. Some other symbolism might set forth better the tendency of parties to union, and their seeking it. What is said about the ancient kings is more pertinent to the meaning of the hexagram than in many other applications in 'the Great Symbolism.' The king appears in it not only as the centre, but as the cause, of union.
+<a id="fn_197"/>[278:VIII](#fr_197) `Water upon the face of the earth` is supposed to be an emblem of close union. Of the mere fact of close union this may be accepted as a fair illustration, and of its completeness. Some other symbolism might set forth better the tendency of parties to union, and their seeking it. What is said about the ancient kings is more pertinent to the meaning of the hexagram than in many other applications in '[the Great Symbolism](https://ctext.org/dictionary.pl?if=en&id=25141).' The king appears in it not only as the centre, but as the cause, of union.
 
 `The other advantages` under line 1 refer to all the benefits that will result from sincerity and union, which are in themselves good.
 
@@ -590,19 +590,19 @@ Under line 6 we are told that the restraint is at its height, and the restrained
 
 > Good man! hold hard. Obstructions rule.'
 
-<a id="fn_199"/>[281:X](#fr_199) 'The sky above and a marsh lying below it is true,' says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'in nature and reason; and so should be the rules of propriety on which men tread.' This symbolism is far-fetched; and so is the application of it, if in any way drawn from it. But it is true that the members of a community or nation must keep their several places and duties in order to its being in a state of good order.
+<a id="fn_199"/>[281:X](#fr_199) '*The sky above and a marsh lying below it is true*,' says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'in nature and reason; and so should be the rules of propriety on which men tread.' This symbolism is far-fetched; and so is the application of it, if in any way drawn from it. But it is true that the members of a community or nation must keep their several places and duties in order to its being in a state of good order.
 
 For lines 1, 2, 3, and 4, see notes on the Text.
 
 If we might translate the conclusion of what is said on line 5, by -- 'in the position that is correctly appropriate to him,' the meaning would he more clear, though still the assumption which I have pointed out on the Text would underlie the statement; and as evidently as there, what is said under line 6 is but a truism.
 
-<a id="fn_200"/>[282:XI](#fr_200) It is difficult to translate the application of '[the Great Symbolism](https://ctext.org/book-of-changes/xiang-zhuan)' here, so that it shall be intelligible to a reader. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- '*A ruler should frame his laws; and regulations so that the people may avail themselves of the seasons of heaven, and of the advantages afforded by the earth, assisting their transforming and nourishing services, and completing their abundant and admirable benefits. Thus the breath of spring, calling forth all vegetable life, gives the law for sowing and planting; the breath of autumn, completing and solidifying all things, gives the law for ingathering and storing,*' &c.
+<a id="fn_200"/>[282:XI](#fr_200) It is difficult to translate the application of '[the Great Symbolism](https://ctext.org/dictionary.pl?if=en&id=25195)' here, so that it shall be intelligible to a reader. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- '*A ruler should frame his laws; and regulations so that the people may avail themselves of the seasons of heaven, and of the advantages afforded by the earth, assisting their transforming and nourishing services, and completing their abundant and admirable benefits. Thus the breath of spring, calling forth all vegetable life, gives the law for sowing and planting; the breath of autumn, completing and solidifying all things, gives the law for ingathering and storing,*' &c.
 
 The subject of line 1 has '*his will on what is external to himself*:' -- he is bent on going forward.
 
 [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) explains what is said on paragraph 4, that the upper lines 'are out of their real place where they are,' or, literally, 'have lost their substantiality,' by the remark that 'their proper place, as being weak lines, is below.' The editors of the imperial edition prefer another explanation, on which I need not enter.
 
-<a id="fn_201"/>[283:XII](#fr_201) '[the Great Symbolism](https://ctext.org/book-of-changes/xiang-zhuan)' here is sufficiently explained in [the first Appendix](appendix01s1.md#fr_136). The application, however, is here again difficult, though we may try to find in it a particular instance of the interruption of communication, -- in great merit not meeting with its reward.
+<a id="fn_201"/>[283:XII](#fr_201) '[the Great Symbolism](https://ctext.org/dictionary.pl?if=en&id=25213)' here is sufficiently explained in [the first Appendix](appendix01s1.md#fr_136). The application, however, is here again difficult, though we may try to find in it a particular instance of the interruption of communication, -- in great merit not meeting with its reward.
 
 The subject of the first line is one of the cluster of small men who are able to change their mind, and set their hearts to love their ruler.
 
@@ -726,7 +726,7 @@ Paragraph 5. Sickness ought not to happen to [one who is perfectly sincere](#p-3
 
 Paragraph 6. '*When a thing is over and done, submission and acquiescence are what are required, and not renewed attempts at action.*'
 
-<a id="fn_215"/>[300:XXVI](#fr_215) I have quoted, in [the Introduction](appendix08s1.md#p-37), [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi)'s remark on the Great Symbolism here. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- '*Heaven is the greatest of all things, and its being in the midst of a mountain gives us the idea of a very large accumulation. And so great* [is the labour of the superior man in learning](#p-301), *acquiring, and remembering, to accumulate his virtue.*'
+<a id="fn_215"/>[300:XXVI](#fr_215) I have quoted, in [the Introduction](appendix08s1.md#p-37), [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi)'s remark on [the Great Symbolism](https://ctext.org/dictionary.pl?if=en&id=25465) here. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- '*Heaven is the greatest of all things, and its being in the midst of a mountain gives us the idea of a very large accumulation. And so great* [is the labour of the superior man in learning](#p-301), *acquiring, and remembering, to accumulate his virtue.*'
 
 Paragraph 1. The `calamity` is that of opposition from, or repression by, the subject of line 4.
 
@@ -734,7 +734,7 @@ Paragraph 3. When the action of the hexagram has reached line 6, its work is don
 
 Paragraph 4. The subject of line 4 has indeed occasion for joy. Without the use of punishment for crimes committed, by precaution anticipating them, without any trouble he has repressed evil. The `joy` gives place in paragraph 5 to `congratulation`, the people being all interested in the action of the ruler.
 
-<a id="fn_216"/>[302:XXVII](#fr_216) I do not think that the Great Symbolism here is anything but that of a thunderstorm, dispersing the oppression that bangs over nature, and followed by genial airs, and the reviving of all vegetation. But there is nothing analogous to the thunder in the application. 'Words,' it is said, 'nourish virtue; food and drink nourish the body.'
+<a id="fn_216"/>[302:XXVII](#fr_216) I do not think that [the Great Symbolism](https://ctext.org/dictionary.pl?if=en&id=25483) here is anything but that of a thunderstorm, dispersing the oppression that bangs over nature, and followed by genial airs, and the reviving of all vegetation. But there is nothing analogous to the thunder in the application. 'Words,' it is said, 'nourish virtue; food and drink nourish the body.'
 
 Paragraph 1. As Mencius said, '*He that nourishes the little belonging to him is a little man.*'
 
@@ -750,7 +750,7 @@ Paragraph 3. The beam being broken, any attempt to sustain it will have no effec
 
 Paragraph 5. The shoots produced in line 2 will grow into a new and vigorous tree. The flowers here will soon decay, and the withered trunk continue the same. For what will a young man marry an old woman? There will be no children; -- it can only be from some mercenary object.
 
-<a id="fn_218"/>[304:XXIX](#fr_218) The application of the Great Symbolism is here more perplexing even than usual. What is said of the superior man is good, but there is no reference in it to the subject of danger.
+<a id="fn_218"/>[304:XXIX](#fr_218) The application of [the Great Symbolism](https://ctext.org/dictionary.pl?if=en&id=25519) is here more perplexing even than usual. What is said of the superior man is good, but there is no reference in it to the subject of danger.
 
 The subject of line 3 goes and comes, moves up and down, backwards and forwards; making no advance. This can be of no use in extricating him from the danger.
 
