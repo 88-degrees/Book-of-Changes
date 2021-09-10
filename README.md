@@ -12,12 +12,6 @@ An [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) (Chinese: 易经) (or `I C
 
 There are actually four possible values for each of the lines; the two on/off values, and a line which changes from on to off or vice versa. Thus one cast of the I Ching can generate two different hexagrams, which adds depth to the interpretation. The sophistication of this method has not escaped modern interpretation, and the four-valued logic has been compared to the biochemistry of [DNA amino acids](https://www.sacred-texts.com/dna/index.htm). How a Neolithic shamans' divination technique presaged the basic logic of the human genome is one of the ageless mysteries.
 
-A line **⚊** is called `NINE`, undivided.
-A line **⚋** is called `SIX`, divided.
-
-Read the HEXAGRAM from bottom to top.
-For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
-
 ![Yì Global](global.gif)
 
 | ☷ | ☶ | ☵ | ☴ | ☳ | ☲ | ☱ | ☰ | ∞ |
@@ -41,6 +35,12 @@ For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
 | ☲ | Fire | Clinging | Eye | Pheasant | Fire |
 | ☱ | Marsh | Pleasing | Mouth | Ram | Metal |
 | ☰ | Heaven | Bouncing | Head | Horse | Metal |
+
+A line **⚊** is called `NINE`, undivided.
+A line **⚋** is called `SIX`, divided.
+
+Read the HEXAGRAM from bottom to top.
+For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
  
 | * | * | * | * | * | * | * | * | * | * |
 | - | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | - |
