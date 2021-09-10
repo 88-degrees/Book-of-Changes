@@ -151,7 +151,7 @@ The Master said: -- 'The superior man occupies his apartment and sends forth his
 
 <a id="p-362"/>
 
-43'. '(The representative of) the union of men first cries out and weeps, and afterwards laughs.' The Master said, on this, --
+43. '*(The representative of) the union of men first cries out and weeps, and afterwards laughs.*' The Master said, on this, --
 
 ```
 'The ways of good men (different seem).
@@ -165,19 +165,19 @@ The words they in their union use,
 Fragrance like orchid plants diffuse.'
 ```
 
-44. 'The first six, (divided), shows its subject placing mats of the white grass beneath what he sets on the ground.' The Master said: -- 'To place the things on the ground might be considered sufficient; but when he places beneath them mats of the white grass, what occasion for blame can there be? Such a course shows the height of carefulness. The white grass is a trivial thing, but, through the use made of it, it may become important. He who goes forward using such careful art will not fall into any error.'
+44. '*The first six, (divided), shows its subject placing mats of the white grass beneath what he sets on the ground.*' The Master said: -- '*To place the things on the ground might be considered sufficient; but when he places beneath them mats of the white grass, what occasion for blame can there be? Such a course shows the height of carefulness. The white grass is a trivial thing, but, through the use made of it, it may become important. He who goes forward using such careful art will not fall into any error.*'
 
-45. 'A superior man toiling laboriously and yet humble! He will bring things to an end, and with good fortune.' The Master said on this: -- 'He toils with success, but does not boast of it; he achieves merit, but takes no virtue to himself from it; -- this is the height of generous goodness, and speaks of the man who with (great) merit yet places himself below others. He wishes his virtue to be more and more complete, and in his intercourse with others to be more and more respectful; -- he who is so humble, carrying his respectfulness to the utmost, will be able to preserve himself in his position.'
+45. '*A superior man toiling laboriously and yet humble! He will bring things to an end, and with good fortune.*' The Master said on this: -- '*He toils with success, but does not boast of it; he achieves merit, but takes no virtue to himself from it; -- this is the height of generous goodness, and speaks of the man who with (great) merit yet places himself below others. He wishes his virtue to be more and more complete, and in his intercourse with others to be more and more respectful; -- he who is so humble, carrying his respectfulness to the utmost, will be able to preserve himself in his position.*'
 
 <a id="p-363"/>
 
-46. 'The dragon (is seen) beyond his proper haunts; there will be occasion for repentance.' The Master said on this: -- 'He is noble, but is not in his correct place; he is on high, but there are no people to acknowledge him; there is a man of virtue and ability below, but he will not assist him. Hence whatever movement he may make will give occasion for repentance.'
+46. '*The dragon (is seen) beyond his proper haunts; there will be occasion for repentance.*' The Master said on this: -- '*He is noble, but is not in his correct place; he is on high, but there are no people to acknowledge him; there is a man of virtue and ability below, but he will not assist him. Hence whatever movement he may make will give occasion for repentance.*'
 
-47. 'He does not quit the courtyard before his door; -- there will be no occasion for blame.' The Master said on this: -- 'When disorder arises, it will be found that (ill-advised) speech was the steppingstone to it. If a ruler do not keep secret (his deliberations with his minister), he will lose that minister. If a minister do not keep secret (his deliberations with his ruler), he will lose his life. If (important) matters in the germ be not kept secret, that will be injurious to their accomplishment. Therefore the superior man is careful to maintain secrecy, and does not allow himself to speak.'
+47. '*He does not quit the courtyard before his door; -- there will be no occasion for blame.*' The Master said on this: -- '*When disorder arises, it will be found that (ill-advised) speech was the steppingstone to it. If a ruler do not keep secret (his deliberations with his minister), he will lose that minister. If a minister do not keep secret (his deliberations with his ruler), he will lose his life. If (important) matters in the germ be not kept secret, that will be injurious to their accomplishment. Therefore the superior man is careful to maintain secrecy, and does not allow himself to speak.*'
 
 <a id="p-364"/>
 
-48. The Master said: -- 'The makers of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) may be said to have known (the philosophy of) robbery. The [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) says, "He is a burden-bearer, and yet rides in a carriage, thereby exciting robbers to attack him." Burden-bearing is the business of a small man. A carriage is the vehicle of a gentleman. When a small man rides in the vehicle of a gentle man, robbers will think of taking it from him. (When one is) insolent to those above him, and oppressive to those below, robbers will wish to attack him. Careless laying up of things excites to robbery, (as a woman's) adorning of herself excites to lust. What the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) says about the burden-bearer's riding in a carriage, and exciting robbers to attack him, (shows how) robbery is called out.'
+48. The Master said: -- '*The makers of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) may be said to have known (the philosophy of) robbery. The [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) says, "He is a burden-bearer, and yet rides in a carriage, thereby exciting robbers to attack him." Burden-bearing is the business of a small man. A carriage is the vehicle of a gentleman. When a small man rides in the vehicle of a gentle man, robbers will think of taking it from him. (When one is) insolent to those above him, and oppressive to those below, robbers will wish to attack him. Careless laying up of things excites to robbery, (as a woman's) adorning of herself excites to lust. What the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) says about the burden-bearer's riding in a carriage, and exciting robbers to attack him, (shows how) robbery is called out.*'
 
 <a id="p-365"/>
 
