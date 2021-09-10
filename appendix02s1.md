@@ -216,87 +216,87 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 <a id="fr_202"/>[XIII](#fn_202). (The trigrams **☰** **☲** for) heaven and fire form [**䷌ Tóng Rén**](e5908ce4babatongren.md). The superior man, in accordance with this), distinguishes things according to their kinds and classes.
 
-1. '(The representative of) the union of men is just issuing from his gate:' -- who will blame him?
+1. '*(The representative of) the union of men is just issuing from his gate*:' -- who will blame him?
 
-2. '(The representative of) the union of men appears in relation with his kindred:' -- that is the path to regret.
+2. '*(The representative of) the union of men appears in relation with his kindred:*' -- that is the path to regret.
 
-3. 'He hides his arms in the thick grass:' -- because of the strength of his opponent. 'For three years he makes no demonstration:' -- how can he do anything?
+3. '*He hides his arms in the thick grass:*' -- because of the strength of his opponent. '*For three years he makes no demonstration*:' -- how can he do anything?
 
-4. 'He is mounted on his city-wall;' but yielding to the right, 'he does not proceed to make the attack (he contemplated).' (Where it is said),'There will be good fortune,' (that shows how) he feels the strait he is in, and returns to the rule of law.
+4. '*He is mounted on his city-wall*;' but yielding to the right, '*he does not proceed to make the attack (he contemplated)*.' (Where it is said),'*There will be good fortune*,' (that shows how) he feels the strait he is in, and returns to the rule of law.
 
-5. The first action of (the representative of) the union of men (here described) arises from his central position and straightforward character. 'The meeting secured by his great host' intimates that the opponents of it have been overcome.
+5. The first action of (the representative of) the union of men (here described) arises from his central position and straightforward character. '*The meeting secured by his great host*' intimates that the opponents of it have been overcome.
 
-6. '(The representative of) the union of men appears in the suburbs:' -- his object has not yet been attained.
+6. '*(The representative of) the union of men appears in the suburbs*:' -- his object has not yet been attained.
 
 <a id="p-285"/>
 
-<a id="fr_203"/>[XIV](#fn_203). (The trigram **☰** for) heaven and (**☲** that of) fire above it form [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md) The superior man, in accordance with this, represses what is evil and gives distinction to what is good, in sympathy with the excellent Heaven-conferred (nature).
+<a id="fr_203"/>[XIV](#fn_203). (The trigram **☰** for) heaven and (**☲** that of) fire above it form [**䷍ Dà Yǒu**](e5a4a7e69c89dayou.md) The superior man, in accordance with this, represses what is evil and gives distinction to what is good, in sympathy with the excellent Heaven-conferred (nature).
 
-1. This first `NINE`, (undivided),of [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md) shows no approach to what is injurious.
+1. This first `NINE`, (undivided),of [**䷍ Dà Yǒu**](e5a4a7e69c89dayou.md) shows no approach to what is injurious.
 
-2. 'A large waggon with its load' refers to the (virtue) accumulated (in the subject of the line), so that he will suffer no loss (in the conduct of affairs).
+2. '*A large waggon with its load*' refers to the (virtue) accumulated (in the subject of the line), so that he will suffer no loss (in the conduct of affairs).
 
-3. 'A feudal prince presents his offerings to the son of Heaven:' -- a small man (in such a position) does (himself) harm.
+3. '*A feudal prince presents his offerings to the son of Heaven*:' -- a small man (in such a position) does (himself) harm.
 
-4. 'He keeps his great resources under restraint:' -- his wisdom discriminates clearly (what he ought to do).
+4. '*He keeps his great resources under restraint*:' -- his wisdom discriminates clearly (what he ought to do).
 
-5. 'His sincerity is reciprocated by all the others:' -- his sincerity serves to stir and call out what is in their minds. 'The good fortune springing from a display of proper majesty' shows how they might (otherwise) feel too easy, and make no preparation (to serve him).
+5. '*His sincerity is reciprocated by all the others*:' -- his sincerity serves to stir and call out what is in their minds. '*The good fortune springing from a display of proper majesty*' shows how they might (otherwise) feel too easy, and make no preparation (to serve him).
+
+6. '*The good fortune attached to the topmost line of* [**䷍ Dà Yǒu**](e5a4a7e69c89dayou.md)' arises from the help of Heaven.
 
 <a id="p-286"/>
 
-6. 'The good fortune attached to the topmost line of [**Dà Yǒu ䷍**](e5a4a7e69c89dayou.md)' arises from the help of Heaven.
+<a id="fr_204"/>[XV](#fn_204). (The trigram **☷** for) the earth and (**☶** that of) a mountain in the midst of it form [**䷎ Qiān**](e8b0a6qian.md). The superior man, in accordance with this, diminishes what is excessive (in himself), and increases where there is any defect, bringing about an equality, according to the nature of the case, in his treatment (of himself and others).
 
-<a id="fr_204"/>[XV](#fn_204). (The trigram **☷** for) the earth and (**☶** that of) a mountain in the midst of it form [**Qiān ䷎**](e8b0a6qian.md). The superior man, in accordance with this, diminishes what is excessive (in himself), and increases where there is any defect, bringing about an equality, according to the nature of the case, in his treatment (of himself and others).
+1. '*The superior man who adds humility to humility*' is one who nourishes his (virtue) in lowliness.
 
-1. 'The superior man who adds humility to humility' is one who nourishes his (virtue) in lowliness.
+2. The good fortune consequent on being firm and correct, where the humility has made itself recognised, is owing to the possessor's having (the virtue) in the core of his heart.
 
-2. 'The good fortune consequent on being firm and correct, where the humility has made itself recognised, is owing to the possessor's having (the virtue) in the core of his heart.
-
-3. 'The superior man of (acknowledged) merit, and yet humble:' -- the myriads of the people will submit to him.
-
-4. 'One, whose action would be in every way advantageous, stirs up his humility the more:'(but in doing so) he does not act contrary to the (proper) rule.
-
-5. 'He may advantageously use the force of arms:' -- correcting, that is, those who do not submit.
+3. '*The superior man of (acknowledged) merit, and yet humble:*' -- the myriads of the people will submit to him.
 
 <a id="p-287"/>
 
-6. 'His humility has made itself recognised:' -- (but) all his aims have not yet been attained. He may employ the force of arms, (but only) in correcting (his own) towns and state.'
+4. '*One, whose action would be in every way advantageous, stirs up his humility the more*:' (but in doing so) he does not act contrary to the (proper) rule.
 
-<a id="fr_205"/>[XVI](#fn_205). (The trigrams **☷** **☳** for) the earth and thunder issuing from it with its crashing noise form [**Yǜ ䷏**](e8b1abyu.md). The ancient kings, in accordance with this, composed their music and did honour to virtue, presenting it especially and most grandly to God, when they associated with Him (at the service) their highest ancestor and their father.
+5. '*He may advantageously use the force of arms*:' -- correcting, that is, those who do not submit.
+
+6. '*His humility has made itself recognised*:' -- (but) all his aims have not yet been attained. He may employ the force of arms, (but only) in correcting (his own) towns and state.'
+
+<a id="fr_205"/>[XVI](#fn_205). (The trigrams **☷** **☳** for) the earth and thunder issuing from it with its crashing noise form [**䷏ Yǜ**](e8b1abyu.md). The ancient kings, in accordance with this, composed their music and did honour to virtue, presenting it especially and most grandly to God, when they associated with Him (at the service) their highest ancestor and their father.
 
 <a id="p-288"/>
 
-1. 'The (subject of the) first six proclaims his pleasure and satisfaction:' -- there will be evil; his wishes have been satisfied to overflowing.
+1. '*The (subject of the) first six proclaims his pleasure and satisfaction*:' -- there will be evil; his wishes have been satisfied to overflowing.
 
-2. '(He sees a thing) without waiting till it has come to pass; with his firm correctness there will be good fortune:' -- this is shown by the central and correct position (of the line).
+2. '*(He sees a thing) without waiting till it has come to pass; with his firm correctness there will be good fortune*:' -- this is shown by the central and correct position (of the line).
 
-3. 'He looks up (for favours), while he indulges the feeling of satisfaction; there will be occasion for repentance:' -- this is intimated by the position not being the appropriate one.
+3. '*He looks up (for favours), while he indulges the feeling of satisfaction; there will be occasion for repentance*:' -- this is intimated by the position not being the appropriate one.
 
-4. 'From him the harmony and satisfaction come; great is the success which he obtains:' -- his aims take effect on a grand scale.
+4. '*From him the harmony and satisfaction come; great is the success which he obtains*:' -- his aims take effect on a grand scale.
 
-5. '(The subject of) the fifth six has a chronic complaint:' -- this is shown by his being mounted on the strong (line). 'He still lives on without dying:' -- he is in the central position, (and its memories of the past) have not yet perished.
+5. '*(The subject of) the fifth six has a chronic complaint*:' -- this is shown by his being mounted on the strong (line). '*He still lives on without dying*:' -- he is in the central position, (and its memories of the past) have not yet perished.
 
-6. 'With darkened mind devoted to the harmony and satisfaction (of the time),' as shown in the topmost (line): -- how can one in such a condition continue long?
+6. '*With darkened mind devoted to the harmony and satisfaction (of the time)*,' as shown in the topmost (line): -- how can one in such a condition continue long?
 
 <a id="p-289"/>
 
-<a id="fr_206"/>[XVII](#fn_206). (The trigram **☵** for the waters of) a marsh and (**☳** that for) thunder (hidden) in the midst of it form [**Suí ䷐**](e99a8fsui.md). The superior man in accordance with this, when it is getting towards dark, enters (his house) and rests.
+<a id="fr_206"/>[XVII](#fn_206). (The trigram **☵** for the waters of) a marsh and (**☳** that for) thunder (hidden) in the midst of it form [**䷐ Suí**](e99a8fsui.md). The superior man in accordance with this, when it is getting towards dark, enters (his house) and rests.
 
-1. 'He is changing the object of his pursuit:' -- but if he follow what is correct, there will be good fortune. 'He goes beyond (his own) gate to find associates:' -- he will not fail (in the method he pursues).
+1. '*He is changing the object of his pursuit*:' -- but if he follow what is correct, there will be good fortune. '*He goes beyond (his own) gate to find associates*:' -- he will not fail (in the method he pursues).
 
-2. 'He cleaves to the little boy:' -- he cannot be with the two at the same time.
+2. '*He cleaves to the little boy*:' -- he cannot be with the two at the same time.
 
-3. 'He cleaves to the man of age and experience:' -- by the decision of his will, he abandons (the youth) below.
+3. '*He cleaves to the man of age and experience*:' -- by the decision of his will, he abandons (the youth) below.
 
-4. 'He is followed and obtains adherents:' -- according to the idea (of the hexagram), this is evil. 'He is sincere in his course:' -- showing his intelligence, and leading to achievement.
+4. '*He is followed and obtains adherents*:' -- according to the idea (of the hexagram), this is evil. '*He is sincere in his course*:' -- showing his intelligence, and leading to achievement.
 
-5. 'He is sincere in fostering what is excellent:' -- his position is correct and in the centre.
+5. '*He is sincere in fostering what is excellent*:' -- his position is correct and in the centre.
 
 <a id="p-290"/>
 
-6. 'The sincerity is firmly held and clung to, as shown in the topmost line:' -- (the idea of the hexagram) has reached its extreme development.
+6. '*The sincerity is firmly held and clung to, as shown in the topmost line*:' -- (the idea of the hexagram) has reached its extreme development.
 
-<a id="fr_207"/>[XVIII](#fn_207). (The trigram **☶** for) a mountain, and below it **☴** that for wind, form [**Gǔ ䷑**](e89b8agu.md). The superior man, in accordance with this, (addresses himself to) help the people and nourish his own virtue.
+<a id="fr_207"/>[XVIII](#fn_207). (The trigram **☶** for) a mountain, and below it **☴** that for wind, form [**䷑ Gǔ**](e89b8agu.md). The superior man, in accordance with this, (addresses himself to) help the people and nourish his own virtue.
 
 1. 'He deals with the troubles caused by his father:' -- he feels that he has entered into the work of his father.
 
@@ -312,7 +312,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 6. 'He does not serve either king or feudal lord:' -- but his aim may be a model (to others).
 
-<a id="fr_208"/>[XIX](#fn_208). (The trigram **☱** for) the waters of a marsh and **☷** that for the earth above it form [**Lín ䷒**](e4b8b4lin.md). The superior man, in accordance with this, has his purposes of instruction that are inexhaustible, and nourishes and supports the people without limit.
+<a id="fr_208"/>[XIX](#fn_208). (The trigram **☱** for) the waters of a marsh and **☷** that for the earth above it form [**䷒ Lín**](e4b8b4lin.md). The superior man, in accordance with this, has his purposes of instruction that are inexhaustible, and nourishes and supports the people without limit.
 
 1. 'The good fortune through the firm correctness of (the subject of the first line) advancing in company (with the subject of the second)' is due to his will being set on doing what is right.
 
@@ -328,7 +328,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 6. 'The good fortune consequent on the advance of honesty and generosity' is due to the will (of the subject of the line) being set on the subjects of (the first two lines of) the inner (trigram).
 
-<a id="fr_209"/>[XX](#fn_209). (The trigram **☷** representing) the earth, and **☴** that for wind moving above it, form [**Guān ䷓**](e8a782guan.md). The ancient kings, in accordance with this, examined the (different) regions (of the kingdom), to see the (ways of the) people, and set forth their instructions.
+<a id="fr_209"/>[XX](#fn_209). (The trigram **☷** representing) the earth, and **☴** that for wind moving above it, form [**䷓ Guān**](e8a782guan.md). The ancient kings, in accordance with this, examined the (different) regions (of the kingdom), to see the (ways of the) people, and set forth their instructions.
 
 1. 'The looking of a lad shown by the first six, (divided); indicates the way of the inferior people.
 
@@ -344,7 +344,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 6. 'He contemplates his own character:' -- he cannot even yet let his mind be at rest.
 
-<a id="fr_210"/>[XXI](#fn_210). (The trigrams **☳** **☲** representing) thunder and lightning form [**Shì Kè ䷔**](e599ace59791shike.md). The ancient kings, in accordance with this, framed their penalties with intelligence, and promulgated their laws.
+<a id="fr_210"/>[XXI](#fn_210). (The trigrams **☳** **☲** representing) thunder and lightning form [**䷔ Shì Kè**](e599ace59791shike.md). The ancient kings, in accordance with this, framed their penalties with intelligence, and promulgated their laws.
 
 1. 'His feet are in the stocks, and he is deprived of his toes:' -- there is no walking (to do evil).
 
@@ -360,7 +360,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 6. 'He wears the cangue and is deprived of his ears:' -- he hears, but will not understand.
 
-<a id="fr_211"/>[XXII](#fn_211). (The trigram **☶** representing) a mountain and **☲** that for fire under it form [**Bì ䷕**](e8b4b2bi.md). The superior man, in accordance with this, throws a brilliancy around his various processes of government, but does not dare (in a similar way) to decide cases of criminal litigation.
+<a id="fr_211"/>[XXII](#fn_211). (The trigram **☶** representing) a mountain and **☲** that for fire under it form [**䷕ Bì**](e8b4b2bi.md). The superior man, in accordance with this, throws a brilliancy around his various processes of government, but does not dare (in a similar way) to decide cases of criminal litigation.
 
 <a id="p-295"/>
 
@@ -378,7 +378,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 <a id="p-296"/>
 
-<a id="fr_212"/>[XXIII](#fn_212). (The trigram **☷** representing) the earth, and (above it) **☶** that for a mountain, which adheres to the earth, form [**Bō ䷖**](e589a5bo.md). Superiors, in accordance with this, seek to strengthen those below them, to secure the peace and stability of their own position.
+<a id="fr_212"/>[XXIII](#fn_212). (The trigram **☷** representing) the earth, and (above it) **☶** that for a mountain, which adheres to the earth, form [**䷖ Bō**](e589a5bo.md). Superiors, in accordance with this, seek to strengthen those below them, to secure the peace and stability of their own position.
 
 1. 'He overthrows the couch by injuring its legs:' -- thus (he commences) his work of ruin with what is lowest (in the superior man).
 
@@ -394,7 +394,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 <a id="p-297"/>
 
-<a id="fr_213"/>[XXIV](#fn_213). (The trigram **☷** representing) the earth and **☳** that for thunder in the midst of it form [**Fù ䷗**](e5a48dfu.md). The ancient kings, in accordance with this, on the day. of the (winter) solstice, shut the gates of the passes (from one state to another), so that the travelling merchants could not (then) pursue their journeys, nor the princes go on with the inspection of their states.
+<a id="fr_213"/>[XXIV](#fn_213). (The trigram **☷** representing) the earth and **☳** that for thunder in the midst of it form [**䷗ Fù**](e5a48dfu.md). The ancient kings, in accordance with this, on the day. of the (winter) solstice, shut the gates of the passes (from one state to another), so that the travelling merchants could not (then) pursue their journeys, nor the princes go on with the inspection of their states.
 
 1. 'Returning (from an error) of no great extent' is the prelude to the cultivation of the person.
 
@@ -412,7 +412,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 <a id="p-299"/>
 
-<a id="fr_214"/>[XXV](#fn_214). [**Wú Wàng ䷘**](e697a0e5a684wuwang.md) The thunder rolls all under the sky, and to (every)thing there is given (its nature), free from all insincerity. The ancient kings, in accordance with this, (made their regulations) in complete accordance with the seasons, thereby nourishing all things.
+<a id="fr_214"/>[XXV](#fn_214). [**䷘ Wú Wàng**](e697a0e5a684wuwang.md) The thunder rolls all under the sky, and to (every)thing there is given (its nature), free from all insincerity. The ancient kings, in accordance with this, (made their regulations) in complete accordance with the seasons, thereby nourishing all things.
 
 1. When 'he who is free from insincerity makes any movement,' he will get what he desires.
 
@@ -428,7 +428,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 <a id="p-300"/>
 
-<a id="fr_215"/>[XXVI](#fn_215). (The trigram **☶** representing) a mountain, and in the midst of it **☷** that (representing) heaven, form [**Dà Xù ䷙**](e5a4a7e89384daxu.md). The superior man, in accordance with this, stores largely in his memory the words and deeds of former men, to subserve the accumulation of his virtue.
+<a id="fr_215"/>[XXVI](#fn_215). (The trigram **☶** representing) a mountain, and in the midst of it **☷** that (representing) heaven, form [**䷙ Dà Xù**](e5a4a7e89384daxu.md). The superior man, in accordance with this, stores largely in his memory the words and deeds of former men, to subserve the accumulation of his virtue.
 
 1. 'He is in a position of peril; it will be advantageous for him to stop his advance:' -- he should not rashly expose himself to calamity.
 
@@ -444,7 +444,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 <a id="p-301"/>
 
-<a id="fr_216"/>[XXVII](#fn_216). (The trigram **☶** representing) a mountain and under it **☳** that for thunder form [**Yí ䷚**](e9a290yi.md). The superior man, in accordance with this, (enjoins) watchfulness over our words, and the temperate regulation of our eating and drinking.
+<a id="fr_216"/>[XXVII](#fn_216). (The trigram **☶** representing) a mountain and under it **☳** that for thunder form [**䷚ Yí**](e9a290yi.md). The superior man, in accordance with this, (enjoins) watchfulness over our words, and the temperate regulation of our eating and drinking.
 
 1. 'You look at me till your (lower) jaw hangs down:' -- (the subject of the line) is thus shown unfit to be thought noble.
 
@@ -460,7 +460,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 6. 'The good fortune, notwithstanding the peril of his position, of him from whom comes the nourishing,' affords great cause for congratulation.
 
-<a id="fr_217"/>[XXVIII](#fn_217). (The trigram **☴** representing) trees hidden beneath **☱** that for the waters of a marsh forms [**Dà Guò ䷛**](e5a4a7e8bf87daguo.md). The superior man, in accordance with this, stands up alone and has no fear, and keeps retired from the world without regret.
+<a id="fr_217"/>[XXVIII](#fn_217). (The trigram **☴** representing) trees hidden beneath **☱** that for the waters of a marsh forms [**䷛ Dà Guò**](e5a4a7e8bf87daguo.md). The superior man, in accordance with this, stands up alone and has no fear, and keeps retired from the world without regret.
 
 1. 'He places mats of the white mâo grass under things set on the ground:' -- he feels his weakness and his being in the lowest place, (and uses extraordinary care).
 
@@ -476,7 +476,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 6. 'Evil follows wading with (extraordinary) boldness (through the stream):' -- but (the act) affords no ground for blame.
 
-<a id="fr_218"/>[XXIX](#fn_218). (The representation **☵** of) water flowing on continuously forms the repeated [**Kǎn ䷜**](e59d8ekan.md). The superior man, in accordance with this, maintains constantly the virtue (of his heart) and (the integrity of) his conduct, and practises the business of instruction.
+<a id="fr_218"/>[XXIX](#fn_218). (The representation **☵** of) water flowing on continuously forms the repeated [**䷜ Kǎn**](e59d8ekan.md). The superior man, in accordance with this, maintains constantly the virtue (of his heart) and (the integrity of) his conduct, and practises the business of instruction.
 
 1. 'In the double defile, he enters a cavern within it:' -- he has missed his (proper) way, and there will be evil.
 
@@ -492,7 +492,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 6. 'The sixth line, divided, shows its subject missing his (proper) course:' -- 'there will be evil for three years.'
 
-<a id="fr_219"/>[XXX](#fn_219). (The trigram **☲** for) brightness, repeated, forms [**Lí ䷝**](e7a6bbli.md). The great man, in accordance with this, cultivates more and more his brilliant (virtue), and diffuses its brightness over the four quarters (of the land).
+<a id="fr_219"/>[XXX](#fn_219). (The trigram **☲** for) brightness, repeated, forms [**䷝ Lí**](e7a6bbli.md). The great man, in accordance with this, cultivates more and more his brilliant (virtue), and diffuses its brightness over the four quarters (of the land).
 
 1. 'The reverent attention directed to his confused steps' is the way by which error is avoided.
 
@@ -512,23 +512,23 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 <a id="fn_189"/>[267:1](#fr_189) Like the Text under each hexagram, what is said under each in this treatise on its symbolism is divided into two portions. The <sub>[p. 267](#p-267)</sub> first is called 'the Great Symbolism,' and is occupied with the trigrammatic composition of the hexagram, to the statement of which is always subjoined an exhibition of the use which should be, or has been, made of the lesson suggested by the meaning of the whole figure in the administration of affairs, or in self-government. If the treatise be rightly ascribed to Confucius, this practical application of the teaching of the symbols is eminently characteristic of his method in inculcating truth and duty; though we often find it difficult to trace the connexion between his premiss and conclusion. This portion of the treatise will be separated by a double space from what follows, -- 'the Lesser Symbolism,' in the explanations of the several lines.
 
-<a id="fn_190"/>[268:I](#fr_190) [**Qián ䷀**](e4b9beqian.md) is formed by redoubling the trigram **☰** of the same name. In the case of other hexagrams of similar formation, the repetition of the trigram is pointed out. That is not done here, according to [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), 'because there is but one heaven.' But the motion of heaven is a complete revolution every day, resumed again the next; so moves 'the unwearied sun from day to day,' making it a good symbol of renewed, untiring effort.
+<a id="fn_190"/>[268:I](#fr_190) [**䷀ Qián**](e4b9beqian.md) is formed by redoubling the trigram **☰** of the same name. In the case of other hexagrams of similar formation, the repetition of the trigram is pointed out. That is not done here, according to [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), 'because there is but one heaven.' But the motion of heaven is a complete revolution every day, resumed again the next; so moves 'the unwearied sun from day to day,' making it a good symbol of renewed, untiring effort.
 
-<a id="fn_191"/>[269:II](#fr_191) [**Kūn ䷁**](e59da4kun.md) is formed by redoubling the trigram **☷** of the same name and having 'the earth for its symbol.' As in the former hexagram, the repetition is emphatic, not otherwise affecting the meaning of the hexagram. 'As there is but one heaven,' says [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), 'so there is but one earth.' The first part of 'the Great Symbolism' appears in Canon McClatchie's version as -- '**Kūn ☷** is the generative part of earth.' By 'generative part' he probably means 'the productive or prolific faculty.' If he mean anything else, there comes out a conclusion antagonistic to his own view of the 'mythology' of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). The character Shî, which he translates by 'generative part,' is defined in Dr. Williams' dictionary as 'the virility of males.' Such is the special significance of it. If it were so used here, the earth would be masculine.
+<a id="fn_191"/>[269:II](#fr_191) [**䷁ Kūn**](e59da4kun.md) is formed by redoubling the trigram **☷** of the same name and having 'the earth for its symbol.' As in the former hexagram, the repetition is emphatic, not otherwise affecting the meaning of the hexagram. 'As there is but one heaven,' says [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), 'so there is but one earth.' The first part of 'the Great Symbolism' appears in Canon McClatchie's version as -- '**☷ Kūn** is the generative part of earth.' By 'generative part' he probably means 'the productive or prolific faculty.' If he mean anything else, there comes out a conclusion antagonistic to his own view of the 'mythology' of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching). The character Shî, which he translates by 'generative part,' is defined in Dr. Williams' dictionary as 'the virility of males.' Such is the special significance of it. If it were so used here, the earth would be masculine.
 
 It is difficult to say exactly what the writer meant by -- 'The superior man, in accordance with this, and with his large nature, supports (men and) things.' [Lín Xīyuán](https://ctext.org/searchbooks.pl?if=en&author=林希元) (Míng dynasty) says: -- 'The superior man, in his single person, sustains the burden of all under the sky. The common people depend on him for their rest and enjoyment. Birds and beasts and creeping things, and the tribes of the vegetable kingdom, depend on him for the fulfilment or their destined being. If he be of a narrow mind and cold virtue, how can he help them? Their hope in him would be in vain.'
 
 'The Smaller Symbolism' is sufficiently dealt with in the notes on the Text.
 
-<a id="fn_192"/>[270:III](#fr_192) **Kǎn ☵** represents water, especially in the form of rain. Here its symbol is a cloud. The whole hexagram seems to place us in the atmosphere of a thunderous sky overhung with thick and gloomy clouds, when we feel oppressed and distressed. This is not a bad emblem of the political state in the mind of the writer. When the thunder has pealed, and the clouds have discharged their <sub>[p. 271](#p-271)</sub> burden of rain, the atmosphere is cleared, and there is a feeling of relief. But I fail again to discern clearly the connexion between the symbolism and the lesson about the superior man's administration of affairs.
+<a id="fn_192"/>[270:III](#fr_192) **☵ Kǎn** represents water, especially in the form of rain. Here its symbol is a cloud. The whole hexagram seems to place us in the atmosphere of a thunderous sky overhung with thick and gloomy clouds, when we feel oppressed and distressed. This is not a bad emblem of the political state in the mind of the writer. When the thunder has pealed, and the clouds have discharged their <sub>[p. 271](#p-271)</sub> burden of rain, the atmosphere is cleared, and there is a feeling of relief. But I fail again to discern clearly the connexion between the symbolism and the lesson about the superior man's administration of affairs.
 
 The subject of the first line of the Smaller Symbolism is represented by the undivided line, and therefore is firm and correct. He is noble, but his place is below the divided lines, symbols of the weak and mean (see [Appendix IV, i, 1](appendix04s1.md).
 
-Line 2. 'Things resume their regular course:' -- the subject is now at liberty to seek a union with the subject of line 5, according to the rules of the symbolism. Lines 1 and 4, 2 and 5, 3 and 6, the corresponding lilies of the trigrams **☳** **☵** **䷂**, are correlates.
+Line 2. '*Things resume their regular course*:' -- the subject is now at liberty to seek a union with the subject of line 5, according to the rules of the symbolism. Lines 1 and 4, 2 and 5, 3 and 6, the corresponding lilies of the trigrams **☳** **☵** **䷂**, are correlates.
 
 The subject of line 4 naturally recurs to the correlate in line 1. He is the natural helper in the case, and he has the ability.
 
-<a id="fn_193"/>[272:IV](#fr_193) 'The spring here issuing forth' is different from the defile with a stream in it, in the explanation of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan); different moreover from 'rain,' mentioned also as the phenomenon which is the natural symbol of **Kǎn ☵**. The presence of water, however, is common to the three. But the water of the spring, or of the stream, would flow away from the hill, and not be stopped by it; as an emblem therefore of the ignorance and inexperience denoted by Măng it is not suitable. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says that 'the water of a spring is sure to move on and gradually advance.' This may serve as a symbol of the general process and progress of education, though it gives no account of the symbolism of the hill. It serves also to explain in part the transition of the writer to the subject of the superior man, and his dealing apparently with himself.
+<a id="fn_193"/>[272:IV](#fr_193) 'The spring here issuing forth' is different from the defile with a stream in it, in the explanation of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan); different moreover from 'rain,' mentioned also as the phenomenon which is the natural symbol of **☵ Kǎn**. The presence of water, however, is common to the three. But the water of the spring, or of the stream, would flow away from the hill, and not be stopped by it; as an emblem therefore of the ignorance and inexperience denoted by Măng it is not suitable. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says that 'the water of a spring is sure to move on and gradually advance.' This may serve as a symbol of the general process and progress of education, though it gives no account of the symbolism of the hill. It serves also to explain in part the transition of the writer to the subject of the superior man, and his dealing apparently with himself.
 
 Does line 1 set forth the use of punishment as the dernier resort, undesirable, but possibly unavoidable, to bring men in subjection to law?
 
@@ -542,7 +542,7 @@ The fifth is the most honourable place in the figure, and here is occupied by a 
 
 A strong line in the topmost place must represent, according to the scheme of the hexagram, one who uses force in the cause of education; but the force is put forth not on the ignorant, but on those who would keep them ignorant, or increase their ignorance. The subject of this line, therefore, acts according to his nature, and the subjects of all the weak lines below are cared for as is best for them.
 
-<a id="fn_194"/>[273:V](#fr_194) 'The cloud,' it is said, 'that has risen to the top of the sky, has nothing more to do till it is called on, in the harmony of heaven <sub>[p. 274](#p-274)</sub> and earth, to discharge its store of rain.' This gives to the writer the idea of waiting; and the superior man is supposed to be taught by this symbolism to enjoy his idle time, while he is waiting for the approach of danger and occasion for action.
+<a id="fn_194"/>[273:V](#fr_194) `The cloud`, it is said, '*that has risen to the top of the sky, has nothing more to do till it is called on*, [in the harmony of heaven and earth](#p-274), *to discharge its store of rain*.' This gives to the writer the idea of waiting; and the superior man is supposed to be taught by this symbolism to enjoy his idle time, while he is waiting for the approach of danger and occasion for action.
 
 'The regular course' of the subject of line 1 seems to be the determination to wait, at a distance from danger, the proper time to act.
 
@@ -554,27 +554,27 @@ Kû says that he does not understand what is said under line 6, -- that the occu
 
 <a id="fn_195"/>[275:VI](#fr_195) The symbolism here is different from that in the Text of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan). We have the visible sky ascending and water or rain descending, which indicate, one hardly sees how, opposition and contention. The lesson as to the course of the superior man is a good one, but might with equal propriety be deduced from many other hexagrams.
 
-[Xiàng Ānshì](https://ctext.org/library.pl?if=en&res=865&by_author=項安世&remap=gb) (Sòng dynasty) says that the first part of paragraph 2 is all to be taken as the language of the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou), the characters being varied; the rest is the remark of the writer of this treatise.
+[Xiàng Ān Shì](https://ctext.org/library.pl?if=en&res=865&by_author=項安世&remap=gb) (Sòng dynasty) says that the first part of paragraph 2 is all to be taken as the language of the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou), the characters being varied; the rest is the remark of the writer of this treatise.
 
-It is observed that the returning to (the study of Heaven's) ordinances, and changing the wish to contend, in paragraph 4, are not two things, but only one; 'the ordinances (ming) meaning what is right in principle.' The wish to contend was wrong in principle, and is now abandoned.
+It is observed that the returning to (the study of Heaven's) ordinances, and changing the wish to contend, in paragraph 4, are not two things, but only one; '*the ordinances (ming) meaning what is right in principle*.' The wish to contend was wrong in principle, and is now abandoned.
 
 'The robe' takes the place of 'the leathern sash' in paragraph 6; but the sash was merely an appendage of the robe.
 
 <a id="fn_196"/>[276:VII](#fr_196) 'The Great Symbolism' here is not more satisfactory than in other paragraphs of it which have already come before us. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says: -- 'As the water is not outside the earth, so soldiers are not outside the people. Therefore if (a ruler) be able to nourish the people, he can get the multitudes (of his hosts).' Is the meaning this, -- that originally the people and soldiers are one body; that a portion of the people are taken out from among the mass, as occasion requires, to do the duty of soldiers; and that the nourishment and education of the people is the best way to have good soldiers ready for use on any emergency? Compare the saying of Confucius in [Analects XIII, xxx](https://ctext.org/dictionary.pl?if=en&id=1435&remap=gb).
 
-What is said on the second line, that the general 'has received the favour of Heaven,' refers of course to the entire confidence reposed in him by the ruler or king, the subject of line 5. In this way [**Tiān**](https://en.wikipedia.org/wiki/Tian) (天) here is equal to **Tiān** [**wáng**](https://en.wiktionary.org/wiki/王), so frequent in the 'Spring and Autumn,' and meaning -- 'King by the grace of [p. 277](#p-277) Heaven.' But the great powers given to the general are from the king's wish through him to promote the good of all the nation.
+What is said on the second line, that the general 'has received the favour of Heaven,' refers of course to the entire confidence reposed in him by the ruler or king, the subject of line 5. In this way `tiān`([天](https://en.wikipedia.org/wiki/Tian)) here is equal to `tiān wáng`([天王](https://en.wiktionary.org/wiki/天王)), so frequent in the `Spring and Autumn`, and meaning -- '[King by the grace of Heaven.](#p-277)' But the great powers given to the general are from the king's wish through him to promote the good of all the nation.
 
-In military operations there must be one ruling will and mind. A divided authority is sure to be a failure. But 'a retreat' is no evidence of failure in a campaign. When advance would lead to disaster, retreat is the regular course to pursue.
+In military operations there must be one ruling will and mind. A divided authority is sure to be a failure. But `a retreat` is no evidence of failure in a campaign. When advance would lead to disaster, retreat is the regular course to pursue.
 
 Other ways can be found to reward small men. They ought not to be placed in situations where the condition of others will depend on them.
 
-<a id="fn_197"/>[278:VIII](#fr_197) 'Water upon the face of the earth' is supposed to be an emblem of close union. Of the mere fact of close union this may be accepted as a fair illustration, and of its completeness. Some other symbolism might set forth better the tendency of parties to union, and their seeking it. What is said about the ancient kings is more pertinent to the meaning of the hexagram than in many other applications in 'the Great Symbolism.' The king appears in it not only as the centre, but as the cause, of union.
+<a id="fn_197"/>[278:VIII](#fr_197) `Water upon the face of the earth` is supposed to be an emblem of close union. Of the mere fact of close union this may be accepted as a fair illustration, and of its completeness. Some other symbolism might set forth better the tendency of parties to union, and their seeking it. What is said about the ancient kings is more pertinent to the meaning of the hexagram than in many other applications in 'the Great Symbolism.' The king appears in it not only as the centre, but as the cause, of union.
 
-'The other advantages' under line 1 refer to all the benefits that will result from sincerity and union, which are in themselves good.
+`The other advantages` under line 1 refer to all the benefits that will result from sincerity and union, which are in themselves good.
 
 It is hardly possible to make what is said under line 5, on the royal huntings, agree with the account of them given on the same line in the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s text. I suspect that there is some corruption of the text. The two verbs 'neglecting' and 'taking' seem to be used, the one for the other.
 
-<a id="fn_198"/>[279:IX](#fr_198) The suitability of the symbolism here is made all to turn on the wind. 'Wind,' says Kû, 'is simply the air, without solid substance; it can restrain, but not for long.' The wind moves in the sky for a time, and then ceases. The process of thought from the symbol to the lesson is not easily traced. Is it meant to say that virtue manifesting itself outwardly -- in the carriage and speech -- is, however good, but a small matter, admirable in an officer, or even a feudal lord, but that we look for more in a king, the Head of a nation?
+<a id="fn_198"/>[279:IX](#fr_198) The suitability of the symbolism here is made all to turn on the wind. `Wind`, says [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), '*is simply the air, without solid substance; it can restrain, but not for long*.' The wind moves in the sky for a time, and then ceases. The process of thought from the symbol to the lesson is not easily traced. Is it meant to say that virtue manifesting itself outwardly -- in the carriage and speech -- is, however good, but a small matter, admirable in an officer, or even a feudal lord, but that we look for more in a king, the Head of a nation?
 
 [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) calls attention to the addition to the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou)'s explanation in the notice on line 2, that 'it is in the central place,' adding that this explains how the subject of the line restrains himself, and does not go beyond what is due from him.
 
@@ -582,7 +582,7 @@ Only half of the symbolism in the Text of line 3 is taken up here. Line 1, it is
 
 Line 4 is weak, and in an even place, appropriate to it; and hence its subject is said to 'have sincerity.' Being the first line, moreover, of Sun, the two others take their character from it.
 
-Line 5, being undivided, and occupying the most important place in the figure, according to the value usually attached to the lines, is [p. 280](#p-280) said 'to be rich,' or 'to have rich resources.' With these he unites with the 'subjects' of line 4 to effect their common object.
+Line 5, being undivided, and occupying the most important place in the figure, [according to the value usually attached to the lines](#p-280), is said `to be rich`, or `to have rich resources`. With these he unites with the '*subjects*' of line 4 to effect their common object.
 
 Under line 6 we are told that the restraint is at its height, and the restrained should keep still for a time. The paragraph is metrical. The paragraphs to lines 1, 2, 3, all rhyme together. So do those to 4, 5; and now under 6, we have a couplet: --
 
@@ -596,93 +596,93 @@ For lines 1, 2, 3, and 4, see notes on the Text.
 
 If we might translate the conclusion of what is said on line 5, by -- 'in the position that is correctly appropriate to him,' the meaning would he more clear, though still the assumption which I have pointed out on the Text would underlie the statement; and as evidently as there, what is said under line 6 is but a truism.
 
-<a id="fn_200"/>[282:XI](#fr_200) It is difficult to translate the application of 'the Great Symbolism' here, so that it shall be intelligible to a reader. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'A ruler should frame his laws; and regulations so that the people may avail themselves of the seasons of heaven, and of the advantages afforded by the earth, assisting their transforming and nourishing services, and completing their abundant and admirable benefits. Thus the breath of spring, calling forth all vegetable life, gives the law for sowing and planting; the breath of autumn, completing and solidifying all things, gives the law for ingathering and storing,' &c.
+<a id="fn_200"/>[282:XI](#fr_200) It is difficult to translate the application of '[the Great Symbolism](https://ctext.org/book-of-changes/xiang-zhuan)' here, so that it shall be intelligible to a reader. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- '*A ruler should frame his laws; and regulations so that the people may avail themselves of the seasons of heaven, and of the advantages afforded by the earth, assisting their transforming and nourishing services, and completing their abundant and admirable benefits. Thus the breath of spring, calling forth all vegetable life, gives the law for sowing and planting; the breath of autumn, completing and solidifying all things, gives the law for ingathering and storing,*' &c.
 
-The subject of line 1 has 'his will on what is external to himself:' -- he is bent on going forward.
+The subject of line 1 has '*his will on what is external to himself*:' -- he is bent on going forward.
 
 [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) explains what is said on paragraph 4, that the upper lines 'are out of their real place where they are,' or, literally, 'have lost their substantiality,' by the remark that 'their proper place, as being weak lines, is below.' The editors of the imperial edition prefer another explanation, on which I need not enter.
 
-<a id="fn_201"/>[283:XII](#fr_201) 'The Great Symbolism' here is sufficiently explained in the first Appendix. The application, however, is here again difficult, though we may try to find in it a particular instance of the interruption of communication, -- in great merit not meeting with its reward.
+<a id="fn_201"/>[283:XII](#fr_201) '[the Great Symbolism](https://ctext.org/book-of-changes/xiang-zhuan)' here is sufficiently explained in [the first Appendix](appendix01s1.md#fr_136). The application, however, is here again difficult, though we may try to find in it a particular instance of the interruption of communication, -- in great merit not meeting with its reward.
 
 The subject of the first line is one of the cluster of small men who are able to change their mind, and set their hearts to love their ruler.
 
-The subject of the second line is a 'great man,' and occupies the place in the centre.
+The subject of the second line is a `great man`, and occupies the place in the centre.
 
 The subject of the third line is weak, and does not occupy his correct position; -- hence the symbolism.
 
 The fourth line is near the fifth, the ruler's place. It is a strong line in an even place; but acting according to the will of Heaven or of the ruler, its subject gets his purpose carried out.
 
-The subject of the fifth line is the great man, the ruler in his right place. Hence he is successful, and in the last line, we see [p. 284](#p-284) how the distress and obstruction are come to an end. It was in the order of change that they should do so.
+The subject of the fifth line is the great man, the ruler in his right place. Hence he is successful, and in the last line, we see [how the distress and obstruction are come to an end](#p-284). It was in the order of change that they should do so.
 
-<a id="fn_202"/>[284:XIII](#fr_202) The style of 'heaven and fire form [**Tóng Rén ䷌**](e5908ce4babatongren.md)' is such as to suggest the appearance of fire ascending up, blazing to the sky, and uniting with it. The application of the symbolism is again perplexing.
+<a id="fn_202"/>[284:XIII](#fr_202) The style of 'heaven and fire form [**䷌ Tóng Rén**](e5908ce4babatongren.md)' is such as to suggest the appearance of fire ascending up, blazing to the sky, and uniting with it. The application of the symbolism is again perplexing.
 
-In line 1, the party just issuing from his gate has all the world <sub>[p. 285](#p-285)</sub> before him, with which to unite. Selfish thoughts disposing to union have no place in him.
+In line 1, the party just issuing from his gate has all [the world before him](#p-285), with which to unite. Selfish thoughts disposing to union have no place in him.
 
 In line 2, union (only) with kindred implies narrowness of mind. For line 3, see note on the Text.
 
-In line 4, stress should be laid on 'yielding to the right.'
+In line 4, stress should be laid on `yielding to the right`.
 
 For line 5, see note on the Text.
 
 The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors append the following note to the last paragraph: -- 'Under line 1 it is said that "union in the open country indicates progress and success," while here it is only said that "with union in the suburbs there is no cause for repentance." Beyond the suburbs was the open country, and till the union reached so far, the object of the hexagram was not attained. We may truly say that Confucius was a skilful reader of the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou).' Of course the editors did not doubt Confucius' authorship of all the Appendixes.
 
-<a id="fn_203"/>[286:XIV](#fr_203) 'Fire above the sky' will shine far; and this is supposed to symbolise the vastness of the territory or of the wealth implied in the possession of what is great. The superior man, in governing men, especially in a time of prosperity and wealth, must set himself to develope what is good in them, and repress what is evil. And this will be in accordance with the will of Heaven, which has given to all men a nature fitted for goodness.
+<a id="fn_203"/>[286:XIV](#fr_203) `Fire above the sky` will shine far; and this is supposed to symbolise the vastness of the territory or of the wealth implied in the possession of what is great. The superior man, in governing men, especially in a time of prosperity and wealth, must set himself to develope what is good in them, and repress what is evil. And this will be in accordance with the will of Heaven, which has given to all men a nature fitted for goodness.
 
 All the comment that is necessary on the symbolism of the several lines may be gathered from the comments on the Text.
 
-<a id="fn_204"/>[287:XV](#fr_204) The earth is low, and in the midst of it is a high mountain; but I fail to see how this can symbolise humility. Nor does Regis' representation of it much improve the case: -- 'Monte' (ait glossa) 'nihil est altius in terra, quae est summe abjecta. At cum is declivis sit, imago esse potest humilis modestiae.' I find the following note on the paragraph in my copy of the 'Daily Lessons' (see Preface): -- 'The five `yīn` lines above and below symbolise the earth; the one `yáng` line in the centre is "the mountain in the midst of the earth." The many `yīn` lines represent men's desires; the one `yáng` line, heavenly principle. The superior man, looking at this symbolism, diminishes the multitude of human desires within him, and increases the single shoot of heavenly principle; so does he become grandly just, and can deal with all things evenly according to the nature of each. In whatever circumstances or place he is, he will do what is right.' This is certainly very ingenious, but one shrinks from accepting a view that is not based on the component trigrams.
+<a id="fn_204"/>[287:XV](#fr_204) The earth is low, and in the midst of it is a high mountain; but I fail to see how this can symbolise humility. Nor does Regis' representation of it much improve the case: -- 'Mountain' (the gloss says) '*there is nothing higher on earth, which is the most abject. But when it is declining, it can be an image of modesty*.' I find the following note on the paragraph in my copy of the 'Daily Lessons' (see Preface): -- 'The five `yīn` lines above and below symbolise the earth; the one `yáng` line in the centre is "the mountain in the midst of the earth." The many `yīn` lines represent men's desires; the one `yáng` line, heavenly principle. The superior man, looking at this symbolism, diminishes the multitude of human desires within him, and increases the single shoot of heavenly principle; so does he become grandly just, and can deal with all things evenly according to the nature of each. In whatever circumstances or place he is, he will do what is right.' This is certainly very ingenious, but one shrinks from accepting a view that is not based on the component trigrams **☶** **☷**.
 
-Under line 1, 'nourishes his (virtue)' is, literally, 'pastures himself.' He is all humility. That makes him what he is.
+Under line 1, `nourishes his (virtue)` is, literally, `pastures himself`. He is all humility. That makes him what he is.
 
-Under line 4, 'the (proper) rule' is the rule proper for the subject of the line in his circumstances so near the place of the ruler.
+Under line 4, `the (proper) rule` is the rule proper for the subject of the line in his circumstances so near the place of the ruler.
 
-Under line 5, 'the refusal to submit' makes an appeal to force necessary. Even the best and humblest ruler bears the sword, and must not bear it in vain.
+Under line 5, `the refusal to submit` makes an appeal to force necessary. Even the best and humblest ruler bears the sword, and must not bear it in vain.
 
 [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) bases all that is said under line 6 on its being a weak line; so that the humble ruler is unable even at the close of the action described in the figure to accomplish all his objects, and must limit his field even in appealing to arms.
 
-<a id="fn_205"/>[288:XVI](#fr_205) 'The Great Symbolism' here is more obscure than usual. A thunderstorm clears the air and removes the feeling of oppression, of which one is conscious before its occurrence. Is this all that is meant by making the trigrams of the earth and thunder form [**Yǜ ䷏**](e8b1abyu.md), the hexagram of harmony and satisfaction? What is meant, moreover, by making the thunder 'issue,' as the Chinese text says, from the earth? Then as to the application of this symbolism, I can trace the author's idea but imperfectly. To say that the thunder crash suggested the use of music, as some critics do, is <sub>[p. 289](#p-289)</sub> absurd. The use of music at sacrifices, however, as assisting the union produced by those services between God and his worshippers, and the present and past generations, agrees with the general idea of the figure. I must suppose that the writer had in mind the sacrifices instituted by the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou), as related in the Hsiâo King, chap. ix.
+<a id="fn_205"/>[288:XVI](#fr_205) '[The Great Symbolism](https://ctext.org/dictionary.pl?if=en&id=25285)' here is more obscure than usual. A thunderstorm clears the air and removes the feeling of oppression, of which one is conscious before its occurrence. Is this all that is meant by making the trigrams of the earth and thunder form [**䷏ Yǜ**](e8b1abyu.md), the hexagram of harmony and satisfaction? What is meant, moreover, by making the thunder `issue`, as the Chinese text says, from the earth? Then as to the application of this symbolism, I can trace the author's idea but imperfectly. To say that the thunder crash suggested the use of music, as some critics do, [is absurd](#p-289). The use of music at sacrifices, however, as assisting the union produced by those services between God and his worshippers, and the present and past generations, agrees with the general idea of the figure. I must suppose that the writer had in mind the sacrifices instituted by the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou), as related in the [Xiào Jīng, chap. IX](https://ctext.org/xiao-jing/government-of-the-sages/ens).
 
 Pleasure has operated injuriously on the subject of line 1. He calls attention to himself.
 
 Only a part of the symbolism of line 2 is referred to here. Such an omission is not uncommon; -- as in lines 3 and 4 also.
 
-With 'the memories of the past not perishing' compare [Mencius, II, Section i, chap. 1. 6-13](https://www.sacred-texts.com/cfu/menc/menc02.htm).
+With '*the memories of the past not perishing*' compare [Mencius, II, Section i, chap. 1. 6-13](https://ctext.org/mengzi/liang-hui-wang-i#n1609).
 
 In line 6 the action of the hexagram is over. If one puts off changing his evil way any longer, there remains no more hope for him.
 
-<a id="fn_206"/>[290:XVII](#fr_206) An explosion of thunder amidst the waters of a marsh would be succeeded by a tremulous agitation of those waters; so far there would be a following of the movement of the lower trigram by the upper. Then in the application of the symbolism we have an illustration of action following the time, that is, according to the time; which is a common use of the Chinese character [**Suí ䷐**](e99a8fsui.md). Neither the symbolism, however, nor its application adds much to our understanding of the text.
+<a id="fn_206"/>[290:XVII](#fr_206) An explosion of thunder amidst the waters of a marsh would be succeeded by a tremulous agitation of those waters; so far there would be a following of the movement of the lower trigram **☳** by the upper **☱**. Then in the application of the symbolism we have an illustration of action following the time, that is, according to the time; which is a common use of the Chinese character `suí`([随](https://ctext.org/dictionary.pl?if=en&char=随). Neither the symbolism, however, nor its application adds much to our understanding of the text.
 
-Paragraph 1 consists of two lines that rhyme; and paragraphs 4 (two lines), 5, and 6 do the same. According to [Gù Yánwǔ](https://en.wikipedia.org/wiki/Gu_Yanwu), paragraphs 2 and 3 also rhyme; but this appears to me doubtful. The symbolism of these paragraphs is sufficiently explained in the notes on the Text. Some peculiarities in their style (in Chinese) are owing to the bonds of the rhyme.
+Paragraph 1 consists of two lines that rhyme; and paragraphs 4 (two lines), 5, and 6 do the same. According to [Gù Yán Wǔ](https://en.wikipedia.org/wiki/Gu_Yanwu), paragraphs 2 and 3 also rhyme; but this appears to me doubtful. The symbolism of these paragraphs is sufficiently explained in the notes on the Text. Some peculiarities in their style (in Chinese) are owing to the bonds of the rhyme.
 
-<a id="fn_207"/>[291:XVIII](#fr_207) 'When the wind,' says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'encounters the mountain, it is driven back, and the things about are all scattered in disorder; such is the emblem of the state denoted by [**Gǔ ䷑**](e89b8agu.md).'
+<a id="fn_207"/>[291:XVIII](#fr_207) '*When the wind*,' says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), '*encounters the mountain, it is driven back, and the things about are all scattered in disorder; such is the emblem of the state denoted by* [**Gǔ ䷑**](e89b8agu.md).'
 
-'The nourishing of virtue' appears especially in line 6; all the other lines belong to the 'helping of the people.'
+`The nourishing of virtue` appears especially in line 6; all the other lines belong to the `helping of the people`.
 
-The subject of line 1 has entered into the work of his father, and brings it about that his father is looked on as blameless. The 'due mean' of line 2 is according to the caution in the Text. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors interpret the explanation of line 5 as **⚌** 'he takes up (the course of his father) with all his virtue.' I think they are wrong.
+The subject of line 1 has entered into the work of his father, and brings it about that his father is looked on as blameless. The 'due mean' of line 2 is according to the caution in the Text. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors interpret the explanation of line 5 as **⚌** '*he takes up (the course of his father) with all his virtue*.' I think they are wrong.
 
-<a id="fn_208"/>[292:XIX](#fr_208) 'The earth descending or approaching the marsh' is, according to [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), symbolical of the approach of superiors to the inferior people, and then the two predicates about the superior man are descriptive of him in that approach, the instruction being symbolised by **Duì ☱**, and the supporting by **Kūn ☷**. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, wishing to defend the explanation of lin by 'great,' in [Appendix VI](appendix04s1.md), which they ascribe to Confucius, say: -- '[**Lín ䷒**](e4b8b4lin.md) means "great." The earth above the waters of the marsh shows how full those waters are, rising to the level of the earth, and thus expressing the idea of greatness.' This representation is lame and impotent.
+<a id="fn_208"/>[292:XIX](#fr_208) '*The earth descending or approaching the marsh*' is, according to [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi), symbolical of the approach of superiors to the inferior people, and then the two predicates about the superior man are descriptive of him in that approach, the instruction being symbolised by **☱ Duì**, and the supporting by **☷ Kūn**. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, wishing to defend the explanation of lin by 'great,' in [Appendix VI](appendix04s1.md), which they ascribe to Confucius, say: -- '[**䷒ Lín**](e4b8b4lin.md) means "great." The earth above the waters of the marsh shows how full those waters are, rising to the level of the earth, and thus expressing the idea of greatness.' This representation is lame and impotent.
 
 [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says he does not understand what is said on line 2. The interpretation in my version is the ordinary one, but I am not satisfied with it. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors try to solve the difficulty; but I am not able to follow them.
 
-The same editors compare the conclusion of paragraph 6 in the symbolism of hexagram 11. 'What is external' there, and 'what is internal here,' have, they say, the same reference, -- the state, namely, of the whole kingdom, the expressions differing according to the different standpoints from which they are made. The view in the translation is that of [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi). It is difficult to hold the balance between them. The newer view, perhaps, is the preferable.
+The same editors compare the conclusion of paragraph 6 in the symbolism of [hexagram 11 ䷊](e6b3b0tai.md). '*What is external*' there, and '*what is internal here*,' have, they say, the same reference, -- the state, namely, of the whole kingdom, the expressions differing according to the different standpoints from which they are made. The view in the translation is that of [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi). It is difficult to hold the balance between them. The newer view, perhaps, is the preferable.
 
-<a id="fn_209"/>[293:XX](#fr_209) Wind moving above the earth has the widest sweep, and nothing escapes its influence; it penetrates everywhere. This symbolism is more appropriate to the subject in hand than that of many other hexagrams. Personal influence in a ruler effects much; but the ancient kings wished to add to that the power of published instructions, specially adapted to the character and circumstances of the people. **Xùn ☴**, representing the wind, is well adapted to denote this influence; -- see the [Analects, XII, xix](https://ctext.org/dictionary.pl?if=en&id=1400&remap=gb).
+<a id="fn_209"/>[293:XX](#fr_209) Wind moving above the earth has the widest sweep, and nothing escapes its influence; it penetrates everywhere. This symbolism is more appropriate to the subject in hand than that of many other hexagrams. Personal influence in a ruler effects much; but the ancient kings wished to add to that the power of published instructions, specially adapted to the character and circumstances of the people. **☴ Xùn**, representing the wind, is well adapted to denote this influence; -- see the [Analects, XII](https://ctext.org/analects/yan-yuan/ens), [XIX](https://ctext.org/analects/zi-zhang/ens).
 
 The looking in line 1 is superficial, and does not reach far.
 
-Line 3. 'He will not err in the path to be pursued;' -- advancing or receding as is best.
+Line 3. '*He will not err in the path to be pursued*;' -- advancing or receding as is best.
 
-Line 4. 'The glory of the kingdom' is the virtue of the sovereign and the character of his administration. With the sentiment compare [Mencius, VII, i, chap. 21. 2](https://www.sacred-texts.com/cfu/menc/menc07.htm).
+Line 4. `The glory of the kingdom` is the virtue of the sovereign and the character of his administration. With the sentiment compare [Mencius, VII, i, chap. 20](https://ctext.org/mengzi/li-lou-i/ens#n1690).
 
-<a id="fn_210"/>[294:XXI](#fr_210) [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says that thunder and lightning are always found together, and hence their trigrams go together to give the idea of union intended in [**Shì Kè ䷔**](e599ace59791shike.md). The one trigram symbolising majesty and the other brightness or intelligence, the application of the hexagram here is easier and more natural than in many other cases.
+<a id="fn_210"/>[294:XXI](#fr_210) [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says that thunder and lightning are always found together, and hence their trigrams go together to give the idea of union intended in [**䷔ Shì Kè**](e599ace59791shike.md). The one trigram symbolising majesty and the other brightness or intelligence, the application of the hexagram here is easier and more natural than in many other cases.
 
-1. 'There is no walking:' -- that is, the subject of the line will not dare to offend any more.
+1. '*There is no walking*:' -- that is, the subject of the line will not dare to offend any more.
 
-2. '"Being mounted on the strong first line" means,' says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'punishing a strong and vehement man, when severity is required, as is denoted by the central position of the line.'
+2. '"Being mounted on the strong first line" means,' says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), '*punishing a strong and vehement man, when severity is required, as is denoted by the central position of the line*.'
 
-4. 'His light has not been sufficiently displayed;' that is, there is still something for him to do: -- he has to realise the difficulty of his position and be firm.
+4. '*His light has not been sufficiently displayed*;' that is, there is still something for him to do: -- he has to realise the difficulty of his position and be firm.
 
-<a id="fn_211"/>[295:XXII](#fr_211) 'A mountain,' says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), 'is a place where we find grass, trees, and a hundred other things. A fire burning below it throws up its light, and brings them all Out in beauty; and this gives the idea of ornament, or being ornamented. The various processes of government are small matters, and elegance and ornament help their course; but great matters of judgment demand the simple, unornamented truth.'
+<a id="fn_211"/>[295:XXII](#fr_211) `A mountain`, says [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)), '*is a place where we find grass, trees, and a hundred other things. A fire burning below it throws up its light, and brings them all Out in beauty; and this gives the idea of ornament, or being ornamented. The various processes of government are small matters, and elegance and ornament help their course; but great matters of judgment demand the simple, unornamented truth.*'
 
 The subject of line 1 does not care for and does not need ornament. He will walk in the way of righteousness without it.
 
@@ -690,61 +690,61 @@ Paragraph 3 tells us that it is not ornament, but correct firmness, which secure
 
 In the fourth place, and cut off from line 1 by 2 and 3, we might doubt how far the subject of 4 would continue loyal to the subject of it. But he does continue loyal, through the character and object of the subject of 3.
 
-The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say: -- 'Line 5 occupies the place of honour, and yet prefers simplicity and exalts economy; its subject <sub>[p. 296](#p-296)</sub> might change and transform manners and customs; -- it is a small matter to say of him that he affords occasion for joy.
+The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say: -- 'Line 5 occupies the place of honour, and yet prefers simplicity and exalts economy; its subject [might change and transform manners and customs](#p-296); -- it is a small matter to say of him that he affords occasion for joy.
 
 The subject of line 6 has more of the spirit of the hexagram than in most hexagrams. His being clothed in simple white crowns the lesson that ornament must be kept in a secondary place.
 
-<a id="fn_212"/>[296:XXIII](#fr_212) A mountain,' says [Yú Fān](https://en.wikipedia.org/wiki/Yu_Fan) (towards the end of the Hàn dynasty), 'stands out high above the earth; here it appears as lying on the earth: -- plainly it has been overturned.' On the <sub>[p. 297](#p-297)</sub> other hand, [Liú Mù](https://ctext.org/wiki.pl?if=en&res=401633&remap=gb) (early in the Sòng dynasty) says: -- A mountain has the earth for its foundation. If the earth be thick, the mountain preserves its height. So it is with the sovereign and people.' The application might be deduced from either view.
+<a id="fn_212"/>[296:XXIII](#fr_212) `A mountain`, says [Yú Fān](https://en.wikipedia.org/wiki/Yu_Fan) (towards the end of the Hàn dynasty), '*stands out high above the earth; here it appears as lying on the earth: -- plainly it has been overturned.*' On [the other hand](#p-297), [Liú Mù](https://ctext.org/wiki.pl?if=en&res=401633&remap=gb) (early in the Sòng dynasty) says: -- *A mountain has the earth for its foundation. If the earth be thick, the mountain preserves its height. So it is with the sovereign and people.' The application might be deduced from either view.*
 
-It is hard to tell whether 'the lowest' in paragraph 1 should be supplemented as I have done. If not, then the explanation is a mere truism.
+It is hard to tell whether `the lowest` in paragraph 1 should be supplemented as I have done. If not, then the explanation is a mere truism.
 
 [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) is precise and decisive in supplementing the explanation of paragraph 2 as in the translation.
 
-See on the Text of lines 3 and 4.
+See [on the Text of lines 3 and 4](e8b4b2bi.md#22.3).
 
-On paragraph 5, the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say admirably: -- 'The fifth line is weak, and yet occupies the most honourable place in the figure, -- emblematic of a queen; and as its subject leads on the subjects of the other lines to obtain the favours given to the inmates of the palace, she, it is plain, has neither jealousy nor any other injurious temper that might incur blame for tending to overthrow the ruler.'
+On paragraph 5, the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors say admirably: -- '*The fifth line is weak, and yet occupies the most honourable place in the figure, -- emblematic of a queen; and as its subject leads on the subjects of the other lines to obtain the favours given to the inmates of the palace, she, it is plain, has neither jealousy nor any other injurious temper that might incur blame for tending to overthrow the ruler.*'
 
 Paragraph 6 shows the ruler restored to the favour of the people, and the restoration of concord in the state. The small men have done their worst, and there is an end of their attempts for a time.
 
-<a id="fn_213"/>[298:XXIV](#fr_213) 'Thunder **☳** in the midst of the earth **☷**' is thunder shut up and silent, just able to make its presence felt. So is it with the first genial stirrings of life after the winter solstice; so is it with the first returning steps of the wanderer to virtue. As the spring of life has to be nursed in quietness, so also has the purpose of good. The ancient statutes here referred to must have been like the present cessation from public and private business at the time of the new year, when all the Chinese people are for a time dissolved in festivity and joy.
+<a id="fn_213"/>[298:XXIV](#fr_213) Thunder **☳** in the midst of the earth **☷**' is thunder shut up and silent, just able to make its presence felt. So is it with the first genial stirrings of life after the winter solstice; so is it with the first returning steps of the wanderer to virtue. As the spring of life has to be nursed in quietness, so also has the purpose of good. The ancient statutes here referred to must have been like the present cessation from public and private business at the time of the new year, when all the Chinese people are for a time dissolved in festivity and joy.
 
-Canon McClatchie translates here: -- 'The ancient kings on this culminating day (i. e. the seventh) closed their gates,' &c. 'Culminating day' does not give us the meaning so well as 'the day of the solstice;' but where does the translator find the explanatory 'the seventh,' which he puts in parentheses? In my own 'salad' days of Chinese knowledge I fancied there might be in paragraph 1 of the Text some allusion to a primitive sabbath; but there is no ground for introducing 'seven days,' or 'the seventh day,' into this paragraph of the Great Symbolism.
+Canon McClatchie translates here: -- '*The ancient kings on this culminating day (i. e. the seventh) closed their gates,*' &c. '*Culminating day*' does not give us the meaning so well as '*the day of the solstice*;' but where does the translator find the explanatory '*the seventh*,' which he puts in parentheses? In my own '*salad*' days of Chinese knowledge I fancied there might be in paragraph 1 of the Text some allusion to a primitive sabbath; but there is no ground for introducing '*seven days*,' or '*the seventh day*,' into this paragraph of the [Great Symbolism](https://ctext.org/dictionary.pl?if=en&id=25429&remap=gb).
 
-The virtuous subject of the first line' is in paragraph 2 called **Zhèn ☳**, 'the benevolent' or loving.' It is the only case in all the symbolism of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) where we find that term used as an adjective. It is emphatic here for 'humanity,' man in his ideal.
+The virtuous subject of the first line' is in paragraph 2 called **☳ Zhèn**, 'the benevolent' or loving.' It is the only case in all the symbolism of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) where we find that term used as an adjective. It is emphatic here for 'humanity,' man in his ideal.
 
 The other paragraphs present nothing for remark beyond what has been said on the Text of the [duke of Zhōu](https://en.wikipedia.org/wiki/Duke_of_Zhou).
 
 <a id="fn_214"/>[299:XXV](#fr_214) The composition of the hexagram **䷘** is given here in a manner different from what we have met with in the account of any of the preceding figures; and as the text is not called in question, I have made the best I could in the translation of the two commencing clauses. The application of the symbolism to what the ancient kings did is also hard to comprehend.
 
-The paragraph on line 1 is another way of saying that in the course of things real goodness may be expected to be fortunate, -- 'by the appointment of Heaven.'
+The paragraph on line 1 is another way of saying that in the course of things real goodness may be expected to be fortunate, -- '*by the appointment of Heaven*.'
 
-Paragraph 2. 'The thought of getting rich had not risen in his mind:' -- he did what he did, because it was right, not because of the gain it would bring him.
+Paragraph 2. '*The thought of getting rich had not risen in his mind*:' -- he did what he did, because it was right, not because of the gain it would bring him.
 
-On paragraph 3, it is said, 'The superior man seeks simply to be free from insincerity, and leaves the questions of happiness and calamity to Heaven.'
+On paragraph 3, it is said, '*The superior man seeks simply to be free from insincerity, and leaves the questions of happiness and calamity to Heaven.*'
 
-Paragraph 5. Sickness ought not to happen to one who <sub>[p. 300](#p-300)</sub> is perfectly sincere. If it do happen, he must refer it to some inexplicable will of Heaven. As that has afflicted, so it will cure.'
+Paragraph 5. Sickness ought not to happen to [one who is perfectly sincere](#p-300). '*If it do happen, he must refer it to some inexplicable will of Heaven. As that has afflicted, so it will cure.*'
 
-Paragraph 6. 'When a thing is over and done, submission and acquiescence are what are required, and not renewed attempts at action.'
+Paragraph 6. '*When a thing is over and done, submission and acquiescence are what are required, and not renewed attempts at action.*'
 
-<a id="fn_215"/>[300:XXVI](#fr_215) I have quoted, in the Introduction, [p. 37](https://sacred-texts.com/ich/icintr03.htm#page_37), [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi)'s remark on the Great Symbolism here. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'Heaven is the greatest of all things, and its being in the midst of a mountain gives us the idea of a very large accumulation. And so great [p. 301](#p-301) is the labour of the superior man in learning, acquiring, and remembering, to accumulate his virtue.'
+<a id="fn_215"/>[300:XXVI](#fr_215) I have quoted, in [the Introduction](appendix08s1.md#p-37), [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi)'s remark on the Great Symbolism here. [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- '*Heaven is the greatest of all things, and its being in the midst of a mountain gives us the idea of a very large accumulation. And so great* [is the labour of the superior man in learning](#p-301), *acquiring, and remembering, to accumulate his virtue.*'
 
-Paragraph 1. The 'calamity' is that of opposition from, or repression by, the subject of line 4.
+Paragraph 1. The `calamity` is that of opposition from, or repression by, the subject of line 4.
 
 Paragraph 3. When the action of the hexagram has reached line 6, its work is done. The subject of 6 will no longer exercise repression, but join with that of 3, assisting him to advance.
 
-Paragraph 4. The subject of line 4 has indeed occasion for joy. Without the use of punishment for crimes committed, by precaution anticipating them, without any trouble he has repressed evil. The 'joy' gives place in paragraph 5 to 'congratulation,' the people being all interested in the action of the ruler.
+Paragraph 4. The subject of line 4 has indeed occasion for joy. Without the use of punishment for crimes committed, by precaution anticipating them, without any trouble he has repressed evil. The `joy` gives place in paragraph 5 to `congratulation`, the people being all interested in the action of the ruler.
 
 <a id="fn_216"/>[302:XXVII](#fr_216) I do not think that the Great Symbolism here is anything but that of a thunderstorm, dispersing the oppression that bangs over nature, and followed by genial airs, and the reviving of all vegetation. But there is nothing analogous to the thunder in the application. 'Words,' it is said, 'nourish virtue; food and drink nourish the body.'
 
-Paragraph 1. As Mencius said, 'He that nourishes the little belonging to him is a little man.'
+Paragraph 1. As Mencius said, '*He that nourishes the little belonging to him is a little man.*'
 
 Paragraph 2. Neither the subject of line 1, nor of line 6, is the proper associate of 2.
 
 The other paragraphs are sufficiently illustrated in the notes on the Text.
 
-<a id="fn_217"/>[303:XXVIII](#fr_217) [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says on the Great Symbolism: -- 'The waters of a marsh moisten and nourish the trees. When here it is said that they destroy and extinguish the trees, their action is very extraordinary.' This explanation is very far-fetched; and so is what the same scholar says on the application of it. I need not give it here, nor have I found, or myself made out, any other more easy and natural.
+<a id="fn_217"/>[303:XXVIII](#fr_217) [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says on the [Great Symbolism](https://ctext.org/dictionary.pl?if=en&id=25501): -- '*The waters of a marsh moisten and nourish the trees. When here it is said that they destroy and extinguish the trees, their action is very extraordinary.*' This explanation is very far-fetched; and so is what the same scholar says on the application of it. I need not give it here, nor have I found, or myself made out, any other more easy and natural.
 
-Paragraph 2. 'Such an association is extraordinary:' -- the characters also imply, perhaps, that it is successful.
+Paragraph 2. '*Such an association is extraordinary*:' -- the characters also imply, perhaps, that it is successful.
 
 Paragraph 3. The beam being broken, any attempt to sustain it will have no effect in supporting the roof.
 
@@ -756,10 +756,10 @@ The subject of line 3 goes and comes, moves up and down, backwards and forwards;
 
 Those represented in line 4 by the strong and weak lines are the ruler and his minister.
 
-<a id="fn_219"/>[305:XXX](#fr_219) In the Great Symbolism [**Lí ䷝**](e7a6bbli.md) is used in the sense of brightness. There was no occasion to refer to its other meaning. 'The great man' rather confirms the interpretation of the 'double brightness' in the treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) as indicating the ruler.
+<a id="fn_219"/>[305:XXX](#fr_219) In the [Great Symbolism](https://ctext.org/book-of-changes/li2) [**䷝ Lí**](e7a6bbli.md) is used in the sense of brightness. There was no occasion to refer to its other meaning. `The great man` rather confirms the interpretation of the `double brightness` in the treatise on the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) as indicating the ruler.
 
-Paragraph 2. As yellow is a 'correct' colour, so is the due mean the correct course.
+Paragraph 2. As yellow is a `correct` colour, so is the due mean the correct course.
 
-Paragraph 3. 'The declining sun,' say the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, 'is an emblem of the obscuration coming over the virtue of the mind.'
+Paragraph 3. '*The declining sun*,' say the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors, '*is an emblem of the obscuration coming over the virtue of the mind.*'
 
-Paragraph 4. 'None can bear with him' refers to the second part of the symbolism of the line, which is not given here.
+Paragraph 4. '*None can bear with him*' refers to the second part of the symbolism of the line, which is not given here.
