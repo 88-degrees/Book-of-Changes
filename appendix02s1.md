@@ -522,13 +522,13 @@ It is difficult to say exactly what the writer meant by -- '*The superior man, i
 
 <a id="fn_192"/>[270:III](#fr_192) **☵ Kǎn** represents water, especially in the form of rain. Here its symbol is a cloud. The whole hexagram seems to place us in the atmosphere of a thunderous sky overhung with thick and gloomy clouds, when we feel oppressed and distressed. This is not a bad emblem of the political state in the mind of the writer. When the thunder has pealed, and the clouds have discharged [their burden of rain](#p-271), the atmosphere is cleared, and there is a feeling of relief. But I fail again to discern clearly the connexion between the symbolism and the lesson about the superior man's administration of affairs.
 
-The subject of the first line of [the Smaller Symbolism](https://ctext.org/dictionary.pl?if=en&id=25053) is represented by the undivided line, and therefore is firm and correct. He is noble, but his place is below the divided lines, symbols of the weak and mean (see [Appendix IV, i, 1](appendix04s1.md)).
+The subject of the first line of [the Smaller Symbolism](https://ctext.org/dictionary.pl?if=en&id=25053) is represented by the undivided line, and therefore is firm and correct. He is noble, but his place is below the divided lines, symbols of the weak and mean (see [Appendix IV, i, 1](appendix04s1.md#fr_279)).
 
 Line 2. '*Things resume their regular course*:' -- the subject is now at liberty to seek a union with the subject of line 5, according to the rules of the symbolism. Lines 1 and 4, 2 and 5, 3 and 6, the corresponding lilies of the trigrams **☳** **☵**, are correlates **䷂**.
 
 The subject of line 4 naturally recurs to the correlate in line 1. He is the natural helper in the case, and he has the ability.
 
-<a id="fn_193"/>[272:IV](#fr_193) 'The spring here issuing forth' is different from the defile with a stream in it, in the explanation of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan); different moreover from 'rain,' mentioned also as the phenomenon which is the natural symbol of **☵ Kǎn**. The presence of water, however, is common to the three. But the water of the spring, or of the stream, would flow away from the hill, and not be stopped by it; as an emblem therefore of the ignorance and inexperience denoted by Măng it is not suitable. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says that 'the water of a spring is sure to move on and gradually advance.' This may serve as a symbol of the general process and progress of education, though it gives no account of the symbolism of the hill. It serves also to explain in part the transition of the writer to the subject of the superior man, and his dealing apparently with himself.
+<a id="fn_193"/>[272:IV](#fr_193) '*The spring here issuing forth*' is different from the defile with a stream in it, in the explanation of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan); different moreover from 'rain,' mentioned also as the phenomenon which is the natural symbol of **☵ Kǎn**. The presence of water, however, is common to the three. But the water of the spring, or of the stream, would flow away from the hill, and not be stopped by it; as an emblem therefore of the ignorance and inexperience denoted by [**䷃ Méng**](e89299meng.md) it is not suitable. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) says that '*the water of a spring is sure to move on and gradually advance*.' This may serve as a symbol of the general process and progress of education, though it gives no account of the symbolism of the hill. It serves also to explain in part the transition of the writer to the subject of the superior man, and his dealing apparently with himself.
 
 Does line 1 set forth the use of punishment as the dernier resort, undesirable, but possibly unavoidable, to bring men in subjection to law?
 
@@ -536,7 +536,7 @@ The force of line 2 comes out fully in the [Tuàn](https://ctext.org/book-of-cha
 
 That a woman such as is represented in line 3 should not be taken in marriage is clear enough; but I do not see the bearing of the illustration on the proper lesson in the hexagram.
 
-Line 3 separates 4 from 2, and 5 separates it from 6. Weak in itself, it is farther removed than any other from the two strong lines in the hexagram **䷃**, and is represented as 'cribbed' in its ignorance.
+Line 3 separates 4 from 2, and 5 separates it from 6. Weak in itself, it is farther removed than any other from the two strong lines in the hexagram **䷃**, and is represented as `cribbed` in its ignorance.
 
 The fifth is the most honourable place in the figure, and here is occupied by a weak line. This looks, however, to the occupant of line 2, less honourable than itself, and is marked by the two attributes that are named. Compare what is said on line 2.
 
