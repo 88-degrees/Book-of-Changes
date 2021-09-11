@@ -50,7 +50,7 @@
 
 ## Notes
 
-The hexagram **䷏ Yǜ** denoted to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) a condition of harmony and happy contentment throughout the kingdom, when the people rejoiced in and readily obeyed their sovereign.
+The hexagram **䷏ Yǜ** denoted to king [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) a condition of harmony and happy contentment throughout the kingdom, when the people rejoiced in and readily obeyed their sovereign.
 At such a time his appointments and any military undertakings would be hailed and supported.
 The fourth line, undivided, is the lord of the figure, and being close to the fifth or place of dignity, is to be looked on as the minister or chief officer of the ruler. The ruler gives to him his confidence; and all represented by the other lines yield their obedience.
 

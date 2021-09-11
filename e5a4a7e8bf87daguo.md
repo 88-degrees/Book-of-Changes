@@ -50,7 +50,7 @@
 
 ## Notes
 
-Very extraordinary times require very extraordinary gifts in the conduct of affairs in them. This is the text on which [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son discourse after their fashion in this hexagram. What goes, in their view, to constitute anything extraordinary is its greatness and difficulty. There need not be about it what is not right.
+Very extraordinary times require very extraordinary gifts in the conduct of affairs in them. This is the text on which king [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son discourse after their fashion in this hexagram. What goes, in their view, to constitute anything extraordinary is its greatness and difficulty. There need not be about it what is not right.
 
 Looking at the figure we see two weak lines at the top and bottom, and four strong lines between them, giving us the idea of a great beam unable to sustain its own weight. But the second and fifth lines are both strong and in the centre; and from this and the attributes of the component trigrams a good auspice is obtained.
 

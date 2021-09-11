@@ -614,7 +614,7 @@ ears changed:' -- (its subject) has failed in what was required of him (in his s
 
 ### Footnotes
 
-<a id="fn_220"/>[306:XXXI](#fr_220) In various ways the waters of a marsh, placed high above the adjacent land, will descend to water and fertilise them. This symbolism agrees sufficiently well with the idea of influence passing between a superior and inferior party in relation with each other. There is nothing in the representation, however, to suggest particularly the relation between husband and wife; and the more I think of it, the more doubtful it becomes to me that [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) intended by the trigrams of this figure to give the idea of man and wife. The application of the symbolism is sufficiently appropriate. The commentators see in it especially the lesson of humility -- emptiness of self, or poverty of spirit -- in order that the influences to which we are subjected may have free course.
+<a id="fn_220"/>[306:XXXI](#fr_220) In various ways the waters of a marsh, placed high above the adjacent land, will descend to water and fertilise them. This symbolism agrees sufficiently well with the idea of influence passing between a superior and inferior party in relation with each other. There is nothing in the representation, however, to suggest particularly the relation between husband and wife; and the more I think of it, the more doubtful it becomes to me that king [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) intended by the trigrams of this figure to give the idea of man and wife. The application of the symbolism is sufficiently appropriate. The commentators see in it especially the lesson of humility -- emptiness of self, or poverty of spirit -- in order that the influences to which we are subjected may have free course.
 
 Paragraph 1. What is beyond one's self is represented by line 4, a proper correlate of 1. There is the desire to influence; but it is ineffectively exhibited.
 
@@ -656,7 +656,7 @@ If the subject of line 1 had received an official charge, then when unrecognised
 
 There is nothing said on line 2 to explain particularly the symbolism of 'the grandmother' in the Text.
 
-'The course of procedure' in paragraph 6 has still an element of force in it, which is more than 'the firm correctness' that was to [king Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) the ideal character of a feudal lord, and therefore his light is not yet that of the full-orbed sun.
+'The course of procedure' in paragraph 6 has still an element of force in it, which is more than 'the firm correctness' that was to king [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) the ideal character of a feudal lord, and therefore his light is not yet that of the full-orbed sun.
 
 <a id="fn_225"/>[312:XXXVI](#fr_225) The application of the Great Symbolism here is in itself sufficiently natural; but this meaning of the hexagram hardly appears in the text, till we come to the sixth line.
 
