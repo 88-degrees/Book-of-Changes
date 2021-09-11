@@ -120,7 +120,8 @@ King [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) altered the arrangem
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ☲ | ☴ | ☳ | ☶ | ☵ | ☰ | ☵ | ☷ |
+| ☲ | ☴ | ☳ | ☶ | ☵ | ☰ | ☱ | ☷ |
+| lí | xùn | zhèn | gèn | kǎn | qián | duì | kūn |
 | Second daughter. | Oldest daughter. | Oldest son. | Youngest son. | Second son. | Father. | Youngest daughter. | Monther. |
 | South | South Eest | Eest | North East | North | North West | West | South West |
 
