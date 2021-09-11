@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="492" height="460" viewBox="0 0 492 460" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Traditional Chinese representation of 3x3 "Lo Shu" magic square.</title>
+<defs>
+<circle id="Circ" cx="0" cy="0" r="6"/>
+</defs>
+<rect fill="#ffffff" width="492" height="460"/>
+<g transform="translate(-20,456) scale(1,-1)" stroke="#000000" fill="none" stroke-width="2.5">
+<path d="M225,238H305M265,278V198"/>
+<path d="M60,298V178"/>
+<path d="M470,358V118"/>
+<path d="M145,416H385"/>
+<g fill="#ffffff">
+<use x="265" y="238" xlink:href="#Circ"/>
+<use x="225" y="238" xlink:href="#Circ"/>
+<use x="305" y="238" xlink:href="#Circ"/>
+<use x="265" y="198" xlink:href="#Circ"/>
+<use x="265" y="278" xlink:href="#Circ"/>
+<use x="60" y="298" xlink:href="#Circ"/>
+<use x="60" y="238" xlink:href="#Circ"/>
+<use x="60" y="178" xlink:href="#Circ"/>
+<use x="470" y="358" xlink:href="#Circ"/>
+<use x="470" y="318" xlink:href="#Circ"/>
+<use x="470" y="278" xlink:href="#Circ"/>
+<use x="470" y="238" xlink:href="#Circ"/>
+<use x="470" y="198" xlink:href="#Circ"/>
+<use x="470" y="158" xlink:href="#Circ"/>
+<use x="470" y="118" xlink:href="#Circ"/>
+<use x="145" y="416" xlink:href="#Circ"/>
+<use x="175" y="416" xlink:href="#Circ"/>
+<use x="205" y="416" xlink:href="#Circ"/>
+<use x="235" y="416" xlink:href="#Circ"/>
+<use x="265" y="416" xlink:href="#Circ"/>
+<use x="295" y="416" xlink:href="#Circ"/>
+<use x="325" y="416" xlink:href="#Circ"/>
+<use x="355" y="416" xlink:href="#Circ"/>
+<use x="385" y="416" xlink:href="#Circ"/>
+<use x="265" y="60" xlink:href="#Circ"/>
+</g>
+<g transform="translate(265,238) rotate(-45) translate(-265,-238)">
+<path d="M244,-38V82M286,-38V82"/>
+<path d="M244,-38h42M244,82h42"/>
+<path d="M20,183H80M20,233H80"/>
+<path d="M20,183v50M80,183v50"/>
+<path d="M275,428V494"/>
+<path d="M434,197H514M434,239H514"/>
+<path d="M434,197V239M514,197V239"/>
+<g fill="#000000">
+<use x="244" y="-38" xlink:href="#Circ"/>
+<use x="286" y="-38" xlink:href="#Circ"/>
+<use x="244" y="2" xlink:href="#Circ"/>
+<use x="286" y="2" xlink:href="#Circ"/>
+<use x="244" y="42" xlink:href="#Circ"/>
+<use x="286" y="42" xlink:href="#Circ"/>
+<use x="244" y="82" xlink:href="#Circ"/>
+<use x="286" y="82" xlink:href="#Circ"/>
+<use x="20" y="183" xlink:href="#Circ"/>
+<use x="20" y="233" xlink:href="#Circ"/>
+<use x="80" y="183" xlink:href="#Circ"/>
+<use x="80" y="233" xlink:href="#Circ"/>
+<use x="275" y="428" xlink:href="#Circ"/>
+<use x="275" y="494" xlink:href="#Circ"/>
+<use x="434" y="197" xlink:href="#Circ"/>
+<use x="434" y="239" xlink:href="#Circ"/>
+<use x="474" y="197" xlink:href="#Circ"/>
+<use x="474" y="239" xlink:href="#Circ"/>
+<use x="514" y="197" xlink:href="#Circ"/>
+<use x="514" y="239" xlink:href="#Circ"/>
+</g>
+</g>
+</g>
+</svg>
