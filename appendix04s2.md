@@ -1,10 +1,10 @@
 <a id="p-418"/>
 
-## SECTION II: **[**Kūn ䷁**](e59da4kun.md)** <a id="fr_285"/><sub>[1](#fn_285)</sub>
+## SECTION II: **[**䷁ Kūn**](e59da4kun.md)** <a id="fr_285"/> [<sub>1</sub>](#fn_285)
 
 Chapter I.
 
-1. (What is indicated by) [**Kūn ䷁**](e59da4kun.md) is most gentle and weak, but, when put in motion, is hard and strong; it is most still, but is able to give every definite form.
+1. (What is indicated by) [**䷁ Kūn**](e59da4kun.md) is most gentle and weak, but, when put in motion, is hard and strong; it is most still, but is able to give every definite form.
 
 <a id="p-419"/>
 
@@ -12,7 +12,7 @@ Chapter I.
 
 3. It contains all things in itself, and its transforming (power) is glorious.
 
-4. Yes, what docility marks the way of [**Kūn ䷁**](e59da4kun.md)! It receives the influences of heaven, and acts at the proper time.
+4. Yes, what docility marks the way of [**䷁ Kūn**](e59da4kun.md)! It receives the influences of heaven, and acts at the proper time.
 
 Chapter II. 
 
@@ -34,4 +34,4 @@ Chapter II.
 
 ### Footnotes
 
-<a id="fn_285"/>[421:1](#fr_285) The hexagram [**Kūn ䷁**](e59da4kun.md) is dealt with in **Section II**, and much wore briefly than [**Qián ䷀**](e4b9beqian.md) in [**Section I**](appendix04s1.md). Much less distinct, moreover, is the attempt in it to show how the attributes of the hexagram are to be understood of the principles of human nature. The most important portion of the Section, perhaps, is paragraph 5, the first of chapter II, and I have spoken of it in the Introduction.
+<a id="fn_285"/>[421:1](#fr_285) The hexagram [**䷁ Kūn**](e59da4kun.md) is dealt with in **Section II**, and much wore briefly than [**䷀ Qián**](e4b9beqian.md) in [**Section I**](appendix04s1.md). Much less distinct, moreover, is the attempt in it to show how the attributes of the hexagram are to be understood of the principles of human nature. The most important portion of the Section, perhaps, is paragraph 5, the first of chapter II, and I have spoken of it in the Introduction.
