@@ -6,17 +6,17 @@ Treatise of Remarks on the Trigrams
 
 Chapter  <a id="fr_286"/>[I](#fn_286). 
 
-1. Anciently, when the sages made the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), in order to give mysterious assistance to the spiritual Intelligences, they produced (the rules for the use of) the divining plant.
+1. Anciently, when the sages made the [Yì Jīng](https://ctext.org/book-of-changes), in order to give mysterious assistance to the spiritual Intelligences, they produced (the rules for the use of) the divining plant.
 
 2. The number 3 was assigned to heaven, 2 to earth, and from these came the (other) numbers.
 
-3. They contemplated the changes in the divided and undivided lines (by the process of manipulating the stalks), and formed the trigrams; from the movements that took place in the strong and weak lines, they produced (their teaching about) the separate lines. There ensued a harmonious conformity to the course (of duty) and to virtue, with a discrimination of what was right (in each particular case). They (thus) made an exhaustive discrimination of what was right, and effected the complete development of (every) nature, till they arrived (in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching)) at what was appointed for it (by Heaven).
+3. They contemplated the changes in the divided and undivided lines (by the process of manipulating the stalks), and formed the trigrams; from the movements that took place in the strong and weak lines, they produced (their teaching about) the separate lines. There ensued a harmonious conformity to the course (of duty) and to virtue, with a discrimination of what was right (in each particular case). They (thus) made an exhaustive discrimination of what was right, and effected the complete development of (every) nature, till they arrived (in the [Yì Jīng](https://ctext.org/book-of-changes)) at what was appointed for it (by Heaven).
 
 <a id="p-423"/>
 
 Chapter  <a id="fr_287"/>[II](#fn_287).
 
-4. Anciently, when the sages made the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), it was with the design that (its figures) should be in conformity with the principles underlying the natures (of men and things), and the ordinances (for them) appointed (by Heaven). With this view they exhibited (in them) the way of heaven, calling (the lines) `yīn` and `yáng`; the way of earth, calling (them) the weak (or soft) and the strong (or hard); and the way of men, under the names of benevolence and righteousness. Each (trigram) embraced (those) three Powers; and, being repeated, its full form consisted of six lines. A distinction was made of (the places assigned) to the `yīn` and `yáng` lines, which were variously occupied, now by the strong and now by the weak forms, and thus the figure (of each hexagram) was completed.
+4. Anciently, when the sages made the [Yì Jīng](https://ctext.org/book-of-changes), it was with the design that (its figures) should be in conformity with the principles underlying the natures (of men and things), and the ordinances (for them) appointed (by Heaven). With this view they exhibited (in them) the way of heaven, calling (the lines) `yīn` and `yáng`; the way of earth, calling (them) the weak (or soft) and the strong (or hard); and the way of men, under the names of benevolence and righteousness. Each (trigram) embraced (those) three Powers; and, being repeated, its full form consisted of six lines. A distinction was made of (the places assigned) to the `yīn` and `yáng` lines, which were variously occupied, now by the strong and now by the weak forms, and thus the figure (of each hexagram) was completed.
 
 <a id="p-424"/>
 
@@ -24,7 +24,7 @@ Chapter  <a id="fr_288"/>[III](#fn_288).
 
 5. (The symbols of) heaven and earth received their determinate positions; (those for) mountains and collections of water interchanged their influences; (those for) thunder and wind excited each other the more; and (those for) water and fire did each other no harm. (Then) among these eight symbols there was a mutual communication.
 
-6. The numbering of the past is a natural process.; the knowledge of the coming is anticipation. Therefore in the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) we have (both) anticipation (and the natural process).
+6. The numbering of the past is a natural process.; the knowledge of the coming is anticipation. Therefore in the [Yì Jīng](https://ctext.org/book-of-changes) we have (both) anticipation (and the natural process).
 
 <a id="p-425"/>
 
@@ -92,13 +92,13 @@ Chapter  <a id="fr_296"/>[XI](#fn_296).
 
 ## Footnotes
 
-<a id="fn_286"/>[422:I](#fr_286) Chapter I, paragraphs 1-3, treats of the rise of the scheme of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) from the wonderful qualities of the divining plant, the use of certain numbers, and the formation of the lineal figures.
+<a id="fn_286"/>[422:I](#fr_286) Chapter I, paragraphs 1-3, treats of the rise of the scheme of the [Yì Jīng](https://ctext.org/book-of-changes) from the wonderful qualities of the divining plant, the use of certain numbers, and the formation of the lineal figures.
 
-P. Regis translates paragraph 1 by -- 'The ancient (sages), the most excellent men, were the authors of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), in making which they were assisted by an intelligent spirit, who for their help produced the plant called [**Shī**](shi.jpg) (蓍).'
+P. Regis translates paragraph 1 by -- 'The ancient (sages), the most excellent men, were the authors of the [Yì Jīng](https://ctext.org/book-of-changes), in making which they were assisted by an intelligent spirit, who for their help produced the plant called [**Shī**](shi.jpg) (蓍).'
 
-But the text will not admit of this version, nor have I found the view given in it in any Chinese writer. It is difficult to make up one's mind whether to translate -- 'the sage,' or 'the sages.' [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda) contends that the writer had [Fú-xī](https://en.wikipedia.org/wiki/Fuxi) and him alone in [his mind](#p-423). To me it seems otherwise. [Fú-xī](https://en.wikipedia.org/wiki/Fuxi), if we accept the testimony of universal Chinese consent, made the eight trigrams; but he did not make the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), which, by the same consent, was the production of king [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son.
+But the text will not admit of this version, nor have I found the view given in it in any Chinese writer. It is difficult to make up one's mind whether to translate -- 'the sage,' or 'the sages.' [Kǒng Yǐng-dá](https://en.wikipedia.org/wiki/Kong_Yingda) contends that the writer had [Fú-xī](https://en.wikipedia.org/wiki/Fuxi) and him alone in [his mind](#p-423). To me it seems otherwise. [Fú-xī](https://en.wikipedia.org/wiki/Fuxi), if we accept the testimony of universal Chinese consent, made the eight trigrams; but he did not make the [Yì Jīng](https://ctext.org/book-of-changes), which, by the same consent, was the production of king [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son.
 
-The text would seem to say that the sages 'produced' the plant, but this is so extravagant that the view indicated in my supplementary clause appears in all the best commentators. So understood, the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) may be said to 'give mysterious assistance to the spiritual Intelligences,' or, if we take that name as singular (according to the analogy of chapter 6), to the Divine Being in affording a revelation of His will, as in paragraph 3. We may well say that it is a pity the revelation should be so enigmatical; but the author, it must be remembered, is writing from his own standpoint. [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son, as I have endeavoured to show in the Introduction, merely wished to convey, under the style and veil of divination, their moral and political lessons.
+The text would seem to say that the sages 'produced' the plant, but this is so extravagant that the view indicated in my supplementary clause appears in all the best commentators. So understood, the [Yì Jīng](https://ctext.org/book-of-changes) may be said to 'give mysterious assistance to the spiritual Intelligences,' or, if we take that name as singular (according to the analogy of chapter 6), to the Divine Being in affording a revelation of His will, as in paragraph 3. We may well say that it is a pity the revelation should be so enigmatical; but the author, it must be remembered, is writing from his own standpoint. [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) and his son, as I have endeavoured to show in the Introduction, merely wished to convey, under the style and veil of divination, their moral and political lessons.
 
 On paragraph 2 it is said that heaven is round; and as the circumference of a circle is three times its diameter, hence 3 is the number of heaven. Again, earth is square, and as the circumference of a square is four times its length or breadth, or it consists of two pairs of equal sides, hence 2 is the number of earth.
 
@@ -130,4 +130,4 @@ The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors conside
 
 <a id="fn_295"/>[430:X](#fr_295) Chapter X has been discussed in the Introduction. Let it simply be added here, that the account which it does give of the formation of the six subsidiary trigrams is inconsistent with their gradual rise from the mutual imposition of the undivided and divided lines.
 
-<a id="fn_296"/>[432:XI](#fr_296) Chapter XI may be made to comprehend all the paragraphs from the 15th to the end, and shows how universally the ideas underlying the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching) are diffused through the world of nature. The quality of the several trigrams will be found with more or less of truth, and with less or more of fancy, in the objects mentioned in connexion with them. More needs not to be said on the chapter than has been done in the Introduction.
+<a id="fn_296"/>[432:XI](#fr_296) Chapter XI may be made to comprehend all the paragraphs from the 15th to the end, and shows how universally the ideas underlying the [Yì Jīng](https://ctext.org/book-of-changes) are diffused through the world of nature. The quality of the several trigrams will be found with more or less of truth, and with less or more of fancy, in the objects mentioned in connexion with them. More needs not to be said on the chapter than has been done in the Introduction.

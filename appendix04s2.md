@@ -15,7 +15,7 @@ Chapter I.
 
 Chapter II. 
 
-5. The family that accumulates goodness is sure to have superabundant happiness, and the family that accumulates evil is sure to have superabundant misery. The murder of a ruler by his minister, or of his father by a son, is not the result of the events of one morning or one evening. The causes of it have gradually accumulated, -- through the absence of early discrimination. The words of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), 'He treads on the hoar-frost; the strong ice will come (by and by),' show the natural (issue and growth of things).
+5. The family that accumulates goodness is sure to have superabundant happiness, and the family that accumulates evil is sure to have superabundant misery. The murder of a ruler by his minister, or of his father by a son, is not the result of the events of one morning or one evening. The causes of it have gradually accumulated, -- through the absence of early discrimination. The words of the [Yì Jīng](https://ctext.org/book-of-changes), 'He treads on the hoar-frost; the strong ice will come (by and by),' show the natural (issue and growth of things).
 
 <a id="p-420"/>
 
@@ -23,7 +23,7 @@ Chapter II.
 
 7. Although (the subject of) this divided line has excellent qualities, he (does not display them, but) keeps them under restraint. 'If he engage with them in the service of the king, and be successful, he will not claim that success for himself:' -- this is the way of the earth, of a wife, of a minister. The way of the earth is -- 'not to claim the merit of achievement,' but on behalf (of heaven) to bring things to their proper issue.
 
-8. Through the changes and transformations produced by heaven and earth, plants and trees grow luxuriantly. If (the reciprocal influence of) heaven and earth were shut up and restrained, we should have (a state that might suggest to us) the case of men of virtue and ability lying in obscurity. The words of the [Yì Jīng](https://en.wikipedia.org/wiki/I_Ching), 'A sack tied up: -- there will be no ground for blame or for praise,' are in reality a lesson of caution.
+8. Through the changes and transformations produced by heaven and earth, plants and trees grow luxuriantly. If (the reciprocal influence of) heaven and earth were shut up and restrained, we should have (a state that might suggest to us) the case of men of virtue and ability lying in obscurity. The words of the [Yì Jīng](https://ctext.org/book-of-changes), 'A sack tied up: -- there will be no ground for blame or for praise,' are in reality a lesson of caution.
 
 <a id="p-421"/>
 
