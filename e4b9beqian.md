@@ -48,7 +48,7 @@
 
 > Matching Line 6 in Adjacent Hexagram: [**䷁**](e59da4kun.md#2.6)
 
-7.(The lines of this hexagram are all strong and undivided, as appears from) the use of the number `NINE`. If the host of dragons (thus) appearing were to divest themselves of their heads, there would be good fortune.
+7.<a id="1.7"/> (The lines of this hexagram are all strong and undivided, as appears from) the use of the number `NINE`. If the host of dragons (thus) appearing were to divest themselves of their heads, there would be good fortune.
 
 > **䷀** changing to [**䷁**](e59da4kun.md)
 

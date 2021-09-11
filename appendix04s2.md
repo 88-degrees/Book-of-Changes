@@ -5,6 +5,7 @@
 Chapter I.
 
 1. (What is indicated by) [**Kūn ䷁**](e59da4kun.md) is most gentle and weak, but, when put in motion, is hard and strong; it is most still, but is able to give every definite form.
+
 <a id="p-419"/>
 
 2. 'By following, it obtains its (proper) lord,' and pursues its regular (course).

@@ -58,7 +58,7 @@ Chapter <a id="fr_256"/>[III](#fn_256).
 
 15. The [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) speak of the emblematic figures (of the complete diagrams). The `Yáo`([爻]https://zh.wikipedia.org/zh-cn/爻)) speak of the changes (taking place: in the several lines).
 
-16. The expressions about good fortune or bad are used with reference to (the figures and lines, as) being right or wrong (according to the conditions of time and place); those about repentance or regret refer to small faults (in the satisfying those conditions); when it is said 'there will be no error,' or 'no blame,' there is reference to (the subject) repairing an error by what is good.
+16. The expressions about good fortune or bad are used with reference to (the figures and lines, as) being right or wrong (according to the conditions of time and place); those about repentance or regret refer to small faults (in the satisfying those conditions); when it is said `there will be no error`, or `no blame`, there is reference to (the subject) repairing an error by what is good.
 
 17. Therefore the distinction of (the upper and lower trigrams and of the individual lines) as noble or mean is decided by the (relative) position (of the lines); the regulations of small and great are found in the diagrams, and the discriminations of good and bad fortune appear in the (subjoined) explanations.
 
