@@ -37,6 +37,7 @@ There are actually four possible values for each of the lines; the two on/off va
 | ☰ | Heaven | Bouncing | Head | Horse | Metal |
 
 A line **⚊** is called `NINE`, undivided.
+
 A line **⚋** is called `SIX`, divided.
 
 Read the HEXAGRAM from bottom to top.
