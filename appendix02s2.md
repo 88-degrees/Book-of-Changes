@@ -94,7 +94,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 4. 'He has (just) entered into the left side of the belly (of the dark land):' -- he is still able to carry out the idea in his (inner) mind.
 
-5. 'With the firm correctness of the count of [Qì](https://en.wiktionary.org/wiki/气),' his brightness could not be (quite) extinguished.
+5. 'With the firm correctness of the count of [Jī Zǐ](https://en.m.wikipedia.org/wiki/Jizi),' his brightness could not be (quite) extinguished.
 
 <a id="p-312"/>
 
