@@ -55,7 +55,7 @@ The case of king [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was that
 
 <a id="p-242"/>
 
-3. 'It will be advantageous to realise the difficulty (of the position), and maintain firm correctness: -- that is, (the individual concerned) should obscure his brightness. The case of the count of [Jī Zǐ](https://en.m.wikipedia.org/wiki/Jizi) was that of one who, amidst the difficulties of his House, was able (thus) to maintain his aim and mind correct.
+3. 'It will be advantageous to realise the difficulty (of the position), and maintain firm correctness: -- that is, (the individual concerned) should obscure his brightness. The case of the count of [Jī Zǐ](https://en.wikipedia.org/wiki/Jizi) was that of one who, amidst the difficulties of his House, was able (thus) to maintain his aim and mind correct.
 
 <a id="fr_161"/>[XXXVII](#fn_161).
 
@@ -356,7 +356,7 @@ Paragraph 2. That which is great (should be) correct: -- that the `should be` mu
 
 <a id="fn_160"/>[242:XXXVI](#fr_160) The sun disappearing, as we say, `below the earth`, or, as the Chinese writer conceives it, '*into the midst of, or within the earth*,' sufficiently indicates the obscuration or wounding of brightness, -- the repression and resistance of the good and bright.
 
-king [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was not of the line of [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty). Though opposed and persecuted by its sovereign, he could pursue his own course, till his line came in the end to supersede the other. It could not be so with the count of [Jī Zǐ](https://en.m.wikipedia.org/wiki/Jizi), who was a member of the House of [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty). He could do nothing that would help on its downfall.
+king [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) was not of the line of [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty). Though opposed and persecuted by its sovereign, he could pursue his own course, till his line came in the end to supersede the other. It could not be so with the count of [Jī Zǐ](https://en.wikipedia.org/wiki/Jizi), who was a member of the House of [Shāng](https://en.wikipedia.org/wiki/Shang_dynasty). He could do nothing that would help on its downfall.
 
 <a id="fn_161"/>[242:XXXVII](#fr_161) Paragraph 1 first [explains the statement](#p-243) of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan), about the wife, represented by line 2; and then proceeds to the husband, represented by line 5. The two trigrams become representative of the family circle, and the wide world without it. In the reference to heaven and earth it is not supposed that they are really husband and wife; but in their relation and positions they symbolise that social relation and the individuals in it.
 
