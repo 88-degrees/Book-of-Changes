@@ -1,6 +1,6 @@
 # 晋 ䷢
 
-<img src="shapes/35.10.jpg" width="101" alt="晋" align="left">
+<img src="shapes/35.10.png" width="101" alt="晋" align="left">
 
 晋（jìn）是`0:5`卦的卦名，`0:5`是晋卦的代号。
 
@@ -475,7 +475,7 @@
 才符合人类社会发展的大趋势。
 ```
 
-<img src="shapes/35.11.jpg">
+<img src="shapes/35.11.png">
 
 晋卦离上坤下，为乾宫游魂卦。晋取前进、晋见、晋升之意，上离下坤，为太阳普照大地，万物和顺之象，多主吉。
 

@@ -6,7 +6,7 @@
 
 <a id="p-127"/>
 
-<img src="shapes/33.10.jpg" width="101" alt="遯">
+<img src="shapes/33.10.png" width="101" alt="遯">
 
 **䷠ Dùn** indicates successful progress (in its circumstances). To a small extent it will (still) be advantageous to be firm and correct.
 

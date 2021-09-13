@@ -1,6 +1,6 @@
 # 恒 ䷟
 
-<img src="shapes/32.10.jpg" width="101" alt="恒" align="left">
+<img src="shapes/32.10.png" width="101" alt="恒" align="left">
 
 恒（héng），雷风恒，恒心有成。代号是`3:4`。
 `3:4`卦的主卦是`3`卦巽卦，卦象是风，阳数是`3`；客卦是`4`卦震卦，卦象是雷，阳数是`4`。

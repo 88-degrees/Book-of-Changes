@@ -1,6 +1,6 @@
 # 离 ䷝
 
-<img src="shapes/30.10.jpg" width="101" alt="离" align="left"/>
+<img src="shapes/30.10.png" width="101" alt="离" align="left"/>
 
 离（lí）卦是上离下离的卦名，代号是`5:5`。
 
@@ -402,7 +402,7 @@
 这里并不存在什么不利因素。
 ```
 
-<img src="shapes/30.11.jpg"/>
+<img src="shapes/30.11.png"/>
 
 离卦离上离下，为离宫本位卦。离可取光明、美丽、离散之意，利文章而不利出师。
 

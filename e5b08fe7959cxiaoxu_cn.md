@@ -1,6 +1,6 @@
 # 小畜 ䷈
 
-<img src="shapes/09.10.jpg" width="101" alt="小畜" align="left">
+<img src="shapes/09.10.png" width="101" alt="小畜" align="left">
 
 小畜（xiǎo xù）是`7:3`卦的卦名，`7:3`是小畜卦的代号。
 
@@ -550,7 +550,7 @@
 为了迫使异族认同大道而兴兵，不值当，这是下策。
 ```
 
-<img src="shapes/09.11.jpg">
+<img src="shapes/09.11.png">
 
 ### 初九：小畜卦巽上乾下，为巽宫初世卦。小畜为小的蓄积、小的阻碍，阳盛而阴不足，以致不得不暂时停顿，但终究还能亨通。
 

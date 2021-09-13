@@ -6,7 +6,7 @@
 
 <a id="p-57"/>
 
-<img src="shapes/01.10.jpg" width="101" alt="乾">
+<img src="shapes/01.10.png" width="101" alt="乾">
 
 **䷀ Qián** (represents) what is great and originating, penetrating, advantageous, correct and firm.
 

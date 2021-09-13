@@ -1,6 +1,6 @@
 # 复 ䷗
 
-<img src="shapes/24.10.jpg" width="101" alt="复" align="left">
+<img src="shapes/24.10.png" width="101" alt="复" align="left">
 
 复（fù）卦展示“复”形势下各种变化的可能性，“复”，反复。
 

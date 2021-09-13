@@ -1,6 +1,6 @@
 # 解 ䷧
 
-<img src="shapes/40.10.jpg" width="101" alt="解" align="left">
+<img src="shapes/40.10.png" width="101" alt="解" align="left">
 
 解（xiè）卦的代号是`2:4`。主卦是`2`卦坎卦，客卦是`4`卦震卦。
 
@@ -508,7 +508,7 @@
 这没有什么不吉利。
 ```
 
-<img src="shapes/40.11.jpg">
+<img src="shapes/40.11.png">
 
 解卦震上坎下，为震宫二世卦。震为动，坎为险，遇险而动，为即将脱险走出困境之兆，因此多主吉。
 

@@ -6,7 +6,7 @@
 
 <a id="p-134"/>
 
-<img src="shapes/36.10.jpg" width="101" alt="明夷">
+<img src="shapes/36.10.png" width="101" alt="明夷">
 
 **䷣ Míng Yí** indicates that (in the circumstances which it denotes) it will be advantageous to realise the difficulty (of the position), and maintain firm correctness.
 

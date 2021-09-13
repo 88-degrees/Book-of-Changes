@@ -1,6 +1,6 @@
 # 萃 ䷬
 
-<img src="shapes/45.10.jpg" width="101" alt="萃" align="left">
+<img src="shapes/45.10.png" width="101" alt="萃" align="left">
 
 萃（cuì）卦，上泽下地，泽地萃。象征荟萃聚集。
 
@@ -480,7 +480,7 @@
 也是众人所不加害的人，因而能够转危为安，得以无咎。
 ```
 
-<img src="shapes/45.11.jpg">
+<img src="shapes/45.11.png">
 
 萃卦兑上坤下，为兑宫二世卦。此卦指水在地上聚集成泽以滋润万物，造福于民。占得此卦，利于见大人，祭祀用大牲畜则吉利。
 

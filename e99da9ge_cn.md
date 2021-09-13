@@ -1,6 +1,6 @@
 # 革 ䷰
 
-<img src="shapes/49.10.jpg" width="101" alt="革" align="left">
+<img src="shapes/49.10.png" width="101" alt="革" align="left">
 
 革（gé）是`5:6`卦的卦名，`5:6`是革卦的代号。
 
@@ -468,7 +468,7 @@
 功成则事损，事损则无为。故居则得正而吉，征则躁忧而凶也。”
 ```
 
-<img src="shapes/49.11.jpg">
+<img src="shapes/49.11.png">
 
 革卦兑上离下，为坎宫四世卦。革就是需要变革，提醒占筮者需要变革才会更进一步。
 

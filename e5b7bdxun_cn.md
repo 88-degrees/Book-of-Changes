@@ -1,6 +1,6 @@
 # 巽 ䷸
 
-<img src="shapes/57.10.jpg" width="101" alt="巽" align="left">
+<img src="shapes/57.10.png" width="101" alt="巽" align="left">
 
 巽是`3:3`卦的卦名，`3:3`是巽卦的代号。“巽”（xùn），古同“逊”，谦让恭顺。
 

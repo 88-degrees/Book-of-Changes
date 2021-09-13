@@ -6,7 +6,7 @@
 
 <a id="p-76"/>
 
-<img src="shapes/09.10.jpg" width="101" alt="小畜">
+<img src="shapes/09.10.png" width="101" alt="小畜">
 
 **䷈ Xiǎo Xù** indicates that (under its conditions) there will be progress and success. (We see) dense clouds, but no rain coming from our borders in the west.
 

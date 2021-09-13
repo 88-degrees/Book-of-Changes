@@ -1,6 +1,6 @@
 # 随 ䷐
 
-<img src="shapes/17.10.jpg" width="101" alt="随" align="left">
+<img src="shapes/17.10.png" width="101" alt="随" align="left">
 
 随是跟随的意思，用于“随便”、“随从”、“跟随”、“随后”、“随意”等等。
 
@@ -422,7 +422,7 @@
 这一点，作者无论如何是想不到的。
 ```
 
-<img src="shapes/17.11.jpg">
+<img src="shapes/17.11.png">
 
 随卦兑上震下，为震宫归魂卦。随即顺从、随时之意，占得此卦，凡事顺心，吉无不利。
 

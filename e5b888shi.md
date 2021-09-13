@@ -6,7 +6,7 @@
 
 <a id="p-71"/>
 
-<img src="shapes/07.10.jpg" width="101" alt="师">
+<img src="shapes/07.10.png" width="101" alt="师">
 
 **䷆ Shī** indicates how, in the case which it supposes, with firmness and correctness, and (a leader of) age and experience, there will be good fortune and no error.
 

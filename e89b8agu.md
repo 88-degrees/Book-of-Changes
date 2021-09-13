@@ -6,7 +6,7 @@
 
 <a id="p-95"/>
 
-<img src="shapes/18.10.jpg" width="101" alt="蛊">
+<img src="shapes/18.10.png" width="101" alt="蛊">
 
 **䷑ Gǔ** indicates great progress and success (to him who deals properly with the condition represented by it). There will be advantage in (efforts like that of) crossing the great stream. (He should weigh well, however, the events of) three days before the turning point, and those (to be done) three days after it.
 

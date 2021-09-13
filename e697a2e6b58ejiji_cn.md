@@ -1,6 +1,6 @@
 # 既济 ䷾
 
-<img src="shapes/63.10.jpg" width="101" alt="既济" align="left">
+<img src="shapes/63.10.png" width="101" alt="既济" align="left">
 
 既济（jì jì）卦，水火既济盛极将衰。
 
@@ -358,7 +358,7 @@
 《象》曰：“濡其道，厉”，何可久也！
 ```
 
-<img src="shapes/63.11.jpg">
+<img src="shapes/63.11.png">
 
 既济卦坎上离下，为坎宫三世卦。既济就是说已经成功，事情已经摆平。但还需谨慎，当心物极必反。
 

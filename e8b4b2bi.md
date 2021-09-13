@@ -6,7 +6,7 @@
 
 <a id="p-103"/>
 
-<img src="shapes/22.10.jpg" width="101" alt="贲">
+<img src="shapes/22.10.png" width="101" alt="贲">
 
 **䷕ Bì** indicates that there should be free course (in what it denotes). There will be little advantage (however) if it be allowed to advance (and take the lead).
 

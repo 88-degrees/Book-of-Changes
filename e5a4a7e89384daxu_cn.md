@@ -1,6 +1,6 @@
 # 大畜 ䷙
 
-<img src="shapes/26.10.jpg" width="101" alt="大畜" align="left">
+<img src="shapes/26.10.png" width="101" alt="大畜" align="left">
 
 大畜（dà xù）卦展示在“大畜”形势下各种变化的可能性。
 

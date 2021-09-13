@@ -1,6 +1,6 @@
 # 豫 ䷏
 
-<img src="shapes/16.10.jpg" width="101" alt="豫" align="left">
+<img src="shapes/16.10.png" width="101" alt="豫" align="left">
 
 豫卦代号是`0:4`，主卦是坤卦，卦象地，客卦为震卦，卦象雷。
 
@@ -522,7 +522,7 @@
 参与前反复思虑，想清楚后便投入。
 ```
 
-<img src="shapes/16.11.jpg">
+<img src="shapes/16.11.png">
 
 豫卦震上坤下，为震宫初世卦。雷出地奋，象征春雷使万物苏醒，君王之威行于子民，因此有利于建候、行师。
 

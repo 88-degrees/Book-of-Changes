@@ -6,7 +6,7 @@
 
 <a id="p-178"/>
 
-<img src="shapes/53.10.jpg" width="101" alt="渐">
+<img src="shapes/53.10.png" width="101" alt="渐">
 
 **䷴ Jiàn** suggests to us the marriage of a young lady, and the good fortune (attending it). There will be advantage in being firm and correct.
 

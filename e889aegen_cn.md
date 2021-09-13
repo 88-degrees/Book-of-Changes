@@ -1,6 +1,6 @@
 # 艮 ䷳
 
-<img src="shapes/52.10.jpg" width="101" alt="艮" align="left">
+<img src="shapes/52.10.png" width="101" alt="艮" align="left">
 
 艮（gèn）卦展示“艮”形势下各种变化的可能性。艮，代表山。
 
@@ -361,7 +361,7 @@
 告诫人们注意减肥、注意言语、注意行为。至今仍有借鉴意义。
 ```
 
-<img src="shapes/52.11.jpg">
+<img src="shapes/52.11.png">
 
 艮卦艮上艮下，为艮宫本位卦。艮为停止的意思，为钱财散失之象，需谨慎提防。
 

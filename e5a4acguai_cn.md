@@ -1,6 +1,6 @@
 # 夬 ䷪
 
-<img src="shapes/43.10.jpg" width="101" alt="夬" align="left">
+<img src="shapes/43.10.png" width="101" alt="夬" align="left">
 
 夬（guài）是`7:6`卦的卦名，`7:6`是夬卦的代号。
 

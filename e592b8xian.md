@@ -6,7 +6,7 @@
 
 <a id="p-123"/>
 
-<img src="shapes/31.10.jpg" width="101" alt="咸">
+<img src="shapes/31.10.png" width="101" alt="咸">
 
 **䷞ Xián** indicates that, (on the fulfilment of the conditions implied in it), there will be free course and success.
 Its advantageousness will depend on the being firm and correct, (as) in marrying a young lady. There will be good fortune.

@@ -1,6 +1,6 @@
 # 明夷 ䷣
 
-<img src="shapes/36.10.jpg" width="101" alt="明夷" align="left">
+<img src="shapes/36.10.png" width="101" alt="明夷" align="left">
 
 明夷（míng yí）卦展示明夷形势下各种变化的可能性，“明夷”是失意的意思。
 
@@ -606,7 +606,7 @@
 归隐，大概也该算是人生“永恒主题”之一吧。
 ```
 
-<img src="shapes/36.11.jpg">
+<img src="shapes/36.11.png">
 
 明夷卦坤上离下，为坎宫游魂卦。明夷即明德被伤，象征君子受厄，此时百事宜息，静观待变。
 

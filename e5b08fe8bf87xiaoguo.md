@@ -6,7 +6,7 @@
 
 <a id="p-201"/>
 
-<img src="shapes/62.10.jpg" width="101" alt="小过">
+<img src="shapes/62.10.png" width="101" alt="小过">
 
 **䷽ Xiǎo Guò** indicates that (in the circumstances which it implies) there will be progress and attainment. But it will be advantageous to be firm and correct. (What the name denotes) may be done in small affairs, but not in great affairs. (It is like) the notes that come down from a bird on the wing; -- to descend is better than to ascend. There will (in this way) be great good fortune.
 

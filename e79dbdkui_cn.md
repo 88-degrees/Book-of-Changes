@@ -1,6 +1,6 @@
 # 暌 ䷥
 
-<img src="shapes/38.10.jpg" width="101" alt="暌" align="left">
+<img src="shapes/38.10.png" width="101" alt="暌" align="left">
 
 睽（kuí）卦是离上兑下的卦名。
 
@@ -362,7 +362,7 @@
 悠闲的心境和细致的体察，是产生这篇日记的关键因素。
 ```
 
-<img src="shapes/38.11.jpg">
+<img src="shapes/38.11.png">
 
 睽卦离上兑下，为艮宫四世卦。睽象征乖离、乖异，筮遇此卦，大事不吉，小事顺利。
 

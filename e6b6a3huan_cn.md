@@ -1,6 +1,6 @@
 # 涣 ䷺
 
-<img src="shapes/59.10.jpg" width="101" alt="涣" align="left">
+<img src="shapes/59.10.png" width="101" alt="涣" align="left">
 
 涣（huàn）是`2:3`卦的卦名，代号是`2:3`。“涣”：散开，涣散。
 
@@ -404,7 +404,7 @@
 【讲解】这一卦可能是讲大禹治水的过程。
 ```
 
-<img src="shapes/59.11.jpg">
+<img src="shapes/59.11.png">
 
 涣卦巽上坎下，为离宫五世卦。涣即涣散，表示恶事离身，患难将消，利涉大川，出入无阻，乃是吉卦。
 

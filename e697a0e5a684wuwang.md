@@ -6,7 +6,7 @@
 
 <a id="p-109"/>
 
-<img src="shapes/25.10.jpg" width="101" alt="无妄">
+<img src="shapes/25.10.png" width="101" alt="无妄">
 
 **䷘ Wú Wàng** indicates great progress and success, while there will be advantage in being firm and correct. If (its subject and his action) be not correct, he will fall into errors, and it will not be advantageous for him to move in any direction.
 

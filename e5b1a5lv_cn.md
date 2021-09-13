@@ -1,6 +1,6 @@
 # 履 ䷉
 
-<img src="shapes/10.10.jpg" width="101" alt="履" align="left">
+<img src="shapes/10.10.png" width="101" alt="履" align="left">
 
 履（lǚ）卦的代号是`6:7` ，主卦是兑卦，卦象是泽，阳数是`6`；客卦是乾卦，卦象是天，阳数是`7`。
 
@@ -698,7 +698,7 @@
 
 ```
 
-<img src="shapes/10.11.jpg">
+<img src="shapes/10.11.png">
 
 ### 初九：履卦乾上兑下，为艮宫五世卦。履为履行之意，又寓意礼，提示占筮者要兢兢戒惧，遵守礼节，这样才有惊无险。
 

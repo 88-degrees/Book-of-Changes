@@ -1,6 +1,6 @@
 # 比 ䷇
 
-<img src="shapes/08.10.jpg" width="101" alt="比" align="left">
+<img src="shapes/08.10.png" width="101" alt="比" align="left">
 
 “比”指比较。
 
@@ -319,7 +319,7 @@
 讲团结，搞外交，请不要忘了这个道义上的准则。
 ```
 
-<img src="shapes/08.11.jpg">
+<img src="shapes/08.11.png">
 
 比卦坎上坤下，为坤宫归魂卦。比为相亲相依附之意，长期如此，就会无咎，所以吉祥。
 
