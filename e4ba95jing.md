@@ -52,7 +52,7 @@
 
 # Notes
 
-**䷯ Jǐng**, which gives its name to this hexagram, is the symbol of a well. The character originally was pictorial ([井](https://ctext.org/dictionary.pl?if=en&char=井)), intended to represent a portion of land, divided into nine parts, the central portion belonging to the government, and being cultivated by the joint labour of the eight families settled on the other divisions. In the centre of it, moreover, was a well, which was the joint property of all the occupants.
+**䷯ Jǐng**, which gives its name to this hexagram, is the symbol of a well. The character originally was pictorial '[井](https://ctext.org/dictionary.pl?if=en&char=井)', intended to represent a portion of land, divided into nine parts, the central portion belonging to the government, and being cultivated by the joint labour of the eight families settled on the other divisions. In the centre of it, moreover, was a well, which was the joint property of all the occupants.
 
 What is said on **䷯ Jǐng** might be styled `Moralizings on a well`, or Lessons to be learned from a well for the good order and government of a country. What a well is to those in its neighbourhood, and indeed to men in general, that is government to a people. If rulers would only rightly appreciate the principles of government handed down from the good ages of the past, and faithfully apply them to the regulation of the present, they would be blessed themselves and their people with them.
 
