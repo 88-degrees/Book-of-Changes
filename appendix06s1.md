@@ -70,7 +70,7 @@ The rule for the relation of husband and wife is that it should be long-enduring
 
 <a id="fn_298"/>[439:1](#fr_298) But [**䷂ Zhūn**](e5b1afzhun.md) does not denote filling up. It is the symbol of being in a state of distress and difficulty. The writer is thinking of the result of the interaction of heaven and earth as being to fill all between them with the various forms of living beings; and to represent that he gives the result of [**䷂ Zhūn**](e5b1afzhun.md), and not its meaning. He makes a blunder which might have been easily avoided, for he adds immediately that the character is descriptive of things on their first production.
 
-<a id="fn_299"/>[439:2](#fr_300) It is difficult to follow the writer here. [**䷄ Xū**](e99c80xu.md) in the Text is the symbol of the idea of waiting. Does he mean that a provision of food and drink can only be made gradually? There is nothing in the character [**䷄ Xū**](e99c80xu.md) to awaken in the mind the idea of nourishment, Then the genesis of contention which is given is strange. The writer probably had in his mind the lines of the [Shih, II, i, ode 5. 3](https://ctext.org/dictionary.pl?if=en&id=15357): --
+<a id="fn_299"/>[439:2](#fr_300) It is difficult to follow the writer here. [**䷄ Xū**](e99c80xu.md) in the Text is the symbol of the idea of waiting. Does he mean that a provision of food and drink can only be made gradually? There is nothing in the character [**䷄ Xū**](e99c80xu.md) to awaken in the mind the idea of nourishment, Then the genesis of contention which is given is strange. The writer probably had in his mind the lines of the [Shī Jīng, II, i, ode 5. 3](https://ctext.org/dictionary.pl?if=en&id=15357): --
 
 ```
 'The loss of kindly feeling oft
