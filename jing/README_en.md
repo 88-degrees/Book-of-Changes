@@ -1,4 +1,4 @@
-## Jīng Shì Yì Zhuàn (京氏易传)
+## Jīng Shì Yì Zhuàn
 
 "[Master Jing's commentary and transmission of the Book of Changes](https://ctext.org/jingshi-yizhuan)" is a commentary on and alternative version of the Confucian Classic Yijing (易经) "[Book of Changes](../README.md)" written by the Han-period 汉 (206 BCE-220 CE) Confucian scholar [Jīng Fáng](https://en.wikipedia.org/wiki/Jing_Fang) 京房 (77-37 BCE). He was a disciple of [Jiāo Yán Shòu](https://zh.wikipedia.org/zh-tw/焦贛) 焦延寿 (also Called Jiāo Gàn 焦赣) and left the capital because he had some arguments with a high official, [Shí Xiǎn](https://zh.wikipedia.org/wiki/石顯) 石显. He became governor ([Tài Shǒu](https://zh.wikipedia.org/zh-tw/太守) 太守) of the commandery of [Wèi Jùn](https://en.wikipedia.org/wiki/Wei_Commandery) 魏郡 and was later executed for political reasons.
 
