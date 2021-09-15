@@ -1,6 +1,6 @@
 # 京氏易传
 
-<img src="jing.png" width="666">
+<img src="jing.png" width="606">
 
 - [English Introduction](README_en.md)
 
@@ -45,6 +45,8 @@
 芒种五月节在午，乾宫九四，大雪同用。夏至五月中在巳，兑宫初九，冬至同用。
 
 小暑六月节在辰，艮宫初六，小寒同用。大暑六月中在卯，离宫初九，大寒同用。
+
+<img src="jieqi.png" width="606">
 
 孔子易云：“有四易，一世二世为地易，三世四世为人易，五世六世为天易，游魂归魂为鬼易。”
 
