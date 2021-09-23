@@ -65,5 +65,3 @@ Line 4 is the lowest in the trigram **☰ Qián** of strength, and 1 is not a [p
 Line 5 is strong, in the central place of honour, and has its proper correlate in 2. Hence its subject must possess the quality of the hexagram in perfection. And yet he shall he sick or in distress. But he need not be anxious. Without his efforts a way of escape for him will be opened.
 
 Line 6 is at the top of the hexagram **䷘**, and comes into the field when the action has run its course. He should be still, and not initiate any fresh movement.
-
-# [无妄 ䷘](e697a0e5a684wuwang_cn.md)

@@ -68,5 +68,3 @@ Line 4 is weak, as it ought to be, and its subject has respect to the authority 
 Line 5 is strong, and in its correct place. Its subject regulates himself, having no correlate; but he is lord of the hexagram, and his influence is everywhere beneficially felt.
 
 Line 6 is weak, in its proper place. The subject of the topmost line must be supposed to possess an exaggerated desire for enacting regulations. They will be too severe, and the effect will be evil. But as Confucius ([Analects 3. 3](https://ctext.org/dictionary.pl?if=en&id=1144&remap=gb)) says, that is not so great a fault as to be easy and remiss. It may be remedied, and cause for repentance will disappear.
-
-# [节 ䷻](e88a82jie_cn.md)

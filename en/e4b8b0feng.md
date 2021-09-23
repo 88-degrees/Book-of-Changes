@@ -67,5 +67,3 @@ The symbolism of line 4 is the same as that of 2, till we come to the last sente
 The subject of line 5 is in the ruler's place, himself weak, but `the lord` of the trigram of Movement **☳**. He can do little unhelped, but if he can bring into the work and employ in his service the talents of 1, 3, and 4, and even of 2, his correlate, the results will be admirable. Nothing consolidates the prosperity of a country so much as the co-operation of the ruler and able ministers.
 
 All the conditions of line 6 are unfavourable, and its subject is left to himself without any helpers. He is isolated for long, and undone. The issue is only evil.
-
-# [丰 ䷶](e4b8b0feng_cn.md)

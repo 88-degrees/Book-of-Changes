@@ -68,7 +68,7 @@ Chapter <a id="fr_282"/>[IV](#fn_282).
 
 21. '*The dragon is on the wing in the sky this shows that his place is based on his heavenly virtue.*'
 
-22. '*The dragon exceeds the (proper) limit;--there will be occasion for repentance:*' -- the time is come to an end, and so also is his opportunity.
+22. '*The dragon exceeds the (proper) limit; -- there will be occasion for repentance:*' -- the time is come to an end, and so also is his opportunity.
 
 23. Undivided NINES appear in all these representations of the great and originating power denoted by [**䷀ Qián**](e4b9beqian.md): -- and (from what follows in the [Yáo](https://zh.wikipedia.org/zh-cn/爻)) we see the model (of action) afforded by heaven.
 

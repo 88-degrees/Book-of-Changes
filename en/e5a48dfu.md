@@ -73,5 +73,3 @@ Line 4 has its proper correlate in 1; different from all the other weak lines; a
 Line 5 is in the central place of honour, and the middle line of **☷ Kūn**, denoting docility. Hence its auspice.
 
 Line 6 is weak; and being at the top of the hexagram **䷗**, when its action of returning is all concluded, action on the part of its subject will lead to evils such as are mentioned. `Ten years` seems to be a round number, signifying a long time, as in [hexagram **䷂**, line 2](e5b1afzhun.md#3.2).
-
-# [复 ䷗](e5a48dfu_cn.md)

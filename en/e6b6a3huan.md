@@ -69,5 +69,3 @@ Line 4, though weak, is in its correct place, and adjoins the strong 5, which is
 Line 5 gives us the action of the ruler himself; -- by his proclamations, and by his benevolence. [Zhū Xī](https://en.wikipedia.org/wiki/Zhu_Xi) and other critics enlarge on the symbolism of the perspiration, which they think much to the point. P. Regis avoids it, translating -- 'The one big waste laws, causes permeate (ur?).' Canon McClatchie has an ingenious and original, so far as my Chinese reading goes, note upon it: -- 'As sweat cures fevers, so do proclamations cure rebellions.' Both of these translators miss the meaning of the other instance of the king's work.
 
 Line 6 is occupied by a strong line, which has a proper correlate in 3; but 3 is at the top of the trigram of peril. The subject of 6 hurries away from association with the subject of it, but does so in the spirit of the hexagram, so that there is no error or blame attaching to him.
-
-# [涣 ䷺](e6b6a3huan_cn.md)

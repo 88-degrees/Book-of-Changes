@@ -61,5 +61,3 @@ Of old, in a civil case, both parties, before they were heard, brought to the [c
 The fifth line represents `the lord of judgment`. As it is a weak line, he will be disposed to leniency; and his judgments will be correct. This is declared by his finding the `yellow metal`; for yellow is one of the five `correct` colours. The position is in the centre and that of rule; but the line being weak, a caution is given, as under the previous line.
 
 The action of the figure has passed, and still we have, in the subject of line 6, one persisting in wrong, a strong criminal, wearing the cangue, and deaf to counsel. of course the auspice is evil.
-
-# [噬嗑 ䷔](e599ace59791shike_cn.md)

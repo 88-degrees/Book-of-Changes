@@ -65,5 +65,3 @@ Line 4 is weak, and has advanced into the trigram **☵** for water. Its subject
 `The neighbour in the East` is the subject of line 5, and `the neighbour in the West` is the subject of the correlate 2, the former quarter being `yáng` and the latter `yīn`. Line 5 is strong, and 2 is weak; but weakness is more likely to be patient and cautious than strength. They are compared to two men sacrificing. The one presents valuable offerings; the other very poor ones. But [the second excels in sincerity](e69caae6b58eweiji.md#p-208), and his small offering is the more acceptable.
 
 The topmost line is weak, and on the outmost edge of **☵ Kǎn**, the trigram, of peril. His action is violent and perilous, like that one attempting to cross a ford, and being plunged overhead into the water.
-
-# [既济 ䷾](e697a2e6b58ejiji_cn.md)

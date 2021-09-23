@@ -67,5 +67,3 @@ The subject of the fourth line, the first of the upper trigram **☵ Kǎn**, has
 The subject of the fifth line is in the place of authority, and should show himself a ruler, dispensing benefits on a great scale. But he is in the very centre of the trigram denoting perilousness, and line 2, which responds to 5, is weak. Hence arises the symbolism, and great things should not be attempted.
 
 The sixth line is weak; the third responding to it is also weak it is at the extremity of peril; the game is up. What can remain for its subject in such a case but terror and abject weeping?
-
-# [屯 ䷂](e5b1afzhun_cn.md)

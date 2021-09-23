@@ -72,5 +72,3 @@ Line 4, though strong, is in an even place; and this might vitiate the endeavour
 Line 5 is weak, in an odd place. But its subject is the ruler, humble and supported by the subject of the strong 2; and hence the auspice is very good.
 
 The subject of line 6, when the work of the hexagram has been done, appears disposed to remain quiet in the confidence of his own power, but enjoying himself; and thereby he will do right. If, on the contrary, he will go on to exert his powers, and play with the peril of the situation, the issue will be bad.
-
-# [未济 ䷿](e69caae6b58eweiji_cn.md)

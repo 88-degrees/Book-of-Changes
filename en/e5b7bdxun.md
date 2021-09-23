@@ -70,5 +70,3 @@ Line 4 is weak, as is its correlate in 1. But 4 is a proper place for a weak lin
 On line 5 [Guǎn Zǐ](https://en.wikipedia.org/wiki/Guanzi_(text)) says: -- 'It is the seat of honour, and the place for the lord of Sun, from whom there issue all charges and commands. It is central and correct; we must find in its subject the qualities denoted by Sun in their greatest excellence. But those qualities are docility and accordance with what is right; and the advantage of firm correctness is insisted on. With this all will be right.' With the concluding sentence compare the conclusion of the [Tuàn](https://ctext.org/book-of-changes/tuan-zhuan) of [hexagram 18 ䷑](e89b8agu.md).
 
 The evil that paragraph 6 concludes with would arise from the quality of Sun being carried to excess. I have followed the [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors in adopting a change of one character in the received Text.
-
-# [巽 ䷸](e5b7bdxun_cn.md)

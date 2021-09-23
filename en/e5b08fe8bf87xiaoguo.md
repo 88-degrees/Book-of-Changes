@@ -73,5 +73,3 @@ The first part of the symbolism is the same as that of the [Tuàn](https://ctext
 The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors find in the concluding symbolism an incentive to humility: -- 'The duke, leaving birds on the wing, is content to use his arrows against those in a cave!'
 
 Line 6 is weak, and is at the top of the trigram of movement **☳**. He is possessed by the idea of the hexagram in an extreme degree, and is incapable of keeping himself under restraint.
-
-# [小过 ䷽](e5b08fe8bf87xiaoguo_cn.md)

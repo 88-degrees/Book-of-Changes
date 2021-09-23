@@ -72,5 +72,3 @@ Line 4 is strong, but in an even place. It is the seat of the mind. Its subject 
 The symbolism of line 5 refers to a part of the body behind the heart, and is supposed therefore to indicate an influence, ineffective indeed, but free from selfish motive, and not needing to be repented of.
 
 Line 6 is weak, and in an even place. It is the topmost line also of the trigram of satisfaction. Its influence by means of speech will only be that of loquacity and flattery, the evil of which needs not to be pointed out.
-
-# [咸 ䷞](e592b8xian_cn.md)

@@ -69,5 +69,3 @@ The web-footed goose is not suited for taking hold on the branches; but on flat 
 Line 5 is a strong line in the ruler's seat; and yet it appears here as the symbol of a wife. Somehow its subject has been at variance with, and kept in disgrace by, calumniating enemies such as the plunderers of paragraph 3; but things come right in the end. The wife, childless for three years, becomes at last a mother; and there is good fortune.
 
 The subject of line 6 has reached the top of the hexagram. There is no more advance for him; and he has no correlate. But he may still do some good work for the state, and verify the auspice derived from the ornamental plumes of the geese.
-
-# [渐 ䷴](e6b890jian_cn.md)

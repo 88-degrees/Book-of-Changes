@@ -73,5 +73,3 @@ Line 4 is in the place of a great minister, who is charged with the most difficu
 'Paragraph 5,' says the Daily Lecture, 'praises the ruler as condescending to the worthy with his humble virtue.' `Yellow` has occurred repeatedly as `a correct colour`; and here `the yellow ears and strong rings of metal` are intended to intensify our appreciation of the occupant of 5. As the line is divided, a caution is added about being firm and correct.
 
 Line 6 is strong, but the strength is tempered by its being in an even place. It is this which makes the handle to be of jade, which, though very hard, is supposed to have a peculiar and rich softness of its own. The auspice of the line is very good. `The great minister`, it is said, `the subject of 6`, performs for the ruler, the subject of 5, in helping his government and nourishing the worthy, the part which the handle does for the caldron.
-
-# [鼑 ䷱](e9bc8eding_cn.md)

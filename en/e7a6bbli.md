@@ -68,5 +68,3 @@ The strength of line 4, and its being in an even place, make its subject appear 
 Line 5 is in the place of honour, and central. But it is weak; as is its correlate. Its position between the strong 4 and 6 fills its subject with anxiety and apprehension, that express themselves as is described. But such demonstrations are a proof of his inward adherence to right and his humility. There will be good fortune.
 
 Line 6, strong and at the top of the figure, has the intelligence denoted by its trigrams in the highest degree, and his own proper vigour. Through these his achievements are great, but his generous consideration is equally conspicuous, and he falls into no error.
-
-# [离 ䷝](e7a6bbli_cn.md)

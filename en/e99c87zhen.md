@@ -69,5 +69,3 @@ The 4th line, however, has a bad auspice of its own. It is undivided in an even 
 Line 5 is divided, in an odd place, and that in which the action of the hexagram may be supposed to be concentrated. Hence its subject is always in peril; but his central position indicates safety in the end.
 
 Line 6 is weak, and has to abide the concluding terrors of the movement. Action on the part of its subject is sure to be evil. If, however, he were to take precautions, he might escape with only the censures of his relatives. But I do not see anything in the figure to indicate this final symbolism. The writer, probably, had a case in his mind, which it suited; but what that was we do not know.
-
-# [震 ䷲](e99c87zhen_cn.md)

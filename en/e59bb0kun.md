@@ -69,5 +69,3 @@ Line 4 is the proper correlate of 1, but it is a strong line in an even place, a
 Line 5 is repressed by 6, and pressed on by 4. Above and below its subject is wounded. Especially is he straitened by the minister in 4, with his scarlet knee-covers. But the upper trigram is **☱ Duì**, with the quality of complacent satisfaction. And this indicates, it is said, that the subject of 5 gets on notwithstanding his straits, especially by his sincerity. This explanation is not more satisfactory than the last.
 
 Line 6 is at the top of the figure, where the distress may be supposed to reach its height. Its subject appears bound and on a perilous summit. But his extremity is also his opportunity. He is moved to think of repenting; and if he do repent, and go forward, his doing so will be fortunate.
-
-# [困 ䷮](e59bb0kun_cn.md)

@@ -66,5 +66,3 @@ Line 4 is not in the centre, nor in an odd place, appropriate to it as undivided
 Purslain grows in shady places, and hence we find it here in close contiguity to the topmost line, which is `yīn`. As 5 is the ruler's seat, evil may come to him from such contiguity, and strenuous efforts must be made to prevent such an evil. The subject of the line, the ruler in the central place, will commit no error. It must be allowed that the symbolism in this line is not easily managed.
 
 The subject of the 6th line, standing alone, may be easily disposed of.
-
-# [夬 ䷪](e5a4acguai_cn.md)

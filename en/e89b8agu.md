@@ -69,5 +69,3 @@ Line 4 is weak, and in an even place, which intensifies that weakness. Hence com
 The weak line 5, as has been said, is the seat of the ruler; but its proper correlate is the strong 2, the strong siding champion minister, to whom the work of the hexagram is delegated.
 
 Line 6 is strong, and has no proper correlate below. Hence it suggests the idea of one outside the sphere of action, and taking no part in public affairs, but occupied with the culture of himself.
-
-# [蛊 ䷑](e89b8agu_cn.md)

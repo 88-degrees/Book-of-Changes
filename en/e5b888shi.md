@@ -63,5 +63,3 @@ Line 4 is weak and not central; and therefore `to retreat` is [natural for its s
 In line 5 we seem to have an intimation of the important truth that only defensive war, or war waged by the rightful authority to put down rebellion and lawlessness, is right. `The birds in the fields` symbolise parties attacking for plunder. The fifth line symbolises the chief authority, -- the king, who is weak, or humble, and in the centre, and cedes the use of all his power to the general symbolised by line 2. The subject of 2 is `the oldest son`. Those of three and four are supposed to be `the younger brother and son`, that is, `the younger men`, who would cause evil if admitted to share the command.
 
 The lesson on the topmost line is true and important, but the critics seem unable to deduce it from the nature of the line, as divided and in the sixth place.
-
-# [师 ䷆](e5b888shi_cn.md)

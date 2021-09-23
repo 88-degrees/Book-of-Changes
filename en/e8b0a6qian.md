@@ -63,5 +63,3 @@ Line 4 is weak and in its proper position. Its subject is sure to [be successful
 All men love and honour humility, in itself and without the adjuncts which usually command obedience and respect. Hence his neighbours follow the ruler in the fifth line, though he may not be very rich or powerful. His humility need not keep him from asserting the right, even by force of arms.
 
 The subject of the sixth line, which is weak, is outside the game, so to speak, that has been played out. He will use force, but only within his own sphere and to assert what is right. He will not be aggressive.
-
-# [谦 ䷎](e8b0a6qian_cn.md)

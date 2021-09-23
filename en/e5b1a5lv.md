@@ -65,5 +65,3 @@ Line 4 is in contiguity with 5, whose subject is in the place of authority; but 
 Beneath the symbolism under line 5, lies the principle that the most excellent thing in `propriety` is humility. And the subject of the line, which is strong and central, will not be lacking in this, but bear in mind that the higher he is exalted, the greater may be his fall.
 
 What is said on line 6 is good, but is only a truism. The whole course has been shown; if every step has been right and appropriate, the issue will be very good.
-
-# [履 ䷉](e5b1a5lv_cn.md)

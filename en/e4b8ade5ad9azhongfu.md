@@ -65,5 +65,3 @@ Line 4 is weak, and in its correct place. The subject of it has discarded the co
 Line 5 is strong and central, in the ruler's place. Its subject must be the sage on the throne, whose sincerity will go forth and bind all in union with himself.
 
 Line 6 should be divided, but is undivided; and coming after 5, what can the subject of it do? His efforts will be ineffectual, and injurious to himself. He is symbolised by a cock -- literally, `the plumaged voice`. But a cock is not fitted to fly high, and in attempting to do so will only suffer hurt.
-
-# [中孚 ䷼](e4b8ade5ad9azhongfu_cn.md)

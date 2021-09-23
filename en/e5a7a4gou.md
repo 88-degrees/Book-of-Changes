@@ -70,5 +70,3 @@ Line 1 is the proper correlate of 4; but it has already met and associated with 
 Line 5 is strong, and in the ruler's place. Its relation to 1 is like that of a forest tree to the spreading gourd. But let not its subject use force to destroy or repress the growth of 1; but let him restrain himself and keep his excellence concealed, and Heaven will set its seal to his virtue.
 
 The symbolism of line 6 is difficult to understand, though the meaning of what is said is pretty clear. The [Kāng Xī](https://en.wikipedia.org/wiki/Kangxi_Dictionary) editors observe: -- 'The subject of this line is like an officer who has withdrawn from the world. He can accomplish no service for the time; but his person is removed from the workers of disorder.'
-
-# [姤 ䷫](e5a7a4gou_cn.md)

@@ -67,5 +67,3 @@ Line 4 is a weak line resting in a proper place; hence it gives a good auspice. 
 The place of the weak fifth line is not proper for it; and this accounts for the mention of its subject `repenting`, for which, however, there is not occasion.
 
 The third line of the trigrams, and the sixth of the hexagram, is what makes **䷳ Gèn** what it is, -- the symbol of a mountain. The subject of it therefore will carry out the resting required by the whole figure in the highest style.
-
-# [艮 ䷳](e889aegen_cn.md)

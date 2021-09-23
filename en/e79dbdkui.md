@@ -65,5 +65,3 @@ Line 4 has no proper correlate, and might seem to be solitary. But, as we saw on
 The place of 5 is odd, but the line itself is weak, so that there might arise occasion for repentance. But the strong 2 is a proper correlate to the weak 5. Five being the sovereign's place, the subject of 2 is styled the sovereign's relative, of [the same surname with him](e8b987jian.md#p-142), and head of some branch of the descendants of the royal house. It is as easy for 5, so supported, to deal with the disunion of the time, as to bite through a piece of skin.
 
 Line 6 is an even place, and yet the line is strong; -- what can its subject effect? He looks at 3, which, as weak, is a proper correlate; but he looks with the evil eye of disunion. The subject of 3 appears no better than a filthy pig, nor more real than an impossible carriage-load of ghosts. He bends his bow against him, but he unbends it, discovering a friend in 3, as x did in 4, and 5 in 2. He acts and with good luck, comparable to the falling rain, which results from the happy union of the `yáng` and `yīn` in nature.
-
-# [睽 ䷥](e79dbdkui_cn.md)

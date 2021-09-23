@@ -66,5 +66,3 @@ What is said on the fourth line appears in the form of an address to its subject
 Line 5 is weak in an odd place; but the place is that of the ruler, to whom it belongs to perfect the idea of the [hexagram ䷨]((e68d9fsun.md#p-147)) by removing all that is contrary to the peace and good order of the kingdom. It will be his duty to remove especially all the small men represented by the divided lines, which he can do with the help of his strong correlate in 2. Then even the small men will change their ways, and repair to him.
 
 Line 6 is the highest line in the figure, but not the place of the ruler. Hence it appears as occupied by a feudal duke, who carries out the idea of the figure against small men, according to the symbolism employed.
-
-# [解 ䷧](e8a7a3xie_cn.md)

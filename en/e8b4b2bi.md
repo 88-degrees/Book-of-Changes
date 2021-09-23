@@ -63,5 +63,3 @@ Line 4 has its proper correlate in 1, from whose strength it should receive orna
 Line 5 is in the place of honour, and has no proper correlate in 2. It therefore associates with the strong 6, which is symbolised by the heights and gardens round a city, and serving both to protect and to beautify it. Thus the subject of the line receives adorning from without, and does not of itself try to manifest it. Moreover, in his weakness, his offerings of ceremony are poor and mean. But, as Confucius said, '[In ceremonies it is better to be sparing than extravagant.](https://ctext.org/dictionary.pl?if=en&id=1145)' Hence that stinginess does not prevent a good auspice.
 
 Line 6 is at the top of the hexagram **䷕**. Ornament has had its course, and here there is a return to pure, `white`, simplicity. Substantiality is better than ornament.
-
-# [贲 ䷕](e8b4b2bi_cn.md)

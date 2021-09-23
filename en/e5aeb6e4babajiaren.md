@@ -63,5 +63,3 @@ Line 4 is weak, and in its proper place. The wife is again suggested to us, and 
 The subject of the strong fifth line appears as the king. This may be the husband spoken of as also a king; or the real king whose merit is revealed first in his family, as often in the <a href="https://en.wikipedia.org/wiki/Classic_of_Poetry">Shī Jīng</a>, where king [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) is the theme. The central place here tempers the display of the strength and power.
 
 Line 6 is also strong, and being in an even place, the subject of it might degenerate into stern severity, but he is supposed to be sincere, complete in his personal character and self-culture, and hence his action will only lead to good fortune.
-
-# [家人 ䷤](e5aeb6e4babajiaren_cn.md)

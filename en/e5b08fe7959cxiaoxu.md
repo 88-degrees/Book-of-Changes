@@ -68,5 +68,3 @@ The subject of line 4, one weak line against all the strong lines of the hexagra
 Line 5 occupies the central place of **☴ Xùn**, and converts, by the sincerity, of its subject, 4 and 6 into its neighbours, who suffer themselves to be used by it, and effect their common object.
 
 In line 6, the idea of the hexagram has run its course. The harmony of nature is restored. The rain falls, and the onward march of the strong lines should now stop. But weakness that has achieved such a result, if it plume itself on it, will be in a position of peril; and like the full moon, which must henceforth wane. Let the superior man, when he has attained his end, remain in quiet.
-
-# [小畜 ䷈](e5b08fe7959cxiaoxu_cn.md)

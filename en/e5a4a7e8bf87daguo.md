@@ -65,5 +65,3 @@ Line 4 is near 5, the ruler's place. On its subject devolves the duty of meeting
 Line 5 is strong and central. Its subject should be equal to achieve extraordinary merit. But he has no proper correlate below, and as 2 inclined to 1, so does this to 6. But here the willow only produces flowers, not shoots; -- its decay will soon reappear. An old wife will have no children. If the subject of the line is not to be condemned as that of 3, his action does not deserve praise.
 
 The subject of 6 pursues his daring course, with a view to satisfy the extraordinary exigency of the time, and benefit all under the sky. He is unequal to the task, and sinks beneath it; but his motive modifies the judgment on his conduct.
-
-# [大过 ䷛](e5a4a7e8bf87daguo_cn.md)

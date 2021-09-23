@@ -63,5 +63,3 @@ Line 4 is weak, but in its right place. [Zhū Xī](https://en.wikipedia.org/wiki
 Line 5 should be the place of the ruler or sovereign in the hexagram; but 6 is assigned as that place in `Míng Yí`. The officer occupying 5, the centre of the upper trigram **☷**, and near to the sovereign, has his ideal in the count of `Jī Zǐ`([箕子](https://en.wikipedia.org/wiki/Jizi)), whose action appears in the [Zhōu Shū](https://ctext.org/dictionary.pl?if=en&id=43059). He is a historical personage.
 
 Line 6 sets forth the fate of the ruler, who opposes himself to the officer who would do him good and intelligent service. Instead of becoming as the sun, enlightening all from the height of the sky, he is as the sun hidden below the earth. I can well believe that the writer had the last king of [Shāng](http://en.wikipedia.org/wiki/Shang_dynasty) in his mind.
-
-# [明夷 ䷣](e6988ee5a4b7mingyi_cn.md)

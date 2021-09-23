@@ -71,5 +71,3 @@ Line 4 is weak, and, though in its proper place, its subject could do little of 
 Line 5 is the king, the man great and strong. He can cope with the difficulties, and the subjects of 2 and the other lines of the lower trigram **☶** give their help.
 
 The action of the hexagram is over; where can the weak 6 go forward to? Let him abide where he is, and serve the great man immediately below him. So shall he also be great; -- in meritorious action at least.
-
-# [蹇 ䷦](e8b987jian_cn.md)

@@ -65,5 +65,3 @@ Line 4 is weak, and will get no help from its correlate in 1. Its subject is not
 The subject of line 5 is on the eve of extrication and deliverance. The waters of the defile will ere long have free vent and disappear, and the ground will be levelled and made smooth. The line is strong, in a proper place, and in the place of honour.
 
 The case of the subject of line 6 is hopeless. When danger has reached its highest point, there he is, represented by a weak line, and with no proper correlate below. The `thicket of thorns` is taken as [a metaphor for a prison](https://ctext.org/dictionary.pl?if=en&id=25530); but if the expression has a history, I have been unable to find it.
-
-# [坎 ䷜](e59d8ekan_cn.md)
