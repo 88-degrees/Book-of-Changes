@@ -1,6 +1,6 @@
 # 中孚 ䷼
 
-<img src="shapes/61.10.png" width="101" alt="中孚" align="left"/>
+<img src="../shapes/61.10.png" width="101" alt="中孚" align="left"/>
 
 中孚（䷼ zhōng fú）卦的代号是`6:3`。主卦是`6`卦，兑卦，卦象是泽，特性是愉快；客卦是`3`卦，巽卦，卦象是风，特性是顺从。中孚的意思是双方应当诚恳相待。风泽中孚，诚信立身。这个卦是异卦，下兑上巽，相叠。孚，本义孵，孵卵出壳的日期非常准确，有信的意义。卦形外实内虚，喻心中诚信，所以称中孚卦。这是立身处世的根本。《中孚》卦象征诚信，诚信施及到愚钝无知的小猪、小鱼身上，从而感化了它们，因此获得吉祥，利于涉越大河大川，利于坚守中正之道。主方愉快地享受成功的喜悦，客方具有良好素质，顺从主方，可以和谐合作。双方都不需要损害对方，诚恳地相互支持，互利共赢。
 
@@ -30,7 +30,7 @@
 > 上九，翰音登于天，貞凶。
 >《象》曰：翰音登于天，何可長也。
 
-<img src="shapes/61.11.png"/>
+<img src="../shapes/61.11.png"/>
 
 > 中孚（䷼ zhōng fú）是异卦，下兑上巽，相叠。孚（fú），本义孵，孵卵出壳的日期非常准确，有信的意义。卦形外实内虚，喻心中诚信，所以称中孚卦。这是立身处世的根本。
 
@@ -86,7 +86,7 @@
 - 家宅：不必迁居；从一而终。
 - 身体：谨防病变，变则危险。
 
-<img src="shapes/61.01.png" width="121" align="left"/>
+<img src="../shapes/61.01.png" width="121" align="left"/>
 
 初九爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：家贵子孝；夫唱妇随。。
 - 身体：传染之疾。
 
-<img src="shapes/61.02.png" width="121" align="left"/>
+<img src="../shapes/61.02.png" width="121" align="left"/>
 
 九二爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：谨防离奇；反复未成。
 - 身体：时好时坏，求神保佑。
 
-<img src="shapes/61.03.png" width="121" align="left"/>
+<img src="../shapes/61.03.png" width="121" align="left"/>
 
 六三爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：阴气过盛；可能丧偶。
 - 身体：可渐复元。
 
-<img src="shapes/61.04.png" width="121" align="left"/>
+<img src="../shapes/61.04.png" width="121" align="left"/>
 
 六四爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：和乐之家；百年好合。
 - 身体：手足不便，带病延年。
 
-<img src="shapes/61.05.png" width="121" align="left"/>
+<img src="../shapes/61.05.png" width="121" align="left"/>
 
 九五爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：家业难保；恐难偕老。
 - 身体：病状甚苦。
 
-<img src="shapes/61.06.png" width="121" align="left"/>
+<img src="../shapes/61.06.png" width="121" align="left"/>
 
 上九爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 

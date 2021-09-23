@@ -1,6 +1,6 @@
 # 鼑 ䷱
 
-<img src="shapes/50.10.png" width="101" alt="鼎" align="left">
+<img src="../shapes/50.10.png" width="101" alt="鼎" align="left">
 
 鼎（䷱ dǐng）卦的代号是`3:5`，主卦是`3`卦，巽卦，阳数是`3`；客卦是`5`卦，离卦，阳数是`5`。鼎卦的含义是稳定图变。鼎卦是异卦，下巽上离，相叠。燃木煮食，化生为熟，除旧布新的意思。鼎为重宝大器，三足稳重之象。鼎卦上接井卦和革卦，它是言谈改革的第三卦。鼎卦利用“鼎颠趾，利出否；得妾以其子”，和给鼎重从装上“黄耳金铉”“玉铉”的形象来谈改革后的可喜收获，同时也提出由于改革不慎而带来“鼎折足”的可怕结局。鼎，不仅是一种炊具，也是一种政权的象征，自古每有“ 问鼎”“定鼎”之说，《周易》把鼎卦列为改革之卦。
 
@@ -31,7 +31,7 @@
 > 上九，鼎玉鉉，大吉，无不利。
 >《象》曰：玉鉉在上，剛柔節也。
 
-<img src="shapes/50.11.png">
+<img src="../shapes/50.11.png">
 
 > 鼎（䷱ dǐng）卦是异卦，下巽上离，相叠。燃木煮食，化生为熟，除旧布新的意思。鼎为重宝大器，三足稳重之象。煮食，喻食物充足，不再有困难和困扰。在此基础上宜变革，发展事业。
 
@@ -87,7 +87,7 @@
 - 家宅：修整有吉；妾生贵子。
 - 身体：腹下泻症，即可痊愈。
 
-<img src="shapes/50.01.png" width="121" align="left">
+<img src="../shapes/50.01.png" width="121" align="left">
 
 初六爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -104,7 +104,7 @@
 - 家宅：富家防窃；不宜娶女。
 - 身体：实热之症。
 
-<img src="shapes/50.02.png" width="121" align="left">
+<img src="../shapes/50.02.png" width="121" align="left">
 
 九二爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
@@ -121,7 +121,7 @@
 - 家宅：须防突变；可能悔婚。
 - 身体：小心失聪。
 
-<img src="shapes/50.03.png" width="121" align="left">
+<img src="../shapes/50.03.png" width="121" align="left">
 
 九三爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
@@ -138,7 +138,7 @@
 - 家宅：栋折之患；男女足疾。
 - 身体：足上生疮，难保完整。
 
-<img src="shapes/50.04.png" width="121" align="left">
+<img src="../shapes/50.04.png" width="121" align="left">
 
 九四爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
@@ -155,7 +155,7 @@
 - 家宅：富贵之家；联姻贵族。
 - 身体：保护胸耳。
 
-<img src="shapes/50.05.png" width="121" align="left">
+<img src="../shapes/50.05.png" width="121" align="left">
 
 六五爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -172,7 +172,7 @@
 - 家宅：地位甚高；金玉之盟。
 - 身体：耳痛之症。
 
-<img src="shapes/50.06.png" width="121" align="left">
+<img src="../shapes/50.06.png" width="121" align="left">
 
 上九爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 

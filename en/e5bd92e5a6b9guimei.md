@@ -6,7 +6,7 @@
 
 <a id="p-180"/>
 
-<img src="shapes/54.10.png" width="101" alt="归妹">
+<img src="../shapes/54.10.png" width="101" alt="归妹">
 
 **䷵ Guī Mèi** indicates that (under the conditions which it denotes) action will be evil, and in no wise advantageous.
 

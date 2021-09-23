@@ -1,6 +1,6 @@
 # 贲 ䷕
 
-<img src="shapes/22.10.png" width="101" alt="贲" align="left">
+<img src="../shapes/22.10.png" width="101" alt="贲" align="left">
 
 贲（䷕ bì）卦的代号是`5:1`，表示主卦是离卦，卦象是火，阳数是`5`；客卦是艮卦，卦象是山，阳数是`1`。“贲”的意思是装饰得很好。主卦和客卦的中爻和上爻都是相同，表明双方素质都不佳，态度都强硬；主卦下爻阳，客卦下爻阴，主方利用客方消极被动之机积极发展。主方应当避免冲突，把自己的不佳素质和强硬态度装饰得很好，表现出对客方的善意。贲卦，山火贲，饰外扬质。应当领悟，一切文饰都是空虚的道理，惟有重实质，有内涵的朴实面目，才是文饰的极致。
 
@@ -30,7 +30,7 @@
 > 上九，白賁，无咎。
 >《象》曰：白賁无咎，上得志也。
 
-<img src="shapes/22.11.png">
+<img src="../shapes/22.11.png">
 
 > 贲（䷕ bì）卦是异卦，下离上艮相叠。离为火为明；艮为山为止。文明而有节制。贲卦论述文与质的关系，以质为主，以文调节。贲，文饰、修饰。
 
@@ -86,7 +86,7 @@
 - 家宅：勤俭起家，知足不辱。
 - 身体：初起之病，自可痊愈。
 
-<img src="shapes/22.01.png" width="121" align="left">
+<img src="../shapes/22.01.png" width="121" align="left">
 
 初九爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：祖上福泽；婚嫁宜待。
 - 身体：遵照医嘱。
 
-<img src="shapes/22.02.png" width="121" align="left">
+<img src="../shapes/22.02.png" width="121" align="left">
 
 六二爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：可以久居；百年偕老。
 - 身体：游泳健身。
 
-<img src="shapes/22.03.png" width="121" align="left">
+<img src="../shapes/22.03.png" width="121" align="left">
 
 九三爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：先有丧事，后有婚事。
 - 身体：胸中气阻，调节上下。
 
-<img src="shapes/22.04.png" width="121" align="left">
+<img src="../shapes/22.04.png" width="121" align="left">
 
 六四爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：家风勤俭；贤妇可喜。
 - 身体：园林修养。
 
-<img src="shapes/22.05.png" width="121" align="left">
+<img src="../shapes/22.05.png" width="121" align="left">
 
 六五爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -170,7 +170,7 @@
 - 财运：直接出售，依然有利。
 - 家宅：清白高尚。
 - 身体：清谈解热，可能归天。
-<img src="shapes/22.06.png" width="121" align="left">
+<img src="../shapes/22.06.png" width="121" align="left">
 
 上九爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 

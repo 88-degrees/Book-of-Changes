@@ -1,6 +1,6 @@
 # 井 ䷯
 
-<img src="shapes/48.10.png" width="101" alt="井" align="left">
+<img src="../shapes/48.10.png" width="101" alt="井" align="left">
 
 井（䷯ jǐng）卦的代号是`3:2`。主卦是巽卦，卦象是风，阳数是`3`；客卦是坎卦，卦象是水，阳数是`2`。风可挡可避，力量巨大，寒风刺骨，象征主方消极被动，实力非常强大，态度强硬；水往低处流，可挡可容，能浮舟能沉舟，象征客方消极被动，实力也强，态度随和。客方受主方制约，由于双方都被动，关系稳定，如同位置固定的井。然而，尽管井的位置不变，也需要精心维护，才能有甘美的井水饮用。主方必须采取主动，与客方共同维护双方关系，多作对双方都有利的事。
 
@@ -30,7 +30,7 @@
 > 上六，井收勿幕，有孚元吉。
 >《象》曰：元吉在上，大成也。
 
-<img src="shapes/48.11.png">
+<img src="../shapes/48.11.png">
 
 > 井（䷯ jǐng）卦是异卦，下巽上坎，相叠。坎为水；巽为木。树木得水而蓬勃生长。人靠水井生活，水井由人挖掘而成。相互为养，井以水养人，经久不竭，人应取此德而勤劳自勉。
 
@@ -86,7 +86,7 @@
 - 家宅：荒芜难居；婚姻不成。
 - 身体：旧症不治。
 
-<img src="shapes/48.01.png" width="121" align="left">
+<img src="../shapes/48.01.png" width="121" align="left">
 
 初六爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：水不可饮；婚姻不佳。
 - 身体：下漏之症，求医难治。
 
-<img src="shapes/48.02.png" width="121" align="left">
+<img src="../shapes/48.02.png" width="121" align="left">
 
 九二爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：洗井可饮；二年可成。
 - 身体：心神不安，井泉可愈。
 
-<img src="shapes/48.03.png" width="121" align="left">
+<img src="../shapes/48.03.png" width="121" align="left">
 
 九三爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：修整为宜；尚须待时。
 - 身体：运动健身。
 
-<img src="shapes/48.04.png" width="121" align="left">
+<img src="../shapes/48.04.png" width="121" align="left">
 
 六四爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：谦让有礼；同甘共苦。
 - 身体：外寒内热，寒剂可解。
 
-<img src="shapes/48.05.png" width="121" align="left">
+<img src="../shapes/48.05.png" width="121" align="left">
 
 九五爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
@@ -172,7 +172,7 @@
 - 家宅：积善旺家；两姓好合。
 - 身体：即日可愈。
 
-<img src="shapes/48.06.png" width="121" align="left">
+<img src="../shapes/48.06.png" width="121" align="left">
 
 上六爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 

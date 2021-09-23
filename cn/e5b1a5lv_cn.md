@@ -1,6 +1,6 @@
 # 履 ䷉
 
-<img src="shapes/10.10.png" width="101" alt="履" align="left">
+<img src="../shapes/10.10.png" width="101" alt="履" align="left">
 
 履（䷉ lǚ）卦的代号是`6:7`。主卦是兑卦，卦象是泽，阳数是`6`；客卦是乾卦，卦象是天，阳数是`7`。天泽履，君子坦荡荡。在《说文》中有这样的解释：“履，足所依也。”也就是说履是实践、行动的意思。履卦的上卦是乾，是刚健之君，而下卦是泽，是恩泽的意思。也就是指这种行为一定要有礼，更要有理，只有做到这一点，才是真正的刚健。意思是说，君子在人际交往中只要能做到刚健守中，就可以将坏事变为好事，让恶的事物也呈现出好的一面，那么再大的艰难也能平安度过。
 
@@ -30,7 +30,7 @@
 > 上九，視履，考祥其旋，元吉。
 >《象》曰：元吉在上，大有慶也。
 
-<img src="shapes/10.11.png">
+<img src="../shapes/10.11.png">
 
 > 履（䷉ lǚ）卦是异卦，下兑上乾，相叠。乾为天，兑为泽，以天喻君，以泽喻民，原文：“履（踩）虎尾，不咥（咬）人”。因此，结果吉利。君上民下，各得其位。兑柔遇乾刚，所履危。履意为实践，卦义是脚踏实地的向前进取的意思。
 
@@ -86,7 +86,7 @@
 - 家宅：门庭吉祥。
 - 身体：慢跑有益。
 
-<img src="shapes/10.01.png" width="121" align="left">
+<img src="../shapes/10.01.png" width="121" align="left">
 
 初九爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：分析财产，小心损耗。
 - 身体：保养眼睛。
 
-<img src="shapes/10.02.png" width="121" align="left">
+<img src="../shapes/10.02.png" width="121" align="left">
 
 九二爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：暗昧不明，以小凌大。
 - 身体：保养眼睛与脚部。
 
-<img src="shapes/10.03.png" width="121" align="left">
+<img src="../shapes/10.03.png" width="121" align="left">
 
 六三爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：平稳持家。
 - 身体：谨慎走路。
 
-<img src="shapes/10.04.png" width="121" align="left">
+<img src="../shapes/10.04.png" width="121" align="left">
 
 九四爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：居安思危，可保平安。
 - 身体：由危转安。
 
-<img src="shapes/10.05.png" width="121" align="left">
+<img src="../shapes/10.05.png" width="121" align="left">
 
 九五爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：积善之家才有余庆。
 - 身体：天年有限。
 
-<img src="shapes/10.06.png" width="121" align="left">
+<img src="../shapes/10.06.png" width="121" align="left">
 
 上九爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 

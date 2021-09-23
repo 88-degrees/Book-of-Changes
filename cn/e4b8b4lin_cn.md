@@ -1,6 +1,6 @@
 # 临 ䷒
 
-<img src="shapes/19.10.png" width="101" alt="临" align="left">
+<img src="../shapes/19.10.png" width="101" alt="临" align="left">
 
 临（䷒ lín）卦的代号是`6:0`，主卦是兑卦，阳数是`6`；客卦是坤卦，阳数是`0`。形势有利，主方应当紧紧抓住良好机遇果断地决策，积极行动，切不要错失良机。《临卦》的卦象是兑（泽）下，坤（地）上，为地在泽上之表象。泽上有地，地居高而临下，象征督导。君子由此受到启发，费尽心思地教导人民，并以其无边无际的盛德保护人民。《序卦传》说：“有事而后可大，故受之以临，临者大也。”因为发生事端，然后才可以大有发展，所以不能等待，应积极参与。
 
@@ -30,7 +30,7 @@
 > 上六，敦臨，吉，无咎。
 >《象》曰：敦臨之吉，志在內也。
 
-<img src="shapes/19.11.png">
+<img src="../shapes/19.11.png">
 
 > 临（䷒ lín）卦是异卦，下兑上坤，相叠。坤为地，兑为泽，地高于泽，泽容于地。喻君主亲临天下，治国安邦，上下融洽。
 
@@ -86,7 +86,7 @@
 - 家宅：吉事临门；佳偶可成。
 - 身体：初起之病，可保治愈。
 
-<img src="shapes/19.01.png" width="121" align="left">
+<img src="../shapes/19.01.png" width="121" align="left">
 
 初九爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：福星高照；婚嫁亦吉。
 - 身体：并无大碍；讼事未决。
 
-<img src="shapes/19.02.png" width="121" align="left">
+<img src="../shapes/19.02.png" width="121" align="left">
 
 九二爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：迁徙为宜；婚姻不合。
 - 身体：药不对症，可服苦辛。
 
-<img src="shapes/19.03.png" width="121" align="left">
+<img src="../shapes/19.03.png" width="121" align="left">
 
 六三爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：家业正旺；婚嫁合宜。
 - 身体：危险之志，但仍可愈。
 
-<img src="shapes/19.04.png" width="121" align="left">
+<img src="../shapes/19.04.png" width="121" align="left">
 
 六四爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：五福临门；宜室宜家。
 - 身体：良医诊治，自然可愈。
 
-<img src="shapes/19.05.png" width="121" align="left">
+<img src="../shapes/19.05.png" width="121" align="left">
 
 六五爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：忠厚肃穆。
 - 身体：培养元气，自然健康。
 
-<img src="shapes/19.06.png" width="121" align="left">
+<img src="../shapes/19.06.png" width="121" align="left">
 
 上六爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 

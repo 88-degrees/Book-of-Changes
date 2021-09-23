@@ -1,6 +1,6 @@
 # 艮 ䷳
 
-<img src="shapes/52.10.png" width="101" alt="艮" align="left">
+<img src="../shapes/52.10.png" width="101" alt="艮" align="left">
 
 艮（䷳ gèn）卦的代号是`1:1`。主卦和客卦都是艮卦，卦象是山，阳数是`1`。艮，代表山。两座山不可能合并成一座山，但是，主客双方在一起相处，不能不相互影响，不能不相互往来。主方应当在可能的情况下采取适当主动措施改善双方关系，同时保持强硬态度，耐心地等待客方变化。艮卦谈的乃是如何抑止自己言行的卦。也即是当行则行，当止则止；当说则说，不当说则不说，一切必须审慎抑止为是。除此之外，没有别的。
 
@@ -30,7 +30,7 @@
 > 上九，敦艮，吉。
 >《象》曰：敦艮之吉，以厚終也。
 
-<img src="shapes/52.11.png">
+<img src="../shapes/52.11.png">
 
 > 艮（䷳ gèn）卦是同卦，下艮上艮，相叠。艮为山，二山相重，喻静止。它和震卦相反。高潮过后，必然出现低潮，进入事物的相对静止阶段。静止如山，宜止则止，宜行则行。行止即动和静，都不可失机，应恰到好处，动静得宜，适可而止。
 
@@ -86,7 +86,7 @@
 - 家宅：可以长住；百年好合。
 - 身体：足疾就医。
 
-<img src="shapes/52.01.png" width="121" align="left">
+<img src="../shapes/52.01.png" width="121" align="left">
 
 初六爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：不宜迁居；避开此婚。
 - 身体：药物难治。
 
-<img src="shapes/52.02.png" width="121" align="left">
+<img src="../shapes/52.02.png" width="121" align="left">
 
 六二爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：往来为宜；不拘门户。
 - 身体：血脉不通。
 
-<img src="shapes/52.03.png" width="121" align="left">
+<img src="../shapes/52.03.png" width="121" align="left">
 
 九三爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：平安无事；婚姻平平。
 - 身体：带病延年。
 
-<img src="shapes/52.04.png" width="121" align="left">
+<img src="../shapes/52.04.png" width="121" align="left">
 
 六四爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：位得中正；慎防巧言。
 - 身体：口能发声，病即可治。
 
-<img src="shapes/52.05.png" width="121" align="left">
+<img src="../shapes/52.05.png" width="121" align="left">
 
 六五爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：世代忠厚；婚姻吉祥。
 - 身体：体质厚实。
 
-<img src="shapes/52.06.png" width="121" align="left">
+<img src="../shapes/52.06.png" width="121" align="left">
 
 上九爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 

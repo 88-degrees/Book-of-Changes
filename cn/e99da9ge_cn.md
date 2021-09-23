@@ -1,6 +1,6 @@
 # 革 ䷰
 
-<img src="shapes/49.10.png" width="101" alt="革" align="left">
+<img src="../shapes/49.10.png" width="101" alt="革" align="left">
 
 革（䷰  gé）卦的代号是`5:6`卦。主卦是`5`卦，离卦 ，离卦的卦象是火，阳数是`5`；客卦是`6`卦，兑卦，兑卦的卦象是泽，阳数是`6`。主方像是一名改革者，以火样的热情，来到客方，客方像富饶的鱼米之乡，愉快地欢迎主方，给予主方所需要的资源。主方可以从客方受益，改善自己不佳的素质，完成自己本身状态的改革。革卦，泽火革，顺天应人。这个卦是异卦，下离上兑，相叠。离为火、兑为泽，泽内有水。水在上而下浇，火在下而上升。火旺水干；水大火熄。二者相生亦相克，必然出现变革。变革是宇宙的基本规律。
 
@@ -30,7 +30,7 @@
 > 上六，君子豹變，小人革面，征凶，居貞吉。
 >《象》曰：君子豹變，其文蔚也；小人革面，順以從君也。
 
-<img src="shapes/49.11.png">
+<img src="../shapes/49.11.png">
 
 > 革（䷰  gé）卦是异卦，下离上兑，相叠。离为火、兑为泽，泽内有水。水在上而下浇，火在下而上升。火旺水干，水大火熄。二者相生亦相克，必然出现变革。变革是宇宙的基本规律。
 
@@ -86,7 +86,7 @@
 - 家宅：新造之屋；待婚三年。
 - 身体：中腹胀硬，消积健脾。
 
-<img src="shapes/49.01.png" width="121" align="left">
+<img src="../shapes/49.01.png" width="121" align="left">
 
 初九爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：择日修宅；可称佳偶。
 - 身体：即将痊愈。
 
-<img src="shapes/49.02.png" width="121" align="left">
+<img src="../shapes/49.02.png" width="121" align="left">
 
 六二爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：三迁为宜；三人为媒。
 - 身体：三日可愈。
 
-<img src="shapes/49.03.png" width="121" align="left">
+<img src="../shapes/49.03.png" width="121" align="left">
 
 九三爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：整建有利；再婚有利。
 - 身体：改求良医。
 
-<img src="shapes/49.04.png" width="121" align="left">
+<img src="../shapes/49.04.png" width="121" align="left">
 
 九四爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：不利迁动；须防不贞。
 - 身体：肝火浮动，不药可愈。
 
-<img src="shapes/49.05.png" width="121" align="left">
+<img src="../shapes/49.05.png" width="121" align="left">
 
 九五爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：居之得安；多求必应。
 - 身体：静养修心。
 
-<img src="shapes/49.06.png" width="121" align="left">
+<img src="../shapes/49.06.png" width="121" align="left">
 
 上六爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 

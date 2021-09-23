@@ -1,6 +1,6 @@
 # 坤 ䷁
 
-<img src="shapes/02.10.png" width="101" alt="坤" align="left">
+<img src="../shapes/02.10.png" width="101" alt="坤" align="left">
 
 坤（䷁ kūn）卦的代号是`0:0`。坤卦的主卦和客卦都是坤卦，阳数都是`0`。坤为地，柔顺伸展。相对于我们所在位置来说，地是静止的，代表当前关系是静止状态，变化较少；地是广大的，地上万物生长，象征当前关系比较宽松而悠闲。静止而广大的两方面，组合在一起，形成一种比较稳定而宽松的关系。主方应当珍视这种关系，顺应形势，努力维持目前的状态。不过要注意，静止是暂时的，主方应当作应对变化的准备。
 
@@ -33,7 +33,7 @@
 > 用六，利永貞。
 >《象》曰：用六永貞，以大終也。
 
-<img src="shapes/02.11.png">
+<img src="../shapes/02.11.png">
 
 > 坤（䷁ kūn）卦是同卦，下坤上坤，相叠。阴性。象征地（与乾卦相反），顺从天，承载万物，伸展无穷无尽。坤卦以雌马为象征，表明地道生育抚养万物，而又依天顺时，性情温顺。它以“先迷后得”证明“坤”顺从“乾”，依随“乾”，才能把握正确方向，遵循正道，获取吉利。
 
@@ -89,7 +89,7 @@
 - 家宅：阴盛不吉；婚嫁不利。
 - 身体：阴寒之症，久则难治。
 
-<img src="shapes/02.01.png" width="121" align="left">
+<img src="../shapes/02.01.png" width="121" align="left">
 
 初六爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
@@ -106,7 +106,7 @@
 - 家宅：居家如意；婚嫁顺利。
 - 身体：不药而愈。
 
-<img src="shapes/02.02.png" width="121" align="left">
+<img src="../shapes/02.02.png" width="121" align="left">
 
 六二爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
@@ -124,7 +124,7 @@
 - 家宅：凝聚向心力。
 - 身体：无可挽回，凶。
 
-<img src="shapes/02.03.png" width="121" align="left">
+<img src="../shapes/02.03.png" width="121" align="left">
 
 六三爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
@@ -141,7 +141,7 @@
 - 家宅：平安是福。
 - 身体：谨慎保养。
 
-<img src="shapes/02.04.png" width="121" align="left">
+<img src="../shapes/02.04.png" width="121" align="left">
 
 六四爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -160,7 +160,7 @@
 
 ### 六五变卦：坤为地 变卦 水地比
 
-<img src="shapes/02.05.png" width="121" align="left">
+<img src="../shapes/02.05.png" width="121" align="left">
 
 六五爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
@@ -177,7 +177,7 @@
 - 家宅：失序不和。
 - 身体：肝血失调，危险。
 
-<img src="shapes/02.06.png" width="121" align="left">
+<img src="../shapes/02.06.png" width="121" align="left">
 
 上六爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 

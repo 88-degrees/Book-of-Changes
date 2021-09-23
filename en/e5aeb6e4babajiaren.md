@@ -6,7 +6,7 @@
 
 <a id="p-136"/>
 
-<img src="shapes/37.10.png" width="101" alt="家人">
+<img src="../shapes/37.10.png" width="101" alt="家人">
 
 For (the realisation of what is taught in) **䷤ Jiā Rén** , (or for the regulation of the family), what is most advantageous is that the wife be firm and correct.
 

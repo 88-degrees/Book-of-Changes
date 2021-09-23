@@ -1,6 +1,6 @@
 # 比 ䷇
 
-<img src="shapes/08.10.png" width="101" alt="比" align="left">
+<img src="../shapes/08.10.png" width="101" alt="比" align="left">
 
 比（䷇ bǐ）卦的代号是`0:2`，主卦是坤卦，卦象是地，阳数是`0`；客卦是坎卦，卦象是水，阳数是`2`。“比”，比较。主卦和客卦的下爻和上爻都相同，中爻是一阴一阳，主方素质不佳，客方素质良好。在休闲状态下，主方比较一下自己和客方，适当采取一些主动，可能对主方有益。比卦卦象为五条阴爻系于九五，象征团结一心。《杂卦传》：“比乐，师忧。”比者亲也，其字形为两人并坐，因为亲近，所以乐；师自争讼起，兵者凶器，所以忧。比卦，水地比，诚信团结。
 
@@ -30,7 +30,7 @@
 > 上六，比之无首，凶。
 >《象》曰：比之无首，无所終也。
 
-<img src="shapes/08.11.png">
+<img src="../shapes/08.11.png">
 
 > 比（䷇ bǐ）卦是异卦，下坤上坎，相叠。坤为地，坎为水。水附大地，地纳河海，相互依赖，亲密无间。此卦与师卦完全相反，互为综卦。它阐述的是相亲相辅，宽宏无私，精诚团结的道理。
 
@@ -86,7 +86,7 @@
 - 家宅：社区和睦；亲事亦谐。
 - 身体：平安无事。
 
-<img src="shapes/08.01.png" width="121" align="left">
+<img src="../shapes/08.01.png" width="121" align="left">
 
 初六爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：亲上加亲。
 - 身体：心平气和，疾病可愈。
 
-<img src="shapes/08.02.png" width="121" align="left">
+<img src="../shapes/08.02.png" width="121" align="left">
 
 六二爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：戒慎嫁娶，以免遗憾。
 - 身体：改求良医。
 
-<img src="shapes/08.03.png" width="121" align="left">
+<img src="../shapes/08.03.png" width="121" align="left">
 
 六三爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
@@ -138,7 +138,7 @@
 - 家宅：一家和睦；外地定亲，吉。
 - 身体：多做户外运动。
 
-<img src="shapes/08.04.png" width="121" align="left">
+<img src="../shapes/08.04.png" width="121" align="left">
 
 六四爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -155,7 +155,7 @@
 - 家宅：和顺为宜。
 - 身体：服药生效，不必过虑。
 
-<img src="shapes/08.05.png" width="121" align="left">
+<img src="../shapes/08.05.png" width="121" align="left">
 
 九五爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -172,7 +172,7 @@
 - 家宅：恐丧家主；婚嫁来历不明。
 - 身体：小心头部疾病。
 
-<img src="shapes/08.06.png" width="121" align="left">
+<img src="../shapes/08.06.png" width="121" align="left">
 
 上六爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 

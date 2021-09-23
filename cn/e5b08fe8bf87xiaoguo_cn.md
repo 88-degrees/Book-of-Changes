@@ -1,6 +1,6 @@
 # 小过 ䷽
 
-<img src="shapes/62.10.png" width="101" alt="小过" align="left">
+<img src="../shapes/62.10.png" width="101" alt="小过" align="left">
 
 小过（䷽  xiǎo guò）卦的代号是`1:4`。主卦是`1`卦，艮卦，卦象是山，阳数是`1`；客卦是`4`卦，震卦，卦象是雷，阳数是`4`。“过”，从这儿到那儿，从此时到彼时：过江。“过”指经过，过去。“小”指小部分。小过，小小地过去了。这个卦是异卦，下艮上震，相叠。艮为山，震为雷，过山雷鸣，不可不畏惧。雷山小过，行动有度。阳为大，阴为小，卦外四阴超过中二阳，故称“小过”，小有越过。
 
@@ -31,7 +31,7 @@
 > 上六，弗遇過之，飛鳥離之，凶，是謂災眚。
 >《象》曰：弗遇過之，已亢也。
 
-<img src="shapes/62.11.png">
+<img src="../shapes/62.11.png">
 
 > 小过（䷽  xiǎo guò）卦是异卦，下艮上震，相叠。艮为山，震为雷，过山雷鸣，不可不畏惧。阳为大，阴为小，卦外四阴超过中二阳，故称“小过”，小有越过。
 
@@ -87,7 +87,7 @@
 - 家宅：屋宜低小；门当户对。
 - 身体：神魂难保。
 
-<img src="shapes/62.01.png" width="121" align="left">
+<img src="../shapes/62.01.png" width="121" align="left">
 
 初六爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -104,7 +104,7 @@
 - 家宅：不安之象；恐非正配。
 - 身体：药力未至，继续诊治。
 
-<img src="shapes/62.02.png" width="121" align="left">
+<img src="../shapes/62.02.png" width="121" align="left">
 
 六二爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -121,7 +121,7 @@
 家宅：谨防凶祸；小心冤家。
 身体：刀伤凶险。
 
-<img src="shapes/62.03.png" width="121" align="left">
+<img src="../shapes/62.03.png" width="121" align="left">
 
 九三爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -138,7 +138,7 @@
 家宅：安居为宜；勿急媒聘。
 身体：静养心神。
 
-<img src="shapes/62.04.png" width="121" align="left">
+<img src="../shapes/62.04.png" width="121" align="left">
 
 九四爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
@@ -155,7 +155,7 @@
 家宅：小康之家；恐非正娶。
 身体：针灸可治。
 
-<img src="shapes/62.05.png" width="121" align="left">
+<img src="../shapes/62.05.png" width="121" align="left">
 
 六五爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -172,7 +172,7 @@
 家宅：离散之象；小心奸计。
 身体：凶险之病，速求良医。
 
-<img src="shapes/62.06.png" width="121" align="left">
+<img src="../shapes/62.06.png" width="121" align="left">
 
 上六爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 

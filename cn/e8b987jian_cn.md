@@ -1,6 +1,6 @@
 # 蹇 ䷦
 
-<img src="shapes/39.10.png" width="101" alt="蹇" align="left">
+<img src="../shapes/39.10.png" width="101" alt="蹇" align="left">
 
 蹇（䷦ jiǎn）卦的代号是`1:2`。主卦是艮卦，卦象是山，阳数是`1`；客卦是坎卦，卦象是水，阳数是`2`。“蹇”是跛的意思。主客双方都消极被动，主方稍弱于客方，主方应当采取适当主动，与客方沟通，有可能获得某些利益。
 
@@ -30,7 +30,7 @@
 > 上六，往蹇來碩，吉，利見大人。
 >《象》曰：往蹇來碩，志在內也；利見大人，以從貴也。
 
-<img src="shapes/39.11.png">
+<img src="../shapes/39.11.png">
 
 > 蹇（䷦ jiǎn）卦是异卦，下艮上坎，相叠。坎为水，艮为山。山高水深，困难重重，人生险阻，见险而止，明哲保身，可谓智慧。蹇，跋行艰难。
 
@@ -86,7 +86,7 @@
 - 家宅：迁居不利；婚姻宜待。
 - 身体：有病初起，退而自养。
 
-<img src="shapes/39.01.png" width="121" align="left">
+<img src="../shapes/39.01.png" width="121" align="left">
 
 初六爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：方向不利；夫恐有难。
 - 身体：过劳之厄。
 
-<img src="shapes/39.02.png" width="121" align="left">
+<img src="../shapes/39.02.png" width="121" align="left">
 
 六二爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：团聚之喜；重逢有缘。
 - 身体：多加保养。
 
-<img src="shapes/39.03.png" width="121" align="left">
+<img src="../shapes/39.03.png" width="121" align="left">
 
 九三爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：比邻而居；亲上加亲。
 - 身体：久病缠身，一时难愈。
 
-<img src="shapes/39.04.png" width="121" align="left">
+<img src="../shapes/39.04.png" width="121" align="left">
 
 六四爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：不宜居家。
 - 身体：众医会诊，才可治好。
 
-<img src="shapes/39.05.png" width="121" align="left">
+<img src="../shapes/39.05.png" width="121" align="left">
 
 九五爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：贵人相助；婚姻主贵。
 - 身体：良医出手。
 
-<img src="shapes/39.06.png" width="121" align="left">
+<img src="../shapes/39.06.png" width="121" align="left">
 
 上六爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 

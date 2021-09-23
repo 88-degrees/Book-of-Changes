@@ -1,6 +1,6 @@
 # 师 ䷆
 
-<img src="shapes/07.10.png" width="101" alt="师" align="left">
+<img src="../shapes/07.10.png" width="101" alt="师" align="left">
 
 师（䷆ shī）卦的代号是`2:0`。主卦是坎卦，卦象是水，阳数是`2`；客卦是坤卦，卦象是地，阳数是`0`。“师”指用兵。师卦，地水师，行险而顺。建议运用恰当时机，采取主动行动和强硬态度，摆脱自己造成的困境。这个卦是异卦，下坎上坤，相叠。“师”：军队。坎为水、为险；坤为地、为顺，喻寓兵于农。师卦，阐释由争讼终于演变成战争的用兵原则。军队必须是正义之师，统帅必须中庸、公正，老成持重，不可好战喜功。战争必须得到人民的支持，才能战无不胜。 这是师卦的主要精神。
 
@@ -30,7 +30,7 @@
 > 上六，大君有命，開國承家，小人勿用。
 >《象》曰：大君有命，以正功也；小人勿用，必亂邦也。
 
-<img src="shapes/07.11.png">
+<img src="../shapes/07.11.png">
 
 > 师（䷆ shī）卦是异卦，下坎上坤，相叠。“师”，军队。坎为水、为险；坤为地、为顺，喻寓兵于农。兵凶战危，用兵乃圣人不得已而为之，但它可以顺利无阻碍地解决矛盾，因为顺乎形势，师出有名，故能化凶为吉。
 
@@ -86,7 +86,7 @@
 - 家宅：治家以法，否则必凶。
 - 身体：寒多热少，宜早医治。
 
-<img src="shapes/07.01.png" width="121" align="left">
+<img src="../shapes/07.01.png" width="121" align="left">
 
 初六爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：邻里所重；婚姻吉祥。
 - 身体：流动血气，病即舒解。
 
-<img src="shapes/07.02.png" width="121" align="left">
+<img src="../shapes/07.02.png" width="121" align="left">
 
 九二爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：不得安宁，小心为上。
 - 身体：可能归天。
 
-<img src="shapes/07.03.png" width="121" align="left">
+<img src="../shapes/07.03.png" width="121" align="left">
 
 六三爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：近东，朝西南吉；入赘无咎。
 - 身体：春生气来，疾病可愈。
 
-<img src="shapes/07.04.png" width="121" align="left">
+<img src="../shapes/07.04.png" width="121" align="left">
 
 六四爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：利于长子；媒妁而成。
 - 身体：跑步健身。
 
-<img src="shapes/07.05.png" width="121" align="left">
+<img src="../shapes/07.05.png" width="121" align="left">
 
 六五爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：家道兴旺；贵人做媒。
 - 身体：正常运动。
 
-<img src="shapes/07.06.png" width="121" align="left">
+<img src="../shapes/07.06.png" width="121" align="left">
 
 上六爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 

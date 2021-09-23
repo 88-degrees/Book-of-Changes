@@ -1,6 +1,6 @@
 # 益 ䷩
 
-<img src="shapes/42.10.png" width="101" alt="益" align="left">
+<img src="../shapes/42.10.png" width="101" alt="益" align="left">
 
 益（䷩ yì）卦的代号是`4:3`，主卦是`4`卦，震卦；客卦是`3`卦，巽卦。益，表明这个卦所代表的状态对主方有益。震卦的卦象是雷，主方积极主动，雷厉风行。巽卦的卦象是风，风顺从而有力。由于客方顺从主方，主方有可能利用客方的力量而得到益处。益卦，风雷益，损上益下，上上卦。这个卦是异卦，下震上巽，相叠。巽为风；震为雷。风雷激荡，其势愈强，雷愈响，风雷相助互长，交相助益。益卦䷩与损卦䷨相反。它是损上以益下，后者是损下以益上。二卦阐述的是损益的原则。
 
@@ -30,7 +30,7 @@
 > 上九，莫益之，或擊之。立心勿恒，凶。
 >《象》曰：莫益之，偏辭也；或擊之，自外來也。
 
-<img src="shapes/42.11.png">
+<img src="../shapes/42.11.png">
 
 > 益（䷩ yì）卦是异卦，下震上巽，相叠。巽为风；震为雷。风雷激荡，其势愈强，雷愈响，风雷相助互长，交相助益。此卦与损卦相反。它是损上以益下，后者是损下以益上。二卦阐述的是损益的原则。
 
@@ -87,7 +87,7 @@
 - 家宅：新宅宽大，婚姻大吉。
 - 身体：健康无虞。
 
-<img src="shapes/42.01.png" width="121" align="left">
+<img src="../shapes/42.01.png" width="121" align="left">
 
 初九爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -104,7 +104,7 @@
 - 家宅：安居之家；百年好合。
 - 身体：祈祷可愈。
 
-<img src="shapes/42.02.png" width="121" align="left">
+<img src="../shapes/42.02.png" width="121" align="left">
 
 六二爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -121,7 +121,7 @@
 - 家宅：逢凶化吉；苦中成婚。
 - 身体：有惊无险。
 
-<img src="shapes/42.03.png" width="121" align="left">
+<img src="../shapes/42.03.png" width="121" align="left">
 
 六三爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -138,7 +138,7 @@
 - 家宅：最好迁移；另找媒人。
 - 身体：外地就医。
 
-<img src="shapes/42.04.png" width="121" align="left">
+<img src="../shapes/42.04.png" width="121" align="left">
 
 六四爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
@@ -155,7 +155,7 @@
 - 家宅：善人之居；非亲即友。
 - 身体：保养得宜。
 
-<img src="shapes/42.05.png" width="121" align="left">
+<img src="../shapes/42.05.png" width="121" align="left">
 
 九五爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -172,7 +172,7 @@
 - 家宅：不可久居；不易偕老。
 - 身体：无恒之凶。
 
-<img src="shapes/42.06.png" width="121" align="left">
+<img src="../shapes/42.06.png" width="121" align="left">
 
 上九爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 

@@ -1,6 +1,6 @@
 # 随 ䷐
 
-<img src="shapes/17.10.png" width="101" alt="随" align="left">
+<img src="../shapes/17.10.png" width="101" alt="随" align="left">
 
 随（䷐ suí）卦的代号是`4:6`。主卦是`4`卦，震卦，卦象是雷，特性是运动，阳数是`4`；客卦是`6`卦，兑卦，卦象是泽，阳数是`6`。“随”，跟随的意思，用于“随便”、“随从”、“跟随”、“随后”、“随意”等等。主方跟随客方在这生气盈然的河泽地区积极主动地探索。随卦，泽雷随，随时变通。这个卦是异卦，下震上兑，相叠。震为雷、为动；兑为悦。动而悦就是“随”。“随”指相互顺从，己有随物，物能随己，彼此沟通。随必依时顺势，有原则和条件，以坚贞为前提。随，元亨利贞，无咎。天下的事物都要随时而动。这是随卦的本质含义。
 
@@ -31,7 +31,7 @@
 > 上六，拘係之，乃從維之，王用亨于西山。
 >《象》曰：拘係之。上窮也。
 
-<img src="shapes/17.11.png">
+<img src="../shapes/17.11.png">
 
 > 随（䷐ suí）卦是异卦，下震上兑，相叠。震为雷，为动；兑为悦，动而悦就是“随”。随，相互顺从，己有随物，物能随己，彼此沟通。随必依时顺势，有原则和条件，以坚贞为前提。
 
@@ -88,7 +88,7 @@
 - 家宅：装修迁居。
 - 身体：改变用药，远方求医。
 
-<img src="shapes/17.01.png" width="121" align="left">
+<img src="../shapes/17.01.png" width="121" align="left">
 
 初九爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -106,7 +106,7 @@
 - 家宅：家主受累;婚嫁不妥。
 - 身体：顾此失彼。
 
-<img src="shapes/17.02.png" width="121" align="left">
+<img src="../shapes/17.02.png" width="121" align="left">
 
 六二爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -123,7 +123,7 @@
 - 家宅：积蓄有成，关心子女。
 - 身体：大人无妨，小孩不利。
 
-<img src="shapes/17.03.png" width="121" align="left">
+<img src="../shapes/17.03.png" width="121" align="left">
 
 六三爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
@@ -140,7 +140,7 @@
 - 家宅：置屋不宜。
 - 身体：先凶后吉。
 
-<img src="shapes/17.04.png" width="121" align="left">
+<img src="../shapes/17.04.png" width="121" align="left">
 
 九四爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -157,7 +157,7 @@
 - 家宅：积善之家;婚嫁可喜。
 - 身体：无须担心。
 
-<img src="shapes/17.05.png" width="121" align="left">
+<img src="../shapes/17.05.png" width="121" align="left">
 
 九五爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -174,7 +174,7 @@
 - 家宅：家人抱怨;嫁娶有缘。
 - 身体：诚心祷告;可能归魂。
 
-<img src="shapes/17.06.png" width="121" align="left">
+<img src="../shapes/17.06.png" width="121" align="left">
 
 上六爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 

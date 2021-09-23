@@ -6,7 +6,7 @@
 
 <a id="p-207"/>
 
-<img src="shapes/64.10.png" width="101" alt="未济">
+<img src="../shapes/64.10.png" width="101" alt="未济">
 
 **䷿ Wèi Jì** intimates progress and success (in the circumstances which it implies).
 (We see) a young fox that has nearly crossed (the stream), when its tail gets immersed. There will be no advantage in any way.

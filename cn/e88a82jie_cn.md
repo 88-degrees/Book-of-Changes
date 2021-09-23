@@ -1,6 +1,6 @@
 # 节 ䷻
 
-<img src="shapes/60.10.png" width="101" alt="节" align="left">
+<img src="../shapes/60.10.png" width="101" alt="节" align="left">
 
 节（䷻ jié）卦的代号是`6:2`。主卦是`6`卦，兑卦，卦象是泽，特性是愉快；客卦是`2`卦，坎卦，卦象是水，特性是危险和困难。“节”指节制。水泽节，万物有节。这个卦是异卦，下兑上坎，相叠。兑为泽，坎为水。泽有水而流有限，多必溢于泽外。因此要有节度，故称节。节卦与涣卦相反，互为综卦，交相使用。天地有节度才能常新，国家有节度才能安稳，个人有节度才能完美。主方在享受成功的愉快，而客方则处于困难之中，主方是应当帮助客方渡过困难时期，还是趁客方困难之机扩张，主方必须慎重考虑，要有适当节制，不然，会有损失。
 
@@ -30,7 +30,7 @@
 > 上六，苦節，貞凶，悔亡。
 >《象》曰：苦節貞凶，其道窮也。
 
-<img src="shapes/60.11.png">
+<img src="../shapes/60.11.png">
 
 > 节（䷻ jié）卦是异卦，下兑上坎，相叠。兑为泽，坎为水。泽有水而流有限，多必溢于泽外。因此要有节度，故称节。节卦与涣卦相反，互为综卦，交相使用。天地有节度才能常新，国家有节度才能安稳，个人有节度才能完美。
 
@@ -86,7 +86,7 @@
 - 家宅：可以安居；夫妇得当。
 - 身体：安居静养。
 
- <img src="shapes/60.01.png" width="121" align="left">
+ <img src="../shapes/60.01.png" width="121" align="left">
 
 初九爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：屋内无人；旷怨难免。
 - 身体：行走艰难。
 
- <img src="shapes/60.02.png" width="121" align="left">
+ <img src="../shapes/60.02.png" width="121" align="left">
 
 九二爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：先富后贫；先喜后悲。
 - 身体：饮食不节致病。
 
- <img src="shapes/60.03.png" width="121" align="left">
+ <img src="../shapes/60.03.png" width="121" align="left">
 
 六三爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：平安无事；夫妻平顺。
 - 身体：病由口入。
 
- <img src="shapes/60.04.png" width="121" align="left">
+ <img src="../shapes/60.04.png" width="121" align="left">
 
 六四爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：正直节俭；百年好合。
 - 身体：节食可治。
 
- <img src="shapes/60.05.png" width="121" align="left">
+ <img src="../shapes/60.05.png" width="121" align="left">
 
 九五爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：开明为宜；顽固难处。
 - 身体：病势垂危。
 
- <img src="shapes/60.06.png" width="121" align="left">
+ <img src="../shapes/60.06.png" width="121" align="left">
 
 上六爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 

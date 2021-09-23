@@ -1,6 +1,6 @@
 # 乾 ䷀
 
-<img src="shapes/01.10.png" width="101" alt="乾" align="left">
+<img src="../shapes/01.10.png" width="101" alt="乾" align="left">
 
 乾（䷀ qián）卦的代号是`7:7`，主卦和客卦都是`1`卦，乾卦。三条爻当位，三条爻不当位，不存在有应关系。卦象是天，特性是强健。乾卦主显，是“显学”，坤卦主隐，是隐学。两卦不可分割，乃是一个整体，是万物运动最本质的过程。乾卦讲的是一个事物从发生到繁荣的过程，即春生到夏长，与坤卦相反，坤卦讲秋收冬藏的过程。主方和客方都很强健，主卦和客卦的阳数比是`1:1`，是二个最大阳数的比，主客双方势均力敌，双方都有强大的力量，也都有同样的高亢缺点，可以是强健的竞争者，也可能是双赢的合作者，关键在于主方如何巧妙地处理。
 
@@ -35,7 +35,7 @@
 > 用九，見群龍无首，吉。
 >《象》曰：用九，天德不可為首也。
 
-<img src="shapes/01.11.png">
+<img src="../shapes/01.11.png">
 
 > 乾（䷀ qián）卦是同卦，下乾上乾，相叠。象征天，喻龙（德才的君子），又象征纯粹的阳和健，表明兴盛强健。乾卦是根据万物变通的道理，以“元、亨、利、贞”为卦辞，表示吉祥如意，教导人遵守天道的德行。
 
@@ -91,7 +91,7 @@
 - 家宅：娶妻小心。
 - 身体：保养为宜。
 
-<img src="shapes/01.01.png" width="121" align="left">
+<img src="../shapes/01.01.png" width="121" align="left">
 
 初九爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -108,7 +108,7 @@
 - 家宅：婚姻大吉。
 - 身体：运动健身。
 
-<img src="shapes/01.02.png" width="121" align="left">
+<img src="../shapes/01.02.png" width="121" align="left">
 
 九二爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -125,7 +125,7 @@
 - 家宅：勤俭保家；不宜攀结高亲。
 - 身体：小心保养。
 
-<img src="shapes/01.03.png" width="121" align="left">
+<img src="../shapes/01.03.png" width="121" align="left">
 
 九三爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -143,7 +143,7 @@
 - 家宅：有一时振兴之象。
 - 身体：继续健身。
 
-<img src="shapes/01.04.png" width="121" align="left">
+<img src="../shapes/01.04.png" width="121" align="left">
 
 九四爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -160,7 +160,7 @@
 - 家宅：富贵之家。
 - 身体：蒙天所召，不吉。
 
-<img src="shapes/01.05.png" width="121" align="left">
+<img src="../shapes/01.05.png" width="121" align="left">
 
 九五爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -177,7 +177,7 @@
 - 家宅：婚嫁不利。
 - 身体：命在旦夕。
 
-<img src="shapes/01.06.png" width="121" align="left">
+<img src="../shapes/01.06.png" width="121" align="left">
 
 上九爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 

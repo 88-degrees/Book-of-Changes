@@ -1,6 +1,6 @@
 # 姤 ䷫
 
-<img src="shapes/44.10.png" width="101" alt="姤" align="left">
+<img src="../shapes/44.10.png" width="101" alt="姤" align="left">
 
 姤（䷫ gòu）卦的代号是`3:7`，主卦是巽卦，卦象是风，阳数是`3`；客卦是乾卦，卦象是天，阳数是`7`。“姤”（gòu），相遇。主方想避免与强大的客方相遇，但又不得不相遇。在当前形势下，主方已经处于客方控制下，主方不得不听任客方摆布。主方在自身发展变化过程中，越过了顶峰，开始走向衰落，如果主方想扭转当前不利形势，就必须振作起来，恢复当日威风，积极主动地去创造新的成就。姤卦，天风姤，天下有风。这个卦是异卦，下巽上乾相叠。乾为天，巽为风。天下有风，吹遍大地，阴阳交合，万物茂盛。姤（gòu ䷫）卦与夬（guài ䷪）卦相反，互为“综卦”。姤即遘，阴阳相遇。但五阳一阴，不能长久相处。
 
@@ -30,7 +30,7 @@
 > 上九，姤其角，吝，无咎。
 >《象》曰：姤其角，上窮吝也。
 
-<img src="shapes/44.11.png">
+<img src="../shapes/44.11.png">
 
 > 姤（䷫ gòu）卦是异卦，下巽上乾，相叠。乾为天，巽为风。天下有风，吹遍大地，阴阳交合，万物茂盛。姤（gòu ䷫）卦与夬（guài ䷪）卦相反，互为“综卦”。姤即媾，阴阳相遇。但五阳一阴，不能长久相处。
 
@@ -86,7 +86,7 @@
 - 家宅：维护家声；男外女内。
 - 身体：虚弱静养。
 
-<img src="shapes/44.01.png" width="121" align="left">
+<img src="../shapes/44.01.png" width="121" align="left">
 
 初六爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：女子主持；婚姻可成。
 - 身体：池鱼之殃。
 
-<img src="shapes/44.02.png" width="121" align="left">
+<img src="../shapes/44.02.png" width="121" align="left">
 
 九二爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：修整家宅；迟缓可成。
 - 身体：坐立不安，求医诊治。
 
-<img src="shapes/44.03.png" width="121" align="left">
+<img src="../shapes/44.03.png" width="121" align="left">
 
 九三爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：僻处防灾；可能无后。
 - 身体：虚火难治，极为凶险。
 
-<img src="shapes/44.04.png" width="121" align="left">
+<img src="../shapes/44.04.png" width="121" align="left">
 
 九四爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：中正之居；婚姻有吉。
 - 身体：热中带寒，速求良医。
 
-<img src="shapes/44.05.png" width="121" align="left">
+<img src="../shapes/44.05.png" width="121" align="left">
 
 九五爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：谨防屋角；老少夫妻。
 - 身体：头部有疾，就医可治。
 
-<img src="shapes/44.06.png" width="121" align="left">
+<img src="../shapes/44.06.png" width="121" align="left">
 
 上九爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 

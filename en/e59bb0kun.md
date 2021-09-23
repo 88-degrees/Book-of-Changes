@@ -4,7 +4,7 @@
 
 > Chinese: kùn 困 ䷮
 
-<img src="shapes/47.10.png" width="101" alt="困">
+<img src="../shapes/47.10.png" width="101" alt="困">
 
 <a id="p-161"/>
 

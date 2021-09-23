@@ -6,7 +6,7 @@
 
 <a id="p-197"/>
 
-<img src="shapes/60.10.png" width="101" alt="节">
+<img src="../shapes/60.10.png" width="101" alt="节">
 
 **䷻ Jié** intimates that (under its conditions) there will be progress and attainment.
 (But) if the regulations (which it prescribes) be severe and difficult, they cannot be permanent.

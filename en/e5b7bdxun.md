@@ -6,7 +6,7 @@
 
 <a id="p-189"/>
 
-<img src="shapes/57.10.png" width="101" alt="巽">
+<img src="../shapes/57.10.png" width="101" alt="巽">
 
 **䷸ Xùn** intimates that (under the conditions which it denotes) there will be some little attainment and progress.
 There will be advantage in movement onward in whatever direction. It will be advantageous (also) to see the great man.

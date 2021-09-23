@@ -1,6 +1,6 @@
 # 明夷 ䷣
 
-<img src="shapes/36.10.png" width="101" alt="明夷" align="left">
+<img src="../shapes/36.10.png" width="101" alt="明夷" align="left">
 
 明夷（䷣ míng yí）卦的代号是`5:0`。主卦是离卦，卦象是火，阳数是`5`；客卦是坤卦，卦象是地，阳数是`0`。“明夷”是失意的意思。主方应当保持目前状态，积极主动，态度强硬地谋求发展和开拓，逐渐地，情况会向更有利于主方的方面变化。明夷卦，地火明夷，晦而转明。
 
@@ -30,7 +30,7 @@
 > 上六，不明晦，初登于天，後入于地。
 >《象》曰：初登于天，照四國也；後入于地，失則也。
 
-<img src="shapes/36.11.png">
+<img src="../shapes/36.11.png">
 
 > 明夷（䷣ míng yí）卦是异卦，下离上坤，相叠。离为明，坤为顺；离为日；坤为地。日没入地，光明受损，前途不明，环境困难，宜遵时养晦，坚守正道，外愚内慧，韬光养晦。
 
@@ -86,7 +86,7 @@
 - 家宅：最好迁居；婚姻不谐。
 - 身体：食道有疾，或病在手。
 
-<img src="shapes/36.01.png" width="121" align="left">
+<img src="../shapes/36.01.png" width="121" align="left">
 
 初九爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：修缮完整；妇有足疾。
 - 身体：左足受伤。
 
-<img src="shapes/36.02.png" width="121" align="left">
+<img src="../shapes/36.02.png" width="121" align="left">
 
 六二爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：乡里富家；得其佳偶。
 - 身体：南方修养较宜。
 
-<img src="shapes/36.03.png" width="121" align="left">
+<img src="../shapes/36.03.png" width="121" align="left">
 
 九三爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：路有阻碍；妇已有孕。
 - 身体：心腹之症，出门求医。
 
-<img src="shapes/36.04.png" width="121" align="left">
+<img src="../shapes/36.04.png" width="121" align="left">
 
 六四爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：亲族失和；罢婚为宜。
 - 身体：精神症状。
 
-<img src="shapes/36.05.png" width="121" align="left">
+<img src="../shapes/36.05.png" width="121" align="left">
 
 六五爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：地势太低；先富后贫。
 - 身体：上火下泄，殊为难治。
 
-<img src="shapes/36.06.png" width="121" align="left">
+<img src="../shapes/36.06.png" width="121" align="left">
 
 上六爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 

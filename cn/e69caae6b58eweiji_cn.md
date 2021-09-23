@@ -1,6 +1,6 @@
 # 未济 ䷿
 
-<img src="shapes/64.10.png" width="101" alt="未济" align="left">
+<img src="../shapes/64.10.png" width="101" alt="未济" align="left">
 
 未济（䷿ wèi jì）卦的代号是`2:5`。主卦是`2`卦，坎卦，卦象是水，阳数是`2`；客卦是`5`卦，离卦，卦象是火，阳数是`5`。未济以未能渡过河为喻，阐明“物不可穷”的道理。未济䷿是既济䷾的综卦，下坎上离，离为火，坎为水。火向上炎，水往下润，两两不相交。卦中也是三阴三阳，两两相应，有同舟共济之象，故此卦“亨”但六爻均位不正，阴差阳错，就像小狐过河尾向上舒，可刚要到河边尾巴就被沾湿了，没有过去，以此喻事情尚未完结，还要向前发展。未济卦说明主方处境困难，受客方制约，为客方服务，在这种形势下应当做什么。
 
@@ -30,7 +30,7 @@
 > 上九，有孚于飲酒，无咎。濡其首，有孚失是。
 >《象》曰：飲酒濡首，亦不知節也。
 
-<img src="shapes/64.11.png">
+<img src="../shapes/64.11.png">
 
 > 未济（䷿ wèi jì）卦是异卦，下坎上离，相叠。离为火，坎为水。火上水下，火势压倒水势，救火大功未成，故称未济。《周易》以乾坤二卦为始，以既济、未济二卦为终，充分反映了变化发展的思想。
 
@@ -86,7 +86,7 @@
 - 家宅：门户方位不正；团聚不易。
 - 身体：病在下身。
 
-<img src="shapes/64.01.png" width="121" align="left">
+<img src="../shapes/64.01.png" width="121" align="left">
 
 初六爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：美善之家；必得贤妇。
 - 身体：胸腹阻滞。
 
-<img src="shapes/64.02.png" width="121" align="left">
+<img src="../shapes/64.02.png" width="121" align="left">
 
 九二爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：安居为宜；迎娶为吉。
 - 身体：预防祸祟，渡川以解。
 
-<img src="shapes/64.03.png" width="121" align="left">
+<img src="../shapes/64.03.png" width="121" align="left">
 
 六三爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：安居乐业；二年成婚。
 - 身体：可保三年。
 
-<img src="shapes/64.04.png" width="121" align="left">
+<img src="../shapes/64.04.png" width="121" align="left">
 
 九四爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：大吉之家；婚姻必成。
 - 身体：神清气爽。
 
-<img src="shapes/64.05.png" width="121" align="left">
+<img src="../shapes/64.05.png" width="121" align="left">
  
 六五爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：勤俭持家；相敬如宾。
 - 身体：饮食失节，不可不慎。
 
-<img src="shapes/64.06.png" width="121" align="left">
+<img src="../shapes/64.06.png" width="121" align="left">
  
 上九爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 

@@ -1,6 +1,6 @@
 # 屯 ䷂
 
-<img src="shapes/03.10.png" width="101" alt="屯" align="left">
+<img src="../shapes/03.10.png" width="101" alt="屯" align="left">
 
 屯（䷂ zhūn）卦的代号是`4:2`。主卦阳数是`4`，客卦阳数是`2`。主卦是震卦，客卦是坎卦 。震卦的卦象是雷，“春雷一声惊万物”，震卦代表新生。坎卦的卦象是水，水总是往下流。屯卦表示客方日益衰落的状态是主方兴起的良机，同时客方力量仍然强大，主方的积极行动不一定取得好结果，主方应当耐心地囤聚力量。“屯”，囤聚。屯卦，水雷屯，起始维艰。这个卦是异卦，下震上坎，相叠。震为雷，喻动；坎为雨，喻险。雷雨交加，险象丛生，环境恶劣。“屯”原指植物萌生大地。万物始生，充满艰难险阻，然而顺时应运，必欣欣向荣。
 
@@ -30,7 +30,7 @@
 > 上六，乘馬班如，泣血漣如。
 >《象》曰：泣血漣如，何可長也。
 
-<img src="shapes/03.11.png"/>
+<img src="../shapes/03.11.png"/>
 
 > 屯（䷂ zhūn）卦是异卦，下震上坎，相叠。震为雷，喻动；坎为雨，喻险。雷雨交加，险象丛生，环境恶劣。“屯”原指植物萌生大地，万物始生，充满艰难险阻，然而顺时应运，必欣欣向荣。
 
@@ -86,7 +86,7 @@
 - 家宅：安居于贵宅；婚嫁吉祥。
 - 身体：健康无虞。
 
-<img src="shapes/03.01.png" width="121" align="left"/>
+<img src="../shapes/03.01.png" width="121" align="left"/>
 
 初九爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：是佳偶，但须等待。
 - 身体：保持运动习惯。
 
-<img src="shapes/03.02.png" width="121" align="left"/>
+<img src="../shapes/03.02.png" width="121" align="left"/>
 
 六二爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：不循正途求婚嫁，将有困难。
 - 身体：不可纵欲伤身。
 
-<img src="shapes/03.03.png" width="121" align="left"/>
+<img src="../shapes/03.03.png" width="121" align="left"/>
 
 六三爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：婚嫁吉祥。
 - 身体：遵医生嘱咐。
 
-<img src="shapes/03.04.png" width="121" align="left"/>
+<img src="../shapes/03.04.png" width="121" align="left"/>
 
 六四爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：聚财伤和气。
 - 身体：初病可治，久病则危。
 
-<img src="shapes/03.05.png" width="121" align="left"/>
+<img src="../shapes/03.05.png" width="121" align="left"/>
 
 九五爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：家道中落。
 - 身体：呕血之症，凶。
 
-<img src="shapes/03.06.png" width="121" align="left"/>
+<img src="../shapes/03.06.png" width="121" align="left"/>
 
 上六爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 

@@ -1,6 +1,6 @@
 # 咸 ䷞
 
-<img src="shapes/31.10.png" width="101" alt="咸" align="left">
+<img src="../shapes/31.10.png" width="101" alt="咸" align="left">
 
 咸（䷞ xián）卦的代号是`1:6`，主卦是艮卦，卦象是山，阳数是`1`；客卦是兑卦，卦象是泽，阳数是`6`。山泽通气，咸的意思是“感应”，例如少年男女相爱心灵的感应、物理上的电磁感应等。“咸”的意思是加一点“咸味”，主卦与客卦的阳数比是`1:6`。主弱客强，主方不是“感受”客方的身体，而是伺机消耗客方实力，依靠仅仅有的一点微薄力量，维护自己的利益和生存。
 
@@ -30,7 +30,7 @@
 > 上六，咸其輔頰舌。
 >《象》曰：咸其輔頰舌，滕口說也。
 
-<img src="shapes/31.11.png">
+<img src="../shapes/31.11.png">
 
 > 咸（䷞ xián）卦是异卦，下艮上兑，相叠。艮为山；泽为水。兑柔在上，艮刚在下，水向下渗，柔上而刚下，交相感应。感则成。
 
@@ -86,7 +86,7 @@
 - 家宅：迁居外地；结亲之始。
 - 身体：足疾医治。
 
-<img src="shapes/31.01.png" width="121" align="left">
+<img src="../shapes/31.01.png" width="121" align="left">
 
 初六爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：婚事有变；顺守则吉。
 - 身体：无法步行。
 
-<img src="shapes/31.02.png" width="121" align="left">
+<img src="../shapes/31.02.png" width="121" align="left">
 
 六二爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：随人他迁不宜；所处非佳偶。
 - 身体：勿陷情欲。
 
-<img src="shapes/31.03.png" width="121" align="left">
+<img src="../shapes/31.03.png" width="121" align="left">
 
 九三爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：谨慎交际；须防不贞。
 - 身体：心神恍惚，最好静养。
 
-<img src="shapes/31.04.png" width="121" align="left">
+<img src="../shapes/31.04.png" width="121" align="left">
 
 九四爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：可保平安。
 - 身体：有病将愈，且可增寿。
 
-<img src="shapes/31.05.png" width="121" align="left">
+<img src="../shapes/31.05.png" width="121" align="left">
 
 九五爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：口角之争；媒人夸张。
 - 身体：胡言乱语，祷之求安。
 
-<img src="shapes/31.06.png" width="121" align="left">
+<img src="../shapes/31.06.png" width="121" align="left">
 
 上六爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 

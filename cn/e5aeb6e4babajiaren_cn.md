@@ -1,6 +1,6 @@
 # 家人 ䷤
 
-<img src="shapes/37.10.png" width="101" alt="家人" align="left">
+<img src="../shapes/37.10.png" width="101" alt="家人" align="left">
 
 家人（䷤ jiā rén）卦的代号是`5:3`。主卦是`5`卦，离卦；客卦是`3`卦，巽卦，主卦和客卦的阳数比是`5:3`。家人指家长。主卦是离卦，光明而依附，如家长操劳家务而依赖全家人员配合；客卦是巽卦，有力而顺从，如家庭成员顺从家长。《家人》象征家庭：特别注重女人在家中的作用，如果她能够坚守正道，始终如一，将会非常有利。《家卦》的卦象是离（火）下，巽（风）上，为风从火出之表象，象征着外部的风来自于本身的火，就像家庭的影响和作用都产生于自己内部一样。君子应该特别注意自己的一言一行，说话要有根据和内容，行动要有准则和规矩，不能朝三暮四和半途而废。
 
@@ -30,7 +30,7 @@
 > 上九，有孚威如，終吉。
 >《象》曰：威如之吉，反身之謂也。
 
-<img src="shapes/37.11.png">
+<img src="../shapes/37.11.png">
 
 > 家人（䷤ jiā rén）卦是异卦，下离上巽，相叠。离为火；巽为风。火使热气上升，成为风。一切事物皆应以内在为本，然后伸延到外。发生于内，形成于外。喻先治家而后治天下，家道正，天下安乐。
 
@@ -86,7 +86,7 @@
 - 家宅：有规有矩；清白之家。
 - 身体：有病就治，一拖难医。
 
-<img src="shapes/37.01.png" width="121" align="left">
+<img src="../shapes/37.01.png" width="121" align="left">
 
 初九爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：妇人当家。
 - 身体：胃口尚好，可以无碍。
 
-<img src="shapes/37.02.png" width="121" align="left">
+<img src="../shapes/37.02.png" width="121" align="left">
 
 六二爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：家规严肃；两姓相从。
 - 身体：凉剂解厄。
 
-<img src="shapes/37.03.png" width="121" align="left">
+<img src="../shapes/37.03.png" width="121" align="left">
 
 九三爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：富豪之家。
 - 身体：过于肥胖，减之即愈。
 
-<img src="shapes/37.04.png" width="121" align="left">
+<img src="../shapes/37.04.png" width="121" align="left">
 
 六四爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：高门大宅；嫁入豪门。
 - 身体：肝火过旺，调养心气。
 
-<img src="shapes/37.05.png" width="121" align="left">
+<img src="../shapes/37.05.png" width="121" align="left">
 
 九五爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：一乡之望；两姓和睦。
 - 身体：运动健身。
 
-<img src="shapes/37.06.png" width="121" align="left">
+<img src="../shapes/37.06.png" width="121" align="left">
 
 上九爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 

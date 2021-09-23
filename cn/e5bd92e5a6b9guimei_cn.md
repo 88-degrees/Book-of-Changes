@@ -1,6 +1,6 @@
 # 归妹 ䷵
 
-<img src="shapes/54.10.png" width="101" alt="归妹" align="left">
+<img src="../shapes/54.10.png" width="101" alt="归妹" align="left">
 
 归妹（䷵ guī mèi）卦的代号是`6:4`。主卦是`6`卦，兑卦，卦象是河泽，特性是愉快。客卦是`4`卦，震卦，卦象是雷，特性是运动。震上兑下。“归妹”，古代称女子出嫁。客方谋求发展，为了主方利益，主方需要给予客方一些好处，以获得良好的发展环境，就如同以自己亲爱的妹妹嫁给客方，如卦名“归妹”所表达的意思。卦辞“归妹：征凶，无攸利”，此卦辞与《渐》卦的卦辞意思正好相反，《渐》卦谈循序渐进的“女归”，用它去办事很吉祥；而《归妹》卦谈的急于求成的“归妹”，用它去办事，迹象则很凶险，一点好处也没有。这是就整个卦义而言。
 
@@ -30,7 +30,7 @@
 > 上六，女承筐无實，士刲羊无血，无攸利。
 >《象》曰：上六无實，承虛筐也。
 
-<img src="shapes/54.11.png">
+<img src="../shapes/54.11.png">
 
 > 归妹（䷵ guī mèi）卦是异卦，下兑上震，相叠。震为动、为长男；兑为悦、为少女。以少女从长男，产生爱慕之情，有婚姻之动，有嫁女之象，故称归妹。
 
@@ -86,7 +86,7 @@
 - 家宅：偏屋亦吉。
 - 身体：不良于行。
 
-<img src="shapes/54.01.png" width="121" align="left">
+<img src="../shapes/54.01.png" width="121" align="left">
 
 初九爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：适合隐居；偏房为宜。
 - 身体：保养眼睛。
 
-<img src="shapes/54.02.png" width="121" align="left">
+<img src="../shapes/54.02.png" width="121" align="left">
 
 九二爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：不是正宅；不是正娶。
 - 身体：待时可愈。
 
-<img src="shapes/54.03.png" width="121" align="left">
+<img src="../shapes/54.03.png" width="121" align="left">
 
 六三爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：暂勿迁居；须待时日。
 - 身体：安心静养。
 
-<img src="shapes/54.04.png" width="121" align="left">
+<img src="../shapes/54.04.png" width="121" align="left">
 
 九四爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：喜事临门；二女同归。
 - 身体：半月可愈。
 
-<img src="shapes/54.05.png" width="121" align="left">
+<img src="../shapes/54.05.png" width="121" align="left">
 
 六五爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：须防纷争；婚娶不正。
 - 身体：虚劳失血，不治之象。
 
-<img src="shapes/54.06.png" width="121" align="left">
+<img src="../shapes/54.06.png" width="121" align="left">
 
 上六爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 

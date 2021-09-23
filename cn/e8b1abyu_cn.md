@@ -1,6 +1,6 @@
 # 豫 ䷏
 
-<img src="shapes/16.10.png" width="101" alt="豫" align="left">
+<img src="../shapes/16.10.png" width="101" alt="豫" align="left">
 
 豫（䷏  yǜ）卦代号是`0:4`，主卦是坤卦，卦象地，客卦为震卦，卦象雷。豫卦，雷地豫，顺时依势。“豫”的意思是安闲，主方满足于现状，客方态度随和，为主方提供了安闲舒适的环境。这个卦是异卦，下坤上震，相叠。坤为地，为顺；震为雷，为动。雷依时出，预示大地回春。因顺而动，和乐之源。此卦与谦卦互为综卦，交互作用。《豫》卦是《谦》卦的对应卦，它从另一个侧面论述了建侯行师征邑国的策略问题。这里面包括由于“鸣豫”带来泄密的恶果；包括不愿做豫备的 “盱豫”和迟迟不做豫备的“迟（豫）”带来的“有悔”。
 
@@ -32,7 +32,7 @@
 > 上六，冥豫，成有渝，无咎。
 >《象》曰：冥豫在上，何可長也。
 
-<img src="shapes/16.11.png">
+<img src="../shapes/16.11.png">
 
 > 豫（䷏  yǜ）卦是异卦，下坤上震，相叠。坤为地，为顺；震为雷，为动。雷依时出，预示大地回春。因顺而动，和乐之源。此卦与谦卦互为综卦，交互作用。
 
@@ -88,7 +88,7 @@
 - 家宅：怪异之惊，应防凶险。
 - 身体：颇为不利。
 
-<img src="shapes/16.01.png" width="121" align="left">
+<img src="../shapes/16.01.png" width="121" align="left">
 
 初六爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -105,7 +105,7 @@
 - 家宅：严正持家，拒斥小人。
 - 身体：新病可愈，宿疾即忘。
 
-<img src="shapes/16.02.png" width="121" align="left">
+<img src="../shapes/16.02.png" width="121" align="left">
 
 六二爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -122,7 +122,7 @@
 - 家宅：速防窃盗。
 - 身体：立即就医。
 
-<img src="shapes/16.03.png" width="121" align="left">
+<img src="../shapes/16.03.png" width="121" align="left">
 
 六三爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -139,7 +139,7 @@
 - 家宅：得福有财。
 - 身体：不必担心。
 
-<img src="shapes/16.04.png" width="121" align="left">
+<img src="../shapes/16.04.png" width="121" align="left">
 
 九四爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -156,7 +156,7 @@
 - 家宅：恐被侵占。
 - 身体：带病延年。
 
-<img src="shapes/16.05.png" width="121" align="left">
+<img src="../shapes/16.05.png" width="121" align="left">
 
 六五爻动变得[第45卦：泽地萃](e89083cui_cn.md)。
 
@@ -173,7 +173,7 @@
 - 财运：改旧从新，将可获利。
 - 家宅：迁居改造为宜。
 - 身体：应有转机。
-<img src="shapes/16.06.png" width="121" align="left">
+<img src="../shapes/16.06.png" width="121" align="left">
 
 上六爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 

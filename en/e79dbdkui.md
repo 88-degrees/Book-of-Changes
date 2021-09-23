@@ -6,7 +6,7 @@
 
 <a id="p-139"/>
 
-<img src="shapes/38.10.png" width="101" alt="暌">
+<img src="../shapes/38.10.png" width="101" alt="暌">
 
 **䷥ Kuí** indicates that, (notwithstanding the condition of things which it denotes), in small matters there will (still) be good success.
 

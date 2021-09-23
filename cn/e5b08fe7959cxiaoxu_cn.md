@@ -1,6 +1,6 @@
 # 小畜 ䷈
 
-<img src="shapes/09.10.png" width="101" alt="小畜" align="left">
+<img src="../shapes/09.10.png" width="101" alt="小畜" align="left">
 
 小畜（䷈ xiǎo xù）卦的代号是`7:3`。主卦是`7`卦，乾卦，卦象是天，天的特性是强健。客卦是`3`卦，巽卦，卦象是风，风的特性是顺从。这并不意味强健的主方可以让客方顺从主方，因为，风仍然有强大的能量，只是顺从在前进方向上可以通过的路，并不顺从在与前进方向不通，或者没有开通的路。巽卦的中爻和上爻是阳爻，表示客方仍然有很强的力量，只有下爻是阴爻，消极被动，这并不意味着主方可以让客方无条件地顺从。所以，在当前双方关系中，主方应当积蓄力量，伺机而动。“小畜”的意思是：少许积蓄。
 
@@ -30,7 +30,7 @@
 > 上九，既雨既處，尚得載，婦貞厲。月幾望，君子征凶。
 >《象》曰：既雨既處，德積載也；君子征凶，有所疑也。
 
-<img src="shapes/09.11.png">
+<img src="../shapes/09.11.png">
 
 > 小畜（䷈ xiǎo xù）卦是异卦，下乾上巽，相叠。乾为天，巽为风。喻风调雨顺，谷物滋长，故卦名小畜（蓄）。力量有限，须待发展到一定程度，才可大有作为。
 
@@ -86,7 +86,7 @@
 - 家宅：不求于外，家道自亨。
 - 身体：安静休养，可以复原。
 
-<img src="shapes/09.01.png" width="121" align="left">
+<img src="../shapes/09.01.png" width="121" align="left">
 
 初九爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：兄弟和睦，家道兴隆。
 - 身体：旧疾复发，小心调养。
 
-<img src="shapes/09.02.png" width="121" align="left">
+<img src="../shapes/09.02.png" width="121" align="left">
 
 九二爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：家庭不和，婚姻不利。
 - 身体：阴阳不察，慎择良医。
 
-<img src="shapes/09.03.png" width="121" align="left">
+<img src="../shapes/09.03.png" width="121" align="left">
 
 九三爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：管理得宜，否则受累。
 - 身体：宽解治之，燥烈之药不宜。
 
-<img src="shapes/09.04.png" width="121" align="left">
+<img src="../shapes/09.04.png" width="121" align="left">
 
 六四爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：既富且贵，惠及邻里。
 - 身体：手足麻痹之症。
 
-<img src="shapes/09.05.png" width="121" align="left">
+<img src="../shapes/09.05.png" width="121" align="left">
 
 九五爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：前困后亨。
 - 身体：须防营养过多。
 
-<img src="shapes/09.06.png" width="121" align="left">
+<img src="../shapes/09.06.png" width="121" align="left">
 
 上九爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 

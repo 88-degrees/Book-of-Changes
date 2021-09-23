@@ -1,6 +1,6 @@
 # 无妄 ䷘
 
-<img src="shapes/25.10.png" width="101" alt="无妄" align="left">
+<img src="../shapes/25.10.png" width="101" alt="无妄" align="left">
 
 无妄（䷘ wú wàng）卦的代号是`4:7`卦。主卦是`4`卦震卦，卦象是雷，阳数是`4`，特性是运动，表明主方在积极主动地探索前进。客卦是`7`卦乾卦，卦象是天，阳数是`7`，特性是力量和权威。“妄”（wàng）胡乱，荒诞不合理：轻举妄动。“无妄”，不测，意外。天雷无妄，无妄而得。由于客方力量强大，可能不适当使用权力，给主方造成意想不到麻烦。
 
@@ -30,7 +30,7 @@
 > 上九，无妄行，有眚，无攸利。
 >《象》曰：无妄之行，窮之災也。
 
-<img src="shapes/25.11.png">
+<img src="../shapes/25.11.png">
 
 > 无妄（䷘ wú wàng）卦是异卦，下震上乾，相叠。乾为天为刚为健；震为雷为刚为动。动而健，刚阳盛，人心振奋，必有所得，但唯循纯正，不可妄行。无妄必有获，必可致福。
 
@@ -86,7 +86,7 @@
 - 家宅：迁居为宜；婿可入赘。
 - 身体：出外就医。
 
-<img src="shapes/25.01.png" width="121" align="left">
+<img src="../shapes/25.01.png" width="121" align="left">
 
 初九爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：承继家产；招赘之亲。
 - 身体：自然痊愈。
 
-<img src="shapes/25.02.png" width="121" align="left">
+<img src="../shapes/25.02.png" width="121" align="left">
 
 六二爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：外人侵占；远人结亲。
 - 身体：外人传染，小心防治。
 
-<img src="shapes/25.03.png" width="121" align="left">
+<img src="../shapes/25.03.png" width="121" align="left">
 
 六三爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：保持祖业。
 - 身体：安静调养，下月可愈。
 
-<img src="shapes/25.04.png" width="121" align="left">
+<img src="../shapes/25.04.png" width="121" align="left">
 
 九四爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：防备倾倒。
 - 身体：不必担心。
 
-<img src="shapes/25.05.png" width="121" align="left">
+<img src="../shapes/25.05.png" width="121" align="left">
 
 九五爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：慎勿迁移。
 - 身体：年老颐养。
 
-<img src="shapes/25.06.png" width="121" align="left">
+<img src="../shapes/25.06.png" width="121" align="left">
 
 上九爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 

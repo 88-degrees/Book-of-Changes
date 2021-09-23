@@ -1,6 +1,6 @@
 # 蒙 ䷃
 
-<img src="shapes/04.10.png" width="101" alt="蒙" align="left"/>
+<img src="../shapes/04.10.png" width="101" alt="蒙" align="left"/>
 
 蒙（䷃  méng）卦的代号是`2:1`，主卦是坎卦，卦象是水，阳数是`2`；客卦是艮卦，卦象是山，阳数是 `1`。
 主方应当按客方需要作对客方有利的事，在条件可能情况下，作些对自己有益的事。《蒙》卦象征启蒙，亨通。不是我有求于幼童，而是幼童有求于我，第一次向我请教，我有问必答，如果一而再、再而三地没有礼貌地乱问，则不予回答。利于守正道。 这个卦是异卦，下坎上艮相叠。卦形为山下有险，仍不停止前进，是为蒙昧，故称蒙卦。但因把握时机，行动切合时宜；因此，具有启蒙和通达的卦象。
@@ -31,7 +31,7 @@
 > 上九，擊蒙。不利為寇，利禦寇。
 >《象》曰：利用禦寇，上下順也。
 
-<img src="shapes/04.11.png"/>
+<img src="../shapes/04.11.png"/>
 
 > 蒙（䷃  méng）卦是异卦，下坎上艮，相叠。艮是山的形象，喻止；坎是水的形象，喻险。卦形为山下有险，仍不停止前进，是为蒙昧，故称蒙卦。但因把握时机，行动切合时宜，因此，具有启蒙和通达的卦象。
 
@@ -87,7 +87,7 @@
 - 家宅：谨慎持家；可能罢婚。
 - 身体：恐有外伤。
 
-<img src="shapes/04.01.png" width="121" align="left"/>
+<img src="../shapes/04.01.png" width="121" align="left"/>
 
 初六爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -104,7 +104,7 @@
 - 家宅：妻贤子孝，可振家业。
 - 身体：柔软体操。
 
-<img src="shapes/04.02.png" width="121" align="left"/>
+<img src="../shapes/04.02.png" width="121" align="left"/>
 
 九二爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -121,7 +121,7 @@
 - 家宅：妻强夫弱，恐有不安；不宜婚嫁。
 - 身体：小心饮食。
 
-<img src="shapes/04.03.png" width="121" align="left"/>
+<img src="../shapes/04.03.png" width="121" align="left"/>
 
 六三爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
@@ -138,7 +138,7 @@
 - 家宅：地处偏僻，生活困苦。
 - 身体：体质虚弱，阴寒之症。
 
-<img src="shapes/04.04.png" width="121" align="left"/>
+<img src="../shapes/04.04.png" width="121" align="left"/>
 
 六四爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
@@ -155,7 +155,7 @@
 - 家宅：幼年定亲。
 - 身体：听人指导锻炼。
 
-<img src="shapes/04.05.png" width="121" align="left"/>
+<img src="../shapes/04.05.png" width="121" align="left"/>
 
 六五爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -172,7 +172,7 @@
 - 家宅：妇道贵顺，家道和平。
 - 身体：保养为宜。
 
-<img src="shapes/04.06.png" width="121" align="left"/>
+<img src="../shapes/04.06.png" width="121" align="left"/>
 
 上九爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 

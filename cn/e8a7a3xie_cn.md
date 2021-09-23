@@ -1,6 +1,6 @@
 # 解 ䷧
 
-<img src="shapes/40.10.png" width="101" alt="解" align="left">
+<img src="../shapes/40.10.png" width="101" alt="解" align="left">
 
 解（䷧ xiè）卦的代号是`2:4`。主卦是`2`卦，坎卦；客卦是`4`卦，震卦。解卦，雷水解，柔道致治。解卦，阐释解除困难的法则。发生困难，就应当设法解除。原则上，应当采用柔和平易的方法，才能得到群众的支持；而且应当快速，立即恢复平静，以免扰民。当困难开始之初，就应当刚柔相济，顺应情势，立即解除。应当坚持中庸正直的原则；任用得当，名实相符，不可敷衍了事，徒然增加困难。而且除恶务尽，不惜断然采取严厉的手段。小人势消，然君子势长，才能得到正义力量的信任与支持，使困难消除于无形。
 
@@ -32,7 +32,7 @@
 >《象》曰：公用射隼，以解悖也。
 >《繫辭》：易曰：「公用射隼于高墉之上，獲之，无不利。」子曰：隼者禽也，弓矢者器也，射之者人也，君子藏器於身，待時而動，何不利之有。動而不括，是以出而有獲，語成器而動者也。
 
-<img src="shapes/40.11.png">
+<img src="../shapes/40.11.png">
 
 > 解（䷧ xiè）卦是异卦，下坎上震，相叠。震为雷、为动；坎为水、为险。险在内，动在外。严冬天地闭塞，静极而动。万象更新，冬去春来，一切消除，是为解。
 
@@ -88,7 +88,7 @@
 - 家宅：平安度日。
 - 身体：一切无恙。
 
-<img src="shapes/40.01.png" width="121" align="left">
+<img src="../shapes/40.01.png" width="121" align="left">
 
 初六爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -105,7 +105,7 @@
 - 家宅：防范作祟；得到正室。
 - 身体：防有邪念邪病。
 
-<img src="shapes/40.02.png" width="121" align="left">
+<img src="../shapes/40.02.png" width="121" align="left">
 
 九二爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -124,7 +124,7 @@
 
 ### 六三变卦：雷水解 变卦 雷风恒
 
-<img src="shapes/40.03.png" width="121" align="left">
+<img src="../shapes/40.03.png" width="121" align="left">
 
 六三爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -141,7 +141,7 @@
 - 家宅：不易安居；有力媒人。
 - 身体：慢跑健身。
 
-<img src="shapes/40.04.png" width="121" align="left">
+<img src="../shapes/40.04.png" width="121" align="left">
 
 九四爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
@@ -158,7 +158,7 @@
 - 家宅：福宅可居；婚姻吉祥。
 - 身体：恢复正气。
 
-<img src="shapes/40.05.png" width="121" align="left">
+<img src="../shapes/40.05.png" width="121" align="left">
 
 六五爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -175,7 +175,7 @@
 - 家宅：防备窃盗。
 - 身体：户外运动。
 
-<img src="shapes/40.06.png" width="121" align="left">
+<img src="../shapes/40.06.png" width="121" align="left">
 
 上六爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 

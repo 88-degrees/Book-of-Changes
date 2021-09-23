@@ -1,6 +1,6 @@
 # 暌 ䷥
 
-<img src="shapes/38.10.png" width="101" alt="暌" align="left">
+<img src="../shapes/38.10.png" width="101" alt="暌" align="left">
 
 睽（䷥ kuí）卦的代号是`6:5`，其主卦是`6`卦，兑卦，卦象是泽，特性是愉快；客卦是`5`卦，离卦，卦象是火，特性是光明而依赖。睽，离上兑下。茂盛的河泽地带，燃起了一堆火，斜视一眼，挺别扭。主客双方关系很别扭，这是睽卦对当前形势的描述。
 
@@ -30,7 +30,7 @@
 > 上九，睽孤，見豕負塗，載鬼一車。先張之弧，後說之弧。匪寇婚媾，往遇雨則吉。
 >《象》曰：遇雨之吉，群疑亡也。
 
-<img src="shapes/38.11.png">
+<img src="../shapes/38.11.png">
 
 > 睽（䷥ kuí）卦是异卦，下兑上离，相叠。离为火；兑为泽。上火下泽，相违不相济。克则生，往复无空。万物有所不同，必有所异，相互矛盾。睽即矛盾。
 
@@ -88,7 +88,7 @@
 
 ### 初九变卦：火泽睽 变卦 火水未济
 
-<img src="shapes/38.01.png" width="121" align="left">
+<img src="../shapes/38.01.png" width="121" align="left">
 
 初九爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
@@ -105,7 +105,7 @@
 - 家宅：贵人来访；小心私情。
 - 身体：得遇良医。
 
-<img src="shapes/38.02.png" width="121" align="left">
+<img src="../shapes/38.02.png" width="121" align="left">
 
 九二爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -122,7 +122,7 @@
 - 家宅：朝西为宜；先疑后释。
 - 身体：面上有疮，久后自愈。
 
-<img src="shapes/38.03.png" width="121" align="left">
+<img src="../shapes/38.03.png" width="121" align="left">
 
 六三爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -139,7 +139,7 @@
 - 家宅：四周荒凉。
 - 身体：目疾求医。
 
-<img src="shapes/38.04.png" width="121" align="left">
+<img src="../shapes/38.04.png" width="121" align="left">
 
 九四爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -156,7 +156,7 @@
 - 家宅：旧屋可居；亲上加亲。
 - 身体：皮肤毛病，不难治好。
 
-<img src="shapes/38.05.png" width="121" align="left">
+<img src="../shapes/38.05.png" width="121" align="left">
 
 六五爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -173,7 +173,7 @@
 - 家宅：防有作祟；婚姻终和。
 - 身体：因疑成病，解疑无碍。
 
-<img src="shapes/38.06.png" width="121" align="left">
+<img src="../shapes/38.06.png" width="121" align="left">
 
 上九爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 

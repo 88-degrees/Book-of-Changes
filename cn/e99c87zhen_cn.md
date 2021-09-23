@@ -1,6 +1,6 @@
 # 震 ䷲
 
-<img src="shapes/51.10.png" width="101" alt="震" align="left">
+<img src="../shapes/51.10.png" width="101" alt="震" align="left">
 
 震（䷲ zhèn）卦的代号为`4:4`。主卦和客卦都是`4`卦。主客双方都处于事物发展初始阶段，素质不佳，态度随和；双方都在震动，合在一起，还是震动。双方的力量有时相互抵消，而有时相互加强。震为雷（震卦）临危不乱，震为雷，两震相叠，反响巨大，可消除沉闷之气，亨通畅达。平日应居安思危，怀恐惧心理，不敢有所怠慢，遇到突发事变，也能安然自若，谈笑如常。《震》卦的震，是借雷震的震，但自不当仅指雷震的震，它有一种震动、震撼、震惊、震慑综合的意思，也即指超过一般人承受压力而造成的骇异局面。 
 
@@ -28,7 +28,7 @@
 > 上六，震索索，視矍矍，征凶。震不于其躬，于其鄰，无咎。婚媾有言。
 >《象》曰：震索索，中未得也；雖凶无咎，畏鄰戒也。
 
-<img src="shapes/51.11.png">
+<img src="../shapes/51.11.png">
 
 > 震（䷲ zhèn）卦是同卦，下震上震，相叠。震为雷，两震相叠，反响巨大，可消除沉闷之气，亨通畅达。平日应居安思危，怀恐惧心理，不敢有所怠慢，遇到突发事变，也能安然自若，谈笑如常。
 
@@ -84,7 +84,7 @@
 - 家宅：谨慎为宜；先忧后喜。
 - 身体：先危后安。
 
-<img src="shapes/51.01.png" width="121" align="left">
+<img src="../shapes/51.01.png" width="121" align="left">
 
 初九爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 
@@ -101,7 +101,7 @@
 - 家宅：注意防盗；夫妻不睦。
 - 身体：病势可忧，七日可愈。
 
-<img src="shapes/51.02.png" width="121" align="left">
+<img src="../shapes/51.02.png" width="121" align="left">
 
 六二爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -118,7 +118,7 @@
 - 家宅：小心地震；门户不当。
 - 身体：由危而安。
 
-<img src="shapes/51.03.png" width="121" align="left">
+<img src="../shapes/51.03.png" width="121" align="left">
 
 六三爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -135,7 +135,7 @@
 - 家宅：阳气阻塞；辛苦成家。
 - 身体：腹部积滞，宜泄除之。
 
-<img src="shapes/51.04.png" width="121" align="left">
+<img src="../shapes/51.04.png" width="121" align="left">
 
 九四爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 
@@ -152,7 +152,7 @@
 - 家宅：祭祷防祟。
 - 身体：修身养性。
 
-<img src="shapes/51.05.png" width="121" align="left">
+<img src="../shapes/51.05.png" width="121" align="left">
 
 六五爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
@@ -169,7 +169,7 @@
 - 家宅：邻居有事；近时媒来。
 - 身体：安心养目。
 
-<img src="shapes/51.06.png" width="121" align="left">
+<img src="../shapes/51.06.png" width="121" align="left">
 
 上六爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 

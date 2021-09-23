@@ -1,6 +1,6 @@
 # 恒 ䷟
 
-<img src="shapes/32.10.png" width="101" alt="恒" align="left">
+<img src="../shapes/32.10.png" width="101" alt="恒" align="left">
 
 恒（䷟ héng）卦的代号是`3:4`。主卦是`3`卦，巽卦，卦象是风，阳数是`3`；客卦是`4`卦，震卦，卦象是雷，阳数是`4`。恒：亨，无咎，利贞。利有攸往。雷风恒，恒心有成。恒卦，通达，没有过失。有所往则有利。恒，卦名。本卦为异卦相叠，巽下震上。上卦为震，震为雷，下卦为巽，巽为风。从自然界看，风雷激荡，使宇宙常新。从社会上看，震为阳，巽为阴，阳上阴下，正像君贵民贱，男萼女卑，所谓永恒不变的封建纲常。“君子”应该坚守此道，持之以恒。所以卦名曰恒。恒，《说文》：“恒，常也。”
 
@@ -30,7 +30,7 @@
 > 上六，振恒，凶。
 >《象》曰：振恒在上，大无功也。
 
-<img src="shapes/32.11.png">
+<img src="../shapes/32.11.png">
 
 > 恒（䷟ héng）卦是异卦，下巽上震相叠。震为男、为雷；巽为女、为风。震刚在上，巽柔在下。刚上柔下，造化有常，相互助长。阴阳相应，常情，故称为恒。
 
@@ -86,7 +86,7 @@
 - 家宅：华丽难久；勿求攀结。
 - 身体：运动伤害，操之过急。
 
-<img src="shapes/32.01.png" width="121" align="left">
+<img src="../shapes/32.01.png" width="121" align="left">
 
 初六爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：位置不利，须待十年。
 - 身体：尚称平顺。
 
-<img src="shapes/32.02.png" width="121" align="left">
+<img src="../shapes/32.02.png" width="121" align="left">
 
 九二爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：不利久居；难以偕老。
 - 身体：运动无恒，如何健康。
 
-<img src="shapes/32.03.png" width="121" align="left">
+<img src="../shapes/32.03.png" width="121" align="left">
 
 九三爻动变得[第40卦：雷水解](e8a7a3xie_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：方位不利；配偶不和。
 - 身体：服药谨慎。
 
-<img src="shapes/32.04.png" width="121" align="left">
+<img src="../shapes/32.04.png" width="121" align="left">
 
 九四爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：女强男弱；女占喜，男占凶。
 - 身体：男女异命。
 
-<img src="shapes/32.05.png" width="121" align="left">
+<img src="../shapes/32.05.png" width="121" align="left">
 
 六五爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：旧宅不改；再娶必凶。
 - 身体：小心保养。
 
-<img src="shapes/32.06.png" width="121" align="left">
+<img src="../shapes/32.06.png" width="121" align="left">
 
 上六爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 

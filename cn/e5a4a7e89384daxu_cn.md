@@ -1,6 +1,6 @@
 # 大畜 ䷙
 
-<img src="shapes/26.10.png" width="101" alt="大畜" align="left">
+<img src="../shapes/26.10.png" width="101" alt="大畜" align="left">
 
 大畜（䷙ dà xù）卦的代号是`7:1`，主卦是乾卦，卦象是天，阳数是`7`；客卦是艮卦，卦象是山，阳数是`1`。主卦和客卦的阳数比是`7:1`。主方应当把客方像动物畜养起来，驯服它，但不是消灭它。
 
@@ -30,7 +30,7 @@
 > 上九，何天之衢，亨。
 >《象》曰：何天之衢，道大行也。
 
-<img src="shapes/26.11.png">
+<img src="../shapes/26.11.png">
 
 > 大畜（䷙ dà xù）卦是异卦，下乾上艮，相叠。乾为天，刚健；艮为山，笃实。畜者积聚，大畜意为大积蓄。为此不畏严重的艰难险阻，努力修身养性以丰富德业。
 
@@ -86,7 +86,7 @@
 - 家宅：屋宅忌高；夫顺妻吉。
 - 身体：有病无虞。
 
-<img src="shapes/26.01.png" width="121" align="left">
+<img src="../shapes/26.01.png" width="121" align="left">
 
 初九爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：谨慎守业；贵婿大吉。
 - 身体：腹痛难愈，但无大碍。
 
-<img src="shapes/26.02.png" width="121" align="left">
+<img src="../shapes/26.02.png" width="121" align="left">
 
 九二爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：勤俭兴家；男女合志。
 - 身体：谨慎调养，可保无碍。
 
-<img src="shapes/26.03.png" width="121" align="left">
+<img src="../shapes/26.03.png" width="121" align="left">
 
 九三爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：新居有路；少年联姻。
 - 身体：防小儿病。
 
-<img src="shapes/26.04.png" width="121" align="left">
+<img src="../shapes/26.04.png" width="121" align="left">
 
 六四爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：住屋风水；婚姻合宜。
 - 身体：调养节制。
 
-<img src="shapes/26.05.png" width="121" align="left">
+<img src="../shapes/26.05.png" width="121" align="left">
 
 六五爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：道旁吉宅；天作之合。
 - 身体：健康平安。
 
-<img src="shapes/26.06.png" width="121" align="left">
+<img src="../shapes/26.06.png" width="121" align="left">
 
 上九爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 

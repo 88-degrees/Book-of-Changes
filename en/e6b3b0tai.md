@@ -6,7 +6,7 @@
 
 <a id="p-81"/>
 
-<img src="shapes/11.10.png" width="101" alt="泰">
+<img src="../shapes/11.10.png" width="101" alt="泰">
 
 In **䷊ Tài** (we see) the little gone and the great come. (It indicates that) there will be good fortune, with progress and success.
 

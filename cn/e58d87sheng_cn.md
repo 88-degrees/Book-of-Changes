@@ -1,6 +1,6 @@
 # 升 ䷭
 
-<img src="shapes/46.10.png" width="101" alt="升" align="left">
+<img src="../shapes/46.10.png" width="101" alt="升" align="left">
 
 升（䷭ shēng）卦的代号是 `3:0`，主卦是巽卦，卦象是风，阳数是`3`；客卦是坤卦，卦象是地，阳数是`0`。“升”，提升。主方在消极被动状态下，应当阴中有阳，适时采取主动，利用客方对自己的依赖，更强地控制客方，维护和增加自己的利益。《升》卦谈的是上升之卦，亦犹其爻辞所说的“升阶”之义。但是，从此卦卦辞的“南征吉”和爻辞的“升虚邑”以及其它爻辞的用语来看，此卦仍属用兵侵伐之卦。也即是说，此卦谈的是在兼并时期侵伐其它邦国时所应该注意到的一些问题。
 
@@ -30,7 +30,7 @@
 > 上六，冥升，利于不息之貞。
 >《象》曰：冥升在上，消不富也。
 
-<img src="shapes/46.11.png">
+<img src="../shapes/46.11.png">
 
 > 升（䷭ shēng）卦是异卦，下巽上坤，相叠。坤为地、为顺；巽为木、为逊。大地生长树木，逐渐成长，日渐高大成材，喻事业步步高升，前程远大，故名“升”。
 
@@ -86,7 +86,7 @@
 - 家宅：乔迁之喜；两姓好合。
 - 身体：有病即治，不可拖延。
 
-<img src="shapes/46.01.png" width="121" align="left">
+<img src="../shapes/46.01.png" width="121" align="left">
 
 初六爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：必有喜事；阴阳合德。
 - 身体：最好祈神。
 
-<img src="shapes/46.02.png" width="121" align="left">
+<img src="../shapes/46.02.png" width="121" align="left">
 
 九二爻动变得[第15卦：地山谦](e8b0a6qian_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：先虚后实；空房独守。
 - 身体：虚弱之症。
 
-<img src="shapes/46.03.png" width="121" align="left">
+<img src="../shapes/46.03.png" width="121" align="left">
 
 九三爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：祭告宅神。
 - 身体：虔诚祷告。
 
-<img src="shapes/46.04.png" width="121" align="left">
+<img src="../shapes/46.04.png" width="121" align="left">
 
 六四爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：步步高升；攀结高亲。
 - 身体：病情升高。
 
-<img src="shapes/46.05.png" width="121" align="left">
+<img src="../shapes/46.05.png" width="121" align="left">
 
 六五爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：难免中落；难以偕老。
 - 身体：可能归天。
 
-<img src="shapes/46.06.png" width="121" align="left">
+<img src="../shapes/46.06.png" width="121" align="left">
 
 上六爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 

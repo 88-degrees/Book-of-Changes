@@ -1,6 +1,6 @@
 # 噬嗑 ䷔
 
-<img src="shapes/21.10.png" width="101" alt="噬嗑" align="left">
+<img src="../shapes/21.10.png" width="101" alt="噬嗑" align="left">
 
 噬嗑（䷔ shì kè）卦的代号是`4:5`。主卦是`4`卦，震卦，阳数是`4`；客卦是`5`卦，离卦，阳数是`5`，客方稍强于主方，主方处境不易，就像是被客方噬嗑。噬嗑为上下颚咬合，咀嚼。火雷噬嗑，刚柔相济。这个卦是异卦，下震上离，相叠。离为阴卦；震为阳卦。此卦是阐释刑罚的原则：法治是政治的根本，为排除障碍，保障善良，建立及保持秩序，往往不得不采取不得已的刑罚手段。罪恶必须及早加以阻止，以防止蔓延。应当采重罚主义，以“小惩大戒”。运拙如同身受饥，幸得送饭又送食，适口充腹心欢喜，忧愁从此渐消移。
 
@@ -32,7 +32,7 @@
 > 上九，何校滅耳，凶。
 >《象》曰：何校滅耳，聰不明也。
 
-<img src="shapes/21.11.png">
+<img src="../shapes/21.11.png">
 
 > 噬嗑（䷔ shì kè）卦是异卦，下震上离，相叠。离为阴卦；震为阳卦。阴阳相交，咬碎硬物。喻恩威并施，宽严结合，刚柔相济。噬嗑为上下颚咬合，咀嚼。
 
@@ -90,7 +90,7 @@
 - 家宅：兴工改造；婚嫁不宜。
 - 身体：足病初发，宜早医治。
 
-<img src="shapes/21.01.png" width="121" align="left">
+<img src="../shapes/21.01.png" width="121" align="left">
 
 初九爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 
@@ -107,7 +107,7 @@
 - 家宅：老宅不利；婚嫁兴家。
 - 身体：肌肤有病，小心深入。
 
-<img src="shapes/21.02.png" width="121" align="left">
+<img src="../shapes/21.02.png" width="121" align="left">
 
 六二爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
@@ -124,7 +124,7 @@
 - 家宅：小有不安。
 - 身体：药不对症，幸无大碍。
 
-<img src="shapes/21.03.png" width="121" align="left">
+<img src="../shapes/21.03.png" width="121" align="left">
 
 六三爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
@@ -141,7 +141,7 @@
 - 家宅：保家有道；婚嫁勤俭。
 - 身体：难治之症，宜多调养。
 
-<img src="shapes/21.04.png" width="121" align="left">
+<img src="../shapes/21.04.png" width="121" align="left">
 
 九四爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -158,7 +158,7 @@
 - 家宅：方位合宜。
 - 身体：忌食肉类，小心调养。
 
-<img src="shapes/21.05.png" width="121" align="left">
+<img src="../shapes/21.05.png" width="121" align="left">
 
 六五爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
@@ -175,7 +175,7 @@
 - 家宅：须防意外。
 - 身体：眼耳之疾；保养头部。
 
-<img src="shapes/21.06.png" width="121" align="left">
+<img src="../shapes/21.06.png" width="121" align="left">
 
 上九爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 

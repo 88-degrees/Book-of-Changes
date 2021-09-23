@@ -6,7 +6,7 @@
 
 <a id="p-93"/>
 
-<img src="shapes/17.10.png" width="101" alt="随">
+<img src="../shapes/17.10.png" width="101" alt="随">
 
 **䷐ Suí** indicates that (under its conditions) there will be great progress and success. But it will be advantageous to be firm and correct. There will (then) be no error.
 

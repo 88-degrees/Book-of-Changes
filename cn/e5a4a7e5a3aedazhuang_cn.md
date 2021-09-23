@@ -1,6 +1,6 @@
 # 大壮 ䷡
 
-<img src="shapes/34.10.png" width="101" alt="大壮" align="left">
+<img src="../shapes/34.10.png" width="101" alt="大壮" align="left">
 
 大壮（䷡ dà zhuàng）卦的代号是`7:4` 。主卦是`7`卦，乾卦，卦象是天；客卦是`4`卦，震卦，卦象是雷。威力强大的主方，面对刚刚出现的新生力量，无疑可以轻易摆布客方，但是，也可能滥用自己的力量，给自己带来麻烦，“大壮”有过于强壮之意，告诫主方不要过分滥用权力。大壮卦，雷天大壮，壮勿妄动。这个卦是异卦，下乾上震，相叠。震为雷；乾为天。乾刚震动。天鸣雷，云雷滚， 声势宏大，阳气盛壮，万物生长。刚壮有力故曰壮。大而且壮，故名大壮。四阳壮盛，积极而有所作为，上正下正，标正影直。
 
@@ -30,7 +30,7 @@
 > 上六，羝羊觸藩，不能退、不能遂，无攸利，艱則吉。
 >《象》曰：不能退，不能遂，不詳也。艱則吉，咎不長也。
 
-<img src="shapes/34.11.png">
+<img src="../shapes/34.11.png">
 
 > 大壮（䷡ dà zhuàng）卦是异卦，下乾上震相叠。震为雷；乾为天。乾刚震动。天鸣雷，云雷滚，声势宏大，阳气盛壮，万物生长。刚壮有力故曰壮。大而且壮，故名大壮。四阳壮盛，积极而有所作为，上正下正，标正影直。
 
@@ -86,7 +86,7 @@
 - 家宅：不可迁移；防女足疾。
 - 身体：慎择良医。
 
-<img src="shapes/34.01.png" width="121" align="left">
+<img src="../shapes/34.01.png" width="121" align="left">
 
 初九爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：地位适中；婚姻吉祥。
 - 身体：滋补得宜。
 
-<img src="shapes/34.02.png" width="121" align="left">
+<img src="../shapes/34.02.png" width="121" align="left">
 
 九二爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：过高易震；夫妻反目。
 - 身体：血气过刚，防有不测。
 
-<img src="shapes/34.03.png" width="121" align="left">
+<img src="../shapes/34.03.png" width="121" align="left">
 
 九三爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：赶快整修；不是佳偶。
 - 身体：恐有不测。
 
-<img src="shapes/34.04.png" width="121" align="left">
+<img src="../shapes/34.04.png" width="121" align="left">
 
 九四爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：不宜畜牧；婚礼不成。
 - 身体：不吉之象。
 
-<img src="shapes/34.05.png" width="121" align="left">
+<img src="../shapes/34.05.png" width="121" align="left">
 
 六五爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：艰难自守；先苦后乐。
 - 身体：进退两难。
 
-<img src="shapes/34.06.png" width="121" align="left">
+<img src="../shapes/34.06.png" width="121" align="left">
 
 上六爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 

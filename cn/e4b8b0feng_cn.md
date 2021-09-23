@@ -1,6 +1,6 @@
 # 丰 ䷶
 
-<img src="shapes/55.10.png" width="101" alt="丰" align="left">
+<img src="../shapes/55.10.png" width="101" alt="丰" align="left">
 
 丰（䷶ fēng）卦的代号是`5:4`。主卦是`5`卦，离卦，卦象是火，光明而依附。客卦是`4`卦震卦，卦象是雷，运动而乏力。震卦和离卦的下爻和中爻都相同，区别在上爻：离卦的上爻，阳；震卦的上爻，阴。丰卦的爻辞中，主方被比喻为日食时的太阳，客方被比喻为日食中的月亮。这个卦的爻辞用全日食过程作比喻，说明主方在客方的激烈挑战前，应当抓住机遇，创造对主方更有利的新局面。
 
@@ -30,7 +30,7 @@
 > 上六，豐其屋，蔀其家，闚其戶，闃其无人，三歲不覿，凶。
 >《象》曰：豐其屋，天際翔也；闚其戶，闃其无人，自藏也。
 
-<img src="shapes/55.11.png">
+<img src="../shapes/55.11.png">
 
 > 丰（䷶ fēng）卦是异卦，下离上震，相叠。电闪雷鸣，成就巨大，喻达到顶峰，如日中天。告戒：务必注意事物向相反方面发展，盛衰无常，不可不警惕。
 
@@ -88,7 +88,7 @@
 - 家宅：可以安居；婚姻宜速。
 - 身体：良医十日可愈，久则不治。
 
-<img src="shapes/55.01.png" width="121" align="left">
+<img src="../shapes/55.01.png" width="121" align="left">
 
 初九爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -105,7 +105,7 @@
 - 家宅：明亮为宜；始疑终谐。
 - 身体：狭心之症，需要开导。
 
-<img src="shapes/55.02.png" width="121" align="left">
+<img src="../shapes/55.02.png" width="121" align="left">
 
 六二爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -122,7 +122,7 @@
 - 家宅：只可暂居。
 - 身体：右臂受伤。
 
-<img src="shapes/55.03.png" width="121" align="left">
+<img src="../shapes/55.03.png" width="121" align="left">
 
 九三爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -139,7 +139,7 @@
 - 家宅：成败在人；巧遇良缘。
 - 身体：眼疾待良医。
 
-<img src="shapes/55.04.png" width="121" align="left">
+<img src="../shapes/55.04.png" width="121" align="left">
 
 九四爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
@@ -156,7 +156,7 @@
 - 家宅：名门正户；天作之合。
 - 身体：名医治之。
 
-<img src="shapes/55.05.png" width="121" align="left">
+<img src="../shapes/55.05.png" width="121" align="left">
 
 六五爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
@@ -173,7 +173,7 @@
 - 家宅：没落之家；婚姻不详。
 - 身体：大限将至。
 
-<img src="shapes/55.06.png" width="121" align="left">
+<img src="../shapes/55.06.png" width="121" align="left">
 
 上六爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 

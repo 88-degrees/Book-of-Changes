@@ -6,7 +6,7 @@
 
 <a id="p-88"/>
 
-<img src="shapes/14.10.png" width="101" alt="大有">
+<img src="../shapes/14.10.png" width="101" alt="大有">
 
 **Dà Yǒu ䷍** indicates that, (under the circumstances which it implies), there will be great progress and success.
 

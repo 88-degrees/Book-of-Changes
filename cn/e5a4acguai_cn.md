@@ -1,6 +1,6 @@
 # 夬 ䷪
 
-<img src="shapes/43.10.png" width="101" alt="夬" align="left">
+<img src="../shapes/43.10.png" width="101" alt="夬" align="left">
 
 夬（䷪ guài）卦的代号`7:6`。主卦是`7`卦，乾卦，卦象是天，特性是强健，阳数是`7`；客卦是`6`卦，兑卦，卦象是泽，特性是愉快，阳数是`6`。“夬”，分决，决断。强健的主方遇到愉快的客方，双方的素质都良好，都积极主动，主方的态度强硬，客方的态度随和。主方是应当视客方为友好的伙伴，依靠客方呢；还是视客方为竞争对手，打击客方呢？尤其客方的态度不明朗，不容易对客方作出判断，主方必须果断，不再犹豫。
 
@@ -30,7 +30,7 @@
 > 上六，无號，終有凶。
 >《象》曰：无號之凶，終不可長也。
 
-<img src="shapes/43.11.png">
+<img src="../shapes/43.11.png">
 
 > 夬（䷪ guài）卦是异卦，下乾上兑，相叠。乾为天为健；兑为泽为悦。泽气上升，决注成雨，雨施大地，滋润万物。五阳去一阴，去之不难，决（去之意）即可，故名为夬（guài），夬即决。
 
@@ -87,7 +87,7 @@
 - 家宅：地势太低；门户不对。
 - 身体：小心足疾。
 
-<img src="shapes/43.01.png" width="121" align="left">
+<img src="../shapes/43.01.png" width="121" align="left">
 
 初九爻动变得[第28卦：泽风大过](e5a4a7e8bf87daguo_cn.md)。
 
@@ -104,7 +104,7 @@
 - 家宅：宜防火灾；婚姻吉祥。
 - 身体：阴虚火盛，调养可治。
 
-<img src="shapes/43.02.png" width="121" align="left">
+<img src="../shapes/43.02.png" width="121" align="left">
 
 九二爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
@@ -121,7 +121,7 @@
 - 家宅：早些整修；暂时不成。
 - 身体：湿气上升，治之可愈。
 
-<img src="shapes/43.03.png" width="121" align="left">
+<img src="../shapes/43.03.png" width="121" align="left">
 
 九三爻动变得[第58卦：兑为泽](e58591dui_cn.md)。
 
@@ -138,7 +138,7 @@
 - 家宅：四周狭隘；久之可成。
 - 身体：皮肤有病，须防失聪。
 
-<img src="shapes/43.04.png" width="121" align="left">
+<img src="../shapes/43.04.png" width="121" align="left">
 
 九四爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -155,7 +155,7 @@
 - 家宅：整理干净；婚姻合宜。
 - 身体：调节气旺。
 
-<img src="shapes/43.05.png" width="121" align="left">
+<img src="../shapes/43.05.png" width="121" align="left">
 
 九五爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -172,7 +172,7 @@
 - 家宅：寂静不安；媒妁未成。
 - 身体：无声可呼，已至险境。
 
-<img src="shapes/43.06.png" width="121" align="left">
+<img src="../shapes/43.06.png" width="121" align="left">
 
 上六爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 

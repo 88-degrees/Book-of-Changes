@@ -1,6 +1,6 @@
 # 剥 ䷖
 
-<img src="shapes/23.10.png" width="101" alt="剥" align="left">
+<img src="../shapes/23.10.png" width="101" alt="剥" align="left">
 
 剥（䷖ bō）卦的代号是 `0:1`。主卦是坤卦，卦象是地，阳数是`0`；客卦是艮卦，卦象是山，阳数是`1`。“剥”的意思是剥落。主方应当阴中有阳，恰当采取主动措施，改变目前状况，否则只得忍受客方制约。剥卦的卦象为山地剥，顺势而止。
 
@@ -30,7 +30,7 @@
 > 上九，碩果不食，君子得輿。小人剝廬。
 >《象》曰：君子得輿，民所載也，小人剝廬，終不可用也。
 
-<img src="shapes/23.11.png">
+<img src="../shapes/23.11.png">
 
 > 剥（䷖ bō）卦是异卦，下坤上艮相叠。五阴在下，一阳在上，阴盛而阳孤；高山附于地。二者都是剥落象，故为“剥卦”。此卦阴盛阳衰，喻小人得势，君子困顿，事业败坏。
 
@@ -86,7 +86,7 @@
 - 家宅：基础不稳，防备下人。
 - 身体：足部忧伤，小心诊治。
 
-<img src="shapes/23.01.png" width="121" align="left">
+<img src="../shapes/23.01.png" width="121" align="left">
 
 初六爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：宜速变迁。
 - 身体：卧床待医，防其不起。
 
-<img src="shapes/23.02.png" width="121" align="left">
+<img src="../shapes/23.02.png" width="121" align="left">
 
 六二爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：旧宅改造。
 - 身体：消除火气。
 
-<img src="shapes/23.03.png" width="121" align="left">
+<img src="../shapes/23.03.png" width="121" align="left">
 
 六三爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：破败防塌。
 - 身体：颇为凶险。
 
-<img src="shapes/23.04.png" width="121" align="left">
+<img src="../shapes/23.04.png" width="121" align="left">
 
 六四爻动变得[第35卦：火地晋](e6998bjin_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：妇女持家。
 - 身体：内亏之症，爱惜身体。
 
-<img src="shapes/23.05.png" width="121" align="left">
+<img src="../shapes/23.05.png" width="121" align="left">
 
 六五爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：忠厚可保，刻薄无屋。
 - 身体：饮食不进，小心调养。
 
-<img src="shapes/23.06.png" width="121" align="left">
+<img src="../shapes/23.06.png" width="121" align="left">
 
 上九爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 

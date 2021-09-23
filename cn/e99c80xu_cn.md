@@ -1,6 +1,6 @@
 # 需 ䷄
 
-<img src="shapes/05.10.png" alt="需" width="101" align="left">
+<img src="../shapes/05.10.png" alt="需" width="101" align="left">
 
 “需”（䷄ xū）卦的代号是`7:2`。下部是主卦，代表主方，是乾卦，阳数是`7`，卦象是天，天运转不息，具有无穷威力；上部是客卦，代表客方，是坎卦，阳数是`2`，卦象是水，水总是往下流，有力，可以浮舟，也可以沉舟。主方积极主动，实力非常强大，态度强硬；而客方消极被动，处境困难，但是素质仍然良好，仍有相当实力，态度随和。如果主方强行从客方谋取利益，双方都可能遭受损失，所以主方应当耐心等待时机，取得客方信任，从而能够从客方良好素质受益。需卦，水天需，守正待机。中上卦。明珠土埋日久深，无光无亮到如今，忽然大风吹土去，自然显露有重新。
 
@@ -30,7 +30,7 @@
 > 上六，入于穴，有不速之客三人來，敬之終吉。
 >《象》曰：不速之客來，敬之終吉，雖不當位，未大失也。
 
-<img src="shapes/05.11.png">
+<img src="../shapes/05.11.png">
 
 > “需”（䷄ xū）卦是异卦，下乾上坎，相叠。下卦是乾，刚健之意；上卦是坎，险陷之意。以刚逢险，宜稳健之妥，不可冒失行动，观时待变，所往一定成功。
 
@@ -94,7 +94,7 @@
 - 家宅：可居郊外。
 - 身体：幽居养病，终无大碍。
 
-<img src="shapes/05.01.png" width="121" align="left">
+<img src="../shapes/05.01.png" width="121" align="left">
 
 初九爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
@@ -111,7 +111,7 @@
 - 家宅：口舌之争。
 - 身体：心胸宽大，自然吉祥。
 
-<img src="shapes/05.02.png" width="121" align="left">
+<img src="../shapes/05.02.png" width="121" align="left">
 
 九二爻动变得[第63卦：水火既济](e697a2e6b58ejiji_cn.md)。
 
@@ -128,7 +128,7 @@
 - 家宅：婚事难成，成则怨偶。
 - 身体：小心外伤。
 
-<img src="shapes/05.03.png" width="121" align="left">
+<img src="../shapes/05.03.png" width="121" align="left">
 
 九三爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
@@ -145,7 +145,7 @@
 - 家宅：乔迁之喜。
 - 身体：调养气血，和顺阴阳。
 
-<img src="shapes/05.04.png" width="121" align="left">
+<img src="../shapes/05.04.png" width="121" align="left">
 
 六四爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -162,7 +162,7 @@
 - 家宅：婚嫁得宜。
 - 身体：饮食调理。
 
-<img src="shapes/05.05.png" width="121" align="left">
+<img src="../shapes/05.05.png" width="121" align="left">
 
 九五爻动变得[第11卦：地天泰](e6b3b0tai_cn.md)。
 
@@ -179,7 +179,7 @@
 - 家宅：持家有道；少男乃吉。
 - 身体：病况凶险，不存侥幸。
 
-<img src="shapes/05.06.png" width="121" align="left">
+<img src="../shapes/05.06.png" width="121" align="left">
 
 上六爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 

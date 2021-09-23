@@ -6,7 +6,7 @@
 
 <a id="p-86"/>
 
-<img src="shapes/13.10.png" width="101" alt="同人">
+<img src="../shapes/13.10.png" width="101" alt="同人">
 
 **䷌ Tóng Rén** (or `Union of men`) appears here (as we find it) in the (remote districts of the) country, indicating progress and success. It will be advantageous to cross the great stream. It will be advantageous to maintain the firm correctness of the superior man.
 

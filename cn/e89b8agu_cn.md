@@ -1,6 +1,6 @@
 # 蛊 ䷑
 
-<img src="shapes/18.10.png" width="101" alt="蛊" align="left">
+<img src="../shapes/18.10.png" width="101" alt="蛊" align="left">
 
 蛊（䷑ gǔ）卦的代号是`3:1`。主卦是巽卦，卦象是风，阳数是`3`；客卦是艮卦，卦象是山，阳数是`1`。“蛊”的意思是祸乱。蛊卦，表示积弊已久，整弊治乱。蛊卦下卦为风，上卦为艮，两卦结合风行山止。打旋而邪，盛极而衰，凡事必须防患于未然，才有利于涉大江大川，用甲前三日和用甲后三日比喻天时之运转，时事之变化，最后天下大治，长久而治安。
 
@@ -30,7 +30,7 @@
 > 上九，不事王侯，高尚其事。
 >《象》曰：不事王侯，志可則也。
 
-<img src="shapes/18.11.png">
+<img src="../shapes/18.11.png">
 
 > 蛊（䷑ gǔ）卦是异卦(下巽上艮)相叠，与随卦互为综卦。蛊本意为事，引申为多事、混乱。器皿久不用而生虫称“蛊”，喻天下久安而因循、腐败，必须革新创造，治理整顿，挽救危机，重振事业。
 
@@ -87,7 +87,7 @@
 - 家宅：改造旧宅;婚嫁可喜。
 - 身体：初无大碍，无子不利。
 
-<img src="shapes/18.01.png" width="121" align="left">
+<img src="../shapes/18.01.png" width="121" align="left">
 
 初六爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
@@ -104,7 +104,7 @@
 - 家宅：母系擅权，忍耐协调;可得佳妇。
 - 身体：大人寒症，小孩补气。
 
-<img src="shapes/18.02.png" width="121" align="left">
+<img src="../shapes/18.02.png" width="121" align="left">
 
 九二爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
@@ -121,7 +121,7 @@
 - 家宅：改造住宅。
 - 身体：应可痊愈。
 
-<img src="shapes/18.03.png" width="121" align="left">
+<img src="../shapes/18.03.png" width="121" align="left">
 
 九三爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
@@ -138,7 +138,7 @@
 - 家宅：父业难保。
 - 身体：急救内患，以免不治。
 
-<img src="shapes/18.04.png" width="121" align="left">
+<img src="../shapes/18.04.png" width="121" align="left">
 
 六四爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
@@ -155,7 +155,7 @@
 - 家宅：努力兴家，嫁娶高亲。
 - 身体：应觅名医。
 
-<img src="shapes/18.05.png" width="121" align="left">
+<img src="../shapes/18.05.png" width="121" align="left">
 
 六五爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -172,7 +172,7 @@
 - 家宅：住在高处;良缘天成。
 - 身体：大限将至，安其天年。
 
-<img src="shapes/18.06.png" width="121" align="left">
+<img src="../shapes/18.06.png" width="121" align="left">
 
 上九爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 

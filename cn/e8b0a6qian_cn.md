@@ -1,6 +1,6 @@
 # 谦 ䷎
 
-<img src="shapes/15.10.png" width="101" alt="谦" align="left">
+<img src="../shapes/15.10.png" width="101" alt="谦" align="left">
 
 谦（䷎ qiān）卦的代号是`1:0`，主卦是艮卦，卦象是山，阳数是`1`，特性是被动和阻止；客卦是坤卦，卦象是地，阳数是`0`，特性是广大和适应。主卦与客卦的阳数比是`1:0`。谦卦卦体中上卦为坤为地，下卦为艮为山。谦卦，艮下坤上，为地下有山之象。山本高大，但处于地下，高大显示不出来，此在人则象德行很高，但能自觉地不显扬。谦卦展示谦的形势下各种变化的可能性。谦指谦让。谦的人像山一样，从不炫耀自己的秀丽，也从不掩饰自己的秃石和断崖。主方应当灵活地采取主动，利用客方的消极被动，并且坚持强硬态度，着力改善素质。
 
@@ -31,7 +31,7 @@
 > 上六，鳴謙，利用行師，征邑國。
 >《象》曰：鳴謙，志未得也，可用行師，征邑國也。
 
-<img src="shapes/15.11.png">
+<img src="../shapes/15.11.png">
 
 > 谦（䷎ qiān）卦是异卦，下艮上坤，相叠。艮为山，坤为地。地面有山，地卑（低）而山高，是为内高外低，比喻功高不自居，名高不自誉，位高不自傲。这就是谦。
 
@@ -85,7 +85,7 @@
 - 家宅：治家以德，平安和睦。
 - 身体：游泳健身。
 
-<img src="shapes/15.01.png" width="121" align="left">
+<img src="../shapes/15.01.png" width="121" align="left">
 
 初六爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
@@ -102,7 +102,7 @@
 - 家宅：家有恒产，亦有善名。
 - 身体：用心过劳之症。
 
-<img src="shapes/15.02.png" width="121" align="left">
+<img src="../shapes/15.02.png" width="121" align="left">
 
 六二爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
@@ -119,7 +119,7 @@
 - 家宅：持盈保泰，安居乐业。
 - 身体：劳累过度，可能归天。
 
-<img src="shapes/15.03.png" width="121" align="left">
+<img src="../shapes/15.03.png" width="121" align="left">
 
 九三爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -136,7 +136,7 @@
 - 家宅：谦和相处，自无不利。
 - 身体：多多散心，自可痊愈。
 
-<img src="shapes/15.04.png" width="121" align="left">
+<img src="../shapes/15.04.png" width="121" align="left">
 
 六四爻动变得[第62卦：雷山小过](e5b08fe8bf87xiaoguo_cn.md)。
 
@@ -153,7 +153,7 @@
 - 家宅：择邻而处，守望相助；近邻议婚。
 - 身体：消热去火。
 
-<img src="shapes/15.05.png" width="121" align="left">
+<img src="../shapes/15.05.png" width="121" align="left">
 
 六五爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
@@ -170,7 +170,7 @@
 - 家宅：防范邪祟。
 - 身体：调养心志。
 
-<img src="shapes/15.06.png" width="121" align="left">
+<img src="../shapes/15.06.png" width="121" align="left">
 
 上六爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 

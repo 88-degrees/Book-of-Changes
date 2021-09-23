@@ -6,7 +6,7 @@
 
 <a id="p-97"/>
 
-<img src="shapes/19.10.png" width="101" alt="临">
+<img src="../shapes/19.10.png" width="101" alt="临">
 
 **䷒ Lín** (indicates that under the conditions supposed in it) there will be great progress and success,
 while it will be advantageous to be firmly correct. In the eighth month there will be evil.

@@ -1,6 +1,6 @@
 # 损 ䷨
 
-<img src="shapes/41.10.png" width="101" alt="损" align="left">
+<img src="../shapes/41.10.png" width="101" alt="损" align="left">
 
 损（䷨ sǔn）卦的代号是`6:1`。主卦是兑卦，卦象是泽，阳数是`6`；客卦是艮卦，卦象是山，阳数是`1`。主卦和客卦的阳数比是`6`比`1`，主方占绝对优势，主方利用自己的优势给客方造成损失，然而客方态度强硬，主方应当恰当给于客方一些利益以获取更多利益。山泽损，损益制衡。
 
@@ -31,7 +31,7 @@
 > 上九，弗損，益之，无咎，貞吉。利有攸往，得臣无家。
 >《象》曰：弗損益之，大得志也。
 
-<img src="shapes/41.11.png">
+<img src="../shapes/41.11.png">
 
 > 损（䷨ sǔn）卦是异卦，下兑上艮，相叠。艮为山；兑为泽。上山下泽，大泽浸蚀山根。损益相间，损中有益，益中有损。二者之间，不可不慎重对待。损下益上，治理国家，过度会损伤国基。应损则损，但必量力、适度。少损而益最佳。
 
@@ -87,7 +87,7 @@
 - 家宅：早些迁移；即日迎娶。
 - 身体：立即行动。
 
-<img src="shapes/41.01.png" width="121" align="left">
+<img src="../shapes/41.01.png" width="121" align="left">
 
 初九爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
@@ -104,7 +104,7 @@
 - 家宅：守之则吉；门当户对。
 - 身体：平常状态。
 
-<img src="shapes/41.02.png" width="121" align="left">
+<img src="../shapes/41.02.png" width="121" align="left">
 
 九二爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 
@@ -121,7 +121,7 @@
 - 家宅：一家二丁；得偶为吉。
 - 身体：寡欲修身。
 
-<img src="shapes/41.03.png" width="121" align="left">
+<img src="../shapes/41.03.png" width="121" align="left">
 
 六三爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
@@ -138,7 +138,7 @@
 - 家宅：阴气过剩，祈祷可安；婚姻可喜。
 - 身体：立即就医，否则堪虑。
 
-<img src="shapes/41.04.png" width="121" align="left">
+<img src="../shapes/41.04.png" width="121" align="left">
 
 六四爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
@@ -155,7 +155,7 @@
 - 家宅：家业兴隆；天作之合。
 - 身体：病愈得财。
 
-<img src="shapes/41.05.png" width="121" align="left">
+<img src="../shapes/41.05.png" width="121" align="left">
 
 六五爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -172,7 +172,7 @@
 - 家宅：不必改造。
 - 身体：出外求医。
 
-<img src="shapes/41.06.png" width="121" align="left">
+<img src="../shapes/41.06.png" width="121" align="left">
 
 上九爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 

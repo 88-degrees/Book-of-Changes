@@ -1,6 +1,6 @@
 # 坎 ䷜
 
-<img src="shapes/29.10.png" width="101" alt="坎" align="left">
+<img src="../shapes/29.10.png" width="101" alt="坎" align="left">
 
 坎（䷜ kǎn）卦的代号是`2:2`，主卦和客卦都是坎卦，卦象是水，阳数是`2`。“坎”，低陷不平的地方，坑穴。坎卦，坎为水，行险用险，上下卦。两滴水在一起，还是水，双方的危险和困难合在一起，还是危险和困难。主方应当谨慎行事，诚恳地维持与客方联系，做到互利双赢，共同克服困难。
 
@@ -30,7 +30,7 @@
 > 上六，係用徽纏，寘于叢棘，三歲不得，凶。
 >《象》曰：上六失道，凶三歲也。
 
-<img src="shapes/29.11.png">
+<img src="../shapes/29.11.png">
 
 > 坎（䷜ kǎn）卦是同卦，下坎上坎，相叠。坎为水、为险，两坎相重，险上加险，险阻重重。一阳陷二阴。所幸阴虚阳实，诚信可豁然贯通。虽险难重重，却方能显人性光彩。
 
@@ -86,7 +86,7 @@
 - 家宅：不安之屋；婚姻小心。
 - 身体：求医失当，情况危急。
 
-<img src="shapes/29.01.png" width="121" align="left">
+<img src="../shapes/29.01.png" width="121" align="left">
 
 初六爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：防止河岸。
 - 身体：医治有效，但难全好。
 
-<img src="shapes/29.02.png" width="121" align="left">
+<img src="../shapes/29.02.png" width="121" align="left">
 
 九二爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：填满坎陷；求婚不成。
 - 身体：不宜过劳。
 
-<img src="shapes/29.03.png" width="121" align="left">
+<img src="../shapes/29.03.png" width="121" align="left">
 
 六三爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：节俭持家；婚姻吉祥。
 - 身体：最好祷告。
 
-<img src="shapes/29.04.png" width="121" align="left">
+<img src="../shapes/29.04.png" width="121" align="left">
 
 六四爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：景观可喜；门当户对。
 - 身体：平心静气。
 
-<img src="shapes/29.05.png" width="121" align="left">
+<img src="../shapes/29.05.png" width="121" align="left">
 
 九五爻动变得[第7卦：地水师](e5b888shi_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：整修家园；良缘须待三年。
 - 身体：不易动弹，安心静养。
 
-<img src="shapes/29.06.png" width="121" align="left">
+<img src="../shapes/29.06.png" width="121" align="left">
 
 上六爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 

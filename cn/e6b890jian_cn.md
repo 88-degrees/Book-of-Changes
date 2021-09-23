@@ -1,6 +1,6 @@
 # 渐 ䷴
 
-<img src="shapes/53.10.png" width="101" alt="渐" align="left">
+<img src="../shapes/53.10.png" width="101" alt="渐" align="left">
 
 渐（䷴ jiàn）卦的代号是`1:3`。主卦是艮卦，阳数是`1`，卦象是山，特性是被动和阻止；客卦是巽卦，阳数是`3`，卦象是风，特性是顺从。“渐”（jiàn），慢慢地，一点一点地：逐渐。主方像山一样静止不动，阻止游移不定的客方，而客方则顺从形势，逐渐变化状态。卦辞的“渐：女归，吉，利贞”，是说作为循序渐进的《渐》卦，它有如同女子出嫁一样，如能按照女子出嫁程序那样一步一步走，那就很吉祥，也宜于贞正。
 
@@ -30,7 +30,7 @@
 > 上九，鴻漸于陸，其羽可用為儀，吉。
 >《象》曰：其羽可用為儀，吉，不可亂也。
 
-<img src="shapes/53.11.png">
+<img src="../shapes/53.11.png">
 
 > 渐（䷴ jiàn）卦是异卦，下艮上巽，相叠。艮为山，巽为木。山上有木，逐渐成长，山也随着增高。这是逐渐进步的过程，所以称渐，渐即进，渐渐前进而不急速。
 
@@ -86,7 +86,7 @@
 - 家宅：尚无大碍；女长男少。
 - 身体：大人没事，小孩就医。
 
-<img src="shapes/53.01.png" width="121" align="left">
+<img src="../shapes/53.01.png" width="121" align="left">
 
 初六爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：和乐相处；百年偕老。
 - 身体：饮食过度之症。
 
-<img src="shapes/53.02.png" width="121" align="left">
+<img src="../shapes/53.02.png" width="121" align="left">
 
 六二爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：不利生产，须防离散。
 - 身体：生产时恐难两全。
 
-<img src="shapes/53.03.png" width="121" align="left">
+<img src="../shapes/53.03.png" width="121" align="left">
 
 九三爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：可能寡居。
 - 身体：肝火过盛。
 
-<img src="shapes/53.04.png" width="121" align="left">
+<img src="../shapes/53.04.png" width="121" align="left">
 
 六四爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：可以安居；得子稍迟。
 - 身体：三年可愈。
 
-<img src="shapes/53.05.png" width="121" align="left">
+<img src="../shapes/53.05.png" width="121" align="left">
 
 九五爻动变得[第52卦：艮为山](e889aegen_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：辉煌可观；婚姻吉祥。
 - 身体：健康活泼。
 
-<img src="shapes/53.06.png" width="121" align="left">
+<img src="../shapes/53.06.png" width="121" align="left">
 
 上九爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 

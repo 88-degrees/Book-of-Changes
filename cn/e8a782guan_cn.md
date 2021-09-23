@@ -1,6 +1,6 @@
 # 观 ䷓
 
-<img src="shapes/20.10.png" width="101" alt="观" align="left">
+<img src="../shapes/20.10.png" width="101" alt="观" align="left">
 
 观（䷓ guān）卦的代号是`0:3`。主卦是坤卦，卦象是地，阳数是`0`；客卦是巽卦，阳数是`3`，卦象是风。主方是观者，客方是被观者，察言观色，见风使舵，要看到客方的本质而不限于现象，以避免因观察失误而行动错误，以致遭受损失。观卦，风地观，观下瞻上，这个卦是异卦，下坤上巽，相叠。风行地上，喻德教遍施。观卦与临卦互为综卦，交相使用。在上者以道义观天下；在下者以敬仰瞻上，人心顺服归从。
 
@@ -30,7 +30,7 @@
 > 上九，觀其生，君子无咎。
 >《象》曰：觀其生，志未平也。
 
-<img src="shapes/20.11.png">
+<img src="../shapes/20.11.png">
 
 > 观（䷓ guān）卦是异卦，下坤上巽，相叠。风行地上，喻德教遍施。观卦与临卦互为综卦，交相使用。在上者以道义观天下；在下者以敬仰瞻上，人心顺服归从。
 
@@ -86,7 +86,7 @@
 - 家宅：小心童仆；自由结亲。
 - 身体：小孩没事，大人不利。
 
-<img src="shapes/20.01.png" width="121" align="left">
+<img src="../shapes/20.01.png" width="121" align="left">
 
 初六爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：妇女主家。
 - 身体：阴寒之症，可愈。
 
-<img src="shapes/20.02.png" width="121" align="left">
+<img src="../shapes/20.02.png" width="121" align="left">
 
 六二爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：守住旧债。
 - 身体：安心静养，可保平安。
 
-<img src="shapes/20.03.png" width="121" align="left">
+<img src="../shapes/20.03.png" width="121" align="left">
 
 六三爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：喜事临门。
 - 身体：多加小心。
 
-<img src="shapes/20.04.png" width="121" align="left">
+<img src="../shapes/20.04.png" width="121" align="left">
 
 六四爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：我来建宅。
 - 身体：平安无碍。
 
-<img src="shapes/20.05.png" width="121" align="left">
+<img src="../shapes/20.05.png" width="121" align="left">
 
 九五爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：老宅生息。
 - 身体：来日无多。
 
-<img src="shapes/20.06.png" width="121" align="left">
+<img src="../shapes/20.06.png" width="121" align="left">
 
 上九爻动变得[第8卦：水地比](e6af94bi_cn.md)。
 

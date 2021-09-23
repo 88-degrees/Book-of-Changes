@@ -1,6 +1,6 @@
 # 颐 ䷚
 
-<img src="shapes/27.10.png" alt="颐" width="101" align="left">
+<img src="../shapes/27.10.png" alt="颐" width="101" align="left">
 
 颐（䷚ yí）卦的代号为`4:1`。主卦是震卦，卦象是雷，阳数是`4`；客卦是艮卦，卦象是山，阳数是`1`。“颐”指面颊，腮。客方的消极被动给了主方积极发展的机会，客方像山，只要不触及客方利益，主方就可以在广阔原野上尽情发展，不过，主方也不能指望从客方得到什么，主方必须着力于“自求口实”。这个卦是异卦，下震上艮相叠。震为雷，艮为山。山在上而雷在下，外实内虚。
 
@@ -30,7 +30,7 @@
 > 上九，由頤，厲吉，利涉大川。
 >《象》曰：由頤厲吉，大有慶也。
 
-<img src="shapes/27.11.png">
+<img src="../shapes/27.11.png">
 
 > 颐（䷚ yí）卦是异卦，下震上艮，相叠。震为雷，艮为山。山在上而雷在下，外实内虚。春暖万物养育，依时养贤育民。阳实阴虚，实者养人，虚者为人养。自食其力。
 
@@ -86,7 +86,7 @@
 - 家宅：六神无主；婚姻不谐。
 - 身体：饮食致病。
 
-<img src="shapes/27.01.png" width="121" align="left">
+<img src="../shapes/27.01.png" width="121" align="left">
 
 初九爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：未得其正；妇道可议。
 - 身体：头昏眼花，小心调养。
 
-<img src="shapes/27.02.png" width="121" align="left">
+<img src="../shapes/27.02.png" width="121" align="left">
 
 六二爻动变得[第41卦：山泽损](e68d9fsun_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：家宅不安；十年方婚。
 - 身体：痼疾难治。
 
-<img src="shapes/27.03.png" width="121" align="left">
+<img src="../shapes/27.03.png" width="121" align="left">
 
 六三爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
@@ -139,7 +139,7 @@
 - 家宅：尚可称正。
 - 身体：少欲则安。
 
-<img src="shapes/27.04.png" width="121" align="left">
+<img src="../shapes/27.04.png" width="121" align="left">
 
 六四爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -156,7 +156,7 @@
 - 家宅：山居较宜；从一为吉。
 - 身体：安居静养，劳累难治。
 
-<img src="shapes/27.05.png" width="121" align="left">
+<img src="../shapes/27.05.png" width="121" align="left">
 
 六五爻动变得[第42卦：风雷益](e79b8ayi_cn.md)。
 
@@ -173,7 +173,7 @@
 - 家宅：合家平安。
 - 身体：虽危无碍。
 
-<img src="shapes/27.06.png" width="121" align="left">
+<img src="../shapes/27.06.png" width="121" align="left">
 
 上九爻动变得[第24卦：地雷复](e5a48dfu_cn.md)。
 

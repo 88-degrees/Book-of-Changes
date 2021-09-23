@@ -1,6 +1,6 @@
 # 泰 ䷊
 
-<img src="shapes/11.10.png" width="101" alt="泰" align="left">
+<img src="../shapes/11.10.png" width="101" alt="泰" align="left">
 
 泰（䷊ tài）卦的代号是`7:0`，主卦是乾卦，卦象是天，阳数是`7`；客卦是坤卦，卦象是地，阳数是`0`。“泰”是安定的意思。主方应当利用当前全面和谐的好形势，给于客方实惠，从而取得更多利益。内阳而外阴，内健而外顺，内君子而外小人，君子道长，小人道消也。
 
@@ -30,7 +30,7 @@
 > 上六，城復于隍，勿用師。自邑告命，貞吝。
 >《象》曰：城復于隍，其命亂也。
 
-<img src="shapes/11.11.png">
+<img src="../shapes/11.11.png">
 
 > 泰（䷊ tài）卦是异卦，下乾上坤，相叠。乾为天，为阳；坤为地，为阴，阴阳交感，上下互通，天地相交，万物纷纭。反之则凶，万事万物，皆对立，转化，盛极必衰，衰而转盛，故应时而变者泰（通）。
 
@@ -87,7 +87,7 @@
 - 家宅：团圆平安。
 - 身体：相约运动。
 
-<img src="shapes/11.01.png" width="121" align="left">
+<img src="../shapes/11.01.png" width="121" align="left">
 
 初九爻动变得[第46卦：地风升](e58d87sheng_cn.md)。
 
@@ -104,7 +104,7 @@
 - 家宅：勿信仆从。
 - 身体：疾病难治。
 
-<img src="shapes/11.02.png" width="121" align="left">
+<img src="../shapes/11.02.png" width="121" align="left">
 
 九二爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
@@ -121,7 +121,7 @@
 - 家宅：谨守先业。
 - 身体：小孩没事，老人不吉。
 
-<img src="shapes/11.03.png" width="121" align="left">
+<img src="../shapes/11.03.png" width="121" align="left">
 
 九三爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -138,7 +138,7 @@
 - 家宅：亲友相助，暂时无虞。
 - 身体：不必担心。
 
-<img src="shapes/11.04.png" width="121" align="left">
+<img src="../shapes/11.04.png" width="121" align="left">
 
 六四爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 
@@ -155,7 +155,7 @@
 - 家宅：有贤内助；远嫁远娶。
 - 身体：必得神佑。
 
-<img src="shapes/11.05.png" width="121" align="left">
+<img src="../shapes/11.05.png" width="121" align="left">
 
 六五爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -172,7 +172,7 @@
 - 家宅：小心守业。
 - 身体：小心摔跤。
 
-<img src="shapes/11.06.png" width="121" align="left">
+<img src="../shapes/11.06.png" width="121" align="left">
 
 上六爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 

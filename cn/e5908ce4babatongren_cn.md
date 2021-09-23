@@ -1,6 +1,6 @@
 # 同人 ䷌
 
-<img src="shapes/13.10.png" width="101" alt="同人" align="left">
+<img src="../shapes/13.10.png" width="101" alt="同人" align="left">
 
 同人（䷌ tóng rén）卦的代号是`5:7`，主卦是`5`卦，离卦；客卦是`7`卦，乾卦。离卦的卦象是火，特性是光明而依附，阳数是`5`；乾卦的卦象是天，特性是强健，阳数是`7`。同人卦，阐释和同的原则。此卦的主要精神是首先应当破除一家、一族的私见，重视大同，不计较小异，本着大公无私的精神，以道义为基础，于异中求同，积极的广泛与人和同，才能实现大同世界的理想。正义必然使邪恶屈服，但障碍必须果敢的排除。同人的意思是会同他人。主方在积极主动地行动的时候，由于本身素质不佳，不得不会同他人，取得他人支持和帮助。
 
@@ -32,7 +32,7 @@
 > 上九，同人于郊，无悔。
 >《象》曰：同人于郊，志未得也。本文取自易學網。
 
-<img src="shapes/13.11.png">
+<img src="../shapes/13.11.png">
 
 > 同人（䷌ tóng rén）卦是异卦，下离上乾，相叠。乾为天，为君；离为火，为臣民百姓，上天下火，火性上升，同于天，上下和同，同舟共济，人际关系和谐，天下大同。
 
@@ -88,7 +88,7 @@
 - 家宅：家人和睦。
 - 身体：避地调养，可以无碍。
 
-<img src="shapes/13.01.png" width="121" align="left">
+<img src="../shapes/13.01.png" width="121" align="left">
 
 初九爻动变得[第33卦：天山遁](e981afdun_cn.md)。
 
@@ -105,7 +105,7 @@
 - 家宅：长子之力，勤俭起家。
 - 身体：魂归宗庙，未可多言。
 
-<img src="shapes/13.02.png" width="121" align="left">
+<img src="../shapes/13.02.png" width="121" align="left">
 
 六二爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
@@ -122,7 +122,7 @@
 - 家宅：须防盗贼。
 - 身体：不良于行。
 
-<img src="shapes/13.03.png" width="121" align="left">
+<img src="../shapes/13.03.png" width="121" align="left">
 
 九三爻动变得[第25卦：天雷无妄](e697a0e5a684wuwang_cn.md)。
 
@@ -139,7 +139,7 @@
 - 家宅：修缮房屋围墙。
 - 身体：虽有凶险，终究无害。
 
-<img src="shapes/13.04.png" width="121" align="left">
+<img src="../shapes/13.04.png" width="121" align="left">
 
 九四爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 
@@ -156,7 +156,7 @@
 - 家宅：不必惊惶，终于平安。
 - 身体：先危后安。
 
-<img src="shapes/13.05.png" width="121" align="left">
+<img src="../shapes/13.05.png" width="121" align="left">
 
 九五爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
@@ -173,7 +173,7 @@
 - 家宅：平顺无灾。
 - 身体：恐无生机。
 
-<img src="shapes/13.06.png" width="121" align="left">
+<img src="../shapes/13.06.png" width="121" align="left">
 
 上九爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 

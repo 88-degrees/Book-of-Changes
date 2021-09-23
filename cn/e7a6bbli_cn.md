@@ -1,6 +1,6 @@
 # 离 ䷝
 
-<img src="shapes/30.10.png" width="101" alt="离" align="left"/>
+<img src="../shapes/30.10.png" width="101" alt="离" align="left"/>
 
 离（䷝ lí）卦的代号是`5:5`。主卦和客卦都是`5`卦，离卦，卦象是火。这个卦是同卦，下离上离，相叠。离卦，离为火，附和依托。阐释依附的原则：主客双方如同两对燃烧的火，互相照亮，互相竞争，看谁的火焰更光亮，看谁照射的时间更长，主方应当尽量发出光辉。当在险难中，必然就要攀附，找到依托才能安全。应把握中正的原则，不可偷机取巧。应觉悟升沉生死是自然常理，知天乐命，才不会因得不到依附而自寻苦恼。依附不可乘人之危，采取胁迫的手段，以免招祸。依附强者，应柔顺中庸，时刻警觉，才能化险为夷。
 
@@ -30,7 +30,7 @@
 > 上九，王用出征，有嘉，折首，獲匪其醜，无咎。
 >《象》曰：王用出征，以正邦也。
 
-<img src="shapes/30.11.png"/>
+<img src="../shapes/30.11.png"/>
 
 > 离（䷝ lí）卦是同卦，下离上离相叠。离者丽也，附着之意，一阴附丽，上下二阳，该卦象征火，内空外明。离为火、为明，太阳反复升落，运行不息，柔顺为心。
 
@@ -88,7 +88,7 @@
 - 家宅：大道之旁。
 - 身体：走路小心。
 
-<img src="shapes/30.01.png" width="121" align="left"/>
+<img src="../shapes/30.01.png" width="121" align="left"/>
 
 初九爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
@@ -105,7 +105,7 @@
 - 家宅：振起家声；可成佳偶。
 - 身体：郁热之症。
 
-<img src="shapes/30.02.png" width="121" align="left"/>
+<img src="../shapes/30.02.png" width="121" align="left"/>
 
 六二爻动变得[第14卦：火天大有](e5a4a7e69c89dayou_cn.md)。
 
@@ -122,7 +122,7 @@
 - 家宅：老人不安；难望偕老。
 - 身体：早睡早起。
 
-<img src="shapes/30.03.png" width="121" align="left"/>
+<img src="../shapes/30.03.png" width="121" align="left"/>
 
 九三爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -139,7 +139,7 @@
 - 家宅：逆子之罪；婚姻不吉。
 - 身体：命在危局。
 
-<img src="shapes/30.04.png" width="121" align="left"/>
+<img src="../shapes/30.04.png" width="121" align="left"/>
 
 九四爻动变得[第22卦：山火贲](e8b4b2bi_cn.md)。
 
@@ -156,7 +156,7 @@
 - 家宅：婚事主贵；先泣后笑。
 - 身体：又哭又叹，但仍无妨。
 
-<img src="shapes/30.05.png" width="121" align="left"/>
+<img src="../shapes/30.05.png" width="121" align="left"/>
 
 六五爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -173,7 +173,7 @@
 - 家宅：旅行在外。
 - 身体：可能归天。
 
-<img src="shapes/30.06.png" width="121" align="left"/>
+<img src="../shapes/30.06.png" width="121" align="left"/>
 
 上九爻动变得[第55卦：雷火丰](e4b8b0feng_cn.md)。
 

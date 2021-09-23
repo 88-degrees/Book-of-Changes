@@ -1,6 +1,6 @@
 # 遯 ䷠
 
-<img src="shapes/33.10.png" width="101" alt="遯" align="left">
+<img src="../shapes/33.10.png" width="101" alt="遯" align="left">
 
 遯（䷠ dùn）卦的代号是`1:7`。遯卦的主卦是`1`卦，艮卦，卦象是山，特性是静止和阻止，阳数是`1`；客卦是`7`卦，乾卦，卦象是天，特性是有力和运动，阳数是`7`。“遯”，又写作**遁**，逃避，躲闪：遁去。在强大客方的压力下，主方应当逃循，在逃循中与客方灵活周旋，伺机夺取利益。
 
@@ -30,7 +30,7 @@
 > 上九，肥遯，无不利。
 >《象》曰：肥遯，无不利，无所疑也。
 
-<img src="shapes/33.11.png">
+<img src="../shapes/33.11.png">
 
 > 遯（䷠ dùn）卦是异卦，下艮上乾相叠。乾为天，艮为山。天下有山，山高天退。阴长阳消，小人得势，君子退隐，明哲保身，伺机救天下。
 
@@ -86,7 +86,7 @@
 - 家宅：早迁为宜；婚姻不合。
 - 身体：走路小心。
 
-<img src="shapes/33.01.png" width="121" align="left">
+<img src="../shapes/33.01.png" width="121" align="left">
 
 初六爻动变得[第13卦：天火同人](e5908ce4babatongren_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：迁移有利；退婚不易。
 - 身体：运动有恒。
 
-<img src="shapes/33.02.png" width="121" align="left">
+<img src="../shapes/33.02.png" width="121" align="left">
 
 六二爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：急速迁移；娶妻不利。
 - 身体：纵欲伤身。
 
-<img src="shapes/33.03.png" width="121" align="left">
+<img src="../shapes/33.03.png" width="121" align="left">
 
 九三爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：隐居为宜；离婚之忧。
 - 身体：大人可治，小孩危险。
 
-<img src="shapes/33.04.png" width="121" align="left">
+<img src="../shapes/33.04.png" width="121" align="left">
 
 九四爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：高风可尚；志同为婚。
 - 身体：避开阴邪。
 
-<img src="shapes/33.05.png" width="121" align="left">
+<img src="../shapes/33.05.png" width="121" align="left">
 
 九五爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：利于求财；私奔之虞。
 - 身体：过胖虚脱。
 
-<img src="shapes/33.06.png" width="121" align="left">
+<img src="../shapes/33.06.png" width="121" align="left">
 
 上九爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 

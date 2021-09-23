@@ -1,6 +1,6 @@
 # 大有 ䷍
 
-<img src="shapes/14.10.png" width="101" alt="大有" align="left">
+<img src="../shapes/14.10.png" width="101" alt="大有" align="left">
 
 大有（䷍ dà yǒu）卦的代号是`7:5`。主卦是`7`卦，乾卦，卦象是天，特性是强健，阳数是`7`；客卦是`5`卦，离卦，卦象是火，特性是光明而依赖，阳数是`5`。“有”，表示所属：他有一本书。客方素质不佳，依赖主方，主方利用客方的依赖而获益，大有。主方大有，有很多利益，例如，主方是一个强有力的领导者，获得一个聪明人的辅佐，得益很多。客卦可以代表一个聪明人，此卦的卦爻辞的意思，着重于主方“大有”一个聪明人的辅佐。大有卦，火天大有，离上乾下，顺天依时。
 
@@ -32,7 +32,7 @@
 >《象》曰：大有上吉，自天祐也。
 >《繫辭》：易曰「自天祐之，吉，无不利」。子曰：「祐者，助也。天之所助者順也，人之所助者信也。履信思乎順，又以尚賢也。是以自天祐之，吉，无不利也。」
 
-<img src="shapes/14.11.png">
+<img src="../shapes/14.11.png">
 
 > 大有（䷍ dà yǒu）卦是异卦，下乾上离，相叠。上卦为离，为火；下卦为乾，为天。火在天上，普照万物，万民归顺，顺天依时，大有所成。
 
@@ -88,7 +88,7 @@
 - 家宅：新富可喜，值得珍惜。
 - 身体：健康无虞，讼事宜解。
 
-<img src="shapes/14.01.png" width="121" align="left">
+<img src="../shapes/14.01.png" width="121" align="left">
 
 初九爻动变得[第50卦：火风鼎](e9bc8eding_cn.md)。
 
@@ -105,7 +105,7 @@
 - 家宅：可以乔迁。
 - 身体：出外就医，讼事得胜。
 
-<img src="shapes/14.02.png" width="121" align="left">
+<img src="../shapes/14.02.png" width="121" align="left">
 
 九二爻动变得[第30卦：离为火](e7a6bbli_cn.md)。
 
@@ -122,7 +122,7 @@
 - 家宅：喜庆宴会，须防仆婢。
 - 身体：饮食小心，不可争讼。
 
-<img src="shapes/14.03.png" width="121" align="left">
+<img src="../shapes/14.03.png" width="121" align="left">
 
 九三爻动变得[第38卦：火泽睽](e79dbdkui_cn.md)。
 
@@ -139,7 +139,7 @@
 - 家宅：荣美可观，满则招损。
 - 身体：膨胀之症。
 
-<img src="shapes/14.04.png" width="121" align="left">
+<img src="../shapes/14.04.png" width="121" align="left">
 
 九四爻动变得[第26卦：山天大畜](e5a4a7e89384daxu_cn.md)。
 
@@ -156,7 +156,7 @@
 - 家宅：一家和睦，须防盗贼。
 - 身体：保持门面。
 
-<img src="shapes/14.05.png" width="121" align="left">
+<img src="../shapes/14.05.png" width="121" align="left">
 
 六五爻动变得[第1卦：乾为天](e4b9beqian_cn.md)。
 
@@ -173,7 +173,7 @@
 - 家宅：福庆满门。
 - 身体：得神庇佑，或即归天。
 
-<img src="shapes/14.06.png" width="121" align="left">
+<img src="../shapes/14.06.png" width="121" align="left">
 
 上九爻动变得[第34卦：雷天大壮](e5a4a7e5a3aedazhuang_cn.md)。
 

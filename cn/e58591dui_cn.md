@@ -1,6 +1,6 @@
 # 兑 ䷹
 
-<img src="shapes/58.10.png" width="101" alt="兑" align="left">
+<img src="../shapes/58.10.png" width="101" alt="兑" align="left">
 
 兑（䷹ duì）卦的代号是`6:6`。主卦和客卦都是`6`卦，兑卦，卦象是泽，特性是愉快，阳数都是`6`。主方和客方都积极主动，素质良好，态度随和，都取得了成功，享受成功的喜悦。双方在相互关系中，相互交换，互利双赢。兑为泽（泽卦）刚内柔外。这个卦是同卦，下泽上泽，相叠。泽为水。两泽相连，两水交流，上下相和，团结一致，朋友相助，欢欣喜悦。兑为悦也。同秉刚健之德，外抱柔和之姿，坚行正道，引导人民向上。
 
@@ -30,7 +30,7 @@
 > 上六，引兌。
 >《象》曰：上六引兌，未光也。
 
-<img src="shapes/58.11.png">
+<img src="../shapes/58.11.png">
 
 > 兑（䷹ duì）卦是同卦，下兑上兑，相叠。泽为水。两泽相连，两水交流，上下相和，团结一致，朋友相助，欢欣喜悦。兑为悦也。同秉刚健之德，外抱柔和之姿，坚行正道，导民向上。
 
@@ -86,7 +86,7 @@
 - 家宅：和乐融融；室家得宜。
 - 身体：宽心无忧。
 
-<img src="shapes/58.01.png" width="121" align="left">
+<img src="../shapes/58.01.png" width="121" align="left">
 
 初九爻动变得周易[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：与邻共富；阴阳相合。
 - 身体：疑病得解。
 
-<img src="shapes/58.02.png" width="121" align="left">
+<img src="../shapes/58.02.png" width="121" align="left">
 
 九二爻动变得[第17卦：泽雷随](e99a8fsui_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：去伪存诚；先合后离。
 - 身体：小心外祸。
 
-<img src="shapes/58.03.png" width="121" align="left">
+<img src="../shapes/58.03.png" width="121" align="left">
 
 六三爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：多疾不安；再三说媒而成。
 - 身体：心神不安，喜事舒怀。
 
-<img src="shapes/58.04.png" width="121" align="left">
+<img src="../shapes/58.04.png" width="121" align="left">
 
 九四爻动变得[第60卦：水泽节](e88a82jie_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：诚信为上。
 - 身体：皮肤有疾，速治可愈。
 
-<img src="shapes/58.05.png" width="121" align="left">
+<img src="../shapes/58.05.png" width="121" align="left">
 
 九五爻动变得[第54卦：雷泽归妹](e5bd92e5a6b9guimei_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：内忧外患；似非正聘。
 - 身体：化解内邪，才可保全。
 
-<img src="shapes/58.06.png" width="121" align="left">
+<img src="../shapes/58.06.png" width="121" align="left">
 
  上六爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 

@@ -6,7 +6,7 @@
 
 <a id="p-169"/>
 
-<img src="shapes/50.10.png" width="101" alt="鼎">
+<img src="../shapes/50.10.png" width="101" alt="鼎">
 
 **䷱ Dǐng** gives the intimation of great progress and success.
 

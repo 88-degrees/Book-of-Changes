@@ -1,6 +1,6 @@
 # 复 ䷗
 
-<img src="shapes/24.10.png" width="101" alt="复" align="left">
+<img src="../shapes/24.10.png" width="101" alt="复" align="left">
 
 复（䷗ fù）卦的代号是`4:0`，主卦是震卦，卦象是雷，阳数是`4`；客卦是坤卦，卦象是地，阳数是`0`。“复”，反复。主方面临发展好机会，应当坚韧不拔反复探索，摸索经验，寻求正确方向。复卦，地雷复，寓动于顺。这个卦是异卦，下震上坤，相叠。震为雷、为动；坤为地、为顺，动则顺，顺其自然。复卦，阐释恢复的原则。恢复的原则，必须根绝过去的错误，重新回复到善道。恢复的法则，应当从小的过失开始，过失尚未严重之前，及时反省改善，否则积重难返。
 
@@ -31,7 +31,7 @@
 > 上六，迷復，凶，有災眚，用行師，終有大敗，以其國君，凶，至于十年不克征。
 >《象》曰：迷復之凶，反君道也。
 
-<img src="shapes/24.11.png">
+<img src="../shapes/24.11.png">
 
 > 复（䷗ fù）卦是异卦，下震上坤，相叠。震为雷、为动；坤为地、为顺，动则顺，顺其自然。动在顺中，内阳外阴，循序运动，进退自如，利于前进。
 
@@ -90,7 +90,7 @@
 - 家宅：旧业复兴；婚嫁又成。
 - 身体：静养可复。
 
-<img src="shapes/24.01.png" width="121" align="left">
+<img src="../shapes/24.01.png" width="121" align="left">
 
 初九爻动变得[第2卦：坤为地](e59da4kun_cn.md)。
 
@@ -105,7 +105,7 @@
 - 家宅：和睦兴家。
 - 身体：再请旧医。
 
-<img src="shapes/24.02.png" width="121" align="left">
+<img src="../shapes/24.02.png" width="121" align="left">
 
 六二爻动变得[第19卦：地泽临](e4b8b4lin_cn.md)。
 
@@ -122,7 +122,7 @@
 - 家宅：迁移不定。
 - 身体：身体屡治屡发，虽危无害。
 
-<img src="shapes/24.03.png" width="121" align="left">
+<img src="../shapes/24.03.png" width="121" align="left">
 
 六三爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
@@ -139,7 +139,7 @@
 - 家宅：女多男少；宜从前媒。
 - 身体：宜从初治之医。
 
-<img src="shapes/24.04.png" width="121" align="left">
+<img src="../shapes/24.04.png" width="121" align="left">
 
 六四爻动变得[第51卦：震为雷](e99c87zhen_cn.md)。
 
@@ -156,7 +156,7 @@
 - 家宅：光大祖业。
 - 身体：精气皆老，不必过滤。
 
-<img src="shapes/24.05.png" width="121" align="left">
+<img src="../shapes/24.05.png" width="121" align="left">
 
 六五爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -173,7 +173,7 @@
 - 家宅：居者不利。
 - 身体：难以保全。
 
-<img src="shapes/24.06.png" width="121" align="left">
+<img src="../shapes/24.06.png" width="121" align="left">
 
 上六爻动变得[第27卦：山雷颐](e9a290yi_cn.md)。
 

@@ -1,6 +1,6 @@
 # 既济 ䷾
 
-<img src="shapes/63.10.png" width="101" alt="既济" align="left">
+<img src="../shapes/63.10.png" width="101" alt="既济" align="left">
 
 既济（䷾ jì jì）卦的代号是`5:2`。主卦是`5`卦，离卦，卦象是火，客卦是`2`卦，坎卦，卦象是水，这个卦是异卦，下离上坎相叠。水火既济盛极将衰。坎为水，离为火，水火相交，水在火上，水势压倒火势，救火大功告成。既，已经；济，成也。既济就是事情已经成功，但终将发生变故。 既济：亨小，利贞；初吉终乱。《既济》卦象征成功：此时功德完满，连柔小者都亨通顺利，有利于坚守正道；开始时是吉祥的，但如有不慎，终久必导致混乱。
 
@@ -30,7 +30,7 @@
 > 上六，濡其首，厲。
 >《象》曰：濡其首厲，何可久也。
 
-<img src="shapes/63.11.png">
+<img src="../shapes/63.11.png">
 
 > 既济（䷾ jì jì）卦是异卦，下离上坎，相叠。坎为水，离为火，水火相交，水在火上，水势压倒火势，救火大功告成。既，已经；济，成也。既济就是事情已经成功，但终将发生变故。
 
@@ -86,7 +86,7 @@
 - 家宅：可以安居；初聘为吉。
 - 身体：初病可治。
 
-<img src="shapes/63.01.png" width="121" align="left">
+<img src="../shapes/63.01.png" width="121" align="left">
  
 初九爻动变得[第39卦：水山蹇](e8b987jian_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：七年可还；将可团聚。
 - 身体：七日可愈。
 
-<img src="shapes/63.02.png" width="121" align="left">
+<img src="../shapes/63.02.png" width="121" align="left">
  
 六二爻动变得[第5卦：水天需](e99c80xu_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：三年后居；三年可婚。
 - 身体：一时无恙，只保三年。
 
-<img src="shapes/63.03.png" width="121" align="left">
+<img src="../shapes/63.03.png" width="121" align="left">
  
 九三爻动变得[第3卦：水雷屯](e5b1afzhun_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：修正屋宇；珍惜情谊。
 - 身体：年老体弱。
 
-<img src="shapes/63.04.png" width="121" align="left">
+<img src="../shapes/63.04.png" width="121" align="left">
 
 六四爻动变得[第49卦：泽火革](e99da9ge_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：向西吉宅；两邻订亲。
 - 身体：最好祷告。
 
-<img src="shapes/63.05.png" width="121" align="left">
+<img src="../shapes/63.05.png" width="121" align="left">
 
 九五爻动变得[第36卦：地火明夷](e6988ee5a4b7mingyi_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：不利长房；元配有灾。
 - 身体：头部有疾，危险可知。
 
-<img src="shapes/63.06.png" width="121" align="left">
+<img src="../shapes/63.06.png" width="121" align="left">
 
 上六爻动变得[第37卦：风火家人](e5aeb6e4babajiaren_cn.md)。
 

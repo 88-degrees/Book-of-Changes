@@ -1,6 +1,6 @@
 # 巽 ䷸
 
-<img src="shapes/57.10.png" width="101" alt="巽" align="left">
+<img src="../shapes/57.10.png" width="101" alt="巽" align="left">
 
 巽（䷸ xùn）卦的代号是`3:3`。主卦和客卦都是`3`卦，巽卦，卦象是风，特性是顺从。“巽”古同“逊”，谦让恭顺。巽卦，巽为风，谦逊受益。主方和客方都顺从，谁顺从谁呢？主方该如何行动呢？主方应当保护好自己的利益，对客方谦让恭顺，能进则进，能退则退。
 
@@ -30,7 +30,7 @@
 > 上九，巽在床下，喪其資斧，貞凶。
 >《象》曰：巽在床下，上窮也；喪其資斧，正乎凶也。
 
-<img src="shapes/57.11.png">
+<img src="../shapes/57.11.png">
 
 > 巽（䷸ xùn）卦是同卦，下巽上巽，相叠。巽为风，两风相重，长风不绝，无孔不入，巽亦为顺、谦逊的态度和行为，可无往不利。
 
@@ -87,7 +87,7 @@
 - 家宅：朝西有利；联姻军人。
 - 身体：积极强身。
 
- <img src="shapes/57.01.png" width="121" align="left">
+ <img src="../shapes/57.01.png" width="121" align="left">
 
 初六爻动变得[第9卦：风天小畜](e5b08fe7959cxiaoxu_cn.md)。
 
@@ -104,7 +104,7 @@
 家宅：虔诚祷告；卜之则吉。
 身体：祭拜免咎。
 
- <img src="shapes/57.02.png" width="121" align="left">
+ <img src="../shapes/57.02.png" width="121" align="left">
 
 九二爻动变得[第53卦：风山渐](e6b890jian_cn.md)。
 
@@ -121,7 +121,7 @@
 - 家宅：贫穷之家；门户低微。
 - 身体：太过疲弱。
 
- <img src="shapes/57.03.png" width="121" align="left">
+ <img src="../shapes/57.03.png" width="121" align="left">
 
 九三爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -138,7 +138,7 @@
 - 家宅：装潢美观；婚礼华丽。
 - 身体：可以痊愈。
 
- <img src="shapes/57.04.png" width="121" align="left">
+ <img src="../shapes/57.04.png" width="121" align="left">
 
 六四爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -155,7 +155,7 @@
 - 家宅：坐北朝南；相配得宜。
 - 身体：三日可愈。
 
- <img src="shapes/57.05.png" width="121" align="left">
+ <img src="../shapes/57.05.png" width="121" align="left">
 
 九五爻动变得[第18卦：山风蛊](e89b8agu_cn.md)。
 
@@ -172,7 +172,7 @@
 - 家宅：有丧；惧内。
 - 身体：或许告终。
 
- <img src="shapes/57.06.png" width="121" align="left">
+ <img src="../shapes/57.06.png" width="121" align="left">
 
 上九爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 

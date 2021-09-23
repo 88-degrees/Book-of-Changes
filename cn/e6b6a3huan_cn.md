@@ -1,6 +1,6 @@
 # 涣 ䷺
 
-<img src="shapes/59.10.png" width="101" alt="涣" align="left">
+<img src="../shapes/59.10.png" width="101" alt="涣" align="left">
 
 涣（䷺ huàn）卦的代号是`2:3`。主卦是`2`卦，坎卦，卦象是水，特性是危险和困难；客卦是`3`卦，巽卦，卦象是风，特性是顺从。“涣”：散开，涣散。水流到那里都没有阻挡，客方顺从主方，让水到处流，从而，水到处泛滥。风水涣，拯救涣散。这个卦是异卦，下坎上巽，相叠。风在水上行，推波助澜，四方流溢。涣，水流流散之意。象征组织和人心涣散，必用积极的手段和方法克服，战胜弊端，挽救涣散，转危为安。
 
@@ -30,7 +30,7 @@
 > 上九，渙其血，去逖出，无咎。
 >《象》曰：渙其血，遠害也。
 
-<img src="shapes/59.11.png">
+<img src="../shapes/59.11.png">
 
 > 涣（䷺ huàn）卦是异卦，下坎上巽，相叠。风在水上行，推波助澜，四方流溢。涣，水流流散之意。象征组织和人心涣散，必须用积极的手段和方法克服，战胜弊端，挽救涣散，转危为安。
 
@@ -86,7 +86,7 @@
 - 家宅：新厦可居。
 - 身体：急治为宜。
 
-<img src="shapes/59.01.png" width="121" align="left">
+<img src="../shapes/59.01.png" width="121" align="left">
 
 初六爻动变得[第61卦：风泽中孚](e4b8ade5ad9azhongfu_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：先散后聚；女长于男。
 - 身体：愁眉不展，良医可治。
 
-<img src="shapes/59.02.png" width="121" align="left"> 
+<img src="../shapes/59.02.png" width="121" align="left"> 
 
 九二爻动变得[第20卦：风地观](e8a782guan_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：出外免祸；守节之志。
 - 身体：转危为安。
 
-<img src="shapes/59.03.png" width="121" align="left">
+<img src="../shapes/59.03.png" width="121" align="left">
 
 六三爻动变得[第57卦：巽为风](e5b7bdxun_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：自有可观。
 - 身体：凝聚元气，病体自愈。
 
-<img src="shapes/59.04.png" width="121" align="left">
+<img src="../shapes/59.04.png" width="121" align="left">
 
 六四爻动变得[第6卦：天水讼](e8aebcsong_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：富贵之家；必得贵婿。
 - 身体：大汗可愈。
 
-<img src="shapes/59.05.png" width="121" align="left">
+<img src="../shapes/59.05.png" width="121" align="left">
 
 九五爻动变得[第4卦：山水蒙](e89299meng_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：避免冲突；远嫁之象。
 - 身体：气血郁积，疏通即治。
 
-<img src="shapes/59.06.png" width="121" align="left">
+<img src="../shapes/59.06.png" width="121" align="left">
 
 上九爻动变得[第29卦：坎为水](e59d8ekan_cn.md)。
 

@@ -1,6 +1,6 @@
 # 讼 ䷅
 
-<img src="shapes/06.10.png" width="101" alt="讼" align="left">
+<img src="../shapes/06.10.png" width="101" alt="讼" align="left">
 
 讼（䷅ sòng）卦的代号是`2:7`。主卦是`2`卦，坎卦，卦象是水，阳数是`2`，特性是危险和困难；客卦是`7`卦，乾卦，卦象是天，阳数是`7`，特性是强健。“讼”，上卦为乾，下卦为坎。在法庭上争辨是非曲直，打官司：讼事。处境困难的主方在威力强大的客方面前，受到客方的强力限制和压迫，不得已时只好求之于诉讼，寻求法律保护。讼卦，天水讼，慎争戒讼。这个卦是异卦，下坎上乾，相叠。讼卦䷅和需卦䷄卦爻排布相反，互为“综卦”。乾为刚健，坎为险陷。刚与险，健与险，彼此反对，定生争讼。争讼非善事，务必慎重戒惧。
 
@@ -30,7 +30,7 @@
 > 上九，或錫之鞶帶，終朝三褫之。
 >《象》曰：以訟受服，亦不足敬也。
 
-<img src="shapes/06.11.png">
+<img src="../shapes/06.11.png">
 
 > 讼（䷅ sòng）卦是异卦，下坎上乾，相叠。 讼卦䷅同䷄需卦相反，互为“综卦”。乾为刚健，坎为险陷。刚与险，健与险，彼此反对，定生争讼。争讼非善事，务必慎重戒惧。
 
@@ -86,7 +86,7 @@
 - 家宅：有些争议，分辨明白即可。
 - 身体：初病可愈，久病则凶。
 
-<img src="shapes/06.01.png" width="121" align="left">
+<img src="../shapes/06.01.png" width="121" align="left">
 
 初六爻动变得[第10卦：天泽履](e5b1a5lv_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：不宜婚嫁。
 - 身体：在外染病，回家调养。
 
-<img src="shapes/06.02.png" width="121" align="left">
+<img src="../shapes/06.02.png" width="121" align="left">
 
 九二爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：不宜另建新居。
 - 身体：按原医师指示为宜。
 
-<img src="shapes/06.03.png" width="121" align="left">
+<img src="../shapes/06.03.png" width="121" align="left">
 
 六三爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：改婚不失其道。
 - 身体：有凶险，改变生活方式则吉。
 
-<img src="shapes/06.04.png" width="121" align="left">
+<img src="../shapes/06.04.png" width="121" align="left">
 
 九四爻动变得[第59卦：风水涣](e6b6a3huan_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：与富贵人结婚。
 - 身体：吐纳之术保健康。
 
-<img src="shapes/06.05.png" width="121" align="left">
+<img src="../shapes/06.05.png" width="121" align="left">
 
 九五爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.mdop)。
 
@@ -171,7 +171,7 @@
 - 家宅：不易安居。
 - 身体：病势时好时坏，恐凶。
 
-<img src="shapes/06.06.png" width="121" align="left">
+<img src="../shapes/06.06.png" width="121" align="left">
 
 上九爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 

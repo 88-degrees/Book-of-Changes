@@ -1,6 +1,6 @@
 # 晋 ䷢
 
-<img src="shapes/35.10.png" width="101" alt="晋" align="left">
+<img src="../shapes/35.10.png" width="101" alt="晋" align="left">
 
 晋（䷢ jìn）卦的代号是`0:5`。坤卦是主卦，阳数是`0`；离卦是客卦，阳数是`5`。主卦的卦象是大地，客卦的卦象是火焰、太阳。大地是被动的，主方是被动的，晋是被动的，不是自己要晋升就晋升，而是必须由客方来晋升。晋是好事，但又不一定是好事。晋卦的主旨，在于论述如何上晋的为官之道。卦辞以康侯受赐为喻，说明上晋之臣为君王所赏识，六爻爻辞分别讲述了上晋的几种情况，其三爻讲述的众允；悔亡，说明求晋之人既注重求得君王赏识，也注重获得民众的拥护，只有获得民众的拥护，才不会有遭到民众反对的悔恨。
 
@@ -30,7 +30,7 @@
 > 上九，晉其角，維用伐邑，厲吉无咎，貞吝。
 >《象》曰：維用伐邑，道未光也。
 
-<img src="shapes/35.11.png">
+<img src="../shapes/35.11.png">
 
 > 晋（䷢ jìn）卦是异卦，下坤上离，相叠。离为日，为光明；坤为地。太阳高悬，普照大地，大地卑顺，万物生长，光明磊落，柔进上行，喻事业蒸蒸日上。
 
@@ -86,7 +86,7 @@
 - 家宅：吉屋可居；婚姻缓成。
 - 身体：宽心解怀。
 
-<img src="shapes/35.01.png" width="121" align="left">
+<img src="../shapes/35.01.png" width="121" align="left">
 
 初六爻动变得[第21卦：火雷噬嗑](e599ace59791shike_cn.md)。
 
@@ -103,7 +103,7 @@
 - 家宅：迁居与老人同住；婚姻稍待。
 - 身体：多听老人言。
 
-<img src="shapes/35.02.png" width="121" align="left">
+<img src="../shapes/35.02.png" width="121" align="left">
 
 六二爻动变得[第64卦：火水未济](e69caae6b58eweiji_cn.md)。
 
@@ -120,7 +120,7 @@
 - 家宅：气氛和谐；两性融洽。
 - 身体：团体运动；讼事调解。
 
-<img src="shapes/35.03.png" width="121" align="left">
+<img src="../shapes/35.03.png" width="121" align="left">
 
 六三爻动变得[第56卦：火山旅](e69785lv_cn.md)。
 
@@ -137,7 +137,7 @@
 - 家宅：耗失过多；婚姻不正。
 - 身体：疥疮或呕血，皆危。
 
-<img src="shapes/35.04.png" width="121" align="left">
+<img src="../shapes/35.04.png" width="121" align="left">
 
 九四爻动变得[第23卦：山地剥](e589a5bo_cn.md)。
 
@@ -154,7 +154,7 @@
 - 家宅：屋运转好；婚姻吉祥。
 - 身体：已无大碍。
 
-<img src="shapes/35.05.png" width="121" align="left">
+<img src="../shapes/35.05.png" width="121" align="left">
 
 六五爻动变得[第12卦：天地否](e590a6pi_cn.md)。
 
@@ -171,7 +171,7 @@
 - 家宅：邻里不安；始争终和。
 - 身体：保养头部；罢讼为吉。
 
-<img src="shapes/35.06.png" width="121" align="left">
+<img src="../shapes/35.06.png" width="121" align="left">
 
 上九爻动变得[第16卦：雷地豫](e8b1abyu_cn.md)。
 

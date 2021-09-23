@@ -6,7 +6,7 @@
 
 <a id="p-146"/>
 
-<img src="shapes/41.10.png" width="101" alt="损">
+<img src="../shapes/41.10.png" width="101" alt="损">
 
 In (what is denoted by) **䷨ Sǔn**, if there be sincerity (in him who employs it), there will be great good fortune: -- freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made. In what shall this (sincerity in the exercise of **䷨ Sǔn**) be employed? (Even) in sacrifice two baskets of grain, (though there be nothing else), may be presented.
 

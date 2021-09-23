@@ -1,6 +1,6 @@
 # 大过 ䷛
 
-<img src="shapes/28.10.png" width="101" alt="大过" align="left">
+<img src="../shapes/28.10.png" width="101" alt="大过" align="left">
 
 大过（䷛ dà guò）卦的代号是`3:6`。主卦是巽卦，卦象是风、木，特征是顺，阳数是`3`；客卦是兑卦，卦象是泽，特征是悦，阳数是`6`。上泽下木，水漫过树，洪水之象，水多方酿成洪水。“过”是过分的意思。“大过”，太过分。卦形上本卦中间为四阳，上下为二阴，象征阳气过剩而失调。当前形势对于主方来说是一个太过分的负担，主方不容易对付，但也不是灾难，只是主方需要谨慎处理。泽风大过，非常行动。这个卦是异卦，下巽上兑，相叠。阴阳爻相反，阳大阴小，行动非常，有过度形象，内刚外柔。
 
@@ -32,7 +32,7 @@
 > 上六，過涉滅頂，凶，无咎。
 >《象》曰：過涉之凶，不可咎也。
 
-<img src="shapes/28.11.png">
+<img src="../shapes/28.11.png">
 
 > 大过（䷛ dà guò）卦是异卦，下巽上兑，相叠。兑为泽、为悦，巽为木、为顺，泽水淹舟，遂成大错。阴阳爻相反，阳大阴小，行动非常，有过度形象，内刚外柔。
 
@@ -88,7 +88,7 @@
 - 家宅：环境荒芜。
 - 身体：病体柔弱，温燥之药。
 
-<img src="shapes/28.01.png" width="121" align="left">
+<img src="../shapes/28.01.png" width="121" align="left">
 
 初六爻动变得[第43卦：泽天夬](e5a4acguai_cn.md)。
 
@@ -105,7 +105,7 @@
 - 家宅：枯树开花；老夫少妻，得以生育。
 - 身体：虽危得安。
 
-<img src="shapes/28.02.png" width="121" align="left">
+<img src="../shapes/28.02.png" width="121" align="left">
 
 九二爻动变得[第31卦：泽山咸](e592b8xian_cn.md)。
 
@@ -122,7 +122,7 @@
 - 家宅：栋折难居；婚姻不利。
 - 身体：恐有不测。
 
-<img src="shapes/28.03.png" width="121" align="left">
+<img src="../shapes/28.03.png" width="121" align="left">
 
 九三爻动变得[第47卦：泽水困](e59bb0kun_cn.md)。
 
@@ -139,7 +139,7 @@
 - 家宅：门户宏伟。
 - 身体：胸胀无碍。
 
-<img src="shapes/28.04.png" width="121" align="left">
+<img src="../shapes/28.04.png" width="121" align="left">
 
 九四爻动变得[第48卦：水风井](e4ba95jing_cn.md)。
 
@@ -157,7 +157,7 @@
 - 家宅：闺房不正；女大男小。
 - 身体：不好不坏。
 
-<img src="shapes/28.05.png" width="121" align="left">
+<img src="../shapes/28.05.png" width="121" align="left">
 
 九五爻动变得[第32卦：雷风恒](e68192heng_cn.md)。
 
@@ -174,7 +174,7 @@
 - 家宅：小心水灾。
 - 身体：颜面浮肿，可能难治。
 
-<img src="shapes/28.06.png" width="121" align="left">
+<img src="../shapes/28.06.png" width="121" align="left">
 
 上六爻动变得[第44卦：天风姤](e5a7a4gou_cn.md)。
 
