@@ -12,7 +12,7 @@ An [Yì Jīng](https://ctext.org/book-of-changes) (Chinese: 易经) (or `I Ching
 
 There are actually four possible values for each of the lines; the two on/off values, and a line which changes from on to off or vice versa. Thus one cast of the I Ching can generate two different hexagrams, which adds depth to the interpretation. The sophistication of this method has not escaped modern interpretation, and the four-valued logic has been compared to the biochemistry of [DNA amino acid](https://www.genome.gov/genetics-glossary/Genetic-Code).
 
-### [Donate by Nano](https://nano.to/nano_1epekqnnr185e6dparfchfy7zbthfddu7isatwqo9yoaejs6qztiza3rs8kr?title=Donate&success_url=https://88o.io/success?id={{id}}&cancel_url=https://88o.io/)
+### [Donate with Nano](https://nano.to/nano_1epekqnnr185e6dparfchfy7zbthfddu7isatwqo9yoaejs6qztiza3rs8kr?title=Donate&success_url=https://88o.io/success?id={{id}}&cancel_url=https://88o.io/)
 
 ![Yì Global](global.gif)
 
