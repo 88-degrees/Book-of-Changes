@@ -54,7 +54,7 @@
 
 Line 1 is strong, and in an odd place. A successful course might be auspiced for its subject; but the correlate in line 4 is also strong; and therefore disappointment and repentance are likely to ensue. In the condition, however, indicated by **䷥ Kuí**, where people have a common virtue, they will help one another. Through the good services of 4, the other will not have to repent. His condition may be emblemed by a traveller's loss of his horses, which return to him of themselves.
 
-Should he meet with bad men, however, let him not shrink from them. Communication with them will be of benefit. His good p. 141 may overcome their evil, and at least it will help to silence their slanderous tongues.
+Should he meet with bad men, however, let him not shrink from them. Communication with them will be of benefit. [His good may overcome their evil](e8b987jian.md#p-141), and at least it will help to silence their slanderous tongues.
 
 Line 5 is weak, and its subject is the proper correlate of the strong 2. They might meet openly; but for the separation and disunion that mark the time. A casual, as it were a stolen, interview, as in a bye-lane or passage, however will be useful, and may lead on to a better understanding.
 
