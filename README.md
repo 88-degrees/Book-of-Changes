@@ -82,6 +82,6 @@ For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
 | * | 巽 | 兑 | 涣 | 节 | 中孚 | 小过 | 既济 | 未济 | * |
 | * | * | * | * | * | * | * | * | * | * |
 
-- [中文版](README_CN.md)
+### [Jīng Shì Yì Zhuàn](jing/README_en.md)
 
-- [Jīng Shì Yì Zhuàn](../jing/README_en.md)
+- [中文版](README_CN.md)
