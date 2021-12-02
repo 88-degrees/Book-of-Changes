@@ -105,7 +105,7 @@ On paragraph 2 it is said that heaven is round; and as the circumference of a ci
 The concluding statement about Chapter I, the other numbers' is understood of the [manipulation of the divining stalks](https://en.wikipedia.org/wiki/I_Ching_divination), as in [Appendix III, i, 51](appendix03s1.md#p-365). That manipulation, thrice repeated, might leave three stalks each time, and `3 x 3 = 9`; or `2`, being in the same way in `all = 6`; or `twice 3` and `once 2 = 8`; or `twice 2` and `once 3 = 7`. These are the numbers of the 4 binary symbols, employed in forming the new figures; <font size="5">⚌</font>, the `old yáng`, `= 9`; <font size="5">⚍</font>, the `young yīn`, `= 8`; <font size="5">⚎</font>, the `young yáng`, `= 7`; and <font size="5">⚏</font>, the `old yīn`, `= 6`.
 
 | Number | Yarrow stalks probability | Three coins probability | Yīn / Yáng   | Signification | Line |
-|---|--------------------|-------------------|------------|----------------------|----------|
+|---|-----|-----|-----|-----|----------|
 | 9 | 3/16                    | 2/16                   | old yáng       | yáng changing to yīn  | ---o--- |
 | 8 | 7/16   (yīn 8/16)  | 6/16   (yīn 8/16)  | young yīn     | yīn unchanging         | --- --- |
 | 7 | 5/16  (yáng 8/16) | 6/16  (yáng 8/16) | young yáng | yáng unchanging      | ------- |
