@@ -104,14 +104,12 @@ On paragraph 2 it is said that heaven is round; and as the circumference of a ci
 
 The concluding statement about Chapter I the other numbers' is understood of the [manipulation of the divining stalks](https://en.wikipedia.org/wiki/I_Ching_divination), as in [Appendix III, i, 51](appendix03s1.md#p-365). That manipulation, thrice repeated, might leave three stalks each time, and `3 x 3 = 9`; or `2`, being in the same way in `all = 6`; or `twice 3` and `once 2 = 8`; or `twice 2` and `once 3 = 7`. These are the numbers of the 4 binary symbols, employed in forming the new figures; <font size="5">⚌</font>, the `old yáng`, `= 9`; <font size="5">⚍</font>, the `young yīn`, `= 8`; <font size="5">⚎</font>, the `young yáng`, `= 7`; and <font size="5">⚏</font>, the `old yīn`, `= 6`.
 
-|-------+--------------------+-------------------+------------+----------------------+----------|
-| Value | Yarrow stalks p(S) | Three coins p(S) | Yin/Yang   | Signification        | Line     |
-|-------+--------------------+-------------------+------------+----------------------+----------|
-|     6 | 1/16               | 2/16              | old yin    | yin changing to yang | ---x---  |
-|     7 | 5/16  (yang 8/16)  | 6/16  (yang 8/16) | young yang | yang unchanging      | -------- |
-|     8 | 7/16   (yin 8/16)  | 6/16   (yin 8/16) | young yin  | yin unchanging       | --- ---  |
-|     9 | 3/16               | 2/16              | old yang   | yang changing to yin | ---o---  |
-|-------+--------------------+-------------------+------------+----------------------+----------|
+| Number | Yarrow stalks probability | Three coins probability | Yīn / Yáng   | Signification | Line |
+|---|--------------------|-------------------|------------|----------------------|----------|
+|     6 | 1/16                     | 2/16                    | old yīn        | yīn changing to yáng | ---x--- |
+|     7 | 5/16  (yáng 8/16)  | 6/16  (yáng 8/16) | young yáng | yáng unchanging      | ------- |
+|     8 | 7/16   (yīn 8/16)    | 6/16   (yīn 8/16)  | young yīn    | yīn unchanging         | --- --- |
+|     9 | 3/16                      | 2/16                   | old yáng     | yáng changing to yīn  | ---o--- |
 
 <a id="fn_287"/>[424:II](#fr_287) Chapter II. The top line in each trigram thus belongs to the category of `heaven`; the bottom line to that of `earth`; and the middle line to that of `man`. The `odd places` should be occupied, `1 correctly`, by the undivided lines; and the `even` by the divided. The trigram being increased to the hexagram, lines `5` and `6` were assigned to `heaven`; `1` and `2` to `earth`; and `3` and `4` to `man`. `5` is the `yáng` characteristic of `heaven`, and `6` the `yīn`; so 1 and 2 in regard to `earth`; while `3` represents the benevolence of `man`, and `4` his `righteousness`. But all this is merely the play of fancy, and confuses the mind of the student.
 
