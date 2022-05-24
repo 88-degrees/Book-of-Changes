@@ -177,4 +177,4 @@
 
 火天大有䷃是异卦，下乾上离，相叠。上卦为离，为火；下卦为乾，为天。火在天上，普照万物，万民归顺，顺天依时，大有所成。
 
-# [Dà Zhuàng ䷡](e5a4a7e5a3aedazhuang.md)
+# [Dà Zhuàng ䷡](../en/e5a4a7e5a3aedazhuang.md)
