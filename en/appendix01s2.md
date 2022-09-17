@@ -115,9 +115,9 @@ That '*it will be advantageous (even) to cross the great stream*' appears from t
 
 <a id="p-248"/>
 
-One rhyme runs through and connects these three paragraphs thus: --
+One rhyme runs through and connects these three paragraphs thus: —
 ```
-'䷩ spoils the high, gives to the low;
+䷩ spoils the high, gives to the low;
 The people feel intense delight.
 Down from above to all below,
 The blessing goes, so large and bright.
@@ -130,7 +130,7 @@ Which progress day by day invite.
 Heaven gives; productive earth responds;
 Increase crowns every vale and height;
 And ceaselessly it hastens on,
-Each season's gifts quick to requite.'
+Each season's gifts quick to requite.
 ```
 <a id="p-249"/>
 
