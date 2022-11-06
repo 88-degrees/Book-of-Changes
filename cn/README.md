@@ -8,12 +8,12 @@
 
 天[乾 ☰]、地[坤 ☷]、雷[震 ☳]、风[巽 ☴]、水[坎 ☵]、火[离 ☲]、山[艮 ☶]、泽[兑 ☱]。
 
-<img src="bagua.png" width="555">
+<img src="../bagua.png" width="555">
 
 [《易经·说卦》](https://ctext.org/dictionary.pl?if=en&id=81915&remap=gb)：
 “是以立天之道曰阴与阳；立地之道曰柔与刚；立人之道曰仁与义；兼三才而两之，故《易》六画而成卦。”
 
-[《京氏易传》](jing/README.md)：“八卦分阴阳，六位，五行。光明四通，变易立节，天地若不变易，不能通气。五行迭终，四时更废，变动不居，周流六虚，上下无常，刚柔相易。不可以为典要，惟变所适。吉凶共列于位，进退明乎机要，易之变化，六爻不可据，以随时所占。”
+[《京氏易传》](../jing/README.md)：“八卦分阴阳，六位，五行。光明四通，变易立节，天地若不变易，不能通气。五行迭终，四时更废，变动不居，周流六虚，上下无常，刚柔相易。不可以为典要，惟变所适。吉凶共列于位，进退明乎机要，易之变化，六爻不可据，以随时所占。”
 
 《易》中的八经卦﹐两两重复排列为六十四卦。
 
@@ -85,27 +85,27 @@
 | * | * | * | * | * | * | * | * | * | * |
 | - | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | - |
 | * | 乾 | 坤 | 屯 | 蒙 | 需 | 讼 | 师 | 比 | * |
-| * | [䷀](cn/e4b9beqian.md) | [䷁](cn/e59da4kun.md) | [䷂](cn/e5b1afzhun.md) | [䷃](cn/e89299meng.md) | [䷄](cn/e99c80xu.md) | [䷅](cn/e8aebcsong.md) | [䷆](cn/e5b888shi.md) | [䷇](cn/e6af94bi.md) | * |
+| * | [䷀](e4b9beqian.md) | [䷁](e59da4kun.md) | [䷂](e5b1afzhun.md) | [䷃](e89299meng.md) | [䷄](e99c80xu.md) | [䷅](e8aebcsong.md) | [䷆](e5b888shi.md) | [䷇](e6af94bi.md) | * |
 | * | qián | kūn | zhūn | méng | xū | sòng | shī | bǐ | * |
 | * | 小畜 | 履 | 泰 | 否 | 同人 | 大有 | 谦 | 豫 | * |
-| * | [䷈](cn/e5b08fe7959cxiaoxu.md) | [䷉](cn/e5b1a5lv.md) | [䷊](cn/e6b3b0tai.md) | [䷋](cn/e590a6pi.md) | [䷌](cn/e5908ce4babatongren.md) | [䷍](cn/e5a4a7e69c89dayou.md) | [䷎](cn/e8b0a6qian.md) | [䷏](cn/e8b1abyu.md) | * |
+| * | [䷈](e5b08fe7959cxiaoxu.md) | [䷉](e5b1a5lv.md) | [䷊](e6b3b0tai.md) | [䷋](e590a6pi.md) | [䷌](e5908ce4babatongren.md) | [䷍](e5a4a7e69c89dayou.md) | [䷎](e8b0a6qian.md) | [䷏](e8b1abyu.md) | * |
 | * | xiǎo xù | lǚ | tài | pǐ | tóng rén | dà yǒu | qiān| yǜ | * |
 | * | 随 | 蛊 | 临 | 观 | 噬嗑 | 贲 | 剥 | 复 | * |
-| * | [䷐](cn/e99a8fsui.md) | [䷑](cn/e89b8agu.md) | [䷒](cn/e4b8b4lin.md) | [䷓](cn/e8a782guan.md) | [䷔](cn/e599ace59791shike.md) | [䷕](cn/e8b4b2bi.md) | [䷖](cn/e589a5bo.md) | [䷗](cn/e5a48dfu.md) | * |
+| * | [䷐](e99a8fsui.md) | [䷑](e89b8agu.md) | [䷒](e4b8b4lin.md) | [䷓](e8a782guan.md) | [䷔](e599ace59791shike.md) | [䷕](e8b4b2bi.md) | [䷖](e589a5bo.md) | [䷗](e5a48dfu.md) | * |
 | * | suí | gǔ | lín | guān | shì kè | bì | bō | fù | * |
 | * | 无妄 | 大畜 | 颐 | 大过 | 坎 | 离 | 咸 | 恒 | * |
-| * | [䷘](cn/e697a0e5a684wuwang.md) | [䷙](cn/e5a4a7e89384daxu.md) | [䷚](cn/e9a290yi.md) | [䷛](cn/e5a4a7e8bf87daguo.md) | [䷜](cn/e59d8ekan.md) | [䷝](cn/e7a6bbli.md) | [䷞](cn/e592b8xian.md) | [䷟](cn/e68192heng.md) | * |
+| * | [䷘](e697a0e5a684wuwang.md) | [䷙](e5a4a7e89384daxu.md) | [䷚](e9a290yi.md) | [䷛](e5a4a7e8bf87daguo.md) | [䷜](e59d8ekan.md) | [䷝](e7a6bbli.md) | [䷞](e592b8xian.md) | [䷟](e68192heng.md) | * |
 | * | wú wàng | dà xù | yí | dà guò | kǎn | lí | xián | héng | * |
 | * | 遯 | 大壮 | 晋 | 明夷 | 家人 | 睽 | 蹇 | 解 | * |
-| * | [䷠](cn/e981afdun.md) | [䷡](cn/e5a4a7e5a3aedazhuang.md) | [䷢](cn/e6998bjin.md) | [䷣](cn/e6988ee5a4b7mingyi.md) | [䷤](cn/e5aeb6e4babajiaren.md) | [䷥](cn/e79dbdkui.md) | [䷦](cn/e8b987jian.md) | [䷧](cn/e8a7a3xie.md) | * |
+| * | [䷠](e981afdun.md) | [䷡](e5a4a7e5a3aedazhuang.md) | [䷢](e6998bjin.md) | [䷣](e6988ee5a4b7mingyi.md) | [䷤](e5aeb6e4babajiaren.md) | [䷥](e79dbdkui.md) | [䷦](e8b987jian.md) | [䷧](e8a7a3xie.md) | * |
 | * | dùn | dà zhuàng | jìn | míng yí | jiā rén | kuí | jiǎn | xiè | * |
 | * | 损 | 益 | 夬 | 姤 | 萃 | 升 | 困 | 井 | * |
-| * | [䷨](cn/e68d9fsun.md) | [䷩](cn/e79b8ayi.md) | [䷪](cn/e5a4acguai.md) | [䷫](cn/e5a7a4gou.md) | [䷬](cn/e89083cui.md) | [䷭](cn/e58d87sheng.md) | [䷮](cn/e59bb0kun.md) | [䷯](cn/e4ba95jing.md) | * |
+| * | [䷨](e68d9fsun.md) | [䷩](e79b8ayi.md) | [䷪](e5a4acguai.md) | [䷫](e5a7a4gou.md) | [䷬](e89083cui.md) | [䷭](e58d87sheng.md) | [䷮](e59bb0kun.md) | [䷯](e4ba95jing.md) | * |
 | * | sǔn | yì | guài | gòu | cuì | shēng | kùn | jǐng | * |
 | * | 革 | 鼎 | 震 | 艮 | 渐 | 归妹 | 丰 | 旅 | * |
-| * | [䷰](cn/e99da9ge.md) | [䷱](cn/e9bc8eding.md) | [䷲](cn/e99c87zhen.md) | [䷳](cn/e889aegen.md) | [䷴](cn/e6b890jian.md) | [䷵](cn/e5bd92e5a6b9guimei.md) | [䷶](cn/e4b8b0feng.md) | [䷷](cn/e69785lv.md) | * |
+| * | [䷰](e99da9ge.md) | [䷱](e9bc8eding.md) | [䷲](e99c87zhen.md) | [䷳](e889aegen.md) | [䷴](e6b890jian.md) | [䷵](e5bd92e5a6b9guimei.md) | [䷶](e4b8b0feng.md) | [䷷](e69785lv.md) | * |
 | * | gé | dǐng | zhèn | gèn | jiàn | guī mèi | fēng | lǚ | * |
 | * | 巽 | 兑 | 涣 | 节 | 中孚 | 小过 | 既济 | 未济 | * |
-| * | [䷸](cn/e5b7bdxun.md) | [䷹](cn/e58591dui.md) | [䷺](cn/e6b6a3huan.md) | [䷻](cn/e88a82jie.md) | [䷼](cn/e4b8ade5ad9azhongfu.md) | [䷽](cn/e5b08fe8bf87xiaoguo.md) | [䷾](cn/e697a2e6b58ejiji.md) | [䷿](cn/e69caae6b58eweiji.md) | * |
+| * | [䷸](e5b7bdxun.md) | [䷹](e58591dui.md) | [䷺](e6b6a3huan.md) | [䷻](e88a82jie.md) | [䷼](e4b8ade5ad9azhongfu.md) | [䷽](e5b08fe8bf87xiaoguo.md) | [䷾](e697a2e6b58ejiji.md) | [䷿](e69caae6b58eweiji.md) | * |
 | * | xùn | duì | huàn | jié | zhōng fú  | xiǎo guò |  jì jì | wèi jì | * |
 | * | * | * | * | * | * | * | * | * | * |
