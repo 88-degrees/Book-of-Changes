@@ -80,5 +80,3 @@ For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
 | * | * | * | * | * | * | * | * | * | * |
 
 ### [Jīng Shì Yì Zhuàn](jing/README_en.md)
-
-- [易之書](README_CN.md)
