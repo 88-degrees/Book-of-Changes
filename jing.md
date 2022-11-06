@@ -6,15 +6,15 @@
 
 ### Arrangement of hexagrams
 
-| [䷀](qian.md#1) 乾 | [䷫](qian.md#44) 姤 | [䷠](qian.md#33) 遁 | [䷋](qian.md#12) 否 | [䷓](qian.md#20) 观 | [䷖](qian.md#23) 剥 | [䷢](qian.md#35) 晋 | [䷍](qian.md#14) 大有 |
+| [䷀](jing/qian.md#1) 乾 | [䷫](jing/qian.md#44) 姤 | [䷠](jing/qian.md#33) 遁 | [䷋](jing/qian.md#12) 否 | [䷓](jing/qian.md#20) 观 | [䷖](jing/qian.md#23) 剥 | [䷢](jing/qian.md#35) 晋 | [䷍](jing/qian.md#14) 大有 |
 |---|---|---|---|---|---|---|---|
-| [䷲](zhen.md#51) 震 | [䷏](zhen.md#16) 豫 | [䷧](zhen.md#40) 解 | [䷟](zhen.md#32) 恒 | [䷭](zhen.md#46) 升 | [䷯](zhen.md#48) 井 | [䷛](zhen.md#28) 大过 | [䷐](zhen.md#17) 随 |
-| [䷜](kan.md#29) 坎 | [䷻](kan.md#60) 节 | [䷂](kan.md#3) 屯 | [䷾](kan.md#63) 既济 | [䷰](kan.md#49) 革 | [䷶](kan.md#55) 丰 | [䷣](kan.md#36) 明夷 | [䷆](kan.md#7) 师 |
-| [䷴](gen.md#52) 艮 | [䷕](gen.md#22) 贲 | [䷙](gen.md#26) 大畜 | [䷨](gen.md#41) 损 | [䷥](gen.md#38) 睽 | [䷉](gen.md#10) 履 | [䷼](gen.md#61) 中孚 | [䷴](gen.md#53) 渐 |
-| [䷁](kun.md#2) 坤 | [䷗](kun.md#24) 复 | [䷒](kun.md#19) 临 | [䷊](kun.md#11) 泰 | [䷡](kun.md#34) 大壮 | [䷪](kun.md#43) 夬 | [䷄](kun.md#5) 需 | [䷇](kun.md#8) 比 |
-| [䷸](xun.md#57) 巽 | [䷈](xun.md#9) 小畜 | [䷤](xun.md#37) 家人 | [䷩](xun.md#42) 益 | [䷘](xun.md#25) 无妄 | [䷔](xun.md#21) 噬嗑 | [䷚](xun.md#27) 颐 | [䷑](xun.md#18) 蛊  |
-| [䷝](li.md#30) 离 | [䷷](li.md#56) 旅 | [䷱](li.md#50) 鼎 | [䷿](li.md#64) 未济 | [䷃](li.md#4) 蒙 | [䷺](li.md#59) 涣 | [䷅](li.md#6) 讼 | [䷌](li.md#13) 同人 |
-| [䷹](dui.md#58) 兑 | [䷮](dui.md#47) 困 | [䷬](dui.md#45) 萃 | [䷞](dui.md#31) 咸 | [䷦](dui.md#39) 蹇 | [䷎](dui.md#15) 谦 | [䷽](dui.md#62) 小过 | [䷴](dui.md#54) 归妹 |
+| [䷲](jing/zhen.md#51) 震 | [䷏](jing/zhen.md#16) 豫 | [䷧](jing/zhen.md#40) 解 | [䷟](jing/zhen.md#32) 恒 | [䷭](jing/zhen.md#46) 升 | [䷯](jing/zhen.md#48) 井 | [䷛](jing/zhen.md#28) 大过 | [䷐](jing/zhen.md#17) 随 |
+| [䷜](jing/kan.md#29) 坎 | [䷻](jing/kan.md#60) 节 | [䷂](jing/kan.md#3) 屯 | [䷾](jing/kan.md#63) 既济 | [䷰](jing/kan.md#49) 革 | [䷶](jing/kan.md#55) 丰 | [䷣](jing/kan.md#36) 明夷 | [䷆](jing/kan.md#7) 师 |
+| [䷴](jing/gen.md#52) 艮 | [䷕](jing/gen.md#22) 贲 | [䷙](jing/gen.md#26) 大畜 | [䷨](jing/gen.md#41) 损 | [䷥](jing/gen.md#38) 睽 | [䷉](jing/gen.md#10) 履 | [䷼](jing/gen.md#61) 中孚 | [䷴](jing/gen.md#53) 渐 |
+| [䷁](jing/kun.md#2) 坤 | [䷗](jing/kun.md#24) 复 | [䷒](jing/kun.md#19) 临 | [䷊](jing/kun.md#11) 泰 | [䷡](jing/kun.md#34) 大壮 | [䷪](jing/kun.md#43) 夬 | [䷄](jing/kun.md#5) 需 | [䷇](jing/kun.md#8) 比 |
+| [䷸](jing/xun.md#57) 巽 | [䷈](jing/xun.md#9) 小畜 | [䷤](jing/xun.md#37) 家人 | [䷩](jing/xun.md#42) 益 | [䷘](jing/xun.md#25) 无妄 | [䷔](jing/xun.md#21) 噬嗑 | [䷚](jing/xun.md#27) 颐 | [䷑](jing/xun.md#18) 蛊  |
+| [䷝](jing/li.md#30) 离 | [䷷](jing/li.md#56) 旅 | [䷱](jing/li.md#50) 鼎 | [䷿](jing/li.md#64) 未济 | [䷃](jing/li.md#4) 蒙 | [䷺](jing/li.md#59) 涣 | [䷅](jing/li.md#6) 讼 | [䷌](jing/li.md#13) 同人 |
+| [䷹](jing/dui.md#58) 兑 | [䷮](jing/dui.md#47) 困 | [䷬](jing/dui.md#45) 萃 | [䷞](jing/dui.md#31) 咸 | [䷦](jing/dui.md#39) 蹇 | [䷎](jing/dui.md#15) 谦 | [䷽](jing/dui.md#62) 小过 | [䷴](jing/dui.md#54) 归妹 |
 
 In spite of its name, the [Yì Zhuàn](https://ctext.org/jingshi-yizhuan) is not really a commentary (`zhuàn 传`) on the oracle book [Yì Jīng](../README.md), but an explanation of a similar, but different system of hexagrams, meaning, a different tradition (`chuán 传`). The names of the hexagrams are identical to the [Yì Jīng](../README.md), but the arrangement is different. They are grouped to eight series of "palace hexagrams" (`gōng bā guà 宫八卦`), in which the head hexagrams changes seven times and so display the relation between hexagram lines and the state (`shì yìng 世应 "correspondence to the world"`), visible and hidden relations between hexagrams and their lines (`fēi fú 飞伏 "flying and crouching"`), changes to other hexagrams by the transformation of one line (`yóu hún 游魂 "wandering spirits"`) and the return to the original hexagram (`guī hún 归魂 "returning spirits"`) etc. on the transformation of all circumstances under Heaven, including politics and personal life.
 
