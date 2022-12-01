@@ -36,13 +36,13 @@
 
 > Matching Line 4 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.4)
 
-5.<a id="16.5"/> The fifth six, divided, shows one with a chronic complaint, but who lives on without dying.
+5.<a id="16.5"/> The fifth `SIX`, divided, shows one with a chronic complaint, but who lives on without dying.
 
 > **䷏** changing to [**䷬**](e89083cui.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷎**](e8b0a6qian.md#15.5)
 
-6.<a id="16.6"/> The topmost six, divided, shows its subject with darkened mind devoted to the pleasure and satisfaction (of the time); but if he change his course even when (it may be considered as) completed, there will be no error.
+6.<a id="16.6"/> The topmost `SIX`, divided, shows its subject with darkened mind devoted to the pleasure and satisfaction (of the time); but if he change his course even when (it may be considered as) completed, there will be no error.
 
 > **䷏** changing to [**䷢**](e6998bjin.md)
 

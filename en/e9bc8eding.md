@@ -38,7 +38,7 @@
 
 <a id="p-171"/>
 
-5.<a id="50.5"/> The fifth six, divided, shows the caldron with yellow ears and rings of metal in them. There will be advantage through being firm and correct.
+5.<a id="50.5"/> The fifth `SIX`, divided, shows the caldron with yellow ears and rings of metal in them. There will be advantage through being firm and correct.
 
 > **䷱** changing to [**䷫**](e5a7a4gou.md#44.5)
 

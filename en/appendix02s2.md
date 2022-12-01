@@ -182,7 +182,7 @@ and prevent all occasion for repentance:' -- there has not yet been any harm fro
 
 4. 'He diminishes the ailment under which he labours:' -- this is matter for joy.
 
-5. 'The great good fortune attached to the fifth six, (divided),' is due to the blessing from above.
+5. 'The great good fortune attached to the fifth `SIX`, (divided),' is due to the blessing from above.
 
 6. 'He gives increase to others without taking from what is his own:' -- he obtains his wish on a grand scale.
 
@@ -456,7 +456,7 @@ ears changed:' -- (its subject) has failed in what was required of him (in his s
 
 'He meets with the subject of the line, undivided like himself. There will be good fortune:' -- action may be taken.
 
-5. 'The good fortune indicated by the fifth six, (divided),'is the congratulation (that is sure to arise).
+5. 'The good fortune indicated by the fifth `SIX`, (divided),'is the congratulation (that is sure to arise).
 
 6. 'He has made his house large:' -- he soars (in his pride) to the heavens.
 

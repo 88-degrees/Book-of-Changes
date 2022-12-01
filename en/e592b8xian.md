@@ -43,7 +43,7 @@ Its advantageousness will depend on the being firm and correct, (as) in marrying
 
 > Matching Line 5 in Adjacent Hexagram: [**䷟**](e68192heng.md#32.5)
 
-6.<a id="31.6"/> The sixth six, divided, shows one moving his jaws and tongue.
+6.<a id="31.6"/> The sixth `SIX`, divided, shows one moving his jaws and tongue.
 
 > **䷞** changing to [**䷠**](e981afdun.md)
 

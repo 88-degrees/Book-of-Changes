@@ -36,13 +36,13 @@ Chinese: shēng 升 ䷭
 
 > Matching Line 4 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.4)
 
-5.<a id="46.5"/> The fifth six, divided, shows its subject firmly correct, and therefore enjoying good fortune. He ascends the stairs (with all due ceremony).
+5.<a id="46.5"/> The fifth `SIX`, divided, shows its subject firmly correct, and therefore enjoying good fortune. He ascends the stairs (with all due ceremony).
 
 > **䷭** changing to [**䷯**](e4ba95jing.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷬**](e89083cui.md#45.5)
 
-6.<a id="46.6"/> The sixth six, divided, shows its subject advancing upwards blindly. Advantage will be found in a ceaseless maintenance of firm correctness.
+6.<a id="46.6"/> The sixth `SIX`, divided, shows its subject advancing upwards blindly. Advantage will be found in a ceaseless maintenance of firm correctness.
 
 > **䷭** changing to [**䷑**](e89b8agu.md)
 

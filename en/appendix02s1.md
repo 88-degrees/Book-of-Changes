@@ -274,7 +274,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 4. '*From him the harmony and satisfaction come; great is the success which he obtains*:' -- his aims take effect on a grand scale.
 
-5. '*(The subject of) the fifth six has a chronic complaint*:' -- this is shown by his being mounted on the strong (line). '*He still lives on without dying*:' -- he is in the central position, (and its memories of the past) have not yet perished.
+5. '*(The subject of) the fifth `SIX` has a chronic complaint*:' -- this is shown by his being mounted on the strong (line). '*He still lives on without dying*:' -- he is in the central position, (and its memories of the past) have not yet perished.
 
 6. '*With darkened mind devoted to the harmony and satisfaction (of the time)*,' as shown in the topmost (line): -- how can one in such a condition continue long?
 
@@ -372,7 +372,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 4. 'The place occupied by the fourth six, (divided),' affords ground for doubt (as to its subject); but '(as the subject of the third pursues) not as a robber, but as intent on a matrimonial alliance,' he will in the end have no grudge against him.
 
-5. 'The good fortune falling to the fifth six, (divided); affords occasion for joy.
+5. 'The good fortune falling to the fifth `SIX`, (divided); affords occasion for joy.
 
 6. 'The freedom from error attached to (the subject of) the topmost line, with no ornament but the (simple white),' shows how he has attained his aim.
 
@@ -438,7 +438,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 4. 'The great good fortune indicated by the fourth six, (divided),' shows that there is occasion for joy.
 
-5. 'The good fortune indicated by the fifth six, (divided),' shows that there is occasion for congratulation.
+5. 'The good fortune indicated by the fifth `SIX`, (divided),' shows that there is occasion for congratulation.
 
 6. 'In command of the firmament of heaven:' -- the way is grandly open for movement.
 
