@@ -58,7 +58,7 @@ The translation of paragraph 1 is according to the view approved by the [Kāng X
 
 For paragraph 2, see [Appendix III, Section i, 42](appendix03s1.md#p-361). It is in rhyme, and I have there rendered it in rhyme. The `young ones of the crane` are represented by line 1. In the third and fourth sentences we have the symbolism of two men brought together by their sympathy in virtue. The subject of the paragraph is the effect of sincerity.
 
-The `mate` of line 3 is 6. The principle of correlation comes in. Sincerity, not left to itself, is influenced from without, and hence come the changes and uncertainty in the state and moods of the subject of the line.
+The `mate of line 3` is `line 6`. The principle of correlation comes in. Sincerity, not left to itself, is influenced from without, and hence come the changes and uncertainty in the state and moods of the subject of the line.
 
 Line 4 is weak, and in its correct place. The subject of it has discarded the correlate in 1, and hastens on to the confidence of the ruler in 5, being symbolised as the moon nearly full. The other symbol of the horse whose fellow has disappeared has reference to the discarding of the subject of 1. Anciently chariots and carriages were drawn by four horses, two outsides and two insides. Lines 1 and 4 were a pair of these; but 1 disappears here from the team, and 4 goes on and joins 5.
 
