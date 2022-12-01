@@ -36,13 +36,13 @@ In **䷊ Tài** (we see) the little gone and the great come. (It indicates that)
 
 > Matching Line 4 in Adjacent Hexagram: [**䷋**](e590a6pi.md#12.4)
 
-5.<a id="11.5"/> The fifth six, divided, reminds us of (king) [Dì Yǐ](https://en.wikipedia.org/wiki/Di_Yi)'s (rule about the) marriage of his younger sister. By such a course there is happiness and there will be great good fortune.
+5.<a id="11.5"/> The fifth `SIX`, divided, reminds us of (king) [Dì Yǐ](https://en.wikipedia.org/wiki/Di_Yi)'s (rule about the) marriage of his younger sister. By such a course there is happiness and there will be great good fortune.
 
 > **䷊** changing to [**䷄**](e99c80xu.md)
 
 > Matching Line 5 in Adjacent Hexagram: [**䷋**](e590a6pi.md#12.5)
 
-6.<a id="11.6"/> The sixth six, divided, shows us the city wall returned into the moat. It is not the time to use the army. (The subject of the line) may, indeed, announce his orders to the people of his own city; but however correct and firm he may be, he will have cause for regret.
+6.<a id="11.6"/> The sixth `SIX`, divided, shows us the city wall returned into the moat. It is not the time to use the army. (The subject of the line) may, indeed, announce his orders to the people of his own city; but however correct and firm he may be, he will have cause for regret.
 
 > **䷊** changing to [**䷙**](e5a4a7e89384daxu.md)
 
