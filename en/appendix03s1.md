@@ -165,7 +165,7 @@ The words they in their union use,
 Fragrance like orchid plants diffuse.'
 ```
 
-44. '*The first six, (divided), shows its subject placing mats of the white grass beneath what he sets on the ground.*' The Master said: -- '*To place the things on the ground might be considered sufficient; but when he places beneath them mats of the white grass, what occasion for blame can there be? Such a course shows the height of carefulness. The white grass is a trivial thing, but, through the use made of it, it may become important. He who goes forward using such careful art will not fall into any error.*'
+44. '*The first `SIX`, (divided), shows its subject placing mats of the white grass beneath what he sets on the ground.*' The Master said: -- '*To place the things on the ground might be considered sufficient; but when he places beneath them mats of the white grass, what occasion for blame can there be? Such a course shows the height of carefulness. The white grass is a trivial thing, but, through the use made of it, it may become important. He who goes forward using such careful art will not fall into any error.*'
 
 45. '*A superior man toiling laboriously and yet humble! He will bring things to an end, and with good fortune.*' The Master said on this: -- '*He toils with success, but does not boast of it; he achieves merit, but takes no virtue to himself from it; -- this is the height of generous goodness, and speaks of the man who with (great) merit yet places himself below others. He wishes his virtue to be more and more complete, and in his intercourse with others to be more and more respectful; -- he who is so humble, carrying his respectfulness to the utmost, will be able to preserve himself in his position.*'
 
