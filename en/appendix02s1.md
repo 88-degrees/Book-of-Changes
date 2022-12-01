@@ -28,7 +28,7 @@
 
 1. '*He is treading on hoarfrost; -- the strong ice will come (by and by)*:' -- the cold (air) has begun to take form. Allow it to go on quietly according to its nature, and (the hoarfrost) will come to strong ice.
 
-2. The movement indicated by the second six, (divided),is '*from the straight (line) to the square*.' '(Its operation), without repeated effort, in every way advantageous,' shows the brilliant result of the way of earth.
+2. The movement indicated by the second `SIX`, (divided),is '*from the straight (line) to the square*.' '(Its operation), without repeated effort, in every way advantageous,' shows the brilliant result of the way of earth.
 
 3. '*He keeps his excellence tinder restraint, but firmly maintains it*:' -- at the proper time he will manifest it. 'He may have occasion to engage in the king's service: -- great is the glory of his wisdom.
 
@@ -48,7 +48,7 @@ S. '*The Yellow lower-garment; -- there will be great good fortune*:' -- this fo
 
 1. Although '*there is a difficulty in advancing*,' the mind (of the subject of the line) is set on doing what is correct. While noble, he humbles himself to the mean, and grandly gains the people.
 
-2. The difficulty (to the subject of) the second six, (divided), arises from, its place over the undivided line below it. '*The union and children after ten years*' shows things resuming their regular course.
+2. The difficulty (to the subject of) the second `SIX`, (divided), arises from, its place over the undivided line below it. '*The union and children after ten years*' shows things resuming their regular course.
 
 3. '*One pursues the deer without the (guidance of the) forester*:' -- (he does so) in (his eagerness to) follow the game. 'The superior man gives up the chase, (knowing that) if he go forward he will regret it:' -- he would be reduced to extremity.
 
@@ -266,7 +266,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 <a id="p-288"/>
 
-1. '*The (subject of the) first six proclaims his pleasure and satisfaction*:' -- there will be evil; his wishes have been satisfied to overflowing.
+1. '*The (subject of the) first `SIX` proclaims his pleasure and satisfaction*:' -- there will be evil; his wishes have been satisfied to overflowing.
 
 2. '*(He sees a thing) without waiting till it has come to pass; with his firm correctness there will be good fortune*:' -- this is shown by the central and correct position (of the line).
 
@@ -330,7 +330,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 <a id="fr_209"/>[XX](#fn_209). (The trigram **☷** representing) the earth, and **☴** that for wind moving above it, form [**䷓ Guān**](e8a782guan.md). The ancient kings, in accordance with this, examined the (different) regions (of the kingdom), to see the (ways of the) people, and set forth their instructions.
 
-1. 'The looking of a lad shown by the first six, (divided); indicates the way of the inferior people.
+1. 'The looking of a lad shown by the first `SIX`, (divided); indicates the way of the inferior people.
 
 <a id="p-293"/>
 
@@ -370,7 +370,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 3. 'The good fortune consequent on his ever maintaining firm correctness' is due to this,--that to the end no one will insult him.
 
-4. 'The place occupied by the fourth six, (divided),' affords ground for doubt (as to its subject); but '(as the subject of the third pursues) not as a robber, but as intent on a matrimonial alliance,' he will in the end have no grudge against him.
+4. 'The place occupied by the fourth `SIX`, (divided),' affords ground for doubt (as to its subject); but '(as the subject of the third pursues) not as a robber, but as intent on a matrimonial alliance,' he will in the end have no grudge against him.
 
 5. 'The good fortune falling to the fifth `SIX`, (divided); affords occasion for joy.
 
@@ -436,7 +436,7 @@ for the sky forms [**䷄ Xū**](e99c80xu.md). The superior man, in accordance wi
 
 3. 'There will be advantage in whatever direction he may advance:' -- (the subject of) the topmost line is of the same mind with him.
 
-4. 'The great good fortune indicated by the fourth six, (divided),' shows that there is occasion for joy.
+4. 'The great good fortune indicated by the fourth `SIX`, (divided),' shows that there is occasion for joy.
 
 5. 'The good fortune indicated by the fifth `SIX`, (divided),' shows that there is occasion for congratulation.
 
