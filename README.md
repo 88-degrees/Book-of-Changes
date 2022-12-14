@@ -21,6 +21,8 @@ A [Yì Jīng](https://ctext.org/book-of-changes) (Chinese: 易经) (or `I Ching`
 
 There are actually four possible values for each of the lines; the two on/off values, and a line which changes from on to off or vice versa. Thus one cast of the I Ching can generate two different hexagrams, which adds depth to the interpretation. The sophistication of this method has not escaped modern interpretation, and the four-valued logic has been compared to the biochemistry of [DNA amino acid](https://www.genome.gov/genetics-glossary/Genetic-Code).
 
+> There are [four things](https://image.slidesharecdn.com/random-150428005651-conversion-gate02/95/-15-638.jpg?cb=1430200687) characteristic of the way of the sages. We should set the highest value on its explanations, to guide us in speaking; on its changes, for the initiation of our movements; on its emblematic figures, for definite action, as in the construction of implements; and on its prognostications, for our practice of divination.
+
 <img src="global-1.jpg" width="444" alt="Yi Global">
 
 | ☷ | ☶ | ☵ | ☴ | ☳ | ☲ | ☱ | ☰ | ∞ |
