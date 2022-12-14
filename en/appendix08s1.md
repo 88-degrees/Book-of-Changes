@@ -14,7 +14,7 @@ The words with which we have at present to do are 'The `Hé`([河](https://ctext
 
 All this is so evidently fabulous that it seems a waste of time to enter into any details about it. My reason for doing so is a wish to take advantage of the map in giving such a statement of the rules observed in interpreting the figures as is necessary in this Introduction.
 
-<img src="hetu.png" width="202" align="left">
+<img src="../hetu.png" width="202" align="left">
 
 The map that was preserved, it has been seen, in the eleventh century B.C., afterwards perished, and though there was much speculation about its form from the time that the restoration of the ancient classics was undertaken in the [Hàn dynasty](https://en.wikipedia.org/wiki/Han_dynasty), the first delineation of it given to the public was in the reign of [Huī Zōng](https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song) of the Sòng dynasty (A. D. 1101-1125). The most approved scheme of it is the following: -- It will be observed that the markings in this scheme are small circles, pretty nearly equally divided into dark and light. All of them whose numbers are odd are light circles, `1, 3, 5, 7, 9`; and all of them whose numbers are even are dark, -- `2, 4, 6, 8, 10`. This is given as the origin of what is said in [paragraphs 49 and 50 of Section I](appendix03s1.md#fr_262) about the numbers of heaven and earth. The difference in the colour of the circles occasioned the distinction of them and of what they signify into `yīng` and `yáng`, the `dark` and the `bright`, the `moon-like` and the `sun-like`; for the `sun` is called the `Great Brightness`(`Tài Yáng`[太阳](https://g.co/kgs/me9gT6)), and the `moon` is called the `Great Obscurity`(`Tài Yīng`[太阴](https://en.wikipedia.org/wiki/Moon)). I shall have more to say in the next chapter on the application of these names. [Fú Xī](https://en.wikipedia.org/wiki/Fuxi) in making the trigrams, and king [Wén](https://en.wikipedia.org/wiki/King_Wen_of_Zhou), if it was he who first multiplied them to the 64 hexagrams, found it convenient to use lines instead of the circles: -- the whole line (<font size="5">⚊</font>) for the bright circle (○), and the divided line (<font size="5">⚋</font>) for the dark (●). The first, the third, and the fifth lines in a hexagram, if they are 'correct' as it is called, should all be whole, and the second, fourth, and sixth lines should all be divided. `Yáng` lines are strong (or hard), and `Yīn` lines are weak (or soft). The former indicate vigour and authority; the latter, feebleness and submission. It is the part of the former to command; of the latter to obey.
 
@@ -30,7 +30,7 @@ My own opinion, as I have intimated, is, that the second, account of the origin 
 
 <a id="p-18"/>
 
-<img src="luoshu.svg" width="202" align="left">
+<img src="../luoshu.svg" width="202" align="left">
 
 But substituting numbers for the number of marks, we have:
 
