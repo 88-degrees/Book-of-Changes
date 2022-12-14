@@ -209,7 +209,7 @@ Chapter <a id="fr_262"/>[IX](#fn_262).
 
 Chapter <a id="fr_263"/>[X](#fn_263).
 
-59. In the [Yì Jīng](https://ctext.org/book-of-changes) there are four things characteristic of the way of the sages. We should set the highest value on its explanations to guide us in speaking; on its changes for (the initiation of) our movements; on its emblematic figures for (definite action as in) the construction of implements; and on its prognostications for our practice of divination.
+59. In the [Yì Jīng](https://ctext.org/book-of-changes) there are `four things` characteristic of the way of the sages. We should set the highest value on its explanations to guide us in speaking; on its changes for (the initiation of) our movements; on its emblematic figures for (definite action as in) the construction of implements; and on its prognostications for our practice of divination.
 
 <a id="p-368"/>
 
@@ -227,7 +227,7 @@ Chapter <a id="fr_263"/>[X](#fn_263).
 
 64. 'Those operations searched out what was deep:' -- therefore they could penetrate to the views of all under the sky. 'They made apparent the minutest springs of (things):' -- therefore they could bring to a completion all undertakings under the sky. 'Their action was spirit-like:' -- therefore they could make speed without hurry, and reached their destination without travelling.
 
-65. This is the import of what the Master said, that '*In the [Yì Jīng](https://ctext.org/book-of-changes) there are four things indicating the way of the sages.*'
+65. This is the import of what the Master said, that '*In the [Yì Jīng](https://ctext.org/book-of-changes) there are `four things` indicating the way of the sages.*'
 
 <a id="p-371"/>
 
@@ -375,7 +375,7 @@ We may grant what is affirmed in paragraph 58, but does the [Yì Jīng](https://
 
 <a id="fn_263"/>[370:X](#fr_263) Chapter X, paragraphs 59-65, enlarges on the service rendered to men by the [Yì Jīng](https://ctext.org/book-of-changes), owing to the way in which it was made by the sages to express their views and carry into effect their wishes.
 
-Paragraph 59 mentions the four things in which its usefulness appears. `The emblematic figures` are [the four Xiàng](https://en.wikipedia.org/wiki/Four_Symbols), which are produced by the manipulation of the [undivided and divided lines](#p-371), and whose representative numbers are 9, 8, 7, 6. 'Divination' appears in the paragraph as `Bǔ Shì`([卜筮](https://en.wiktionary.org/wiki/卜筮)), which means '*divination by the [tortoise-shell](shi.jpg) and by the [stalks](shi.jpg).*' But the tortoise-shell had nothing to do with the use of the [Yì Jīng](https://ctext.org/book-of-changes). Before the composition of these Appendixes the two terms must have been combined to express the practice of divination, without reference to its mode.
+Paragraph 59 mentions the `four things` in which its usefulness appears. `The emblematic figures` are [the four Xiàng](https://en.wikipedia.org/wiki/Four_Symbols), which are produced by the manipulation of the [undivided and divided lines](#p-371), and whose representative numbers are 9, 8, 7, 6. 'Divination' appears in the paragraph as `Bǔ Shì`([卜筮](https://en.wiktionary.org/wiki/卜筮)), which means '*divination by the [tortoise-shell](shi.jpg) and by the [stalks](shi.jpg).*' But the tortoise-shell had nothing to do with the use of the [Yì Jīng](https://ctext.org/book-of-changes). Before the composition of these Appendixes the two terms must have been combined to express the practice of divination, without reference to its mode.
 
 Paragraph 60 speaks of the explanations and prognostications of the [Yì Jīng](https://ctext.org/book-of-changes). The `exquisiteness` ascribed to it would be due to the sages who had devised it, and appended their explanations to it; but the whole thing has no existence save in cloud-land.
 
