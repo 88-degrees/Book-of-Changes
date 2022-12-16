@@ -87,3 +87,7 @@ For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
 You can [**Donate in Nano**](https://nano.to/nano_1epekqnnr185e6dparfchfy7zbthfddu7isatwqo9yoaejs6qztiza3rs8kr?title=Donate&success_url=https://iclass.cc/success?id={{id}}&cancel_url=https://iclass.cc/) to support this project.
 
 [![Donate](https://brianmacdonald.github.io/Ethonate/svg/eth-donate-blue.svg)](https://brianmacdonald.github.io/Ethonate/address#0xD5645363C02044482983E60a58eb8A0a8DA2588C)
+
+<a href="https://donate.cafe/Tenet">
+  <img style="width:150px" src="https://newbie.zeromesh.net/donate.7.6.svg" />
+</a>
