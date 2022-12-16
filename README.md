@@ -84,4 +84,6 @@ For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
 
 > There is a commentary on and alternative version of **Yì Jīng**, named [**Jīng Shì Yì Zhuàn**](jing.md).
 
-### [Donate in Nano](https://nano.to/nano_1epekqnnr185e6dparfchfy7zbthfddu7isatwqo9yoaejs6qztiza3rs8kr?title=Donate&success_url=https://iclass.cc/success?id={{id}}&cancel_url=https://iclass.cc/) to support this project, thanks.
+You can [**Donate in Nano**](https://nano.to/nano_1epekqnnr185e6dparfchfy7zbthfddu7isatwqo9yoaejs6qztiza3rs8kr?title=Donate&success_url=https://iclass.cc/success?id={{id}}&cancel_url=https://iclass.cc/) to support this project.
+
+[![Donate](https://brianmacdonald.github.io/Ethonate/svg/eth-donate-blue.svg)](https://brianmacdonald.github.io/Ethonate/address#0xD5645363C02044482983E60a58eb8A0a8DA2588C)
