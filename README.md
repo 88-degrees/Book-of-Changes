@@ -89,5 +89,5 @@ For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
 </a>
 
 <a href="https://brianmacdonald.github.io/Ethonate/address#0xD5645363C02044482983E60a58eb8A0a8DA2588C">
-  <img style="width:111px" src="https://brianmacdonald.github.io/Ethonate/svg/eth-donate-blue.svg>
+  <img style="width:111px" src="https://brianmacdonald.github.io/Ethonate/svg/eth-donate-blue.svg" />
 </a>
