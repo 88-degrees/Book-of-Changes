@@ -27,7 +27,7 @@ A line **⚋** is called `SIX`, divided.
 
 Read the HEXAGRAM from bottom to top.
 
-For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
+For example, [**䷇**](en/e6af94bi.md) means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
 
 <img src="global-2.jpg" width="444" alt="Yi Global">
  
@@ -68,6 +68,8 @@ For example, **䷇** means: `SIX`, `SIX`, `SIX`, `SIX`, `SIX`, `NINE`, `SIX`.
 | * | * | * | * | * | * | * | * | * | * |
 
 > There is a commentary on and alternative version of **Yì Jīng**, named [**Jīng Shì Yì Zhuàn**](jing.md).
+
+<a id="notes"/>
 
 |  | Nature | Feature | Body | Animal |  | 
 |---| :-: | :--: | :--: | :--: | :-: | 
